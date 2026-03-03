@@ -54,4 +54,5 @@ jobs:
           # Only commit if there are actual changes
           git diff --cached --quiet || \
             git commit -m "📰 Auto-update news data $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
           git push
