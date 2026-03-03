@@ -18,6 +18,7 @@ import json
 import os
 import sys
 import re
+import time
 import traceback
 from datetime import datetime, timezone
 from pathlib import Path
@@ -211,16 +212,32 @@ def summarize_with_llm(
 
     print(f"  🤖 Calling LLM ({model}) for '{category}'...")
     print(f"     Sending {len(articles)} articles ({len(user_msg)} chars)")
-    response = client.chat.completions.create(
-        model=model,
-        temperature=0.3,
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user",   "content": user_msg},
-        ],
-    )
 
-    raw = response.choices[0].message.content or "[]"
+    # Retry with exponential backoff for rate limits (free tier)
+    raw = None
+    for attempt in range(4):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                temperature=0.3,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user",   "content": user_msg},
+                ],
+            )
+            raw = response.choices[0].message.content or "[]"
+            break
+        except Exception as exc:
+            if "429" in str(exc) or "rate" in str(exc).lower():
+                wait = 15 * (attempt + 1)  # 15s, 30s, 45s, 60s
+                print(f"  ⏳ Rate limited (attempt {attempt+1}/4), waiting {wait}s...")
+                time.sleep(wait)
+            else:
+                raise
+
+    if raw is None:
+        print(f"  ❌ All LLM retries failed for '{category}'")
+        return []
     print(f"     LLM response length: {len(raw)} chars")
 
     # Strip markdown code fences if the model included them
@@ -274,6 +291,10 @@ def main() -> None:
             print(f"  ❌ LLM call failed for '{category}': {exc}")
             traceback.print_exc()
             items = []
+
+        # Delay between categories to respect free-tier rate limits
+        print(f"  💤 Waiting 10s before next category...")
+        time.sleep(10)
 
         all_data[category] = items
 
