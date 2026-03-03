@@ -1,30 +1,27 @@
 #!/usr/bin/env python3
 """
-Anti-FOMO Daily — News Fetcher (No-AI Mode)
+Anti-FOMO Daily — News Fetcher & Summariser
 ============================================
-Fetches RSS feeds → picks top 3 per category → writes public/data.json.
-No LLM required! Titles and summaries come directly from the RSS feed.
-
-Usage:
-    python scripts/fetch_and_summarize.py
+Fetches RSS feeds → tries AI summarisation → falls back to raw RSS if AI fails.
 """
 
 from __future__ import annotations
 
 import json
+import os
 import re
+import time
 import traceback
 from datetime import datetime, timezone
 from pathlib import Path
+from textwrap import dedent
 
 import feedparser
-
-# ─── Configuration ───────────────────────────────────────────────────
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH  = PROJECT_ROOT / "public" / "data.json"
 
-RSS_FEEDS: dict[str, list[dict[str, str]]] = {
+RSS_FEEDS = {
     "ai": [
         {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/"},
         {"name": "Ars Technica – AI",     "url": "https://feeds.arstechnica.com/arstechnica/technology-lab"},
@@ -34,87 +31,182 @@ RSS_FEEDS: dict[str, list[dict[str, str]]] = {
         {"name": "BBC News – World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
     ],
     "stocks": [
-        {"name": "CNBC – Markets",          "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"},
-        {"name": "MarketWatch – Top Stories","url": "https://feeds.marketwatch.com/marketwatch/topstories/"},
+        {"name": "CNBC – Markets",           "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"},
+        {"name": "MarketWatch – Top Stories", "url": "https://feeds.marketwatch.com/marketwatch/topstories/"},
     ],
 }
 
-ITEMS_PER_CATEGORY = 3
-
-# ─── Fetch & Build ──────────────────────────────────────────────────
+# ─── RSS Fetching ────────────────────────────────────────────────────
 
 def clean_html(text: str) -> str:
-    """Strip HTML tags from RSS descriptions."""
     return re.sub(r"<[^>]+>", "", text).strip()
 
-
-def fetch_category(category: str) -> list[dict]:
-    """Fetch RSS, pick top articles, format for the frontend."""
-    feeds = RSS_FEEDS.get(category, [])
-    all_articles: list[dict] = []
-
-    for feed_info in feeds:
-        name, url = feed_info["name"], feed_info["url"]
+def fetch_rss(category: str) -> list[dict]:
+    articles = []
+    for feed in RSS_FEEDS.get(category, []):
         try:
-            print(f"  📡 {name}...")
-            parsed = feedparser.parse(url)
+            print(f"  📡 {feed['name']}...")
+            parsed = feedparser.parse(feed["url"])
             if parsed.bozo and not parsed.entries:
-                print(f"  ⚠️  {name}: feed error, skipping")
                 continue
-
-            for entry in parsed.entries[:10]:
-                title = entry.get("title", "").strip()
-                desc  = clean_html(entry.get("summary", entry.get("description", "")))[:300]
-                link  = entry.get("link", "")
-
-                pub_date = ""
+            for entry in parsed.entries[:8]:
+                pub = ""
                 if hasattr(entry, "published_parsed") and entry.published_parsed:
-                    pub_date = datetime(*entry.published_parsed[:6],
-                                        tzinfo=timezone.utc).strftime("%Y-%m-%d")
-
-                all_articles.append({
-                    "title": title,
-                    "summary": desc,
-                    "source": name,
-                    "date": pub_date or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-                    "link": link,
+                    pub = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc).strftime("%Y-%m-%d")
+                articles.append({
+                    "title": entry.get("title", "").strip(),
+                    "summary": clean_html(entry.get("summary", entry.get("description", "")))[:300],
+                    "source": feed["name"],
+                    "date": pub or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
                 })
+            print(f"  ✅ {feed['name']}: {min(len(parsed.entries), 8)} items")
+        except Exception as e:
+            print(f"  ❌ {feed['name']}: {e}")
+    return articles
 
-            print(f"  ✅ {name}: {len(parsed.entries)} articles")
-        except Exception as exc:
-            print(f"  ❌ {name}: {exc}")
-            traceback.print_exc()
-
-    # Pick top N (they're already sorted by recency from the feed)
-    top = all_articles[:ITEMS_PER_CATEGORY]
-
-    # Format for frontend: use same text for all 3 languages (no AI translation)
+def raw_fallback(category: str, articles: list[dict]) -> list[dict]:
+    """Format raw RSS as frontend-compatible items (no translation)."""
     prefix = category[:3]
-    result = []
-    for i, a in enumerate(top):
-        result.append({
+    return [
+        {
             "id": f"{prefix}-{i+1}",
             "title":   {"zh": a["title"], "en": a["title"], "de": a["title"]},
             "summary": {"zh": a["summary"], "en": a["summary"], "de": a["summary"]},
-            "source":  a["source"],
-            "date":    a["date"],
-        })
+            "source": a["source"],
+            "date": a["date"],
+        }
+        for i, a in enumerate(articles[:3])
+    ]
 
-    return result
+# ─── AI Summarisation (optional) ────────────────────────────────────
 
+SYSTEM_PROMPT = dedent("""\
+    You are "Anti-FOMO Daily", an elite intelligence analyst.
+    Read ALL raw articles below (grouped by category) and produce a daily briefing.
 
-def main() -> None:
+    Rules:
+    1. For EACH category (ai, politics, stocks), pick the 3 most important stories.
+    2. Write a short title and 2-3 sentence summary for each.
+    3. Every title and summary must have 3 languages: zh (Simplified Chinese), en (English), de (German).
+    4. Keep tone professional, neutral, informative.
+    5. Return ONLY valid JSON — no markdown fences, no extra text.
+
+    Required JSON shape:
+    {
+      "aiNews": [
+        {"id": "ai-1", "title": {"zh":"..","en":"..","de":".."}, "summary": {"zh":"..","en":"..","de":".."}, "source": "..", "date": "YYYY-MM-DD"},
+        {"id": "ai-2", ...}, {"id": "ai-3", ...}
+      ],
+      "politicsNews": [{"id": "pol-1", ...}, ...],
+      "stockNews": [{"id": "stk-1", ...}, ...]
+    }
+""")
+
+def try_ai_summarize(all_articles: dict[str, list[dict]]) -> dict | None:
+    """Try to call OpenAI/Gemini. Returns parsed JSON or None on failure."""
+    provider = os.getenv("LLM_PROVIDER", "").lower()
+    if not provider:
+        print("\n⏭️  No LLM_PROVIDER set, skipping AI")
+        return None
+
+    try:
+        from openai import OpenAI
+    except ImportError:
+        print("\n⏭️  openai package not installed, skipping AI")
+        return None
+
+    # Build client
+    if provider == "gemini":
+        key   = os.getenv("GEMINI_API_KEY", "")
+        model = os.getenv("GEMINI_MODEL", "gemini-2.0-flash-lite")
+        client = OpenAI(api_key=key, base_url="https://generativelanguage.googleapis.com/v1beta/openai/")
+    elif provider == "deepseek":
+        key   = os.getenv("DEEPSEEK_API_KEY", "")
+        model = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
+        client = OpenAI(api_key=key, base_url="https://api.deepseek.com")
+    else:  # openai
+        key   = os.getenv("OPENAI_API_KEY", "")
+        model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+        client = OpenAI(api_key=key)
+
+    if not key:
+        print(f"\n⏭️  No API key for '{provider}', skipping AI")
+        return None
+
+    # Build prompt
+    sections = []
+    for cat, label in [("ai", "AI / FRONTIER SCIENCE"), ("politics", "GLOBAL POLITICS"), ("stocks", "STOCK MARKET")]:
+        arts = all_articles.get(cat, [])
+        if arts:
+            items = "\n".join(f"- [{a['source']}] {a['title']}: {a['summary'][:150]}" for a in arts)
+            sections.append(f"=== {label} ===\n{items}")
+
+    user_msg = "\n\n".join(sections)
+    print(f"\n🤖 Calling {provider} ({model})...")
+
+    # Call with retry
+    for attempt in range(3):
+        try:
+            resp = client.chat.completions.create(
+                model=model, temperature=0.3,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user",   "content": user_msg},
+                ],
+            )
+            raw = resp.choices[0].message.content or "{}"
+            raw = re.sub(r"^```(?:json)?\s*", "", raw.strip())
+            raw = re.sub(r"\s*```$", "", raw.strip())
+            data = json.loads(raw)
+            print(f"   ✅ AI summarisation succeeded!")
+            return data
+        except Exception as exc:
+            if "429" in str(exc) or "quota" in str(exc).lower():
+                wait = 20 * (attempt + 1)
+                print(f"   ⏳ Rate limited (attempt {attempt+1}/3), waiting {wait}s...")
+                time.sleep(wait)
+            else:
+                print(f"   ❌ AI failed: {exc}")
+                return None
+
+    print("   ❌ All AI retries exhausted")
+    return None
+
+# ─── Main ────────────────────────────────────────────────────────────
+
+def main():
     print("=" * 56)
-    print("  Anti-FOMO Daily — News Fetcher (No-AI Mode)")
+    print("  Anti-FOMO Daily — News Fetcher")
     print(f"  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 56)
 
-    output = {"generatedAt": datetime.now(timezone.utc).isoformat()}
+    # Stage 1: Fetch RSS
+    all_articles = {}
+    for cat in ("ai", "politics", "stocks"):
+        print(f"\n📂 {cat.upper()}")
+        all_articles[cat] = fetch_rss(cat)
 
-    for category, key in [("ai", "aiNews"), ("politics", "politicsNews"), ("stocks", "stockNews")]:
-        print(f"\n📂 {category.upper()}")
-        output[key] = fetch_category(category)
+    # Stage 2: Try AI, fallback to raw
+    ai_result = try_ai_summarize(all_articles)
 
+    if ai_result and ai_result.get("aiNews"):
+        print("\n🎯 Using AI-generated summaries")
+        output = {
+            "generatedAt": datetime.now(timezone.utc).isoformat(),
+            "aiNews":       ai_result.get("aiNews", []),
+            "politicsNews": ai_result.get("politicsNews", []),
+            "stockNews":    ai_result.get("stockNews", []),
+        }
+    else:
+        print("\n📋 Using raw RSS articles (no AI)")
+        output = {
+            "generatedAt": datetime.now(timezone.utc).isoformat(),
+            "aiNews":       raw_fallback("ai", all_articles.get("ai", [])),
+            "politicsNews": raw_fallback("politics", all_articles.get("politics", [])),
+            "stockNews":    raw_fallback("stocks", all_articles.get("stocks", [])),
+        }
+
+    # Stage 3: Write
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -122,7 +214,6 @@ def main() -> None:
     print(f"\n{'=' * 56}")
     print(f"  ✅ Done! Wrote {total} items to {OUTPUT_PATH}")
     print(f"{'=' * 56}")
-
 
 if __name__ == "__main__":
     main()

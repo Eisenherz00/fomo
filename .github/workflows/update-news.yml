@@ -1,7 +1,5 @@
 name: "🔄 Update Anti-FOMO Daily News"
 
-# ─── Schedule ────────────────────────────────────────────────────────
-# Runs at 04:30 and 16:30 UTC  →  05:30 / 17:30 CET  →  12:30 / 00:30 Beijing
 on:
   schedule:
     - cron: "30 4 * * *"
@@ -30,7 +28,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Fetch news from RSS
+      - name: Fetch news
+        env:
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'openai' }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o-mini' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.0-flash-lite' }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python scripts/fetch_and_summarize.py
 
       - name: Commit and push data.json
@@ -42,8 +47,3 @@ jobs:
             git commit -m "📰 Auto-update news data $(date -u +'%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main
           git push
-
-      - name: Trigger Vercel redeploy
-        if: success()
-        run: |
-          curl -s -X POST "https://api.vercel.com/v1/integrations/deploy/${{ secrets.VERCEL_DEPLOY_HOOK }}" || echo "No deploy hook set, Vercel will deploy on push"
