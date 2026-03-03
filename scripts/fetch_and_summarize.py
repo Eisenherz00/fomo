@@ -2,7 +2,7 @@
 """
 Anti-FOMO Daily — News Fetcher & Summariser
 ============================================
-Fetches RSS feeds → tries AI summarisation → falls back to raw RSS if AI fails.
+Fetches RSS feeds → tries AI (OpenAI → Gemini) → falls back to raw RSS.
 """
 
 from __future__ import annotations
@@ -78,7 +78,7 @@ def raw_fallback(category: str, articles: list[dict]) -> list[dict]:
         for i, a in enumerate(articles[:3])
     ]
 
-# ─── AI Summarisation (optional) ────────────────────────────────────
+# ─── AI Summarisation ───────────────────────────────────────────────
 
 SYSTEM_PROMPT = dedent("""\
     You are "Anti-FOMO Daily", an elite intelligence analyst.
@@ -102,20 +102,13 @@ SYSTEM_PROMPT = dedent("""\
     }
 """)
 
-def try_ai_summarize(all_articles: dict[str, list[dict]]) -> dict | None:
-    """Try to call OpenAI/Gemini. Returns parsed JSON or None on failure."""
-    provider = os.getenv("LLM_PROVIDER", "").lower()
-    if not provider:
-        print("\n⏭️  No LLM_PROVIDER set, skipping AI")
-        return None
-
+def try_ai(provider: str, all_articles: dict[str, list[dict]]) -> dict | None:
+    """Try one LLM provider. Returns parsed JSON or None on failure."""
     try:
         from openai import OpenAI
     except ImportError:
-        print("\n⏭️  openai package not installed, skipping AI")
         return None
 
-    # Build client
     if provider == "gemini":
         key   = os.getenv("GEMINI_API_KEY", "")
         model = os.getenv("GEMINI_MODEL", "gemini-2.0-flash-lite")
@@ -124,16 +117,15 @@ def try_ai_summarize(all_articles: dict[str, list[dict]]) -> dict | None:
         key   = os.getenv("DEEPSEEK_API_KEY", "")
         model = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
         client = OpenAI(api_key=key, base_url="https://api.deepseek.com")
-    else:  # openai
+    else:
         key   = os.getenv("OPENAI_API_KEY", "")
         model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
         client = OpenAI(api_key=key)
 
     if not key:
-        print(f"\n⏭️  No API key for '{provider}', skipping AI")
+        print(f"  ⏭️  No API key for {provider}, skipping")
         return None
 
-    # Build prompt
     sections = []
     for cat, label in [("ai", "AI / FRONTIER SCIENCE"), ("politics", "GLOBAL POLITICS"), ("stocks", "STOCK MARKET")]:
         arts = all_articles.get(cat, [])
@@ -142,9 +134,8 @@ def try_ai_summarize(all_articles: dict[str, list[dict]]) -> dict | None:
             sections.append(f"=== {label} ===\n{items}")
 
     user_msg = "\n\n".join(sections)
-    print(f"\n🤖 Calling {provider} ({model})...")
+    print(f"\n🤖 Trying {provider} ({model})...")
 
-    # Call with retry
     for attempt in range(3):
         try:
             resp = client.chat.completions.create(
@@ -158,18 +149,18 @@ def try_ai_summarize(all_articles: dict[str, list[dict]]) -> dict | None:
             raw = re.sub(r"^```(?:json)?\s*", "", raw.strip())
             raw = re.sub(r"\s*```$", "", raw.strip())
             data = json.loads(raw)
-            print(f"   ✅ AI summarisation succeeded!")
+            print(f"   ✅ {provider} succeeded!")
             return data
         except Exception as exc:
             if "429" in str(exc) or "quota" in str(exc).lower():
                 wait = 20 * (attempt + 1)
-                print(f"   ⏳ Rate limited (attempt {attempt+1}/3), waiting {wait}s...")
+                print(f"   ⏳ Rate limited ({attempt+1}/3), waiting {wait}s...")
                 time.sleep(wait)
             else:
-                print(f"   ❌ AI failed: {exc}")
+                print(f"   ❌ {provider} error: {exc}")
                 return None
 
-    print("   ❌ All AI retries exhausted")
+    print(f"   ❌ {provider}: retries exhausted")
     return None
 
 # ─── Main ────────────────────────────────────────────────────────────
@@ -186,10 +177,15 @@ def main():
         print(f"\n📂 {cat.upper()}")
         all_articles[cat] = fetch_rss(cat)
 
-    # Stage 2: Try AI, fallback to raw
-    ai_result = try_ai_summarize(all_articles)
+    # Stage 2: Try AI providers in order → OpenAI → Gemini → raw RSS
+    ai_result = None
+    for provider in ["openai", "gemini"]:
+        ai_result = try_ai(provider, all_articles)
+        if ai_result and ai_result.get("aiNews"):
+            break
+        ai_result = None
 
-    if ai_result and ai_result.get("aiNews"):
+    if ai_result:
         print("\n🎯 Using AI-generated summaries")
         output = {
             "generatedAt": datetime.now(timezone.utc).isoformat(),
@@ -198,7 +194,7 @@ def main():
             "stockNews":    ai_result.get("stockNews", []),
         }
     else:
-        print("\n📋 Using raw RSS articles (no AI)")
+        print("\n📋 Using raw RSS (AI unavailable)")
         output = {
             "generatedAt": datetime.now(timezone.utc).isoformat(),
             "aiNews":       raw_fallback("ai", all_articles.get("ai", [])),
@@ -206,7 +202,6 @@ def main():
             "stockNews":    raw_fallback("stocks", all_articles.get("stocks", [])),
         }
 
-    # Stage 3: Write
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
 
