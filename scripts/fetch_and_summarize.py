@@ -89,7 +89,8 @@ SYSTEM_PROMPT = dedent("""\
     2. Write a short title and 2-3 sentence summary for each.
     3. Every title and summary must have 3 languages: zh (Simplified Chinese), en (English), de (German).
     4. Keep tone professional, neutral, informative.
-    5. Return ONLY valid JSON — no markdown fences, no extra text.
+    5. Use the EXACT date provided with each article. Do NOT invent dates.
+    6. Return ONLY valid JSON — no markdown fences, no extra text.
 
     Required JSON shape:
     {
@@ -130,7 +131,7 @@ def try_ai(provider: str, all_articles: dict[str, list[dict]]) -> dict | None:
     for cat, label in [("ai", "AI / FRONTIER SCIENCE"), ("politics", "GLOBAL POLITICS"), ("stocks", "STOCK MARKET")]:
         arts = all_articles.get(cat, [])
         if arts:
-            items = "\n".join(f"- [{a['source']}] {a['title']}: {a['summary'][:150]}" for a in arts)
+            items = "\n".join(f"- [{a['source']}] [{a['date']}] {a['title']}: {a['summary'][:150]}" for a in arts)
             sections.append(f"=== {label} ===\n{items}")
 
     user_msg = "\n\n".join(sections)
