@@ -8,17 +8,29 @@ import { loadNews } from "@/data/loadNews";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import CountdownTimer from "@/components/CountdownTimer";
 import NewsSection from "@/components/NewsSection";
-import { Shield, Loader2 } from "lucide-react";
+import { Shield, Loader2, AlertTriangle } from "lucide-react";
 
 export default function Home() {
   const { locale } = useLanguage();
   const t = getTranslations(locale);
 
   const [data, setData] = useState<DailyData | null>(null);
+  const [error, setError] = useState(false);
 
   useEffect(() => {
-    loadNews().then(setData);
+    loadNews()
+      .then(setData)
+      .catch(() => setError(true));
   }, []);
+
+  if (error) {
+    return (
+      <div className="flex min-h-screen flex-col items-center justify-center gap-3 text-zinc-400">
+        <AlertTriangle className="h-8 w-8 text-amber-400" />
+        <p className="text-sm">{t.errorLoading}</p>
+      </div>
+    );
+  }
 
   if (!data) {
     return (
@@ -64,7 +76,12 @@ export default function Home() {
 
       {/* ── Footer ─────────────────────────────────────────────── */}
       <footer className="mt-16 border-t border-white/[0.06] pt-6 text-center text-xs text-zinc-600">
-        {t.footer}
+        <p>{t.footer}</p>
+        {data.generatedAt && (
+          <p className="mt-1 text-zinc-700">
+            {t.lastUpdated}: {new Date(data.generatedAt).toLocaleString(locale === "zh" ? "zh-CN" : locale === "de" ? "de-DE" : "en-US")}
+          </p>
+        )}
       </footer>
     </div>
   );

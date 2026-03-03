@@ -9,7 +9,13 @@ export async function loadNews(): Promise<DailyData> {
     try {
         const res = await fetch("/data.json", { cache: "no-store" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data: DailyData = await res.json();
+
+        let data: DailyData;
+        try {
+            data = await res.json();
+        } catch {
+            throw new Error("Invalid JSON in data.json");
+        }
 
         // Basic validation: make sure each category has at least 1 item
         if (

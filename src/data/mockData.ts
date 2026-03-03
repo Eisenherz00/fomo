@@ -1,5 +1,4 @@
 import { NewsItem } from "./types";
-export type { Locale, LocalizedText, NewsItem } from "./types";
 
 // ─── AI & Frontier Science ──────────────────────────────────────────
 export const aiNews: NewsItem[] = [

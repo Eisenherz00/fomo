@@ -5,20 +5,22 @@ import { Clock } from "lucide-react";
 import { useLanguage } from "@/i18n/LanguageContext";
 import { getTranslations } from "@/i18n/translations";
 
+/**
+ * GitHub Actions schedule: 04:30 UTC and 16:30 UTC.
+ * Compute the next refresh target in UTC, then convert to local ms diff.
+ */
 function getNextRefresh(): Date {
     const now = new Date();
-    const today6 = new Date(now);
-    today6.setHours(6, 0, 0, 0);
-    const today18 = new Date(now);
-    today18.setHours(18, 0, 0, 0);
+    const todayUTC = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
 
-    if (now < today6) return today6;
-    if (now < today18) return today18;
-    // next day 6:00
-    const tomorrow6 = new Date(now);
-    tomorrow6.setDate(tomorrow6.getDate() + 1);
-    tomorrow6.setHours(6, 0, 0, 0);
-    return tomorrow6;
+    // Two refresh points each day (UTC)
+    const slot1 = new Date(todayUTC.getTime() + 4 * 3600_000 + 30 * 60_000);  // 04:30 UTC
+    const slot2 = new Date(todayUTC.getTime() + 16 * 3600_000 + 30 * 60_000); // 16:30 UTC
+
+    if (now < slot1) return slot1;
+    if (now < slot2) return slot2;
+    // Next day 04:30 UTC
+    return new Date(slot1.getTime() + 86_400_000);
 }
 
 function formatDiff(ms: number): string {

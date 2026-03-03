@@ -2,14 +2,16 @@
 """
 Anti-FOMO Daily — News Fetcher & Summariser
 ============================================
-Fetches RSS feeds → tries AI (OpenAI → Gemini) → falls back to raw RSS.
+Fetches RSS feeds → tries AI (respects LLM_PROVIDER) → falls back to raw RSS.
 """
 
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import re
+import sys
 import time
 import traceback
 from datetime import datetime, timezone
@@ -20,6 +22,9 @@ import feedparser
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_PATH  = PROJECT_ROOT / "public" / "data.json"
+
+# Provider cascade order: preferred provider first, then fallbacks
+DEFAULT_PROVIDERS = ["openai", "gemini", "deepseek"]
 
 RSS_FEEDS = {
     "ai": [
@@ -39,15 +44,18 @@ RSS_FEEDS = {
 # ─── RSS Fetching ────────────────────────────────────────────────────
 
 def clean_html(text: str) -> str:
+    """Strip HTML tags from a string."""
     return re.sub(r"<[^>]+>", "", text).strip()
 
 def fetch_rss(category: str) -> list[dict]:
-    articles = []
+    """Fetch and normalise RSS entries for a given category."""
+    articles: list[dict] = []
     for feed in RSS_FEEDS.get(category, []):
         try:
             print(f"  📡 {feed['name']}...")
             parsed = feedparser.parse(feed["url"])
             if parsed.bozo and not parsed.entries:
+                print(f"  ⚠️  {feed['name']}: feed returned bozo with no entries")
                 continue
             for entry in parsed.entries[:8]:
                 pub = ""
@@ -63,6 +71,7 @@ def fetch_rss(category: str) -> list[dict]:
             print(f"  ✅ {feed['name']}: {min(len(parsed.entries), 8)} items")
         except Exception as e:
             print(f"  ❌ {feed['name']}: {e}")
+            traceback.print_exc()
     return articles
 
 def raw_fallback(category: str, articles: list[dict]) -> list[dict]:
@@ -107,11 +116,22 @@ SYSTEM_PROMPT = dedent("""\
     }
 """)
 
+
+def _build_provider_order() -> list[str]:
+    """Build provider cascade: preferred provider first, then remaining."""
+    preferred = os.getenv("LLM_PROVIDER", "").strip().lower()
+    if preferred and preferred in DEFAULT_PROVIDERS:
+        remaining = [p for p in DEFAULT_PROVIDERS if p != preferred]
+        return [preferred] + remaining
+    return list(DEFAULT_PROVIDERS)
+
+
 def try_ai(provider: str, all_articles: dict[str, list[dict]]) -> dict | None:
     """Try one LLM provider. Returns parsed JSON or None on failure."""
     try:
         from openai import OpenAI
     except ImportError:
+        print(f"  ⚠️  openai package not installed, skipping {provider}")
         return None
 
     if provider == "gemini":
@@ -122,7 +142,7 @@ def try_ai(provider: str, all_articles: dict[str, list[dict]]) -> dict | None:
         key   = os.getenv("DEEPSEEK_API_KEY", "")
         model = os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
         client = OpenAI(api_key=key, base_url="https://api.deepseek.com")
-    else:
+    else:  # openai
         key   = os.getenv("OPENAI_API_KEY", "")
         model = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
         client = OpenAI(api_key=key)
@@ -131,7 +151,7 @@ def try_ai(provider: str, all_articles: dict[str, list[dict]]) -> dict | None:
         print(f"  ⏭️  No API key for {provider}, skipping")
         return None
 
-    sections = []
+    sections: list[str] = []
     for cat, label in [("ai", "AI / FRONTIER SCIENCE"), ("politics", "GLOBAL POLITICS"), ("stocks", "STOCK MARKET")]:
         arts = all_articles.get(cat, [])
         if arts:
@@ -151,11 +171,21 @@ def try_ai(provider: str, all_articles: dict[str, list[dict]]) -> dict | None:
                 ],
             )
             raw = resp.choices[0].message.content or "{}"
+            # Strip markdown code fences if present
             raw = re.sub(r"^```(?:json)?\s*", "", raw.strip())
             raw = re.sub(r"\s*```$", "", raw.strip())
             data = json.loads(raw)
+
+            # Ensure every news item has a url field (fallback to empty string)
+            for key_name in ("aiNews", "politicsNews", "stockNews"):
+                for item in data.get(key_name, []):
+                    item.setdefault("url", "")
+
             print(f"   ✅ {provider} succeeded!")
             return data
+        except json.JSONDecodeError as exc:
+            print(f"   ❌ {provider}: invalid JSON — {exc}")
+            return None
         except Exception as exc:
             if "429" in str(exc) or "quota" in str(exc).lower():
                 wait = 20 * (attempt + 1)
@@ -171,20 +201,28 @@ def try_ai(provider: str, all_articles: dict[str, list[dict]]) -> dict | None:
 # ─── Main ────────────────────────────────────────────────────────────
 
 def main():
+    parser = argparse.ArgumentParser(description="Anti-FOMO Daily News Fetcher")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Print result to stdout without writing data.json")
+    args = parser.parse_args()
+
     print("=" * 56)
     print("  Anti-FOMO Daily — News Fetcher")
     print(f"  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 56)
 
     # Stage 1: Fetch RSS
-    all_articles = {}
+    all_articles: dict[str, list[dict]] = {}
     for cat in ("ai", "politics", "stocks"):
         print(f"\n📂 {cat.upper()}")
         all_articles[cat] = fetch_rss(cat)
 
-    # Stage 2: Try AI providers in order → OpenAI → Gemini → raw RSS
+    # Stage 2: Try AI providers in priority order
+    provider_order = _build_provider_order()
+    print(f"\n🔧 Provider order: {' → '.join(provider_order)}")
+
     ai_result = None
-    for provider in ["openai", "gemini"]:
+    for provider in provider_order:
         ai_result = try_ai(provider, all_articles)
         if ai_result and ai_result.get("aiNews"):
             break
@@ -207,13 +245,20 @@ def main():
             "stockNews":    raw_fallback("stocks", all_articles.get("stocks", [])),
         }
 
-    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
-
     total = sum(len(output[k]) for k in ["aiNews", "politicsNews", "stockNews"])
-    print(f"\n{'=' * 56}")
-    print(f"  ✅ Done! Wrote {total} items to {OUTPUT_PATH}")
-    print(f"{'=' * 56}")
+    result_json = json.dumps(output, ensure_ascii=False, indent=2)
+
+    if args.dry_run:
+        print(f"\n{'=' * 56}")
+        print(f"  🏃 DRY RUN — {total} items (not written to disk)")
+        print(f"{'=' * 56}")
+        print(result_json)
+    else:
+        OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+        OUTPUT_PATH.write_text(result_json, encoding="utf-8")
+        print(f"\n{'=' * 56}")
+        print(f"  ✅ Done! Wrote {total} items to {OUTPUT_PATH}")
+        print(f"{'=' * 56}")
 
 if __name__ == "__main__":
     main()

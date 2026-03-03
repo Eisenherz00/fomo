@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Anti-FOMO Daily
+
+> Your daily 10-minute intel briefing on **AI**, **Global Politics**, and **Markets** — in three languages (中文 / EN / DE).
+
+## Architecture
+
+```
+┌────────────────────┐     ┌──────────────┐     ┌────────────────────┐
+│  RSS Feeds         │────▶│  Python      │────▶│  public/data.json  │
+│  (MIT Tech Review, │     │  Fetcher +   │     │  (consumed by the  │
+│   BBC, CNBC, etc.) │     │  AI Summary) │     │   Next.js app)     │
+└────────────────────┘     └──────────────┘     └────────────────────┘
+        GitHub Actions: runs every 12 h (04:30 & 16:30 UTC)
+```
+
+| Layer      | Tech                              |
+| ---------- | --------------------------------- |
+| Frontend   | Next.js 16, React 19, Tailwind v4 |
+| Backend    | Python 3.12 (feedparser + openai) |
+| AI         | OpenAI / Gemini / DeepSeek        |
+| CI/CD      | GitHub Actions (scheduled CRON)   |
+| Hosting    | Vercel / any static host          |
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- **Node.js** ≥ 20 & **npm**
+- **Python** ≥ 3.11 (for the data pipeline)
+
+### Install & Run
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Frontend
+npm install
+npm run dev          # → http://localhost:3000
+
+# Python data pipeline (optional — mock data is bundled)
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r scripts/requirements.txt
+cp scripts/.env.example scripts/.env   # fill in your API key(s)
+python scripts/fetch_and_summarize.py
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Environment Variables
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Copy `scripts/.env.example` to `scripts/.env` and fill in at least one provider key:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Variable          | Description                          | Default              |
+| ----------------- | ------------------------------------ | -------------------- |
+| `LLM_PROVIDER`    | `openai` \| `gemini` \| `deepseek`  | `openai`             |
+| `OPENAI_API_KEY`  | OpenAI API key                       | —                    |
+| `OPENAI_MODEL`    | Model name                           | `gpt-4o-mini`        |
+| `GEMINI_API_KEY`  | Google Gemini API key                | —                    |
+| `GEMINI_MODEL`    | Model name                           | `gemini-2.0-flash-lite` |
+| `DEEPSEEK_API_KEY`| DeepSeek API key                     | —                    |
+| `DEEPSEEK_MODEL`  | Model name                           | `deepseek-chat`      |
 
-## Learn More
+## CI/CD
 
-To learn more about Next.js, take a look at the following resources:
+The GitHub Actions workflow (`.github/workflows/update-news.yml`) runs twice daily, fetches RSS, generates AI summaries, and commits `public/data.json` to `main`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+MIT

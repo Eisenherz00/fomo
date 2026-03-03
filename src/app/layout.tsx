@@ -25,6 +25,19 @@ export const metadata: Metadata = {
   description:
     "Your daily 10-minute intel briefing on AI, global politics, and markets.",
   manifest: "/manifest.json",
+  openGraph: {
+    title: "Anti-FOMO Daily",
+    description:
+      "Your daily 10-minute intel briefing on AI, global politics, and markets.",
+    type: "website",
+    siteName: "Anti-FOMO Daily",
+  },
+  twitter: {
+    card: "summary",
+    title: "Anti-FOMO Daily",
+    description:
+      "Your daily 10-minute intel briefing on AI, global politics, and markets.",
+  },
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",

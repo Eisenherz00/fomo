@@ -39,6 +39,7 @@ export default function NewsCard({ item }: { item: NewsItem }) {
                         href={item.url}
                         target="_blank"
                         rel="noopener noreferrer"
+                        aria-label={`${t.source}: ${item.source}`}
                         className="flex items-center gap-1 rounded-md border border-indigo-500/30 bg-indigo-500/10 px-2.5 py-1 text-xs font-medium text-indigo-300 transition-all duration-200 hover:border-indigo-400/50 hover:bg-indigo-500/20 hover:text-indigo-200"
                     >
                         <ExternalLink className="h-3 w-3" />
