@@ -48,8 +48,8 @@ RSS_FEEDS: dict[str, list[dict[str, str]]] = {
     ],
     "politics": [
         {
-            "name": "Reuters – World",
-            "url":  "https://feeds.reuters.com/Reuters/worldNews",
+            "name": "Al Jazeera – News",
+            "url":  "https://www.aljazeera.com/xml/rss/all.xml",
         },
         {
             "name": "BBC News – World",
@@ -210,6 +210,7 @@ def summarize_with_llm(
     )
 
     print(f"  🤖 Calling LLM ({model}) for '{category}'...")
+    print(f"     Sending {len(articles)} articles ({len(user_msg)} chars)")
     response = client.chat.completions.create(
         model=model,
         temperature=0.3,
@@ -220,6 +221,7 @@ def summarize_with_llm(
     )
 
     raw = response.choices[0].message.content or "[]"
+    print(f"     LLM response length: {len(raw)} chars")
 
     # Strip markdown code fences if the model included them
     raw = re.sub(r"^```(?:json)?\s*", "", raw.strip())
