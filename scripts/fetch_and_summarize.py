@@ -58,6 +58,7 @@ def fetch_rss(category: str) -> list[dict]:
                     "summary": clean_html(entry.get("summary", entry.get("description", "")))[:300],
                     "source": feed["name"],
                     "date": pub or datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                    "url": entry.get("link", ""),
                 })
             print(f"  ✅ {feed['name']}: {min(len(parsed.entries), 8)} items")
         except Exception as e:
@@ -74,6 +75,7 @@ def raw_fallback(category: str, articles: list[dict]) -> list[dict]:
             "summary": {"zh": a["summary"], "en": a["summary"], "de": a["summary"]},
             "source": a["source"],
             "date": a["date"],
+            "url": a.get("url", ""),
         }
         for i, a in enumerate(articles[:3])
     ]
@@ -86,16 +88,18 @@ SYSTEM_PROMPT = dedent("""\
 
     Rules:
     1. For EACH category (ai, politics, stocks), pick the 3 most important stories.
-    2. Write a short title and 2-3 sentence summary for each.
-    3. Every title and summary must have 3 languages: zh (Simplified Chinese), en (English), de (German).
-    4. Keep tone professional, neutral, informative.
-    5. Use the EXACT date provided with each article. Do NOT invent dates.
-    6. Return ONLY valid JSON — no markdown fences, no extra text.
+    2. For the TITLE: faithfully translate the original article title into all 3 languages. Do NOT rewrite or paraphrase the title.
+    3. For the SUMMARY: write a concise 2-3 sentence summary in all 3 languages.
+    4. Every title and summary must have 3 languages: zh (Simplified Chinese), en (English), de (German).
+    5. Keep tone professional, neutral, informative.
+    6. Use the EXACT date provided with each article. Do NOT invent dates.
+    7. Copy the EXACT url provided with each article into the "url" field.
+    8. Return ONLY valid JSON — no markdown fences, no extra text.
 
     Required JSON shape:
     {
       "aiNews": [
-        {"id": "ai-1", "title": {"zh":"..","en":"..","de":".."}, "summary": {"zh":"..","en":"..","de":".."}, "source": "..", "date": "YYYY-MM-DD"},
+        {"id": "ai-1", "title": {"zh":"..","en":"..","de":".."}, "summary": {"zh":"..","en":"..","de":".."}, "source": "..", "date": "YYYY-MM-DD", "url": "https://..."},
         {"id": "ai-2", ...}, {"id": "ai-3", ...}
       ],
       "politicsNews": [{"id": "pol-1", ...}, ...],
@@ -131,7 +135,7 @@ def try_ai(provider: str, all_articles: dict[str, list[dict]]) -> dict | None:
     for cat, label in [("ai", "AI / FRONTIER SCIENCE"), ("politics", "GLOBAL POLITICS"), ("stocks", "STOCK MARKET")]:
         arts = all_articles.get(cat, [])
         if arts:
-            items = "\n".join(f"- [{a['source']}] [{a['date']}] {a['title']}: {a['summary'][:150]}" for a in arts)
+            items = "\n".join(f"- [{a['source']}] [{a['date']}] {a['title']}: {a['summary'][:150]} (url: {a.get('url', '')})" for a in arts)
             sections.append(f"=== {label} ===\n{items}")
 
     user_msg = "\n\n".join(sections)

@@ -15,6 +15,7 @@ export interface NewsItem {
     summary: LocalizedText;
     source: string;
     date: string;
+    url?: string;
 }
 
 export interface DailyData {

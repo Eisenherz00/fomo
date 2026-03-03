@@ -22,15 +22,29 @@ export default function NewsCard({ item }: { item: NewsItem }) {
                 {item.summary[locale]}
             </p>
 
-            <div className="flex items-center gap-3 text-xs text-zinc-500">
-                <span className="flex items-center gap-1">
-                    <ExternalLink className="h-3 w-3" />
-                    {t.source}: {item.source}
-                </span>
-                <span className="flex items-center gap-1">
-                    <Calendar className="h-3 w-3" />
-                    {item.date}
-                </span>
+            <div className="flex items-center justify-between">
+                <div className="flex items-center gap-3 text-xs text-zinc-500">
+                    <span className="flex items-center gap-1">
+                        <ExternalLink className="h-3 w-3" />
+                        {item.source}
+                    </span>
+                    <span className="flex items-center gap-1">
+                        <Calendar className="h-3 w-3" />
+                        {item.date}
+                    </span>
+                </div>
+
+                {item.url && (
+                    <a
+                        href={item.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-1 rounded-md border border-indigo-500/30 bg-indigo-500/10 px-2.5 py-1 text-xs font-medium text-indigo-300 transition-all duration-200 hover:border-indigo-400/50 hover:bg-indigo-500/20 hover:text-indigo-200"
+                    >
+                        <ExternalLink className="h-3 w-3" />
+                        {t.source}
+                    </a>
+                )}
             </div>
         </article>
     );
