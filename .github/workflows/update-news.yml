@@ -36,7 +36,7 @@ jobs:
       # ④ Run the news fetch script
       - name: Fetch & summarise news
         env:
-          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'openai' }}
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'gemini' }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-4o' }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
