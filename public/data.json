@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T21:44:44.222861+00:00",
+  "generatedAt": "2026-03-04T05:31:36.989690+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Dieses Startup behauptet, es könne Blitze stoppen und katastrophale Waldbrände verhindern"
       },
       "summary": {
-        "zh": "一家初创公司声称其技术可以阻止闪电，从而减少野火的发生。该公司希望通过其创新解决方案来应对气候变化带来的挑战。",
-        "en": "A startup claims its technology can stop lightning, thereby reducing the occurrence of wildfires. The company aims to tackle the challenges posed by climate change through its innovative solutions.",
-        "de": "Ein Startup behauptet, seine Technologie könne Blitze stoppen und damit die Häufigkeit von Waldbränden verringern. Das Unternehmen zielt darauf ab, die Herausforderungen des Klimawandels mit seinen innovativen Lösungen anzugehen."
+        "zh": "这家初创公司在经历了2023年6月魁北克的严重热浪和闪电袭击后，提出了一种技术，旨在阻止闪电并减少野火的风险。",
+        "en": "This startup has proposed a technology aimed at stopping lightning and reducing the risk of wildfires after experiencing severe heat waves and lightning strikes in Quebec in June 2023.",
+        "de": "Dieses Startup hat eine Technologie vorgeschlagen, die darauf abzielt, Blitze zu stoppen und das Risiko von Waldbränden zu verringern, nachdem es im Juni 2023 schwere Hitzewellen und Blitzeinschläge in Quebec erlebt hat."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-03",
@@ -25,9 +25,9 @@
         "de": "OpenAIs „Kompromiss“ mit dem Pentagon ist das, was Anthropic befürchtete"
       },
       "summary": {
-        "zh": "OpenAI与美国军方达成了一项协议，允许其技术在机密环境中使用。这一决定引发了对AI技术在军事应用中的伦理和安全性的新担忧。",
-        "en": "OpenAI has reached an agreement with the U.S. military that allows its technologies to be used in classified settings. This decision raises new concerns about the ethics and security of AI technologies in military applications.",
-        "de": "OpenAI hat eine Vereinbarung mit dem US-Militär getroffen, die die Nutzung seiner Technologien in geheimen Umgebungen erlaubt. Diese Entscheidung wirft neue Bedenken hinsichtlich der Ethik und Sicherheit von KI-Technologien in militärischen Anwendungen auf."
+        "zh": "OpenAI最近宣布与美国军方达成协议，允许其在机密环境中使用其技术，这引发了对AI技术在军事应用中的潜在风险的担忧。",
+        "en": "OpenAI recently announced a deal with the U.S. military allowing its technologies to be used in classified settings, raising concerns about the potential risks of AI technology in military applications.",
+        "de": "OpenAI hat kürzlich eine Vereinbarung mit dem US-Militär angekündigt, die die Nutzung seiner Technologien in geheimen Umgebungen erlaubt, was Bedenken hinsichtlich der potenziellen Risiken von KI-Technologie in militärischen Anwendungen aufwirft."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-02",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "大型语言模型可以以惊人的准确性揭示匿名用户",
+        "zh": "LLMs可以以惊人的准确性揭示伪名用户",
         "en": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
         "de": "LLMs können pseudonyme Benutzer in großem Maßstab mit überraschender Genauigkeit entlarven"
       },
       "summary": {
-        "zh": "大型语言模型（LLMs）显示出能够以惊人的准确性揭示匿名用户的能力，这对隐私保护构成了挑战。专家警告说，伪匿名性可能不再有效。",
-        "en": "Large language models (LLMs) demonstrate the ability to unmask pseudonymous users with surprising accuracy, posing challenges to privacy protection. Experts warn that pseudonymity may soon become ineffective.",
-        "de": "Große Sprachmodelle (LLMs) zeigen die Fähigkeit, pseudonyme Benutzer mit überraschender Genauigkeit zu entlarven, was Herausforderungen für den Datenschutz mit sich bringt. Experten warnen, dass Pseudonymität bald unwirksam werden könnte."
+        "zh": "研究表明，伪名并不总能有效保护隐私，最新的语言模型（LLMs）显示出在揭示伪名用户方面的高效能力。",
+        "en": "Research indicates that pseudonymity does not always effectively protect privacy, with the latest language models (LLMs) demonstrating a high capability in unmasking pseudonymous users.",
+        "de": "Forschungen zeigen, dass Pseudonymität nicht immer effektiv die Privatsphäre schützt, wobei die neuesten Sprachmodelle (LLMs) eine hohe Fähigkeit zur Entlarvung pseudonymer Benutzer zeigen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-03-03",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "鲁比奥称伊朗在谈判中“玩弄”美国",
-        "en": "Rubio says Iran was ‘playing’ US in negotiations",
-        "de": "Rubio sagt, Iran habe die USA in den Verhandlungen „gespielt“"
+        "zh": "俄罗斯和中国对美国和以色列对伊朗的攻击提高外交声音",
+        "en": "Russia, China raise diplomatic voices against US-Israeli attacks on Iran",
+        "de": "Russland und China erheben diplomatische Stimmen gegen US-israelische Angriffe auf den Iran"
       },
       "summary": {
-        "zh": "美国国务卿鲁比奥为美以联合对伊朗的打击辩护，称“世界将更安全”。此言论引发了对美国在中东政策的进一步讨论。",
-        "en": "U.S. Secretary of State Rubio defended the joint U.S.-Israeli strikes on Iran, stating that 'the world will be safer.' This statement has sparked further discussions on U.S. policy in the Middle East.",
-        "de": "US-Außenminister Rubio verteidigte die gemeinsamen US-israelischen Angriffe auf den Iran und erklärte, dass „die Welt sicherer sein wird“. Diese Aussage hat weitere Diskussionen über die US-Politik im Nahen Osten ausgelöst."
+        "zh": "中国外交部长呼吁以色列停止对伊朗的攻击，而俄罗斯外长拉夫罗夫表示没有迹象表明德黑兰正在寻求核武器。",
+        "en": "China's foreign minister has urged Israel to cease attacks on Iran, while Russian Foreign Minister Lavrov stated there are no signs Tehran is seeking a nuclear bomb.",
+        "de": "Der chinesische Außenminister hat Israel aufgefordert, die Angriffe auf den Iran einzustellen, während der russische Außenminister Lawrow erklärte, es gebe keine Anzeichen dafür, dass Teheran eine Atombombe anstrebe."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/rubio-says-iran-was-playing-us-in-negotiations?traffic_source=rss"
+      "date": "2026-03-04",
+      "url": "https://www.aljazeera.com/news/2026/3/4/russia-china-raise-diplomatic-voices-against-us-israeli-attacks-on-iran?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普考虑更换伊朗领导人哈梅内伊",
-        "en": "‘Worst-case scenario’: Trump weighs replacing Khamenei as leader of Iran",
-        "de": "„Schlimmstes Szenario“: Trump erwägt, Khamenei als Führer des Iran zu ersetzen"
+        "zh": "美国商务部长卢特尼克将就与爱泼斯坦的关系在国会作证",
+        "en": "US Commerce Secretary Lutnick to testify before Congress about Epstein ties",
+        "de": "US-Handelsminister Lutnick wird vor dem Kongress über Epstein-Verbindungen aussagen"
       },
       "summary": {
-        "zh": "特朗普考虑将伊朗最高领袖哈梅内伊替换为其他人，提出了类似委内瑞拉的政府愿景。这一想法引发了对美国对伊朗政策的广泛关注。",
-        "en": "Trump is considering replacing Iran's Supreme Leader Khamenei with someone else, sketching a vision of a government similar to that of Venezuela. This idea has drawn widespread attention to U.S. policy towards Iran.",
-        "de": "Trump erwägt, den iranischen Obersten Führer Khamenei durch jemand anderen zu ersetzen und skizziert eine Vision einer Regierung, die der Venezuelas ähnelt. Diese Idee hat breite Aufmerksamkeit für die US-Politik gegenüber dem Iran auf sich gezogen."
+        "zh": "卢特尼克与金融家爱泼斯坦的关系受到审查，文件显示两者之间的联系比之前已知的更为紧密。",
+        "en": "Lutnick's relationship with financier Epstein has come under scrutiny, with files revealing closer ties than previously known.",
+        "de": "Lutnicks Beziehung zu dem Finanzier Epstein steht unter Beobachtung, da Akten engere Verbindungen als zuvor bekannt zeigen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-03",
-      "url": "https://www.aljazeera.com/news/2026/3/3/worst-case-scenario-trump-weighs-replacing-khamenei-as-leader-of-iran?traffic_source=rss"
+      "date": "2026-03-04",
+      "url": "https://www.aljazeera.com/economy/2026/3/4/us-commerce-secretary-lutnick-to-testify-before-congress-about-epstein-ties?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国将在伊朗袭击中为船只提供保险",
-        "en": "US will provide insurance for ships in Gulf amid Iranian attacks",
-        "de": "Die USA werden im Golf während iranischer Angriffe Versicherung für Schiffe anbieten"
+        "zh": "美国参议员在伊朗战争简报后担心“地面部队”",
+        "en": "US senators fear ‘boots on the ground’ after Iran war briefing",
+        "de": "US-Senatoren befürchten „Bodenkräfte“ nach Iran-Kriegsbriefing"
       },
       "summary": {
-        "zh": "特朗普宣布，美国海军将在必要时开始护送油轮通过霍尔木兹海峡，以应对伊朗的攻击。这一决定可能会加剧地区紧张局势。",
-        "en": "Trump announced that the U.S. Navy will begin escorting oil tankers through the Strait of Hormuz if necessary, in response to Iranian attacks. This decision may escalate tensions in the region.",
-        "de": "Trump kündigte an, dass die US-Marine bei Bedarf Öltanker durch die Straße von Hormus eskortieren wird, als Reaktion auf iranische Angriffe. Diese Entscheidung könnte die Spannungen in der Region verschärfen."
+        "zh": "民主党参议员在关于美国与以色列与伊朗的战争的机密简报后表示担忧，认为可能会有地面部队的部署。",
+        "en": "Democratic senators voiced alarm after a classified briefing on the U.S.-Israeli war with Iran, expressing concerns about the potential deployment of ground troops.",
+        "de": "Demokratische Senatoren äußerten Alarm nach einem geheimen Briefing über den US-israelischen Krieg mit dem Iran und äußerten Bedenken hinsichtlich einer möglichen Entsendung von Bodentruppen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-03",
-      "url": "https://www.aljazeera.com/news/2026/3/3/us-will-provide-insurance-for-ships-in-gulf-amid-iranian-attacks-trump?traffic_source=rss"
+      "date": "2026-03-04",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/4/us-senators-fear-boots-on-the-ground-after-iran-war-briefing?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普宣布通胀已被控制，伊朗冲突威胁新的价格压力",
+        "zh": "中东冲突对中央银行构成新的考验，油价冲击推动通货膨胀",
+        "en": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation",
+        "de": "Der Konflikt im Nahen Osten stellt eine neue Herausforderung für die Zentralbanken dar, da der Öl-Schock die Inflation anheizt"
+      },
+      "summary": {
+        "zh": "中东冲突加剧，导致油价飙升，给中央银行带来了新的挑战，可能会影响其应对通货膨胀的策略。",
+        "en": "The escalating conflict in the Middle East has led to soaring oil prices, presenting new challenges for central banks that may affect their strategies to combat inflation.",
+        "de": "Der eskalierende Konflikt im Nahen Osten hat zu steigenden Ölpreisen geführt, was neue Herausforderungen für die Zentralbanken darstellt, die ihre Strategien zur Bekämpfung der Inflation beeinflussen könnten."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-04",
+      "url": "https://www.cnbc.com/2026/03/04/iran-israel-us-war-middle-east-conflict-oil-gas-lng-surge-central-banks-inflation-risk.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "特朗普宣布通货膨胀已得到控制，伊朗冲突威胁新的价格压力",
         "en": "As Trump declares inflation tamed, Iran conflict threatens new price pressures",
         "de": "Während Trump erklärt, die Inflation sei gezähmt, droht der Iran-Konflikt mit neuen Preisdruck"
       },
       "summary": {
-        "zh": "特朗普宣布通胀已得到控制，但伊朗冲突可能导致新的价格压力，影响其降低利率的主张。这一局势可能对市场产生重大影响。",
-        "en": "Trump declared inflation tamed, but the Iran conflict may lead to new price pressures, affecting his case for lower interest rates. This situation could have significant implications for the markets.",
-        "de": "Trump erklärte, die Inflation sei gezähmt, aber der Iran-Konflikt könnte zu neuem Preisdruck führen, was seine Argumentation für niedrigere Zinssätze beeinträchtigen könnte. Diese Situation könnte erhebliche Auswirkungen auf die Märkte haben."
+        "zh": "特朗普声称通货膨胀已得到控制，但伊朗冲突的升级可能会导致新的价格压力，影响其降低利率的主张。",
+        "en": "Trump claims inflation has been tamed, but the escalation of the Iran conflict could lead to new price pressures that undermine his case for lower interest rates.",
+        "de": "Trump behauptet, die Inflation sei gezähmt, aber die Eskalation des Iran-Konflikts könnte zu neuem Preisdruck führen, der sein Argument für niedrigere Zinssätze untergräbt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-02",
       "url": "https://www.cnbc.com/2026/03/02/as-trump-declares-inflation-tamed-iran-conflict-threatens-new-price-pressures.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "伊朗冲突：当前形势、全球反应及下一步",
-        "en": "Iran conflict: Where things stand, global responses — and what comes next",
-        "de": "Iran-Konflikt: Wo die Dinge stehen, globale Reaktionen – und was als Nächstes kommt"
-      },
-      "summary": {
-        "zh": "美国与以色列与伊朗的冲突进入第三天，各方承诺升级。市场对这一局势的反应可能会影响全球经济。",
-        "en": "The U.S.-Israel conflict with Iran has entered its third day, with each side pledging escalation. Market reactions to this situation may impact the global economy.",
-        "de": "Der Konflikt zwischen den USA und Israel mit dem Iran ist in seinen dritten Tag eingetreten, wobei jede Seite eine Eskalation verspricht. Die Marktreaktionen auf diese Situation könnten die globale Wirtschaft beeinflussen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-02",
-      "url": "https://www.cnbc.com/2026/03/02/iran-israel-us-conflict-oil-jumps-trump-netanyahu-what-is-next.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "华尔街的“恐惧指标”在伊朗冲突升级时上升",
-        "en": "Wall Street’s ‘fear gauge’ is rising as Iran conflict escalates",
-        "de": "Wall Streets „Angstindikator“ steigt, während sich der Iran-Konflikt verschärft"
+        "zh": "CrowdStrike在网络威胁时代提供乐观的收益展望",
+        "en": "CrowdStrike gives upbeat earnings outlook as AI raises the stakes around cyberthreats",
+        "de": "CrowdStrike gibt optimistische Gewinnprognosen ab, da KI die Risiken im Bereich Cyberbedrohungen erhöht"
       },
       "summary": {
-        "zh": "随着伊朗冲突的升级，华尔街的“恐惧指标”正在上升，主要股指触及年内最低水平。投资者需关注市场动态。",
-        "en": "As the Iran conflict escalates, Wall Street’s 'fear gauge' is rising, with major indexes hitting their lowest levels of the year. Investors should monitor market developments closely.",
-        "de": "Mit der Eskalation des Iran-Konflikts steigt Wall Streets „Angstindikator“, während wichtige Indizes ihre niedrigsten Werte des Jahres erreichen. Investoren sollten die Marktentwicklungen genau beobachten."
+        "zh": "CrowdStrike的首席执行官表示，由于对其Falcon网络安全平台的需求上升，公司对未来的收益展望持乐观态度。",
+        "en": "CrowdStrike's CEO expressed optimism about the company's earnings outlook due to rising demand for its Falcon cybersecurity platform amid increasing cyber threats.",
+        "de": "Der CEO von CrowdStrike äußerte Optimismus über die Gewinnprognose des Unternehmens aufgrund der steigenden Nachfrage nach seiner Falcon-Cybersicherheitsplattform angesichts zunehmender Cyberbedrohungen."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-03-03",
-      "url": "https://www.marketwatch.com/story/wall-streets-fear-gauge-is-rising-as-iran-conflict-escalates-heres-what-investors-should-watch-543b5d5c?mod=mw_rss_topstories"
+      "date": "2026-03-04",
+      "url": "https://www.marketwatch.com/story/crowdstrike-gives-upbeat-earnings-outlook-as-ai-raises-the-stakes-around-cyberthreats-087a4b2e?mod=mw_rss_topstories"
     }
   ]
 }
