@@ -1,153 +1,152 @@
 {
-  "generatedAt": "2026-03-04T05:31:36.989690+00:00",
+  "generatedAt": "2026-03-04T17:06:44.848564+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "这家初创公司声称可以阻止闪电并防止灾难性野火",
-        "en": "This startup claims it can stop lightning and prevent catastrophic wildfires",
-        "de": "Dieses Startup behauptet, es könne Blitze stoppen und katastrophale Waldbrände verhindern"
+        "zh": "弥合运营AI差距：AI的变革潜力已经得到充分证明。",
+        "en": "Bridging the operational AI gap: The transformational potential of AI is already well established.",
+        "de": "Die Überbrückung der betrieblichen KI-Lücke: Das transformative Potenzial von KI ist bereits gut etabliert."
       },
       "summary": {
-        "zh": "这家初创公司在经历了2023年6月魁北克的严重热浪和闪电袭击后，提出了一种技术，旨在阻止闪电并减少野火的风险。",
-        "en": "This startup has proposed a technology aimed at stopping lightning and reducing the risk of wildfires after experiencing severe heat waves and lightning strikes in Quebec in June 2023.",
-        "de": "Dieses Startup hat eine Technologie vorgeschlagen, die darauf abzielt, Blitze zu stoppen und das Risiko von Waldbränden zu verringern, nachdem es im Juni 2023 schwere Hitzewellen und Blitzeinschläge in Quebec erlebt hat."
+        "zh": "企业正在逐步采用AI技术，推动运营效率的提升。随着越来越多的用例出现，组织正在转变以适应这一趋势。",
+        "en": "Businesses are gradually adopting AI technologies, enhancing operational efficiency. With more use cases emerging, organizations are transitioning to adapt to this trend.",
+        "de": "Unternehmen übernehmen schrittweise KI-Technologien und verbessern die Betriebseffizienz. Mit dem Auftauchen weiterer Anwendungsfälle passen sich Organisationen an diesen Trend an."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-03",
-      "url": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/"
+      "date": "2026-03-04",
+      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "OpenAI与五角大楼的“妥协”是Anthropic所担心的",
-        "en": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-        "de": "OpenAIs „Kompromiss“ mit dem Pentagon ist das, was Anthropic befürchtete"
+        "zh": "下载：地球的轰鸣声，以及用于对伊朗进行打击的AI。",
+        "en": "The Download: Earth’s rumblings, and AI for strikes on Iran.",
+        "de": "Der Download: Die Erschütterungen der Erde und KI für Angriffe auf den Iran."
       },
       "summary": {
-        "zh": "OpenAI最近宣布与美国军方达成协议，允许其在机密环境中使用其技术，这引发了对AI技术在军事应用中的潜在风险的担忧。",
-        "en": "OpenAI recently announced a deal with the U.S. military allowing its technologies to be used in classified settings, raising concerns about the potential risks of AI technology in military applications.",
-        "de": "OpenAI hat kürzlich eine Vereinbarung mit dem US-Militär angekündigt, die die Nutzung seiner Technologien in geheimen Umgebungen erlaubt, was Bedenken hinsichtlich der potenziellen Risiken von KI-Technologie in militärischen Anwendungen aufwirft."
+        "zh": "本期下载提供了关于技术世界的最新动态，包括地球的自然现象和AI在军事行动中的应用。",
+        "en": "This edition of The Download provides the latest updates from the tech world, including natural phenomena on Earth and the application of AI in military operations.",
+        "de": "Diese Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich natürlicher Phänomene auf der Erde und der Anwendung von KI in militärischen Operationen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-02",
-      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/"
+      "date": "2026-03-04",
+      "url": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "LLMs可以以惊人的准确性揭示伪名用户",
-        "en": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-        "de": "LLMs können pseudonyme Benutzer in großem Maßstab mit überraschender Genauigkeit entlarven"
+        "zh": "这家初创公司声称可以阻止闪电并防止灾难性野火。",
+        "en": "This startup claims it can stop lightning and prevent catastrophic wildfires.",
+        "de": "Dieses Startup behauptet, es könne Blitze stoppen und katastrophale Waldbrände verhindern."
       },
       "summary": {
-        "zh": "研究表明，伪名并不总能有效保护隐私，最新的语言模型（LLMs）显示出在揭示伪名用户方面的高效能力。",
-        "en": "Research indicates that pseudonymity does not always effectively protect privacy, with the latest language models (LLMs) demonstrating a high capability in unmasking pseudonymous users.",
-        "de": "Forschungen zeigen, dass Pseudonymität nicht immer effektiv die Privatsphäre schützt, wobei die neuesten Sprachmodelle (LLMs) eine hohe Fähigkeit zur Entlarvung pseudonymer Benutzer zeigen."
+        "zh": "一项新技术声称能够阻止闪电并减少野火的风险，这在气候变化加剧的背景下引起了广泛关注。",
+        "en": "A new technology claims to be able to stop lightning and reduce the risk of wildfires, drawing significant attention in the context of escalating climate change.",
+        "de": "Eine neue Technologie behauptet, Blitze stoppen und das Risiko von Waldbränden verringern zu können, was im Kontext des zunehmenden Klimawandels erhebliches Interesse weckt."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-03-03",
-      "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
+      "url": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯和中国对美国和以色列对伊朗的攻击提高外交声音",
-        "en": "Russia, China raise diplomatic voices against US-Israeli attacks on Iran",
-        "de": "Russland und China erheben diplomatische Stimmen gegen US-israelische Angriffe auf den Iran"
+        "zh": "伊拉克女性权利活动家亚纳尔·穆罕默德的杀害引发对正义的呼吁。",
+        "en": "Iraqi women’s rights activist Yanar Mohammed killing spurs call for justice.",
+        "de": "Die Ermordung der irakischen Frauenrechtsaktivistin Yanar Mohammed löst einen Aufruf zur Gerechtigkeit aus."
       },
       "summary": {
-        "zh": "中国外交部长呼吁以色列停止对伊朗的攻击，而俄罗斯外长拉夫罗夫表示没有迹象表明德黑兰正在寻求核武器。",
-        "en": "China's foreign minister has urged Israel to cease attacks on Iran, while Russian Foreign Minister Lavrov stated there are no signs Tehran is seeking a nuclear bomb.",
-        "de": "Der chinesische Außenminister hat Israel aufgefordert, die Angriffe auf den Iran einzustellen, während der russische Außenminister Lawrow erklärte, es gebe keine Anzeichen dafür, dass Teheran eine Atombombe anstrebe."
+        "zh": "亚纳尔·穆罕默德的杀害被国际特赦组织谴责为对人权捍卫者的有意攻击，呼吁对其凶手进行追责。",
+        "en": "The killing of Yanar Mohammed has been condemned by Amnesty International as a calculated assault on human rights defenders, calling for accountability for her killers.",
+        "de": "Die Ermordung von Yanar Mohammed wurde von Amnesty International als gezielter Angriff auf Menschenrechtsverteidiger verurteilt, der Verantwortlichkeit für ihre Mörder fordert."
       },
       "source": "Al Jazeera",
       "date": "2026-03-04",
-      "url": "https://www.aljazeera.com/news/2026/3/4/russia-china-raise-diplomatic-voices-against-us-israeli-attacks-on-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/4/iraqi-womens-rights-activist-yanar-mohammed-killing-spurs-call-for-justice?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国商务部长卢特尼克将就与爱泼斯坦的关系在国会作证",
-        "en": "US Commerce Secretary Lutnick to testify before Congress about Epstein ties",
-        "de": "US-Handelsminister Lutnick wird vor dem Kongress über Epstein-Verbindungen aussagen"
+        "zh": "伊朗在2026年世界杯中的地位因冲突和特朗普的解雇而受到怀疑。",
+        "en": "Iran’s place in World Cup 2026 in doubt amid conflict, Trump’s dismissal.",
+        "de": "Irans Platz bei der Weltmeisterschaft 2026 steht angesichts des Konflikts und der Absetzung von Trump in Frage."
       },
       "summary": {
-        "zh": "卢特尼克与金融家爱泼斯坦的关系受到审查，文件显示两者之间的联系比之前已知的更为紧密。",
-        "en": "Lutnick's relationship with financier Epstein has come under scrutiny, with files revealing closer ties than previously known.",
-        "de": "Lutnicks Beziehung zu dem Finanzier Epstein steht unter Beobachtung, da Akten engere Verbindungen als zuvor bekannt zeigen."
+        "zh": "特朗普表示不在乎伊朗是否参加世界杯，可能迫使该国退出比赛。",
+        "en": "Trump's statement that he doesn't care if Iran participates in the World Cup may leave the country with no choice but to withdraw.",
+        "de": "Trumps Aussage, dass es ihm egal sei, ob der Iran an der Weltmeisterschaft teilnimmt, könnte das Land dazu zwingen, sich zurückzuziehen."
       },
       "source": "Al Jazeera",
       "date": "2026-03-04",
-      "url": "https://www.aljazeera.com/economy/2026/3/4/us-commerce-secretary-lutnick-to-testify-before-congress-about-epstein-ties?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/3/4/irans-place-in-world-cup-2026-in-doubt-amid-conflict-trumps-dismissal?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国参议员在伊朗战争简报后担心“地面部队”",
-        "en": "US senators fear ‘boots on the ground’ after Iran war briefing",
-        "de": "US-Senatoren befürchten „Bodenkräfte“ nach Iran-Kriegsbriefing"
+        "zh": "美国潜艇在斯里兰卡附近击沉伊朗军舰，数十人失踪。",
+        "en": "Dozens missing after US sinks Iranian military ship off Sri Lanka."
       },
       "summary": {
-        "zh": "民主党参议员在关于美国与以色列与伊朗的战争的机密简报后表示担忧，认为可能会有地面部队的部署。",
-        "en": "Democratic senators voiced alarm after a classified briefing on the U.S.-Israeli war with Iran, expressing concerns about the potential deployment of ground troops.",
-        "de": "Demokratische Senatoren äußerten Alarm nach einem geheimen Briefing über den US-israelischen Krieg mit dem Iran und äußerten Bedenken hinsichtlich einer möglichen Entsendung von Bodentruppen."
+        "zh": "美国海军潜艇在斯里兰卡附近击沉一艘伊朗军舰，导致数十名船员失踪，救援队正在进行搜索。",
+        "en": "A US submarine sank an Iranian military ship off the coast of Sri Lanka, leaving dozens of crew members missing, with rescue teams searching for them.",
+        "de": "Ein US-U-Boot versenkte ein iranisches Militärschiff vor der Küste Sri Lankas, wodurch Dutzende von Besatzungsmitgliedern vermisst werden, während Rettungsteams nach ihnen suchen."
       },
       "source": "Al Jazeera",
       "date": "2026-03-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/4/us-senators-fear-boots-on-the-ground-after-iran-war-briefing?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/4/over-100-people-missing-after-us-sinks-iranian-military-ship-off-sri-lanka?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "中东冲突对中央银行构成新的考验，油价冲击推动通货膨胀",
-        "en": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation",
-        "de": "Der Konflikt im Nahen Osten stellt eine neue Herausforderung für die Zentralbanken dar, da der Öl-Schock die Inflation anheizt"
+        "zh": "私营公司在2月份新增63,000个职位，1月份修订为仅增加11,000个。",
+        "en": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions.",
+        "de": "Private Unternehmen haben im Februar 63.000 Arbeitsplätze geschaffen, Januar wurde auf nur 11.000 Stellenanpassungen revidiert."
       },
       "summary": {
-        "zh": "中东冲突加剧，导致油价飙升，给中央银行带来了新的挑战，可能会影响其应对通货膨胀的策略。",
-        "en": "The escalating conflict in the Middle East has led to soaring oil prices, presenting new challenges for central banks that may affect their strategies to combat inflation.",
-        "de": "Der eskalierende Konflikt im Nahen Osten hat zu steigenden Ölpreisen geführt, was neue Herausforderungen für die Zentralbanken darstellt, die ihre Strategien zur Bekämpfung der Inflation beeinflussen könnten."
+        "zh": "根据ADP的数据，私营部门在2月份的就业增长显著，而1月份的就业数据经过修订后显示增长乏力。",
+        "en": "According to ADP, the private sector saw significant job growth in February, while January's employment data was revised to show weak growth.",
+        "de": "Laut ADP verzeichnete der private Sektor im Februar ein signifikantes Beschäftigungswachstum, während die Beschäftigungsdaten für Januar revidiert wurden, um ein schwaches Wachstum zu zeigen."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-04",
+      "url": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "中东冲突对中央银行提出新的考验，石油冲击推动通货膨胀。",
+        "en": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation.",
+        "de": "Der Konflikt im Nahen Osten stellt die Zentralbanken vor neue Herausforderungen, da der Öl-Schock die Inflation anheizt."
+      },
+      "summary": {
+        "zh": "中东的冲突给中央银行带来了新的挑战，石油价格的上涨可能导致通货膨胀风险加剧。",
+        "en": "The conflict in the Middle East presents new challenges for central banks, as rising oil prices may exacerbate inflation risks.",
+        "de": "Der Konflikt im Nahen Osten stellt die Zentralbanken vor neue Herausforderungen, da steigende Ölpreise die Inflationsrisiken verschärfen könnten."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-04",
       "url": "https://www.cnbc.com/2026/03/04/iran-israel-us-war-middle-east-conflict-oil-gas-lng-surge-central-banks-inflation-risk.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "特朗普宣布通货膨胀已得到控制，伊朗冲突威胁新的价格压力",
-        "en": "As Trump declares inflation tamed, Iran conflict threatens new price pressures",
-        "de": "Während Trump erklärt, die Inflation sei gezähmt, droht der Iran-Konflikt mit neuen Preisdruck"
+        "zh": "特朗普宣布通货膨胀得到遏制，伊朗冲突威胁新的价格压力。",
+        "en": "As Trump declares inflation tamed, Iran conflict threatens new price pressures.",
+        "de": "Während Trump erklärt, die Inflation sei gezähmt, droht der Konflikt mit dem Iran neuen Preisdruck."
       },
       "summary": {
-        "zh": "特朗普声称通货膨胀已得到控制，但伊朗冲突的升级可能会导致新的价格压力，影响其降低利率的主张。",
-        "en": "Trump claims inflation has been tamed, but the escalation of the Iran conflict could lead to new price pressures that undermine his case for lower interest rates.",
-        "de": "Trump behauptet, die Inflation sei gezähmt, aber die Eskalation des Iran-Konflikts könnte zu neuem Preisdruck führen, der sein Argument für niedrigere Zinssätze untergräbt."
+        "zh": "特朗普的言论可能受到伊朗冲突的影响，导致新的价格压力，可能影响其降低利率的计划。",
+        "en": "Trump's remarks may be affected by the Iran conflict, leading to new price pressures that could impact his plans for lower interest rates.",
+        "de": "Trumps Bemerkungen könnten durch den Konflikt mit dem Iran beeinflusst werden, was zu neuem Preisdruck führen könnte, der seine Pläne für niedrigere Zinssätze beeinträchtigen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-02",
       "url": "https://www.cnbc.com/2026/03/02/as-trump-declares-inflation-tamed-iran-conflict-threatens-new-price-pressures.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "CrowdStrike在网络威胁时代提供乐观的收益展望",
-        "en": "CrowdStrike gives upbeat earnings outlook as AI raises the stakes around cyberthreats",
-        "de": "CrowdStrike gibt optimistische Gewinnprognosen ab, da KI die Risiken im Bereich Cyberbedrohungen erhöht"
-      },
-      "summary": {
-        "zh": "CrowdStrike的首席执行官表示，由于对其Falcon网络安全平台的需求上升，公司对未来的收益展望持乐观态度。",
-        "en": "CrowdStrike's CEO expressed optimism about the company's earnings outlook due to rising demand for its Falcon cybersecurity platform amid increasing cyber threats.",
-        "de": "Der CEO von CrowdStrike äußerte Optimismus über die Gewinnprognose des Unternehmens aufgrund der steigenden Nachfrage nach seiner Falcon-Cybersicherheitsplattform angesichts zunehmender Cyberbedrohungen."
-      },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-03-04",
-      "url": "https://www.marketwatch.com/story/crowdstrike-gives-upbeat-earnings-outlook-as-ai-raises-the-stakes-around-cyberthreats-087a4b2e?mod=mw_rss_topstories"
     }
   ]
 }
