@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-05T05:33:41.591866+00:00",
+  "generatedAt": "2026-03-05T18:26:07.788896+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "弥合操作AI差距：AI的变革潜力已经得到充分证明。",
-        "en": "Bridging the operational AI gap: The transformational potential of AI is already well established.",
-        "de": "Die Überbrückung der betrieblichen KI-Lücke: Das transformative Potenzial von KI ist bereits gut etabliert."
+        "zh": "在线骚扰进入其人工智能时代",
+        "en": "Online harassment is entering its AI era",
+        "de": "Online-Belästigung tritt in ihr KI-Zeitalter ein"
       },
       "summary": {
-        "zh": "企业用例正在积累势头，组织正在从实验室转向实际应用，AI的变革潜力正在被充分利用。",
-        "en": "Enterprise use cases are building momentum as organizations transition from the lab to real-world applications, fully leveraging AI's transformational potential.",
-        "de": "Unternehmensanwendungen gewinnen an Dynamik, da Organisationen von Laboranwendungen zu realen Anwendungen übergehen und das transformative Potenzial von KI vollständig nutzen."
+        "zh": "一名软件库管理者拒绝了一名人工智能代理的请求，反映出人工智能在在线骚扰中的新角色。随着技术的进步，在线骚扰的形式也在不断演变。",
+        "en": "A software library manager denied an AI agent's request, highlighting the new role of AI in online harassment. As technology advances, the forms of online harassment are also evolving.",
+        "de": "Ein Softwarebibliotheksmanager wies die Anfrage eines KI-Agenten zurück, was die neue Rolle von KI bei der Online-Belästigung hervorhebt. Mit dem Fortschritt der Technologie entwickeln sich auch die Formen der Online-Belästigung weiter."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-04",
-      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/"
+      "date": "2026-03-05",
+      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：地球的震动，以及用于对伊朗的打击的AI。",
-        "en": "The Download: Earth’s rumblings, and AI for strikes on Iran.",
-        "de": "Der Download: Die Erschütterungen der Erde und KI für Angriffe auf den Iran."
+        "zh": "如何界定野火预防的界限？",
+        "en": "How much wildfire prevention is too much?",
+        "de": "Wie viel Wildfeuerschutz ist zu viel?"
       },
       "summary": {
-        "zh": "今天的下载版提供了技术领域的最新动态，包括地球的震动和AI在军事打击中的应用。",
-        "en": "Today's edition of The Download provides updates from the tech world, including Earth's rumblings and the application of AI in military strikes.",
-        "de": "Die heutige Ausgabe des Downloads bietet Neuigkeiten aus der Technikwelt, einschließlich der Erschütterungen der Erde und der Anwendung von KI in militärischen Angriffen."
+        "zh": "在防止最严重野火的竞赛中，企业提出了使用人工智能火灾检测系统和无人机的方案。随着技术的进步，如何平衡预防措施与自然生态的关系成为一个重要议题。",
+        "en": "In the race to prevent the worst wildfires, companies are proposing AI fire detection systems and drones. As technology advances, balancing preventive measures with natural ecosystems becomes a significant issue.",
+        "de": "Im Wettlauf um die Verhinderung der schlimmsten Waldbrände schlagen Unternehmen KI-Feuererkennungssysteme und Drohnen vor. Mit dem Fortschritt der Technologie wird es zu einem wichtigen Thema, präventive Maßnahmen mit natürlichen Ökosystemen in Einklang zu bringen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-04",
-      "url": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/"
+      "date": "2026-03-05",
+      "url": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "这家初创公司声称可以阻止闪电并防止灾难性野火。",
-        "en": "This startup claims it can stop lightning and prevent catastrophic wildfires.",
-        "de": "Dieses Startup behauptet, es könne Blitze stoppen und katastrophale Waldbrände verhindern."
+        "zh": "MIT技术评论内部小组",
+        "en": "MIT Technology Review Insiders Panel",
+        "de": "MIT Technology Review Insiders Panel"
       },
       "summary": {
-        "zh": "一家公司声称其技术可以阻止闪电，从而减少野火的发生，尤其是在极端天气条件下。",
-        "en": "A company claims its technology can stop lightning, thereby reducing the occurrence of wildfires, especially in extreme weather conditions.",
-        "de": "Ein Unternehmen behauptet, seine Technologie könne Blitze stoppen und damit das Auftreten von Waldbränden, insbesondere bei extremen Wetterbedingungen, reduzieren."
+        "zh": "MIT技术评论的内部小组讨论了当前技术领域的重大问题和趋势，提供了深刻的见解和分析。",
+        "en": "The MIT Technology Review Insiders Panel discussed significant issues and trends in the current technology landscape, providing deep insights and analysis.",
+        "de": "Das MIT Technology Review Insiders Panel diskutierte bedeutende Themen und Trends in der aktuellen Technologielandschaft und bot tiefgehende Einblicke und Analysen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-03",
-      "url": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/"
+      "url": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "加拿大总理卡尼表示无法排除在伊朗战争中的军事角色。",
-        "en": "Canada PM Carney says unable to rule out military role in Iran war.",
-        "de": "Kanadas PM Carney sagt, dass er eine militärische Rolle im Iran-Krieg nicht ausschließen kann."
+        "zh": "以色列的斯莫特里奇威胁贝鲁特郊区，强制撤离命令",
+        "en": "Israel’s Smotrich threatens Beirut suburbs amid evacuation orders",
+        "de": "Israels Smotrich droht den Vororten von Beirut amid Evakuierungsbefehlen"
       },
       "summary": {
-        "zh": "加拿大总理卡尼表示，无法排除在伊朗战争中可能的军事参与，并指出美以对伊朗的攻击似乎与国际法不符。",
-        "en": "Canadian Prime Minister Carney stated that he cannot rule out possible military involvement in the Iran war, noting that US-Israeli attacks on Iran appear inconsistent with international law.",
-        "de": "Der kanadische Premierminister Carney erklärte, dass er eine mögliche militärische Beteiligung am Iran-Krieg nicht ausschließen kann, und stellte fest, dass die US-israelischen Angriffe auf den Iran anscheinend nicht mit dem Völkerrecht übereinstimmen."
+        "zh": "以色列对黎巴嫩贝鲁特的达希耶地区发出强制撤离令，威胁该地区数十万居民的安全。局势紧张，可能导致更大规模的冲突。",
+        "en": "Israel issued a forced evacuation order for the Dahiyeh area of Beirut, threatening the safety of hundreds of thousands of residents. The situation is tense and could lead to larger-scale conflict.",
+        "de": "Israel hat einen Evakuierungsbefehl für das Dahiyeh-Gebiet in Beirut erlassen, der die Sicherheit von Hunderttausenden von Einwohnern bedroht. Die Situation ist angespannt und könnte zu einem größeren Konflikt führen."
       },
       "source": "Al Jazeera",
       "date": "2026-03-05",
-      "url": "https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/5/israels-smotrich-threatens-beirut-suburbs-amid-evacuation-orders?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "朝鲜金正恩监督新海军驱逐舰的巡航导弹测试。",
-        "en": "North Korea’s Kim oversees cruise missile tests from new naval destroyer.",
-        "de": "Nordkoreas Kim überwacht die Tests von Kreuzfahrtraketen von einem neuen Marinezerstörer."
+        "zh": "伊朗针对伊朗库尔德武装在伊拉克的总部进行打击",
+        "en": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
+        "de": "Iran zielt auf das Hauptquartier der iranischen kurdischen Kräfte im Irak"
       },
       "summary": {
-        "zh": "金正恩监督了从新型海军驱逐舰发射的海对地巡航导弹测试，显示出朝鲜在军事技术方面的持续进展。",
-        "en": "Kim Jong Un oversaw the launch of sea-to-surface cruise missiles from the country's new naval destroyer, showcasing North Korea's ongoing advancements in military technology.",
-        "de": "Kim Jong Un überwachte den Start von See-zu-Oberfläche-Kreuzfahrtraketen von dem neuen Marinezerstörer des Landes und demonstrierte Nordkoreas fortlaufende Fortschritte in der Militärtechnologie."
+        "zh": "伊朗军方对伊拉克境内的伊朗库尔德武装总部发起攻击，背景是美国希望这些库尔德组织参与与伊朗的冲突。局势复杂，可能引发更广泛的地区动荡。",
+        "en": "The Iranian military launched strikes against the headquarters of Iranian Kurdish forces in Iraq, amid speculation that the US wants these Kurdish groups to engage in conflict with Iran. The situation is complex and could trigger wider regional unrest.",
+        "de": "Die iranische Militärführung hat Angriffe auf das Hauptquartier der iranischen kurdischen Kräfte im Irak gestartet, während Spekulationen bestehen, dass die USA möchten, dass diese kurdischen Gruppen in den Konflikt mit Iran eingreifen. Die Situation ist komplex und könnte zu weiteren regionalen Unruhen führen."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-03-05",
-      "url": "https://www.aljazeera.com/news/2026/3/5/north-koreas-kim-oversees-cruise-missile-tests-from-new-naval-destroyer?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗的继任问题：鲁哈尼的名字在领导权真空中重新浮现。",
-        "en": "Iran’s succession question: Rouhani’s name resurfaces amid leadership void.",
-        "de": "Irans Nachfolgefrage: Rouhanis Name taucht im Führungsvakuum wieder auf."
+        "zh": "尼泊尔人在经历Z世代起义几个月后投票",
+        "en": "Nepalese vote in general election months after Gen Z uprising",
+        "de": "Nepalese stimmen bei der Parlamentswahl Monate nach dem Aufstand der Generation Z ab"
       },
       "summary": {
-        "zh": "鲁哈尼的务实和温和遗产在伊朗的领导权过渡期中重新获得关注，成为重要的政治话题。",
-        "en": "Rouhani's legacy of pragmatism and moderation gains renewed attention amid Iran's leadership transition, becoming a significant political topic.",
-        "de": "Rouhanis Erbe des Pragmatismus und der Mäßigung erhält im Zuge des Führungswechsels im Iran neue Aufmerksamkeit und wird zu einem bedeutenden politischen Thema."
+        "zh": "尼泊尔在经历了Z世代的抗议之后，举行了全国大选。尽管完整结果可能需要一周才能得出，但初步趋势预计将在周五开始显现。",
+        "en": "Nepal held general elections following protests from Gen Z. While complete results may take a week to emerge, preliminary trends are expected to start showing on Friday.",
+        "de": "Nepal hat nach Protesten der Generation Z Parlamentswahlen abgehalten. Während vollständige Ergebnisse eine Woche in Anspruch nehmen könnten, werden erste Trends voraussichtlich am Freitag sichtbar."
       },
       "source": "Al Jazeera",
       "date": "2026-03-05",
-      "url": "https://www.aljazeera.com/features/2026/3/5/irans-succession-question-rouhanis-name-resurfaces-amid-leadership-void?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/5/nepalese-vote-in-general-election-months-after-gen-z-uprising?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "私营公司在2月份新增63,000个工作岗位，1月份修正为仅新增11,000个。",
-        "en": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions.",
-        "de": "Private Unternehmen haben im Februar 63.000 Arbeitsplätze geschaffen, Januar wurde auf nur 11.000 Stellenanpassungen revidiert."
+        "zh": "私营公司在2月新增63,000个职位，1月修正为仅增加11,000个",
+        "en": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions",
+        "de": "Private Unternehmen haben im Februar 63.000 Stellen geschaffen, Januar auf nur 11.000 Stellen korrigiert"
       },
       "summary": {
-        "zh": "根据ADP的数据，私营部门在2月份的就业增长显著，而1月份的就业数据经过修正后显示增长有限。",
-        "en": "According to ADP, private sector job growth was significant in February, while January's employment data was revised to show limited growth.",
-        "de": "Laut ADP war das Beschäftigungswachstum im privaten Sektor im Februar signifikant, während die Beschäftigungsdaten für Januar revidiert wurden, um ein begrenztes Wachstum zu zeigen."
+        "zh": "根据ADP的数据，私营公司在2月新增了63,000个职位，而1月的新增职位数被修正为仅11,000个。这一数据反映了经济复苏的迹象。",
+        "en": "According to ADP, private companies added 63,000 jobs in February, while January's additions were revised down to just 11,000. This data reflects signs of economic recovery.",
+        "de": "Laut ADP haben private Unternehmen im Februar 63.000 Stellen geschaffen, während die Neuzugänge im Januar auf nur 11.000 nach unten korrigiert wurden. Diese Daten spiegeln Anzeichen einer wirtschaftlichen Erholung wider."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-03-04",
       "url": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "中东冲突对中央银行构成新考验，石油冲击助长通胀。",
-        "en": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation.",
-        "de": "Der Konflikt im Nahen Osten stellt eine neue Herausforderung für die Zentralbanken dar, da der Öl-Schock die Inflation anheizt."
+        "zh": "中东冲突对中央银行构成新考验，油价上涨引发通胀",
+        "en": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation",
+        "de": "Der Konflikt im Nahen Osten stellt eine neue Herausforderung für die Zentralbanken dar, da der Ölschock die Inflation anheizt"
       },
       "summary": {
-        "zh": "中东的冲突加剧了对中央银行的压力，因担忧油价飙升将进一步推动通货膨胀。",
-        "en": "The conflict in the Middle East is increasing pressure on central banks, with concerns that soaring oil prices will further fuel inflation.",
-        "de": "Der Konflikt im Nahen Osten erhöht den Druck auf die Zentralbanken, da Bedenken bestehen, dass steigende Ölpreise die Inflation weiter anheizen werden."
+        "zh": "中东的冲突对中央银行构成了新的考验，油价的波动可能导致通货膨胀加剧。各国央行面临着如何应对这一局势的挑战。",
+        "en": "The conflict in the Middle East poses a new test for central banks, as fluctuations in oil prices may exacerbate inflation. Central banks face challenges in responding to this situation.",
+        "de": "Der Konflikt im Nahen Osten stellt eine neue Herausforderung für die Zentralbanken dar, da Schwankungen der Ölpreise die Inflation verschärfen könnten. Die Zentralbanken stehen vor der Herausforderung, auf diese Situation zu reagieren."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-03-04",
       "url": "https://www.cnbc.com/2026/03/04/iran-israel-us-war-middle-east-conflict-oil-gas-lng-surge-central-banks-inflation-risk.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普宣布通货膨胀得到控制，伊朗冲突威胁新的价格压力。",
-        "en": "As Trump declares inflation tamed, Iran conflict threatens new price pressures.",
-        "de": "Während Trump erklärt, die Inflation sei gezähmt, droht der Iran-Konflikt mit neuen Preisdruck."
+        "zh": "克罗格延续销售失利的记录，但这并未影响其利润",
+        "en": "Kroger extended its streak of sales misses — but that’s not hurting its profits",
+        "de": "Kroger hat seine Serie von Verkaufsverfehlungen verlängert – aber das schadet seinen Gewinnen nicht"
       },
       "summary": {
-        "zh": "特朗普声称通货膨胀已得到控制，但与伊朗的冲突可能会导致新的价格上涨，影响经济政策。",
-        "en": "Trump claims inflation has been tamed, but the conflict with Iran could lead to new price increases, impacting economic policy.",
-        "de": "Trump behauptet, die Inflation sei gezähmt, aber der Konflikt mit dem Iran könnte zu neuen Preiserhöhungen führen, die sich auf die Wirtschaftspolitik auswirken."
+        "zh": "尽管克罗格在销售上连续失利，但其季度利润依然超出预期，显示出公司在盈利能力方面的韧性。",
+        "en": "Despite Kroger's streak of sales misses, its quarterly profits still exceeded expectations, demonstrating the company's resilience in profitability.",
+        "de": "Trotz der Verkaufsverfehlungen von Kroger übertrafen die Quartalsgewinne weiterhin die Erwartungen, was die Widerstandsfähigkeit des Unternehmens in Bezug auf die Rentabilität zeigt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-02",
-      "url": "https://www.cnbc.com/2026/03/02/as-trump-declares-inflation-tamed-iran-conflict-threatens-new-price-pressures.html"
+      "source": "MarketWatch",
+      "date": "2026-03-05",
+      "url": "https://www.marketwatch.com/story/kroger-extended-its-streak-of-sales-misses-but-thats-not-hurting-profits-5001f32e?mod=mw_rss_topstories"
     }
   ]
 }
