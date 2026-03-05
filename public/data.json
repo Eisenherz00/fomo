@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-04T17:06:44.848564+00:00",
+  "generatedAt": "2026-03-05T05:33:41.591866+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "弥合运营AI差距：AI的变革潜力已经得到充分证明。",
+        "zh": "弥合操作AI差距：AI的变革潜力已经得到充分证明。",
         "en": "Bridging the operational AI gap: The transformational potential of AI is already well established.",
         "de": "Die Überbrückung der betrieblichen KI-Lücke: Das transformative Potenzial von KI ist bereits gut etabliert."
       },
       "summary": {
-        "zh": "企业正在逐步采用AI技术，推动运营效率的提升。随着越来越多的用例出现，组织正在转变以适应这一趋势。",
-        "en": "Businesses are gradually adopting AI technologies, enhancing operational efficiency. With more use cases emerging, organizations are transitioning to adapt to this trend.",
-        "de": "Unternehmen übernehmen schrittweise KI-Technologien und verbessern die Betriebseffizienz. Mit dem Auftauchen weiterer Anwendungsfälle passen sich Organisationen an diesen Trend an."
+        "zh": "企业用例正在积累势头，组织正在从实验室转向实际应用，AI的变革潜力正在被充分利用。",
+        "en": "Enterprise use cases are building momentum as organizations transition from the lab to real-world applications, fully leveraging AI's transformational potential.",
+        "de": "Unternehmensanwendungen gewinnen an Dynamik, da Organisationen von Laboranwendungen zu realen Anwendungen übergehen und das transformative Potenzial von KI vollständig nutzen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-04",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：地球的轰鸣声，以及用于对伊朗进行打击的AI。",
+        "zh": "下载：地球的震动，以及用于对伊朗的打击的AI。",
         "en": "The Download: Earth’s rumblings, and AI for strikes on Iran.",
         "de": "Der Download: Die Erschütterungen der Erde und KI für Angriffe auf den Iran."
       },
       "summary": {
-        "zh": "本期下载提供了关于技术世界的最新动态，包括地球的自然现象和AI在军事行动中的应用。",
-        "en": "This edition of The Download provides the latest updates from the tech world, including natural phenomena on Earth and the application of AI in military operations.",
-        "de": "Diese Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich natürlicher Phänomene auf der Erde und der Anwendung von KI in militärischen Operationen."
+        "zh": "今天的下载版提供了技术领域的最新动态，包括地球的震动和AI在军事打击中的应用。",
+        "en": "Today's edition of The Download provides updates from the tech world, including Earth's rumblings and the application of AI in military strikes.",
+        "de": "Die heutige Ausgabe des Downloads bietet Neuigkeiten aus der Technikwelt, einschließlich der Erschütterungen der Erde und der Anwendung von KI in militärischen Angriffen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-04",
@@ -41,9 +41,9 @@
         "de": "Dieses Startup behauptet, es könne Blitze stoppen und katastrophale Waldbrände verhindern."
       },
       "summary": {
-        "zh": "一项新技术声称能够阻止闪电并减少野火的风险，这在气候变化加剧的背景下引起了广泛关注。",
-        "en": "A new technology claims to be able to stop lightning and reduce the risk of wildfires, drawing significant attention in the context of escalating climate change.",
-        "de": "Eine neue Technologie behauptet, Blitze stoppen und das Risiko von Waldbränden verringern zu können, was im Kontext des zunehmenden Klimawandels erhebliches Interesse weckt."
+        "zh": "一家公司声称其技术可以阻止闪电，从而减少野火的发生，尤其是在极端天气条件下。",
+        "en": "A company claims its technology can stop lightning, thereby reducing the occurrence of wildfires, especially in extreme weather conditions.",
+        "de": "Ein Unternehmen behauptet, seine Technologie könne Blitze stoppen und damit das Auftreten von Waldbränden, insbesondere bei extremen Wetterbedingungen, reduzieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-03",
@@ -54,63 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊拉克女性权利活动家亚纳尔·穆罕默德的杀害引发对正义的呼吁。",
-        "en": "Iraqi women’s rights activist Yanar Mohammed killing spurs call for justice.",
-        "de": "Die Ermordung der irakischen Frauenrechtsaktivistin Yanar Mohammed löst einen Aufruf zur Gerechtigkeit aus."
+        "zh": "加拿大总理卡尼表示无法排除在伊朗战争中的军事角色。",
+        "en": "Canada PM Carney says unable to rule out military role in Iran war.",
+        "de": "Kanadas PM Carney sagt, dass er eine militärische Rolle im Iran-Krieg nicht ausschließen kann."
       },
       "summary": {
-        "zh": "亚纳尔·穆罕默德的杀害被国际特赦组织谴责为对人权捍卫者的有意攻击，呼吁对其凶手进行追责。",
-        "en": "The killing of Yanar Mohammed has been condemned by Amnesty International as a calculated assault on human rights defenders, calling for accountability for her killers.",
-        "de": "Die Ermordung von Yanar Mohammed wurde von Amnesty International als gezielter Angriff auf Menschenrechtsverteidiger verurteilt, der Verantwortlichkeit für ihre Mörder fordert."
+        "zh": "加拿大总理卡尼表示，无法排除在伊朗战争中可能的军事参与，并指出美以对伊朗的攻击似乎与国际法不符。",
+        "en": "Canadian Prime Minister Carney stated that he cannot rule out possible military involvement in the Iran war, noting that US-Israeli attacks on Iran appear inconsistent with international law.",
+        "de": "Der kanadische Premierminister Carney erklärte, dass er eine mögliche militärische Beteiligung am Iran-Krieg nicht ausschließen kann, und stellte fest, dass die US-israelischen Angriffe auf den Iran anscheinend nicht mit dem Völkerrecht übereinstimmen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-04",
-      "url": "https://www.aljazeera.com/news/2026/3/4/iraqi-womens-rights-activist-yanar-mohammed-killing-spurs-call-for-justice?traffic_source=rss"
+      "date": "2026-03-05",
+      "url": "https://www.aljazeera.com/news/2026/3/5/canada-pm-carney-says-unable-to-rule-out-military-role-in-iran-war?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗在2026年世界杯中的地位因冲突和特朗普的解雇而受到怀疑。",
-        "en": "Iran’s place in World Cup 2026 in doubt amid conflict, Trump’s dismissal.",
-        "de": "Irans Platz bei der Weltmeisterschaft 2026 steht angesichts des Konflikts und der Absetzung von Trump in Frage."
+        "zh": "朝鲜金正恩监督新海军驱逐舰的巡航导弹测试。",
+        "en": "North Korea’s Kim oversees cruise missile tests from new naval destroyer.",
+        "de": "Nordkoreas Kim überwacht die Tests von Kreuzfahrtraketen von einem neuen Marinezerstörer."
       },
       "summary": {
-        "zh": "特朗普表示不在乎伊朗是否参加世界杯，可能迫使该国退出比赛。",
-        "en": "Trump's statement that he doesn't care if Iran participates in the World Cup may leave the country with no choice but to withdraw.",
-        "de": "Trumps Aussage, dass es ihm egal sei, ob der Iran an der Weltmeisterschaft teilnimmt, könnte das Land dazu zwingen, sich zurückzuziehen."
+        "zh": "金正恩监督了从新型海军驱逐舰发射的海对地巡航导弹测试，显示出朝鲜在军事技术方面的持续进展。",
+        "en": "Kim Jong Un oversaw the launch of sea-to-surface cruise missiles from the country's new naval destroyer, showcasing North Korea's ongoing advancements in military technology.",
+        "de": "Kim Jong Un überwachte den Start von See-zu-Oberfläche-Kreuzfahrtraketen von dem neuen Marinezerstörer des Landes und demonstrierte Nordkoreas fortlaufende Fortschritte in der Militärtechnologie."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-04",
-      "url": "https://www.aljazeera.com/sports/2026/3/4/irans-place-in-world-cup-2026-in-doubt-amid-conflict-trumps-dismissal?traffic_source=rss"
+      "date": "2026-03-05",
+      "url": "https://www.aljazeera.com/news/2026/3/5/north-koreas-kim-oversees-cruise-missile-tests-from-new-naval-destroyer?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国潜艇在斯里兰卡附近击沉伊朗军舰，数十人失踪。",
-        "en": "Dozens missing after US sinks Iranian military ship off Sri Lanka."
+        "zh": "伊朗的继任问题：鲁哈尼的名字在领导权真空中重新浮现。",
+        "en": "Iran’s succession question: Rouhani’s name resurfaces amid leadership void.",
+        "de": "Irans Nachfolgefrage: Rouhanis Name taucht im Führungsvakuum wieder auf."
       },
       "summary": {
-        "zh": "美国海军潜艇在斯里兰卡附近击沉一艘伊朗军舰，导致数十名船员失踪，救援队正在进行搜索。",
-        "en": "A US submarine sank an Iranian military ship off the coast of Sri Lanka, leaving dozens of crew members missing, with rescue teams searching for them.",
-        "de": "Ein US-U-Boot versenkte ein iranisches Militärschiff vor der Küste Sri Lankas, wodurch Dutzende von Besatzungsmitgliedern vermisst werden, während Rettungsteams nach ihnen suchen."
+        "zh": "鲁哈尼的务实和温和遗产在伊朗的领导权过渡期中重新获得关注，成为重要的政治话题。",
+        "en": "Rouhani's legacy of pragmatism and moderation gains renewed attention amid Iran's leadership transition, becoming a significant political topic.",
+        "de": "Rouhanis Erbe des Pragmatismus und der Mäßigung erhält im Zuge des Führungswechsels im Iran neue Aufmerksamkeit und wird zu einem bedeutenden politischen Thema."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/4/over-100-people-missing-after-us-sinks-iranian-military-ship-off-sri-lanka?traffic_source=rss"
+      "date": "2026-03-05",
+      "url": "https://www.aljazeera.com/features/2026/3/5/irans-succession-question-rouhanis-name-resurfaces-amid-leadership-void?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "私营公司在2月份新增63,000个职位，1月份修订为仅增加11,000个。",
+        "zh": "私营公司在2月份新增63,000个工作岗位，1月份修正为仅新增11,000个。",
         "en": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions.",
         "de": "Private Unternehmen haben im Februar 63.000 Arbeitsplätze geschaffen, Januar wurde auf nur 11.000 Stellenanpassungen revidiert."
       },
       "summary": {
-        "zh": "根据ADP的数据，私营部门在2月份的就业增长显著，而1月份的就业数据经过修订后显示增长乏力。",
-        "en": "According to ADP, the private sector saw significant job growth in February, while January's employment data was revised to show weak growth.",
-        "de": "Laut ADP verzeichnete der private Sektor im Februar ein signifikantes Beschäftigungswachstum, während die Beschäftigungsdaten für Januar revidiert wurden, um ein schwaches Wachstum zu zeigen."
+        "zh": "根据ADP的数据，私营部门在2月份的就业增长显著，而1月份的就业数据经过修正后显示增长有限。",
+        "en": "According to ADP, private sector job growth was significant in February, while January's employment data was revised to show limited growth.",
+        "de": "Laut ADP war das Beschäftigungswachstum im privaten Sektor im Februar signifikant, während die Beschäftigungsdaten für Januar revidiert wurden, um ein begrenztes Wachstum zu zeigen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-04",
@@ -119,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "中东冲突对中央银行提出新的考验，石油冲击推动通货膨胀。",
+        "zh": "中东冲突对中央银行构成新考验，石油冲击助长通胀。",
         "en": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation.",
-        "de": "Der Konflikt im Nahen Osten stellt die Zentralbanken vor neue Herausforderungen, da der Öl-Schock die Inflation anheizt."
+        "de": "Der Konflikt im Nahen Osten stellt eine neue Herausforderung für die Zentralbanken dar, da der Öl-Schock die Inflation anheizt."
       },
       "summary": {
-        "zh": "中东的冲突给中央银行带来了新的挑战，石油价格的上涨可能导致通货膨胀风险加剧。",
-        "en": "The conflict in the Middle East presents new challenges for central banks, as rising oil prices may exacerbate inflation risks.",
-        "de": "Der Konflikt im Nahen Osten stellt die Zentralbanken vor neue Herausforderungen, da steigende Ölpreise die Inflationsrisiken verschärfen könnten."
+        "zh": "中东的冲突加剧了对中央银行的压力，因担忧油价飙升将进一步推动通货膨胀。",
+        "en": "The conflict in the Middle East is increasing pressure on central banks, with concerns that soaring oil prices will further fuel inflation.",
+        "de": "Der Konflikt im Nahen Osten erhöht den Druck auf die Zentralbanken, da Bedenken bestehen, dass steigende Ölpreise die Inflation weiter anheizen werden."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-04",
@@ -135,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普宣布通货膨胀得到遏制，伊朗冲突威胁新的价格压力。",
+        "zh": "特朗普宣布通货膨胀得到控制，伊朗冲突威胁新的价格压力。",
         "en": "As Trump declares inflation tamed, Iran conflict threatens new price pressures.",
-        "de": "Während Trump erklärt, die Inflation sei gezähmt, droht der Konflikt mit dem Iran neuen Preisdruck."
+        "de": "Während Trump erklärt, die Inflation sei gezähmt, droht der Iran-Konflikt mit neuen Preisdruck."
       },
       "summary": {
-        "zh": "特朗普的言论可能受到伊朗冲突的影响，导致新的价格压力，可能影响其降低利率的计划。",
-        "en": "Trump's remarks may be affected by the Iran conflict, leading to new price pressures that could impact his plans for lower interest rates.",
-        "de": "Trumps Bemerkungen könnten durch den Konflikt mit dem Iran beeinflusst werden, was zu neuem Preisdruck führen könnte, der seine Pläne für niedrigere Zinssätze beeinträchtigen könnte."
+        "zh": "特朗普声称通货膨胀已得到控制，但与伊朗的冲突可能会导致新的价格上涨，影响经济政策。",
+        "en": "Trump claims inflation has been tamed, but the conflict with Iran could lead to new price increases, impacting economic policy.",
+        "de": "Trump behauptet, die Inflation sei gezähmt, aber der Konflikt mit dem Iran könnte zu neuen Preiserhöhungen führen, die sich auf die Wirtschaftspolitik auswirken."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-02",
