@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-06T05:33:51.001789+00:00",
+  "generatedAt": "2026-03-06T17:03:59.184628+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：AI代理的抨击文章，以及防止闪电",
-        "en": "The Download: an AI agent’s hit piece, and preventing lightning",
-        "de": "Der Download: ein Angriff auf einen KI-Agenten und die Verhinderung von Blitzen"
+        "zh": "下载：AI中重要的10件事，以及Anthropic计划起诉五角大楼",
+        "en": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+        "de": "Der Download: 10 Dinge, die in der KI wichtig sind, plus Anthropics Plan, das Pentagon zu verklagen"
       },
       "summary": {
-        "zh": "今天的下载提供了有关技术世界的最新动态，包括AI代理的抨击文章和防止闪电的技术。",
-        "en": "Today's Download provides the latest updates from the tech world, including a hit piece on an AI agent and technologies aimed at preventing lightning.",
-        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich eines Angriffs auf einen KI-Agenten und Technologien zur Verhinderung von Blitzen."
+        "zh": "今天的下载提供了AI领域的重要动态，包括Anthropic计划起诉五角大楼的消息。这些信息反映了AI技术的最新发展及其对社会的影响。",
+        "en": "Today's Download highlights significant developments in the AI field, including Anthropic's plan to sue the Pentagon. These insights reflect the latest advancements in AI technology and its societal implications.",
+        "de": "Der heutige Download hebt wichtige Entwicklungen im Bereich der KI hervor, einschließlich des Plans von Anthropic, das Pentagon zu verklagen. Diese Einblicke spiegeln die neuesten Fortschritte in der KI-Technologie und deren gesellschaftliche Auswirkungen wider."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-03-06",
+      "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "下载：AI代理的抨击文章，以及防止闪电",
+        "en": "The Download: an AI agent’s hit piece, and preventing lightning",
+        "de": "Der Download: Ein Angriff auf einen KI-Agenten und die Verhinderung von Blitzen"
+      },
+      "summary": {
+        "zh": "今天的下载探讨了AI代理的负面报道以及防止闪电的技术进展。这些主题展示了AI在不同领域的应用及其潜在挑战。",
+        "en": "Today's Download discusses negative coverage of an AI agent and technological advancements in preventing lightning. These topics showcase the applications of AI across various fields and the potential challenges.",
+        "de": "Der heutige Download behandelt negative Berichterstattung über einen KI-Agenten und technologische Fortschritte zur Verhinderung von Blitzen. Diese Themen zeigen die Anwendungen von KI in verschiedenen Bereichen und die potenziellen Herausforderungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-05",
       "url": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
         "zh": "在线骚扰进入AI时代",
         "en": "Online harassment is entering its AI era",
         "de": "Online-Belästigung betritt ihre KI-Ära"
       },
       "summary": {
-        "zh": "随着AI技术的发展，在线骚扰的形式和手段也在不断演变，给受害者带来了新的挑战。",
-        "en": "As AI technology evolves, the forms and methods of online harassment are also changing, presenting new challenges for victims.",
-        "de": "Mit der Entwicklung der KI-Technologie verändern sich auch die Formen und Methoden der Online-Belästigung, was neue Herausforderungen für die Opfer mit sich bringt."
+        "zh": "这篇文章探讨了在线骚扰如何受到AI技术的影响。随着AI的普及，骚扰行为的模式和影响也在发生变化。",
+        "en": "This article explores how online harassment is being influenced by AI technology. As AI becomes more prevalent, the patterns and impacts of harassment behavior are also changing.",
+        "de": "Dieser Artikel untersucht, wie Online-Belästigung von KI-Technologie beeinflusst wird. Mit der zunehmenden Verbreitung von KI ändern sich auch die Muster und Auswirkungen von Belästigungsverhalten."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-05",
       "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "大型语言模型可以以惊人的准确性揭示伪匿名用户",
-        "en": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-        "de": "LLMs können pseudonyme Benutzer in großem Maßstab mit überraschender Genauigkeit entlarven"
-      },
-      "summary": {
-        "zh": "大型语言模型的能力正在提高，能够以惊人的准确性识别伪匿名用户，这对隐私保护构成了新的威胁。",
-        "en": "The capabilities of large language models are increasing, enabling them to identify pseudonymous users with surprising accuracy, posing new threats to privacy protection.",
-        "de": "Die Fähigkeiten großer Sprachmodelle nehmen zu, wodurch sie pseudonyme Benutzer mit überraschender Genauigkeit identifizieren können, was neue Bedrohungen für den Datenschutz darstellt."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-03-03",
-      "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国众议院与参议院共同投票否决战争权力决议",
-        "en": "US House joins Senate to vote down war powers resolution",
-        "de": "US-Repräsentantenhaus stimmt zusammen mit dem Senat gegen den Kriegsbefugnisbeschluss"
+        "zh": "以色列将“加沙剧本”扩展至黎巴嫩，慈善机构警告",
+        "en": "Israel extending ‘Gaza playbook’ to Lebanon, charity warns",
+        "de": "Israel erweitert das ‚Gaza-Drehbuch‘ auf den Libanon, warnt eine Wohltätigkeitsorganisation"
       },
       "summary": {
-        "zh": "美国众议院与参议院共同否决了一项针对伊朗战争的战争权力决议，显示出对军事干预的抵制。",
-        "en": "The US House of Representatives joined the Senate in voting down a war powers resolution regarding the war in Iran, reflecting resistance to military intervention.",
-        "de": "Das US-Repräsentantenhaus hat zusammen mit dem Senat gegen einen Kriegsbefugnisbeschluss bezüglich des Krieges im Iran gestimmt, was Widerstand gegen militärische Interventionen zeigt."
+        "zh": "慈善机构指责以色列在黎巴嫩故意恐吓平民，称其正在将加沙的战术扩展到黎巴嫩。这一警告引发了对地区安全局势的担忧。",
+        "en": "A charity accuses Israel of deliberately terrorizing civilian populations in Lebanon, claiming it is extending its Gaza tactics to the region. This warning raises concerns about the security situation in the area.",
+        "de": "Eine Wohltätigkeitsorganisation beschuldigt Israel, die Zivilbevölkerung im Libanon absichtlich zu terrorisieren, und behauptet, es erweitere seine Gaza-Taktiken auf die Region. Diese Warnung weckt Bedenken hinsichtlich der Sicherheitslage in der Gegend."
       },
       "source": "Al Jazeera",
       "date": "2026-03-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-house-joins-senate-to-vote-down-war-powers-resolution?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/6/israel-extending-gaza-playbook-to-lebanon-charity-warns?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国表示伊朗导弹袭击在B-2轰炸机打击后减少90%",
-        "en": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
-        "de": "Die USA berichten, dass die iranischen Raketenangriffe nach Angriffen von B-2-Bombern um 90 % zurückgegangen sind"
+        "zh": "特朗普主持拉美领导人峰会以对抗中国",
+        "en": "In a bid to counter China, Trump hosts a summit for Latin America leaders",
+        "de": "Um China entgegenzuwirken, veranstaltet Trump einen Gipfel für lateinamerikanische Führer"
       },
       "summary": {
-        "zh": "美国表示，经过B-2轰炸机的打击，伊朗的导弹袭击减少了90%，显示出军事行动的影响。",
-        "en": "The US reported that Iranian missile attacks have decreased by 90% following strikes from B-2 bombers, demonstrating the impact of military action.",
-        "de": "Die USA berichteten, dass die iranischen Raketenangriffe nach Angriffen von B-2-Bombern um 90 % zurückgegangen sind, was die Auswirkungen militärischer Aktionen zeigt."
+        "zh": "特朗普召开峰会，旨在为拉美国家提供经济利益，以对抗中国在该地区的影响力。专家指出，实际的经济利益至关重要。",
+        "en": "Trump hosts a summit aimed at offering economic benefits to Latin American countries to counter China's influence in the region. Experts emphasize that tangible economic benefits are crucial.",
+        "de": "Trump veranstaltet einen Gipfel, der darauf abzielt, lateinamerikanischen Ländern wirtschaftliche Vorteile zu bieten, um Chinas Einfluss in der Region entgegenzuwirken. Experten betonen, dass greifbare wirtschaftliche Vorteile entscheidend sind."
       },
       "source": "Al Jazeera",
       "date": "2026-03-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/6/in-a-bid-to-counter-china-trump-hosts-a-summit-for-latin-america-leaders?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普表示伊朗正在被‘摧毁’，海湾攻击持续",
-        "en": "Iran war live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
-        "de": "Iran-Krieg live: Trump sagt, Iran werde ‚demoliert‘, während die Angriffe im Golf fortgesetzt werden"
+        "zh": "特朗普表示：与伊朗没有其他协议，除了无条件投降",
+        "en": "‘No deal with Iran except unconditional surrender,’ Trump says",
+        "de": "‚Kein Deal mit dem Iran außer bedingungsloser Kapitulation‘, sagt Trump"
       },
       "summary": {
-        "zh": "特朗普声称伊朗正在被摧毁，同时海湾地区的攻击仍在继续，局势依然紧张。",
-        "en": "Trump claimed that Iran is being demolished as attacks in the Gulf continue, with the situation remaining tense.",
-        "de": "Trump behauptete, dass Iran demontiert wird, während die Angriffe im Golf fortgesetzt werden, wobei die Situation angespannt bleibt."
+        "zh": "特朗普在冲突加剧的背景下，明确表示与伊朗的任何协议都必须以无条件投降为前提。这一立场加剧了地区紧张局势。",
+        "en": "Trump states that any deal with Iran must be contingent on unconditional surrender, amid escalating conflict. This stance intensifies regional tensions.",
+        "de": "Trump erklärt, dass jeder Deal mit dem Iran von einer bedingungslosen Kapitulation abhängen muss, während der Konflikt eskaliert. Diese Haltung verstärkt die Spannungen in der Region."
       },
       "source": "Al Jazeera",
       "date": "2026-03-06",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/6/no-deal-with-iran-except-unconditional-surrender-trump-says?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "阿联酋考虑冻结伊朗资产，因中东冲突升级",
-        "en": "UAE mulls freezing Iranian assets as Middle East conflict escalates",
-        "de": "VAE erwägen, iranische Vermögenswerte einzufrieren, da sich der Konflikt im Nahen Osten zuspitzt"
+        "zh": "旧金山联储的达利表示就业报告使利率决定复杂化",
+        "en": "San Francisco Fed's Daly says jobs report complicates interest rate call",
+        "de": "Die Präsidentin der San Francisco Fed, Daly, sagt, dass der Arbeitsmarktbericht die Zinspolitik kompliziert"
       },
       "summary": {
-        "zh": "阿联酋正在考虑冻结数十亿美元的伊朗资产，这可能会切断德黑兰最关键的经济来源之一。",
-        "en": "The UAE is considering freezing billions of dollars of Iranian assets, which could sever one of Tehran's most critical economic lifelines.",
-        "de": "Die VAE ziehen in Betracht, Milliarden von Dollar iranischer Vermögenswerte einzufrieren, was eine der kritischsten wirtschaftlichen Lebensadern Teherans abschneiden könnte."
+        "zh": "旧金山联储的达利表示，疲弱的就业报告使得利率决策变得更加复杂。这一消息可能影响市场对未来利率走向的预期。",
+        "en": "San Francisco Fed's Daly states that the weak jobs report complicates interest rate decision-making. This news may affect market expectations regarding future interest rate trends.",
+        "de": "Die Präsidentin der San Francisco Fed, Daly, erklärt, dass der schwache Arbeitsmarktbericht die Zinspolitik kompliziert. Diese Nachricht könnte die Markterwartungen bezüglich zukünftiger Zinsentwicklungen beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-06",
-      "url": "https://www.cnbc.com/2026/03/06/uae-mulls-freezing-iranian-assets-as-middle-east-conflict-escalates-wsj-.html"
+      "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "2月就业数据将于周五发布。以下是预期：",
-        "en": "The February jobs numbers are coming out Friday. Here's what to expect",
-        "de": "Die Beschäftigungszahlen für Februar werden am Freitag veröffentlicht. Das ist zu erwarten"
+        "zh": "美国2月份非农就业人数意外减少92,000，失业率上升至4.4%",
+        "en": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
+        "de": "Die US-Beschäftigung ist im Februar unerwartet um 92.000 gesunken; die Arbeitslosenquote steigt auf 4,4%"
       },
       "summary": {
-        "zh": "经济学家预计，2月份的就业增长将达到50,000，低于1月份意外高达130,000的水平。",
-        "en": "Economists expect payroll growth of 50,000 for February, down from January's unexpectedly high figure of 130,000.",
-        "de": "Ökonomen erwarten für Februar ein Beschäftigungswachstum von 50.000, nach unerwartet hohen 130.000 im Januar."
+        "zh": "2月份的非农就业人数意外减少，失业率上升至4.4%。这一数据可能会对市场情绪和政策制定产生重大影响。",
+        "en": "February's nonfarm payrolls unexpectedly fell, with the unemployment rate rising to 4.4%. This data may have significant implications for market sentiment and policymaking.",
+        "de": "Die Beschäftigung außerhalb der Landwirtschaft ist im Februar unerwartet gesunken, während die Arbeitslosenquote auf 4,4 % gestiegen ist. Diese Daten könnten erhebliche Auswirkungen auf die Marktstimmung und die Politikgestaltung haben."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-05",
-      "url": "https://www.cnbc.com/2026/03/05/february-2026-jobs-report-preview.html"
+      "date": "2026-03-06",
+      "url": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "Marvell的股票因强劲的AI驱动需求而飙升",
-        "en": "Marvell’s stock soars as robust AI-driven demand drives an earnings beat",
-        "de": "Marvells Aktien steigen, da robuste, von KI getriebene Nachfrage zu einem Gewinnüberschuss führt"
+        "zh": "美国-伊朗战争如何已经影响消费者的口袋",
+        "en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
+        "de": "So wirkt sich der US-Iran-Krieg bereits auf die Geldbörsen der Verbraucher aus"
       },
       "summary": {
-        "zh": "Marvell的股票在盘后交易中大幅上涨，因其乐观的财报和全年的指引。",
-        "en": "Marvell's stock surged in after-hours trading due to an upbeat earnings report and full-year guidance.",
-        "de": "Die Aktien von Marvell stiegen im nachbörslichen Handel aufgrund eines optimistischen Gewinnberichts und der Prognose für das Gesamtjahr."
+        "zh": "美国和以色列对伊朗的攻击导致市场波动，抵押贷款利率飙升，消费者面临更高的价格。这场战争的经济影响正在显现。",
+        "en": "The U.S. and Israeli strikes on Iran have led to market volatility, spiking mortgage rates, and higher prices for consumers. The economic impacts of this war are becoming evident.",
+        "de": "Die Angriffe der USA und Israels auf den Iran haben zu Marktschwankungen, steigenden Hypothekenzinsen und höheren Preisen für Verbraucher geführt. Die wirtschaftlichen Auswirkungen dieses Krieges werden zunehmend deutlich."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC – Markets",
       "date": "2026-03-06",
-      "url": "https://www.marketwatch.com/story/marvells-stock-soars-as-robust-ai-driven-demand-drives-an-earnings-beat-51574cc0?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html"
     }
   ]
 }
