@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-05T18:26:07.788896+00:00",
+  "generatedAt": "2026-03-06T05:33:51.001789+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "在线骚扰进入其人工智能时代",
-        "en": "Online harassment is entering its AI era",
-        "de": "Online-Belästigung tritt in ihr KI-Zeitalter ein"
+        "zh": "下载：AI代理的抨击文章，以及防止闪电",
+        "en": "The Download: an AI agent’s hit piece, and preventing lightning",
+        "de": "Der Download: ein Angriff auf einen KI-Agenten und die Verhinderung von Blitzen"
       },
       "summary": {
-        "zh": "一名软件库管理者拒绝了一名人工智能代理的请求，反映出人工智能在在线骚扰中的新角色。随着技术的进步，在线骚扰的形式也在不断演变。",
-        "en": "A software library manager denied an AI agent's request, highlighting the new role of AI in online harassment. As technology advances, the forms of online harassment are also evolving.",
-        "de": "Ein Softwarebibliotheksmanager wies die Anfrage eines KI-Agenten zurück, was die neue Rolle von KI bei der Online-Belästigung hervorhebt. Mit dem Fortschritt der Technologie entwickeln sich auch die Formen der Online-Belästigung weiter."
+        "zh": "今天的下载提供了有关技术世界的最新动态，包括AI代理的抨击文章和防止闪电的技术。",
+        "en": "Today's Download provides the latest updates from the tech world, including a hit piece on an AI agent and technologies aimed at preventing lightning.",
+        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich eines Angriffs auf einen KI-Agenten und Technologien zur Verhinderung von Blitzen."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-03-05",
+      "url": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "在线骚扰进入AI时代",
+        "en": "Online harassment is entering its AI era",
+        "de": "Online-Belästigung betritt ihre KI-Ära"
+      },
+      "summary": {
+        "zh": "随着AI技术的发展，在线骚扰的形式和手段也在不断演变，给受害者带来了新的挑战。",
+        "en": "As AI technology evolves, the forms and methods of online harassment are also changing, presenting new challenges for victims.",
+        "de": "Mit der Entwicklung der KI-Technologie verändern sich auch die Formen und Methoden der Online-Belästigung, was neue Herausforderungen für die Opfer mit sich bringt."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-05",
       "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "如何界定野火预防的界限？",
-        "en": "How much wildfire prevention is too much?",
-        "de": "Wie viel Wildfeuerschutz ist zu viel?"
-      },
-      "summary": {
-        "zh": "在防止最严重野火的竞赛中，企业提出了使用人工智能火灾检测系统和无人机的方案。随着技术的进步，如何平衡预防措施与自然生态的关系成为一个重要议题。",
-        "en": "In the race to prevent the worst wildfires, companies are proposing AI fire detection systems and drones. As technology advances, balancing preventive measures with natural ecosystems becomes a significant issue.",
-        "de": "Im Wettlauf um die Verhinderung der schlimmsten Waldbrände schlagen Unternehmen KI-Feuererkennungssysteme und Drohnen vor. Mit dem Fortschritt der Technologie wird es zu einem wichtigen Thema, präventive Maßnahmen mit natürlichen Ökosystemen in Einklang zu bringen."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-03-05",
-      "url": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "MIT技术评论内部小组",
-        "en": "MIT Technology Review Insiders Panel",
-        "de": "MIT Technology Review Insiders Panel"
+        "zh": "大型语言模型可以以惊人的准确性揭示伪匿名用户",
+        "en": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+        "de": "LLMs können pseudonyme Benutzer in großem Maßstab mit überraschender Genauigkeit entlarven"
       },
       "summary": {
-        "zh": "MIT技术评论的内部小组讨论了当前技术领域的重大问题和趋势，提供了深刻的见解和分析。",
-        "en": "The MIT Technology Review Insiders Panel discussed significant issues and trends in the current technology landscape, providing deep insights and analysis.",
-        "de": "Das MIT Technology Review Insiders Panel diskutierte bedeutende Themen und Trends in der aktuellen Technologielandschaft und bot tiefgehende Einblicke und Analysen."
+        "zh": "大型语言模型的能力正在提高，能够以惊人的准确性识别伪匿名用户，这对隐私保护构成了新的威胁。",
+        "en": "The capabilities of large language models are increasing, enabling them to identify pseudonymous users with surprising accuracy, posing new threats to privacy protection.",
+        "de": "Die Fähigkeiten großer Sprachmodelle nehmen zu, wodurch sie pseudonyme Benutzer mit überraschender Genauigkeit identifizieren können, was neue Bedrohungen für den Datenschutz darstellt."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-03-03",
-      "url": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/"
+      "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列的斯莫特里奇威胁贝鲁特郊区，强制撤离命令",
-        "en": "Israel’s Smotrich threatens Beirut suburbs amid evacuation orders",
-        "de": "Israels Smotrich droht den Vororten von Beirut amid Evakuierungsbefehlen"
+        "zh": "美国众议院与参议院共同投票否决战争权力决议",
+        "en": "US House joins Senate to vote down war powers resolution",
+        "de": "US-Repräsentantenhaus stimmt zusammen mit dem Senat gegen den Kriegsbefugnisbeschluss"
       },
       "summary": {
-        "zh": "以色列对黎巴嫩贝鲁特的达希耶地区发出强制撤离令，威胁该地区数十万居民的安全。局势紧张，可能导致更大规模的冲突。",
-        "en": "Israel issued a forced evacuation order for the Dahiyeh area of Beirut, threatening the safety of hundreds of thousands of residents. The situation is tense and could lead to larger-scale conflict.",
-        "de": "Israel hat einen Evakuierungsbefehl für das Dahiyeh-Gebiet in Beirut erlassen, der die Sicherheit von Hunderttausenden von Einwohnern bedroht. Die Situation ist angespannt und könnte zu einem größeren Konflikt führen."
+        "zh": "美国众议院与参议院共同否决了一项针对伊朗战争的战争权力决议，显示出对军事干预的抵制。",
+        "en": "The US House of Representatives joined the Senate in voting down a war powers resolution regarding the war in Iran, reflecting resistance to military intervention.",
+        "de": "Das US-Repräsentantenhaus hat zusammen mit dem Senat gegen einen Kriegsbefugnisbeschluss bezüglich des Krieges im Iran gestimmt, was Widerstand gegen militärische Interventionen zeigt."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-05",
-      "url": "https://www.aljazeera.com/news/2026/3/5/israels-smotrich-threatens-beirut-suburbs-amid-evacuation-orders?traffic_source=rss"
+      "date": "2026-03-06",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-house-joins-senate-to-vote-down-war-powers-resolution?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗针对伊朗库尔德武装在伊拉克的总部进行打击",
-        "en": "Iran targets headquarters of Iranian Kurdish forces in Iraq",
-        "de": "Iran zielt auf das Hauptquartier der iranischen kurdischen Kräfte im Irak"
+        "zh": "美国表示伊朗导弹袭击在B-2轰炸机打击后减少90%",
+        "en": "US says Iran missile attacks down 90% after strikes from B-2 bombers",
+        "de": "Die USA berichten, dass die iranischen Raketenangriffe nach Angriffen von B-2-Bombern um 90 % zurückgegangen sind"
       },
       "summary": {
-        "zh": "伊朗军方对伊拉克境内的伊朗库尔德武装总部发起攻击，背景是美国希望这些库尔德组织参与与伊朗的冲突。局势复杂，可能引发更广泛的地区动荡。",
-        "en": "The Iranian military launched strikes against the headquarters of Iranian Kurdish forces in Iraq, amid speculation that the US wants these Kurdish groups to engage in conflict with Iran. The situation is complex and could trigger wider regional unrest.",
-        "de": "Die iranische Militärführung hat Angriffe auf das Hauptquartier der iranischen kurdischen Kräfte im Irak gestartet, während Spekulationen bestehen, dass die USA möchten, dass diese kurdischen Gruppen in den Konflikt mit Iran eingreifen. Die Situation ist komplex und könnte zu weiteren regionalen Unruhen führen."
+        "zh": "美国表示，经过B-2轰炸机的打击，伊朗的导弹袭击减少了90%，显示出军事行动的影响。",
+        "en": "The US reported that Iranian missile attacks have decreased by 90% following strikes from B-2 bombers, demonstrating the impact of military action.",
+        "de": "Die USA berichteten, dass die iranischen Raketenangriffe nach Angriffen von B-2-Bombern um 90 % zurückgegangen sind, was die Auswirkungen militärischer Aktionen zeigt."
       },
-      "source": "BBC News",
-      "date": "2026-03-05",
-      "url": "https://www.bbc.com/news/articles/c2k88y1147jo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-03-06",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/6/us-says-iran-missile-attacks-down-90-after-strikes-from-b-2-bombers?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "尼泊尔人在经历Z世代起义几个月后投票",
-        "en": "Nepalese vote in general election months after Gen Z uprising",
-        "de": "Nepalese stimmen bei der Parlamentswahl Monate nach dem Aufstand der Generation Z ab"
+        "zh": "特朗普表示伊朗正在被‘摧毁’，海湾攻击持续",
+        "en": "Iran war live: Trump says Iran being ‘demolished’ as Gulf attacks continue",
+        "de": "Iran-Krieg live: Trump sagt, Iran werde ‚demoliert‘, während die Angriffe im Golf fortgesetzt werden"
       },
       "summary": {
-        "zh": "尼泊尔在经历了Z世代的抗议之后，举行了全国大选。尽管完整结果可能需要一周才能得出，但初步趋势预计将在周五开始显现。",
-        "en": "Nepal held general elections following protests from Gen Z. While complete results may take a week to emerge, preliminary trends are expected to start showing on Friday.",
-        "de": "Nepal hat nach Protesten der Generation Z Parlamentswahlen abgehalten. Während vollständige Ergebnisse eine Woche in Anspruch nehmen könnten, werden erste Trends voraussichtlich am Freitag sichtbar."
+        "zh": "特朗普声称伊朗正在被摧毁，同时海湾地区的攻击仍在继续，局势依然紧张。",
+        "en": "Trump claimed that Iran is being demolished as attacks in the Gulf continue, with the situation remaining tense.",
+        "de": "Trump behauptete, dass Iran demontiert wird, während die Angriffe im Golf fortgesetzt werden, wobei die Situation angespannt bleibt."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-05",
-      "url": "https://www.aljazeera.com/news/2026/3/5/nepalese-vote-in-general-election-months-after-gen-z-uprising?traffic_source=rss"
+      "date": "2026-03-06",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/6/iran-live-trump-says-iran-being-demolished-tehran-keeps-up-gulf-attacks?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "私营公司在2月新增63,000个职位，1月修正为仅增加11,000个",
-        "en": "Private companies added 63,000 jobs in February, January revised to just 11,000 additions",
-        "de": "Private Unternehmen haben im Februar 63.000 Stellen geschaffen, Januar auf nur 11.000 Stellen korrigiert"
+        "zh": "阿联酋考虑冻结伊朗资产，因中东冲突升级",
+        "en": "UAE mulls freezing Iranian assets as Middle East conflict escalates",
+        "de": "VAE erwägen, iranische Vermögenswerte einzufrieren, da sich der Konflikt im Nahen Osten zuspitzt"
       },
       "summary": {
-        "zh": "根据ADP的数据，私营公司在2月新增了63,000个职位，而1月的新增职位数被修正为仅11,000个。这一数据反映了经济复苏的迹象。",
-        "en": "According to ADP, private companies added 63,000 jobs in February, while January's additions were revised down to just 11,000. This data reflects signs of economic recovery.",
-        "de": "Laut ADP haben private Unternehmen im Februar 63.000 Stellen geschaffen, während die Neuzugänge im Januar auf nur 11.000 nach unten korrigiert wurden. Diese Daten spiegeln Anzeichen einer wirtschaftlichen Erholung wider."
+        "zh": "阿联酋正在考虑冻结数十亿美元的伊朗资产，这可能会切断德黑兰最关键的经济来源之一。",
+        "en": "The UAE is considering freezing billions of dollars of Iranian assets, which could sever one of Tehran's most critical economic lifelines.",
+        "de": "Die VAE ziehen in Betracht, Milliarden von Dollar iranischer Vermögenswerte einzufrieren, was eine der kritischsten wirtschaftlichen Lebensadern Teherans abschneiden könnte."
       },
-      "source": "CNBC",
-      "date": "2026-03-04",
-      "url": "https://www.cnbc.com/2026/03/04/private-companies-added-63000-jobs-in-february-january-revised-to-just-11000-additions-adp-says.html"
+      "source": "CNBC – Markets",
+      "date": "2026-03-06",
+      "url": "https://www.cnbc.com/2026/03/06/uae-mulls-freezing-iranian-assets-as-middle-east-conflict-escalates-wsj-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "中东冲突对中央银行构成新考验，油价上涨引发通胀",
-        "en": "Middle East conflict poses fresh test to central banks as oil shock fuels inflation",
-        "de": "Der Konflikt im Nahen Osten stellt eine neue Herausforderung für die Zentralbanken dar, da der Ölschock die Inflation anheizt"
+        "zh": "2月就业数据将于周五发布。以下是预期：",
+        "en": "The February jobs numbers are coming out Friday. Here's what to expect",
+        "de": "Die Beschäftigungszahlen für Februar werden am Freitag veröffentlicht. Das ist zu erwarten"
       },
       "summary": {
-        "zh": "中东的冲突对中央银行构成了新的考验，油价的波动可能导致通货膨胀加剧。各国央行面临着如何应对这一局势的挑战。",
-        "en": "The conflict in the Middle East poses a new test for central banks, as fluctuations in oil prices may exacerbate inflation. Central banks face challenges in responding to this situation.",
-        "de": "Der Konflikt im Nahen Osten stellt eine neue Herausforderung für die Zentralbanken dar, da Schwankungen der Ölpreise die Inflation verschärfen könnten. Die Zentralbanken stehen vor der Herausforderung, auf diese Situation zu reagieren."
+        "zh": "经济学家预计，2月份的就业增长将达到50,000，低于1月份意外高达130,000的水平。",
+        "en": "Economists expect payroll growth of 50,000 for February, down from January's unexpectedly high figure of 130,000.",
+        "de": "Ökonomen erwarten für Februar ein Beschäftigungswachstum von 50.000, nach unerwartet hohen 130.000 im Januar."
       },
-      "source": "CNBC",
-      "date": "2026-03-04",
-      "url": "https://www.cnbc.com/2026/03/04/iran-israel-us-war-middle-east-conflict-oil-gas-lng-surge-central-banks-inflation-risk.html"
+      "source": "CNBC – Markets",
+      "date": "2026-03-05",
+      "url": "https://www.cnbc.com/2026/03/05/february-2026-jobs-report-preview.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "克罗格延续销售失利的记录，但这并未影响其利润",
-        "en": "Kroger extended its streak of sales misses — but that’s not hurting its profits",
-        "de": "Kroger hat seine Serie von Verkaufsverfehlungen verlängert – aber das schadet seinen Gewinnen nicht"
+        "zh": "Marvell的股票因强劲的AI驱动需求而飙升",
+        "en": "Marvell’s stock soars as robust AI-driven demand drives an earnings beat",
+        "de": "Marvells Aktien steigen, da robuste, von KI getriebene Nachfrage zu einem Gewinnüberschuss führt"
       },
       "summary": {
-        "zh": "尽管克罗格在销售上连续失利，但其季度利润依然超出预期，显示出公司在盈利能力方面的韧性。",
-        "en": "Despite Kroger's streak of sales misses, its quarterly profits still exceeded expectations, demonstrating the company's resilience in profitability.",
-        "de": "Trotz der Verkaufsverfehlungen von Kroger übertrafen die Quartalsgewinne weiterhin die Erwartungen, was die Widerstandsfähigkeit des Unternehmens in Bezug auf die Rentabilität zeigt."
+        "zh": "Marvell的股票在盘后交易中大幅上涨，因其乐观的财报和全年的指引。",
+        "en": "Marvell's stock surged in after-hours trading due to an upbeat earnings report and full-year guidance.",
+        "de": "Die Aktien von Marvell stiegen im nachbörslichen Handel aufgrund eines optimistischen Gewinnberichts und der Prognose für das Gesamtjahr."
       },
-      "source": "MarketWatch",
-      "date": "2026-03-05",
-      "url": "https://www.marketwatch.com/story/kroger-extended-its-streak-of-sales-misses-but-thats-not-hurting-profits-5001f32e?mod=mw_rss_topstories"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-06",
+      "url": "https://www.marketwatch.com/story/marvells-stock-soars-as-robust-ai-driven-demand-drives-an-earnings-beat-51574cc0?mod=mw_rss_topstories"
     }
   ]
 }
