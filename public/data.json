@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-07T05:22:53.890219+00:00",
+  "generatedAt": "2026-03-07T16:48:30.415183+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "五角大楼是否被允许用人工智能监视美国人？",
+        "zh": "五角大楼是否允许用人工智能监视美国人？",
         "en": "Is the Pentagon allowed to surveil Americans with AI?",
         "de": "Darf das Pentagon Amerikaner mit KI überwachen?"
       },
       "summary": {
-        "zh": "五角大楼与人工智能公司Anthropic之间的持续争执引发了一个深刻且尚未解答的问题：法律是否允许五角大楼监视美国人。",
-        "en": "The ongoing public feud between the Pentagon and the AI company Anthropic has raised a deep and still unanswered question: Does the law allow the Pentagon to surveil Americans?",
-        "de": "Der anhaltende öffentliche Streit zwischen dem Pentagon und dem KI-Unternehmen Anthropic wirft eine tiefgreifende und noch unbeantwortete Frage auf: Darf das Gesetz das Pentagon erlauben, Amerikaner zu überwachen?"
+        "zh": "五角大楼与人工智能公司Anthropic之间的公开争执引发了一个深刻且尚未解答的问题：法律是否允许五角大楼监视美国公民？",
+        "en": "The ongoing public feud between the Pentagon and AI company Anthropic raises a profound and unanswered question: Is the law allowing the Pentagon to surveil American citizens?",
+        "de": "Der anhaltende öffentliche Streit zwischen dem Pentagon und dem KI-Unternehmen Anthropic wirft eine tiefgreifende und unbeantwortete Frage auf: Erlaubt das Gesetz dem Pentagon, Amerikaner zu überwachen?"
       },
       "source": "MIT Technology Review",
       "date": "2026-03-06",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：人工智能领域10个重要事项，以及Anthropic计划起诉五角大楼",
+        "zh": "下载：人工智能中10个重要事项，以及Anthropic起诉五角大楼的计划",
         "en": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-        "de": "Der Download: 10 wichtige Dinge in der KI, plus Anthropics Plan, das Pentagon zu verklagen"
+        "de": "Der Download: 10 Dinge, die in der KI wichtig sind, plus Anthropics Plan, das Pentagon zu verklagen"
       },
       "summary": {
-        "zh": "今天的下载版提供了人工智能领域10个重要事项的更新，以及Anthropic计划起诉五角大楼的最新消息。",
-        "en": "Today's edition of The Download provides an update on 10 important matters in the field of AI, along with news of Anthropic's plan to sue the Pentagon.",
-        "de": "Die heutige Ausgabe des Downloads bietet ein Update zu 10 wichtigen Themen im Bereich KI sowie Neuigkeiten über Anthropics Plan, das Pentagon zu verklagen."
+        "zh": "今天的下载版包含了人工智能领域的10个重要事项，以及Anthropic计划起诉五角大楼的最新消息。",
+        "en": "Today's edition of The Download includes 10 important matters in the field of AI, along with updates on Anthropic's plan to sue the Pentagon.",
+        "de": "Die heutige Ausgabe des Downloads enthält 10 wichtige Punkte im Bereich KI sowie Neuigkeiten zu Anthropics Plan, das Pentagon zu verklagen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-06",
@@ -41,9 +41,9 @@
         "de": "Online-Belästigung tritt in ihre KI-Ära ein"
       },
       "summary": {
-        "zh": "Scott Shambaugh拒绝了一名人工智能代理的请求，表明在线骚扰正逐渐进入一个新的阶段，涉及人工智能的使用。",
-        "en": "Scott Shambaugh denied a request from an AI agent, indicating that online harassment is entering a new phase involving the use of AI.",
-        "de": "Scott Shambaugh wies eine Anfrage eines KI-Agenten zurück, was darauf hindeutet, dass Online-Belästigung in eine neue Phase eintritt, die den Einsatz von KI umfasst."
+        "zh": "随着人工智能技术的发展，在线骚扰的形式也在演变，Scott Shambaugh拒绝了一个AI代理的请求，这一事件引发了对新型骚扰方式的讨论。",
+        "en": "With the advancement of AI technology, the forms of online harassment are evolving, as evidenced by Scott Shambaugh's refusal of an AI agent's request, sparking discussions on new harassment methods.",
+        "de": "Mit dem Fortschritt der KI-Technologie entwickeln sich auch die Formen der Online-Belästigung weiter, wie das Beispiel von Scott Shambaugh zeigt, der die Anfrage eines KI-Agenten ablehnte und Diskussionen über neue Belästigungsformen auslöste."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-05",
@@ -54,96 +54,96 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "为什么也门的胡塞武装目前不参与以色列-美国与伊朗的斗争",
-        "en": "Why Yemen’s Houthis are staying out of Israel-US fight with Iran – for now",
-        "de": "Warum die Huthis im Jemen sich vorerst aus dem Israel-US-Kampf gegen den Iran heraushalten"
+        "zh": "对伊朗的战争：将走多远？",
+        "en": "War against Iran: How far will it go?",
+        "de": "Krieg gegen den Iran: Wie weit wird es gehen?"
       },
       "summary": {
-        "zh": "也门的胡塞领导层因担心以色列的报复而保持谨慎，尤其是在过去的空袭和领导层损失之后。",
-        "en": "Yemen's Houthi leadership is cautious, fearing Israeli retaliation following past air strikes and leadership losses.",
-        "de": "Die Huthi-Führung im Jemen ist vorsichtig und fürchtet israelische Vergeltungsmaßnahmen nach vergangenen Luftangriffen und Verlusten in der Führung."
+        "zh": "Redi Tlhabi与前美国驻联合国大使约翰·博尔顿讨论了他支持对伊朗进行战争和政权更迭的原因。",
+        "en": "Redi Tlhabi challenges former US Ambassador to the UN John Bolton on why he supports war and regime change in Iran.",
+        "de": "Redi Tlhabi stellt den ehemaligen US-Botschafter bei den Vereinten Nationen, John Bolton, zur Rede, warum er den Krieg und den Regimewechsel im Iran unterstützt."
       },
       "source": "Al Jazeera",
       "date": "2026-03-07",
-      "url": "https://www.aljazeera.com/news/2026/3/7/why-yemens-houthis-are-staying-out-of-israel-us-fight-with-iran-for-now?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国-以色列对德黑兰的袭击造成大规模爆炸和火灾",
-        "en": "Massive explosions, fires from US-Israeli strikes on Tehran",
-        "de": "Massive Explosionen und Brände durch US-israelische Angriffe auf Teheran"
+        "zh": "以色列在加沙杀死父女，种族灭绝在更广泛的战争中持续",
+        "en": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
+        "de": "Israel tötet Vater und Tochter im Gazastreifen, während der Völkermord im Rahmen eines umfassenderen Krieges anhält"
       },
       "summary": {
-        "zh": "在美国和以色列的袭击中，德黑兰发生了大规模爆炸和火灾，造成了严重的破坏。",
-        "en": "Massive explosions and fires were seen across Tehran as US-Israeli strikes pummelled targets in the Iranian capital.",
-        "de": "Massive Explosionen und Brände waren in Teheran zu sehen, als US-israelische Angriffe Ziele in der iranischen Hauptstadt bombardierten."
+        "zh": "在以色列与伊朗的战争背景下，加沙和被占领的西岸的苦难仍然非常严重。",
+        "en": "Amid the war between Israel and Iran, suffering in Gaza and the occupied West Bank remains acute.",
+        "de": "Im Rahmen des Krieges zwischen Israel und Iran bleibt das Leid im Gazastreifen und im besetzten Westjordanland akut."
       },
       "source": "Al Jazeera",
       "date": "2026-03-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/massive-explosions-fires-from-us-israeli-strikes-on-tehran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普要求伊朗“无条件投降”，普京与伊朗总统通话",
-        "en": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
-        "de": "Trump fordert von Iran 'bedingungslose Kapitulation', während Putin mit dem iranischen Präsidenten spricht"
+        "zh": "伊朗当局警告“第五纵队”，战争迹象未减",
+        "en": "Iranian authorities warn against ‘fifth column’, as no signs of war abating",
+        "de": "Iranische Behörden warnen vor der 'fünften Kolonne', da keine Anzeichen für ein Nachlassen des Krieges bestehen"
       },
       "summary": {
-        "zh": "特朗普在战争持续六天后，呼吁德黑兰选择“可接受”的新领导人，并要求其“无条件投降”。",
-        "en": "President Trump calls on Tehran to pick new leaders who are 'acceptable' to the White House after six days of war, demanding 'unconditional surrender'.",
-        "de": "Präsident Trump fordert Teheran auf, neue Führer zu wählen, die für das Weiße Haus 'akzeptabel' sind, und verlangt nach sechs Tagen Krieg die 'bedingungslose Kapitulation'."
+        "zh": "伊朗情报部重申呼吁通过电话和消息服务报告任何可疑活动，显示出对潜在内乱的担忧。",
+        "en": "Iran's Intelligence Ministry renews calls to report any suspicious activity through phone calls and messaging services, indicating concerns over potential internal unrest.",
+        "de": "Das iranische Ministerium für Geheimdienste erneuert die Aufforderung, verdächtige Aktivitäten über Telefonanrufe und Messaging-Dienste zu melden, was auf Bedenken hinsichtlich möglicher innerer Unruhen hinweist."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-03-07",
-      "url": "https://www.bbc.com/news/articles/c5yq82k1wk8o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/7/iranian-authorities-warn-against-fifth-column-as-no-signs-of-war-abating?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "旧金山联邦储备银行的达利表示，就业报告使利率决定变得复杂",
-        "en": "San Francisco Fed's Daly says jobs report complicates interest rate call",
-        "de": "Die Daly der San Francisco Fed sagt, dass der Arbeitsbericht die Zinssatzentscheidung kompliziert"
-      },
-      "summary": {
-        "zh": "旧金山联邦储备银行的达利表示，疲软的二月份就业报告使政策制定环境变得更加复杂。",
-        "en": "San Francisco Fed's Daly stated that the weak February jobs report adds to a difficult policymaking environment.",
-        "de": "Daly von der San Francisco Fed erklärte, dass der schwache Arbeitsbericht für Februar die politische Entscheidungsfindung erschwert."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-06",
-      "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "美国2月份非农就业人数意外下降92,000，失业率上升至4.4%",
+        "zh": "美国2月非农就业人数意外下降9.2万，失业率上升至4.4%",
         "en": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
         "de": "Die US-Löhne fielen im Februar unerwartet um 92.000; die Arbeitslosenquote steigt auf 4,4%"
       },
       "summary": {
-        "zh": "2月份的非农就业人数意外下降92,000，而失业率则上升至4.4%，这与预期的50,000的增长形成鲜明对比。",
-        "en": "Nonfarm payrolls unexpectedly fell by 92,000 in February, while the unemployment rate rose to 4.4%, contrasting sharply with the expected increase of 50,000.",
-        "de": "Die Nichtlandwirtschaftlichen Löhne fielen im Februar unerwartet um 92.000, während die Arbeitslosenquote auf 4,4% stieg, was einen starken Kontrast zu dem erwarteten Anstieg von 50.000 darstellt."
+        "zh": "2月份的非农就业人数意外下降92,000，而失业率则上升至4.4%。",
+        "en": "Nonfarm payrolls unexpectedly fell by 92,000 in February, while the unemployment rate rose to 4.4%.",
+        "de": "Die Zahl der Nichtlandwirtschaftlichen Beschäftigten fiel im Februar unerwartet um 92.000, während die Arbeitslosenquote auf 4,4% stieg."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-06",
       "url": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "美国-伊朗战争如何已经影响消费者的口袋",
-        "en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
-        "de": "So wirkt sich der US-Iran-Krieg bereits auf die Geldbeutel der Verbraucher aus"
+        "zh": "旧金山联邦储备的达利表示就业报告使利率决定复杂化",
+        "en": "San Francisco Fed's Daly says jobs report complicates interest rate call",
+        "de": "Die Präsidentin der San Francisco Fed, Daly, sagt, dass der Arbeitsbericht die Zinspolitik kompliziert"
       },
       "summary": {
-        "zh": "美国和以色列对伊朗的袭击导致市场波动，抵押贷款利率飙升，消费者面临更高的价格。",
-        "en": "The U.S.-Israeli strikes on Iran have led to market volatility, spiking mortgage rates, and higher prices for consumers.",
-        "de": "Die US-israelischen Angriffe auf den Iran haben zu Marktschwankungen, steigenden Hypothekenzinsen und höheren Preisen für die Verbraucher geführt."
+        "zh": "达利表示，2月份疲弱的就业报告使得政策制定环境变得更加复杂。",
+        "en": "Daly stated that the weak February jobs report adds to a difficult policymaking environment.",
+        "de": "Daly erklärte, dass der schwache Arbeitsbericht für Februar die politische Entscheidungsfindung erschwert."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-06",
+      "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "美国-伊朗战争已开始影响消费者的口袋",
+        "en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
+        "de": "So wirkt sich der Krieg zwischen den USA und dem Iran bereits auf die Geldbeutel der Verbraucher aus"
+      },
+      "summary": {
+        "zh": "美国-以色列对伊朗的袭击导致市场波动，抵押贷款利率飙升，油价上涨。",
+        "en": "The U.S.-Israeli strikes on Iran have led to market volatility, spiking mortgage rates, and rising prices at the pump.",
+        "de": "Die US-israelischen Angriffe auf den Iran haben zu Marktschwankungen, steigenden Hypothekenzinsen und höheren Preisen an der Tankstelle geführt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-06",
