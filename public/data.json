@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-07T16:48:30.415183+00:00",
+  "generatedAt": "2026-03-08T05:31:04.751555+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Darf das Pentagon Amerikaner mit KI überwachen?"
       },
       "summary": {
-        "zh": "五角大楼与人工智能公司Anthropic之间的公开争执引发了一个深刻且尚未解答的问题：法律是否允许五角大楼监视美国公民？",
-        "en": "The ongoing public feud between the Pentagon and AI company Anthropic raises a profound and unanswered question: Is the law allowing the Pentagon to surveil American citizens?",
-        "de": "Der anhaltende öffentliche Streit zwischen dem Pentagon und dem KI-Unternehmen Anthropic wirft eine tiefgreifende und unbeantwortete Frage auf: Erlaubt das Gesetz dem Pentagon, Amerikaner zu überwachen?"
+        "zh": "五角大楼与人工智能公司Anthropic之间的公开争执引发了一个未解的问题：法律是否允许五角大楼使用人工智能监视美国公民。",
+        "en": "The ongoing public feud between the Pentagon and AI company Anthropic raises an unresolved question: Is the law allowing the Pentagon to surveil American citizens using AI?",
+        "de": "Der anhaltende öffentliche Streit zwischen dem Pentagon und dem KI-Unternehmen Anthropic wirft eine ungelöste Frage auf: Erlaubt das Gesetz dem Pentagon, amerikanische Bürger mit KI zu überwachen?"
       },
       "source": "MIT Technology Review",
       "date": "2026-03-06",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：人工智能中10个重要事项，以及Anthropic起诉五角大楼的计划",
+        "zh": "下载：人工智能领域10件重要事项，以及Anthropic计划起诉五角大楼",
         "en": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-        "de": "Der Download: 10 Dinge, die in der KI wichtig sind, plus Anthropics Plan, das Pentagon zu verklagen"
+        "de": "Der Download: 10 wichtige Dinge in der KI, plus Anthropics Plan, das Pentagon zu verklagen"
       },
       "summary": {
-        "zh": "今天的下载版包含了人工智能领域的10个重要事项，以及Anthropic计划起诉五角大楼的最新消息。",
-        "en": "Today's edition of The Download includes 10 important matters in the field of AI, along with updates on Anthropic's plan to sue the Pentagon.",
-        "de": "Die heutige Ausgabe des Downloads enthält 10 wichtige Punkte im Bereich KI sowie Neuigkeiten zu Anthropics Plan, das Pentagon zu verklagen."
+        "zh": "今天的下载版提供了人工智能领域的10个重要事项，并讨论了Anthropic计划起诉五角大楼的情况。",
+        "en": "Today's edition of The Download provides 10 important matters in the AI field and discusses Anthropic's plan to sue the Pentagon.",
+        "de": "Die heutige Ausgabe des Downloads bietet 10 wichtige Themen im Bereich KI und diskutiert Anthropics Plan, das Pentagon zu verklagen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-06",
@@ -41,9 +41,9 @@
         "de": "Online-Belästigung tritt in ihre KI-Ära ein"
       },
       "summary": {
-        "zh": "随着人工智能技术的发展，在线骚扰的形式也在演变，Scott Shambaugh拒绝了一个AI代理的请求，这一事件引发了对新型骚扰方式的讨论。",
-        "en": "With the advancement of AI technology, the forms of online harassment are evolving, as evidenced by Scott Shambaugh's refusal of an AI agent's request, sparking discussions on new harassment methods.",
-        "de": "Mit dem Fortschritt der KI-Technologie entwickeln sich auch die Formen der Online-Belästigung weiter, wie das Beispiel von Scott Shambaugh zeigt, der die Anfrage eines KI-Agenten ablehnte und Diskussionen über neue Belästigungsformen auslöste."
+        "zh": "随着人工智能技术的发展，在线骚扰的形式正在发生变化，Scott Shambaugh拒绝了一个人工智能代理的请求，反映了这一趋势。",
+        "en": "With the advancement of AI technology, the forms of online harassment are changing, as evidenced by Scott Shambaugh's refusal of an AI agent's request.",
+        "de": "Mit dem Fortschritt der KI-Technologie verändern sich die Formen der Online-Belästigung, wie das Beispiel von Scott Shambaugh zeigt, der eine Anfrage eines KI-Agenten abgelehnt hat."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-05",
@@ -54,96 +54,96 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "对伊朗的战争：将走多远？",
-        "en": "War against Iran: How far will it go?",
-        "de": "Krieg gegen den Iran: Wie weit wird es gehen?"
+        "zh": "以色列在贝鲁特酒店进行暗杀未遂的空袭",
+        "en": "Israel strikes busy Beirut hotel in assassination attempt",
+        "de": "Israel greift geschäftiges Hotel in Beirut bei einem Attentatsversuch an"
       },
       "summary": {
-        "zh": "Redi Tlhabi与前美国驻联合国大使约翰·博尔顿讨论了他支持对伊朗进行战争和政权更迭的原因。",
-        "en": "Redi Tlhabi challenges former US Ambassador to the UN John Bolton on why he supports war and regime change in Iran.",
-        "de": "Redi Tlhabi stellt den ehemaligen US-Botschafter bei den Vereinten Nationen, John Bolton, zur Rede, warum er den Krieg und den Regimewechsel im Iran unterstützt."
+        "zh": "以色列承认对贝鲁特一家酒店进行的空袭，导致至少四人死亡，标志着该地区紧张局势的升级。",
+        "en": "Israel has claimed responsibility for an airstrike on a hotel in Beirut, which resulted in at least four deaths, marking an escalation in regional tensions.",
+        "de": "Israel hat die Verantwortung für einen Luftangriff auf ein Hotel in Beirut übernommen, bei dem mindestens vier Menschen starben, was eine Eskalation der regionalen Spannungen markiert."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-07",
-      "url": "https://www.aljazeera.com/video/upfront/2026/3/7/war-against-iran-how-far-will-it-go?traffic_source=rss"
+      "date": "2026-03-08",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/israel-strikes-busy-beirut-hotel-in-assassination-attempt?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列在加沙杀死父女，种族灭绝在更广泛的战争中持续",
-        "en": "Israel kills father, daughter in Gaza as genocide continues amid wider war",
-        "de": "Israel tötet Vater und Tochter im Gazastreifen, während der Völkermord im Rahmen eines umfassenderen Krieges anhält"
+        "zh": "尼泊尔选举中，饶舌歌手转型政治家击败资深领导人",
+        "en": "Rapper-turned-politician defeats veteran leader in Nepal election upset",
+        "de": "Vom Rapper zum Politiker: Neuer Politiker besiegt erfahrenen Führer bei den Wahlen in Nepal"
       },
       "summary": {
-        "zh": "在以色列与伊朗的战争背景下，加沙和被占领的西岸的苦难仍然非常严重。",
-        "en": "Amid the war between Israel and Iran, suffering in Gaza and the occupied West Bank remains acute.",
-        "de": "Im Rahmen des Krieges zwischen Israel und Iran bleibt das Leid im Gazastreifen und im besetzten Westjordanland akut."
+        "zh": "尼泊尔的选举中，Balendra Shah的政党代表了一股改革浪潮，成功击败了资深领导人，改变了该国的政治格局。",
+        "en": "In Nepal's elections, Balendra Shah's party represents a reformist wave that successfully defeated a veteran leader, reshaping the country's political landscape.",
+        "de": "Bei den Wahlen in Nepal repräsentiert die Partei von Balendra Shah eine reformistische Welle, die einen erfahrenen Führer erfolgreich besiegt hat und die politische Landschaft des Landes umgestaltet."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-07",
-      "url": "https://www.aljazeera.com/news/2026/3/7/israel-kills-father-daughter-in-gaza-as-genocide-continues-amid-wider-war?traffic_source=rss"
+      "date": "2026-03-08",
+      "url": "https://www.aljazeera.com/news/2026/3/8/rapper-turned-politician-defeats-veteran-leader-in-nepal-election-upset?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗当局警告“第五纵队”，战争迹象未减",
-        "en": "Iranian authorities warn against ‘fifth column’, as no signs of war abating",
-        "de": "Iranische Behörden warnen vor der 'fünften Kolonne', da keine Anzeichen für ein Nachlassen des Krieges bestehen"
+        "zh": "特朗普表示美国不需要英国的航母参与伊朗战争",
+        "en": "Trump says US does not need UK’s aircraft carriers for Iran war",
+        "de": "Trump sagt, die USA benötigen die Flugzeugträger des Vereinigten Königreichs nicht für den Iran-Krieg"
       },
       "summary": {
-        "zh": "伊朗情报部重申呼吁通过电话和消息服务报告任何可疑活动，显示出对潜在内乱的担忧。",
-        "en": "Iran's Intelligence Ministry renews calls to report any suspicious activity through phone calls and messaging services, indicating concerns over potential internal unrest.",
-        "de": "Das iranische Ministerium für Geheimdienste erneuert die Aufforderung, verdächtige Aktivitäten über Telefonanrufe und Messaging-Dienste zu melden, was auf Bedenken hinsichtlich möglicher innerer Unruhen hinweist."
+        "zh": "特朗普称伊朗战争“已经赢得”，并驳斥了有关英国准备派遣航母的报道，强调美国的独立性。",
+        "en": "Trump stated that the Iran war is 'already won' and dismissed reports about the UK preparing to send aircraft carriers, emphasizing U.S. independence.",
+        "de": "Trump erklärte, der Iran-Krieg sei 'bereits gewonnen', und wies Berichte über die Vorbereitung des Vereinigten Königreichs zur Entsendung von Flugzeugträgern zurück und betonte die Unabhängigkeit der USA."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-07",
-      "url": "https://www.aljazeera.com/news/2026/3/7/iranian-authorities-warn-against-fifth-column-as-no-signs-of-war-abating?traffic_source=rss"
+      "date": "2026-03-08",
+      "url": "https://www.aljazeera.com/news/2026/3/8/trump-says-us-does-not-need-united-kingdom-aircraft-carriers-for-iran-war?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国2月非农就业人数意外下降9.2万，失业率上升至4.4%",
-        "en": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
-        "de": "Die US-Löhne fielen im Februar unerwartet um 92.000; die Arbeitslosenquote steigt auf 4,4%"
-      },
-      "summary": {
-        "zh": "2月份的非农就业人数意外下降92,000，而失业率则上升至4.4%。",
-        "en": "Nonfarm payrolls unexpectedly fell by 92,000 in February, while the unemployment rate rose to 4.4%.",
-        "de": "Die Zahl der Nichtlandwirtschaftlichen Beschäftigten fiel im Februar unerwartet um 92.000, während die Arbeitslosenquote auf 4,4% stieg."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-06",
-      "url": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "旧金山联邦储备的达利表示就业报告使利率决定复杂化",
+        "zh": "旧金山联邦储备银行的Daly表示就业报告使利率决定复杂化",
         "en": "San Francisco Fed's Daly says jobs report complicates interest rate call",
-        "de": "Die Präsidentin der San Francisco Fed, Daly, sagt, dass der Arbeitsbericht die Zinspolitik kompliziert"
+        "de": "Die Daly der San Francisco Fed sagt, der Arbeitsbericht kompliziert die Zinspolitik"
       },
       "summary": {
-        "zh": "达利表示，2月份疲弱的就业报告使得政策制定环境变得更加复杂。",
-        "en": "Daly stated that the weak February jobs report adds to a difficult policymaking environment.",
-        "de": "Daly erklärte, dass der schwache Arbeitsbericht für Februar die politische Entscheidungsfindung erschwert."
+        "zh": "旧金山联邦储备银行的Daly表示，2月份疲软的就业报告使得利率决策环境变得更加复杂。",
+        "en": "San Francisco Fed's Daly stated that the weak February jobs report complicates the interest rate decision-making environment.",
+        "de": "Die Daly der San Francisco Fed erklärte, dass der schwache Arbeitsbericht für Februar die Entscheidungsfindung über die Zinssätze kompliziert."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-06",
       "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "美国-伊朗战争已开始影响消费者的口袋",
-        "en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
-        "de": "So wirkt sich der Krieg zwischen den USA und dem Iran bereits auf die Geldbeutel der Verbraucher aus"
+        "zh": "美国2月份非农就业人数意外减少92,000；失业率上升至4.4%",
+        "en": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
+        "de": "Die US-Löhne fielen im Februar unerwartet um 92.000; die Arbeitslosenquote steigt auf 4,4%"
       },
       "summary": {
-        "zh": "美国-以色列对伊朗的袭击导致市场波动，抵押贷款利率飙升，油价上涨。",
-        "en": "The U.S.-Israeli strikes on Iran have led to market volatility, spiking mortgage rates, and rising prices at the pump.",
-        "de": "Die US-israelischen Angriffe auf den Iran haben zu Marktschwankungen, steigenden Hypothekenzinsen und höheren Preisen an der Tankstelle geführt."
+        "zh": "2月份非农就业人数意外减少92,000，失业率上升至4.4%，这与预期的50,000人增长形成鲜明对比。",
+        "en": "Nonfarm payrolls unexpectedly fell by 92,000 in February, with the unemployment rate rising to 4.4%, contrasting sharply with the expected increase of 50,000.",
+        "de": "Die Zahl der nicht-landwirtschaftlichen Löhne fiel im Februar unerwartet um 92.000, während die Arbeitslosenquote auf 4,4% stieg, was einen scharfen Kontrast zu dem erwarteten Anstieg von 50.000 darstellt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-06",
+      "url": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "美国-伊朗战争如何影响消费者的口袋",
+        "en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
+        "de": "So wirkt sich der US-Iran-Krieg bereits auf die Geldbeutel der Verbraucher aus"
+      },
+      "summary": {
+        "zh": "美国和以色列对伊朗的空袭导致市场波动，抵押贷款利率飙升，消费者面临更高的价格。",
+        "en": "U.S. and Israeli strikes on Iran have led to market volatility, spiking mortgage rates, and consumers facing higher prices.",
+        "de": "Die US- und israelischen Angriffe auf den Iran haben zu Marktschwankungen, steigenden Hypothekenzinsen und höheren Preisen für die Verbraucher geführt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-06",
