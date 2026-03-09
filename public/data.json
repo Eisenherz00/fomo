@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-09T05:41:26.583218+00:00",
+  "generatedAt": "2026-03-09T17:15:29.768213+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "五角大楼是否允许使用人工智能监视美国人？",
-        "en": "Is the Pentagon allowed to surveil Americans with AI?",
-        "de": "Darf das Pentagon Amerikaner mit KI überwachen?"
+        "zh": "人工智能如何将伊朗冲突变成戏剧",
+        "en": "How AI is turning the Iran conflict into theater",
+        "de": "Wie KI den Iran-Konflikt in ein Theater verwandelt"
       },
       "summary": {
-        "zh": "五角大楼与人工智能公司Anthropic之间的持续争执引发了一个深刻且尚未解决的问题：法律是否允许五角大楼监视美国公民。",
-        "en": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law allow the Pentagon to surveil Americans?",
-        "de": "Der anhaltende öffentliche Streit zwischen dem Verteidigungsministerium und dem KI-Unternehmen Anthropic wirft eine tiefgreifende und noch unbeantwortete Frage auf: Erlaubt das Gesetz dem Pentagon, Amerikaner zu überwachen?"
+        "zh": "这篇文章探讨了人工智能如何在伊朗冲突中发挥作用，影响公众感知和舆论。AI技术正在被用于塑造叙事，使冲突变得更加戏剧化。",
+        "en": "This article explores how artificial intelligence is playing a role in the Iran conflict, influencing public perception and discourse. AI technologies are being used to shape narratives, making the conflict more theatrical.",
+        "de": "Dieser Artikel untersucht, wie künstliche Intelligenz eine Rolle im Iran-Konflikt spielt und die öffentliche Wahrnehmung sowie die Diskussion beeinflusst. KI-Technologien werden genutzt, um Narrative zu gestalten und den Konflikt dramatischer zu machen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-06",
-      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/"
+      "date": "2026-03-09",
+      "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：人工智能领域的10件重要事情，以及Anthropic起诉五角大楼的计划",
-        "en": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-        "de": "Der Download: 10 wichtige Dinge in der KI, plus Anthropics Plan, das Pentagon zu verklagen"
+        "zh": "确保数字资产设备安全的可用性要求",
+        "en": "The usability imperative for securing digital asset devices",
+        "de": "Das Usability-Erfordernis zur Sicherung digitaler Vermögenswerte"
       },
       "summary": {
-        "zh": "今天的下载提供了人工智能领域的10个重要事项，以及Anthropic计划起诉五角大楼的最新消息。",
-        "en": "Today's edition of The Download provides 10 important things happening in the world of AI, along with news about Anthropic's plan to sue the Pentagon.",
-        "de": "Die heutige Ausgabe des Downloads bietet 10 wichtige Dinge, die in der Welt der KI passieren, sowie Neuigkeiten über Anthropics Plan, das Pentagon zu verklagen."
+        "zh": "本文讨论了在数字资产设备安全性方面可用性的重要性，强调了在设计中平衡安全性和用户体验的必要性。",
+        "en": "This article discusses the importance of usability in securing digital asset devices, emphasizing the need to balance security and user experience in design.",
+        "de": "Dieser Artikel behandelt die Bedeutung der Benutzerfreundlichkeit bei der Sicherung digitaler Vermögenswerte und betont die Notwendigkeit, Sicherheit und Benutzererfahrung im Design in Einklang zu bringen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-06",
-      "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/"
+      "date": "2026-03-09",
+      "url": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "在线骚扰进入人工智能时代",
-        "en": "Online harassment is entering its AI era",
-        "de": "Online-Belästigung tritt in ihre KI-Ära ein"
+        "zh": "下载：模糊的人工智能监视法律，白宫打击反抗实验室",
+        "en": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+        "de": "Der Download: unklare KI-Überwachungsgesetze und das Weiße Haus geht gegen widerspenstige Labore vor"
       },
       "summary": {
-        "zh": "Scott Shambaugh在拒绝一名人工智能代理的请求后，意识到在线骚扰的形式正在发生变化，人工智能技术正在被用于骚扰。",
-        "en": "Scott Shambaugh realized that the form of online harassment is changing after denying an AI agent's request, as AI technology is being used for harassment.",
-        "de": "Scott Shambaugh erkannte, dass sich die Form der Online-Belästigung verändert, nachdem er eine Anfrage eines KI-Agenten abgelehnt hatte, da KI-Technologie für Belästigung eingesetzt wird."
+        "zh": "本期下载报道了人工智能监视法律的模糊性，以及白宫对不服从实验室的打击行动，反映出技术监管的复杂性。",
+        "en": "This edition of The Download covers the murkiness of AI surveillance laws and the White House's crackdown on defiant labs, reflecting the complexities of technology regulation.",
+        "de": "Diese Ausgabe von The Download behandelt die Unklarheit der KI-Überwachungsgesetze und das Vorgehen des Weißen Hauses gegen widerspenstige Labore, was die Komplexität der Technologie-Regulierung widerspiegelt."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-05",
-      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/"
+      "date": "2026-03-09",
+      "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "随着美国-以色列对伊朗的战争加剧，油价飙升至每桶100美元以上",
-        "en": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
-        "de": "Ölpreise steigen über 100 Dollar pro Barrel, während der US-Israel-Krieg gegen den Iran tobt"
+        "zh": "法国准备在战争平息时护送霍尔木兹海峡的船只：马克龙",
+        "en": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
+        "de": "Frankreich bereitet sich darauf vor, Schiffe im Hormus-Kanal zu eskortieren, wenn der Krieg sich beruhigt: Macron"
       },
       "summary": {
-        "zh": "由于美国和以色列对伊朗的战争持续，原油价格上涨超过20%，引发全球能源供应的担忧。",
-        "en": "Crude oil prices surge more than 20 percent as the ongoing US-Israel war on Iran raises concerns about global energy supplies.",
-        "de": "Die Rohölpreise steigen um mehr als 20 Prozent, da der anhaltende US-Israel-Krieg gegen den Iran Bedenken hinsichtlich der globalen Energieversorgung aufwirft."
+        "zh": "法国总统马克龙表示，法国将进行“纯防御性”任务，旨在逐步重新开放关键的海湾水道，以应对油价飙升。",
+        "en": "French President Macron stated that France will conduct a 'purely defensive' mission aimed at gradually reopening the key Gulf waterway in response to rising oil prices.",
+        "de": "Der französische Präsident Macron erklärte, dass Frankreich eine 'rein defensive' Mission durchführen wird, die darauf abzielt, die wichtige Wasserstraße im Golf schrittweise wieder zu öffnen, um den steigenden Ölpreisen zu begegnen."
       },
       "source": "Al Jazeera",
       "date": "2026-03-09",
-      "url": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗战争直播：莫赫塔巴·哈梅内伊被任命为最高领袖；以色列轰炸德黑兰",
-        "en": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
-        "de": "Iran-Krieg live: Mojtaba Khamenei zum Obersten Führer ernannt; Israel bombardiert Teheran"
+        "zh": "美国参议员要求对伊朗女孩学校的“可怕”袭击进行调查",
+        "en": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
+        "de": "US-Senatoren fordern Untersuchung des 'entsetzlichen' Angriffs auf Mädchenschule im Iran"
       },
       "summary": {
-        "zh": "在美国-以色列攻击持续的背景下，伊朗的军事和政治领导人向莫赫塔巴·哈梅内伊表示效忠。",
-        "en": "Iran's military and political leaders pledge allegiance to Mojtaba Khamenei as US-Israeli attacks continue.",
-        "de": "Die militärischen und politischen Führer Irans schwören Mojtaba Khamenei die Treue, während die US-israelischen Angriffe andauern."
+        "zh": "美国顶级民主党人呼吁对在伊朗米纳布学校发生的轰炸事件进行全面和公正的审查，该事件导致至少170人遇难。",
+        "en": "Top Democrats in the U.S. are calling for a full and impartial review of the bombing at the Minab school in Iran, which resulted in at least 170 fatalities.",
+        "de": "Top-Demokraten in den USA fordern eine umfassende und unparteiische Überprüfung des Bombenanschlags auf die Schule in Minab, Iran, bei dem mindestens 170 Menschen ums Leben kamen."
       },
       "source": "Al Jazeera",
       "date": "2026-03-09",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗在父亲被杀后任命哈梅内伊的儿子为新领导人",
-        "en": "Iran names Ayatollah Khamenei’s son as new leader after father’s killing",
-        "de": "Iran ernennt den Sohn von Ayatollah Khamenei nach dem Mord an seinem Vater zum neuen Führer"
+        "zh": "美国军方在东太平洋袭击涉嫌毒品船只，杀死六人",
+        "en": "US military kills six in strike on alleged drug boat in the Eastern Pacific",
+        "de": "US-Militär tötet sechs bei Angriff auf mutmaßliches Drogenboot im östlichen Pazifik"
       },
       "summary": {
-        "zh": "伊朗国家电视台宣布，专家大会已选择莫赫塔巴·哈梅内伊作为最高领袖，接替其父亲。",
-        "en": "Iranian state television has announced that the Assembly of Experts has chosen Mojtaba Khamenei as supreme leader following his father's killing.",
-        "de": "Der iranische Staatsfernseher hat bekannt gegeben, dass die Versammlung der Experten Mojtaba Khamenei nach dem Mord an seinem Vater zum Obersten Führer gewählt hat."
+        "zh": "美国军方声称在东太平洋对一艘涉嫌毒品走私的船只进行打击，导致六人遇难。",
+        "en": "The U.S. military claims that six men were killed in a strike on a suspected drug-smuggling boat in the eastern Pacific Ocean.",
+        "de": "Das US-Militär behauptet, dass sechs Männer bei einem Angriff auf ein mutmaßliches Drogen-Schmuggelboot im östlichen Pazifik getötet wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-names-ayatollah-khameneis-son-as-new-leader-after-fathers-killing?traffic_source=rss"
+      "date": "2026-03-09",
+      "url": "https://www.aljazeera.com/news/2026/3/9/us-military-kills-six-in-strike-on-alleged-drug-boat-in-the-eastern-pacific?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "道琼斯期货下跌超过1000点，油价飙升30%，伊朗冲突持续",
-        "en": "Dow futures sink more than 1,000 points, oil prices surge up to 30% as Iran conflict rages",
-        "de": "Dow-Futures sinken um mehr als 1.000 Punkte, Ölpreise steigen um bis zu 30%, während der Iran-Konflikt tobt"
+        "zh": "特朗普主权威胁一年后，加拿大人保持“肘部抬起”",
+        "en": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+        "de": "Ein Jahr nach Trumps Souveränitätsdrohungen halten die Kanadier 'die Ellbogen hoch'"
       },
       "summary": {
-        "zh": "由于伊朗冲突持续，油价飙升至每桶100美元以上，美国股市期货下跌超过1000点，市场情绪受到影响。",
-        "en": "As the Iran conflict continues, oil prices surge above $100 a barrel, leading to a drop of more than 1,000 points in U.S. stock market futures.",
-        "de": "Da der Iran-Konflikt andauert, steigen die Ölpreise über 100 Dollar pro Barrel, was zu einem Rückgang von mehr als 1.000 Punkten bei den US-Aktienfutures führt."
+        "zh": "在特朗普的威胁和关税之后，加拿大人展现出一种不寻常的爱国主义，形成了新的社会和经济秩序。",
+        "en": "In the wake of Trump's threats and tariffs, Canadians have shown an unusual swell of patriotism, evolving into a new social and economic order.",
+        "de": "Nach Trumps Drohungen und Zöllen zeigen die Kanadier einen ungewöhnlichen Patriotismus, der sich in eine neue soziale und wirtschaftliche Ordnung verwandelt hat."
       },
-      "source": "MarketWatch",
+      "source": "CNBC",
       "date": "2026-03-09",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国-伊朗战争已经影响消费者的口袋",
-        "en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
-        "de": "So wirkt sich der US-Iran-Krieg bereits auf die Geldbeutel der Verbraucher aus"
+        "zh": "微软与Anthropic的新合作关系。Claude Cowork会提供AI优势吗？",
+        "en": "Microsoft has a new Anthropic partnership. Will Claude Cowork offer an AI advantage?",
+        "de": "Microsoft hat eine neue Partnerschaft mit Anthropic. Wird Claude Cowork einen KI-Vorteil bieten?"
       },
       "summary": {
-        "zh": "美国-以色列对伊朗的袭击导致市场波动，抵押贷款利率飙升，消费者面临更高的价格。",
-        "en": "The U.S.-Israeli strikes on Iran have led to market volatility, spiking mortgage rates, and higher prices for consumers.",
-        "de": "Die US-israelischen Angriffe auf den Iran haben zu Marktvolatilität, steigenden Hypothekenzinsen und höheren Preisen für Verbraucher geführt."
+        "zh": "微软与Anthropic的合作关系正在发展，其Copilot产品将从聊天机器人转变为代理，可能会带来新的AI优势。",
+        "en": "Microsoft's partnership with Anthropic is evolving, with its Copilot product transitioning from a chatbot to an agent, potentially offering new AI advantages.",
+        "de": "Die Partnerschaft von Microsoft mit Anthropic entwickelt sich weiter, wobei das Copilot-Produkt von einem Chatbot zu einem Agenten übergeht, was möglicherweise neue KI-Vorteile bietet."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-06",
-      "url": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html"
+      "source": "MarketWatch",
+      "date": "2026-03-09",
+      "url": "https://www.marketwatch.com/story/microsoft-has-a-new-anthropic-partnership-will-claude-cowork-offer-an-ai-advantage-cf7e10da?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "旧金山联储的达利表示，就业报告使利率决定复杂化",
-        "en": "San Francisco Fed's Daly says jobs report complicates interest rate call",
-        "de": "Die Präsidentin der San Francisco Fed, Daly, sagt, dass der Arbeitsbericht die Zinssatzentscheidung kompliziert"
+        "zh": "航空公司股票暴跌，油价飙升可能会触发旅行者的临界点",
+        "en": "Airline stocks dive as oil-price spike could trigger a tipping point for travelers",
+        "de": "Aktien von Fluggesellschaften stürzen ab, da der Anstieg der Ölpreise einen Wendepunkt für Reisende auslösen könnte"
       },
       "summary": {
-        "zh": "旧金山联邦储备银行的达利表示，2月份疲弱的就业报告使得利率决策环境更加复杂。",
-        "en": "San Francisco Fed's Daly stated that the weak February jobs report adds to a complicated environment for interest rate decision-making.",
-        "de": "Daly von der San Francisco Fed erklärte, dass der schwache Arbeitsbericht für Februar die Zinssatzentscheidung kompliziert."
+        "zh": "航空公司股票因油价飙升而急剧下跌，市场担心旅行需求可能会因中东冲突而下降。",
+        "en": "Airline stocks have sharply declined due to rising oil prices, with concerns that travel demand may drop as a result of the escalating Middle East conflict.",
+        "de": "Die Aktien von Fluggesellschaften sind aufgrund steigender Ölpreise stark gefallen, da Befürchtungen bestehen, dass die Reisennachfrage infolge des eskalierenden Konflikts im Nahen Osten sinken könnte."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-06",
-      "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html"
+      "source": "MarketWatch",
+      "date": "2026-03-09",
+      "url": "https://www.marketwatch.com/story/airline-stocks-dive-as-oil-price-spike-could-trigger-a-tipping-point-for-travelers-2be814ea?mod=mw_rss_topstories"
     }
   ]
 }
