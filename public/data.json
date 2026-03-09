@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-08T16:49:27.194786+00:00",
+  "generatedAt": "2026-03-09T05:41:26.583218+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Darf das Pentagon Amerikaner mit KI überwachen?"
       },
       "summary": {
-        "zh": "五角大楼与人工智能公司Anthropic之间的持续争执引发了一个深刻且尚未解答的问题：法律是否允许五角大楼监视美国公民。",
-        "en": "The ongoing public feud between the Pentagon and AI company Anthropic has raised a deep and still unanswered question: Does the law allow the Pentagon to surveil American citizens?",
-        "de": "Der anhaltende öffentliche Streit zwischen dem Pentagon und dem KI-Unternehmen Anthropic wirft eine tiefgreifende und noch unbeantwortete Frage auf: Erlaubt das Gesetz dem Pentagon, amerikanische Bürger zu überwachen?"
+        "zh": "五角大楼与人工智能公司Anthropic之间的持续争执引发了一个深刻且尚未解决的问题：法律是否允许五角大楼监视美国公民。",
+        "en": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law allow the Pentagon to surveil Americans?",
+        "de": "Der anhaltende öffentliche Streit zwischen dem Verteidigungsministerium und dem KI-Unternehmen Anthropic wirft eine tiefgreifende und noch unbeantwortete Frage auf: Erlaubt das Gesetz dem Pentagon, Amerikaner zu überwachen?"
       },
       "source": "MIT Technology Review",
       "date": "2026-03-06",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：人工智能中10个重要事项，以及Anthropic计划起诉五角大楼",
+        "zh": "下载：人工智能领域的10件重要事情，以及Anthropic起诉五角大楼的计划",
         "en": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
         "de": "Der Download: 10 wichtige Dinge in der KI, plus Anthropics Plan, das Pentagon zu verklagen"
       },
       "summary": {
-        "zh": "今天的下载版涵盖了人工智能领域的10个重要事项，并讨论了Anthropic计划起诉五角大楼的相关事宜。",
-        "en": "Today's edition of The Download covers 10 important matters in the field of AI and discusses Anthropic's plan to sue the Pentagon.",
-        "de": "Die heutige Ausgabe des Downloads behandelt 10 wichtige Themen im Bereich KI und diskutiert Anthropics Plan, das Pentagon zu verklagen."
+        "zh": "今天的下载提供了人工智能领域的10个重要事项，以及Anthropic计划起诉五角大楼的最新消息。",
+        "en": "Today's edition of The Download provides 10 important things happening in the world of AI, along with news about Anthropic's plan to sue the Pentagon.",
+        "de": "Die heutige Ausgabe des Downloads bietet 10 wichtige Dinge, die in der Welt der KI passieren, sowie Neuigkeiten über Anthropics Plan, das Pentagon zu verklagen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-06",
@@ -41,9 +41,9 @@
         "de": "Online-Belästigung tritt in ihre KI-Ära ein"
       },
       "summary": {
-        "zh": "随着人工智能技术的发展，在线骚扰的形式也在不断演变，Scott Shambaugh拒绝了一个人工智能代理的请求，突显了这一问题的复杂性。",
-        "en": "With the advancement of AI technology, the forms of online harassment are evolving, as highlighted by Scott Shambaugh's refusal of an AI agent's request.",
-        "de": "Mit dem Fortschritt der KI-Technologie entwickeln sich auch die Formen der Online-Belästigung weiter, was durch Scott Shambaughs Ablehnung der Anfrage eines KI-Agenten verdeutlicht wird."
+        "zh": "Scott Shambaugh在拒绝一名人工智能代理的请求后，意识到在线骚扰的形式正在发生变化，人工智能技术正在被用于骚扰。",
+        "en": "Scott Shambaugh realized that the form of online harassment is changing after denying an AI agent's request, as AI technology is being used for harassment.",
+        "de": "Scott Shambaugh erkannte, dass sich die Form der Online-Belästigung verändert, nachdem er eine Anfrage eines KI-Agenten abgelehnt hatte, da KI-Technologie für Belästigung eingesetzt wird."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-05",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列在黎巴嫩的攻击升级，导致两名士兵遇害",
-        "en": "Israel escalates attacks across Lebanon as two soldiers killed",
-        "de": "Israel eskaliert Angriffe im Libanon, zwei Soldaten getötet"
+        "zh": "随着美国-以色列对伊朗的战争加剧，油价飙升至每桶100美元以上",
+        "en": "Oil soars past $100 a barrel as US-Israel war on Iran rages",
+        "de": "Ölpreise steigen über 100 Dollar pro Barrel, während der US-Israel-Krieg gegen den Iran tobt"
       },
       "summary": {
-        "zh": "以色列军方确认，在与真主党冲突恢复一周后，黎巴嫩的首次士兵伤亡事件发生。",
-        "en": "The Israeli military confirms the first fatalities in Lebanon a week after fighting resumes with Hezbollah.",
-        "de": "Die israelische Armee bestätigt die ersten Todesfälle im Libanon eine Woche nach Wiederaufnahme der Kämpfe mit der Hisbollah."
+        "zh": "由于美国和以色列对伊朗的战争持续，原油价格上涨超过20%，引发全球能源供应的担忧。",
+        "en": "Crude oil prices surge more than 20 percent as the ongoing US-Israel war on Iran raises concerns about global energy supplies.",
+        "de": "Die Rohölpreise steigen um mehr als 20 Prozent, da der anhaltende US-Israel-Krieg gegen den Iran Bedenken hinsichtlich der globalen Energieversorgung aufwirft."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-08",
-      "url": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss"
+      "date": "2026-03-09",
+      "url": "https://www.aljazeera.com/economy/2026/3/9/oil-soars-past-100-a-barrel-amid-iran-war?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗宗教领袖暗示将很快任命新领导人",
-        "en": "Amid escalation, Iran religious scholars signal new leader to be named soon",
-        "de": "Inmitten der Eskalation signalisieren iranische Religionsgelehrte, dass bald ein neuer Führer benannt wird"
+        "zh": "伊朗战争直播：莫赫塔巴·哈梅内伊被任命为最高领袖；以色列轰炸德黑兰",
+        "en": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran",
+        "de": "Iran-Krieg live: Mojtaba Khamenei zum Obersten Führer ernannt; Israel bombardiert Teheran"
       },
       "summary": {
-        "zh": "在战争升级的背景下，伊朗宗教领袖表示，新的领导人即将被任命，强调选择过程必须在政府内部没有争议。",
-        "en": "In the context of escalating war, Iranian religious scholars indicate that a new leader will soon be appointed, emphasizing that the selection process must be undisputed within the government.",
-        "de": "Im Kontext des eskalierenden Krieges deuten iranische Religionsgelehrte darauf hin, dass bald ein neuer Führer ernannt wird, und betonen, dass der Auswahlprozess innerhalb der Regierung unbestritten sein muss."
+        "zh": "在美国-以色列攻击持续的背景下，伊朗的军事和政治领导人向莫赫塔巴·哈梅内伊表示效忠。",
+        "en": "Iran's military and political leaders pledge allegiance to Mojtaba Khamenei as US-Israeli attacks continue.",
+        "de": "Die militärischen und politischen Führer Irans schwören Mojtaba Khamenei die Treue, während die US-israelischen Angriffe andauern."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-08",
-      "url": "https://www.aljazeera.com/features/2026/3/8/iranian-authorities-push-toward-new-leadership-as-war-escalates?traffic_source=rss"
+      "date": "2026-03-09",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/9/iran-war-live-mojtaba-khamenei-named-supreme-leader-israel-bombs-tehran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "联合国儿童基金会发言人对以色列-美国-伊朗战争中的儿童伤亡感到愤怒",
-        "en": "UNICEF spokesman enraged over child casualties from Israeli-US Iran war",
-        "de": "UNICEF-Sprecher empört über Kinderopfer im israelisch-amerikanischen Iran-Krieg"
+        "zh": "伊朗在父亲被杀后任命哈梅内伊的儿子为新领导人",
+        "en": "Iran names Ayatollah Khamenei’s son as new leader after father’s killing",
+        "de": "Iran ernennt den Sohn von Ayatollah Khamenei nach dem Mord an seinem Vater zum neuen Führer"
       },
       "summary": {
-        "zh": "联合国儿童基金会发言人詹姆斯·埃尔德强调，全球冲突中儿童伤亡人数不断增加的严重性。",
-        "en": "UNICEF spokesman James Elder stressed the importance of the growing numbers of children killed in global conflicts.",
-        "de": "UNICEF-Sprecher James Elder betonte die Bedeutung der wachsenden Zahl von Kindern, die in globalen Konflikten getötet werden."
+        "zh": "伊朗国家电视台宣布，专家大会已选择莫赫塔巴·哈梅内伊作为最高领袖，接替其父亲。",
+        "en": "Iranian state television has announced that the Assembly of Experts has chosen Mojtaba Khamenei as supreme leader following his father's killing.",
+        "de": "Der iranische Staatsfernseher hat bekannt gegeben, dass die Versammlung der Experten Mojtaba Khamenei nach dem Mord an seinem Vater zum Obersten Führer gewählt hat."
       },
       "source": "Al Jazeera",
       "date": "2026-03-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/unicef-spokesman-enraged-over-child-casualties-from-israeli-us-iran-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/iran-names-ayatollah-khameneis-son-as-new-leader-after-fathers-killing?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "旧金山联储的达利表示就业报告使利率决定复杂化",
-        "en": "San Francisco Fed's Daly says jobs report complicates interest rate call",
-        "de": "Die Präsidentin der San Francisco Fed, Daly, sagt, dass der Arbeitsmarktbericht die Zinspolitik kompliziert"
+        "zh": "道琼斯期货下跌超过1000点，油价飙升30%，伊朗冲突持续",
+        "en": "Dow futures sink more than 1,000 points, oil prices surge up to 30% as Iran conflict rages",
+        "de": "Dow-Futures sinken um mehr als 1.000 Punkte, Ölpreise steigen um bis zu 30%, während der Iran-Konflikt tobt"
       },
       "summary": {
-        "zh": "旧金山联邦储备银行的达利表示，疲弱的二月份就业报告使得利率决策环境更加复杂。",
-        "en": "San Francisco Fed's Daly stated that the weak February jobs report complicates the interest rate decision-making environment.",
-        "de": "Die Präsidentin der San Francisco Fed, Daly, erklärte, dass der schwache Arbeitsmarktbericht für Februar die Entscheidungsfindung bezüglich der Zinssätze kompliziert."
+        "zh": "由于伊朗冲突持续，油价飙升至每桶100美元以上，美国股市期货下跌超过1000点，市场情绪受到影响。",
+        "en": "As the Iran conflict continues, oil prices surge above $100 a barrel, leading to a drop of more than 1,000 points in U.S. stock market futures.",
+        "de": "Da der Iran-Konflikt andauert, steigen die Ölpreise über 100 Dollar pro Barrel, was zu einem Rückgang von mehr als 1.000 Punkten bei den US-Aktienfutures führt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-06",
-      "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html"
+      "source": "MarketWatch",
+      "date": "2026-03-09",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-sink-after-oil-surges-above-100-a-barrel-as-iran-conflict-rages-3f1fbfe7?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国2月份非农就业人数意外下降，失业率上升至4.4%",
-        "en": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
-        "de": "Die US-Beschäftigung ist im Februar unerwartet um 92.000 gesunken; die Arbeitslosenquote steigt auf 4,4%"
-      },
-      "summary": {
-        "zh": "2月份的非农就业人数预计将增加50,000，但实际下降了92,000，失业率也上升至4.4%。",
-        "en": "Nonfarm payrolls were expected to increase by 50,000 in February but unexpectedly fell by 92,000, with the unemployment rate rising to 4.4%.",
-        "de": "Die Zahl der Nichtlandwirtschaftlichen Beschäftigten sollte im Februar um 50.000 steigen, fiel jedoch unerwartet um 92.000, während die Arbeitslosenquote auf 4,4% anstieg."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-06",
-      "url": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "美国-伊朗战争如何已经影响消费者的口袋",
+        "zh": "美国-伊朗战争已经影响消费者的口袋",
         "en": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
         "de": "So wirkt sich der US-Iran-Krieg bereits auf die Geldbeutel der Verbraucher aus"
       },
       "summary": {
         "zh": "美国-以色列对伊朗的袭击导致市场波动，抵押贷款利率飙升，消费者面临更高的价格。",
         "en": "The U.S.-Israeli strikes on Iran have led to market volatility, spiking mortgage rates, and higher prices for consumers.",
-        "de": "Die US-israelischen Angriffe auf den Iran haben zu Marktschwankungen, steigenden Hypothekenzinsen und höheren Preisen für Verbraucher geführt."
+        "de": "Die US-israelischen Angriffe auf den Iran haben zu Marktvolatilität, steigenden Hypothekenzinsen und höheren Preisen für Verbraucher geführt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-06",
       "url": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "旧金山联储的达利表示，就业报告使利率决定复杂化",
+        "en": "San Francisco Fed's Daly says jobs report complicates interest rate call",
+        "de": "Die Präsidentin der San Francisco Fed, Daly, sagt, dass der Arbeitsbericht die Zinssatzentscheidung kompliziert"
+      },
+      "summary": {
+        "zh": "旧金山联邦储备银行的达利表示，2月份疲弱的就业报告使得利率决策环境更加复杂。",
+        "en": "San Francisco Fed's Daly stated that the weak February jobs report adds to a complicated environment for interest rate decision-making.",
+        "de": "Daly von der San Francisco Fed erklärte, dass der schwache Arbeitsbericht für Februar die Zinssatzentscheidung kompliziert."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-06",
+      "url": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html"
     }
   ]
 }
