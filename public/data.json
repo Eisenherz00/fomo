@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T17:15:29.768213+00:00",
+  "generatedAt": "2026-03-10T05:34:22.637098+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Wie KI den Iran-Konflikt in ein Theater verwandelt"
       },
       "summary": {
-        "zh": "这篇文章探讨了人工智能如何在伊朗冲突中发挥作用，影响公众感知和舆论。AI技术正在被用于塑造叙事，使冲突变得更加戏剧化。",
-        "en": "This article explores how artificial intelligence is playing a role in the Iran conflict, influencing public perception and discourse. AI technologies are being used to shape narratives, making the conflict more theatrical.",
-        "de": "Dieser Artikel untersucht, wie künstliche Intelligenz eine Rolle im Iran-Konflikt spielt und die öffentliche Wahrnehmung sowie die Diskussion beeinflusst. KI-Technologien werden genutzt, um Narrative zu gestalten und den Konflikt dramatischer zu machen."
+        "zh": "人工智能在伊朗冲突中的作用日益显著，正在将这一复杂的地缘政治局势转变为一种戏剧化的表现形式。此现象引发了对技术与战争之间关系的深刻反思。",
+        "en": "AI's role in the Iran conflict is becoming increasingly significant, transforming this complex geopolitical situation into a theatrical representation. This phenomenon raises profound reflections on the relationship between technology and warfare.",
+        "de": "Die Rolle der KI im Iran-Konflikt wird zunehmend bedeutend und verwandelt diese komplexe geopolitische Situation in eine theatralische Darstellung. Dieses Phänomen wirft tiefgreifende Überlegungen zur Beziehung zwischen Technologie und Krieg auf."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-09",
@@ -25,9 +25,9 @@
         "de": "Das Usability-Erfordernis zur Sicherung digitaler Vermögenswerte"
       },
       "summary": {
-        "zh": "本文讨论了在数字资产设备安全性方面可用性的重要性，强调了在设计中平衡安全性和用户体验的必要性。",
-        "en": "This article discusses the importance of usability in securing digital asset devices, emphasizing the need to balance security and user experience in design.",
-        "de": "Dieser Artikel behandelt die Bedeutung der Benutzerfreundlichkeit bei der Sicherung digitaler Vermögenswerte und betont die Notwendigkeit, Sicherheit und Benutzererfahrung im Design in Einklang zu bringen."
+        "zh": "数字资产设备的安全性与可用性之间的平衡变得尤为重要。随着技术的发展，如何在确保安全的同时提升用户体验成为了一个关键挑战。",
+        "en": "The balance between security and usability of digital asset devices has become increasingly important. As technology advances, enhancing user experience while ensuring security poses a critical challenge.",
+        "de": "Das Gleichgewicht zwischen Sicherheit und Benutzerfreundlichkeit digitaler Vermögenswerte wird zunehmend wichtig. Mit dem technologischen Fortschritt stellt die Verbesserung der Benutzererfahrung bei gleichzeitiger Gewährleistung der Sicherheit eine entscheidende Herausforderung dar."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-09",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：模糊的人工智能监视法律，白宫打击反抗实验室",
+        "zh": "下载：模糊的人工智能监控法律，白宫对叛逆实验室进行打击",
         "en": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
         "de": "Der Download: unklare KI-Überwachungsgesetze und das Weiße Haus geht gegen widerspenstige Labore vor"
       },
       "summary": {
-        "zh": "本期下载报道了人工智能监视法律的模糊性，以及白宫对不服从实验室的打击行动，反映出技术监管的复杂性。",
-        "en": "This edition of The Download covers the murkiness of AI surveillance laws and the White House's crackdown on defiant labs, reflecting the complexities of technology regulation.",
-        "de": "Diese Ausgabe von The Download behandelt die Unklarheit der KI-Überwachungsgesetze und das Vorgehen des Weißen Hauses gegen widerspenstige Labore, was die Komplexität der Technologie-Regulierung widerspiegelt."
+        "zh": "关于人工智能监控的法律问题变得愈发模糊，白宫对不遵守规定的实验室采取了更严格的措施。这一动态引发了对科技伦理和法律框架的广泛讨论。",
+        "en": "The legal issues surrounding AI surveillance have become increasingly murky, with the White House taking stricter measures against non-compliant labs. This dynamic has sparked widespread discussions on technology ethics and legal frameworks.",
+        "de": "Die rechtlichen Fragen rund um die KI-Überwachung werden zunehmend unklar, während das Weiße Haus strengere Maßnahmen gegen nicht konforme Labore ergreift. Diese Dynamik hat weitreichende Diskussionen über Technologieethik und rechtliche Rahmenbedingungen ausgelöst."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-09",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "法国准备在战争平息时护送霍尔木兹海峡的船只：马克龙",
-        "en": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
-        "de": "Frankreich bereitet sich darauf vor, Schiffe im Hormus-Kanal zu eskortieren, wenn der Krieg sich beruhigt: Macron"
+        "zh": "朝鲜谴责美韩军事演习的“肌肉展示”",
+        "en": "North Korea denounces ‘muscle-flexing’ US-South Korean military exercises",
+        "de": "Nordkorea verurteilt das 'Muskelspiel' der US-südkoreanischen Militärübungen"
       },
       "summary": {
-        "zh": "法国总统马克龙表示，法国将进行“纯防御性”任务，旨在逐步重新开放关键的海湾水道，以应对油价飙升。",
-        "en": "French President Macron stated that France will conduct a 'purely defensive' mission aimed at gradually reopening the key Gulf waterway in response to rising oil prices.",
-        "de": "Der französische Präsident Macron erklärte, dass Frankreich eine 'rein defensive' Mission durchführen wird, die darauf abzielt, die wichtige Wasserstraße im Golf schrittweise wieder zu öffnen, um den steigenden Ölpreisen zu begegnen."
+        "zh": "朝鲜对美韩联合军事演习表示强烈谴责，称其可能导致“不可想象的可怕后果”。这一言论反映了朝鲜对外部军事压力的敏感性。",
+        "en": "North Korea has strongly condemned the US-South Korean joint military exercises, stating they could lead to 'unimaginably terrible consequences.' This statement reflects North Korea's sensitivity to external military pressure.",
+        "de": "Nordkorea hat die US-südkoreanischen Militärübungen scharf verurteilt und erklärt, sie könnten zu 'unvorstellbar schlimmen Konsequenzen' führen. Diese Aussage spiegelt Nordkoreas Empfindlichkeit gegenüber externem militärischem Druck wider."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-09",
-      "url": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss"
+      "date": "2026-03-10",
+      "url": "https://www.aljazeera.com/news/2026/3/10/north-korea-denounces-muscle-flexing-us-south-korean-military-exercises?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国参议员要求对伊朗女孩学校的“可怕”袭击进行调查",
-        "en": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
-        "de": "US-Senatoren fordern Untersuchung des 'entsetzlichen' Angriffs auf Mädchenschule im Iran"
+        "zh": "特朗普声称伊朗计划在美国攻击前“接管中东”",
+        "en": "Trump claims Iran planned to ‘take over Middle East’ before US attacked",
+        "de": "Trump behauptet, Iran habe geplant, den 'Nahen Osten zu übernehmen', bevor die USA angriffen"
       },
       "summary": {
-        "zh": "美国顶级民主党人呼吁对在伊朗米纳布学校发生的轰炸事件进行全面和公正的审查，该事件导致至少170人遇难。",
-        "en": "Top Democrats in the U.S. are calling for a full and impartial review of the bombing at the Minab school in Iran, which resulted in at least 170 fatalities.",
-        "de": "Top-Demokraten in den USA fordern eine umfassende und unparteiische Überprüfung des Bombenanschlags auf die Schule in Minab, Iran, bei dem mindestens 170 Menschen ums Leben kamen."
+        "zh": "特朗普声称伊朗在美国发动攻击之前有意图“接管中东”，这一言论引发了对中东局势的进一步关注与讨论。",
+        "en": "Trump claimed that Iran intended to 'take over the Middle East' before the US launched its attack, a statement that has sparked further attention and discussion regarding the situation in the Middle East.",
+        "de": "Trump behauptete, Iran habe vor dem US-Angriff beabsichtigt, den 'Nahen Osten zu übernehmen', eine Aussage, die weitere Aufmerksamkeit und Diskussionen über die Situation im Nahen Osten ausgelöst hat."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-09",
-      "url": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss"
+      "date": "2026-03-10",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-claims-iran-planned-to-take-over-middle-east-before-us-attacked?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国军方在东太平洋袭击涉嫌毒品船只，杀死六人",
-        "en": "US military kills six in strike on alleged drug boat in the Eastern Pacific",
-        "de": "US-Militär tötet sechs bei Angriff auf mutmaßliches Drogenboot im östlichen Pazifik"
+        "zh": "特朗普威胁如果伊朗阻碍能源供应将加大打击力度",
+        "en": "Trump threatens to hit Iran harder if it blocks energy supplies",
+        "de": "Trump droht, Iran härter zu treffen, wenn es die Energieversorgung blockiert"
       },
       "summary": {
-        "zh": "美国军方声称在东太平洋对一艘涉嫌毒品走私的船只进行打击，导致六人遇难。",
-        "en": "The U.S. military claims that six men were killed in a strike on a suspected drug-smuggling boat in the eastern Pacific Ocean.",
-        "de": "Das US-Militär behauptet, dass sechs Männer bei einem Angriff auf ein mutmaßliches Drogen-Schmuggelboot im östlichen Pazifik getötet wurden."
+        "zh": "特朗普警告称，如果伊朗阻碍全球能源供应，将加大对其的攻击力度。这一威胁可能加剧地区紧张局势。",
+        "en": "Trump warned that he would escalate attacks on Iran if it disrupts global energy supplies. This threat could heighten tensions in the region.",
+        "de": "Trump warnte, dass er die Angriffe auf Iran eskalieren würde, wenn es die globalen Energieversorgung stört. Diese Drohung könnte die Spannungen in der Region erhöhen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-09",
-      "url": "https://www.aljazeera.com/news/2026/3/9/us-military-kills-six-in-strike-on-alleged-drug-boat-in-the-eastern-pacific?traffic_source=rss"
+      "date": "2026-03-10",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-threatens-to-hit-iran-harder-if-it-blocks-energy-supplies?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普主权威胁一年后，加拿大人保持“肘部抬起”",
-        "en": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
-        "de": "Ein Jahr nach Trumps Souveränitätsdrohungen halten die Kanadier 'die Ellbogen hoch'"
+        "zh": "由于油价飙升至100美元，1970年代式滞胀的担忧出现",
+        "en": "Fears of 1970s-style stagflation arise with oil spike to $100",
+        "de": "Ängste vor einer Stagflation im Stil der 1970er Jahre steigen mit dem Ölpreisanstieg auf 100 Dollar"
       },
       "summary": {
-        "zh": "在特朗普的威胁和关税之后，加拿大人展现出一种不寻常的爱国主义，形成了新的社会和经济秩序。",
-        "en": "In the wake of Trump's threats and tariffs, Canadians have shown an unusual swell of patriotism, evolving into a new social and economic order.",
-        "de": "Nach Trumps Drohungen und Zöllen zeigen die Kanadier einen ungewöhnlichen Patriotismus, der sich in eine neue soziale und wirtschaftliche Ordnung verwandelt hat."
+        "zh": "随着油价飙升至100美元，市场对1970年代式滞胀的担忧加剧。高通胀和缓慢增长的双重威胁使政策制定者面临严峻挑战。",
+        "en": "As oil prices spike to $100, fears of 1970s-style stagflation are intensifying. The dual threat of high inflation and slow growth poses a significant challenge for policymakers.",
+        "de": "Mit dem Anstieg der Ölpreise auf 100 Dollar verstärken sich die Ängste vor einer Stagflation im Stil der 1970er Jahre. Die doppelte Bedrohung durch hohe Inflation und langsames Wachstum stellt eine erhebliche Herausforderung für die Entscheidungsträger dar."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-03-09",
-      "url": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html"
+      "url": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "微软与Anthropic的新合作关系。Claude Cowork会提供AI优势吗？",
-        "en": "Microsoft has a new Anthropic partnership. Will Claude Cowork offer an AI advantage?",
-        "de": "Microsoft hat eine neue Partnerschaft mit Anthropic. Wird Claude Cowork einen KI-Vorteil bieten?"
+        "zh": "特朗普宣布解除制裁以缓解油价，称伊朗战争将“很快结束”",
+        "en": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
+        "de": "Trump kündigt die Aufhebung von Sanktionen an, um die Ölpreise zu senken, und sagt, der Iran-Krieg werde 'sehr bald' enden"
       },
       "summary": {
-        "zh": "微软与Anthropic的合作关系正在发展，其Copilot产品将从聊天机器人转变为代理，可能会带来新的AI优势。",
-        "en": "Microsoft's partnership with Anthropic is evolving, with its Copilot product transitioning from a chatbot to an agent, potentially offering new AI advantages.",
-        "de": "Die Partnerschaft von Microsoft mit Anthropic entwickelt sich weiter, wobei das Copilot-Produkt von einem Chatbot zu einem Agenten übergeht, was möglicherweise neue KI-Vorteile bietet."
+        "zh": "特朗普宣布将解除对某些国家的油相关制裁，以缓解油价上涨，并表示伊朗战争将“很快结束”。这一决定可能对市场产生重大影响。",
+        "en": "Trump announced that he would lift oil-related sanctions on certain countries to ease rising oil prices, stating that the Iran war would 'end very soon.' This decision could have significant implications for the market.",
+        "de": "Trump kündigte an, dass er die ölbezogenen Sanktionen gegen bestimmte Länder aufheben werde, um die steigenden Ölpreise zu senken, und erklärte, der Iran-Krieg werde 'sehr bald' enden. Diese Entscheidung könnte erhebliche Auswirkungen auf den Markt haben."
       },
-      "source": "MarketWatch",
-      "date": "2026-03-09",
-      "url": "https://www.marketwatch.com/story/microsoft-has-a-new-anthropic-partnership-will-claude-cowork-offer-an-ai-advantage-cf7e10da?mod=mw_rss_topstories"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-10",
+      "url": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "航空公司股票暴跌，油价飙升可能会触发旅行者的临界点",
-        "en": "Airline stocks dive as oil-price spike could trigger a tipping point for travelers",
-        "de": "Aktien von Fluggesellschaften stürzen ab, da der Anstieg der Ölpreise einen Wendepunkt für Reisende auslösen könnte"
+        "zh": "HPE的股票因受益于两个重大人工智能趋势而上涨",
+        "en": "HPE’s stock rises as earnings benefit from two big AI trends",
+        "de": "HPE-Aktien steigen, da die Gewinne von zwei großen KI-Trends profitieren"
       },
       "summary": {
-        "zh": "航空公司股票因油价飙升而急剧下跌，市场担心旅行需求可能会因中东冲突而下降。",
-        "en": "Airline stocks have sharply declined due to rising oil prices, with concerns that travel demand may drop as a result of the escalating Middle East conflict.",
-        "de": "Die Aktien von Fluggesellschaften sind aufgrund steigender Ölpreise stark gefallen, da Befürchtungen bestehen, dass die Reisennachfrage infolge des eskalierenden Konflikts im Nahen Osten sinken könnte."
+        "zh": "HPE的股票因其收益受益于两个重要的人工智能趋势而上涨。公司提高了网络收入的前景，并披露了企业人工智能服务器的订单大幅增长。",
+        "en": "HPE's stock has risen as its earnings benefit from two significant AI trends. The company has raised its outlook for networking revenue and disclosed a substantial increase in orders for enterprise AI servers.",
+        "de": "Die HPE-Aktien sind gestiegen, da die Gewinne von zwei bedeutenden KI-Trends profitieren. Das Unternehmen hat seine Prognose für die Netzwerkumsätze angehoben und einen erheblichen Anstieg der Bestellungen für Unternehmens-KI-Server bekannt gegeben."
       },
-      "source": "MarketWatch",
-      "date": "2026-03-09",
-      "url": "https://www.marketwatch.com/story/airline-stocks-dive-as-oil-price-spike-could-trigger-a-tipping-point-for-travelers-2be814ea?mod=mw_rss_topstories"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-10",
+      "url": "https://www.marketwatch.com/story/hpes-stock-rises-as-earnings-benefit-from-two-big-ai-trends-a3df2732?mod=mw_rss_topstories"
     }
   ]
 }
