@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-10T05:34:22.637098+00:00",
+  "generatedAt": "2026-03-10T17:13:46.442088+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "人工智能如何将伊朗冲突变成戏剧",
-        "en": "How AI is turning the Iran conflict into theater",
-        "de": "Wie KI den Iran-Konflikt in ein Theater verwandelt"
+        "zh": "《精灵宝可梦Go》如何为送货机器人提供精准的世界视角",
+        "en": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+        "de": "Wie Pokémon Go Lieferrobotern einen millimetergenauen Blick auf die Welt gibt"
       },
       "summary": {
-        "zh": "人工智能在伊朗冲突中的作用日益显著，正在将这一复杂的地缘政治局势转变为一种戏剧化的表现形式。此现象引发了对技术与战争之间关系的深刻反思。",
-        "en": "AI's role in the Iran conflict is becoming increasingly significant, transforming this complex geopolitical situation into a theatrical representation. This phenomenon raises profound reflections on the relationship between technology and warfare.",
-        "de": "Die Rolle der KI im Iran-Konflikt wird zunehmend bedeutend und verwandelt diese komplexe geopolitische Situation in eine theatralische Darstellung. Dieses Phänomen wirft tiefgreifende Überlegungen zur Beziehung zwischen Technologie und Krieg auf."
+        "zh": "《精灵宝可梦Go》通过增强现实技术，为送货机器人提供了精准的环境视图，帮助它们更有效地完成送货任务。",
+        "en": "Pokémon Go, through augmented reality technology, provides delivery robots with an accurate view of their environment, aiding them in completing delivery tasks more effectively.",
+        "de": "Pokémon Go bietet Lieferrobotern durch Augmented-Reality-Technologie eine präzise Sicht auf ihre Umgebung, was ihnen hilft, Lieferaufgaben effektiver zu erfüllen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-09",
-      "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/"
+      "date": "2026-03-10",
+      "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "确保数字资产设备安全的可用性要求",
-        "en": "The usability imperative for securing digital asset devices",
-        "de": "Das Usability-Erfordernis zur Sicherung digitaler Vermögenswerte"
+        "zh": "优先考虑能源智能以实现可持续增长",
+        "en": "Prioritizing energy intelligence for sustainable growth",
+        "de": "Energieintelligenz für nachhaltiges Wachstum priorisieren"
       },
       "summary": {
-        "zh": "数字资产设备的安全性与可用性之间的平衡变得尤为重要。随着技术的发展，如何在确保安全的同时提升用户体验成为了一个关键挑战。",
-        "en": "The balance between security and usability of digital asset devices has become increasingly important. As technology advances, enhancing user experience while ensuring security poses a critical challenge.",
-        "de": "Das Gleichgewicht zwischen Sicherheit und Benutzerfreundlichkeit digitaler Vermögenswerte wird zunehmend wichtig. Mit dem technologischen Fortschritt stellt die Verbesserung der Benutzererfahrung bei gleichzeitiger Gewährleistung der Sicherheit eine entscheidende Herausforderung dar."
+        "zh": "弗吉尼亚州劳登县近年来因其现代化的能源管理而声名鹊起，强调了能源智能在推动可持续增长中的重要性。",
+        "en": "Loudoun County, Virginia, has gained a modern reputation in recent years due to its energy management, highlighting the importance of energy intelligence in driving sustainable growth.",
+        "de": "Loudoun County in Virginia hat in den letzten Jahren aufgrund seines Energiemanagements an modernem Ansehen gewonnen und hebt die Bedeutung von Energieintelligenz für nachhaltiges Wachstum hervor."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-09",
-      "url": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/"
+      "date": "2026-03-10",
+      "url": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：模糊的人工智能监控法律，白宫对叛逆实验室进行打击",
-        "en": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-        "de": "Der Download: unklare KI-Überwachungsgesetze und das Weiße Haus geht gegen widerspenstige Labore vor"
+        "zh": "下载：人工智能在伊朗战争中的角色，以及升级的法律斗争",
+        "en": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+        "de": "Der Download: Die Rolle der KI im Iran-Krieg und ein eskalierender Rechtsstreit"
       },
       "summary": {
-        "zh": "关于人工智能监控的法律问题变得愈发模糊，白宫对不遵守规定的实验室采取了更严格的措施。这一动态引发了对科技伦理和法律框架的广泛讨论。",
-        "en": "The legal issues surrounding AI surveillance have become increasingly murky, with the White House taking stricter measures against non-compliant labs. This dynamic has sparked widespread discussions on technology ethics and legal frameworks.",
-        "de": "Die rechtlichen Fragen rund um die KI-Überwachung werden zunehmend unklar, während das Weiße Haus strengere Maßnahmen gegen nicht konforme Labore ergreift. Diese Dynamik hat weitreichende Diskussionen über Technologieethik und rechtliche Rahmenbedingungen ausgelöst."
+        "zh": "本期《下载》探讨了人工智能在伊朗战争中的作用，以及围绕这一主题的法律斗争的升级。",
+        "en": "This edition of The Download explores AI's role in the Iran war and the escalating legal battles surrounding this issue.",
+        "de": "Diese Ausgabe des Downloads untersucht die Rolle der KI im Iran-Krieg und die eskalierenden rechtlichen Auseinandersetzungen zu diesem Thema."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-09",
-      "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/"
+      "date": "2026-03-10",
+      "url": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "朝鲜谴责美韩军事演习的“肌肉展示”",
-        "en": "North Korea denounces ‘muscle-flexing’ US-South Korean military exercises",
-        "de": "Nordkorea verurteilt das 'Muskelspiel' der US-südkoreanischen Militärübungen"
+        "zh": "国际能源署将在成员国考虑释放石油储备时召开会议",
+        "en": "IEA due to meet as member states mull releasing oil reserves amid Iran war",
+        "de": "IEA trifft sich, während Mitgliedstaaten die Freigabe von Ölreserven im Iran-Krieg erwägen"
       },
       "summary": {
-        "zh": "朝鲜对美韩联合军事演习表示强烈谴责，称其可能导致“不可想象的可怕后果”。这一言论反映了朝鲜对外部军事压力的敏感性。",
-        "en": "North Korea has strongly condemned the US-South Korean joint military exercises, stating they could lead to 'unimaginably terrible consequences.' This statement reflects North Korea's sensitivity to external military pressure.",
-        "de": "Nordkorea hat die US-südkoreanischen Militärübungen scharf verurteilt und erklärt, sie könnten zu 'unvorstellbar schlimmen Konsequenzen' führen. Diese Aussage spiegelt Nordkoreas Empfindlichkeit gegenüber externem militärischem Druck wider."
+        "zh": "国际能源署的负责人表示，会议旨在评估美国与以色列对伊朗的战争所引发的全球不确定性。",
+        "en": "The head of the International Energy Agency stated that the meeting aims to assess the global uncertainty triggered by the U.S.-Israel war on Iran.",
+        "de": "Der Leiter der Internationalen Energieagentur erklärte, dass das Treffen darauf abzielt, die durch den US-Israel-Krieg gegen den Iran ausgelöste globale Unsicherheit zu bewerten."
       },
       "source": "Al Jazeera",
       "date": "2026-03-10",
-      "url": "https://www.aljazeera.com/news/2026/3/10/north-korea-denounces-muscle-flexing-us-south-korean-military-exercises?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/10/iea-to-meet-as-countries-mull-releasing-oil-reserves-amid-iran-war?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普声称伊朗计划在美国攻击前“接管中东”",
-        "en": "Trump claims Iran planned to ‘take over Middle East’ before US attacked",
-        "de": "Trump behauptet, Iran habe geplant, den 'Nahen Osten zu übernehmen', bevor die USA angriffen"
+        "zh": "美国将军表示他“尊重”伊朗的斗争",
+        "en": "US general says he ‘respects’ Iran’s fight",
+        "de": "US-General sagt, er „respektiert“ Irans Kampf"
       },
       "summary": {
-        "zh": "特朗普声称伊朗在美国发动攻击之前有意图“接管中东”，这一言论引发了对中东局势的进一步关注与讨论。",
-        "en": "Trump claimed that Iran intended to 'take over the Middle East' before the US launched its attack, a statement that has sparked further attention and discussion regarding the situation in the Middle East.",
-        "de": "Trump behauptete, Iran habe vor dem US-Angriff beabsichtigt, den 'Nahen Osten zu übernehmen', eine Aussage, die weitere Aufmerksamkeit und Diskussionen über die Situation im Nahen Osten ausgelöst hat."
+        "zh": "美国联合参谋部主席表示，他“尊重”伊朗在战争中的抵抗，表明了对对手的某种认可。",
+        "en": "The chairman of the U.S. Joint Chiefs of Staff stated that he 'respects' Iran's resistance in the war, indicating a degree of acknowledgment towards the adversary.",
+        "de": "Der Vorsitzende der US-Streitkräfte erklärte, dass er den Widerstand Irans im Krieg „respektiert“, was eine gewisse Anerkennung des Gegners andeutet."
       },
       "source": "Al Jazeera",
       "date": "2026-03-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-claims-iran-planned-to-take-over-middle-east-before-us-attacked?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/us-general-says-he-respects-irans-fight?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普威胁如果伊朗阻碍能源供应将加大打击力度",
-        "en": "Trump threatens to hit Iran harder if it blocks energy supplies",
-        "de": "Trump droht, Iran härter zu treffen, wenn es die Energieversorgung blockiert"
+        "zh": "以色列空袭袭击南黎巴嫩一栋建筑",
+        "en": "Israeli air strike targets building in south Lebanon",
+        "de": "Israelischer Luftangriff zielt auf ein Gebäude im Süden Libanons"
       },
       "summary": {
-        "zh": "特朗普警告称，如果伊朗阻碍全球能源供应，将加大对其的攻击力度。这一威胁可能加剧地区紧张局势。",
-        "en": "Trump warned that he would escalate attacks on Iran if it disrupts global energy supplies. This threat could heighten tensions in the region.",
-        "de": "Trump warnte, dass er die Angriffe auf Iran eskalieren würde, wenn es die globalen Energieversorgung stört. Diese Drohung könnte die Spannungen in der Region erhöhen."
+        "zh": "以色列空袭重创了南黎巴嫩的一个建筑，进一步加剧了该地区的紧张局势。",
+        "en": "An Israeli air strike has heavily damaged a building in southern Lebanon, further escalating tensions in the region.",
+        "de": "Ein israelischer Luftangriff hat ein Gebäude im Süden Libanons stark beschädigt und die Spannungen in der Region weiter verschärft."
       },
       "source": "Al Jazeera",
       "date": "2026-03-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/trump-threatens-to-hit-iran-harder-if-it-blocks-energy-supplies?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/israeli-air-strike-targets-building-in-south-lebanon?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "由于油价飙升至100美元，1970年代式滞胀的担忧出现",
-        "en": "Fears of 1970s-style stagflation arise with oil spike to $100",
-        "de": "Ängste vor einer Stagflation im Stil der 1970er Jahre steigen mit dem Ölpreisanstieg auf 100 Dollar"
+        "zh": "由于美国与伊朗战争，汽油价格突破每加仑3.50美元，达到2024年以来的最高水平",
+        "en": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war",
+        "de": "Benzinpreise übersteigen 3,50 USD pro Gallone und erreichen den höchsten Stand seit 2024 im Zuge des US-Iran-Kriegs"
       },
       "summary": {
-        "zh": "随着油价飙升至100美元，市场对1970年代式滞胀的担忧加剧。高通胀和缓慢增长的双重威胁使政策制定者面临严峻挑战。",
-        "en": "As oil prices spike to $100, fears of 1970s-style stagflation are intensifying. The dual threat of high inflation and slow growth poses a significant challenge for policymakers.",
-        "de": "Mit dem Anstieg der Ölpreise auf 100 Dollar verstärken sich die Ängste vor einer Stagflation im Stil der 1970er Jahre. Die doppelte Bedrohung durch hohe Inflation und langsames Wachstum stellt eine erhebliche Herausforderung für die Entscheidungsträger dar."
+        "zh": "由于美国与伊朗战争，汽油价格上涨21%，达到2024年以来的最高水平，给消费者带来压力。",
+        "en": "Gas prices have risen 21% due to the U.S.-Iran war, reaching the highest level since 2024, putting pressure on consumers.",
+        "de": "Die Benzinpreise sind aufgrund des US-Iran-Kriegs um 21 % gestiegen und haben den höchsten Stand seit 2024 erreicht, was die Verbraucher unter Druck setzt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-09",
-      "url": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html"
+      "date": "2026-03-10",
+      "url": "https://www.cnbc.com/2026/03/10/aaa-gas-prices-iran-affordability-trump.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普宣布解除制裁以缓解油价，称伊朗战争将“很快结束”",
-        "en": "Trump announces sanctions relief to ease oil prices, says Iran war to end ‘very soon’",
-        "de": "Trump kündigt die Aufhebung von Sanktionen an, um die Ölpreise zu senken, und sagt, der Iran-Krieg werde 'sehr bald' enden"
+        "zh": "随着油价飙升至100美元，70年代式滞涨的恐惧出现。威胁有多大？",
+        "en": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
+        "de": "Ängste vor stagflationären Zuständen im Stil der 1970er Jahre tauchen mit dem Ölpreisanstieg auf 100 USD auf. Wie groß ist die Bedrohung?"
       },
       "summary": {
-        "zh": "特朗普宣布将解除对某些国家的油相关制裁，以缓解油价上涨，并表示伊朗战争将“很快结束”。这一决定可能对市场产生重大影响。",
-        "en": "Trump announced that he would lift oil-related sanctions on certain countries to ease rising oil prices, stating that the Iran war would 'end very soon.' This decision could have significant implications for the market.",
-        "de": "Trump kündigte an, dass er die ölbezogenen Sanktionen gegen bestimmte Länder aufheben werde, um die steigenden Ölpreise zu senken, und erklärte, der Iran-Krieg werde 'sehr bald' enden. Diese Entscheidung könnte erhebliche Auswirkungen auf den Markt haben."
+        "zh": "高通胀和经济增长缓慢的双重威胁使市场担忧，利率削减和政府支出等措施可能加剧通胀。",
+        "en": "The dual threat of high inflation and slow growth raises market concerns, as measures like interest rate cuts and government spending may exacerbate inflation.",
+        "de": "Die doppelte Bedrohung durch hohe Inflation und langsames Wachstum weckt Marktbedenken, da Maßnahmen wie Zinssenkungen und Staatsausgaben die Inflation verschärfen könnten."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC – Markets",
       "date": "2026-03-10",
-      "url": "https://www.marketwatch.com/story/trump-announces-sanctions-relief-to-ease-oil-prices-says-iran-war-to-end-very-soon-ab0ee595?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "HPE的股票因受益于两个重大人工智能趋势而上涨",
-        "en": "HPE’s stock rises as earnings benefit from two big AI trends",
-        "de": "HPE-Aktien steigen, da die Gewinne von zwei großen KI-Trends profitieren"
+        "zh": "油价下跌10%，能源部长将考虑释放紧急原油储备",
+        "en": "Oil futures drop 10%, with energy ministers set to consider release of emergency crude reserves",
+        "de": "Öl-Futures fallen um 10 %, während sich die Energieminister auf die Freigabe von Notölreserven vorbereiten"
       },
       "summary": {
-        "zh": "HPE的股票因其收益受益于两个重要的人工智能趋势而上涨。公司提高了网络收入的前景，并披露了企业人工智能服务器的订单大幅增长。",
-        "en": "HPE's stock has risen as its earnings benefit from two significant AI trends. The company has raised its outlook for networking revenue and disclosed a substantial increase in orders for enterprise AI servers.",
-        "de": "Die HPE-Aktien sind gestiegen, da die Gewinne von zwei bedeutenden KI-Trends profitieren. Das Unternehmen hat seine Prognose für die Netzwerkumsätze angehoben und einen erheblichen Anstieg der Bestellungen für Unternehmens-KI-Server bekannt gegeben."
+        "zh": "油价大幅下跌，能源部长们将考虑释放紧急原油储备，以应对市场波动。",
+        "en": "Oil prices have dropped sharply, with energy ministers set to consider releasing emergency crude reserves to address market volatility.",
+        "de": "Die Ölpreise sind stark gefallen, und die Energieminister werden die Freigabe von Notölreserven in Betracht ziehen, um die Marktvolatilität zu bekämpfen."
       },
       "source": "MarketWatch – Top Stories",
       "date": "2026-03-10",
-      "url": "https://www.marketwatch.com/story/hpes-stock-rises-as-earnings-benefit-from-two-big-ai-trends-a3df2732?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/oil-futures-slide-8-as-energy-ministers-set-to-meet-on-emergency-reserves-035da30c?mod=mw_rss_topstories"
     }
   ]
 }
