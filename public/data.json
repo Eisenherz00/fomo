@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-10T17:13:46.442088+00:00",
+  "generatedAt": "2026-03-11T05:35:24.371892+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "《精灵宝可梦Go》如何为送货机器人提供精准的世界视角",
+        "zh": "宝可梦Go如何为送货机器人提供精准的世界视图",
         "en": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
-        "de": "Wie Pokémon Go Lieferrobotern einen millimetergenauen Blick auf die Welt gibt"
+        "de": "Wie Pokémon Go Lieferrobotern eine millimetergenaue Sicht auf die Welt gibt"
       },
       "summary": {
-        "zh": "《精灵宝可梦Go》通过增强现实技术，为送货机器人提供了精准的环境视图，帮助它们更有效地完成送货任务。",
-        "en": "Pokémon Go, through augmented reality technology, provides delivery robots with an accurate view of their environment, aiding them in completing delivery tasks more effectively.",
-        "de": "Pokémon Go bietet Lieferrobotern durch Augmented-Reality-Technologie eine präzise Sicht auf ihre Umgebung, was ihnen hilft, Lieferaufgaben effektiver zu erfüllen."
+        "zh": "宝可梦Go作为首个成功的增强现实游戏，帮助送货机器人获得精准的环境视图，从而提升其送货效率。",
+        "en": "Pokémon Go, as the first successful augmented reality game, helps delivery robots gain precise environmental views, thereby enhancing their delivery efficiency.",
+        "de": "Pokémon Go, als das erste erfolgreiche Augmented-Reality-Spiel, hilft Lieferrobotern, präzise Umweltansichten zu gewinnen, wodurch ihre Liefereffizienz verbessert wird."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-10",
@@ -25,9 +25,9 @@
         "de": "Energieintelligenz für nachhaltiges Wachstum priorisieren"
       },
       "summary": {
-        "zh": "弗吉尼亚州劳登县近年来因其现代化的能源管理而声名鹊起，强调了能源智能在推动可持续增长中的重要性。",
-        "en": "Loudoun County, Virginia, has gained a modern reputation in recent years due to its energy management, highlighting the importance of energy intelligence in driving sustainable growth.",
-        "de": "Loudoun County in Virginia hat in den letzten Jahren aufgrund seines Energiemanagements an modernem Ansehen gewonnen und hebt die Bedeutung von Energieintelligenz für nachhaltiges Wachstum hervor."
+        "zh": "弗吉尼亚州的劳登县在可持续增长方面逐渐重视能源智能，以应对现代经济的挑战。",
+        "en": "Loudoun County in Virginia is increasingly prioritizing energy intelligence for sustainable growth to address the challenges of the modern economy.",
+        "de": "Der Loudoun County in Virginia priorisiert zunehmend Energieintelligenz für nachhaltiges Wachstum, um die Herausforderungen der modernen Wirtschaft zu bewältigen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-10",
@@ -41,9 +41,9 @@
         "de": "Der Download: Die Rolle der KI im Iran-Krieg und ein eskalierender Rechtsstreit"
       },
       "summary": {
-        "zh": "本期《下载》探讨了人工智能在伊朗战争中的作用，以及围绕这一主题的法律斗争的升级。",
-        "en": "This edition of The Download explores AI's role in the Iran war and the escalating legal battles surrounding this issue.",
-        "de": "Diese Ausgabe des Downloads untersucht die Rolle der KI im Iran-Krieg und die eskalierenden rechtlichen Auseinandersetzungen zu diesem Thema."
+        "zh": "本期下载专栏探讨了人工智能在伊朗战争中的作用以及围绕其法律问题的不断升级的斗争。",
+        "en": "This edition of The Download explores the role of AI in the Iran war and the escalating legal battles surrounding it.",
+        "de": "Diese Ausgabe des Downloads untersucht die Rolle der KI im Iran-Krieg und die eskalierenden rechtlichen Auseinandersetzungen darum."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-10",
@@ -54,100 +54,99 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "国际能源署将在成员国考虑释放石油储备时召开会议",
-        "en": "IEA due to meet as member states mull releasing oil reserves amid Iran war",
-        "de": "IEA trifft sich, während Mitgliedstaaten die Freigabe von Ölreserven im Iran-Krieg erwägen"
+        "zh": "贝鲁特建筑物在以色列袭击后起火",
+        "en": "Beirut building ablaze after apparent Israeli strike",
+        "de": "Beiruter Gebäude nach angeblichem israelischen Angriff in Flammen"
       },
       "summary": {
-        "zh": "国际能源署的负责人表示，会议旨在评估美国与以色列对伊朗的战争所引发的全球不确定性。",
-        "en": "The head of the International Energy Agency stated that the meeting aims to assess the global uncertainty triggered by the U.S.-Israel war on Iran.",
-        "de": "Der Leiter der Internationalen Energieagentur erklärte, dass das Treffen darauf abzielt, die durch den US-Israel-Krieg gegen den Iran ausgelöste globale Unsicherheit zu bewerten."
+        "zh": "贝鲁特的一栋住宅建筑在一次明显的以色列袭击后起火，现场可见火焰从建筑物的一侧喷涌而出。",
+        "en": "A residential building in Beirut was seen ablaze after an apparent Israeli strike, with flames erupting from a hole in its side.",
+        "de": "Ein Wohngebäude in Beirut brannte nach einem angeblichen israelischen Angriff, wobei Flammen aus einem Loch in seiner Seite schlugen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-10",
-      "url": "https://www.aljazeera.com/news/2026/3/10/iea-to-meet-as-countries-mull-releasing-oil-reserves-amid-iran-war?traffic_source=rss"
+      "date": "2026-03-11",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/beirut-building-ablaze-after-apparent-israeli-strike?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国将军表示他“尊重”伊朗的斗争",
-        "en": "US general says he ‘respects’ Iran’s fight",
-        "de": "US-General sagt, er „respektiert“ Irans Kampf"
+        "zh": "卡塔尔国务大臣表示“地区国家并非伊朗的敌人”",
+        "en": "Qatar Minister of State says ‘regional countries are not an enemy of Iran’",
+        "de": "Katar Minister erklärt: 'Regionale Länder sind nicht die Feinde Irans'"
       },
       "summary": {
-        "zh": "美国联合参谋部主席表示，他“尊重”伊朗在战争中的抵抗，表明了对对手的某种认可。",
-        "en": "The chairman of the U.S. Joint Chiefs of Staff stated that he 'respects' Iran's resistance in the war, indicating a degree of acknowledgment towards the adversary.",
-        "de": "Der Vorsitzende der US-Streitkräfte erklärte, dass er den Widerstand Irans im Krieg „respektiert“, was eine gewisse Anerkennung des Gegners andeutet."
+        "zh": "卡塔尔国务大臣表示，卡塔尔和阿曼在受到攻击时无法充当调解者，强调地区国家与伊朗的关系。",
+        "en": "The Qatari Minister of State stated that Qatar and Oman cannot act as mediators while under attack, emphasizing the relationship between regional countries and Iran.",
+        "de": "Der katarische Staatsminister erklärte, dass Katar und Oman nicht als Vermittler auftreten können, während sie angegriffen werden, und betonte die Beziehung zwischen den regionalen Ländern und dem Iran."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/us-general-says-he-respects-irans-fight?traffic_source=rss"
+      "date": "2026-03-11",
+      "url": "https://www.aljazeera.com/news/2026/3/11/qatars-foreign-minister-says-keeping-strait-of-hormuz-open-is-critical?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列空袭袭击南黎巴嫩一栋建筑",
-        "en": "Israeli air strike targets building in south Lebanon",
-        "de": "Israelischer Luftangriff zielt auf ein Gebäude im Süden Libanons"
+        "zh": "在美国-以色列袭击后，德黑兰恢复尸体",
+        "en": "Leichname nach US-israelischen Angriffen in Teheran geborgen"
       },
       "summary": {
-        "zh": "以色列空袭重创了南黎巴嫩的一个建筑，进一步加剧了该地区的紧张局势。",
-        "en": "An Israeli air strike has heavily damaged a building in southern Lebanon, further escalating tensions in the region.",
-        "de": "Ein israelischer Luftangriff hat ein Gebäude im Süden Libanons stark beschädigt und die Spannungen in der Region weiter verschärft."
+        "zh": "伊朗红新月会发布视频，显示救援队在德黑兰的美国-以色列袭击后恢复尸体。",
+        "en": "Video released by the Iranian Red Crescent shows rescue teams retrieving bodies after US-Israeli strikes hit Tehran.",
+        "de": "Ein Video, das vom Iranischen Roten Halbmond veröffentlicht wurde, zeigt Rettungsteams, die Leichname nach den US-israelischen Angriffen auf Teheran bergen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/israeli-air-strike-targets-building-in-south-lebanon?traffic_source=rss"
+      "date": "2026-03-11",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/bodies-recovered-after-us-israeli-strikes-hit-tehran?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "由于美国与伊朗战争，汽油价格突破每加仑3.50美元，达到2024年以来的最高水平",
-        "en": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war",
-        "de": "Benzinpreise übersteigen 3,50 USD pro Gallone und erreichen den höchsten Stand seit 2024 im Zuge des US-Iran-Kriegs"
+        "zh": "伊朗在战争中通过霍尔木兹海峡向中国运送数百万桶石油",
+        "en": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
+        "de": "Iran sendet Millionen von Öltanks nach China durch die Straße von Hormuz, obwohl der Krieg die Wasserstraße erstickt"
       },
       "summary": {
-        "zh": "由于美国与伊朗战争，汽油价格上涨21%，达到2024年以来的最高水平，给消费者带来压力。",
-        "en": "Gas prices have risen 21% due to the U.S.-Iran war, reaching the highest level since 2024, putting pressure on consumers.",
-        "de": "Die Benzinpreise sind aufgrund des US-Iran-Kriegs um 21 % gestiegen und haben den höchsten Stand seit 2024 erreicht, was die Verbraucher unter Druck setzt."
+        "zh": "尽管美国-以色列与伊朗之间的战争扰乱了更广泛的能源供应，伊朗仍继续通过霍尔木兹海峡向中国运输原油。",
+        "en": "Despite the war between the U.S.-Israel and Iran disrupting broader energy supplies, Iran continues to ship crude oil via the Strait of Hormuz to China.",
+        "de": "Trotz des Krieges zwischen den USA-Israel und dem Iran, der die breiteren Energieversorgung stört, versendet der Iran weiterhin Rohöl über die Straße von Hormuz nach China."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-10",
-      "url": "https://www.cnbc.com/2026/03/10/aaa-gas-prices-iran-affordability-trump.html"
+      "date": "2026-03-11",
+      "url": "https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "随着油价飙升至100美元，70年代式滞涨的恐惧出现。威胁有多大？",
-        "en": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
-        "de": "Ängste vor stagflationären Zuständen im Stil der 1970er Jahre tauchen mit dem Ölpreisanstieg auf 100 USD auf. Wie groß ist die Bedrohung?"
+        "zh": "凯文·沃什面临经济“完美风暴”，等待接任美联储主席",
+        "en": "Kevin Warsh faces an economic 'perfect storm' as he waits to take over as Fed chair",
+        "de": "Kevin Warsh steht vor einer wirtschaftlichen 'perfekten Sturm', während er darauf wartet, den Vorsitz der Fed zu übernehmen"
       },
       "summary": {
-        "zh": "高通胀和经济增长缓慢的双重威胁使市场担忧，利率削减和政府支出等措施可能加剧通胀。",
-        "en": "The dual threat of high inflation and slow growth raises market concerns, as measures like interest rate cuts and government spending may exacerbate inflation.",
-        "de": "Die doppelte Bedrohung durch hohe Inflation und langsames Wachstum weckt Marktbedenken, da Maßnahmen wie Zinssenkungen und Staatsausgaben die Inflation verschärfen könnten."
+        "zh": "凯文·沃什在接任美联储主席的过程中面临着通货膨胀与支持劳动市场之间的艰难选择。",
+        "en": "Kevin Warsh faces a challenging choice between fighting inflation and supporting the labor market as he prepares to take over as Fed chair.",
+        "de": "Kevin Warsh steht vor einer schwierigen Wahl zwischen der Bekämpfung der Inflation und der Unterstützung des Arbeitsmarktes, während er sich auf die Übernahme des Vorsitzes der Fed vorbereitet."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-10",
-      "url": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html"
+      "url": "https://www.cnbc.com/2026/03/10/kevin-warsh-faces-economic-perfect-storm-as-he-waits-to-take-over-as-fed-chair.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "油价下跌10%，能源部长将考虑释放紧急原油储备",
-        "en": "Oil futures drop 10%, with energy ministers set to consider release of emergency crude reserves",
-        "de": "Öl-Futures fallen um 10 %, während sich die Energieminister auf die Freigabe von Notölreserven vorbereiten"
+        "zh": "油价因美国-伊朗战争飙升至2024年以来的最高水平",
+        "en": "Gas prices pass $3.50 per gallon to highest level since 2024 amid U.S.-Iran war",
+        "de": "Die Benzinpreise übersteigen 3,50 USD pro Gallone und erreichen den höchsten Stand seit 2024 im Zuge des US-Iran-Kriegs"
       },
       "summary": {
-        "zh": "油价大幅下跌，能源部长们将考虑释放紧急原油储备，以应对市场波动。",
-        "en": "Oil prices have dropped sharply, with energy ministers set to consider releasing emergency crude reserves to address market volatility.",
-        "de": "Die Ölpreise sind stark gefallen, und die Energieminister werden die Freigabe von Notölreserven in Betracht ziehen, um die Marktvolatilität zu bekämpfen."
+        "zh": "由于美国-伊朗战争的影响，油价上涨21%，达到2024年以来的最高水平。",
+        "en": "Due to the impact of the U.S.-Iran war, gas prices have risen by 21%, reaching the highest levels since 2024.",
+        "de": "Aufgrund der Auswirkungen des US-Iran-Kriegs sind die Benzinpreise um 21 % gestiegen und haben die höchsten Werte seit 2024 erreicht."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC – Markets",
       "date": "2026-03-10",
-      "url": "https://www.marketwatch.com/story/oil-futures-slide-8-as-energy-ministers-set-to-meet-on-emergency-reserves-035da30c?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/03/10/aaa-gas-prices-iran-affordability-trump.html"
     }
   ]
 }
