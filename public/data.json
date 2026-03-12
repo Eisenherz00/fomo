@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-12T05:36:54.521399+00:00",
+  "generatedAt": "2026-03-12T17:16:28.019895+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "中国的OpenClaw AI热潮让投机者赚得盆满钵满",
-        "en": "Hustlers are cashing in on China’s OpenClaw AI craze",
-        "de": "Hustler profitieren vom OpenClaw-AI-Wahn in China"
+        "zh": "下载：早期采用者在中国的OpenClaw热潮中获利，美国电池行业低迷",
+        "en": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+        "de": "Der Download: Frühe Anwender profitieren vom OpenClaw-Wahn in China, und die US-Batterien sinken"
       },
       "summary": {
-        "zh": "冯青阳一直希望创办自己的公司，但他从未想过会以这种方式实现。中国的OpenClaw AI热潮迅速吸引了许多投机者。",
-        "en": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. The OpenClaw AI craze in China has quickly attracted many hustlers.",
-        "de": "Feng Qingyang hatte immer gehofft, sein eigenes Unternehmen zu gründen, aber er hätte nie gedacht, dass es so kommen würde – oder dass der Tag so schnell kommen würde. Der OpenClaw-AI-Wahn in China hat schnell viele Spekulanten angezogen."
+        "zh": "中国的OpenClaw热潮吸引了许多早期采用者，他们通过这一新兴技术获得了丰厚的利润。同时，美国的电池行业却经历了显著的低迷期。",
+        "en": "The OpenClaw craze in China has attracted many early adopters who have profited significantly from this emerging technology. Meanwhile, the US battery industry is experiencing a notable downturn.",
+        "de": "Der OpenClaw-Wahn in China hat viele frühe Anwender angezogen, die erheblichen Gewinn aus dieser aufstrebenden Technologie erzielt haben. Inzwischen erlebt die US-Batterieindustrie einen bemerkenswerten Rückgang."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-11",
-      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
+      "date": "2026-03-12",
+      "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：用Pokémon Go训练世界模型，以及美中寻找外星人的竞赛",
-        "en": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
-        "de": "Der Download: Pokémon Go zur Ausbildung von Weltmodellen und das US-China-Rennen um die Suche nach Aliens"
+        "zh": "务实设计：为现实世界工程AI",
+        "en": "Pragmatic by design: Engineering AI for the real world",
+        "de": "Pragmatisch gestaltet: Ingenieurwesen von KI für die reale Welt"
       },
       "summary": {
-        "zh": "今天的下载版提供了有关技术世界的最新动态，包括Pokémon Go如何用于训练世界模型，以及美中在寻找外星人方面的竞争。",
-        "en": "Today's edition of The Download provides the latest updates from the world of technology, including how Pokémon Go is used to train world models and the US-China competition in searching for aliens.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, darunter, wie Pokémon Go zur Ausbildung von Weltmodellen verwendet wird und den Wettbewerb zwischen den USA und China bei der Suche nach Aliens."
+        "zh": "人工智能的影响远远超出了数字世界，渗透到我们日常生活的各个方面，包括我们驾驶的汽车和使用的家电。",
+        "en": "The impact of artificial intelligence extends far beyond the digital world, permeating various aspects of our daily lives, including the cars we drive and the appliances we use.",
+        "de": "Die Auswirkungen der künstlichen Intelligenz gehen weit über die digitale Welt hinaus und durchdringen verschiedene Aspekte unseres täglichen Lebens, einschließlich der Autos, die wir fahren, und der Geräte, die wir verwenden."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-11",
-      "url": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/"
+      "date": "2026-03-12",
+      "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "如何Pokémon Go为送货机器人提供精准的世界视角",
-        "en": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
-        "de": "Wie Pokémon Go Lieferrobotern eine präzise Sicht auf die Welt bietet"
+        "zh": "美国电池行业面临严峻时刻",
+        "en": "Brutal times for the US battery industry",
+        "de": "Brutale Zeiten für die US-Batterieindustrie"
       },
       "summary": {
-        "zh": "Pokémon Go是全球首个增强现实的超级热门游戏。它为送货机器人提供了精准的世界视角，帮助它们更有效地完成任务。",
-        "en": "Pokémon Go was the world’s first augmented-reality megahit. It provides delivery robots with an inch-perfect view of the world, helping them complete tasks more efficiently.",
-        "de": "Pokémon Go war der weltweit erste Augmented-Reality-Hit. Es bietet Lieferrobotern eine präzise Sicht auf die Welt, was ihnen hilft, Aufgaben effizienter zu erledigen."
+        "zh": "几年前，电池行业如火如荼，许多新公司纷纷涌现。然而，当前的市场状况却显示出显著的低迷迹象。",
+        "en": "A few years ago, the battery industry was booming with numerous new companies emerging. However, the current market conditions show significant signs of downturn.",
+        "de": "Vor einigen Jahren boomte die Batterieindustrie mit zahlreichen neuen Unternehmen. Die aktuellen Marktbedingungen zeigen jedoch erhebliche Anzeichen eines Rückgangs."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-10",
-      "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/"
+      "date": "2026-03-12",
+      "url": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "中国的关键全国人民代表大会会议结束，设定较低的增长目标",
-        "en": "China’s key NPC meeting comes to a close as lower growth target set",
-        "de": "Chinas wichtige NPC-Sitzung kommt zu einem Ende, während ein niedrigeres Wachstumsziel festgelegt wird"
+        "zh": "伊朗总统设定结束战争的条件：是否有出路？",
+        "en": "Iran’s president sets terms to end the war: Is an off-ramp in sight?",
+        "de": "Irans Präsident setzt Bedingungen für das Ende des Krieges: Ist ein Ausweg in Sicht?"
       },
       "summary": {
-        "zh": "全国人民代表大会会议结束，标志着中国在反腐败方面的坚定立场，同时批准了中国的第十五个五年计划。",
-        "en": "The National People's Congress meeting concludes, signaling a firm stance against corruption while approving China's 15th five-year plan.",
-        "de": "Die Sitzung des Nationalen Volkskongresses endet und signalisiert eine feste Haltung gegen Korruption, während der 15. Fünfjahresplan Chinas genehmigt wird."
+        "zh": "伊朗要求赔偿，并保证美国和以色列未来不会攻击。此举可能为结束冲突提供了一条出路。",
+        "en": "Iran is asking for reparations and guarantees that the US and Israel will not attack in the future. This move may provide an off-ramp to end the conflict.",
+        "de": "Iran fordert Entschädigungen und Garantien, dass die USA und Israel in Zukunft nicht angreifen werden. Dieser Schritt könnte einen Ausweg aus dem Konflikt bieten."
       },
       "source": "Al Jazeera",
       "date": "2026-03-12",
-      "url": "https://www.aljazeera.com/news/2026/3/12/chinas-key-npc-meeting-comes-to-a-close-as-lower-growth-target-set?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/12/irans-president-sets-terms-to-end-the-war-is-an-off-ramp-in-sight?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "只有一个人能决定结束伊朗战争",
-        "en": "There is only one person who can decide to end the war on Iran",
-        "de": "Es gibt nur eine Person, die entscheiden kann, den Krieg gegen den Iran zu beenden"
+        "zh": "美国军方称未准备护送油船通过霍尔木兹海峡",
+        "en": "US military ‘not ready’ to escort oil ships through Hormuz, official says",
+        "de": "US-Militär 'nicht bereit', Ölschiffe durch die Straße von Hormuz zu eskortieren, sagt ein Beamter"
       },
       "summary": {
-        "zh": "以色列记者吉迪恩·莱维表示，结束伊朗战争的决定仅在美国总统特朗普手中。",
-        "en": "Israeli journalist Gideon Levy states that the decision to end the Iran war rests solely with US President Trump.",
-        "de": "Der israelische Journalist Gideon Levy erklärt, dass die Entscheidung, den Krieg gegen den Iran zu beenden, ausschließlich in den Händen des US-Präsidenten Trump liegt."
+        "zh": "美国军方官员表示，当前没有能力护送油船通过霍尔木兹海峡，伊朗则主张该海峡应保持关闭。",
+        "en": "A US military official stated that there is currently no capability to escort oil ships through the Strait of Hormuz, while Iran insists that the strait should remain closed.",
+        "de": "Ein US-Militärbeamter erklärte, dass es derzeit keine Fähigkeit gibt, Ölschiffe durch die Straße von Hormuz zu eskortieren, während Iran darauf besteht, dass die Straße geschlossen bleiben sollte."
       },
       "source": "Al Jazeera",
       "date": "2026-03-12",
-      "url": "https://www.aljazeera.com/video/quotable/2026/3/12/there-is-only-one-person-who-can-decide-to-end-the-war-on-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/12/us-military-not-ready-to-escort-oil-ships-through-hormuz-official-says?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "联合国安理会通过决议谴责伊朗在海湾的攻击",
-        "en": "UN Security Council adopts resolution condemning Iran’s attacks in the Gulf",
-        "de": "Der UN-Sicherheitsrat verabschiedet eine Resolution, die die Angriffe Irans im Golf verurteilt"
+        "zh": "伊朗新最高领袖发表首次声明",
+        "en": "Iran’s new supreme leader issues first statement",
+        "de": "Irans neuer oberster Führer gibt erste Erklärung ab"
       },
       "summary": {
-        "zh": "联合国安理会通过了一项决议，要求伊朗停止对海湾国家的攻击，该决议得到了135个国家的共同支持。",
-        "en": "The UN Security Council has adopted a resolution demanding Iran end its attacks on Gulf nations, co-sponsored by 135 countries.",
-        "de": "Der UN-Sicherheitsrat hat eine Resolution verabschiedet, die Iran auffordert, seine Angriffe auf die Golfstaaten zu beenden, die von 135 Ländern mitgetragen wird."
+        "zh": "伊朗最高领袖莫杰塔巴·哈梅内伊自被任命以来首次发表声明，标志着其领导下的新阶段。",
+        "en": "Iran's Supreme Leader Mojtaba Khamenei has issued his first statement since being appointed, marking a new phase under his leadership.",
+        "de": "Irans oberster Führer Mojtaba Khamenei hat seine erste Erklärung seit seiner Ernennung abgegeben, was eine neue Phase unter seiner Führung markiert."
       },
       "source": "Al Jazeera",
       "date": "2026-03-12",
-      "url": "https://www.aljazeera.com/news/2026/3/12/un-security-council-adopts-resolution-condemning-irans-attacks-in-the-gulf?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/irans-new-supreme-leader-issues-first-statement?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国赤字在二月份超过1万亿美元，但低于去年同期的水平",
-        "en": "U.S. deficit tops $1 trillion through February but runs below year-ago pace",
-        "de": "Das US-Defizit übersteigt im Februar 1 Billion Dollar, liegt aber unter dem Niveau des Vorjahres"
+        "zh": "零工经济工作者在油价达到21个月高点时感受到压力",
+        "en": "Gig workers feel pain at the pump as gas prices hit 21-month highs",
+        "de": "Gig-Arbeiter spüren den Druck an der Tankstelle, da die Benzinpreise 21-Monats-Hochs erreichen"
       },
       "summary": {
-        "zh": "截至二月份，财政年度的赤字总额为1.004万亿美元，约比2025年同期低12%。",
-        "en": "For the fiscal year to date, the deficit totaled $1.004 trillion, about 12% lower than the comparable period in 2025.",
-        "de": "Für das laufende Haushaltsjahr belief sich das Defizit auf 1,004 Billionen Dollar, was etwa 12 % niedriger ist als im entsprechenden Zeitraum 2025."
+        "zh": "随着油价达到21个月来的最高点，数百万提供服务的零工经济工作者感受到经济压力，影响了他们的收入和生活。",
+        "en": "As gas prices hit a 21-month high, millions of gig economy workers providing services are feeling the economic pressure, impacting their income and livelihoods.",
+        "de": "Da die Benzinpreise ein 21-Monats-Hoch erreichen, spüren Millionen von Gig-Arbeitern, die Dienstleistungen anbieten, den wirtschaftlichen Druck, was sich auf ihr Einkommen und ihren Lebensunterhalt auswirkt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-11",
-      "url": "https://www.cnbc.com/2026/03/11/us-deficit-tops-1-trillion-through-february-but-runs-below-year-ago-pace.html"
+      "date": "2026-03-12",
+      "url": "https://www.cnbc.com/2026/03/12/gig-workers-gas-prices-aaa-iran.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者价格在二月份按年上涨2.4%，符合预期",
-        "en": "Consumer prices rose 2.4% annually in February, as expected",
-        "de": "Die Verbraucherpreise stiegen im Februar im Jahresvergleich um 2,4 %, wie erwartet"
+        "zh": "特朗普对中国的301条贸易调查提高了赌注",
+        "en": "Trump raises the stakes on China with Section 301 trade probe, weeks before Beijing summit",
+        "de": "Trump erhöht die Einsätze gegenüber China mit der Section-301-Handelsuntersuchung, Wochen vor dem Gipfel in Peking"
       },
       "summary": {
-        "zh": "根据道琼斯的共识，二月份的消费者价格指数预计将显示出2.4%的年增长。",
-        "en": "The consumer price index in February was expected to show a 2.4% increase from a year ago, according to the Dow Jones consensus.",
-        "de": "Der Verbraucherpreisindex im Februar sollte laut Konsens von Dow Jones einen Anstieg von 2,4 % im Vergleich zum Vorjahr zeigen."
+        "zh": "特朗普在北京峰会前几周对中国发起301条贸易调查，进一步加大了贸易紧张局势。",
+        "en": "Trump has initiated a Section 301 trade probe against China weeks before the Beijing summit, escalating trade tensions further.",
+        "de": "Trump hat wenige Wochen vor dem Gipfel in Peking eine Section-301-Handelsuntersuchung gegen China eingeleitet, was die Handels Spannungen weiter eskaliert."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-11",
-      "url": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html"
+      "date": "2026-03-12",
+      "url": "https://www.cnbc.com/2026/03/12/section-301-trade-probe-china-trump-xi-beijing-summit.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗在战争中通过霍尔木兹海峡向中国发送数百万桶石油",
-        "en": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
-        "de": "Iran sendet Millionen von Öltanks nach China durch die Straße von Hormuz, während der Krieg die Wasserstraße erstickt"
+        "zh": "美国赤字在2月份超过1万亿美元，但低于去年同期水平",
+        "en": "U.S. deficit tops $1 trillion through February but runs below year-ago pace",
+        "de": "Das US-Defizit übersteigt im Februar 1 Billion Dollar, liegt jedoch unter dem Niveau des Vorjahres"
       },
       "summary": {
-        "zh": "尽管美国-以色列与伊朗之间的战争扰乱了更广泛的能源供应，伊朗仍继续通过霍尔木兹海峡向中国运输原油。",
-        "en": "Iran has continued to ship crude oil via the Strait of Hormuz to China even as the war between U.S.-Israel and Iran has disrupted broader energy supplies.",
-        "de": "Iran hat weiterhin Rohöl über die Straße von Hormuz nach China verschifft, obwohl der Krieg zwischen den USA und Israel sowie Iran die breiteren Energieversorgung gestört hat."
+        "zh": "截至2月份，美国的财政赤字总额达到1.004万亿美元，较2025年同期下降约12%。",
+        "en": "As of February, the US fiscal deficit totaled $1.004 trillion, about 12% lower than the comparable period in 2025.",
+        "de": "Bis Februar belief sich das US-Fiskaldefizit auf 1,004 Billionen Dollar, etwa 12 % niedriger als im vergleichbaren Zeitraum 2025."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-11",
-      "url": "https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html"
+      "date": "2026-03-12",
+      "url": "https://www.cnbc.com/2026/03/11/us-deficit-tops-1-trillion-through-february-but-runs-below-year-ago-pace.html"
     }
   ]
 }
