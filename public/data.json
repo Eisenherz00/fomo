@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-11T17:15:25.235029+00:00",
+  "generatedAt": "2026-03-12T05:36:54.521399+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "中国的OpenClaw AI热潮让投机者获利",
+        "zh": "中国的OpenClaw AI热潮让投机者赚得盆满钵满",
         "en": "Hustlers are cashing in on China’s OpenClaw AI craze",
         "de": "Hustler profitieren vom OpenClaw-AI-Wahn in China"
       },
       "summary": {
-        "zh": "冯青阳一直希望创办自己的公司，但他从未想到会以这种方式实现梦想。中国的OpenClaw AI热潮为许多人提供了新的商业机会。",
-        "en": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. The OpenClaw AI craze in China has opened new business opportunities for many.",
-        "de": "Feng Qingyang hatte immer gehofft, sein eigenes Unternehmen zu gründen, aber er hätte nie gedacht, dass es so kommen würde – oder dass der Tag so schnell kommen würde. Der OpenClaw-AI-Wahn in China hat vielen neue Geschäftsmöglichkeiten eröffnet."
+        "zh": "冯青阳一直希望创办自己的公司，但他从未想过会以这种方式实现。中国的OpenClaw AI热潮迅速吸引了许多投机者。",
+        "en": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. The OpenClaw AI craze in China has quickly attracted many hustlers.",
+        "de": "Feng Qingyang hatte immer gehofft, sein eigenes Unternehmen zu gründen, aber er hätte nie gedacht, dass es so kommen würde – oder dass der Tag so schnell kommen würde. Der OpenClaw-AI-Wahn in China hat schnell viele Spekulanten angezogen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-11",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "下载：用Pokémon Go训练世界模型，以及美中寻找外星人的竞赛",
         "en": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
-        "de": "Der Download: Pokémon Go zum Trainieren von Weltmodellen und das US-China-Rennen um die Suche nach Aliens"
+        "de": "Der Download: Pokémon Go zur Ausbildung von Weltmodellen und das US-China-Rennen um die Suche nach Aliens"
       },
       "summary": {
-        "zh": "今天的下载提供了关于技术领域的最新动态，包括使用Pokémon Go训练世界模型的创新方法，以及美中在寻找外星人方面的竞争。",
-        "en": "Today's edition of The Download provides the latest updates in the tech world, including innovative methods for training world models using Pokémon Go and the US-China competition in the search for aliens.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich innovativer Methoden zur Ausbildung von Weltmodellen mit Pokémon Go und dem US-China-Wettbewerb bei der Suche nach Aliens."
+        "zh": "今天的下载版提供了有关技术世界的最新动态，包括Pokémon Go如何用于训练世界模型，以及美中在寻找外星人方面的竞争。",
+        "en": "Today's edition of The Download provides the latest updates from the world of technology, including how Pokémon Go is used to train world models and the US-China competition in searching for aliens.",
+        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, darunter, wie Pokémon Go zur Ausbildung von Weltmodellen verwendet wird und den Wettbewerb zwischen den USA und China bei der Suche nach Aliens."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-11",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "如何利用Pokémon Go为送货机器人提供精准的世界视图",
+        "zh": "如何Pokémon Go为送货机器人提供精准的世界视角",
         "en": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
         "de": "Wie Pokémon Go Lieferrobotern eine präzise Sicht auf die Welt bietet"
       },
       "summary": {
-        "zh": "Pokémon Go作为全球首个增强现实的热门游戏，正在帮助送货机器人获得更精准的环境视图，从而提高送货效率。",
-        "en": "As the world's first augmented reality megahit, Pokémon Go is helping delivery robots gain a more precise view of their environment, thereby improving delivery efficiency.",
-        "de": "Als das weltweit erste Augmented-Reality-Megahit hilft Pokémon Go Lieferrobotern, eine präzisere Sicht auf ihre Umgebung zu erhalten, was die Effizienz der Lieferung verbessert."
+        "zh": "Pokémon Go是全球首个增强现实的超级热门游戏。它为送货机器人提供了精准的世界视角，帮助它们更有效地完成任务。",
+        "en": "Pokémon Go was the world’s first augmented-reality megahit. It provides delivery robots with an inch-perfect view of the world, helping them complete tasks more efficiently.",
+        "de": "Pokémon Go war der weltweit erste Augmented-Reality-Hit. Es bietet Lieferrobotern eine präzise Sicht auf die Welt, was ihnen hilft, Aufgaben effizienter zu erledigen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-10",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "智利新总统赞扬独裁者皮诺切特。这意味着什么？",
-        "en": "Chile’s new president has praised Pinochet, a dictator. What does it mean?",
-        "de": "Chiles neuer Präsident hat Pinochet, einen Diktator, gelobt. Was bedeutet das?"
+        "zh": "中国的关键全国人民代表大会会议结束，设定较低的增长目标",
+        "en": "China’s key NPC meeting comes to a close as lower growth target set",
+        "de": "Chinas wichtige NPC-Sitzung kommt zu einem Ende, während ein niedrigeres Wachstumsziel festgelegt wird"
       },
       "summary": {
-        "zh": "专家表示，新就任的总统何塞·安东尼奥·卡斯特的观点反映了对现状的深刻不满。这一表态可能会影响智利的政治气候。",
-        "en": "Experts say the views of newly inaugurated president Jose Antonio Kast reflect deep dissatisfaction with the status quo. This statement could impact the political climate in Chile.",
-        "de": "Experten sagen, dass die Ansichten des neu vereidigten Präsidenten Jose Antonio Kast eine tiefe Unzufriedenheit mit dem Status quo widerspiegeln. Diese Aussage könnte das politische Klima in Chile beeinflussen."
+        "zh": "全国人民代表大会会议结束，标志着中国在反腐败方面的坚定立场，同时批准了中国的第十五个五年计划。",
+        "en": "The National People's Congress meeting concludes, signaling a firm stance against corruption while approving China's 15th five-year plan.",
+        "de": "Die Sitzung des Nationalen Volkskongresses endet und signalisiert eine feste Haltung gegen Korruption, während der 15. Fünfjahresplan Chinas genehmigt wird."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-11",
-      "url": "https://www.aljazeera.com/news/2026/3/11/chiles-new-president-has-praised-pinochet-a-dictator-what-does-it-mean?traffic_source=rss"
+      "date": "2026-03-12",
+      "url": "https://www.aljazeera.com/news/2026/3/12/chinas-key-npc-meeting-comes-to-a-close-as-lower-growth-target-set?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国军方确认在对伊朗的战争中使用“先进的人工智能工具”",
-        "en": "US military confirms use of ‘advanced AI tools’ in war against Iran",
-        "de": "US-Militär bestätigt Einsatz von ‚fortschrittlichen KI-Tools‘ im Krieg gegen den Iran"
+        "zh": "只有一个人能决定结束伊朗战争",
+        "en": "There is only one person who can decide to end the war on Iran",
+        "de": "Es gibt nur eine Person, die entscheiden kann, den Krieg gegen den Iran zu beenden"
       },
       "summary": {
-        "zh": "美国海军上将布拉德·库珀表示，人工智能正在帮助处理数据，但最终决策仍由人类做出。这表明AI在现代战争中的日益重要性。",
-        "en": "Admiral Brad Cooper states that artificial intelligence is helping process data, but humans are making the final decisions. This highlights the growing importance of AI in modern warfare.",
-        "de": "Admiral Brad Cooper erklärt, dass künstliche Intelligenz bei der Datenverarbeitung hilft, die endgültigen Entscheidungen jedoch von Menschen getroffen werden. Dies unterstreicht die wachsende Bedeutung von KI in modernen Kriegen."
+        "zh": "以色列记者吉迪恩·莱维表示，结束伊朗战争的决定仅在美国总统特朗普手中。",
+        "en": "Israeli journalist Gideon Levy states that the decision to end the Iran war rests solely with US President Trump.",
+        "de": "Der israelische Journalist Gideon Levy erklärt, dass die Entscheidung, den Krieg gegen den Iran zu beenden, ausschließlich in den Händen des US-Präsidenten Trump liegt."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-11",
-      "url": "https://www.aljazeera.com/news/2026/3/11/us-military-confirms-use-of-advanced-ai-tools-in-war-against-iran?traffic_source=rss"
+      "date": "2026-03-12",
+      "url": "https://www.aljazeera.com/video/quotable/2026/3/12/there-is-only-one-person-who-can-decide-to-end-the-war-on-iran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "联合国警告以色列攻击导致黎巴嫩75万人流离失所的危机加剧",
-        "en": "UN warns of widening crisis as Israeli attacks displace 750,000 in Lebanon",
-        "de": "UN warnt vor sich ausweitender Krise, da israelische Angriffe 750.000 im Libanon vertreiben"
+        "zh": "联合国安理会通过决议谴责伊朗在海湾的攻击",
+        "en": "UN Security Council adopts resolution condemning Iran’s attacks in the Gulf",
+        "de": "Der UN-Sicherheitsrat verabschiedet eine Resolution, die die Angriffe Irans im Golf verurteilt"
       },
       "summary": {
-        "zh": "联合国人道主义事务负责人表示，随着黎巴嫩的庇护所已经过度拥挤且缺乏资源，大规模流离失所正在加速。",
-        "en": "The UN humanitarian chief states that mass displacement is accelerating as Lebanon's shelters are already overcrowded and lack resources.",
-        "de": "Der UN-Hilfskoordinator erklärt, dass die Massenvertreibung zunimmt, da die Unterkünfte im Libanon bereits überfüllt sind und es an Ressourcen mangelt."
+        "zh": "联合国安理会通过了一项决议，要求伊朗停止对海湾国家的攻击，该决议得到了135个国家的共同支持。",
+        "en": "The UN Security Council has adopted a resolution demanding Iran end its attacks on Gulf nations, co-sponsored by 135 countries.",
+        "de": "Der UN-Sicherheitsrat hat eine Resolution verabschiedet, die Iran auffordert, seine Angriffe auf die Golfstaaten zu beenden, die von 135 Ländern mitgetragen wird."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-11",
-      "url": "https://www.aljazeera.com/news/2026/3/11/un-warns-of-widening-crisis-as-israeli-attacks-displace-750000-in-lebanon?traffic_source=rss"
+      "date": "2026-03-12",
+      "url": "https://www.aljazeera.com/news/2026/3/12/un-security-council-adopts-resolution-condemning-irans-attacks-in-the-gulf?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者价格在2月份按年上涨2.4%，符合预期",
-        "en": "Consumer prices rose 2.4% annually in February, as expected",
-        "de": "Die Verbraucherpreise stiegen im Februar wie erwartet um 2,4 % im Jahresvergleich"
+        "zh": "美国赤字在二月份超过1万亿美元，但低于去年同期的水平",
+        "en": "U.S. deficit tops $1 trillion through February but runs below year-ago pace",
+        "de": "Das US-Defizit übersteigt im Februar 1 Billion Dollar, liegt aber unter dem Niveau des Vorjahres"
       },
       "summary": {
-        "zh": "根据道琼斯的共识，2月份消费者价格指数预计将显示出2.4%的年增长。这一数据可能会影响未来的货币政策。",
-        "en": "According to Dow Jones consensus, the consumer price index in February was expected to show a 2.4% annual increase. This data may influence future monetary policy.",
-        "de": "Laut dem Konsens von Dow Jones wurde erwartet, dass der Verbraucherpreisindex im Februar einen Anstieg von 2,4 % im Jahresvergleich zeigt. Diese Daten könnten die zukünftige Geldpolitik beeinflussen."
+        "zh": "截至二月份，财政年度的赤字总额为1.004万亿美元，约比2025年同期低12%。",
+        "en": "For the fiscal year to date, the deficit totaled $1.004 trillion, about 12% lower than the comparable period in 2025.",
+        "de": "Für das laufende Haushaltsjahr belief sich das Defizit auf 1,004 Billionen Dollar, was etwa 12 % niedriger ist als im entsprechenden Zeitraum 2025."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-03-11",
-      "url": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html"
+      "url": "https://www.cnbc.com/2026/03/11/us-deficit-tops-1-trillion-through-february-but-runs-below-year-ago-pace.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "伊朗在战争中通过霍尔木兹海峡向中国发送数百万桶石油",
-        "en": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
-        "de": "Iran sendet Millionen von Ölfässern nach China durch die Straße von Hormuz, obwohl der Krieg die Wasserstraße blockiert"
+        "zh": "消费者价格在二月份按年上涨2.4%，符合预期",
+        "en": "Consumer prices rose 2.4% annually in February, as expected",
+        "de": "Die Verbraucherpreise stiegen im Februar im Jahresvergleich um 2,4 %, wie erwartet"
       },
       "summary": {
-        "zh": "尽管美国与以色列和伊朗之间的战争扰乱了更广泛的能源供应，伊朗仍继续通过霍尔木兹海峡向中国运输原油。",
-        "en": "Despite the war between the U.S.-Israel and Iran disrupting broader energy supplies, Iran continues to ship crude oil via the Strait of Hormuz to China.",
-        "de": "Trotz des Krieges zwischen den USA-Israel und dem Iran, der die breiteren Energiesupply stört, versendet Iran weiterhin Rohöl über die Straße von Hormuz nach China."
+        "zh": "根据道琼斯的共识，二月份的消费者价格指数预计将显示出2.4%的年增长。",
+        "en": "The consumer price index in February was expected to show a 2.4% increase from a year ago, according to the Dow Jones consensus.",
+        "de": "Der Verbraucherpreisindex im Februar sollte laut Konsens von Dow Jones einen Anstieg von 2,4 % im Vergleich zum Vorjahr zeigen."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-03-11",
-      "url": "https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html"
+      "url": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗战争期间油价飙升至100美元，70年代式滞胀的恐惧升温",
-        "en": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
-        "de": "Ängste vor einer Stagflation im Stil der 1970er Jahre steigen mit dem Ölpreisanstieg auf 100 USD. Wie groß ist die Bedrohung?"
+        "zh": "伊朗在战争中通过霍尔木兹海峡向中国发送数百万桶石油",
+        "en": "Iran sends millions of oil barrels to China through Strait of Hormuz even as war chokes the waterway",
+        "de": "Iran sendet Millionen von Öltanks nach China durch die Straße von Hormuz, während der Krieg die Wasserstraße erstickt"
       },
       "summary": {
-        "zh": "高通胀和缓慢增长构成双重威胁，利率削减和政府支出等措施只会加剧通胀。这种经济环境引发了对70年代式滞胀的担忧。",
-        "en": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation. This economic environment raises concerns about 1970s-style stagflation.",
-        "de": "Hohe Inflation und langsames Wachstum stellen eine doppelte Bedrohung dar, da Maßnahmen wie Zinssenkungen und Staatsausgaben die Inflation nur verschärfen. Dieses wirtschaftliche Umfeld weckt Bedenken hinsichtlich einer Stagflation im Stil der 1970er Jahre."
+        "zh": "尽管美国-以色列与伊朗之间的战争扰乱了更广泛的能源供应，伊朗仍继续通过霍尔木兹海峡向中国运输原油。",
+        "en": "Iran has continued to ship crude oil via the Strait of Hormuz to China even as the war between U.S.-Israel and Iran has disrupted broader energy supplies.",
+        "de": "Iran hat weiterhin Rohöl über die Straße von Hormuz nach China verschifft, obwohl der Krieg zwischen den USA und Israel sowie Iran die breiteren Energieversorgung gestört hat."
       },
-      "source": "CNBC",
-      "date": "2026-03-10",
-      "url": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html"
+      "source": "CNBC – Markets",
+      "date": "2026-03-11",
+      "url": "https://www.cnbc.com/2026/03/11/iran-ships-oil-china-strait-hormuz-closure-.html"
     }
   ]
 }
