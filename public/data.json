@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-13T05:34:33.130414+00:00",
+  "generatedAt": "2026-03-13T17:04:13.419475+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "国防官员透露人工智能聊天机器人如何用于目标决策",
-        "en": "A defense official reveals how AI chatbots could be used for targeting decisions",
-        "de": "Ein Verteidigungsbeamter enthüllt, wie KI-Chatbots für Zielentscheidungen verwendet werden könnten"
+        "zh": "为什么物理人工智能正成为制造业的下一个优势",
+        "en": "Why physical AI is becoming manufacturing’s next advantage",
+        "de": "Warum physische KI zum nächsten Vorteil der Fertigung wird"
       },
       "summary": {
-        "zh": "美国军方可能会使用生成性人工智能系统对目标进行排名并提出建议，这些建议将由人类审核后决定是否打击。",
-        "en": "The U.S. military may use generative AI systems to rank targets and make recommendations, which would be vetted by humans before any strikes.",
-        "de": "Das US-Militär könnte generative KI-Systeme verwenden, um Ziele zu bewerten und Empfehlungen abzugeben, die von Menschen überprüft werden, bevor Angriffe durchgeführt werden."
+        "zh": "制造商几十年来一直追求自动化以提高效率、降低成本并稳定运营。物理人工智能的引入可能会为制造业带来新的竞争优势。",
+        "en": "Manufacturers have pursued automation for decades to drive efficiency, reduce costs, and stabilize operations. The introduction of physical AI may provide new competitive advantages for the manufacturing sector.",
+        "de": "Hersteller haben jahrzehntelang Automatisierung angestrebt, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Die Einführung von physischer KI könnte neue Wettbewerbsvorteile für den Fertigungssektor bieten."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-12",
-      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"
+      "date": "2026-03-13",
+      "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "务实设计：为现实世界工程人工智能",
-        "en": "Pragmatic by design: Engineering AI for the real world",
-        "de": "Pragmatisch gestaltet: Ingenieurwesen von KI für die reale Welt"
+        "zh": "下载：人工智能如何用于军事目标，以及五角大楼对Claude的战争",
+        "en": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+        "de": "Der Download: Wie KI für militärische Zielbestimmungen eingesetzt wird und der Krieg des Pentagons gegen Claude"
       },
       "summary": {
-        "zh": "人工智能的影响远远超出了数字世界，渗透到我们的日常生活中，包括我们驾驶的汽车和使用的家电。",
-        "en": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, including the cars we drive and the appliances we use.",
-        "de": "Die Auswirkungen der künstlichen Intelligenz reichen weit über die digitale Welt hinaus und durchdringen unser tägliches Leben, einschließlich der Autos, die wir fahren, und der Geräte, die wir verwenden."
+        "zh": "本期下载介绍了人工智能在军事目标选择中的应用，以及五角大楼对Claude的反制措施。这一技术的使用引发了对其潜在影响的讨论。",
+        "en": "This edition of The Download discusses the application of AI in military targeting and the Pentagon's countermeasures against Claude. The use of this technology raises discussions about its potential impacts.",
+        "de": "Diese Ausgabe des Downloads behandelt die Anwendung von KI bei militärischen Zielbestimmungen und die Gegenmaßnahmen des Pentagons gegen Claude. Der Einsatz dieser Technologie wirft Diskussionen über ihre potenziellen Auswirkungen auf."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-12",
-      "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/"
+      "date": "2026-03-13",
+      "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "为人工智能代理成功构建强大的数据基础设施",
-        "en": "Building a strong data infrastructure for AI agent success",
-        "de": "Aufbau einer starken Dateninfrastruktur für den Erfolg von KI-Agenten"
+        "zh": "未来的人工智能芯片可能会基于玻璃制造",
+        "en": "Future AI chips could be built on glass",
+        "de": "Zukünftige KI-Chips könnten aus Glas hergestellt werden"
       },
       "summary": {
-        "zh": "在快速采用人工智能的竞争中，企业正在加速部署代理人工智能作为副驾驶、助手和自主任务执行者。",
-        "en": "In the race to adopt AI, enterprises are rapidly deploying agentic AI as copilots, assistants, and autonomous task executors.",
-        "de": "Im Wettlauf um die Einführung von KI setzen Unternehmen zunehmend agentische KI als Co-Piloten, Assistenten und autonome Aufgabenübernehmer ein."
+        "zh": "人造玻璃已有数千年的历史，但现在它有望进入世界上最新和最大的数据显示中心的人工智能芯片中。这一创新可能会改变芯片制造的格局。",
+        "en": "Human-made glass has a history of thousands of years, but it is now poised to enter the AI chips used in the world's newest and largest data centers. This innovation could change the landscape of chip manufacturing.",
+        "de": "Künstliches Glas hat eine Geschichte von Tausenden von Jahren, aber es steht nun kurz davor, in die KI-Chips einzutreten, die in den neuesten und größten Rechenzentren der Welt verwendet werden. Diese Innovation könnte die Landschaft der Chip-Herstellung verändern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-10",
-      "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/"
+      "date": "2026-03-13",
+      "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "法国士兵在伊拉克袭击中遇难，马克龙表示",
-        "en": "French soldier killed, others wounded in attack in Iraq, Macron says",
-        "de": "Französischer Soldat getötet, andere verwundet bei Angriff im Irak, sagt Macron"
+        "zh": "全球能源危机中谁赢谁输？",
+        "en": "Who wins and loses in the global energy crisis?",
+        "de": "Wer gewinnt und verliert in der globalen Energiekrise?"
       },
       "summary": {
-        "zh": "法国总统马克龙谴责在伊拉克库尔德地区发生的“不可接受”的袭击，导致一名士兵遇难和其他人受伤。",
-        "en": "French President Macron condemned the 'unacceptable' attack in the Kurdish region of Iraq that resulted in one soldier's death and others wounded.",
-        "de": "Der französische Präsident Macron verurteilte den 'inakzeptablen' Angriff in der kurdischen Region im Irak, bei dem ein Soldat getötet und andere verletzt wurden."
+        "zh": "随着油价飙升，一些经济体受益，而另一些则面临成本上升的压力。全球能源危机的影响在不同国家之间显著不同。",
+        "en": "As oil prices surge, some economies benefit while others face rising cost pressures. The impact of the global energy crisis varies significantly across different countries.",
+        "de": "Mit dem Anstieg der Ölpreise profitieren einige Volkswirtschaften, während andere mit steigenden Kosten konfrontiert sind. Die Auswirkungen der globalen Energiekrise variieren erheblich zwischen den verschiedenen Ländern."
       },
       "source": "Al Jazeera",
       "date": "2026-03-13",
-      "url": "https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列撤销对士兵的虐待指控",
-        "en": "Israel drops abuse charges against soldiers",
-        "de": "Israel lässt Missbrauchsvorwürfe gegen Soldaten fallen"
+        "zh": "全球数千人齐聚，声援巴勒斯坦，伊朗在阿尔-库兹日游行",
+        "en": "Thousands march worldwide in solidarity with Palestine, Iran on al-Quds Day",
+        "de": "Tausende marschieren weltweit in Solidarität mit Palästina, Iran am Al-Quds-Tag"
       },
       "summary": {
-        "zh": "以色列军方已撤销对五名士兵的指控，他们被指控对一名巴勒斯坦拘留者进行性虐待。",
-        "en": "The Israeli military has dropped charges against five soldiers accused of sexually abusing a Palestinian detainee.",
-        "de": "Die israelische Armee hat die Anklage gegen fünf Soldaten fallen lassen, die beschuldigt wurden, einen palästinensischen Häftling sexuell missbraucht zu haben."
+        "zh": "尽管战争持续，德黑兰的阿尔-库兹日游行吸引了数千人抗议，表达对以色列和美国的愤怒。这一事件显示了全球对巴勒斯坦的支持。",
+        "en": "Despite ongoing war, thousands protested in Tehran during the al-Quds Day march, voicing anger against Israel and the US. This event highlights global support for Palestine.",
+        "de": "Trotz des anhaltenden Krieges protestierten Tausende in Teheran während des Al-Quds-Tages und äußerten ihren Unmut gegen Israel und die USA. Dieses Ereignis hebt die globale Unterstützung für Palästina hervor."
       },
       "source": "Al Jazeera",
       "date": "2026-03-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss"
+      "url": "https://www.aljazeera.com/gallery/2026/3/13/thousands-march-worldwide-in-solidarity-with-palestine-iran-on-al-quds-day?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗导弹袭击以色列北部居民区",
-        "en": "Iranian missile strikes residential area in northern Israel",
-        "de": "Iranische Raketenangriffe auf Wohngebiet im Norden Israels"
+        "zh": "特朗普自诉？专家称特朗普的100亿美元诉讼可能失败",
+        "en": "A president suing himself? Why experts say Trump’s $10bn lawsuit might fail",
+        "de": "Ein Präsident verklagt sich selbst? Warum Experten sagen, dass Trumps 10-Milliarden-Dollar-Klage scheitern könnte"
       },
       "summary": {
-        "zh": "视频显示，伊朗导弹在以色列北部的一个居民区造成破坏，局势紧张加剧。",
-        "en": "Video footage captured the moment an Iranian missile struck a residential area in northern Israel, escalating tensions in the region.",
-        "de": "Videoaufnahmen zeigen den Moment, als eine iranische Rakete ein Wohngebiet im Norden Israels traf, was die Spannungen in der Region verschärft."
+        "zh": "专家表示，特朗普决定就泄露的税务信息提起诉讼，可能会使他面临安排自己赔偿的风险。这一案件引发了法律和政治的广泛讨论。",
+        "en": "Experts say Trump's decision to sue over his leaked tax returns risks putting him in charge of arranging his own payout. This case has sparked widespread legal and political discussions.",
+        "de": "Experten sagen, dass Trumps Entscheidung, wegen seiner geleakten Steuererklärungen zu klagen, ihn in die Lage versetzen könnte, seine eigene Entschädigung zu organisieren. Dieser Fall hat weitreichende rechtliche und politische Diskussionen ausgelöst."
       },
       "source": "Al Jazeera",
       "date": "2026-03-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/longform/2026/3/13/a-president-suing-himself-why-experts-say-trumps-10bn-lawsuit-might-fail?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普在中国问题上加大压力，进行301条贸易调查",
-        "en": "Trump raises the stakes on China with Section 301 trade probe, weeks before Beijing summit",
-        "de": "Trump erhöht den Druck auf China mit der Section-301-Handelsuntersuchung, Wochen vor dem Gipfel in Peking"
+        "zh": "伊朗战争油价冲击引发对1970年代滞涨的担忧——这次可能有所不同",
+        "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
+        "de": "Öl-Schock durch den Iran-Krieg schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es diesmal anders sein könnte"
       },
       "summary": {
-        "zh": "特朗普在北京峰会前几周对中国发起301条贸易调查，进一步加大了对中国的压力。",
-        "en": "Trump has launched a Section 301 trade probe against China just weeks before the Beijing summit, escalating pressure on the country.",
-        "de": "Trump hat wenige Wochen vor dem Gipfel in Peking eine Section-301-Handelsuntersuchung gegen China eingeleitet und damit den Druck auf das Land erhöht."
+        "zh": "一些投资者将当前市场状况与1970年代的滞涨进行比较，但有几个关键差异可能会影响经济走向。这些差异可能会改变市场反应。",
+        "en": "Some investors are drawing comparisons between the current market conditions and the stagflation of the 1970s, but several key differences may influence the economic trajectory. These differences could alter market reactions.",
+        "de": "Einige Investoren ziehen Vergleiche zwischen den aktuellen Marktbedingungen und der Stagflation der 1970er Jahre, aber mehrere entscheidende Unterschiede könnten den wirtschaftlichen Verlauf beeinflussen. Diese Unterschiede könnten die Marktreaktionen verändern."
       },
-      "source": "CNBC",
-      "date": "2026-03-12",
-      "url": "https://www.cnbc.com/2026/03/12/section-301-trade-probe-china-trump-xi-beijing-summit.html"
+      "source": "CNBC – Markets",
+      "date": "2026-03-13",
+      "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国赤字在2月份超过1万亿美元，但低于去年同期",
-        "en": "U.S. deficit tops $1 trillion through February but runs below year-ago pace",
-        "de": "US-Defizit übersteigt 1 Billion Dollar bis Februar, liegt aber unter dem Vorjahresniveau"
+        "zh": "第四季度GDP修正为仅增长0.7%；一月核心通胀为3.1%",
+        "en": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
+        "de": "BIP des vierten Quartals auf nur 0,7 % Wachstum nach unten revidiert; Kerninflation im Januar betrug 3,1 %"
       },
       "summary": {
-        "zh": "截至2月份，美国财政赤字达到1.004万亿美元，比2025年同期低12%。",
-        "en": "As of February, the U.S. fiscal deficit reached $1.004 trillion, about 12% lower than the same period in 2025.",
-        "de": "Bis Februar erreichte das US-Fiskaldefizit 1,004 Billionen Dollar, was etwa 12 % niedriger ist als im gleichen Zeitraum 2025."
+        "zh": "最新数据显示，第四季度的GDP增长被修正为仅0.7%，而一月份的核心通胀率为3.1%。这些数据可能会影响市场对经济前景的看法。",
+        "en": "Recent data shows that fourth-quarter GDP growth has been revised down to just 0.7%, while January's core inflation rate stood at 3.1%. This data may influence market perceptions of the economic outlook.",
+        "de": "Aktuelle Daten zeigen, dass das BIP-Wachstum im vierten Quartal auf nur 0,7 % nach unten revidiert wurde, während die Kerninflation im Januar bei 3,1 % lag. Diese Daten könnten die Marktperzeptionen über die wirtschaftlichen Aussichten beeinflussen."
       },
-      "source": "CNBC",
-      "date": "2026-03-11",
-      "url": "https://www.cnbc.com/2026/03/11/us-deficit-tops-1-trillion-through-february-but-runs-below-year-ago-pace.html"
+      "source": "CNBC – Markets",
+      "date": "2026-03-13",
+      "url": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "消费者价格在2月份按年上涨2.4%，符合预期",
-        "en": "Consumer prices rose 2.4% annually in February, as expected",
-        "de": "Die Verbraucherpreise stiegen im Februar wie erwartet um 2,4 % im Jahresvergleich"
+        "zh": "全球油价重返100美元以上，因美国对部分俄罗斯石油制裁的豁免未能平息供应担忧",
+        "en": "Global oil prices climb back above $100 as U.S. waiver on some Russian oil sanctions fails to quell supply concerns",
+        "de": "Weltweite Ölpreise steigen wieder über 100 USD, da die US-Ausnahmegenehmigung für einige russische Ölsanktionen die Versorgungsängste nicht dämpfen konnte"
       },
       "summary": {
-        "zh": "根据道琼斯的共识，2月份消费者价格指数预计显示同比增长2.4%。",
-        "en": "The consumer price index in February was expected to show a 2.4% increase from a year ago, according to Dow Jones consensus.",
-        "de": "Der Verbraucherpreisindex im Februar sollte laut Dow-Jones-Konsens einen Anstieg von 2,4 % im Vergleich zum Vorjahr zeigen."
+        "zh": "由于美国对部分俄罗斯石油制裁的临时豁免未能平息对供应的担忧，全球油价再次攀升至100美元以上。这一趋势可能会对全球经济产生广泛影响。",
+        "en": "Global oil prices have climbed back above $100 as a temporary U.S. waiver on some Russian oil sanctions failed to quell supply concerns. This trend may have widespread implications for the global economy.",
+        "de": "Die weltweiten Ölpreise sind wieder über 100 USD gestiegen, da eine vorübergehende US-Ausnahmegenehmigung für einige russische Ölsanktionen die Versorgungsängste nicht dämpfen konnte. Dieser Trend könnte weitreichende Auswirkungen auf die globale Wirtschaft haben."
       },
-      "source": "CNBC",
-      "date": "2026-03-11",
-      "url": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-13",
+      "url": "https://www.marketwatch.com/story/brent-oil-futures-climb-above-100-on-continued-disruption-to-strait-of-hormuz-traffic-764be61b?mod=mw_rss_topstories"
     }
   ]
 }
