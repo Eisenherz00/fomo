@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-03-12T17:16:28.019895+00:00",
+  "generatedAt": "2026-03-13T05:34:33.130414+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：早期采用者在中国的OpenClaw热潮中获利，美国电池行业低迷",
-        "en": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
-        "de": "Der Download: Frühe Anwender profitieren vom OpenClaw-Wahn in China, und die US-Batterien sinken"
+        "zh": "国防官员透露人工智能聊天机器人如何用于目标决策",
+        "en": "A defense official reveals how AI chatbots could be used for targeting decisions",
+        "de": "Ein Verteidigungsbeamter enthüllt, wie KI-Chatbots für Zielentscheidungen verwendet werden könnten"
       },
       "summary": {
-        "zh": "中国的OpenClaw热潮吸引了许多早期采用者，他们通过这一新兴技术获得了丰厚的利润。同时，美国的电池行业却经历了显著的低迷期。",
-        "en": "The OpenClaw craze in China has attracted many early adopters who have profited significantly from this emerging technology. Meanwhile, the US battery industry is experiencing a notable downturn.",
-        "de": "Der OpenClaw-Wahn in China hat viele frühe Anwender angezogen, die erheblichen Gewinn aus dieser aufstrebenden Technologie erzielt haben. Inzwischen erlebt die US-Batterieindustrie einen bemerkenswerten Rückgang."
+        "zh": "美国军方可能会使用生成性人工智能系统对目标进行排名并提出建议，这些建议将由人类审核后决定是否打击。",
+        "en": "The U.S. military may use generative AI systems to rank targets and make recommendations, which would be vetted by humans before any strikes.",
+        "de": "Das US-Militär könnte generative KI-Systeme verwenden, um Ziele zu bewerten und Empfehlungen abzugeben, die von Menschen überprüft werden, bevor Angriffe durchgeführt werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-12",
-      "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/"
+      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "务实设计：为现实世界工程AI",
+        "zh": "务实设计：为现实世界工程人工智能",
         "en": "Pragmatic by design: Engineering AI for the real world",
         "de": "Pragmatisch gestaltet: Ingenieurwesen von KI für die reale Welt"
       },
       "summary": {
-        "zh": "人工智能的影响远远超出了数字世界，渗透到我们日常生活的各个方面，包括我们驾驶的汽车和使用的家电。",
-        "en": "The impact of artificial intelligence extends far beyond the digital world, permeating various aspects of our daily lives, including the cars we drive and the appliances we use.",
-        "de": "Die Auswirkungen der künstlichen Intelligenz gehen weit über die digitale Welt hinaus und durchdringen verschiedene Aspekte unseres täglichen Lebens, einschließlich der Autos, die wir fahren, und der Geräte, die wir verwenden."
+        "zh": "人工智能的影响远远超出了数字世界，渗透到我们的日常生活中，包括我们驾驶的汽车和使用的家电。",
+        "en": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, including the cars we drive and the appliances we use.",
+        "de": "Die Auswirkungen der künstlichen Intelligenz reichen weit über die digitale Welt hinaus und durchdringen unser tägliches Leben, einschließlich der Autos, die wir fahren, und der Geräte, die wir verwenden."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-12",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "美国电池行业面临严峻时刻",
-        "en": "Brutal times for the US battery industry",
-        "de": "Brutale Zeiten für die US-Batterieindustrie"
+        "zh": "为人工智能代理成功构建强大的数据基础设施",
+        "en": "Building a strong data infrastructure for AI agent success",
+        "de": "Aufbau einer starken Dateninfrastruktur für den Erfolg von KI-Agenten"
       },
       "summary": {
-        "zh": "几年前，电池行业如火如荼，许多新公司纷纷涌现。然而，当前的市场状况却显示出显著的低迷迹象。",
-        "en": "A few years ago, the battery industry was booming with numerous new companies emerging. However, the current market conditions show significant signs of downturn.",
-        "de": "Vor einigen Jahren boomte die Batterieindustrie mit zahlreichen neuen Unternehmen. Die aktuellen Marktbedingungen zeigen jedoch erhebliche Anzeichen eines Rückgangs."
+        "zh": "在快速采用人工智能的竞争中，企业正在加速部署代理人工智能作为副驾驶、助手和自主任务执行者。",
+        "en": "In the race to adopt AI, enterprises are rapidly deploying agentic AI as copilots, assistants, and autonomous task executors.",
+        "de": "Im Wettlauf um die Einführung von KI setzen Unternehmen zunehmend agentische KI als Co-Piloten, Assistenten und autonome Aufgabenübernehmer ein."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-12",
-      "url": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/"
+      "date": "2026-03-10",
+      "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗总统设定结束战争的条件：是否有出路？",
-        "en": "Iran’s president sets terms to end the war: Is an off-ramp in sight?",
-        "de": "Irans Präsident setzt Bedingungen für das Ende des Krieges: Ist ein Ausweg in Sicht?"
+        "zh": "法国士兵在伊拉克袭击中遇难，马克龙表示",
+        "en": "French soldier killed, others wounded in attack in Iraq, Macron says",
+        "de": "Französischer Soldat getötet, andere verwundet bei Angriff im Irak, sagt Macron"
       },
       "summary": {
-        "zh": "伊朗要求赔偿，并保证美国和以色列未来不会攻击。此举可能为结束冲突提供了一条出路。",
-        "en": "Iran is asking for reparations and guarantees that the US and Israel will not attack in the future. This move may provide an off-ramp to end the conflict.",
-        "de": "Iran fordert Entschädigungen und Garantien, dass die USA und Israel in Zukunft nicht angreifen werden. Dieser Schritt könnte einen Ausweg aus dem Konflikt bieten."
+        "zh": "法国总统马克龙谴责在伊拉克库尔德地区发生的“不可接受”的袭击，导致一名士兵遇难和其他人受伤。",
+        "en": "French President Macron condemned the 'unacceptable' attack in the Kurdish region of Iraq that resulted in one soldier's death and others wounded.",
+        "de": "Der französische Präsident Macron verurteilte den 'inakzeptablen' Angriff in der kurdischen Region im Irak, bei dem ein Soldat getötet und andere verletzt wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-12",
-      "url": "https://www.aljazeera.com/news/2026/3/12/irans-president-sets-terms-to-end-the-war-is-an-off-ramp-in-sight?traffic_source=rss"
+      "date": "2026-03-13",
+      "url": "https://www.aljazeera.com/news/2026/3/13/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国军方称未准备护送油船通过霍尔木兹海峡",
-        "en": "US military ‘not ready’ to escort oil ships through Hormuz, official says",
-        "de": "US-Militär 'nicht bereit', Ölschiffe durch die Straße von Hormuz zu eskortieren, sagt ein Beamter"
+        "zh": "以色列撤销对士兵的虐待指控",
+        "en": "Israel drops abuse charges against soldiers",
+        "de": "Israel lässt Missbrauchsvorwürfe gegen Soldaten fallen"
       },
       "summary": {
-        "zh": "美国军方官员表示，当前没有能力护送油船通过霍尔木兹海峡，伊朗则主张该海峡应保持关闭。",
-        "en": "A US military official stated that there is currently no capability to escort oil ships through the Strait of Hormuz, while Iran insists that the strait should remain closed.",
-        "de": "Ein US-Militärbeamter erklärte, dass es derzeit keine Fähigkeit gibt, Ölschiffe durch die Straße von Hormuz zu eskortieren, während Iran darauf besteht, dass die Straße geschlossen bleiben sollte."
+        "zh": "以色列军方已撤销对五名士兵的指控，他们被指控对一名巴勒斯坦拘留者进行性虐待。",
+        "en": "The Israeli military has dropped charges against five soldiers accused of sexually abusing a Palestinian detainee.",
+        "de": "Die israelische Armee hat die Anklage gegen fünf Soldaten fallen lassen, die beschuldigt wurden, einen palästinensischen Häftling sexuell missbraucht zu haben."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-12",
-      "url": "https://www.aljazeera.com/news/2026/3/12/us-military-not-ready-to-escort-oil-ships-through-hormuz-official-says?traffic_source=rss"
+      "date": "2026-03-13",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/israel-drops-abuse-charges-against-soldiers?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗新最高领袖发表首次声明",
-        "en": "Iran’s new supreme leader issues first statement",
-        "de": "Irans neuer oberster Führer gibt erste Erklärung ab"
+        "zh": "伊朗导弹袭击以色列北部居民区",
+        "en": "Iranian missile strikes residential area in northern Israel",
+        "de": "Iranische Raketenangriffe auf Wohngebiet im Norden Israels"
       },
       "summary": {
-        "zh": "伊朗最高领袖莫杰塔巴·哈梅内伊自被任命以来首次发表声明，标志着其领导下的新阶段。",
-        "en": "Iran's Supreme Leader Mojtaba Khamenei has issued his first statement since being appointed, marking a new phase under his leadership.",
-        "de": "Irans oberster Führer Mojtaba Khamenei hat seine erste Erklärung seit seiner Ernennung abgegeben, was eine neue Phase unter seiner Führung markiert."
+        "zh": "视频显示，伊朗导弹在以色列北部的一个居民区造成破坏，局势紧张加剧。",
+        "en": "Video footage captured the moment an Iranian missile struck a residential area in northern Israel, escalating tensions in the region.",
+        "de": "Videoaufnahmen zeigen den Moment, als eine iranische Rakete ein Wohngebiet im Norden Israels traf, was die Spannungen in der Region verschärft."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-12",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/12/irans-new-supreme-leader-issues-first-statement?traffic_source=rss"
+      "date": "2026-03-13",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/13/iranian-missile-strikes-residential-area-in-northern-israel?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "零工经济工作者在油价达到21个月高点时感受到压力",
-        "en": "Gig workers feel pain at the pump as gas prices hit 21-month highs",
-        "de": "Gig-Arbeiter spüren den Druck an der Tankstelle, da die Benzinpreise 21-Monats-Hochs erreichen"
-      },
-      "summary": {
-        "zh": "随着油价达到21个月来的最高点，数百万提供服务的零工经济工作者感受到经济压力，影响了他们的收入和生活。",
-        "en": "As gas prices hit a 21-month high, millions of gig economy workers providing services are feeling the economic pressure, impacting their income and livelihoods.",
-        "de": "Da die Benzinpreise ein 21-Monats-Hoch erreichen, spüren Millionen von Gig-Arbeitern, die Dienstleistungen anbieten, den wirtschaftlichen Druck, was sich auf ihr Einkommen und ihren Lebensunterhalt auswirkt."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-12",
-      "url": "https://www.cnbc.com/2026/03/12/gig-workers-gas-prices-aaa-iran.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "特朗普对中国的301条贸易调查提高了赌注",
+        "zh": "特朗普在中国问题上加大压力，进行301条贸易调查",
         "en": "Trump raises the stakes on China with Section 301 trade probe, weeks before Beijing summit",
-        "de": "Trump erhöht die Einsätze gegenüber China mit der Section-301-Handelsuntersuchung, Wochen vor dem Gipfel in Peking"
+        "de": "Trump erhöht den Druck auf China mit der Section-301-Handelsuntersuchung, Wochen vor dem Gipfel in Peking"
       },
       "summary": {
-        "zh": "特朗普在北京峰会前几周对中国发起301条贸易调查，进一步加大了贸易紧张局势。",
-        "en": "Trump has initiated a Section 301 trade probe against China weeks before the Beijing summit, escalating trade tensions further.",
-        "de": "Trump hat wenige Wochen vor dem Gipfel in Peking eine Section-301-Handelsuntersuchung gegen China eingeleitet, was die Handels Spannungen weiter eskaliert."
+        "zh": "特朗普在北京峰会前几周对中国发起301条贸易调查，进一步加大了对中国的压力。",
+        "en": "Trump has launched a Section 301 trade probe against China just weeks before the Beijing summit, escalating pressure on the country.",
+        "de": "Trump hat wenige Wochen vor dem Gipfel in Peking eine Section-301-Handelsuntersuchung gegen China eingeleitet und damit den Druck auf das Land erhöht."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-03-12",
       "url": "https://www.cnbc.com/2026/03/12/section-301-trade-probe-china-trump-xi-beijing-summit.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "美国赤字在2月份超过1万亿美元，但低于去年同期水平",
+        "zh": "美国赤字在2月份超过1万亿美元，但低于去年同期",
         "en": "U.S. deficit tops $1 trillion through February but runs below year-ago pace",
-        "de": "Das US-Defizit übersteigt im Februar 1 Billion Dollar, liegt jedoch unter dem Niveau des Vorjahres"
+        "de": "US-Defizit übersteigt 1 Billion Dollar bis Februar, liegt aber unter dem Vorjahresniveau"
       },
       "summary": {
-        "zh": "截至2月份，美国的财政赤字总额达到1.004万亿美元，较2025年同期下降约12%。",
-        "en": "As of February, the US fiscal deficit totaled $1.004 trillion, about 12% lower than the comparable period in 2025.",
-        "de": "Bis Februar belief sich das US-Fiskaldefizit auf 1,004 Billionen Dollar, etwa 12 % niedriger als im vergleichbaren Zeitraum 2025."
+        "zh": "截至2月份，美国财政赤字达到1.004万亿美元，比2025年同期低12%。",
+        "en": "As of February, the U.S. fiscal deficit reached $1.004 trillion, about 12% lower than the same period in 2025.",
+        "de": "Bis Februar erreichte das US-Fiskaldefizit 1,004 Billionen Dollar, was etwa 12 % niedriger ist als im gleichen Zeitraum 2025."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-12",
+      "source": "CNBC",
+      "date": "2026-03-11",
       "url": "https://www.cnbc.com/2026/03/11/us-deficit-tops-1-trillion-through-february-but-runs-below-year-ago-pace.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "消费者价格在2月份按年上涨2.4%，符合预期",
+        "en": "Consumer prices rose 2.4% annually in February, as expected",
+        "de": "Die Verbraucherpreise stiegen im Februar wie erwartet um 2,4 % im Jahresvergleich"
+      },
+      "summary": {
+        "zh": "根据道琼斯的共识，2月份消费者价格指数预计显示同比增长2.4%。",
+        "en": "The consumer price index in February was expected to show a 2.4% increase from a year ago, according to Dow Jones consensus.",
+        "de": "Der Verbraucherpreisindex im Februar sollte laut Dow-Jones-Konsens einen Anstieg von 2,4 % im Vergleich zum Vorjahr zeigen."
+      },
+      "source": "CNBC",
+      "date": "2026-03-11",
+      "url": "https://www.cnbc.com/2026/03/11/cpi-inflation-report-february-2026.html"
     }
   ]
 }
