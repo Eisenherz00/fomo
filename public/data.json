@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-13T17:04:13.419475+00:00",
+  "generatedAt": "2026-03-14T05:32:58.539077+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么物理人工智能正成为制造业的下一个优势",
+        "zh": "为什么物理人工智能正在成为制造业的下一个优势",
         "en": "Why physical AI is becoming manufacturing’s next advantage",
         "de": "Warum physische KI zum nächsten Vorteil der Fertigung wird"
       },
       "summary": {
-        "zh": "制造商几十年来一直追求自动化以提高效率、降低成本并稳定运营。物理人工智能的引入可能会为制造业带来新的竞争优势。",
-        "en": "Manufacturers have pursued automation for decades to drive efficiency, reduce costs, and stabilize operations. The introduction of physical AI may provide new competitive advantages for the manufacturing sector.",
-        "de": "Hersteller haben jahrzehntelang Automatisierung angestrebt, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Die Einführung von physischer KI könnte neue Wettbewerbsvorteile für den Fertigungssektor bieten."
+        "zh": "制造商几十年来一直追求自动化，以提高效率、降低成本和稳定运营。物理人工智能的兴起可能会为制造业带来新的竞争优势。",
+        "en": "Manufacturers have pursued automation for decades to drive efficiency, reduce costs, and stabilize operations. The rise of physical AI may provide a new competitive edge for the manufacturing sector.",
+        "de": "Hersteller haben seit Jahrzehnten Automatisierung angestrebt, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Der Aufstieg der physischen KI könnte der Fertigungsindustrie einen neuen Wettbewerbsvorteil verschaffen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "下载：人工智能如何用于军事目标，以及五角大楼对Claude的战争",
         "en": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-        "de": "Der Download: Wie KI für militärische Zielbestimmungen eingesetzt wird und der Krieg des Pentagons gegen Claude"
+        "de": "Der Download: Wie KI für militärische Zielverfolgung eingesetzt wird und der Krieg des Pentagons gegen Claude"
       },
       "summary": {
-        "zh": "本期下载介绍了人工智能在军事目标选择中的应用，以及五角大楼对Claude的反制措施。这一技术的使用引发了对其潜在影响的讨论。",
-        "en": "This edition of The Download discusses the application of AI in military targeting and the Pentagon's countermeasures against Claude. The use of this technology raises discussions about its potential impacts.",
-        "de": "Diese Ausgabe des Downloads behandelt die Anwendung von KI bei militärischen Zielbestimmungen und die Gegenmaßnahmen des Pentagons gegen Claude. Der Einsatz dieser Technologie wirft Diskussionen über ihre potenziellen Auswirkungen auf."
+        "zh": "本期下载介绍了人工智能在军事目标中的应用，以及五角大楼如何应对Claude的挑战。技术在现代战争中的角色愈发重要。",
+        "en": "This edition of The Download discusses the application of AI in military targeting and how the Pentagon is addressing the challenges posed by Claude. The role of technology in modern warfare is increasingly significant.",
+        "de": "Diese Ausgabe des Downloads behandelt die Anwendung von KI bei militärischen Zielverfolgungen und wie das Pentagon die Herausforderungen durch Claude angeht. Die Rolle der Technologie in modernen Kriegen wird zunehmend bedeutend."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -41,9 +41,9 @@
         "de": "Zukünftige KI-Chips könnten aus Glas hergestellt werden"
       },
       "summary": {
-        "zh": "人造玻璃已有数千年的历史，但现在它有望进入世界上最新和最大的数据显示中心的人工智能芯片中。这一创新可能会改变芯片制造的格局。",
-        "en": "Human-made glass has a history of thousands of years, but it is now poised to enter the AI chips used in the world's newest and largest data centers. This innovation could change the landscape of chip manufacturing.",
-        "de": "Künstliches Glas hat eine Geschichte von Tausenden von Jahren, aber es steht nun kurz davor, in die KI-Chips einzutreten, die in den neuesten und größten Rechenzentren der Welt verwendet werden. Diese Innovation könnte die Landschaft der Chip-Herstellung verändern."
+        "zh": "人造玻璃已有数千年的历史，但现在它可能会进入全球最新和最大的数据显示中心的人工智能芯片中。此技术的应用前景广阔。",
+        "en": "Human-made glass has a history of thousands of years, but it is now poised to find its way into AI chips used in the world's newest and largest data centers. The potential applications of this technology are vast.",
+        "de": "Künstliches Glas hat eine Geschichte von Tausenden von Jahren, aber jetzt könnte es in KI-Chips verwendet werden, die in den neuesten und größten Rechenzentren der Welt eingesetzt werden. Die potenziellen Anwendungen dieser Technologie sind enorm."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "全球能源危机中谁赢谁输？",
-        "en": "Who wins and loses in the global energy crisis?",
-        "de": "Wer gewinnt und verliert in der globalen Energiekrise?"
+        "zh": "美国驻巴格达大使馆冒烟",
+        "en": "Smoke seen rising from US embassy in Baghdad",
+        "de": "Rauch steigt von der US-Botschaft in Bagdad auf"
       },
       "summary": {
-        "zh": "随着油价飙升，一些经济体受益，而另一些则面临成本上升的压力。全球能源危机的影响在不同国家之间显著不同。",
-        "en": "As oil prices surge, some economies benefit while others face rising cost pressures. The impact of the global energy crisis varies significantly across different countries.",
-        "de": "Mit dem Anstieg der Ölpreise profitieren einige Volkswirtschaften, während andere mit steigenden Kosten konfrontiert sind. Die Auswirkungen der globalen Energiekrise variieren erheblich zwischen den verschiedenen Ländern."
+        "zh": "社交媒体用户发布的视频显示，巴格达的美国大使馆冒烟，报道称发生了袭击事件。此事件引发了对安全的担忧。",
+        "en": "Videos posted by social media users show smoke rising from the US embassy in Baghdad, following reports of an attack. This incident raises concerns about security.",
+        "de": "Videos, die von Nutzern in sozialen Medien veröffentlicht wurden, zeigen Rauch, der von der US-Botschaft in Bagdad aufsteigt, nachdem Berichte über einen Angriff vorliegen. Dieser Vorfall wirft Sicherheitsbedenken auf."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-13",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/13/who-wins-and-loses-in-the-global-energy-crisis?traffic_source=rss"
+      "date": "2026-03-14",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/smoke-seen-rising-from-us-embassy-in-baghdad?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "全球数千人齐聚，声援巴勒斯坦，伊朗在阿尔-库兹日游行",
-        "en": "Thousands march worldwide in solidarity with Palestine, Iran on al-Quds Day",
-        "de": "Tausende marschieren weltweit in Solidarität mit Palästina, Iran am Al-Quds-Tag"
+        "zh": "特朗普发布轰炸视频称美国袭击了Kharg岛",
+        "en": "Trump posts bombing video after saying US hit Kharg Island",
+        "de": "Trump veröffentlicht Bombenvideo, nachdem er gesagt hat, dass die USA Kharg-Insel angegriffen haben"
       },
       "summary": {
-        "zh": "尽管战争持续，德黑兰的阿尔-库兹日游行吸引了数千人抗议，表达对以色列和美国的愤怒。这一事件显示了全球对巴勒斯坦的支持。",
-        "en": "Despite ongoing war, thousands protested in Tehran during the al-Quds Day march, voicing anger against Israel and the US. This event highlights global support for Palestine.",
-        "de": "Trotz des anhaltenden Krieges protestierten Tausende in Teheran während des Al-Quds-Tages und äußerten ihren Unmut gegen Israel und die USA. Dieses Ereignis hebt die globale Unterstützung für Palästina hervor."
+        "zh": "特朗普分享了美国对伊朗Kharg岛空袭的画面，进一步加剧了紧张局势。此举引发了对美国军事行动的广泛关注。",
+        "en": "Trump shared footage of US air strikes on Iran's Kharg Island, further escalating tensions. This move has drawn widespread attention to US military actions.",
+        "de": "Trump teilte Aufnahmen von US-Luftangriffen auf die iranische Kharg-Insel, was die Spannungen weiter verschärft. Dieser Schritt hat breite Aufmerksamkeit auf die militärischen Aktionen der USA gelenkt."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-13",
-      "url": "https://www.aljazeera.com/gallery/2026/3/13/thousands-march-worldwide-in-solidarity-with-palestine-iran-on-al-quds-day?traffic_source=rss"
+      "date": "2026-03-14",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/trump-posts-bombing-video-after-saying-us-hit-kharg-island?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普自诉？专家称特朗普的100亿美元诉讼可能失败",
-        "en": "A president suing himself? Why experts say Trump’s $10bn lawsuit might fail",
-        "de": "Ein Präsident verklagt sich selbst? Warum Experten sagen, dass Trumps 10-Milliarden-Dollar-Klage scheitern könnte"
+        "zh": "美国海军陆战队和战舰将增派至中东",
+        "en": "More US Marines and warships to be moved to Middle East, reports say",
+        "de": "Mehr US-Marines und Kriegsschiffe sollen in den Nahen Osten verlegt werden, berichten Quellen"
       },
       "summary": {
-        "zh": "专家表示，特朗普决定就泄露的税务信息提起诉讼，可能会使他面临安排自己赔偿的风险。这一案件引发了法律和政治的广泛讨论。",
-        "en": "Experts say Trump's decision to sue over his leaked tax returns risks putting him in charge of arranging his own payout. This case has sparked widespread legal and political discussions.",
-        "de": "Experten sagen, dass Trumps Entscheidung, wegen seiner geleakten Steuererklärungen zu klagen, ihn in die Lage versetzen könnte, seine eigene Entschädigung zu organisieren. Dieser Fall hat weitreichende rechtliche und politische Diskussionen ausgelöst."
+        "zh": "报道称，美国将从通常驻扎在日本的两栖快速反应部队增派海军陆战队和战舰到中东。这一决定可能影响地区的军事平衡。",
+        "en": "Reports indicate that the US will move Marines and warships from an amphibious ready group usually based in Japan to the Middle East. This decision may impact the military balance in the region.",
+        "de": "Berichten zufolge wird die USA Marines und Kriegsschiffe von einer normalerweise in Japan stationierten amphibischen Einsatzgruppe in den Nahen Osten verlegen. Diese Entscheidung könnte das militärische Gleichgewicht in der Region beeinflussen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-03-13",
-      "url": "https://www.aljazeera.com/news/longform/2026/3/13/a-president-suing-himself-why-experts-say-trumps-10bn-lawsuit-might-fail?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-03-14",
+      "url": "https://www.bbc.com/news/articles/cq8gj9n12g8o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗战争油价冲击引发对1970年代滞涨的担忧——这次可能有所不同",
+        "zh": "伊朗战争油价冲击引发对1970年代滞胀的担忧——这次可能不同",
         "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
         "de": "Öl-Schock durch den Iran-Krieg schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es diesmal anders sein könnte"
       },
       "summary": {
-        "zh": "一些投资者将当前市场状况与1970年代的滞涨进行比较，但有几个关键差异可能会影响经济走向。这些差异可能会改变市场反应。",
-        "en": "Some investors are drawing comparisons between the current market conditions and the stagflation of the 1970s, but several key differences may influence the economic trajectory. These differences could alter market reactions.",
-        "de": "Einige Investoren ziehen Vergleiche zwischen den aktuellen Marktbedingungen und der Stagflation der 1970er Jahre, aber mehrere entscheidende Unterschiede könnten den wirtschaftlichen Verlauf beeinflussen. Diese Unterschiede könnten die Marktreaktionen verändern."
+        "zh": "一些投资者将2026年的市场前景与1970年代进行比较，但有几个关键差异可能会影响当前经济形势。这些差异可能会改变市场的走向。",
+        "en": "Some investors are comparing the market outlook for 2026 to the 1970s, but several key differences may influence the current economic situation. These differences could alter the market trajectory.",
+        "de": "Einige Investoren vergleichen die Marktperspektiven für 2026 mit den 1970er Jahren, aber mehrere wichtige Unterschiede könnten die aktuelle wirtschaftliche Lage beeinflussen. Diese Unterschiede könnten den Marktverlauf verändern."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-13",
@@ -122,12 +122,12 @@
       "title": {
         "zh": "第四季度GDP修正为仅增长0.7%；一月核心通胀为3.1%",
         "en": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
-        "de": "BIP des vierten Quartals auf nur 0,7 % Wachstum nach unten revidiert; Kerninflation im Januar betrug 3,1 %"
+        "de": "BIP des vierten Quartals auf nur 0,7 % Wachstum nach unten revidiert; Die Kerninflation im Januar betrug 3,1 %"
       },
       "summary": {
-        "zh": "最新数据显示，第四季度的GDP增长被修正为仅0.7%，而一月份的核心通胀率为3.1%。这些数据可能会影响市场对经济前景的看法。",
-        "en": "Recent data shows that fourth-quarter GDP growth has been revised down to just 0.7%, while January's core inflation rate stood at 3.1%. This data may influence market perceptions of the economic outlook.",
-        "de": "Aktuelle Daten zeigen, dass das BIP-Wachstum im vierten Quartal auf nur 0,7 % nach unten revidiert wurde, während die Kerninflation im Januar bei 3,1 % lag. Diese Daten könnten die Marktperzeptionen über die wirtschaftlichen Aussichten beeinflussen."
+        "zh": "最新数据显示，第四季度的GDP增长被修正为仅0.7%，而一月的核心通胀率为3.1%。这些数据可能会影响未来的经济政策。",
+        "en": "Latest data shows that fourth-quarter GDP growth has been revised down to just 0.7%, while January's core inflation rate stood at 3.1%. This data may influence future economic policies.",
+        "de": "Die neuesten Daten zeigen, dass das BIP-Wachstum im vierten Quartal auf nur 0,7 % nach unten revidiert wurde, während die Kerninflation im Januar bei 3,1 % lag. Diese Daten könnten zukünftige Wirtschaftspolitiken beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-13",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "全球油价重返100美元以上，因美国对部分俄罗斯石油制裁的豁免未能平息供应担忧",
-        "en": "Global oil prices climb back above $100 as U.S. waiver on some Russian oil sanctions fails to quell supply concerns",
-        "de": "Weltweite Ölpreise steigen wieder über 100 USD, da die US-Ausnahmegenehmigung für einige russische Ölsanktionen die Versorgungsängste nicht dämpfen konnte"
+        "zh": "美国赤字在2月份突破1万亿美元，但低于去年同期水平",
+        "en": "U.S. deficit tops $1 trillion through February but runs below year-ago pace",
+        "de": "US-Defizit übersteigt 1 Billion Dollar bis Februar, liegt aber unter dem Niveau des Vorjahres"
       },
       "summary": {
-        "zh": "由于美国对部分俄罗斯石油制裁的临时豁免未能平息对供应的担忧，全球油价再次攀升至100美元以上。这一趋势可能会对全球经济产生广泛影响。",
-        "en": "Global oil prices have climbed back above $100 as a temporary U.S. waiver on some Russian oil sanctions failed to quell supply concerns. This trend may have widespread implications for the global economy.",
-        "de": "Die weltweiten Ölpreise sind wieder über 100 USD gestiegen, da eine vorübergehende US-Ausnahmegenehmigung für einige russische Ölsanktionen die Versorgungsängste nicht dämpfen konnte. Dieser Trend könnte weitreichende Auswirkungen auf die globale Wirtschaft haben."
+        "zh": "截至2月份，美国的财政赤字已超过1万亿美元，但与去年同期相比下降了约12%。这一趋势可能会影响未来的财政政策。",
+        "en": "As of February, the US fiscal deficit has surpassed $1 trillion, but it is about 12% lower than the same period last year. This trend may influence future fiscal policies.",
+        "de": "Bis Februar hat das US-Fiskaldefizit 1 Billion Dollar überschritten, liegt jedoch etwa 12 % unter dem Niveau des Vorjahres. Dieser Trend könnte zukünftige Fiskalpolitiken beeinflussen."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-03-13",
-      "url": "https://www.marketwatch.com/story/brent-oil-futures-climb-above-100-on-continued-disruption-to-strait-of-hormuz-traffic-764be61b?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-03-11",
+      "url": "https://www.cnbc.com/2026/03/11/us-deficit-tops-1-trillion-through-february-but-runs-below-year-ago-pace.html"
     }
   ]
 }
