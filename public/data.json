@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T16:54:00.359493+00:00",
+  "generatedAt": "2026-03-15T05:51:52.227337+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Warum physische KI zum nächsten Vorteil der Fertigung wird"
       },
       "summary": {
-        "zh": "制造商几十年来一直追求自动化以提高效率、降低成本和稳定运营。物理人工智能的应用正在为制造业带来新的优势。",
-        "en": "Manufacturers have pursued automation for decades to drive efficiency, reduce costs, and stabilize operations. The application of physical AI is bringing new advantages to the manufacturing sector.",
-        "de": "Hersteller haben jahrzehntelang Automatisierung angestrebt, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Die Anwendung von physischer KI bringt neue Vorteile für den Fertigungssektor."
+        "zh": "制造商几十年来一直追求自动化，以提高效率、降低成本和稳定运营。物理人工智能的兴起为制造业提供了新的竞争优势。",
+        "en": "Manufacturers have pursued automation for decades to drive efficiency, reduce costs, and stabilize operations. The rise of physical AI offers a new competitive advantage for the manufacturing sector.",
+        "de": "Hersteller haben jahrzehntelang Automatisierung angestrebt, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Der Aufstieg der physischen KI bietet der Fertigungsindustrie einen neuen Wettbewerbsvorteil."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "下载：人工智能如何用于军事目标，以及五角大楼对Claude的战争",
         "en": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-        "de": "Der Download: Wie KI für militärische Zielbestimmungen eingesetzt wird und der Krieg des Pentagons gegen Claude"
+        "de": "Der Download: Wie KI für militärische Zielsetzungen eingesetzt wird und der Krieg des Pentagons gegen Claude"
       },
       "summary": {
-        "zh": "本期下载专注于人工智能在军事目标中的应用，以及五角大楼如何应对Claude的挑战。",
-        "en": "This edition of The Download focuses on the application of AI in military targeting and how the Pentagon is responding to the challenges posed by Claude.",
-        "de": "Diese Ausgabe von The Download konzentriert sich auf die Anwendung von KI bei militärischen Zielbestimmungen und darauf, wie das Pentagon auf die Herausforderungen reagiert, die Claude darstellt."
+        "zh": "本期下载介绍了人工智能在军事目标中的应用，以及五角大楼如何对抗Claude。此类技术的使用引发了关于伦理和安全性的讨论。",
+        "en": "This edition of The Download discusses the use of AI in military targeting and the Pentagon's efforts against Claude. The use of such technologies raises ethical and security concerns.",
+        "de": "Diese Ausgabe des Downloads behandelt den Einsatz von KI bei militärischen Zielsetzungen und die Bemühungen des Pentagons gegen Claude. Der Einsatz solcher Technologien wirft ethische und sicherheitspolitische Bedenken auf."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -41,9 +41,9 @@
         "de": "Zukünftige KI-Chips könnten aus Glas hergestellt werden"
       },
       "summary": {
-        "zh": "人造玻璃已有数千年的历史，但现在它可能会进入世界上最新和最大的数据显示中心的人工智能芯片中。",
+        "zh": "人造玻璃已有数千年的历史，但现在有望进入全球最新和最大的数据显示中心中使用的人工智能芯片。",
         "en": "Human-made glass has a history of thousands of years, but it is now poised to find its way into the AI chips used in the world’s newest and largest data centers.",
-        "de": "Künstliches Glas hat eine Geschichte von Tausenden von Jahren, aber es steht nun kurz davor, in die KI-Chips der neuesten und größten Rechenzentren der Welt integriert zu werden."
+        "de": "Künstliches Glas hat eine Geschichte von Tausenden von Jahren, aber es steht nun kurz davor, in die KI-Chips zu gelangen, die in den neuesten und größten Rechenzentren der Welt verwendet werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -54,98 +54,98 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗允许印度船只通过霍尔木兹海峡",
-        "en": "Iran allows limited Indian shipping through Strait of Hormuz",
-        "de": "Iran erlaubt begrenzte indische Schifffahrt durch die Straße von Hormus"
+        "zh": "叙利亚纪念反阿萨德起义15周年，安全问题依然存在",
+        "en": "As Syria marks 15 years since anti-Assad uprising, security issues remain",
+        "de": "Während Syrien 15 Jahre seit dem Aufstand gegen Assad markiert, bleiben Sicherheitsprobleme bestehen"
       },
       "summary": {
-        "zh": "伊朗已允许一些印度船只通过霍尔木兹海峡，这一决定可能会影响该地区的航运和贸易。",
-        "en": "Iran has allowed some Indian vessels to pass through the Strait of Hormuz, a decision that could impact shipping and trade in the region.",
-        "de": "Iran hat einigen indischen Schiffen die Durchfahrt durch die Straße von Hormus erlaubt, eine Entscheidung, die den Schiffsverkehr und den Handel in der Region beeinflussen könnte."
+        "zh": "叙利亚人民庆祝2011年起义的开始，该起义在2024年结束了巴沙尔·阿萨德的统治。尽管如此，安全问题依然困扰着该国。",
+        "en": "Syrians celebrate the start of the 2011 uprising that, in 2024, put an end to Bashar al-Assad's rule. Nevertheless, security issues continue to plague the country.",
+        "de": "Die Syrer feiern den Beginn des Aufstands von 2011, der 2024 das Ende der Herrschaft von Bashar al-Assad brachte. Dennoch bleiben Sicherheitsprobleme das Land plagen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/iran-allows-limited-indian-shipping-through-strait-of-hormuz?traffic_source=rss"
+      "date": "2026-03-15",
+      "url": "https://www.aljazeera.com/features/2026/3/15/as-syria-marks-15-years-since-anti-assad-uprising-security-issues-remain?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列轰炸德黑兰的巴斯基检查站，正值美国与伊朗互相开火",
-        "en": "Israel bombs Basij checkpoints in Tehran as US, Iran trade fire and jabs",
-        "de": "Israel bombardiert Basij-Kontrollpunkte in Teheran, während die USA und der Iran Feuer und Sticheleien austauschen"
+        "zh": "FPV无人机撞击美国在伊拉克的军事基地",
+        "en": "FPV drone slams into US military base in Iraq",
+        "de": "FPV-Drohne prallt auf US-Militärbasis im Irak"
       },
       "summary": {
-        "zh": "以色列对德黑兰的巴斯基检查站进行了无人机袭击，此次袭击发生在美国与伊朗之间的紧张局势加剧之际。",
-        "en": "Israel has conducted drone strikes on Basij checkpoints in Tehran amid escalating tensions between the US and Iran.",
-        "de": "Israel hat Drohnenangriffe auf Basij-Kontrollpunkte in Teheran durchgeführt, während die Spannungen zwischen den USA und dem Iran zunehmen."
+        "zh": "伊朗支持的卡塔伊布·真主发布了对美国在巴格达胜利基地的袭击的无人机视频。这一事件加剧了地区紧张局势。",
+        "en": "Iran-backed Kataib Hezbollah released drone footage of an attack on the US's Victory Base in Baghdad. This incident escalates regional tensions.",
+        "de": "Die von Iran unterstützte Kataib Hezbollah veröffentlichte Drohnenaufnahmen eines Angriffs auf die US-Militärbasis Victory Base in Bagdad. Dieser Vorfall eskaliert die regionalen Spannungen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-14",
-      "url": "https://www.aljazeera.com/news/2026/3/14/israel-bombs-basij-checkpoints-in-tehran-as-us-iran-trade-fire-and-jabs?traffic_source=rss"
+      "date": "2026-03-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/fpv-drone-slams-into-us-military-base-in-iraq?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "教廷特使在神父在炮击中遇害后访问黎巴嫩教堂",
-        "en": "Vatican envoy visits Lebanese church after priest killed in shelling",
-        "de": "Vatikanscher Gesandter besucht libanesische Kirche nach dem Tod eines Priesters bei einem Beschuss"
+        "zh": "美国-以色列袭击目标伊斯法罕",
+        "en": "Barrage of US-Israeli strikes target Isfahan",
+        "de": "Barrage von US-israelischen Angriffen zielt auf Isfahan"
       },
       "summary": {
-        "zh": "在一名神父在以色列袭击中遇害后，教廷特使访问了黎巴嫩的教堂，以表达对受害者的支持。",
-        "en": "The Vatican envoy visited a church in Lebanon after a priest was killed in an Israeli attack, expressing support for the victims.",
-        "de": "Der vatikanische Gesandte besuchte eine Kirche im Libanon, nachdem ein Priester bei einem israelischen Angriff getötet wurde, und drückte den Opfern seine Unterstützung aus."
+        "zh": "美国和以色列对伊斯法罕的一家工厂进行了袭击，造成至少15人死亡。此事件引发了对冲突升级的担忧。",
+        "en": "A US-Israeli strike on a factory in Isfahan has killed at least 15 people. This incident raises concerns over the escalation of the conflict.",
+        "de": "Ein US-israelischer Angriff auf eine Fabrik in Isfahan hat mindestens 15 Menschen getötet. Dieser Vorfall wirft Bedenken über die Eskalation des Konflikts auf."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/14/vatican-envoy-visits-lebanese-church-after-priest-killed-in-shelling?traffic_source=rss"
+      "date": "2026-03-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/15/barrage-of-us-israeli-strikes-target-isfahan?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗战争石油冲击引发对1970年代滞胀的担忧——这次可能会有所不同",
+        "zh": "伊朗战争石油冲击引发对1970年代滞涨的担忧——这次可能有所不同",
         "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
-        "de": "Der Öl-Schock des Iran-Kriegs schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es diesmal anders sein könnte"
+        "de": "Öl-Schock durch den Iran-Krieg schürt Ängste vor stagflationären Verhältnissen wie in den 1970er Jahren – warum es diesmal anders sein könnte"
       },
       "summary": {
-        "zh": "一些投资者将当前市场状况与1970年代进行比较，但这次有几个关键差异可能会影响未来的经济走势。",
-        "en": "Some investors are drawing comparisons between the current market conditions and the 1970s, but several key differences may influence future economic trends.",
-        "de": "Einige Investoren ziehen Vergleiche zwischen den aktuellen Marktbedingungen und den 1970er Jahren, aber mehrere wichtige Unterschiede könnten die zukünftigen wirtschaftlichen Trends beeinflussen."
+        "zh": "一些投资者将当前市场形势与1970年代进行比较，但有几个关键差异可能会影响未来的经济走向。",
+        "en": "Some investors are drawing comparisons between the current market situation and the 1970s, but several key differences may influence the future economic trajectory.",
+        "de": "Einige Investoren ziehen Vergleiche zwischen der aktuellen Marktsituation und den 1970er Jahren, aber mehrere wichtige Unterschiede könnten den zukünftigen wirtschaftlichen Verlauf beeinflussen."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-03-13",
       "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "第四季度GDP修正为仅增长0.7%；一月份核心通胀为3.1%",
+        "zh": "第四季度GDP修订为仅增长0.7%；一月核心通胀为3.1%",
         "en": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
         "de": "BIP des vierten Quartals auf nur 0,7 % Wachstum nach unten revidiert; Kerninflation im Januar betrug 3,1 %"
       },
       "summary": {
-        "zh": "第四季度的GDP增长被修正为仅0.7%，而一月份的核心通胀率为3.1%，显示出经济放缓的迹象。",
-        "en": "The fourth-quarter GDP growth has been revised down to just 0.7%, while the January core inflation rate was 3.1%, indicating signs of economic slowdown.",
-        "de": "Das BIP-Wachstum im vierten Quartal wurde auf nur 0,7 % nach unten revidiert, während die Kerninflation im Januar 3,1 % betrug, was Anzeichen einer wirtschaftlichen Verlangsamung zeigt."
+        "zh": "第四季度的GDP修订为仅增长0.7%，而一月份的核心通胀率为3.1%。这些数据反映了经济增长放缓的趋势。",
+        "en": "The fourth-quarter GDP has been revised down to just 0.7% growth, while January's core inflation rate was at 3.1%. These figures reflect a trend of slowing economic growth.",
+        "de": "Das BIP des vierten Quartals wurde auf nur 0,7 % Wachstum nach unten revidiert, während die Kerninflation im Januar bei 3,1 % lag. Diese Zahlen spiegeln einen Trend des verlangsamten Wirtschaftswachstums wider."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-03-13",
       "url": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国赤字在二月份超过1万亿美元，但低于去年同期的水平",
+        "zh": "美国赤字在二月份超过1万亿美元，但低于去年同期水平",
         "en": "U.S. deficit tops $1 trillion through February but runs below year-ago pace",
-        "de": "Das US-Defizit übersteigt im Februar 1 Billion Dollar, liegt aber unter dem Niveau des Vorjahres"
+        "de": "US-Defizit übersteigt im Februar 1 Billion Dollar, liegt aber unter dem Vorjahresniveau"
       },
       "summary": {
-        "zh": "截至二月份，美国的财政赤字已达到1.004万亿美元，较2025年同期下降约12%。",
-        "en": "As of February, the U.S. fiscal deficit has reached $1.004 trillion, about 12% lower than the comparable period in 2025.",
-        "de": "Bis Februar hat das US-Haushaltsdefizit 1,004 Billionen Dollar erreicht, was etwa 12 % unter dem Niveau des entsprechenden Zeitraums im Jahr 2025 liegt."
+        "zh": "截至二月份，美国的财政赤字总额达到1.004万亿美元，约比2025年同期低12%。",
+        "en": "As of February, the U.S. deficit totaled $1.004 trillion, about 12% lower than the comparable period in 2025.",
+        "de": "Bis Februar belief sich das US-Defizit auf 1,004 Billionen Dollar, was etwa 12 % niedriger ist als im entsprechenden Zeitraum 2025."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-03-11",
       "url": "https://www.cnbc.com/2026/03/11/us-deficit-tops-1-trillion-through-february-but-runs-below-year-ago-pace.html"
     }
