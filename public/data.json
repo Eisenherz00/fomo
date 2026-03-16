@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-15T16:53:42.044219+00:00",
+  "generatedAt": "2026-03-16T06:07:42.837354+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Warum physische KI zum nächsten Vorteil der Fertigung wird"
       },
       "summary": {
-        "zh": "制造商几十年来一直追求自动化以提高效率、降低成本并稳定运营。物理人工智能的应用正在为制造业带来新的优势。",
-        "en": "Manufacturers have pursued automation for decades to drive efficiency, reduce costs, and stabilize operations. The application of physical AI is bringing new advantages to the manufacturing sector.",
-        "de": "Hersteller haben seit Jahrzehnten Automatisierung angestrebt, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Der Einsatz von physischer KI bringt neue Vorteile für den Fertigungssektor."
+        "zh": "制造商几十年来一直追求自动化以提高效率、降低成本和稳定运营。物理人工智能的引入可能会为制造业带来新的竞争优势。",
+        "en": "Manufacturers have pursued automation for decades to drive efficiency, reduce costs, and stabilize operations. The introduction of physical AI may bring a new competitive advantage to the manufacturing sector.",
+        "de": "Hersteller haben jahrzehntelang Automatisierung angestrebt, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Die Einführung von physischer KI könnte der Fertigungsindustrie einen neuen Wettbewerbsvorteil verschaffen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "下载：人工智能如何用于军事目标，以及五角大楼对Claude的战争",
         "en": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-        "de": "Der Download: Wie KI für militärische Zielvorgaben verwendet wird und der Krieg des Pentagons gegen Claude"
+        "de": "Der Download: Wie KI für militärische Zielsetzungen eingesetzt wird und der Krieg des Pentagons gegen Claude"
       },
       "summary": {
-        "zh": "本期《下载》介绍了人工智能在军事目标中的应用，以及五角大楼如何应对Claude的挑战。",
-        "en": "This edition of The Download discusses the use of AI in military targeting and how the Pentagon is addressing the challenges posed by Claude.",
-        "de": "Diese Ausgabe des Downloads behandelt den Einsatz von KI bei militärischen Zielvorgaben und wie das Pentagon mit den Herausforderungen durch Claude umgeht."
+        "zh": "本期《下载》探讨了人工智能在军事目标中的应用，以及五角大楼对Claude的反制措施。这一动态显示了技术在现代战争中的重要性。",
+        "en": "This edition of The Download explores the use of AI in military targeting and the Pentagon's countermeasures against Claude. This dynamic highlights the importance of technology in modern warfare.",
+        "de": "Diese Ausgabe von The Download untersucht den Einsatz von KI bei militärischen Zielsetzungen und die Gegenmaßnahmen des Pentagons gegen Claude. Diese Dynamik unterstreicht die Bedeutung von Technologie in modernen Kriegen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -41,9 +41,9 @@
         "de": "Zukünftige KI-Chips könnten aus Glas hergestellt werden"
       },
       "summary": {
-        "zh": "人造玻璃已有数千年的历史，但现在它有望进入世界上最新和最大的数据显示中心的人工智能芯片中。",
-        "en": "Human-made glass has thousands of years of history, but it is now poised to find its way into the AI chips used in the world’s newest and largest data centers.",
-        "de": "Künstliches Glas hat eine Geschichte von Tausenden von Jahren, aber es steht nun kurz davor, in die KI-Chips zu gelangen, die in den neuesten und größten Rechenzentren der Welt verwendet werden."
+        "zh": "人造玻璃已有数千年的历史，但现在它有望进入全球最新和最大的数据中心中使用的人工智能芯片。此技术可能会改变芯片制造的未来。",
+        "en": "Human-made glass has a history spanning thousands of years, but it is now poised to find its way into AI chips used in the world's newest and largest data centers. This technology could change the future of chip manufacturing.",
+        "de": "Künstliches Glas hat eine Geschichte von Tausenden von Jahren, aber es steht nun kurz davor, in KI-Chips zu gelangen, die in den neuesten und größten Rechenzentren der Welt verwendet werden. Diese Technologie könnte die Zukunft der Chipproduktion verändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普呼吁海军联盟打开霍尔木兹海峡：能行吗？",
-        "en": "Trump calls for naval coalition to open Strait of Hormuz: Can it work?",
-        "de": "Trump ruft zu einer Marinekoalition auf, um die Straße von Hormuz zu öffnen: Kann es funktionieren?"
+        "zh": "在伦敦举行大规模抗议活动，反对美以对伊朗的战争",
+        "en": "Large protest held in London against US-Israeli war on Iran",
+        "de": "Große Proteste in London gegen den US-israelischen Krieg gegen den Iran"
       },
       "summary": {
-        "zh": "分析人士表示，美国总统为确保霍尔木兹海峡而提出的解决方案面临诸多问题。",
-        "en": "Analysts say the U.S. president's proposed solution to secure the Strait of Hormuz is fraught with problems.",
-        "de": "Analysten sagen, dass die vorgeschlagene Lösung des US-Präsidenten zur Sicherung der Straße von Hormuz mit Problemen behaftet ist."
+        "zh": "数千名示威者走上伦敦街头，反对美国和以色列对伊朗、黎巴嫩和加沙的侵略。这一抗议活动反映了公众对当前局势的不满。",
+        "en": "Thousands of demonstrators took to the streets of London to oppose US-Israeli aggression against Iran, Lebanon, and Gaza. This protest reflects public discontent with the current situation.",
+        "de": "Tausende von Demonstranten gingen auf die Straßen Londons, um sich gegen die US-israelische Aggression gegen den Iran, den Libanon und den Gazastreifen zu wenden. Dieser Protest spiegelt die öffentliche Unzufriedenheit mit der aktuellen Situation wider."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-15",
-      "url": "https://www.aljazeera.com/news/2026/3/15/trump-calls-for-naval-coalition-to-open-strait-of-hormuz-can-it-work?traffic_source=rss"
+      "date": "2026-03-16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/large-protest-held-in-london-against-us-israeli-war-on-iran?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列军队在被占领的西岸杀死一对巴勒斯坦夫妇及其两个孩子",
-        "en": "Israeli forces kill Palestinian couple and two of their children in occupied West Bank",
-        "de": "Israelische Streitkräfte töten palästinensisches Paar und zwei ihrer Kinder im besetzten Westjordanland"
+        "zh": "奥斯卡2026：明星呼吁结束对加沙和伊朗的战争",
+        "en": "Stars at Oscars 2026 call for end to war in Gaza and Iran",
+        "de": "Stars bei den Oscars 2026 fordern ein Ende des Krieges in Gaza und Iran"
       },
       "summary": {
-        "zh": "巴勒斯坦卫生部表示，五岁和七岁的孩子与父母一起被杀。",
-        "en": "The Palestinian health ministry reports that a five-year-old and a seven-year-old child were killed alongside their parents.",
-        "de": "Das palästinensische Gesundheitsministerium berichtet, dass ein fünfjähriges und ein siebenjähriges Kind zusammen mit ihren Eltern getötet wurden."
+        "zh": "在2026年奥斯卡颁奖典礼上，演员和电影制作人呼吁结束美国和以色列对伊朗的战争以及对加沙的暴力。这一呼声引发了广泛关注。",
+        "en": "At the 2026 Oscars, actors and filmmakers called for an end to the US-Israeli war on Iran and the violence in Gaza. This appeal has garnered widespread attention.",
+        "de": "Bei den Oscars 2026 forderten Schauspieler und Filmemacher ein Ende des US-israelischen Krieges gegen den Iran und der Gewalt im Gazastreifen. Dieser Aufruf hat breite Aufmerksamkeit erregt."
       },
-      "source": "BBC News – World",
-      "date": "2026-03-15",
-      "url": "https://www.bbc.com/news/articles/cqxdndz75zvo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-03-16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "泽连斯基指责欧盟盟友在石油管道争端中“敲诈”",
-        "en": "Zelensky accuses EU allies of 'blackmail' in oil pipeline row",
-        "de": "Zelensky beschuldigt EU-Verbündete der 'Erpressung' im Streit um die Ölpipeline"
+        "zh": "乌克兰在金融前线的紧急斗争",
+        "en": "Ukraine's urgent fight on the financial frontline",
+        "de": "Ukraines dringender Kampf an der finanziellen Front"
       },
       "summary": {
-        "zh": "泽连斯基表示，恢复通过乌克兰向欧盟输送俄罗斯石油就像解除对俄罗斯的制裁。",
-        "en": "Zelensky states that restoring the flow of Russian oil via Ukraine into the EU would be akin to lifting sanctions on Russia.",
-        "de": "Zelensky erklärt, dass die Wiederherstellung des Flusses von russischem Öl über die Ukraine in die EU gleichbedeutend mit der Aufhebung der Sanktionen gegen Russland wäre."
+        "zh": "乌克兰正在努力确保来自国际货币基金组织和欧盟的关键资金，同时提高税收以应对战争带来的经济挑战。",
+        "en": "Ukraine is battling to secure crucial funding from the IMF and EU while raising taxes to address the economic challenges posed by the war.",
+        "de": "Die Ukraine kämpft darum, entscheidende Mittel vom IWF und der EU zu sichern, während sie die Steuern erhöht, um den wirtschaftlichen Herausforderungen des Krieges zu begegnen."
       },
       "source": "BBC News – World",
-      "date": "2026-03-15",
-      "url": "https://www.bbc.com/news/articles/c3v7q6d0nq0o?at_medium=RSS&at_campaign=rss"
+      "date": "2026-03-16",
+      "url": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗战争石油冲击引发对1970年代滞胀的担忧——这次可能会有所不同",
+        "zh": "特朗普暗示可能推迟北京峰会，美国施压中国帮助重启霍尔木兹海峡",
+        "en": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+        "de": "Trump deutet mögliche Verzögerung des Peking-Gipfels an, während die USA China unter Druck setzen, um die Straße von Hormuz wieder zu öffnen"
+      },
+      "summary": {
+        "zh": "特朗普在与中国财政部长的会晤中暗示，北京峰会可能会推迟。美国希望中国在重启霍尔木兹海峡方面发挥作用。",
+        "en": "Trump hinted at a possible delay to the Beijing summit during a meeting with the Chinese finance minister. The U.S. is looking for China's assistance in reopening the Strait of Hormuz.",
+        "de": "Trump deutete während eines Treffens mit dem chinesischen Finanzminister eine mögliche Verzögerung des Peking-Gipfels an. Die USA suchen Chinas Unterstützung bei der Wiedereröffnung der Straße von Hormuz."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-16",
+      "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "伊朗战争油价冲击引发对1970年代式滞胀的担忧——这次可能不同",
         "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
         "de": "Ölschock durch den Iran-Krieg schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es diesmal anders sein könnte"
       },
       "summary": {
-        "zh": "一些投资者将2026年的市场与1970年代进行比较，但有几个关键区别需要注意。",
-        "en": "Some investors are drawing comparisons between the markets of 2026 and the 1970s, but there are several key differences to note.",
-        "de": "Einige Anleger ziehen Vergleiche zwischen den Märkten von 2026 und den 1970er Jahren, aber es gibt mehrere wichtige Unterschiede zu beachten."
+        "zh": "一些投资者将当前市场状况与1970年代的滞胀进行比较，但有几个关键差异可能会影响未来的经济走势。",
+        "en": "Some investors are drawing comparisons between the current market conditions and the stagflation of the 1970s, but several key differences may influence future economic trends.",
+        "de": "Einige Investoren ziehen Vergleiche zwischen den aktuellen Marktbedingungen und der Stagflation der 1970er Jahre, aber mehrere wichtige Unterschiede könnten die zukünftigen wirtschaftlichen Trends beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-13",
       "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "第四季度GDP修订为仅0.7%的增长；一月核心通胀为3.1%",
+        "zh": "四季度GDP修正为仅增长0.7%；一月份核心通胀为3.1%",
         "en": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
         "de": "BIP des vierten Quartals auf nur 0,7 % Wachstum nach unten revidiert; Kerninflation im Januar betrug 3,1 %"
       },
       "summary": {
-        "zh": "一月份的PCE价格指数预计显示总体通胀为2.9%，核心通胀为3.1%。",
-        "en": "The PCE price index for January was expected to show headline inflation at 2.9% and core at 3.1%.",
-        "de": "Der PCE-Preisindex für Januar sollte eine Gesamtinflation von 2,9 % und eine Kerninflation von 3,1 % zeigen."
+        "zh": "最新数据显示，四季度GDP增长被修正为仅0.7%，而一月份的核心通胀率为3.1%。这些数据可能会影响市场对未来经济政策的预期。",
+        "en": "Latest data shows that fourth-quarter GDP growth has been revised down to just 0.7%, while January's core inflation rate was 3.1%. This data may influence market expectations for future economic policies.",
+        "de": "Neueste Daten zeigen, dass das BIP-Wachstum im vierten Quartal auf nur 0,7 % nach unten revidiert wurde, während die Kerninflation im Januar 3,1 % betrug. Diese Daten könnten die Markterwartungen für zukünftige Wirtschaftspolitiken beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-13",
       "url": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "美国赤字在二月份超过1万亿美元，但低于去年同期的水平",
-        "en": "U.S. deficit tops $1 trillion through February but runs below year-ago pace",
-        "de": "US-Defizit übersteigt 1 Billion Dollar bis Februar, bleibt aber unter dem Vorjahresniveau"
-      },
-      "summary": {
-        "zh": "截至财政年度，赤字总额为1.004万亿美元，约比2025年同期低12%。",
-        "en": "For the fiscal year to date, the deficit totaled $1.004 trillion, about 12% lower than the comparable period in 2025.",
-        "de": "Für das laufende Haushaltsjahr belief sich das Defizit auf 1,004 Billionen Dollar, etwa 12 % niedriger als im entsprechenden Zeitraum 2025."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-11",
-      "url": "https://www.cnbc.com/2026/03/11/us-deficit-tops-1-trillion-through-february-but-runs-below-year-ago-pace.html"
     }
   ]
 }
