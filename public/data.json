@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-03-16T06:07:42.837354+00:00",
+  "generatedAt": "2026-03-16T17:33:05.519565+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么物理人工智能正在成为制造业的下一个优势",
-        "en": "Why physical AI is becoming manufacturing’s next advantage",
-        "de": "Warum physische KI zum nächsten Vorteil der Fertigung wird"
+        "zh": "OpenAI的技术可能在伊朗出现的地方",
+        "en": "Where OpenAI’s technology could show up in Iran",
+        "de": "Wo die Technologie von OpenAI in Iran auftauchen könnte"
       },
       "summary": {
-        "zh": "制造商几十年来一直追求自动化以提高效率、降低成本和稳定运营。物理人工智能的引入可能会为制造业带来新的竞争优势。",
-        "en": "Manufacturers have pursued automation for decades to drive efficiency, reduce costs, and stabilize operations. The introduction of physical AI may bring a new competitive advantage to the manufacturing sector.",
-        "de": "Hersteller haben jahrzehntelang Automatisierung angestrebt, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Die Einführung von physischer KI könnte der Fertigungsindustrie einen neuen Wettbewerbsvorteil verschaffen."
+        "zh": "OpenAI的技术可能在伊朗的多个领域得到应用，尽管面临政治和社会挑战。该技术的潜在影响包括教育、医疗和经济发展等方面。",
+        "en": "OpenAI's technology could find applications in various sectors in Iran, despite facing political and social challenges. The potential impacts include education, healthcare, and economic development.",
+        "de": "Die Technologie von OpenAI könnte in verschiedenen Sektoren im Iran Anwendung finden, obwohl sie politischen und sozialen Herausforderungen gegenübersteht. Die potenziellen Auswirkungen umfassen Bildung, Gesundheitswesen und wirtschaftliche Entwicklung."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-13",
-      "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/"
+      "date": "2026-03-16",
+      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：人工智能如何用于军事目标，以及五角大楼对Claude的战争",
-        "en": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-        "de": "Der Download: Wie KI für militärische Zielsetzungen eingesetzt wird und der Krieg des Pentagons gegen Claude"
+        "zh": "超越幼儿阶段的自主AI培育",
+        "en": "Nurturing agentic AI beyond the toddler stage",
+        "de": "Agentische KI über die Kleinkindphase hinaus fördern"
       },
       "summary": {
-        "zh": "本期《下载》探讨了人工智能在军事目标中的应用，以及五角大楼对Claude的反制措施。这一动态显示了技术在现代战争中的重要性。",
-        "en": "This edition of The Download explores the use of AI in military targeting and the Pentagon's countermeasures against Claude. This dynamic highlights the importance of technology in modern warfare.",
-        "de": "Diese Ausgabe von The Download untersucht den Einsatz von KI bei militärischen Zielsetzungen und die Gegenmaßnahmen des Pentagons gegen Claude. Diese Dynamik unterstreicht die Bedeutung von Technologie in modernen Kriegen."
+        "zh": "随着AI技术的发展，如何培养自主AI成为重要议题。文章探讨了在AI的成长过程中，如何确保其安全性和有效性。",
+        "en": "As AI technology evolves, nurturing agentic AI becomes a significant topic. The article explores how to ensure safety and effectiveness during the growth of AI.",
+        "de": "Mit der Entwicklung der KI-Technologie wird die Förderung agentischer KI zu einem wichtigen Thema. Der Artikel untersucht, wie Sicherheit und Effektivität während des Wachstums von KI gewährleistet werden können."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-13",
-      "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/"
+      "date": "2026-03-16",
+      "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "未来的人工智能芯片可能会基于玻璃制造",
+        "zh": "未来的AI芯片可能基于玻璃制造",
         "en": "Future AI chips could be built on glass",
         "de": "Zukünftige KI-Chips könnten aus Glas hergestellt werden"
       },
       "summary": {
-        "zh": "人造玻璃已有数千年的历史，但现在它有望进入全球最新和最大的数据中心中使用的人工智能芯片。此技术可能会改变芯片制造的未来。",
-        "en": "Human-made glass has a history spanning thousands of years, but it is now poised to find its way into AI chips used in the world's newest and largest data centers. This technology could change the future of chip manufacturing.",
-        "de": "Künstliches Glas hat eine Geschichte von Tausenden von Jahren, aber es steht nun kurz davor, in KI-Chips zu gelangen, die in den neuesten und größten Rechenzentren der Welt verwendet werden. Diese Technologie könnte die Zukunft der Chipproduktion verändern."
+        "zh": "人造玻璃可能成为未来AI芯片的重要材料，这一创新可能会改变数据中心的构建方式。文章分析了这一趋势的潜在影响。",
+        "en": "Man-made glass could become a crucial material for future AI chips, potentially transforming the construction of data centers. The article analyzes the implications of this trend.",
+        "de": "Künstliches Glas könnte ein entscheidendes Material für zukünftige KI-Chips werden und möglicherweise die Konstruktion von Rechenzentren verändern. Der Artikel analysiert die Auswirkungen dieses Trends."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "在伦敦举行大规模抗议活动，反对美以对伊朗的战争",
-        "en": "Large protest held in London against US-Israeli war on Iran",
-        "de": "Große Proteste in London gegen den US-israelischen Krieg gegen den Iran"
+        "zh": "阿富汗称在巴基斯坦最新袭击中四人遇难，包括儿童",
+        "en": "Afghanistan says children among four killed in latest attacks by Pakistan",
+        "de": "Afghanistan sagt, Kinder seien unter den vier Toten bei den neuesten Angriffen von Pakistan"
       },
       "summary": {
-        "zh": "数千名示威者走上伦敦街头，反对美国和以色列对伊朗、黎巴嫩和加沙的侵略。这一抗议活动反映了公众对当前局势的不满。",
-        "en": "Thousands of demonstrators took to the streets of London to oppose US-Israeli aggression against Iran, Lebanon, and Gaza. This protest reflects public discontent with the current situation.",
-        "de": "Tausende von Demonstranten gingen auf die Straßen Londons, um sich gegen die US-israelische Aggression gegen den Iran, den Libanon und den Gazastreifen zu wenden. Dieser Protest spiegelt die öffentliche Unzufriedenheit mit der aktuellen Situation wider."
+        "zh": "阿富汗官员报告称，在巴基斯坦的最新袭击中，四名平民遇难，其中包括三名儿童和一名女性。这一事件引发了对地区安全的担忧。",
+        "en": "Afghan officials report that four civilians were killed in the latest attacks by Pakistan, including three children and a woman. This incident raises concerns about regional security.",
+        "de": "Afghanische Beamte berichten, dass vier Zivilisten bei den neuesten Angriffen von Pakistan getötet wurden, darunter drei Kinder und eine Frau. Dieser Vorfall wirft Bedenken hinsichtlich der regionalen Sicherheit auf."
       },
       "source": "Al Jazeera",
       "date": "2026-03-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/large-protest-held-in-london-against-us-israeli-war-on-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/16/afghanistan-says-children-among-those-killed-in-latest-attacks-by-pakistan?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "奥斯卡2026：明星呼吁结束对加沙和伊朗的战争",
-        "en": "Stars at Oscars 2026 call for end to war in Gaza and Iran",
-        "de": "Stars bei den Oscars 2026 fordern ein Ende des Krieges in Gaza und Iran"
+        "zh": "美国和以色列现在知道他们正在与什么样的国家打交道",
+        "en": "US, Israel now know ‘what kind of nation they are dealing with’",
+        "de": "Die USA und Israel wissen jetzt, mit welcher Art von Nation sie es zu tun haben"
       },
       "summary": {
-        "zh": "在2026年奥斯卡颁奖典礼上，演员和电影制作人呼吁结束美国和以色列对伊朗的战争以及对加沙的暴力。这一呼声引发了广泛关注。",
-        "en": "At the 2026 Oscars, actors and filmmakers called for an end to the US-Israeli war on Iran and the violence in Gaza. This appeal has garnered widespread attention.",
-        "de": "Bei den Oscars 2026 forderten Schauspieler und Filmemacher ein Ende des US-israelischen Krieges gegen den Iran und der Gewalt im Gazastreifen. Dieser Aufruf hat breite Aufmerksamkeit erregt."
+        "zh": "伊朗外长阿巴斯·阿拉赫奇表示，伊朗已准备好将战争“推向必要的程度”。这一声明加剧了地区紧张局势。",
+        "en": "Iran's Foreign Minister Abbas Araghchi states that Iran is ready to take the war 'as far as necessary.' This statement escalates regional tensions.",
+        "de": "Irans Außenminister Abbas Araghchi erklärt, dass Iran bereit ist, den Krieg 'so weit wie nötig' zu führen. Diese Aussage eskaliert die regionalen Spannungen."
       },
       "source": "Al Jazeera",
       "date": "2026-03-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/stars-at-oscars-2026-call-for-end-to-war-in-gaza-and-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/16/us-israel-now-know-what-kind-of-nation-they-are-dealing?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰在金融前线的紧急斗争",
-        "en": "Ukraine's urgent fight on the financial frontline",
-        "de": "Ukraines dringender Kampf an der finanziellen Front"
+        "zh": "伊朗战争对全球经济的影响有多严重？",
+        "en": "How badly has the Iran war hit the global economy?",
+        "de": "Wie stark hat der Iran-Krieg die Weltwirtschaft getroffen?"
       },
       "summary": {
-        "zh": "乌克兰正在努力确保来自国际货币基金组织和欧盟的关键资金，同时提高税收以应对战争带来的经济挑战。",
-        "en": "Ukraine is battling to secure crucial funding from the IMF and EU while raising taxes to address the economic challenges posed by the war.",
-        "de": "Die Ukraine kämpft darum, entscheidende Mittel vom IWF und der EU zu sichern, während sie die Steuern erhöht, um den wirtschaftlichen Herausforderungen des Krieges zu begegnen."
+        "zh": "由于战争导致的石油和天然气价格上涨，全球经济受到严重影响。文章探讨了这一冲击的迹象及其潜在后果。",
+        "en": "The global economy has been severely impacted by rising oil and gas prices due to the war. The article explores the signs of this shock and its potential consequences.",
+        "de": "Die Weltwirtschaft wurde durch steigende Öl- und Gaspreise aufgrund des Krieges schwer getroffen. Der Artikel untersucht die Anzeichen dieses Schocks und seine potenziellen Folgen."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-03-16",
-      "url": "https://www.bbc.com/news/articles/c20jyngz7ygo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/16/the-tell-tale-signs-how-bad-has-the-iran-war-hit-the-global-economy?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普暗示可能推迟北京峰会，美国施压中国帮助重启霍尔木兹海峡",
-        "en": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
-        "de": "Trump deutet mögliche Verzögerung des Peking-Gipfels an, während die USA China unter Druck setzen, um die Straße von Hormuz wieder zu öffnen"
+        "zh": "贝森特表示财政部未干预油品市场且没有权力这样做",
+        "en": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
+        "de": "Bessent sagt, das Finanzministerium interveniert nicht auf den Ölrohstoffmärkten und hat keine Befugnis dazu"
       },
       "summary": {
-        "zh": "特朗普在与中国财政部长的会晤中暗示，北京峰会可能会推迟。美国希望中国在重启霍尔木兹海峡方面发挥作用。",
-        "en": "Trump hinted at a possible delay to the Beijing summit during a meeting with the Chinese finance minister. The U.S. is looking for China's assistance in reopening the Strait of Hormuz.",
-        "de": "Trump deutete während eines Treffens mit dem chinesischen Finanzminister eine mögliche Verzögerung des Peking-Gipfels an. Die USA suchen Chinas Unterstützung bei der Wiedereröffnung der Straße von Hormuz."
+        "zh": "贝森特回应了关于财政部可能介入以降低油价的传言，强调财政部没有干预油品市场的权力。这一声明可能影响市场预期。",
+        "en": "Bessent addressed rumors regarding the Treasury possibly intervening to lower oil prices, emphasizing that the Treasury has no authority to intervene in oil markets. This statement may affect market expectations.",
+        "de": "Bessent sprach Gerüchte an, dass das Finanzministerium möglicherweise intervenieren könnte, um die Ölpreise zu senken, und betonte, dass das Finanzministerium keine Befugnis hat, in die Ölmärkte einzugreifen. Diese Aussage könnte die Markterwartungen beeinflussen."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-16",
+      "url": "https://www.cnbc.com/2026/03/16/bessent-says-treasury-is-not-intervening-in-oil-commodities-markets-and-has-no-authority-to-do-so.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "特朗普暗示可能推迟与北京的峰会",
+        "en": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+        "de": "Trump signalisiert mögliche Verzögerung des Peking-Gipfels, während die USA China drängen, zu helfen, die Straße von Hormuz wieder zu öffnen"
+      },
+      "summary": {
+        "zh": "特朗普在与中国财政部长的会晤中暗示，可能会推迟与北京的峰会。这一消息可能对中美关系及市场产生影响。",
+        "en": "Trump hinted at a possible delay to the Beijing summit during a meeting with the Chinese Finance Minister. This news could impact U.S.-China relations and the markets.",
+        "de": "Trump deutete während eines Treffens mit dem chinesischen Finanzminister auf eine mögliche Verzögerung des Peking-Gipfels hin. Diese Nachricht könnte die Beziehungen zwischen den USA und China sowie die Märkte beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-16",
       "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "伊朗战争油价冲击引发对1970年代式滞胀的担忧——这次可能不同",
-        "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
-        "de": "Ölschock durch den Iran-Krieg schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es diesmal anders sein könnte"
+        "zh": "伊朗战争油价冲击引发对1970年代滞涨的担忧",
+        "en": "Iran war oil shock stokes fears of 1970s-style stagflation",
+        "de": "Ölschock durch den Iran-Krieg schürt Ängste vor einer Stagflation im Stil der 1970er Jahre"
       },
       "summary": {
-        "zh": "一些投资者将当前市场状况与1970年代的滞胀进行比较，但有几个关键差异可能会影响未来的经济走势。",
-        "en": "Some investors are drawing comparisons between the current market conditions and the stagflation of the 1970s, but several key differences may influence future economic trends.",
-        "de": "Einige Investoren ziehen Vergleiche zwischen den aktuellen Marktbedingungen und der Stagflation der 1970er Jahre, aber mehrere wichtige Unterschiede könnten die zukünftigen wirtschaftlichen Trends beeinflussen."
+        "zh": "由于伊朗战争引发的油价上涨，投资者对可能出现1970年代式滞涨的担忧加剧。文章分析了当前市场的不同之处。",
+        "en": "The rise in oil prices due to the Iran war has heightened investors' fears of a potential 1970s-style stagflation. The article analyzes the differences in the current market.",
+        "de": "Der Anstieg der Ölpreise aufgrund des Iran-Kriegs hat die Ängste der Anleger vor einer möglichen Stagflation im Stil der 1970er Jahre verstärkt. Der Artikel analysiert die Unterschiede im aktuellen Markt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-13",
       "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "四季度GDP修正为仅增长0.7%；一月份核心通胀为3.1%",
-        "en": "Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%",
-        "de": "BIP des vierten Quartals auf nur 0,7 % Wachstum nach unten revidiert; Kerninflation im Januar betrug 3,1 %"
-      },
-      "summary": {
-        "zh": "最新数据显示，四季度GDP增长被修正为仅0.7%，而一月份的核心通胀率为3.1%。这些数据可能会影响市场对未来经济政策的预期。",
-        "en": "Latest data shows that fourth-quarter GDP growth has been revised down to just 0.7%, while January's core inflation rate was 3.1%. This data may influence market expectations for future economic policies.",
-        "de": "Neueste Daten zeigen, dass das BIP-Wachstum im vierten Quartal auf nur 0,7 % nach unten revidiert wurde, während die Kerninflation im Januar 3,1 % betrug. Diese Daten könnten die Markterwartungen für zukünftige Wirtschaftspolitiken beeinflussen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-13",
-      "url": "https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html"
     }
   ]
 }
