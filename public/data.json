@@ -1,149 +1,149 @@
 {
-  "generatedAt": "2026-03-18T05:47:20.569033+00:00",
+  "generatedAt": "2026-03-18T17:35:06.484665+00:00",
   "aiNews": [
     {
       "id": "ai-1",
+      "title": {
+        "zh": "下载：五角大楼的新人工智能计划，以及下一代核反应堆",
+        "en": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+        "de": "Der Download: Die neuen KI-Pläne des Pentagons und nächste Generation von Kernreaktoren"
+      },
+      "summary": {
+        "zh": "五角大楼正在制定新的人工智能计划，包括为军事特定版本的模型提供安全训练环境。这些计划可能会对国防技术的未来产生重大影响。",
+        "en": "The Pentagon is developing new AI plans that include providing secure training environments for military-specific versions of models. These plans could have significant implications for the future of defense technology.",
+        "de": "Das Pentagon entwickelt neue KI-Pläne, die die Bereitstellung sicherer Trainingsumgebungen für militärspezifische Versionen von Modellen umfassen. Diese Pläne könnten erhebliche Auswirkungen auf die Zukunft der Verteidigungstechnologie haben."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-03-18",
+      "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/"
+    },
+    {
+      "id": "ai-2",
       "title": {
         "zh": "五角大楼计划让人工智能公司在机密数据上进行训练，国防官员表示",
         "en": "The Pentagon is planning for AI companies to train on classified data, defense official says",
         "de": "Das Pentagon plant, dass KI-Unternehmen auf geheimen Daten trainieren, sagt ein Verteidigungsbeamter"
       },
       "summary": {
-        "zh": "五角大楼正在讨论为生成性人工智能公司建立安全环境，以便在军事特定版本的模型上进行训练。这一计划旨在利用机密数据来增强军事能力。",
-        "en": "The Pentagon is discussing plans to establish secure environments for generative AI companies to train military-specific versions of their models. This initiative aims to leverage classified data to enhance military capabilities.",
-        "de": "Das Pentagon diskutiert Pläne zur Einrichtung sicherer Umgebungen für generative KI-Unternehmen, um militärspezifische Versionen ihrer Modelle zu trainieren. Diese Initiative zielt darauf ab, geheime Daten zu nutzen, um die militärischen Fähigkeiten zu verbessern."
+        "zh": "国防官员透露，五角大楼正在考虑为生成性人工智能公司提供训练环境，以便它们可以在机密数据上开发军事特定的模型。这一举措旨在增强国防能力。",
+        "en": "A defense official revealed that the Pentagon is considering providing training environments for generative AI companies to develop military-specific models on classified data. This initiative aims to enhance defense capabilities.",
+        "de": "Ein Verteidigungsbeamter enthüllte, dass das Pentagon in Erwägung zieht, Trainingsumgebungen für generative KI-Unternehmen bereitzustellen, um militärspezifische Modelle auf geheimen Daten zu entwickeln. Diese Initiative zielt darauf ab, die Verteidigungsfähigkeiten zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-17",
       "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "下载：OpenAI与美国军方的交易，以及Grok的CSAM诉讼",
-        "en": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-        "de": "Der Download: OpenAI's US-Militärdeal und Groks CSAM-Klage"
-      },
-      "summary": {
-        "zh": "本期下载涵盖了OpenAI与美国军方的交易以及Grok面临的儿童性虐待材料（CSAM）诉讼。这些事件反映了技术与军事和法律之间的复杂交互。",
-        "en": "This edition of The Download covers OpenAI's deal with the US military and Grok's lawsuit regarding child sexual abuse material (CSAM). These events highlight the complex interactions between technology, military, and legal frameworks.",
-        "de": "Diese Ausgabe von The Download behandelt den Deal von OpenAI mit dem US-Militär und die Klage von Grok bezüglich kinderpornografischen Materials (CSAM). Diese Ereignisse verdeutlichen die komplexen Wechselwirkungen zwischen Technologie, Militär und rechtlichen Rahmenbedingungen."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-03-17",
-      "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "为什么物理人工智能正在成为制造业的下一个优势",
-        "en": "Why physical AI is becoming manufacturing’s next advantage",
-        "de": "Warum physische KI zum nächsten Vorteil der Fertigung wird"
+        "zh": "供应链攻击使用不可见代码袭击GitHub和其他存储库",
+        "en": "Supply-chain attack using invisible code hits GitHub and other repositories",
+        "de": "Lieferkettenangriff mit unsichtbarem Code trifft GitHub und andere Repositories"
       },
       "summary": {
-        "zh": "制造商正在追求物理人工智能，以提高效率、降低成本并稳定运营。此技术的应用可能会在未来的制造业中带来显著的竞争优势。",
-        "en": "Manufacturers are pursuing physical AI to drive efficiency, reduce costs, and stabilize operations. The application of this technology could bring significant competitive advantages in the future of manufacturing.",
-        "de": "Hersteller verfolgen physische KI, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Die Anwendung dieser Technologie könnte in der Zukunft der Fertigung erhebliche Wettbewerbsvorteile bringen."
+        "zh": "研究人员发现，使用人眼不可见的Unicode代码的供应链攻击已对GitHub和其他代码存储库造成影响。这一新型攻击方式引发了对网络安全的广泛关注。",
+        "en": "Researchers have discovered that a supply-chain attack using Unicode code invisible to the human eye has impacted GitHub and other code repositories. This new type of attack has raised significant concerns about cybersecurity.",
+        "de": "Forscher haben entdeckt, dass ein Lieferkettenangriff, der Unicode-Code verwendet, der für das menschliche Auge unsichtbar ist, GitHub und andere Code-Repositories betroffen hat. Diese neue Art von Angriff hat erhebliche Bedenken hinsichtlich der Cybersicherheit aufgeworfen."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-03-13",
-      "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/"
+      "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "古巴在美国石油封锁中恢复电力，经历29小时停电",
-        "en": "Cuba restores power after 29-hour blackout amid US oil blockade",
-        "de": "Kuba stellt nach 29-stündigem Stromausfall während der US-Ölblockade die Stromversorgung wieder her"
+        "zh": "伊朗情报部长艾斯梅尔·哈提布在空袭中被杀",
+        "en": "Iran's intelligence minister Esmail Khatib killed in air strike",
+        "de": "Irans Geheimdienstminister Esmail Khatib bei Luftangriff getötet"
       },
       "summary": {
-        "zh": "古巴在经历了29小时的停电后，国家电网恢复供电。这次停电发生在美国对古巴的石油封锁背景下，影响了该国1000万人口。",
-        "en": "Cuba's national power grid has been restored after a 29-hour blackout. This outage occurred amid the US oil blockade, affecting the country's 10 million residents.",
-        "de": "Das nationale Stromnetz Kubas wurde nach einem 29-stündigen Stromausfall wiederhergestellt. Dieser Ausfall ereignete sich im Zuge der US-Ölblockade und betraf die 10 Millionen Einwohner des Landes."
+        "zh": "以色列确认已在空袭中杀死伊朗情报部长艾斯梅尔·哈提布，伊朗总统马苏德·佩泽什基安证实了这一消息。这一事件可能会加剧地区紧张局势。",
+        "en": "Israel has confirmed the killing of Iran's intelligence minister Esmail Khatib in an air strike, with Iranian President Masoud Pezeshkian confirming the news. This incident could escalate tensions in the region.",
+        "de": "Israel hat die Tötung des iranischen Geheimdienstministers Esmail Khatib bei einem Luftangriff bestätigt, wobei der iranische Präsident Masoud Pezeshkian die Nachricht bestätigte. Dieses Ereignis könnte die Spannungen in der Region verschärfen."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-03-18",
-      "url": "https://www.aljazeera.com/economy/2026/3/18/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普确认与中国国家主席习近平的会晤因伊朗战争而推迟",
-        "en": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages",
-        "de": "Trump bestätigt, dass das Treffen mit Chinas Xi Jinping aufgrund des Krieges gegen den Iran verschoben wurde"
+        "zh": "在德黑兰的波斯新年庆祝活动中枪声驱散人群",
+        "en": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
+        "de": "Schüsse zerstreuen die Menge während der Feierlichkeiten zum persischen Neujahr in Teheran"
       },
       "summary": {
-        "zh": "特朗普总统因伊朗战争的持续而推迟了与中国国家主席习近平的会晤，同时寻求中国的帮助以重新开放霍尔木兹海峡。",
-        "en": "President Trump has delayed his meeting with China's Xi Jinping due to the ongoing war in Iran, while also seeking China's assistance to reopen the Strait of Hormuz.",
-        "de": "Präsident Trump hat sein Treffen mit Chinas Xi Jinping aufgrund des anhaltenden Krieges im Iran verschoben und sucht gleichzeitig Chinas Unterstützung, um die Straße von Hormuz wieder zu öffnen."
+        "zh": "在德黑兰庆祝查哈尔香巴尔节的活动中，枪声响起，导致人群四散而逃。这一事件引发了对安全和公共秩序的担忧。",
+        "en": "Gunshots erupted during the Chaharshanbe Suri celebrations in Tehran, causing the crowd to flee. This incident raises concerns about safety and public order.",
+        "de": "Während der Feierlichkeiten zum Chaharshanbe Suri in Teheran ertönten Schüsse, die die Menge zur Flucht brachten. Dieses Ereignis wirft Bedenken hinsichtlich der Sicherheit und der öffentlichen Ordnung auf."
       },
       "source": "Al Jazeera",
       "date": "2026-03-18",
-      "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/gunshots-disperse-crowd-during-persian-new-year-festivities-in-tehran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普政府在美国法院为Anthropic黑名单辩护",
-        "en": "Trump administration defends Anthropic blacklisting in US court",
-        "de": "Trump-Administration verteidigt die Blacklistung von Anthropic vor US-Gericht"
+        "zh": "美国总统或国会？谁有权宣战？",
+        "en": "President or Congress? Who in the US has the power to declare war?",
+        "de": "Präsident oder Kongress? Wer in den USA hat das Recht, Krieg zu erklären?"
       },
       "summary": {
-        "zh": "特朗普政府在美国法院为将Anthropic列入黑名单的决定辩护，国防部长将其指定为“供应链风险”，因其拒绝移除技术上的保护措施。",
-        "en": "The Trump administration is defending its decision to blacklist Anthropic in US court, with the defense secretary designating it as a 'supply chain risk' after it refused to remove guardrails on its technology.",
-        "de": "Die Trump-Administration verteidigt ihre Entscheidung, Anthropic vor US-Gericht auf die schwarze Liste zu setzen, wobei der Verteidigungsminister es als 'Lieferkettenrisiko' einstuft, nachdem es sich geweigert hatte, Schutzmaßnahmen für seine Technologie zu entfernen."
+        "zh": "美国总统长期以来一直绕过国会的权力，反对的立法者也常常试图反击。这一问题引发了关于战争权力的广泛讨论。",
+        "en": "US presidents have long bypassed Congress's authority, and dissenting lawmakers have often tried to push back. This issue has sparked widespread discussion about the power to declare war.",
+        "de": "US-Präsidenten haben seit langem die Autorität des Kongresses umgangen, und abweichende Gesetzgeber haben oft versucht, sich zu wehren. Dieses Thema hat eine weitreichende Diskussion über das Recht, Krieg zu erklären, ausgelöst."
       },
       "source": "Al Jazeera",
       "date": "2026-03-18",
-      "url": "https://www.aljazeera.com/economy/2026/3/18/trump-administration-defends-anthropic-blacklisting-in-us-court?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "贝森特表示财政部未干预石油商品市场，且没有权力这样做",
-        "en": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
-        "de": "Bessent sagt, das Finanzministerium greift nicht in die Ölrohstoffmärkte ein und hat keine Befugnis dazu"
+        "zh": "2月份批发价格上涨0.7%，远超预期，年增3.4%",
+        "en": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
+        "de": "Die Großhandelspreise stiegen im Februar um 0,7 %, was weit über den Erwartungen liegt, und jährlich um 3,4 %."
       },
       "summary": {
-        "zh": "贝森特回应了关于财政部可能介入以降低油价的传言，强调财政部没有权力干预石油商品市场。",
-        "en": "Bessent addressed rumors regarding the Treasury Department potentially intervening to lower oil prices, emphasizing that the Treasury has no authority to intervene in oil commodities markets.",
-        "de": "Bessent sprach Gerüchte an, dass das Finanzministerium möglicherweise eingreifen könnte, um die Ölpreise zu senken, und betonte, dass das Finanzministerium keine Befugnis hat, in die Ölrohstoffmärkte einzugreifen."
+        "zh": "2月份的批发价格大幅上涨，显示出通货膨胀的持续压力，尽管能源价格上涨。此数据可能影响未来的货币政策。",
+        "en": "Wholesale prices surged in February, indicating ongoing inflationary pressures despite rising energy prices. This data could influence future monetary policy.",
+        "de": "Die Großhandelspreise stiegen im Februar stark an, was auf anhaltenden Inflationsdruck hinweist, trotz steigender Energiepreise. Diese Daten könnten die zukünftige Geldpolitik beeinflussen."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-18",
+      "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "财政部表示不会干预石油商品市场，且没有权力这样做",
+        "en": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
+        "de": "Bessent sagt, das Finanzministerium greift nicht in die Ölrohstoffmärkte ein und hat keine Befugnis dazu."
+      },
+      "summary": {
+        "zh": "财政部官员表示，财政部不会干预石油商品市场，消除了有关政府可能采取行动以降低油价的传言。",
+        "en": "Treasury officials stated that the department will not intervene in oil commodities markets, dispelling rumors of potential government action to lower oil prices.",
+        "de": "Beamte des Finanzministeriums erklärten, dass die Abteilung nicht in die Ölrohstoffmärkte eingreifen wird, und räumten Gerüchte über mögliche Regierungsmaßnahmen zur Senkung der Ölpreise aus."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-16",
       "url": "https://www.cnbc.com/2026/03/16/bessent-says-treasury-is-not-intervening-in-oil-commodities-markets-and-has-no-authority-to-do-so.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "特朗普暗示可能推迟与北京的峰会，因美国施压中国帮助重新开放霍尔木兹海峡",
-        "en": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
-        "de": "Trump signalisiert mögliche Verzögerung des Peking-Gipfels, während die USA China drängen, die Straße von Hormuz wieder zu öffnen"
-      },
-      "summary": {
-        "zh": "特朗普在与中国财政部长会晤时暗示可能推迟与中国的峰会，因美国希望中国协助重新开放霍尔木兹海峡。",
-        "en": "Trump hinted at a possible delay to the summit with China during a meeting with the Chinese finance minister, as the US seeks China's assistance to reopen the Strait of Hormuz.",
-        "de": "Trump deutete während eines Treffens mit dem chinesischen Finanzminister auf eine mögliche Verzögerung des Gipfels mit China hin, während die USA Chinas Unterstützung zur Wiedereröffnung der Straße von Hormuz suchen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-16",
-      "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗战争油价冲击引发对1970年代滞涨的担忧——这次可能不同",
+        "zh": "伊朗战争石油冲击引发对1970年代滞涨的担忧——这次可能有所不同",
         "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
-        "de": "Öl-Schock durch den Iran-Krieg schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es diesmal anders sein könnte"
+        "de": "Der Iran-Kriegsöl-Schock schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es diesmal anders sein könnte"
       },
       "summary": {
-        "zh": "一些投资者将当前的市场状况与1970年代的滞涨进行比较，但分析指出，当前的经济环境与当时存在关键差异，这可能影响未来的市场走势。",
-        "en": "Some investors are drawing comparisons between the current market conditions and the stagflation of the 1970s, but analysts note that there are key differences in the current economic environment that could affect future market trends.",
-        "de": "Einige Investoren ziehen Vergleiche zwischen den aktuellen Marktbedingungen und der Stagflation der 1970er Jahre, aber Analysten weisen darauf hin, dass es im aktuellen wirtschaftlichen Umfeld entscheidende Unterschiede gibt, die die zukünftigen Markttrends beeinflussen könnten."
+        "zh": "一些投资者将当前的油价上涨与1970年代的滞涨相提并论，但分析师指出这次的经济背景有显著不同，可能会影响市场走势。",
+        "en": "Some investors are drawing parallels between the current rise in oil prices and the stagflation of the 1970s, but analysts note that the economic context this time is significantly different, which may affect market trends.",
+        "de": "Einige Investoren ziehen Parallelen zwischen dem aktuellen Anstieg der Ölpreise und der Stagflation der 1970er Jahre, aber Analysten weisen darauf hin, dass der wirtschaftliche Kontext diesmal erheblich anders ist, was die Markttrends beeinflussen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-13",
