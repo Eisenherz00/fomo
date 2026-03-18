@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-03-17T17:33:40.998436+00:00",
+  "generatedAt": "2026-03-18T05:47:20.569033+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：OpenAI与美国军方的交易，以及Grok的CSAM诉讼",
-        "en": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-        "de": "Der Download: OpenAIs US-Militärdeal und Groks CSAM-Klage"
+        "zh": "五角大楼计划让人工智能公司在机密数据上进行训练，国防官员表示",
+        "en": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+        "de": "Das Pentagon plant, dass KI-Unternehmen auf geheimen Daten trainieren, sagt ein Verteidigungsbeamter"
       },
       "summary": {
-        "zh": "OpenAI与美国军方达成了一项重要协议，同时Grok面临与儿童性虐待材料（CSAM）相关的诉讼。这些事件突显了AI技术在军事和法律领域的复杂性。",
-        "en": "OpenAI has reached a significant agreement with the US military, while Grok faces a lawsuit related to child sexual abuse material (CSAM). These events highlight the complexities of AI technology in military and legal domains.",
-        "de": "OpenAI hat eine bedeutende Vereinbarung mit dem US-Militär getroffen, während Grok mit einer Klage im Zusammenhang mit Kindersexmissbrauchsmaterial (CSAM) konfrontiert ist. Diese Ereignisse verdeutlichen die Komplexität der KI-Technologie in militärischen und rechtlichen Bereichen."
+        "zh": "五角大楼正在讨论为生成性人工智能公司建立安全环境，以便在军事特定版本的模型上进行训练。这一计划旨在利用机密数据来增强军事能力。",
+        "en": "The Pentagon is discussing plans to establish secure environments for generative AI companies to train military-specific versions of their models. This initiative aims to leverage classified data to enhance military capabilities.",
+        "de": "Das Pentagon diskutiert Pläne zur Einrichtung sicherer Umgebungen für generative KI-Unternehmen, um militärspezifische Versionen ihrer Modelle zu trainieren. Diese Initiative zielt darauf ab, geheime Daten zu nutzen, um die militärischen Fähigkeiten zu verbessern."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-03-17",
+      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "下载：OpenAI与美国军方的交易，以及Grok的CSAM诉讼",
+        "en": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+        "de": "Der Download: OpenAI's US-Militärdeal und Groks CSAM-Klage"
+      },
+      "summary": {
+        "zh": "本期下载涵盖了OpenAI与美国军方的交易以及Grok面临的儿童性虐待材料（CSAM）诉讼。这些事件反映了技术与军事和法律之间的复杂交互。",
+        "en": "This edition of The Download covers OpenAI's deal with the US military and Grok's lawsuit regarding child sexual abuse material (CSAM). These events highlight the complex interactions between technology, military, and legal frameworks.",
+        "de": "Diese Ausgabe von The Download behandelt den Deal von OpenAI mit dem US-Militär und die Klage von Grok bezüglich kinderpornografischen Materials (CSAM). Diese Ereignisse verdeutlichen die komplexen Wechselwirkungen zwischen Technologie, Militär und rechtlichen Rahmenbedingungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-17",
       "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "未来的AI芯片可能会建立在玻璃上",
-        "en": "Future AI chips could be built on glass",
-        "de": "Zukünftige KI-Chips könnten auf Glas gebaut werden"
-      },
-      "summary": {
-        "zh": "人造玻璃可能会在未来的AI芯片中发挥重要作用，尤其是在大型数据中心的应用中。这一发展可能会改变AI硬件的制造方式。",
-        "en": "Man-made glass may play a significant role in future AI chips, particularly in applications within large data centers. This development could change the manufacturing of AI hardware.",
-        "de": "Künstliches Glas könnte eine bedeutende Rolle bei zukünftigen KI-Chips spielen, insbesondere in Anwendungen innerhalb großer Rechenzentren. Diese Entwicklung könnte die Herstellung von KI-Hardware verändern."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-03-13",
-      "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "为什么物理AI正在成为制造业的下一个优势",
+        "zh": "为什么物理人工智能正在成为制造业的下一个优势",
         "en": "Why physical AI is becoming manufacturing’s next advantage",
         "de": "Warum physische KI zum nächsten Vorteil der Fertigung wird"
       },
       "summary": {
-        "zh": "物理AI正在改变制造业，通过提高效率和降低成本来推动行业发展。这一趋势可能会在未来几年内继续加速。",
-        "en": "Physical AI is transforming manufacturing by enhancing efficiency and reducing costs. This trend is likely to accelerate in the coming years.",
-        "de": "Physische KI transformiert die Fertigung, indem sie die Effizienz steigert und die Kosten senkt. Dieser Trend wird voraussichtlich in den kommenden Jahren zunehmen."
+        "zh": "制造商正在追求物理人工智能，以提高效率、降低成本并稳定运营。此技术的应用可能会在未来的制造业中带来显著的竞争优势。",
+        "en": "Manufacturers are pursuing physical AI to drive efficiency, reduce costs, and stabilize operations. The application of this technology could bring significant competitive advantages in the future of manufacturing.",
+        "de": "Hersteller verfolgen physische KI, um Effizienz zu steigern, Kosten zu senken und den Betrieb zu stabilisieren. Die Anwendung dieser Technologie könnte in der Zukunft der Fertigung erhebliche Wettbewerbsvorteile bringen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-13",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列在西岸进行“大规模驱逐巴勒斯坦人”，联合国警告",
-        "en": "Israel carrying out ‘mass expulsion of Palestinians’ in West Bank, UN warns",
-        "de": "Israel führt 'massive Vertreibung von Palästinensern' im Westjordanland durch, warnt die UN"
+        "zh": "古巴在美国石油封锁中恢复电力，经历29小时停电",
+        "en": "Cuba restores power after 29-hour blackout amid US oil blockade",
+        "de": "Kuba stellt nach 29-stündigem Stromausfall während der US-Ölblockade die Stromversorgung wieder her"
       },
       "summary": {
-        "zh": "联合国人权办公室警告称，过去一年中有超过36,000名巴勒斯坦人因以色列定居者和军队的暴力而被强行驱逐。这一情况引发了国际社会的广泛关注。",
-        "en": "The UN rights office warns that over 36,000 Palestinians have been forcibly displaced in the past year due to violence from Israeli settlers and the army. This situation has drawn widespread international concern.",
-        "de": "Das UN-Rechtsbüro warnt, dass im vergangenen Jahr über 36.000 Palästinenser aufgrund von Gewalt durch israelische Siedler und die Armee gewaltsam vertrieben wurden. Diese Situation hat weitreichende internationale Besorgnis ausgelöst."
+        "zh": "古巴在经历了29小时的停电后，国家电网恢复供电。这次停电发生在美国对古巴的石油封锁背景下，影响了该国1000万人口。",
+        "en": "Cuba's national power grid has been restored after a 29-hour blackout. This outage occurred amid the US oil blockade, affecting the country's 10 million residents.",
+        "de": "Das nationale Stromnetz Kubas wurde nach einem 29-stündigen Stromausfall wiederhergestellt. Dieser Ausfall ereignete sich im Zuge der US-Ölblockade und betraf die 10 Millionen Einwohner des Landes."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-17",
-      "url": "https://www.aljazeera.com/news/2026/3/17/israel-carrying-out-mass-expulsion-of-palestinians-in-west-bank-un-warns?traffic_source=rss"
+      "date": "2026-03-18",
+      "url": "https://www.aljazeera.com/economy/2026/3/18/cuba-restores-power-after-29-hour-blackout-amid-us-oil-blockade?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "前比利时外交官因刚果卢蒙巴谋杀案被命令受审",
-        "en": "Ex-Belgian diplomat ordered to stand trial over murder of Congo’s Lumumba",
-        "de": "Ehemaliger belgischer Diplomat wegen Mordes an Lumumba aus dem Kongo vor Gericht gestellt"
+        "zh": "特朗普确认与中国国家主席习近平的会晤因伊朗战争而推迟",
+        "en": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages",
+        "de": "Trump bestätigt, dass das Treffen mit Chinas Xi Jinping aufgrund des Krieges gegen den Iran verschoben wurde"
       },
       "summary": {
-        "zh": "93岁的埃蒂安·达维尼翁是十名被刚果领导人家属指控共谋的比利时人中唯一幸存者，他将面临审判。这一案件引发了对殖民历史的重新审视。",
-        "en": "Etienne Davignon, 93, is the only surviving Belgian among ten accused by the Congolese leader's family of complicity in the murder. This case has sparked a re-examination of colonial history.",
-        "de": "Etienne Davignon, 93, ist der einzige Überlebende unter zehn Belgiern, die von der Familie des kongolesischen Führers der Komplizenschaft beim Mord beschuldigt werden. Dieser Fall hat eine Neubewertung der Kolonialgeschichte ausgelöst."
+        "zh": "特朗普总统因伊朗战争的持续而推迟了与中国国家主席习近平的会晤，同时寻求中国的帮助以重新开放霍尔木兹海峡。",
+        "en": "President Trump has delayed his meeting with China's Xi Jinping due to the ongoing war in Iran, while also seeking China's assistance to reopen the Strait of Hormuz.",
+        "de": "Präsident Trump hat sein Treffen mit Chinas Xi Jinping aufgrund des anhaltenden Krieges im Iran verschoben und sucht gleichzeitig Chinas Unterstützung, um die Straße von Hormuz wieder zu öffnen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-17",
-      "url": "https://www.aljazeera.com/news/2026/3/17/belgium-diplomat-ordered-to-stand-trial-over-killing-of-patrice-lumumba?traffic_source=rss"
+      "date": "2026-03-18",
+      "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国反恐官员因伊朗战争辞职，敦促特朗普“改变方向”",
-        "en": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-        "de": "Top-US-Behördenvertreter für Terrorismusbekämpfung tritt wegen Iran-Krieg zurück und fordert Trump auf, 'den Kurs zu ändern'"
+        "zh": "特朗普政府在美国法院为Anthropic黑名单辩护",
+        "en": "Trump administration defends Anthropic blacklisting in US court",
+        "de": "Trump-Administration verteidigt die Blacklistung von Anthropic vor US-Gericht"
       },
       "summary": {
-        "zh": "国家反恐中心主任乔·肯特因特朗普在以色列压力下发动的战争辞职，称此举是错误的。这一辞职引发了对美国外交政策的质疑。",
-        "en": "National Counterterrorism Center Director Joe Kent resigned over the war initiated by Trump under pressure from Israel, calling it a mistake. This resignation raises questions about US foreign policy.",
-        "de": "Joe Kent, Direktor des Nationalen Zentrums für Terrorismusbekämpfung, trat wegen des von Trump unter Druck von Israel initiierten Krieges zurück und bezeichnete ihn als Fehler. Dieser Rücktritt wirft Fragen zur US-Außenpolitik auf."
+        "zh": "特朗普政府在美国法院为将Anthropic列入黑名单的决定辩护，国防部长将其指定为“供应链风险”，因其拒绝移除技术上的保护措施。",
+        "en": "The Trump administration is defending its decision to blacklist Anthropic in US court, with the defense secretary designating it as a 'supply chain risk' after it refused to remove guardrails on its technology.",
+        "de": "Die Trump-Administration verteidigt ihre Entscheidung, Anthropic vor US-Gericht auf die schwarze Liste zu setzen, wobei der Verteidigungsminister es als 'Lieferkettenrisiko' einstuft, nachdem es sich geweigert hatte, Schutzmaßnahmen für seine Technologie zu entfernen."
       },
-      "source": "BBC News",
-      "date": "2026-03-17",
-      "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-03-18",
+      "url": "https://www.aljazeera.com/economy/2026/3/18/trump-administration-defends-anthropic-blacklisting-in-us-court?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国不需要在伊朗获得帮助，特朗普表示，北约成员国拒绝请求，油价上涨",
-        "en": "U.S. doesn’t need help in Iran, Trump says, as NATO members rebuff plea and oil prices climb",
-        "de": "Die USA benötigen keine Hilfe in Iran, sagt Trump, während NATO-Mitglieder den Appell zurückweisen und die Ölpreise steigen"
+        "zh": "贝森特表示财政部未干预石油商品市场，且没有权力这样做",
+        "en": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
+        "de": "Bessent sagt, das Finanzministerium greift nicht in die Ölrohstoffmärkte ein und hat keine Befugnis dazu"
       },
       "summary": {
-        "zh": "特朗普表示，美国在伊朗的行动不需要外部帮助，此时北约成员国拒绝了美国的请求，油价继续上涨。这一局势可能对全球市场产生深远影响。",
-        "en": "Trump stated that the U.S. does not need external help in Iran, as NATO members rebuff the U.S. plea and oil prices continue to rise. This situation could have far-reaching implications for global markets.",
-        "de": "Trump erklärte, dass die USA keine externe Hilfe in Iran benötigen, während NATO-Mitglieder den US-Appell zurückweisen und die Ölpreise weiter steigen. Diese Situation könnte weitreichende Auswirkungen auf die globalen Märkte haben."
+        "zh": "贝森特回应了关于财政部可能介入以降低油价的传言，强调财政部没有权力干预石油商品市场。",
+        "en": "Bessent addressed rumors regarding the Treasury Department potentially intervening to lower oil prices, emphasizing that the Treasury has no authority to intervene in oil commodities markets.",
+        "de": "Bessent sprach Gerüchte an, dass das Finanzministerium möglicherweise eingreifen könnte, um die Ölpreise zu senken, und betonte, dass das Finanzministerium keine Befugnis hat, in die Ölrohstoffmärkte einzugreifen."
       },
-      "source": "MarketWatch",
-      "date": "2026-03-17",
-      "url": "https://www.marketwatch.com/story/u-s-doesnt-need-help-in-iran-trump-says-as-nato-rebuffs-plea-and-oil-prices-climb-58785aaf?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-03-16",
+      "url": "https://www.cnbc.com/2026/03/16/bessent-says-treasury-is-not-intervening-in-oil-commodities-markets-and-has-no-authority-to-do-so.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国、达美航空在油价飙升中逆势而上，提升收入前景",
-        "en": "American, Delta defy oil-price spike and boost revenue outlooks as travel demand accelerates",
-        "de": "American, Delta trotzen dem Anstieg der Ölpreise und heben die Umsatzprognosen an, da die Reisednachfrage steigt"
+        "zh": "特朗普暗示可能推迟与北京的峰会，因美国施压中国帮助重新开放霍尔木兹海峡",
+        "en": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+        "de": "Trump signalisiert mögliche Verzögerung des Peking-Gipfels, während die USA China drängen, die Straße von Hormuz wieder zu öffnen"
       },
       "summary": {
-        "zh": "美国航空和达美航空在油价飙升的情况下，依然提升了收入前景，显示出旅行需求的加速。这一趋势可能会影响航空业的未来表现。",
-        "en": "American Airlines and Delta have raised their revenue outlooks despite the spike in oil prices, indicating an acceleration in travel demand. This trend may impact the future performance of the airline industry.",
-        "de": "American Airlines und Delta haben trotz des Anstiegs der Ölpreise ihre Umsatzprognosen angehoben, was auf eine Beschleunigung der Reisednachfrage hinweist. Dieser Trend könnte die zukünftige Leistung der Fluggesellschaften beeinflussen."
+        "zh": "特朗普在与中国财政部长会晤时暗示可能推迟与中国的峰会，因美国希望中国协助重新开放霍尔木兹海峡。",
+        "en": "Trump hinted at a possible delay to the summit with China during a meeting with the Chinese finance minister, as the US seeks China's assistance to reopen the Strait of Hormuz.",
+        "de": "Trump deutete während eines Treffens mit dem chinesischen Finanzminister auf eine mögliche Verzögerung des Gipfels mit China hin, während die USA Chinas Unterstützung zur Wiedereröffnung der Straße von Hormuz suchen."
       },
-      "source": "MarketWatch",
-      "date": "2026-03-17",
-      "url": "https://www.marketwatch.com/story/delta-defies-oil-price-spike-and-boosts-its-revenue-outlook-as-travel-demand-accelerates-3a24d526?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-03-16",
+      "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "这些软件股票自伊朗冲突开始以来表现出色",
-        "en": "These software stocks have turned things around and outperformed since the Iran conflict began",
-        "de": "Diese Software-Aktien haben sich seit Beginn des Iran-Konflikts erholt und übertroffen"
+        "zh": "伊朗战争油价冲击引发对1970年代滞涨的担忧——这次可能不同",
+        "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
+        "de": "Öl-Schock durch den Iran-Krieg schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es diesmal anders sein könnte"
       },
       "summary": {
-        "zh": "一些在2026年表现较弱的市场领域自伊朗冲突开始以来已转变为表现优异的领域。这一变化可能会影响投资者的策略。",
-        "en": "Some previously weak areas of the market have turned into outperformers since the onset of the Iran conflict in 2026. This shift may influence investor strategies.",
-        "de": "Einige zuvor schwache Marktbereiche haben sich seit Beginn des Iran-Konflikts im Jahr 2026 zu Überperformern entwickelt. Diese Verschiebung könnte die Strategien der Investoren beeinflussen."
+        "zh": "一些投资者将当前的市场状况与1970年代的滞涨进行比较，但分析指出，当前的经济环境与当时存在关键差异，这可能影响未来的市场走势。",
+        "en": "Some investors are drawing comparisons between the current market conditions and the stagflation of the 1970s, but analysts note that there are key differences in the current economic environment that could affect future market trends.",
+        "de": "Einige Investoren ziehen Vergleiche zwischen den aktuellen Marktbedingungen und der Stagflation der 1970er Jahre, aber Analysten weisen darauf hin, dass es im aktuellen wirtschaftlichen Umfeld entscheidende Unterschiede gibt, die die zukünftigen Markttrends beeinflussen könnten."
       },
-      "source": "MarketWatch",
-      "date": "2026-03-17",
-      "url": "https://www.marketwatch.com/story/these-software-stocks-have-turned-things-around-and-outperformed-since-the-iran-war-began-167872b7?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-03-13",
+      "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
     }
   ]
 }
