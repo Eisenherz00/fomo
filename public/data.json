@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-18T17:35:06.484665+00:00",
+  "generatedAt": "2026-03-19T05:43:47.240992+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "下载：五角大楼的新人工智能计划，以及下一代核反应堆",
         "en": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
-        "de": "Der Download: Die neuen KI-Pläne des Pentagons und nächste Generation von Kernreaktoren"
+        "de": "Der Download: Die neuen KI-Pläne des Pentagon und nächste Generation von Kernreaktoren"
       },
       "summary": {
-        "zh": "五角大楼正在制定新的人工智能计划，包括为军事特定版本的模型提供安全训练环境。这些计划可能会对国防技术的未来产生重大影响。",
-        "en": "The Pentagon is developing new AI plans that include providing secure training environments for military-specific versions of models. These plans could have significant implications for the future of defense technology.",
-        "de": "Das Pentagon entwickelt neue KI-Pläne, die die Bereitstellung sicherer Trainingsumgebungen für militärspezifische Versionen von Modellen umfassen. Diese Pläne könnten erhebliche Auswirkungen auf die Zukunft der Verteidigungstechnologie haben."
+        "zh": "五角大楼正在制定新的人工智能计划，旨在利用先进技术来增强国防能力。同时，下一代核反应堆的开发也在进行中，可能会对能源生产和废物管理产生重大影响。",
+        "en": "The Pentagon is formulating new AI plans aimed at leveraging advanced technology to enhance defense capabilities. Concurrently, the development of next-generation nuclear reactors is underway, which could significantly impact energy production and waste management.",
+        "de": "Das Pentagon formuliert neue KI-Pläne, die darauf abzielen, fortschrittliche Technologien zur Verbesserung der Verteidigungsfähigkeiten zu nutzen. Gleichzeitig wird die Entwicklung von Kernreaktoren der nächsten Generation vorangetrieben, die erhebliche Auswirkungen auf die Energieproduktion und Abfallbewirtschaftung haben könnten."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-18",
@@ -25,9 +25,9 @@
         "de": "Das Pentagon plant, dass KI-Unternehmen auf geheimen Daten trainieren, sagt ein Verteidigungsbeamter"
       },
       "summary": {
-        "zh": "国防官员透露，五角大楼正在考虑为生成性人工智能公司提供训练环境，以便它们可以在机密数据上开发军事特定的模型。这一举措旨在增强国防能力。",
-        "en": "A defense official revealed that the Pentagon is considering providing training environments for generative AI companies to develop military-specific models on classified data. This initiative aims to enhance defense capabilities.",
-        "de": "Ein Verteidigungsbeamter enthüllte, dass das Pentagon in Erwägung zieht, Trainingsumgebungen für generative KI-Unternehmen bereitzustellen, um militärspezifische Modelle auf geheimen Daten zu entwickeln. Diese Initiative zielt darauf ab, die Verteidigungsfähigkeiten zu verbessern."
+        "zh": "五角大楼正在讨论为生成性人工智能公司设立安全环境，以便它们能够在机密数据上训练军事特定版本的模型。这一计划旨在提升军事技术的能力和安全性。",
+        "en": "The Pentagon is discussing plans to establish secure environments for generative AI companies to train military-specific versions of their models on classified data. This initiative aims to enhance military technology capabilities and security.",
+        "de": "Das Pentagon diskutiert Pläne zur Einrichtung sicherer Umgebungen für generative KI-Unternehmen, um militärspezifische Versionen ihrer Modelle auf geheimen Daten zu trainieren. Diese Initiative zielt darauf ab, die Fähigkeiten und die Sicherheit der Militärtechnologie zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-17",
@@ -36,82 +36,82 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "供应链攻击使用不可见代码袭击GitHub和其他存储库",
-        "en": "Supply-chain attack using invisible code hits GitHub and other repositories",
-        "de": "Lieferkettenangriff mit unsichtbarem Code trifft GitHub und andere Repositories"
+        "zh": "联邦网络专家称微软云是“垃圾”，但仍然批准",
+        "en": "Federal cyber experts called Microsoft's cloud a 'pile of shit,' approved it anyway",
+        "de": "Bundescyberexperten nannten die Cloud von Microsoft einen 'Haufen Scheiße', genehmigten sie aber trotzdem"
       },
       "summary": {
-        "zh": "研究人员发现，使用人眼不可见的Unicode代码的供应链攻击已对GitHub和其他代码存储库造成影响。这一新型攻击方式引发了对网络安全的广泛关注。",
-        "en": "Researchers have discovered that a supply-chain attack using Unicode code invisible to the human eye has impacted GitHub and other code repositories. This new type of attack has raised significant concerns about cybersecurity.",
-        "de": "Forscher haben entdeckt, dass ein Lieferkettenangriff, der Unicode-Code verwendet, der für das menschliche Auge unsichtbar ist, GitHub und andere Code-Repositories betroffen hat. Diese neue Art von Angriff hat erhebliche Bedenken hinsichtlich der Cybersicherheit aufgeworfen."
+        "zh": "尽管联邦网络专家对微软云的安全性表示严重担忧，但仍然批准了该产品。这一决定引发了对政府在技术安全性方面决策的质疑。",
+        "en": "Despite serious concerns from federal cyber experts regarding the security of Microsoft's cloud, the product was approved. This decision raises questions about government decision-making in technology security.",
+        "de": "Trotz ernsthafter Bedenken von Bundescyberexperten hinsichtlich der Sicherheit der Cloud von Microsoft wurde das Produkt genehmigt. Diese Entscheidung wirft Fragen zur Entscheidungsfindung der Regierung in Bezug auf Technologiesicherheit auf."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-03-13",
-      "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
+      "date": "2026-03-18",
+      "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗情报部长艾斯梅尔·哈提布在空袭中被杀",
-        "en": "Iran's intelligence minister Esmail Khatib killed in air strike",
-        "de": "Irans Geheimdienstminister Esmail Khatib bei Luftangriff getötet"
+        "zh": "美国情报机构不预计中国将在2027年入侵台湾",
+        "en": "US intelligence agencies not expecting China to invade Taiwan in 2027",
+        "de": "US-Geheimdienste erwarten nicht, dass China 2027 Taiwan angreift"
       },
       "summary": {
-        "zh": "以色列确认已在空袭中杀死伊朗情报部长艾斯梅尔·哈提布，伊朗总统马苏德·佩泽什基安证实了这一消息。这一事件可能会加剧地区紧张局势。",
-        "en": "Israel has confirmed the killing of Iran's intelligence minister Esmail Khatib in an air strike, with Iranian President Masoud Pezeshkian confirming the news. This incident could escalate tensions in the region.",
-        "de": "Israel hat die Tötung des iranischen Geheimdienstministers Esmail Khatib bei einem Luftangriff bestätigt, wobei der iranische Präsident Masoud Pezeshkian die Nachricht bestätigte. Dieses Ereignis könnte die Spannungen in der Region verschärfen."
+        "zh": "美国情报机构表示，中国领导层仍然更倾向于追求与台湾的统一，而不是使用武力。这一评估可能会影响未来的国际关系和安全政策。",
+        "en": "US intelligence agencies state that the Chinese leadership still prefers to pursue unification with Taiwan without the use of force. This assessment may impact future international relations and security policies.",
+        "de": "Die US-Geheimdienste erklären, dass die chinesische Führung weiterhin eine Vereinigung mit Taiwan ohne den Einsatz von Gewalt anstrebt. Diese Einschätzung könnte zukünftige internationale Beziehungen und Sicherheitsrichtlinien beeinflussen."
       },
-      "source": "BBC News – World",
-      "date": "2026-03-18",
-      "url": "https://www.bbc.com/news/articles/c2d1dz14k51o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-03-19",
+      "url": "https://www.aljazeera.com/news/2026/3/19/us-intelligence-agencies-not-expecting-china-to-invade-taiwan-in-2027?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "在德黑兰的波斯新年庆祝活动中枪声驱散人群",
-        "en": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
-        "de": "Schüsse zerstreuen die Menge während der Feierlichkeiten zum persischen Neujahr in Teheran"
+        "zh": "伊朗在近期战争动乱中处决三名被定罪的警察杀手",
+        "en": "Iran executes three convicted of killing police in recent pre-war unrest",
+        "de": "Iran vollstreckt die Todesstrafe gegen drei wegen Mordes an Polizisten in den jüngsten Unruhen verurteilten"
       },
       "summary": {
-        "zh": "在德黑兰庆祝查哈尔香巴尔节的活动中，枪声响起，导致人群四散而逃。这一事件引发了对安全和公共秩序的担忧。",
-        "en": "Gunshots erupted during the Chaharshanbe Suri celebrations in Tehran, causing the crowd to flee. This incident raises concerns about safety and public order.",
-        "de": "Während der Feierlichkeiten zum Chaharshanbe Suri in Teheran ertönten Schüsse, die die Menge zur Flucht brachten. Dieses Ereignis wirft Bedenken hinsichtlich der Sicherheit und der öffentlichen Ordnung auf."
+        "zh": "伊朗当局处决了三名被定罪的个人，他们被指控在最近的战争动乱中杀害了两名执法人员。这一行动引发了对伊朗司法系统的广泛批评。",
+        "en": "Iranian authorities executed three convicted individuals accused of killing two law enforcement personnel during recent pre-war unrest. This action has sparked widespread criticism of Iran's judicial system.",
+        "de": "Die iranischen Behörden haben drei verurteilte Personen hingerichtet, die beschuldigt wurden, während der jüngsten Unruhen zwei Polizeibeamte getötet zu haben. Diese Maßnahme hat weitreichende Kritik am iranischen Justizsystem ausgelöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/gunshots-disperse-crowd-during-persian-new-year-festivities-in-tehran?traffic_source=rss"
+      "date": "2026-03-19",
+      "url": "https://www.aljazeera.com/news/2026/3/19/iran-executes-three-convicted-of-killing-police-in-recent-pre-war-unrest?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国总统或国会？谁有权宣战？",
-        "en": "President or Congress? Who in the US has the power to declare war?",
-        "de": "Präsident oder Kongress? Wer in den USA hat das Recht, Krieg zu erklären?"
+        "zh": "美国民权领袖塞萨尔·查韦斯被指控性虐待",
+        "en": "US civil rights leader Cesar Chavez accused of sexual abuse",
+        "de": "US-Bürgerrechtsführer Cesar Chavez wegen sexuellen Missbrauchs angeklagt"
       },
       "summary": {
-        "zh": "美国总统长期以来一直绕过国会的权力，反对的立法者也常常试图反击。这一问题引发了关于战争权力的广泛讨论。",
-        "en": "US presidents have long bypassed Congress's authority, and dissenting lawmakers have often tried to push back. This issue has sparked widespread discussion about the power to declare war.",
-        "de": "US-Präsidenten haben seit langem die Autorität des Kongresses umgangen, und abweichende Gesetzgeber haben oft versucht, sich zu wehren. Dieses Thema hat eine weitreichende Diskussion über das Recht, Krieg zu erklären, ausgelöst."
+        "zh": "关于美国民权领袖塞萨尔·查韦斯的性虐待指控引发了广泛关注，这些指控导致计划中的活动和庆祝活动被取消。这一事件可能对他的遗产产生深远影响。",
+        "en": "Allegations of sexual abuse against US civil rights leader Cesar Chavez have garnered widespread attention, leading to the cancellation of planned events and celebrations. This incident may have far-reaching implications for his legacy.",
+        "de": "Die Vorwürfe des sexuellen Missbrauchs gegen den US-Bürgerrechtsführer Cesar Chavez haben breite Aufmerksamkeit erregt und zur Absage geplanter Veranstaltungen und Feiern geführt. Dieser Vorfall könnte weitreichende Auswirkungen auf sein Erbe haben."
       },
-      "source": "Al Jazeera",
-      "date": "2026-03-18",
-      "url": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-03-19",
+      "url": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "2月份批发价格上涨0.7%，远超预期，年增3.4%",
+        "zh": "批发价格在2月份上涨0.7%，远超预期，年增长3.4%",
         "en": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
-        "de": "Die Großhandelspreise stiegen im Februar um 0,7 %, was weit über den Erwartungen liegt, und jährlich um 3,4 %."
+        "de": "Die Großhandelspreise stiegen im Februar um 0,7 %, was die Erwartungen bei weitem übertraf, und jährlich um 3,4 %"
       },
       "summary": {
-        "zh": "2月份的批发价格大幅上涨，显示出通货膨胀的持续压力，尽管能源价格上涨。此数据可能影响未来的货币政策。",
-        "en": "Wholesale prices surged in February, indicating ongoing inflationary pressures despite rising energy prices. This data could influence future monetary policy.",
-        "de": "Die Großhandelspreise stiegen im Februar stark an, was auf anhaltenden Inflationsdruck hinweist, trotz steigender Energiepreise. Diese Daten könnten die zukünftige Geldpolitik beeinflussen."
+        "zh": "2月份的批发价格上涨幅度远超预期，显示出通货膨胀的持续压力，尽管能源价格上涨的影响也在其中。这一数据可能会影响未来的货币政策。",
+        "en": "Wholesale prices in February rose significantly more than expected, indicating persistent inflationary pressures, despite the influence of rising energy prices. This data may impact future monetary policy.",
+        "de": "Die Großhandelspreise stiegen im Februar deutlich stärker als erwartet, was auf anhaltenden Inflationsdruck hinweist, trotz des Einflusses steigender Energiepreise. Diese Daten könnten zukünftige Geldpolitik beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-18",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "财政部表示不会干预石油商品市场，且没有权力这样做",
-        "en": "Bessent says Treasury is not intervening in oil commodities markets and has no authority to do so",
-        "de": "Bessent sagt, das Finanzministerium greift nicht in die Ölrohstoffmärkte ein und hat keine Befugnis dazu."
+        "zh": "特朗普表示可能推迟与中国的峰会，因美国施压中国帮助重开霍尔木兹海峡",
+        "en": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
+        "de": "Trump signalisiert mögliche Verzögerung des Gipfels in Peking, während die USA China unter Druck setzen, um die Straße von Hormuz wieder zu öffnen"
       },
       "summary": {
-        "zh": "财政部官员表示，财政部不会干预石油商品市场，消除了有关政府可能采取行动以降低油价的传言。",
-        "en": "Treasury officials stated that the department will not intervene in oil commodities markets, dispelling rumors of potential government action to lower oil prices.",
-        "de": "Beamte des Finanzministeriums erklärten, dass die Abteilung nicht in die Ölrohstoffmärkte eingreifen wird, und räumten Gerüchte über mögliche Regierungsmaßnahmen zur Senkung der Ölpreise aus."
+        "zh": "特朗普在与中国官员会晤时暗示，可能会推迟原定的北京峰会，此举是在美国施压中国协助重开霍尔木兹海峡的背景下进行的。这一动态可能会影响两国的经济关系。",
+        "en": "Trump hinted at a possible delay to the scheduled Beijing summit during talks with Chinese officials, amid U.S. pressure on China to assist in reopening the Strait of Hormuz. This development may affect the economic relations between the two countries.",
+        "de": "Trump deutete während Gesprächen mit chinesischen Beamten eine mögliche Verzögerung des geplanten Gipfels in Peking an, während die USA China unter Druck setzen, bei der Wiedereröffnung der Straße von Hormuz zu helfen. Diese Entwicklung könnte die wirtschaftlichen Beziehungen zwischen den beiden Ländern beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-16",
-      "url": "https://www.cnbc.com/2026/03/16/bessent-says-treasury-is-not-intervening-in-oil-commodities-markets-and-has-no-authority-to-do-so.html"
+      "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗战争石油冲击引发对1970年代滞涨的担忧——这次可能有所不同",
-        "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
-        "de": "Der Iran-Kriegsöl-Schock schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es diesmal anders sein könnte"
+        "zh": "五个以下股票继续上涨，乐观展望缓解消费者放缓的担忧",
+        "en": "Five Below stock continues its tear, as upbeat outlook eases fears of consumer slowdown",
+        "de": "Five Below-Aktien setzen ihren Aufwärtstrend fort, da optimistische Aussichten die Ängste vor einer Verbraucherschwäche mildern"
       },
       "summary": {
-        "zh": "一些投资者将当前的油价上涨与1970年代的滞涨相提并论，但分析师指出这次的经济背景有显著不同，可能会影响市场走势。",
-        "en": "Some investors are drawing parallels between the current rise in oil prices and the stagflation of the 1970s, but analysts note that the economic context this time is significantly different, which may affect market trends.",
-        "de": "Einige Investoren ziehen Parallelen zwischen dem aktuellen Anstieg der Ölpreise und der Stagflation der 1970er Jahre, aber Analysten weisen darauf hin, dass der wirtschaftliche Kontext diesmal erheblich anders ist, was die Markttrends beeinflussen könnte."
+        "zh": "五个以下的股票在乐观的前景推动下持续上涨，缓解了对消费者放缓的担忧。该零售商的积极展望吸引了投资者的关注。",
+        "en": "Five Below stock continues to rise, driven by an optimistic outlook that eases fears of a consumer slowdown. The retailer's positive forecast has attracted investor attention.",
+        "de": "Die Aktien von Five Below steigen weiter, angetrieben von einer optimistischen Prognose, die Ängste vor einer Verbraucherschwäche mildert. Die positive Prognose des Einzelhändlers hat das Interesse der Investoren geweckt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-13",
-      "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-18",
+      "url": "https://www.marketwatch.com/story/five-below-stock-continues-its-tear-as-viral-squishy-toys-and-appeals-to-millennial-moms-draw-shoppers-06369f68?mod=mw_rss_topstories"
     }
   ]
 }
