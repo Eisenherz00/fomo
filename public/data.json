@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-19T05:43:47.240992+00:00",
+  "generatedAt": "2026-03-19T17:29:50.401666+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：五角大楼的新人工智能计划，以及下一代核反应堆",
-        "en": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
-        "de": "Der Download: Die neuen KI-Pläne des Pentagon und nächste Generation von Kernreaktoren"
+        "zh": "下载：健康的量子计算，以及为什么世界不回收更多核废料",
+        "en": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+        "de": "Der Download: Quantencomputing für die Gesundheit und warum die Welt nicht mehr Atommüll recycelt"
       },
       "summary": {
-        "zh": "五角大楼正在制定新的人工智能计划，旨在利用先进技术来增强国防能力。同时，下一代核反应堆的开发也在进行中，可能会对能源生产和废物管理产生重大影响。",
-        "en": "The Pentagon is formulating new AI plans aimed at leveraging advanced technology to enhance defense capabilities. Concurrently, the development of next-generation nuclear reactors is underway, which could significantly impact energy production and waste management.",
-        "de": "Das Pentagon formuliert neue KI-Pläne, die darauf abzielen, fortschrittliche Technologien zur Verbesserung der Verteidigungsfähigkeiten zu nutzen. Gleichzeitig wird die Entwicklung von Kernreaktoren der nächsten Generation vorangetrieben, die erhebliche Auswirkungen auf die Energieproduktion und Abfallbewirtschaftung haben könnten."
+        "zh": "今天的《下载》提供了关于量子计算在健康领域的潜力以及全球核废料回收不足的原因的见解。",
+        "en": "Today's edition of The Download provides insights into the potential of quantum computing in health and the reasons behind the world's inadequate recycling of nuclear waste.",
+        "de": "Die heutige Ausgabe des Downloads bietet Einblicke in das Potenzial des Quantencomputings im Gesundheitswesen und die Gründe für die unzureichende Wiederverwertung von Atommüll weltweit."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-18",
-      "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/"
+      "date": "2026-03-19",
+      "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "五角大楼计划让人工智能公司在机密数据上进行训练，国防官员表示",
-        "en": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-        "de": "Das Pentagon plant, dass KI-Unternehmen auf geheimen Daten trainieren, sagt ein Verteidigungsbeamter"
+        "zh": "量子计算机现在能解决医疗保健问题吗？我们很快就会知道。",
+        "en": "Can quantum computers now solve health care problems? We’ll soon find out.",
+        "de": "Können Quantencomputer jetzt Gesundheitsprobleme lösen? Bald werden wir es herausfinden."
       },
       "summary": {
-        "zh": "五角大楼正在讨论为生成性人工智能公司设立安全环境，以便它们能够在机密数据上训练军事特定版本的模型。这一计划旨在提升军事技术的能力和安全性。",
-        "en": "The Pentagon is discussing plans to establish secure environments for generative AI companies to train military-specific versions of their models on classified data. This initiative aims to enhance military technology capabilities and security.",
-        "de": "Das Pentagon diskutiert Pläne zur Einrichtung sicherer Umgebungen für generative KI-Unternehmen, um militärspezifische Versionen ihrer Modelle auf geheimen Daten zu trainieren. Diese Initiative zielt darauf ab, die Fähigkeiten und die Sicherheit der Militärtechnologie zu verbessern."
+        "zh": "在英国牛津郊区的国家量子计算中心，一台由原子和光构建的量子计算机正在测试其解决医疗保健问题的能力。",
+        "en": "At the UK's National Quantum Computing Centre on the outskirts of Oxford, a quantum computer built from atoms and light is being tested for its ability to solve health care problems.",
+        "de": "Im Nationalen Quantencomputing-Zentrum im Vereinigten Königreich, am Stadtrand von Oxford, wird ein aus Atomen und Licht gebauter Quantencomputer auf seine Fähigkeit getestet, Gesundheitsprobleme zu lösen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-17",
-      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
+      "date": "2026-03-19",
+      "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "联邦网络专家称微软云是“垃圾”，但仍然批准",
-        "en": "Federal cyber experts called Microsoft's cloud a 'pile of shit,' approved it anyway",
-        "de": "Bundescyberexperten nannten die Cloud von Microsoft einen 'Haufen Scheiße', genehmigten sie aber trotzdem"
+        "zh": "为什么世界不回收更多核废料",
+        "en": "Why the world doesn’t recycle more nuclear waste",
+        "de": "Warum die Welt nicht mehr Atommüll recycelt"
       },
       "summary": {
-        "zh": "尽管联邦网络专家对微软云的安全性表示严重担忧，但仍然批准了该产品。这一决定引发了对政府在技术安全性方面决策的质疑。",
-        "en": "Despite serious concerns from federal cyber experts regarding the security of Microsoft's cloud, the product was approved. This decision raises questions about government decision-making in technology security.",
-        "de": "Trotz ernsthafter Bedenken von Bundescyberexperten hinsichtlich der Sicherheit der Cloud von Microsoft wurde das Produkt genehmigt. Diese Entscheidung wirft Fragen zur Entscheidungsfindung der Regierung in Bezug auf Technologiesicherheit auf."
+        "zh": "本文探讨了全球核废料回收的挑战和障碍，分析了如何有效利用这些废物的潜力。",
+        "en": "This article explores the challenges and barriers to global nuclear waste recycling and analyzes the potential for effectively utilizing this waste.",
+        "de": "Dieser Artikel untersucht die Herausforderungen und Barrieren beim Recycling von Atommüll weltweit und analysiert das Potenzial zur effektiven Nutzung dieses Abfalls."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-03-18",
-      "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"
+      "source": "MIT Technology Review",
+      "date": "2026-03-19",
+      "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国情报机构不预计中国将在2027年入侵台湾",
-        "en": "US intelligence agencies not expecting China to invade Taiwan in 2027",
-        "de": "US-Geheimdienste erwarten nicht, dass China 2027 Taiwan angreift"
+        "zh": "伊朗袭击使卡塔尔的液化天然气产能减少17%，持续时间可达5年",
+        "en": "Iran attacks cut 17% of Qatar’s LNG capacity for up to 5 years: QatarEnergy",
+        "de": "Iranische Angriffe reduzieren Katars LNG-Kapazität um 17 % für bis zu 5 Jahre: QatarEnergy"
       },
       "summary": {
-        "zh": "美国情报机构表示，中国领导层仍然更倾向于追求与台湾的统一，而不是使用武力。这一评估可能会影响未来的国际关系和安全政策。",
-        "en": "US intelligence agencies state that the Chinese leadership still prefers to pursue unification with Taiwan without the use of force. This assessment may impact future international relations and security policies.",
-        "de": "Die US-Geheimdienste erklären, dass die chinesische Führung weiterhin eine Vereinigung mit Taiwan ohne den Einsatz von Gewalt anstrebt. Diese Einschätzung könnte zukünftige internationale Beziehungen und Sicherheitsrichtlinien beeinflussen."
+        "zh": "卡塔尔能源公司首席执行官表示，伊朗的袭击可能迫使卡塔尔能源在长达五年的合同中宣布不可抗力。",
+        "en": "The CEO of QatarEnergy stated that the Iranian attacks may force QatarEnergy to declare force majeure on long-term contracts for up to five years.",
+        "de": "Der CEO von QatarEnergy erklärte, dass die iranischen Angriffe QatarEnergy zwingen könnten, für bis zu fünf Jahre höhere Gewalt bei langfristigen Verträgen zu erklären."
       },
       "source": "Al Jazeera",
       "date": "2026-03-19",
-      "url": "https://www.aljazeera.com/news/2026/3/19/us-intelligence-agencies-not-expecting-china-to-invade-taiwan-in-2027?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗在近期战争动乱中处决三名被定罪的警察杀手",
-        "en": "Iran executes three convicted of killing police in recent pre-war unrest",
-        "de": "Iran vollstreckt die Todesstrafe gegen drei wegen Mordes an Polizisten in den jüngsten Unruhen verurteilten"
+        "zh": "美国国防部长坚称美国正在实现对伊朗的战争目标",
+        "en": "Hegseth insists US is meeting Iran war objectives",
+        "de": "Hegseth besteht darauf, dass die USA die Kriegsziele gegen den Iran erreichen"
       },
       "summary": {
-        "zh": "伊朗当局处决了三名被定罪的个人，他们被指控在最近的战争动乱中杀害了两名执法人员。这一行动引发了对伊朗司法系统的广泛批评。",
-        "en": "Iranian authorities executed three convicted individuals accused of killing two law enforcement personnel during recent pre-war unrest. This action has sparked widespread criticism of Iran's judicial system.",
-        "de": "Die iranischen Behörden haben drei verurteilte Personen hingerichtet, die beschuldigt wurden, während der jüngsten Unruhen zwei Polizeibeamte getötet zu haben. Diese Maßnahme hat weitreichende Kritik am iranischen Justizsystem ausgelöst."
+        "zh": "美国国防部长表示，尽管对海湾地区的袭击升级，但华盛顿仍在实现其对伊朗的目标。",
+        "en": "The US Defense Secretary stated that despite escalating attacks on the Gulf, Washington is still meeting its objectives against Iran.",
+        "de": "Der US-Verteidigungsminister erklärte, dass Washington trotz der eskalierenden Angriffe im Golf weiterhin seine Ziele gegen den Iran erreicht."
       },
       "source": "Al Jazeera",
       "date": "2026-03-19",
-      "url": "https://www.aljazeera.com/news/2026/3/19/iran-executes-three-convicted-of-killing-police-in-recent-pre-war-unrest?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/2026/3/19/hegseth-insists-us-is-meeting-iran-war-objectives?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国民权领袖塞萨尔·查韦斯被指控性虐待",
-        "en": "US civil rights leader Cesar Chavez accused of sexual abuse",
-        "de": "US-Bürgerrechtsführer Cesar Chavez wegen sexuellen Missbrauchs angeklagt"
+        "zh": "联合国古特雷斯呼吁美国和以色列停止袭击",
+        "en": "“It’s time to end the war.” UN’s Guterres urges US, Israel to cease attacks",
+        "de": "„Es ist Zeit, den Krieg zu beenden.“ Guterres von der UN fordert die USA und Israel auf, die Angriffe einzustellen"
       },
       "summary": {
-        "zh": "关于美国民权领袖塞萨尔·查韦斯的性虐待指控引发了广泛关注，这些指控导致计划中的活动和庆祝活动被取消。这一事件可能对他的遗产产生深远影响。",
-        "en": "Allegations of sexual abuse against US civil rights leader Cesar Chavez have garnered widespread attention, leading to the cancellation of planned events and celebrations. This incident may have far-reaching implications for his legacy.",
-        "de": "Die Vorwürfe des sexuellen Missbrauchs gegen den US-Bürgerrechtsführer Cesar Chavez haben breite Aufmerksamkeit erregt und zur Absage geplanter Veranstaltungen und Feiern geführt. Dieser Vorfall könnte weitreichende Auswirkungen auf sein Erbe haben."
+        "zh": "联合国秘书长安东尼奥·古特雷斯警告美国和以色列，伊朗战争可能导致“潜在的悲惨后果”。",
+        "en": "UN Secretary-General Antonio Guterres warned the US and Israel of 'potential tragic consequences' from the war in Iran.",
+        "de": "Der UN-Generalsekretär Antonio Guterres warnte die USA und Israel vor „potenziell tragischen Konsequenzen“ des Krieges im Iran."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-03-19",
-      "url": "https://www.bbc.com/news/articles/cp8r8rggxmmo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/its-time-to-end-the-war-uns-guterres-urges-us-israel-to-cease?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "批发价格在2月份上涨0.7%，远超预期，年增长3.4%",
-        "en": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
-        "de": "Die Großhandelspreise stiegen im Februar um 0,7 %, was die Erwartungen bei weitem übertraf, und jährlich um 3,4 %"
+        "zh": "交易员现在认为今年几乎没有降息的机会，因美联储决定",
+        "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
+        "de": "Händler sehen nach der Entscheidung der Fed kaum Chancen auf eine Zinssenkung in diesem Jahr"
       },
       "summary": {
-        "zh": "2月份的批发价格上涨幅度远超预期，显示出通货膨胀的持续压力，尽管能源价格上涨的影响也在其中。这一数据可能会影响未来的货币政策。",
-        "en": "Wholesale prices in February rose significantly more than expected, indicating persistent inflationary pressures, despite the influence of rising energy prices. This data may impact future monetary policy.",
-        "de": "Die Großhandelspreise stiegen im Februar deutlich stärker als erwartet, was auf anhaltenden Inflationsdruck hinweist, trotz des Einflusses steigender Energiepreise. Diese Daten könnten zukünftige Geldpolitik beeinflussen."
+        "zh": "由于本周美联储会议传出的积极经济信号，投资者对降息的预期大幅下降。",
+        "en": "Investor expectations for an interest rate cut have significantly decreased following positive economic signals from this week's Federal Reserve meeting.",
+        "de": "Die Erwartungen der Anleger an eine Zinssenkung sind nach positiven Wirtschaftssignalen aus dieser Woche von der Federal Reserve erheblich gesunken."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-18",
-      "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html"
+      "date": "2026-03-19",
+      "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普表示可能推迟与中国的峰会，因美国施压中国帮助重开霍尔木兹海峡",
-        "en": "Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz",
-        "de": "Trump signalisiert mögliche Verzögerung des Gipfels in Peking, während die USA China unter Druck setzen, um die Straße von Hormuz wieder zu öffnen"
+        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”",
+        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten „deutlich unsicherer“ sind"
       },
       "summary": {
-        "zh": "特朗普在与中国官员会晤时暗示，可能会推迟原定的北京峰会，此举是在美国施压中国协助重开霍尔木兹海峡的背景下进行的。这一动态可能会影响两国的经济关系。",
-        "en": "Trump hinted at a possible delay to the scheduled Beijing summit during talks with Chinese officials, amid U.S. pressure on China to assist in reopening the Strait of Hormuz. This development may affect the economic relations between the two countries.",
-        "de": "Trump deutete während Gesprächen mit chinesischen Beamten eine mögliche Verzögerung des geplanten Gipfels in Peking an, während die USA China unter Druck setzen, bei der Wiedereröffnung der Straße von Hormuz zu helfen. Diese Entwicklung könnte die wirtschaftlichen Beziehungen zwischen den beiden Ländern beeinflussen."
+        "zh": "由于伊朗战争对能源供应、增长和消费者价格的影响，欧洲央行对经济前景表示担忧。",
+        "en": "The European Central Bank expressed concerns about the economic outlook due to the impact of the Iran war on energy supplies, growth, and consumer prices.",
+        "de": "Die Europäische Zentralbank äußerte Bedenken hinsichtlich der wirtschaftlichen Aussichten aufgrund der Auswirkungen des Iran-Kriegs auf die Energieversorgung, das Wachstum und die Verbraucherpreise."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-16",
-      "url": "https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html"
+      "date": "2026-03-19",
+      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "五个以下股票继续上涨，乐观展望缓解消费者放缓的担忧",
-        "en": "Five Below stock continues its tear, as upbeat outlook eases fears of consumer slowdown",
-        "de": "Five Below-Aktien setzen ihren Aufwärtstrend fort, da optimistische Aussichten die Ängste vor einer Verbraucherschwäche mildern"
+        "zh": "全球油价在特朗普威胁“摧毁”世界最大气田后交易至每桶110美元",
+        "en": "Global oil prices trade at $110 a barrel after Trump threatens to ‘blow up’ the world’s largest gas field",
+        "de": "Die globalen Ölpreise liegen bei 110 USD pro Barrel, nachdem Trump droht, das größte Gasfeld der Welt „in die Luft zu sprengen“"
       },
       "summary": {
-        "zh": "五个以下的股票在乐观的前景推动下持续上涨，缓解了对消费者放缓的担忧。该零售商的积极展望吸引了投资者的关注。",
-        "en": "Five Below stock continues to rise, driven by an optimistic outlook that eases fears of a consumer slowdown. The retailer's positive forecast has attracted investor attention.",
-        "de": "Die Aktien von Five Below steigen weiter, angetrieben von einer optimistischen Prognose, die Ängste vor einer Verbraucherschwäche mildert. Die positive Prognose des Einzelhändlers hat das Interesse der Investoren geweckt."
+        "zh": "由于伊朗在海湾地区的能源生产受到攻击，全球油价回升至近四年来的最高水平。",
+        "en": "Global oil prices have surged back to near their highest levels in nearly four years following attacks on energy production in the Gulf by Iran.",
+        "de": "Die globalen Ölpreise sind nach Angriffen auf die Energieproduktion im Golf durch den Iran auf fast die höchsten Werte seit fast vier Jahren gestiegen."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-03-18",
-      "url": "https://www.marketwatch.com/story/five-below-stock-continues-its-tear-as-viral-squishy-toys-and-appeals-to-millennial-moms-draw-shoppers-06369f68?mod=mw_rss_topstories"
+      "date": "2026-03-19",
+      "url": "https://www.marketwatch.com/story/oil-prices-surge-after-iran-attacks-middle-east-energy-facilities-c43c7d1e?mod=mw_rss_topstories"
     }
   ]
 }
