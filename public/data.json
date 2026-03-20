@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-03-20T05:36:12.959034+00:00",
+  "generatedAt": "2026-03-20T17:07:34.260551+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：健康的量子计算，以及世界为何不回收更多核废料",
-        "en": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-        "de": "Der Download: Quantencomputing für die Gesundheit und warum die Welt nicht mehr nukleare Abfälle recycelt"
+        "zh": "OpenAI正在构建一个完全自动化的研究者，以及迷幻药试验的盲点：这是今天的下载，我们的工作日通讯，提供关于科技世界的每日动态。",
+        "en": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+        "de": "Der Download: OpenAI baut einen vollständig automatisierten Forscher und einen blinden Fleck bei psychedelischen Studien: Dies ist die heutige Ausgabe des Downloads, unseres Wochentags-Newsletters, der täglich über das Geschehen in der Technologiewelt informiert."
       },
       "summary": {
-        "zh": "本期《下载》讨论了量子计算在健康领域的潜力，以及全球核废料回收不足的原因。",
-        "en": "This edition of The Download discusses the potential of quantum computing in healthcare and the reasons behind the world's insufficient recycling of nuclear waste.",
-        "de": "In dieser Ausgabe des Downloads wird das Potenzial von Quantencomputing im Gesundheitswesen und die Gründe für die unzureichende Wiederverwertung von nuklearem Abfall erörtert."
+        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究者，以提高研究效率。同时，迷幻药在临床试验中的表现仍未达到预期，显示出研究领域的复杂性。",
+        "en": "OpenAI is fully committed to building a fully automated researcher to enhance research efficiency. Meanwhile, psychedelics are still falling short in clinical trials, highlighting the complexities in the research field.",
+        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln, um die Forschungseffizienz zu steigern. In der Zwischenzeit schneiden Psychedelika in klinischen Studien weiterhin schlecht ab, was die Komplexität im Forschungsbereich verdeutlicht."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-19",
-      "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
+      "date": "2026-03-20",
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "量子计算机现在能解决医疗问题吗？我们很快就会知道。",
-        "en": "Can quantum computers now solve health care problems? We’ll soon find out.",
-        "de": "Können Quantencomputer jetzt Gesundheitsprobleme lösen? Wir werden es bald herausfinden."
+        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究者：OpenAI正在重新聚焦其研究工作，并将资源投入到一个新的重大挑战中。",
+        "en": "OpenAI is throwing everything into building a fully automated researcher: OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge.",
+        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln: OpenAI konzentriert seine Forschungsanstrengungen neu und investiert seine Ressourcen in eine neue große Herausforderung."
       },
       "summary": {
-        "zh": "在英国牛津郊外的国家量子计算中心，研究人员正在测试量子计算机是否能够解决医疗领域的问题。",
-        "en": "At the UK's National Quantum Computing Centre on the outskirts of Oxford, researchers are testing whether quantum computers can solve problems in the healthcare sector.",
-        "de": "Im Nationalen Quantencomputing-Zentrum im Vereinigten Königreich, am Stadtrand von Oxford, testen Forscher, ob Quantencomputer Probleme im Gesundheitswesen lösen können."
+        "zh": "OpenAI正在重新调整其研究方向，致力于开发一个完全自动化的研究者，以推动科学研究的进步。这一新挑战标志着公司在人工智能领域的进一步发展。",
+        "en": "OpenAI is realigning its research direction to focus on developing a fully automated researcher to advance scientific inquiry. This new challenge marks a significant step in the company's evolution in the AI field.",
+        "de": "OpenAI richtet seine Forschungsrichtung neu aus, um sich auf die Entwicklung eines vollständig automatisierten Forschers zu konzentrieren, um wissenschaftliche Untersuchungen voranzutreiben. Diese neue Herausforderung stellt einen bedeutenden Schritt in der Evolution des Unternehmens im Bereich KI dar."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-19",
-      "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
+      "date": "2026-03-20",
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "世界为何不回收更多核废料",
-        "en": "Why the world doesn’t recycle more nuclear waste",
-        "de": "Warum die Welt nicht mehr nuklearen Abfall recycelt"
+        "zh": "迷幻药在临床试验中（仍然）未能达到预期：本周我想看看我们在迷幻药方面的进展，这些改变心智的物质已经从反文化跃升为主要流行趋势。",
+        "en": "Mind-altering substances are (still) falling short in clinical trials: This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major.",
+        "de": "Bewusstseinsverändernde Substanzen schneiden in klinischen Studien (immer noch) schlecht ab: Diese Woche möchte ich untersuchen, wo wir mit Psychedelika stehen, den bewusstseinsverändernden Substanzen, die es irgendwie geschafft haben, vom Gegenkultur- zum Mainstream zu gelangen."
       },
       "summary": {
-        "zh": "这篇文章探讨了核废料回收的复杂性和全球范围内的挑战，尽管存在将废物转化为有用资源的潜力。",
-        "en": "This article explores the complexities and global challenges of recycling nuclear waste, despite the potential for turning waste into useful resources.",
-        "de": "Dieser Artikel untersucht die Komplexität und die globalen Herausforderungen beim Recycling von nuklearem Abfall, trotz des Potenzials, Abfall in nützliche Ressourcen umzuwandeln."
+        "zh": "尽管迷幻药在社会文化中获得了更广泛的接受，但在临床试验中，它们的效果仍未达到预期。这表明在药物开发和应用方面仍存在许多挑战。",
+        "en": "Despite gaining wider acceptance in social culture, psychedelics are still not meeting expectations in clinical trials. This indicates that there are still many challenges in drug development and application.",
+        "de": "Trotz ihrer breiteren Akzeptanz in der Gesellschaft erfüllen Psychedelika in klinischen Studien weiterhin nicht die Erwartungen. Dies deutet darauf hin, dass es in der Arzneimittelentwicklung und -anwendung noch viele Herausforderungen gibt."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-19",
-      "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/"
+      "date": "2026-03-20",
+      "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗足球运动员在德黑兰受到庆祝",
-        "en": "Iranian football players celebrated in Tehran",
-        "de": "Iranische Fußballspieler in Teheran gefeiert"
+        "zh": "伊朗的哈梅内伊在书面诺鲁兹信息中称敌人“被击败”",
+        "en": "Iran’s Khamenei says enemy ‘defeated’ in written Nowruz message",
+        "de": "Irans Khamenei sagt, der Feind sei in schriftlicher Nowruz-Botschaft 'besiegt' worden"
       },
       "summary": {
-        "zh": "伊朗国家女子足球队在经历危机后回国，受到了英雄般的欢迎。",
-        "en": "Iran's national women's football team has returned home to a hero's welcome after being thrust into a crisis.",
-        "de": "Die iranische Frauenfußballnationalmannschaft wurde nach ihrer Rückkehr aus einer Krise mit einem herzlichen Empfang gefeiert."
+        "zh": "伊朗最高领袖哈梅内伊在诺鲁兹节的书面信息中声称敌人已被击败。这一声明反映了伊朗在当前冲突中的立场和自信。",
+        "en": "Iran's Supreme Leader Khamenei claimed in a written Nowruz message that the enemy has been defeated. This statement reflects Iran's stance and confidence in the ongoing conflict.",
+        "de": "Irans Oberster Führer Khamenei erklärte in einer schriftlichen Nowruz-Botschaft, dass der Feind besiegt worden sei. Diese Aussage spiegelt Irans Haltung und Vertrauen im laufenden Konflikt wider."
       },
       "source": "Al Jazeera",
       "date": "2026-03-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iranian-football-players-celebrated-in-tehran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/20/irans-khamenei-says-enemy-defeated-in-written-nowruz-message?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "国际足联的吉安尼·因凡蒂诺似乎改变了和平努力的方向",
-        "en": "FIFA’s Gianni Infantino seemingly changes course on peace efforts",
-        "de": "FIFA-Präsident Gianni Infantino scheint seinen Kurs in Bezug auf Friedensbemühungen zu ändern"
+        "zh": "伊朗战争会引发下一个全球粮食危机吗？",
+        "en": "Could Iran war trigger the next global food shock?",
+        "de": "Könnte der Iran-Krieg den nächsten globalen Ernährungsschock auslösen?"
       },
       "summary": {
-        "zh": "国际足联主席吉安尼·因凡蒂诺表示，该组织“绝对不能解决地缘政治冲突”。",
-        "en": "FIFA President Gianni Infantino stated that his organization 'can certainly not solve geopolitical conflicts.'",
-        "de": "FIFA-Präsident Gianni Infantino erklärte, dass seine Organisation 'geopolitische Konflikte sicherlich nicht lösen kann.'"
+        "zh": "伊朗战争正在扰乱全球供应链，从工厂到超市货架，可能会引发全球粮食危机。这一局势对国际市场产生了深远的影响。",
+        "en": "The Iran war is disrupting global supply chains, from factories to supermarket shelves, potentially triggering a global food crisis. This situation has profound implications for international markets.",
+        "de": "Der Iran-Krieg stört die globalen Lieferketten, von Fabriken bis zu Supermarktregalen, und könnte eine globale Lebensmittelkrise auslösen. Diese Situation hat tiefgreifende Auswirkungen auf die internationalen Märkte."
       },
       "source": "Al Jazeera",
       "date": "2026-03-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/fifas-gianni-infantino-seemingly-changes-course-on-peace-efforts?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/20/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗足球运动员阿兹蒙因不忠被踢出国家队，报道称",
-        "en": "Iran footballer Azmoun kicked off national team for disloyalty, say reports",
-        "de": "Iranischer Fußballspieler Azmoun wegen Illoyalität aus der Nationalmannschaft geworfen, berichten Quellen"
+        "zh": "特朗普抨击北约在美以对伊朗战争中缺乏支持",
+        "en": "‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran",
+        "de": "‘Feiglinge’: Trump kritisiert die NATO wegen mangelnder Unterstützung im US-Israel-Krieg gegen den Iran"
       },
       "summary": {
-        "zh": "报道称，效力于阿联酋俱乐部的萨达尔·阿兹蒙因在社交媒体上与迪拜统治者的帖子而被驱逐。",
-        "en": "Reports indicate that Sardar Azmoun, who plays for a UAE club, was expelled for an Instagram post involving Dubai's ruler.",
-        "de": "Berichten zufolge wurde Sardar Azmoun, der für einen Verein in den VAE spielt, wegen eines Instagram-Posts, der den Herrscher von Dubai betrifft, aus der Nationalmannschaft ausgeschlossen."
+        "zh": "特朗普批评北约在美以对伊朗战争中的缺乏支持，并呼吁美国盟友帮助确保霍尔木兹海的航运安全。这一言论反映了当前国际关系的紧张局势。",
+        "en": "Trump criticized NATO for its lack of support in the US-Israel war against Iran, calling for US allies to help secure shipping through the Strait of Hormuz. This statement reflects the current tensions in international relations.",
+        "de": "Trump kritisierte die NATO wegen mangelnder Unterstützung im US-Israel-Krieg gegen den Iran und forderte die US-Verbündeten auf, die Schifffahrt durch die Straße von Hormuz zu sichern. Diese Aussage spiegelt die aktuellen Spannungen in den internationalen Beziehungen wider."
       },
       "source": "Al Jazeera",
       "date": "2026-03-20",
-      "url": "https://www.aljazeera.com/sports/2026/3/20/iran-footballer-azmoun-kicked-off-national-team-for-disloyalty-say-reports?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/20/cowards-trump-slams-nato-over-lack-of-support-in-us-israel-war-on?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员现在几乎不认为今年会降息，因美联储决定",
+        "zh": "交易员在美联储决定后几乎看不到今年降息的机会",
         "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
-        "de": "Händler sehen nach der Entscheidung der Fed kaum Chancen auf eine Zinssenkung in diesem Jahr"
+        "de": "Händler sehen nach der Fed-Entscheidung kaum Chancen auf eine Zinssenkung in diesem Jahr"
       },
       "summary": {
-        "zh": "美联储会议后，积极的经济谈话对投资者产生了负面影响，导致降息的可能性几乎为零。",
-        "en": "Following the Federal Reserve meeting, positive economic discussions have negatively impacted investors, leading to almost zero chances of an interest rate cut.",
-        "de": "Nach der Sitzung der Federal Reserve haben positive wirtschaftliche Diskussionen negative Auswirkungen auf die Investoren gehabt, was zu nahezu null Chancen auf eine Zinssenkung geführt hat."
+        "zh": "在美联储的最新决定之后，交易员们几乎看不到今年降息的机会。市场对经济前景的乐观情绪受到抑制。",
+        "en": "Following the Federal Reserve's latest decision, traders see little chance of an interest rate cut this year. Market optimism about the economic outlook is dampened.",
+        "de": "Nach der neuesten Entscheidung der Federal Reserve sehen Händler kaum Chancen auf eine Zinssenkung in diesem Jahr. Der Optimismus der Märkte über die wirtschaftlichen Aussichten ist gedämpft."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”",
+        "zh": "欧洲央行保持利率稳定，警告前景“显著不确定”",
         "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
         "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
       },
       "summary": {
-        "zh": "由于伊朗战争扰乱了欧洲的经济平衡，威胁能源供应和消费者价格的前景，欧洲央行决定维持利率不变。",
-        "en": "The European Central Bank decided to hold rates steady due to the disruption of economic equilibrium in Europe caused by the war in Iran, threatening energy supplies and consumer prices.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinsen stabil zu halten, da der Krieg im Iran das wirtschaftliche Gleichgewicht in Europa stört und die Energieversorgung sowie die Verbraucherpreise bedroht."
+        "zh": "欧洲央行决定保持利率不变，并警告称，由于伊朗战争，经济前景变得“显著不确定”。这一决定可能对市场产生深远影响。",
+        "en": "The European Central Bank decided to keep interest rates steady and warned that the economic outlook is 'significantly more uncertain' due to the Iran war. This decision may have far-reaching implications for the markets.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, und warnt, dass die wirtschaftlichen Aussichten aufgrund des Iran-Kriegs 'deutlich unsicherer' sind. Diese Entscheidung könnte weitreichende Auswirkungen auf die Märkte haben."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "批发价格在2月份上涨0.7%，远超预期，年增3.4%",
-        "en": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
-        "de": "Die Großhandelspreise stiegen im Februar um 0,7%, was die Erwartungen bei weitem übertraf und jährlich um 3,4% zunahm"
+        "zh": "由于交易员看到美联储加息的机会飙升至50%以上，股票和债券挣扎",
+        "en": "Stocks and bonds struggle as traders see chances of Fed rate hike soar above 50% — up sharply from earlier this week",
+        "de": "Aktien und Anleihen kämpfen, da Händler die Chancen auf eine Zinserhöhung der Fed auf über 50 % steigen sehen – stark gestiegen im Vergleich zu Anfang dieser Woche"
       },
       "summary": {
-        "zh": "2月份的批发价格大幅上涨，显示出通货膨胀仍在持续，尽管能源价格上涨。",
-        "en": "Wholesale prices surged in February, indicating that inflation continues to persist even aside from rising energy prices.",
-        "de": "Die Großhandelspreise stiegen im Februar stark an, was darauf hindeutet, dass die Inflation weiterhin anhält, auch unabhängig von den steigenden Energiepreisen."
+        "zh": "由于交易员预计美联储加息的机会超过50%，股票和债券市场面临压力。这一变化反映了市场对经济前景的担忧。",
+        "en": "Stocks and bonds are under pressure as traders see the chances of a Fed rate hike soar above 50%. This shift reflects market concerns about the economic outlook.",
+        "de": "Aktien und Anleihen stehen unter Druck, da Händler die Chancen auf eine Zinserhöhung der Fed auf über 50 % steigen sehen. Dieser Wandel spiegelt die Sorgen der Märkte über die wirtschaftlichen Aussichten wider."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-18",
-      "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-20",
+      "url": "https://www.marketwatch.com/story/stocks-and-bonds-struggle-as-traders-see-chances-of-fed-rate-hike-soar-above-50-up-sharply-from-earlier-this-week-c0c11304?mod=mw_rss_topstories"
     }
   ]
 }
