@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-19T17:29:50.401666+00:00",
+  "generatedAt": "2026-03-20T05:36:12.959034+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：健康的量子计算，以及为什么世界不回收更多核废料",
+        "zh": "下载：健康的量子计算，以及世界为何不回收更多核废料",
         "en": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-        "de": "Der Download: Quantencomputing für die Gesundheit und warum die Welt nicht mehr Atommüll recycelt"
+        "de": "Der Download: Quantencomputing für die Gesundheit und warum die Welt nicht mehr nukleare Abfälle recycelt"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于量子计算在健康领域的潜力以及全球核废料回收不足的原因的见解。",
-        "en": "Today's edition of The Download provides insights into the potential of quantum computing in health and the reasons behind the world's inadequate recycling of nuclear waste.",
-        "de": "Die heutige Ausgabe des Downloads bietet Einblicke in das Potenzial des Quantencomputings im Gesundheitswesen und die Gründe für die unzureichende Wiederverwertung von Atommüll weltweit."
+        "zh": "本期《下载》讨论了量子计算在健康领域的潜力，以及全球核废料回收不足的原因。",
+        "en": "This edition of The Download discusses the potential of quantum computing in healthcare and the reasons behind the world's insufficient recycling of nuclear waste.",
+        "de": "In dieser Ausgabe des Downloads wird das Potenzial von Quantencomputing im Gesundheitswesen und die Gründe für die unzureichende Wiederverwertung von nuklearem Abfall erörtert."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-19",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "量子计算机现在能解决医疗保健问题吗？我们很快就会知道。",
+        "zh": "量子计算机现在能解决医疗问题吗？我们很快就会知道。",
         "en": "Can quantum computers now solve health care problems? We’ll soon find out.",
-        "de": "Können Quantencomputer jetzt Gesundheitsprobleme lösen? Bald werden wir es herausfinden."
+        "de": "Können Quantencomputer jetzt Gesundheitsprobleme lösen? Wir werden es bald herausfinden."
       },
       "summary": {
-        "zh": "在英国牛津郊区的国家量子计算中心，一台由原子和光构建的量子计算机正在测试其解决医疗保健问题的能力。",
-        "en": "At the UK's National Quantum Computing Centre on the outskirts of Oxford, a quantum computer built from atoms and light is being tested for its ability to solve health care problems.",
-        "de": "Im Nationalen Quantencomputing-Zentrum im Vereinigten Königreich, am Stadtrand von Oxford, wird ein aus Atomen und Licht gebauter Quantencomputer auf seine Fähigkeit getestet, Gesundheitsprobleme zu lösen."
+        "zh": "在英国牛津郊外的国家量子计算中心，研究人员正在测试量子计算机是否能够解决医疗领域的问题。",
+        "en": "At the UK's National Quantum Computing Centre on the outskirts of Oxford, researchers are testing whether quantum computers can solve problems in the healthcare sector.",
+        "de": "Im Nationalen Quantencomputing-Zentrum im Vereinigten Königreich, am Stadtrand von Oxford, testen Forscher, ob Quantencomputer Probleme im Gesundheitswesen lösen können."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-19",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "为什么世界不回收更多核废料",
+        "zh": "世界为何不回收更多核废料",
         "en": "Why the world doesn’t recycle more nuclear waste",
-        "de": "Warum die Welt nicht mehr Atommüll recycelt"
+        "de": "Warum die Welt nicht mehr nuklearen Abfall recycelt"
       },
       "summary": {
-        "zh": "本文探讨了全球核废料回收的挑战和障碍，分析了如何有效利用这些废物的潜力。",
-        "en": "This article explores the challenges and barriers to global nuclear waste recycling and analyzes the potential for effectively utilizing this waste.",
-        "de": "Dieser Artikel untersucht die Herausforderungen und Barrieren beim Recycling von Atommüll weltweit und analysiert das Potenzial zur effektiven Nutzung dieses Abfalls."
+        "zh": "这篇文章探讨了核废料回收的复杂性和全球范围内的挑战，尽管存在将废物转化为有用资源的潜力。",
+        "en": "This article explores the complexities and global challenges of recycling nuclear waste, despite the potential for turning waste into useful resources.",
+        "de": "Dieser Artikel untersucht die Komplexität und die globalen Herausforderungen beim Recycling von nuklearem Abfall, trotz des Potenzials, Abfall in nützliche Ressourcen umzuwandeln."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-19",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗袭击使卡塔尔的液化天然气产能减少17%，持续时间可达5年",
-        "en": "Iran attacks cut 17% of Qatar’s LNG capacity for up to 5 years: QatarEnergy",
-        "de": "Iranische Angriffe reduzieren Katars LNG-Kapazität um 17 % für bis zu 5 Jahre: QatarEnergy"
+        "zh": "伊朗足球运动员在德黑兰受到庆祝",
+        "en": "Iranian football players celebrated in Tehran",
+        "de": "Iranische Fußballspieler in Teheran gefeiert"
       },
       "summary": {
-        "zh": "卡塔尔能源公司首席执行官表示，伊朗的袭击可能迫使卡塔尔能源在长达五年的合同中宣布不可抗力。",
-        "en": "The CEO of QatarEnergy stated that the Iranian attacks may force QatarEnergy to declare force majeure on long-term contracts for up to five years.",
-        "de": "Der CEO von QatarEnergy erklärte, dass die iranischen Angriffe QatarEnergy zwingen könnten, für bis zu fünf Jahre höhere Gewalt bei langfristigen Verträgen zu erklären."
+        "zh": "伊朗国家女子足球队在经历危机后回国，受到了英雄般的欢迎。",
+        "en": "Iran's national women's football team has returned home to a hero's welcome after being thrust into a crisis.",
+        "de": "Die iranische Frauenfußballnationalmannschaft wurde nach ihrer Rückkehr aus einer Krise mit einem herzlichen Empfang gefeiert."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-19",
-      "url": "https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss"
+      "date": "2026-03-20",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/iranian-football-players-celebrated-in-tehran?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国国防部长坚称美国正在实现对伊朗的战争目标",
-        "en": "Hegseth insists US is meeting Iran war objectives",
-        "de": "Hegseth besteht darauf, dass die USA die Kriegsziele gegen den Iran erreichen"
+        "zh": "国际足联的吉安尼·因凡蒂诺似乎改变了和平努力的方向",
+        "en": "FIFA’s Gianni Infantino seemingly changes course on peace efforts",
+        "de": "FIFA-Präsident Gianni Infantino scheint seinen Kurs in Bezug auf Friedensbemühungen zu ändern"
       },
       "summary": {
-        "zh": "美国国防部长表示，尽管对海湾地区的袭击升级，但华盛顿仍在实现其对伊朗的目标。",
-        "en": "The US Defense Secretary stated that despite escalating attacks on the Gulf, Washington is still meeting its objectives against Iran.",
-        "de": "Der US-Verteidigungsminister erklärte, dass Washington trotz der eskalierenden Angriffe im Golf weiterhin seine Ziele gegen den Iran erreicht."
+        "zh": "国际足联主席吉安尼·因凡蒂诺表示，该组织“绝对不能解决地缘政治冲突”。",
+        "en": "FIFA President Gianni Infantino stated that his organization 'can certainly not solve geopolitical conflicts.'",
+        "de": "FIFA-Präsident Gianni Infantino erklärte, dass seine Organisation 'geopolitische Konflikte sicherlich nicht lösen kann.'"
       },
       "source": "Al Jazeera",
-      "date": "2026-03-19",
-      "url": "https://www.aljazeera.com/video/2026/3/19/hegseth-insists-us-is-meeting-iran-war-objectives?traffic_source=rss"
+      "date": "2026-03-20",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/20/fifas-gianni-infantino-seemingly-changes-course-on-peace-efforts?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "联合国古特雷斯呼吁美国和以色列停止袭击",
-        "en": "“It’s time to end the war.” UN’s Guterres urges US, Israel to cease attacks",
-        "de": "„Es ist Zeit, den Krieg zu beenden.“ Guterres von der UN fordert die USA und Israel auf, die Angriffe einzustellen"
+        "zh": "伊朗足球运动员阿兹蒙因不忠被踢出国家队，报道称",
+        "en": "Iran footballer Azmoun kicked off national team for disloyalty, say reports",
+        "de": "Iranischer Fußballspieler Azmoun wegen Illoyalität aus der Nationalmannschaft geworfen, berichten Quellen"
       },
       "summary": {
-        "zh": "联合国秘书长安东尼奥·古特雷斯警告美国和以色列，伊朗战争可能导致“潜在的悲惨后果”。",
-        "en": "UN Secretary-General Antonio Guterres warned the US and Israel of 'potential tragic consequences' from the war in Iran.",
-        "de": "Der UN-Generalsekretär Antonio Guterres warnte die USA und Israel vor „potenziell tragischen Konsequenzen“ des Krieges im Iran."
+        "zh": "报道称，效力于阿联酋俱乐部的萨达尔·阿兹蒙因在社交媒体上与迪拜统治者的帖子而被驱逐。",
+        "en": "Reports indicate that Sardar Azmoun, who plays for a UAE club, was expelled for an Instagram post involving Dubai's ruler.",
+        "de": "Berichten zufolge wurde Sardar Azmoun, der für einen Verein in den VAE spielt, wegen eines Instagram-Posts, der den Herrscher von Dubai betrifft, aus der Nationalmannschaft ausgeschlossen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/its-time-to-end-the-war-uns-guterres-urges-us-israel-to-cease?traffic_source=rss"
+      "date": "2026-03-20",
+      "url": "https://www.aljazeera.com/sports/2026/3/20/iran-footballer-azmoun-kicked-off-national-team-for-disloyalty-say-reports?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员现在认为今年几乎没有降息的机会，因美联储决定",
+        "zh": "交易员现在几乎不认为今年会降息，因美联储决定",
         "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
         "de": "Händler sehen nach der Entscheidung der Fed kaum Chancen auf eine Zinssenkung in diesem Jahr"
       },
       "summary": {
-        "zh": "由于本周美联储会议传出的积极经济信号，投资者对降息的预期大幅下降。",
-        "en": "Investor expectations for an interest rate cut have significantly decreased following positive economic signals from this week's Federal Reserve meeting.",
-        "de": "Die Erwartungen der Anleger an eine Zinssenkung sind nach positiven Wirtschaftssignalen aus dieser Woche von der Federal Reserve erheblich gesunken."
+        "zh": "美联储会议后，积极的经济谈话对投资者产生了负面影响，导致降息的可能性几乎为零。",
+        "en": "Following the Federal Reserve meeting, positive economic discussions have negatively impacted investors, leading to almost zero chances of an interest rate cut.",
+        "de": "Nach der Sitzung der Federal Reserve haben positive wirtschaftliche Diskussionen negative Auswirkungen auf die Investoren gehabt, was zu nahezu null Chancen auf eine Zinssenkung geführt hat."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -122,12 +122,12 @@
       "title": {
         "zh": "欧洲央行维持利率不变，警告前景“显著不确定”",
         "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
-        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten „deutlich unsicherer“ sind"
+        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
       },
       "summary": {
-        "zh": "由于伊朗战争对能源供应、增长和消费者价格的影响，欧洲央行对经济前景表示担忧。",
-        "en": "The European Central Bank expressed concerns about the economic outlook due to the impact of the Iran war on energy supplies, growth, and consumer prices.",
-        "de": "Die Europäische Zentralbank äußerte Bedenken hinsichtlich der wirtschaftlichen Aussichten aufgrund der Auswirkungen des Iran-Kriegs auf die Energieversorgung, das Wachstum und die Verbraucherpreise."
+        "zh": "由于伊朗战争扰乱了欧洲的经济平衡，威胁能源供应和消费者价格的前景，欧洲央行决定维持利率不变。",
+        "en": "The European Central Bank decided to hold rates steady due to the disruption of economic equilibrium in Europe caused by the war in Iran, threatening energy supplies and consumer prices.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinsen stabil zu halten, da der Krieg im Iran das wirtschaftliche Gleichgewicht in Europa stört und die Energieversorgung sowie die Verbraucherpreise bedroht."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "全球油价在特朗普威胁“摧毁”世界最大气田后交易至每桶110美元",
-        "en": "Global oil prices trade at $110 a barrel after Trump threatens to ‘blow up’ the world’s largest gas field",
-        "de": "Die globalen Ölpreise liegen bei 110 USD pro Barrel, nachdem Trump droht, das größte Gasfeld der Welt „in die Luft zu sprengen“"
+        "zh": "批发价格在2月份上涨0.7%，远超预期，年增3.4%",
+        "en": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually",
+        "de": "Die Großhandelspreise stiegen im Februar um 0,7%, was die Erwartungen bei weitem übertraf und jährlich um 3,4% zunahm"
       },
       "summary": {
-        "zh": "由于伊朗在海湾地区的能源生产受到攻击，全球油价回升至近四年来的最高水平。",
-        "en": "Global oil prices have surged back to near their highest levels in nearly four years following attacks on energy production in the Gulf by Iran.",
-        "de": "Die globalen Ölpreise sind nach Angriffen auf die Energieproduktion im Golf durch den Iran auf fast die höchsten Werte seit fast vier Jahren gestiegen."
+        "zh": "2月份的批发价格大幅上涨，显示出通货膨胀仍在持续，尽管能源价格上涨。",
+        "en": "Wholesale prices surged in February, indicating that inflation continues to persist even aside from rising energy prices.",
+        "de": "Die Großhandelspreise stiegen im Februar stark an, was darauf hindeutet, dass die Inflation weiterhin anhält, auch unabhängig von den steigenden Energiepreisen."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-03-19",
-      "url": "https://www.marketwatch.com/story/oil-prices-surge-after-iran-attacks-middle-east-energy-facilities-c43c7d1e?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-03-18",
+      "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html"
     }
   ]
 }
