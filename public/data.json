@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-21T05:29:20.976065+00:00",
+  "generatedAt": "2026-03-21T16:51:39.147269+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "OpenAI正在构建一个完全自动化的研究员，以及迷幻药试验的盲点：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
+        "zh": "OpenAI正在构建一个完全自动化的研究人员，迷幻药试验的盲点：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
         "en": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: OpenAI baut einen vollständig automatisierten Forscher und einen blinden Fleck bei psychedelischen Studien: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Überblick über das Geschehen in der Technologiewelt bietet."
+        "de": "Der Download: OpenAI baut einen vollständig automatisierten Forscher und einen blinden Fleck bei psychedelischen Studien: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Einblick in die Welt der Technologie bietet."
       },
       "summary": {
-        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究员，以提升其研究能力。同时，迷幻药在临床试验中的表现仍然不尽如人意，显示出行业内的盲点。",
-        "en": "OpenAI is fully committed to building a fully automated researcher to enhance its research capabilities. Meanwhile, psychedelics continue to underperform in clinical trials, revealing blind spots within the industry.",
-        "de": "OpenAI ist voll und ganz darauf bedacht, einen vollständig automatisierten Forscher zu entwickeln, um seine Forschungsfähigkeiten zu verbessern. In der Zwischenzeit schneiden Psychedelika in klinischen Studien weiterhin schlecht ab, was blinde Flecken innerhalb der Branche offenbart."
+        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究人员，旨在推动科学研究的自动化进程。同时，迷幻药在临床试验中的效果仍然存在争议。",
+        "en": "OpenAI is fully committed to building a fully automated researcher aimed at advancing the automation of scientific research. Meanwhile, the effectiveness of psychedelics in clinical trials remains contentious.",
+        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln, der darauf abzielt, die Automatisierung der wissenschaftlichen Forschung voranzutreiben. In der Zwischenzeit bleibt die Wirksamkeit von Psychedelika in klinischen Studien umstritten."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "OpenAI全力以赴构建一个完全自动化的研究员：OpenAI正在重新聚焦其研究工作，并将资源投入到一个新的重大挑战中。",
+        "zh": "OpenAI全力以赴构建一个完全自动化的研究人员：OpenAI正在重新聚焦其研究工作，并将资源投入到一个新的重大挑战中。",
         "en": "OpenAI is throwing everything into building a fully automated researcher: OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge.",
         "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln: OpenAI konzentriert seine Forschungsanstrengungen neu und investiert seine Ressourcen in eine neue große Herausforderung."
       },
       "summary": {
-        "zh": "OpenAI正在重新调整其研究方向，致力于开发一个完全自动化的研究员，以应对未来的挑战。这一举措标志着公司在人工智能领域的进一步发展。",
-        "en": "OpenAI is realigning its research direction to focus on developing a fully automated researcher to meet future challenges. This initiative marks a significant advancement for the company in the field of artificial intelligence.",
-        "de": "OpenAI richtet seine Forschungsrichtung neu aus, um sich auf die Entwicklung eines vollständig automatisierten Forschers zu konzentrieren, um zukünftigen Herausforderungen zu begegnen. Diese Initiative stellt einen bedeutenden Fortschritt für das Unternehmen im Bereich der künstlichen Intelligenz dar."
+        "zh": "OpenAI正在重新调整其研究方向，致力于开发一个完全自动化的研究人员，旨在推动科学研究的效率和创新。",
+        "en": "OpenAI is realigning its research direction to develop a fully automated researcher, aiming to enhance the efficiency and innovation of scientific research.",
+        "de": "OpenAI richtet seine Forschungsrichtung neu aus, um einen vollständig automatisierten Forscher zu entwickeln, der darauf abzielt, die Effizienz und Innovation der wissenschaftlichen Forschung zu steigern."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "迷幻药在临床试验中（仍然）未能达到预期：本周我想看看我们在迷幻药方面的进展，这些改变心智的物质已经从反文化跃升为主要。",
+        "zh": "迷幻物质在临床试验中仍然未能达到预期：本周我想看看我们在迷幻药方面的进展，这些改变心智的物质已从反文化跃升为主要关注。",
         "en": "Mind-altering substances are (still) falling short in clinical trials: This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major.",
-        "de": "Bewusstseinsverändernde Substanzen schneiden in klinischen Studien (immer noch) schlecht ab: Diese Woche möchte ich untersuchen, wo wir mit Psychedelika stehen, den bewusstseinsverändernden Substanzen, die es irgendwie geschafft haben, von der Gegenkultur zur Hauptströmung zu gelangen."
+        "de": "Bewusstseinsverändernde Substanzen sind (immer noch) in klinischen Studien gescheitert: Diese Woche möchte ich untersuchen, wo wir mit Psychedelika stehen, den bewusstseinsverändernden Substanzen, die es irgendwie geschafft haben, von der Gegenkultur zu einem Hauptthema zu werden."
       },
       "summary": {
-        "zh": "尽管迷幻药在反文化中获得了认可，但在临床试验中的效果仍未达到预期。研究显示，这些物质在治疗方面的有效性仍存在争议。",
-        "en": "Despite gaining recognition in counterculture, psychedelics are still failing to meet expectations in clinical trials. Research indicates that the efficacy of these substances in therapeutic contexts remains contentious.",
-        "de": "Trotz ihrer Anerkennung in der Gegenkultur schneiden Psychedelika in klinischen Studien weiterhin schlecht ab. Forschungen zeigen, dass die Wirksamkeit dieser Substanzen in therapeutischen Kontexten umstritten bleibt."
+        "zh": "尽管迷幻药在反文化中获得了关注，但在临床试验中仍未能达到预期效果，显示出其在医学应用中的局限性。",
+        "en": "Despite gaining attention in counterculture, psychedelics have still fallen short in clinical trials, revealing their limitations in medical applications.",
+        "de": "Trotz der Aufmerksamkeit in der Gegenkultur haben Psychedelika in klinischen Studien immer noch versagt, was ihre Einschränkungen in der medizinischen Anwendung offenbart."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "300百万人民在战争阴影下庆祝诺鲁孜：数百万人民在战争笼罩的中东迎来了古老的波斯新年诺鲁孜。",
-        "en": "300 million people celebrate Nowruz under a cloud of war: Millions of people have rung in the ancient Persian New Year, Nowruz, as war grips the Middle East.",
-        "de": "300 Millionen Menschen feiern Nowruz unter dem Schatten des Krieges: Millionen von Menschen haben das alte persische Neujahr, Nowruz, gefeiert, während der Krieg den Nahen Osten erfasst."
+        "zh": "德黑兰举行开斋节祈祷，伊朗革命卫队发言人举行葬礼：德黑兰在首都的空袭后举行开斋节祈祷。",
+        "en": "Tehran holds Eid prayers as funeral held for IRGC spokesman: Eid al-Fitr prayers were held in Tehran after overnight air strikes on the capital.",
+        "de": "Teheran hält Eid-Gebete, während die Beerdigung des IRGC-Sprechers stattfindet: Eid al-Fitr-Gebete wurden in Teheran nach nächtlichen Luftangriffen auf die Hauptstadt abgehalten."
       },
       "summary": {
-        "zh": "在中东战争的背景下，数百万人民庆祝古老的波斯新年诺鲁孜。尽管面临冲突和不安，庆祝活动依然如火如荼。",
-        "en": "Against the backdrop of war in the Middle East, millions celebrate the ancient Persian New Year, Nowruz. Despite the ongoing conflict and unrest, the celebrations continue vibrantly.",
-        "de": "Vor dem Hintergrund des Krieges im Nahen Osten feiern Millionen das alte persische Neujahr, Nowruz. Trotz des anhaltenden Konflikts und der Unruhen gehen die Feierlichkeiten lebhaft weiter."
+        "zh": "在德黑兰的空袭后，民众举行了开斋节祈祷，同时为伊朗革命卫队发言人举行了葬礼，显示出紧张局势的加剧。",
+        "en": "Following airstrikes in Tehran, prayers for Eid were held, alongside the funeral for the IRGC spokesman, highlighting the escalating tensions.",
+        "de": "Nach den Luftangriffen in Teheran wurden Eid-Gebete abgehalten, zusammen mit der Beerdigung des Sprechers der IRGC, was die eskalierenden Spannungen verdeutlicht."
       },
       "source": "Al Jazeera",
       "date": "2026-03-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/tehran-holds-eid-prayers-as-funeral-held-for-irgc-spokesman?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "来自墨西哥的援助船队启航前往古巴：一支来自墨西哥的援助船队正在前往古巴，因为该国在美国日益收紧的燃料封锁下苦苦挣扎。",
-        "en": "Aid flotilla for Cuba sets sail from Mexico: An aid flotilla from Mexico is sailing for Cuba as the country suffers under a tightening US fuel blockade.",
-        "de": "Hilfsflottille für Kuba setzt sich von Mexiko in Bewegung: Eine Hilfsflottille aus Mexiko segelt nach Kuba, während das Land unter einer sich verschärfenden US-Kraftstoffblockade leidet."
+        "zh": "巴林称爱国者系统拦截了家庭上空的无人机：巴林的说法与美国军方对3月9日事件的描述不同，该事件导致平民受伤。",
+        "en": "Bahrain says Patriot system intercepted drone over homes: Bahrain's account differs from how the US military described the March 9 incident, which led to civilian injuries.",
+        "de": "Bahrain sagt, dass das Patriot-System eine Drohne über Wohngebieten abgefangen hat: Bahrains Darstellung weicht von der Beschreibung des US-Militärs des Vorfalls vom 9. März ab, der zu zivilen Verletzungen führte."
       },
       "summary": {
-        "zh": "随着美国对古巴的燃料封锁日益收紧，来自墨西哥的援助船队启航前往古巴，旨在缓解该国的困境。",
-        "en": "As the US fuel blockade on Cuba tightens, an aid flotilla from Mexico sets sail to alleviate the country's struggles.",
-        "de": "Während die US-Kraftstoffblockade gegen Kuba sich verschärft, setzt sich eine Hilfsflottille aus Mexiko in Bewegung, um die Nöte des Landes zu lindern."
+        "zh": "巴林声称其爱国者导弹系统成功拦截了一架无人机，然而与美国军方的描述存在差异，导致对事件的解读产生混乱。",
+        "en": "Bahrain claims its Patriot missile system successfully intercepted a drone, yet there are discrepancies with the US military's account, leading to confusion over the incident.",
+        "de": "Bahrain behauptet, dass sein Patriot-Raketensystem eine Drohne erfolgreich abgefangen hat, doch gibt es Unterschiede zur Darstellung des US-Militärs, was zu Verwirrung über den Vorfall führt."
       },
       "source": "Al Jazeera",
       "date": "2026-03-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/aid-flotilla-for-cuba-sets-sail-from-mexico?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普表示没有停火，哈梅内伊发出强硬信息：特朗普表示霍尔木兹海峡必须由“其他国家”保护，以免遭伊朗攻击。",
-        "en": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message: Trump says Strait of Hormuz must be protected from Iranian attacks 'by other nations who use it'.",
-        "de": "Iran-Krieg live: Trump sagt, es gibt keinen Waffenstillstand, während Khamenei eine herausfordernde Botschaft aussendet: Trump sagt, die Straße von Hormus müsse 'von anderen Nationen, die sie nutzen, vor iranischen Angriffen geschützt werden'."
+        "zh": "英国称伊朗对迪戈加西亚的导弹袭击失败：英国称伊朗向印度洋的美英联合基地发射了弹道导弹。",
+        "en": "UK says Iran missile attack on Diego Garcia failed: The UK says Iran launched ballistic missiles at the joint US-UK Diego Garcia base in the Indian Ocean.",
+        "de": "Das Vereinigte Königreich sagt, dass der iranische Raketenangriff auf Diego Garcia gescheitert ist: Das Vereinigte Königreich sagt, dass der Iran ballistische Raketen auf die gemeinsame US-UK-Basis Diego Garcia im Indischen Ozean abgefeuert hat."
       },
       "summary": {
-        "zh": "特朗普在伊朗战争中表示没有停火，而哈梅内伊则发出强硬的信息，强调霍尔木兹海峡的保护责任在其他国家。",
-        "en": "Trump states there will be no ceasefire in the Iran war, while Khamenei issues a defiant message emphasizing the responsibility of other nations to protect the Strait of Hormuz.",
-        "de": "Trump erklärt, dass es im Iran-Krieg keinen Waffenstillstand geben wird, während Khamenei eine herausfordernde Botschaft aussendet, die die Verantwortung anderer Nationen zum Schutz der Straße von Hormus betont."
+        "zh": "英国政府表示，伊朗对迪戈加西亚基地的导弹攻击未能成功，反映出地区安全局势的复杂性。",
+        "en": "The UK government states that Iran's missile attack on the Diego Garcia base was unsuccessful, reflecting the complexities of the regional security situation.",
+        "de": "Die britische Regierung erklärt, dass der Raketenangriff des Iran auf die Basis Diego Garcia erfolglos war, was die Komplexität der regionalen Sicherheitslage widerspiegelt."
       },
       "source": "Al Jazeera",
       "date": "2026-03-21",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员在美联储决定后几乎没有降息的机会：本周美联储会议上的所有积极经济谈话对投资者产生了负面影响。",
-        "en": "Traders now see little chance of an interest rate cut this year following Fed decision: All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors.",
-        "de": "Händler sehen nach der Entscheidung der Fed kaum Chancen auf eine Zinssenkung in diesem Jahr: Alle positiven wirtschaftlichen Gespräche aus dem dieswöchigen Treffen der Federal Reserve hatten negative Auswirkungen auf die Anleger."
+        "zh": "伊丽莎白·沃伦要求对“非法和鲁莽的战争”的成本和经济影响作出回应：这位自由派民主党火焰女在批评唐纳德·特朗普时表示，他将美国拖入了一场“非法和鲁莽的战争”。",
+        "en": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war': The liberal Democratic firebrand ripped President Donald Trump, whom she said has 'dragged the United States into an illegal and reckless war.'",
+        "de": "Elizabeth Warren fordert Antworten zu den Kosten und wirtschaftlichen Auswirkungen des 'illegalen und rücksichtslosen Krieges': Die liberale demokratische Feuerbrand kritisierte Präsident Donald Trump, den sie beschuldigte, die Vereinigten Staaten in einen 'illegalen und rücksichtslosen Krieg' gezogen zu haben."
       },
       "summary": {
-        "zh": "在美联储会议上，尽管经济前景乐观，但交易员们认为今年降息的可能性微乎其微，这对市场情绪产生了负面影响。",
-        "en": "Despite an optimistic economic outlook from the Federal Reserve meeting, traders believe the chances of an interest rate cut this year are slim, negatively impacting market sentiment.",
-        "de": "Trotz einer optimistischen wirtschaftlichen Perspektive aus dem Treffen der Federal Reserve glauben die Händler, dass die Chancen auf eine Zinssenkung in diesem Jahr gering sind, was sich negativ auf die Marktstimmung auswirkt."
+        "zh": "伊丽莎白·沃伦对特朗普政府在伊朗战争中的决策提出质疑，要求澄清战争的经济影响和成本，强调了战争对美国经济的潜在威胁。",
+        "en": "Elizabeth Warren questions the Trump administration's decisions regarding the Iran war, demanding clarification on the economic impacts and costs of the war, highlighting potential threats to the US economy.",
+        "de": "Elizabeth Warren hinterfragt die Entscheidungen der Trump-Administration bezüglich des Iran-Kriegs und fordert Klarheit über die wirtschaftlichen Auswirkungen und Kosten des Krieges, was potenzielle Bedrohungen für die US-Wirtschaft hervorhebt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-20",
+      "url": "https://www.cnbc.com/2026/03/20/elizabeth-warren-demands-answers-on-costs-economic-impact-of-illegal-and-reckless-war.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "交易员现在几乎没有机会在美联储决定后今年降息：本周美联储会议上的积极经济谈话对投资者产生了负面影响。",
+        "en": "Traders now see little chance of an interest rate cut this year following Fed decision: All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors.",
+        "de": "Händler sehen nach der Fed-Entscheidung kaum Chancen auf eine Zinssenkung in diesem Jahr: Alle positiven wirtschaftlichen Gespräche aus der Sitzung der Federal Reserve in dieser Woche hatten negative Auswirkungen auf die Investoren."
+      },
+      "summary": {
+        "zh": "美联储的最新会议使交易员对今年降息的预期降至最低，反映出市场对经济前景的担忧。",
+        "en": "The latest Federal Reserve meeting has led traders to lower expectations for an interest rate cut this year, reflecting market concerns over the economic outlook.",
+        "de": "Die letzte Sitzung der Federal Reserve hat dazu geführt, dass Händler ihre Erwartungen an eine Zinssenkung in diesem Jahr gesenkt haben, was die Bedenken des Marktes hinsichtlich der wirtschaftlichen Aussichten widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
       "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "欧洲央行保持利率不变，警告前景“显著不确定”：伊朗战争扰乱了欧洲的经济平衡，威胁能源供应、增长和消费者价格的前景。",
+        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”：伊朗战争扰乱了欧洲的经济平衡，威胁能源供应、增长和消费者价格的前景。",
         "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain': The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic.",
-        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind: Der Krieg im Iran hat das wirtschaftliche Gleichgewicht in Europa gestört und bedroht die Energieversorgung, das Wachstum und die Aussichten für die Verbraucherpreise."
+        "de": "Die Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind: Der Krieg im Iran hat das wirtschaftliche Gleichgewicht in Europa gestört und bedroht die Energieversorgung, das Wachstum und die Aussichten für die Verbraucherpreise."
       },
       "summary": {
-        "zh": "欧洲央行决定保持利率不变，并警告称，由于伊朗战争，经济前景变得更加不确定，可能会影响能源供应和消费者价格。",
-        "en": "The European Central Bank has decided to keep interest rates steady and warns that the economic outlook has become significantly more uncertain due to the war in Iran, potentially affecting energy supplies and consumer prices.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, und warnt, dass die wirtschaftlichen Aussichten aufgrund des Krieges im Iran deutlich unsicherer geworden sind, was möglicherweise die Energieversorgung und die Verbraucherpreise beeinflusst."
+        "zh": "欧洲央行决定维持利率不变，并对未来经济前景表示担忧，指出伊朗战争对欧洲经济的潜在影响。",
+        "en": "The European Central Bank has decided to keep interest rates steady and expressed concerns over future economic prospects, highlighting the potential impact of the Iran war on the European economy.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, und äußerte Bedenken hinsichtlich der zukünftigen wirtschaftlichen Aussichten, wobei sie die potenziellen Auswirkungen des Iran-Kriegs auf die europäische Wirtschaft hervorhebt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
       "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "伊朗战争油价冲击引发对1970年代滞胀的担忧——这次可能会有所不同：一些投资者将市场前景与1970年代进行比较，但有几个关键差异需要注意。",
-        "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different: Some investors are drawing comparisons with the 1970s to interpret where markets are headed in 2026, but there are several key differences to note this.",
-        "de": "Ölschock durch den Iran-Krieg schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es dieses Mal anders sein könnte: Einige Anleger ziehen Vergleiche mit den 1970er Jahren, um zu interpretieren, wohin sich die Märkte im Jahr 2026 entwickeln, aber es gibt mehrere wichtige Unterschiede zu beachten."
-      },
-      "summary": {
-        "zh": "伊朗战争引发的油价冲击使投资者担忧可能出现1970年代风格的滞胀，但分析师指出，当前的经济环境与当时存在显著差异。",
-        "en": "The oil shock from the Iran war has investors worried about a potential 1970s-style stagflation, but analysts point out significant differences between the current economic environment and that of the past.",
-        "de": "Der Ölschock durch den Iran-Krieg sorgt bei den Anlegern für Sorgen über eine mögliche Stagflation im Stil der 1970er Jahre, aber Analysten weisen auf wesentliche Unterschiede zwischen der aktuellen wirtschaftlichen Lage und der Vergangenheit hin."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-13",
-      "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
     }
   ]
 }
