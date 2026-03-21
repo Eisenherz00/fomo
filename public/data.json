@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-20T17:07:34.260551+00:00",
+  "generatedAt": "2026-03-21T05:29:20.976065+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "OpenAI正在构建一个完全自动化的研究者，以及迷幻药试验的盲点：这是今天的下载，我们的工作日通讯，提供关于科技世界的每日动态。",
+        "zh": "OpenAI正在构建一个完全自动化的研究员，以及迷幻药试验的盲点：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
         "en": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: OpenAI baut einen vollständig automatisierten Forscher und einen blinden Fleck bei psychedelischen Studien: Dies ist die heutige Ausgabe des Downloads, unseres Wochentags-Newsletters, der täglich über das Geschehen in der Technologiewelt informiert."
+        "de": "Der Download: OpenAI baut einen vollständig automatisierten Forscher und einen blinden Fleck bei psychedelischen Studien: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Überblick über das Geschehen in der Technologiewelt bietet."
       },
       "summary": {
-        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究者，以提高研究效率。同时，迷幻药在临床试验中的表现仍未达到预期，显示出研究领域的复杂性。",
-        "en": "OpenAI is fully committed to building a fully automated researcher to enhance research efficiency. Meanwhile, psychedelics are still falling short in clinical trials, highlighting the complexities in the research field.",
-        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln, um die Forschungseffizienz zu steigern. In der Zwischenzeit schneiden Psychedelika in klinischen Studien weiterhin schlecht ab, was die Komplexität im Forschungsbereich verdeutlicht."
+        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究员，以提升其研究能力。同时，迷幻药在临床试验中的表现仍然不尽如人意，显示出行业内的盲点。",
+        "en": "OpenAI is fully committed to building a fully automated researcher to enhance its research capabilities. Meanwhile, psychedelics continue to underperform in clinical trials, revealing blind spots within the industry.",
+        "de": "OpenAI ist voll und ganz darauf bedacht, einen vollständig automatisierten Forscher zu entwickeln, um seine Forschungsfähigkeiten zu verbessern. In der Zwischenzeit schneiden Psychedelika in klinischen Studien weiterhin schlecht ab, was blinde Flecken innerhalb der Branche offenbart."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究者：OpenAI正在重新聚焦其研究工作，并将资源投入到一个新的重大挑战中。",
+        "zh": "OpenAI全力以赴构建一个完全自动化的研究员：OpenAI正在重新聚焦其研究工作，并将资源投入到一个新的重大挑战中。",
         "en": "OpenAI is throwing everything into building a fully automated researcher: OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge.",
         "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln: OpenAI konzentriert seine Forschungsanstrengungen neu und investiert seine Ressourcen in eine neue große Herausforderung."
       },
       "summary": {
-        "zh": "OpenAI正在重新调整其研究方向，致力于开发一个完全自动化的研究者，以推动科学研究的进步。这一新挑战标志着公司在人工智能领域的进一步发展。",
-        "en": "OpenAI is realigning its research direction to focus on developing a fully automated researcher to advance scientific inquiry. This new challenge marks a significant step in the company's evolution in the AI field.",
-        "de": "OpenAI richtet seine Forschungsrichtung neu aus, um sich auf die Entwicklung eines vollständig automatisierten Forschers zu konzentrieren, um wissenschaftliche Untersuchungen voranzutreiben. Diese neue Herausforderung stellt einen bedeutenden Schritt in der Evolution des Unternehmens im Bereich KI dar."
+        "zh": "OpenAI正在重新调整其研究方向，致力于开发一个完全自动化的研究员，以应对未来的挑战。这一举措标志着公司在人工智能领域的进一步发展。",
+        "en": "OpenAI is realigning its research direction to focus on developing a fully automated researcher to meet future challenges. This initiative marks a significant advancement for the company in the field of artificial intelligence.",
+        "de": "OpenAI richtet seine Forschungsrichtung neu aus, um sich auf die Entwicklung eines vollständig automatisierten Forschers zu konzentrieren, um zukünftigen Herausforderungen zu begegnen. Diese Initiative stellt einen bedeutenden Fortschritt für das Unternehmen im Bereich der künstlichen Intelligenz dar."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "迷幻药在临床试验中（仍然）未能达到预期：本周我想看看我们在迷幻药方面的进展，这些改变心智的物质已经从反文化跃升为主要流行趋势。",
+        "zh": "迷幻药在临床试验中（仍然）未能达到预期：本周我想看看我们在迷幻药方面的进展，这些改变心智的物质已经从反文化跃升为主要。",
         "en": "Mind-altering substances are (still) falling short in clinical trials: This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major.",
-        "de": "Bewusstseinsverändernde Substanzen schneiden in klinischen Studien (immer noch) schlecht ab: Diese Woche möchte ich untersuchen, wo wir mit Psychedelika stehen, den bewusstseinsverändernden Substanzen, die es irgendwie geschafft haben, vom Gegenkultur- zum Mainstream zu gelangen."
+        "de": "Bewusstseinsverändernde Substanzen schneiden in klinischen Studien (immer noch) schlecht ab: Diese Woche möchte ich untersuchen, wo wir mit Psychedelika stehen, den bewusstseinsverändernden Substanzen, die es irgendwie geschafft haben, von der Gegenkultur zur Hauptströmung zu gelangen."
       },
       "summary": {
-        "zh": "尽管迷幻药在社会文化中获得了更广泛的接受，但在临床试验中，它们的效果仍未达到预期。这表明在药物开发和应用方面仍存在许多挑战。",
-        "en": "Despite gaining wider acceptance in social culture, psychedelics are still not meeting expectations in clinical trials. This indicates that there are still many challenges in drug development and application.",
-        "de": "Trotz ihrer breiteren Akzeptanz in der Gesellschaft erfüllen Psychedelika in klinischen Studien weiterhin nicht die Erwartungen. Dies deutet darauf hin, dass es in der Arzneimittelentwicklung und -anwendung noch viele Herausforderungen gibt."
+        "zh": "尽管迷幻药在反文化中获得了认可，但在临床试验中的效果仍未达到预期。研究显示，这些物质在治疗方面的有效性仍存在争议。",
+        "en": "Despite gaining recognition in counterculture, psychedelics are still failing to meet expectations in clinical trials. Research indicates that the efficacy of these substances in therapeutic contexts remains contentious.",
+        "de": "Trotz ihrer Anerkennung in der Gegenkultur schneiden Psychedelika in klinischen Studien weiterhin schlecht ab. Forschungen zeigen, dass die Wirksamkeit dieser Substanzen in therapeutischen Kontexten umstritten bleibt."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗的哈梅内伊在书面诺鲁兹信息中称敌人“被击败”",
-        "en": "Iran’s Khamenei says enemy ‘defeated’ in written Nowruz message",
-        "de": "Irans Khamenei sagt, der Feind sei in schriftlicher Nowruz-Botschaft 'besiegt' worden"
+        "zh": "300百万人民在战争阴影下庆祝诺鲁孜：数百万人民在战争笼罩的中东迎来了古老的波斯新年诺鲁孜。",
+        "en": "300 million people celebrate Nowruz under a cloud of war: Millions of people have rung in the ancient Persian New Year, Nowruz, as war grips the Middle East.",
+        "de": "300 Millionen Menschen feiern Nowruz unter dem Schatten des Krieges: Millionen von Menschen haben das alte persische Neujahr, Nowruz, gefeiert, während der Krieg den Nahen Osten erfasst."
       },
       "summary": {
-        "zh": "伊朗最高领袖哈梅内伊在诺鲁兹节的书面信息中声称敌人已被击败。这一声明反映了伊朗在当前冲突中的立场和自信。",
-        "en": "Iran's Supreme Leader Khamenei claimed in a written Nowruz message that the enemy has been defeated. This statement reflects Iran's stance and confidence in the ongoing conflict.",
-        "de": "Irans Oberster Führer Khamenei erklärte in einer schriftlichen Nowruz-Botschaft, dass der Feind besiegt worden sei. Diese Aussage spiegelt Irans Haltung und Vertrauen im laufenden Konflikt wider."
+        "zh": "在中东战争的背景下，数百万人民庆祝古老的波斯新年诺鲁孜。尽管面临冲突和不安，庆祝活动依然如火如荼。",
+        "en": "Against the backdrop of war in the Middle East, millions celebrate the ancient Persian New Year, Nowruz. Despite the ongoing conflict and unrest, the celebrations continue vibrantly.",
+        "de": "Vor dem Hintergrund des Krieges im Nahen Osten feiern Millionen das alte persische Neujahr, Nowruz. Trotz des anhaltenden Konflikts und der Unruhen gehen die Feierlichkeiten lebhaft weiter."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-20",
-      "url": "https://www.aljazeera.com/news/2026/3/20/irans-khamenei-says-enemy-defeated-in-written-nowruz-message?traffic_source=rss"
+      "date": "2026-03-21",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗战争会引发下一个全球粮食危机吗？",
-        "en": "Could Iran war trigger the next global food shock?",
-        "de": "Könnte der Iran-Krieg den nächsten globalen Ernährungsschock auslösen?"
+        "zh": "来自墨西哥的援助船队启航前往古巴：一支来自墨西哥的援助船队正在前往古巴，因为该国在美国日益收紧的燃料封锁下苦苦挣扎。",
+        "en": "Aid flotilla for Cuba sets sail from Mexico: An aid flotilla from Mexico is sailing for Cuba as the country suffers under a tightening US fuel blockade.",
+        "de": "Hilfsflottille für Kuba setzt sich von Mexiko in Bewegung: Eine Hilfsflottille aus Mexiko segelt nach Kuba, während das Land unter einer sich verschärfenden US-Kraftstoffblockade leidet."
       },
       "summary": {
-        "zh": "伊朗战争正在扰乱全球供应链，从工厂到超市货架，可能会引发全球粮食危机。这一局势对国际市场产生了深远的影响。",
-        "en": "The Iran war is disrupting global supply chains, from factories to supermarket shelves, potentially triggering a global food crisis. This situation has profound implications for international markets.",
-        "de": "Der Iran-Krieg stört die globalen Lieferketten, von Fabriken bis zu Supermarktregalen, und könnte eine globale Lebensmittelkrise auslösen. Diese Situation hat tiefgreifende Auswirkungen auf die internationalen Märkte."
+        "zh": "随着美国对古巴的燃料封锁日益收紧，来自墨西哥的援助船队启航前往古巴，旨在缓解该国的困境。",
+        "en": "As the US fuel blockade on Cuba tightens, an aid flotilla from Mexico sets sail to alleviate the country's struggles.",
+        "de": "Während die US-Kraftstoffblockade gegen Kuba sich verschärft, setzt sich eine Hilfsflottille aus Mexiko in Bewegung, um die Nöte des Landes zu lindern."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-20",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/20/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss"
+      "date": "2026-03-21",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/aid-flotilla-for-cuba-sets-sail-from-mexico?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普抨击北约在美以对伊朗战争中缺乏支持",
-        "en": "‘Cowards’: Trump slams NATO over lack of support in US–Israel war on Iran",
-        "de": "‘Feiglinge’: Trump kritisiert die NATO wegen mangelnder Unterstützung im US-Israel-Krieg gegen den Iran"
+        "zh": "特朗普表示没有停火，哈梅内伊发出强硬信息：特朗普表示霍尔木兹海峡必须由“其他国家”保护，以免遭伊朗攻击。",
+        "en": "Iran war live: Trump says no ceasefire as Khamenei issues defiant message: Trump says Strait of Hormuz must be protected from Iranian attacks 'by other nations who use it'.",
+        "de": "Iran-Krieg live: Trump sagt, es gibt keinen Waffenstillstand, während Khamenei eine herausfordernde Botschaft aussendet: Trump sagt, die Straße von Hormus müsse 'von anderen Nationen, die sie nutzen, vor iranischen Angriffen geschützt werden'."
       },
       "summary": {
-        "zh": "特朗普批评北约在美以对伊朗战争中的缺乏支持，并呼吁美国盟友帮助确保霍尔木兹海的航运安全。这一言论反映了当前国际关系的紧张局势。",
-        "en": "Trump criticized NATO for its lack of support in the US-Israel war against Iran, calling for US allies to help secure shipping through the Strait of Hormuz. This statement reflects the current tensions in international relations.",
-        "de": "Trump kritisierte die NATO wegen mangelnder Unterstützung im US-Israel-Krieg gegen den Iran und forderte die US-Verbündeten auf, die Schifffahrt durch die Straße von Hormuz zu sichern. Diese Aussage spiegelt die aktuellen Spannungen in den internationalen Beziehungen wider."
+        "zh": "特朗普在伊朗战争中表示没有停火，而哈梅内伊则发出强硬的信息，强调霍尔木兹海峡的保护责任在其他国家。",
+        "en": "Trump states there will be no ceasefire in the Iran war, while Khamenei issues a defiant message emphasizing the responsibility of other nations to protect the Strait of Hormuz.",
+        "de": "Trump erklärt, dass es im Iran-Krieg keinen Waffenstillstand geben wird, während Khamenei eine herausfordernde Botschaft aussendet, die die Verantwortung anderer Nationen zum Schutz der Straße von Hormus betont."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-20",
-      "url": "https://www.aljazeera.com/news/2026/3/20/cowards-trump-slams-nato-over-lack-of-support-in-us-israel-war-on?traffic_source=rss"
+      "date": "2026-03-21",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员在美联储决定后几乎看不到今年降息的机会",
-        "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
-        "de": "Händler sehen nach der Fed-Entscheidung kaum Chancen auf eine Zinssenkung in diesem Jahr"
+        "zh": "交易员在美联储决定后几乎没有降息的机会：本周美联储会议上的所有积极经济谈话对投资者产生了负面影响。",
+        "en": "Traders now see little chance of an interest rate cut this year following Fed decision: All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors.",
+        "de": "Händler sehen nach der Entscheidung der Fed kaum Chancen auf eine Zinssenkung in diesem Jahr: Alle positiven wirtschaftlichen Gespräche aus dem dieswöchigen Treffen der Federal Reserve hatten negative Auswirkungen auf die Anleger."
       },
       "summary": {
-        "zh": "在美联储的最新决定之后，交易员们几乎看不到今年降息的机会。市场对经济前景的乐观情绪受到抑制。",
-        "en": "Following the Federal Reserve's latest decision, traders see little chance of an interest rate cut this year. Market optimism about the economic outlook is dampened.",
-        "de": "Nach der neuesten Entscheidung der Federal Reserve sehen Händler kaum Chancen auf eine Zinssenkung in diesem Jahr. Der Optimismus der Märkte über die wirtschaftlichen Aussichten ist gedämpft."
+        "zh": "在美联储会议上，尽管经济前景乐观，但交易员们认为今年降息的可能性微乎其微，这对市场情绪产生了负面影响。",
+        "en": "Despite an optimistic economic outlook from the Federal Reserve meeting, traders believe the chances of an interest rate cut this year are slim, negatively impacting market sentiment.",
+        "de": "Trotz einer optimistischen wirtschaftlichen Perspektive aus dem Treffen der Federal Reserve glauben die Händler, dass die Chancen auf eine Zinssenkung in diesem Jahr gering sind, was sich negativ auf die Marktstimmung auswirkt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "欧洲央行保持利率稳定，警告前景“显著不确定”",
-        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
-        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
+        "zh": "欧洲央行保持利率不变，警告前景“显著不确定”：伊朗战争扰乱了欧洲的经济平衡，威胁能源供应、增长和消费者价格的前景。",
+        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain': The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic.",
+        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind: Der Krieg im Iran hat das wirtschaftliche Gleichgewicht in Europa gestört und bedroht die Energieversorgung, das Wachstum und die Aussichten für die Verbraucherpreise."
       },
       "summary": {
-        "zh": "欧洲央行决定保持利率不变，并警告称，由于伊朗战争，经济前景变得“显著不确定”。这一决定可能对市场产生深远影响。",
-        "en": "The European Central Bank decided to keep interest rates steady and warned that the economic outlook is 'significantly more uncertain' due to the Iran war. This decision may have far-reaching implications for the markets.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, und warnt, dass die wirtschaftlichen Aussichten aufgrund des Iran-Kriegs 'deutlich unsicherer' sind. Diese Entscheidung könnte weitreichende Auswirkungen auf die Märkte haben."
+        "zh": "欧洲央行决定保持利率不变，并警告称，由于伊朗战争，经济前景变得更加不确定，可能会影响能源供应和消费者价格。",
+        "en": "The European Central Bank has decided to keep interest rates steady and warns that the economic outlook has become significantly more uncertain due to the war in Iran, potentially affecting energy supplies and consumer prices.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, und warnt, dass die wirtschaftlichen Aussichten aufgrund des Krieges im Iran deutlich unsicherer geworden sind, was möglicherweise die Energieversorgung und die Verbraucherpreise beeinflusst."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "由于交易员看到美联储加息的机会飙升至50%以上，股票和债券挣扎",
-        "en": "Stocks and bonds struggle as traders see chances of Fed rate hike soar above 50% — up sharply from earlier this week",
-        "de": "Aktien und Anleihen kämpfen, da Händler die Chancen auf eine Zinserhöhung der Fed auf über 50 % steigen sehen – stark gestiegen im Vergleich zu Anfang dieser Woche"
+        "zh": "伊朗战争油价冲击引发对1970年代滞胀的担忧——这次可能会有所不同：一些投资者将市场前景与1970年代进行比较，但有几个关键差异需要注意。",
+        "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different: Some investors are drawing comparisons with the 1970s to interpret where markets are headed in 2026, but there are several key differences to note this.",
+        "de": "Ölschock durch den Iran-Krieg schürt Ängste vor einer Stagflation im Stil der 1970er Jahre – warum es dieses Mal anders sein könnte: Einige Anleger ziehen Vergleiche mit den 1970er Jahren, um zu interpretieren, wohin sich die Märkte im Jahr 2026 entwickeln, aber es gibt mehrere wichtige Unterschiede zu beachten."
       },
       "summary": {
-        "zh": "由于交易员预计美联储加息的机会超过50%，股票和债券市场面临压力。这一变化反映了市场对经济前景的担忧。",
-        "en": "Stocks and bonds are under pressure as traders see the chances of a Fed rate hike soar above 50%. This shift reflects market concerns about the economic outlook.",
-        "de": "Aktien und Anleihen stehen unter Druck, da Händler die Chancen auf eine Zinserhöhung der Fed auf über 50 % steigen sehen. Dieser Wandel spiegelt die Sorgen der Märkte über die wirtschaftlichen Aussichten wider."
+        "zh": "伊朗战争引发的油价冲击使投资者担忧可能出现1970年代风格的滞胀，但分析师指出，当前的经济环境与当时存在显著差异。",
+        "en": "The oil shock from the Iran war has investors worried about a potential 1970s-style stagflation, but analysts point out significant differences between the current economic environment and that of the past.",
+        "de": "Der Ölschock durch den Iran-Krieg sorgt bei den Anlegern für Sorgen über eine mögliche Stagflation im Stil der 1970er Jahre, aber Analysten weisen auf wesentliche Unterschiede zwischen der aktuellen wirtschaftlichen Lage und der Vergangenheit hin."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-03-20",
-      "url": "https://www.marketwatch.com/story/stocks-and-bonds-struggle-as-traders-see-chances-of-fed-rate-hike-soar-above-50-up-sharply-from-earlier-this-week-c0c11304?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-03-13",
+      "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
     }
   ]
 }
