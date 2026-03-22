@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-21T16:51:39.147269+00:00",
+  "generatedAt": "2026-03-22T05:38:57.062909+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "OpenAI正在构建一个完全自动化的研究人员，迷幻药试验的盲点：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
+        "zh": "OpenAI正在构建一个完全自动化的研究人员，以及迷幻药试验的盲点：今天的下载",
         "en": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
         "de": "Der Download: OpenAI baut einen vollständig automatisierten Forscher und einen blinden Fleck bei psychedelischen Studien: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Einblick in die Welt der Technologie bietet."
       },
       "summary": {
-        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究人员，旨在推动科学研究的自动化进程。同时，迷幻药在临床试验中的效果仍然存在争议。",
-        "en": "OpenAI is fully committed to building a fully automated researcher aimed at advancing the automation of scientific research. Meanwhile, the effectiveness of psychedelics in clinical trials remains contentious.",
-        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln, der darauf abzielt, die Automatisierung der wissenschaftlichen Forschung voranzutreiben. In der Zwischenzeit bleibt die Wirksamkeit von Psychedelika in klinischen Studien umstritten."
+        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究人员，旨在推动科技领域的研究效率。同时，迷幻药在临床试验中的效果仍然存在争议。",
+        "en": "OpenAI is fully committed to building a fully automated researcher, aiming to enhance research efficiency in the tech field. Meanwhile, the effectiveness of psychedelics in clinical trials remains contentious.",
+        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln, um die Forschungseffizienz im Technologiebereich zu steigern. Inzwischen bleibt die Wirksamkeit von Psychedelika in klinischen Studien umstritten."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "OpenAI全力以赴构建一个完全自动化的研究人员：OpenAI正在重新聚焦其研究工作，并将资源投入到一个新的重大挑战中。",
-        "en": "OpenAI is throwing everything into building a fully automated researcher: OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge.",
-        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln: OpenAI konzentriert seine Forschungsanstrengungen neu und investiert seine Ressourcen in eine neue große Herausforderung."
+        "zh": "OpenAI正在全力以赴构建一个完全自动化的研究人员",
+        "en": "OpenAI is throwing everything into building a fully automated researcher.",
+        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln."
       },
       "summary": {
-        "zh": "OpenAI正在重新调整其研究方向，致力于开发一个完全自动化的研究人员，旨在推动科学研究的效率和创新。",
-        "en": "OpenAI is realigning its research direction to develop a fully automated researcher, aiming to enhance the efficiency and innovation of scientific research.",
-        "de": "OpenAI richtet seine Forschungsrichtung neu aus, um einen vollständig automatisierten Forscher zu entwickeln, der darauf abzielt, die Effizienz und Innovation der wissenschaftlichen Forschung zu steigern."
+        "zh": "OpenAI正在重新调整其研究重点，投入资源于构建一个全自动化的研究人员，这一宏大挑战将改变科技研究的未来。",
+        "en": "OpenAI is refocusing its research priorities and investing resources into building a fully automated researcher, a grand challenge that could transform the future of tech research.",
+        "de": "OpenAI konzentriert seine Forschungsprioritäten neu und investiert Ressourcen in den Aufbau eines vollständig automatisierten Forschers, einer großen Herausforderung, die die Zukunft der Technologieforschung verändern könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "迷幻物质在临床试验中仍然未能达到预期：本周我想看看我们在迷幻药方面的进展，这些改变心智的物质已从反文化跃升为主要关注。",
-        "en": "Mind-altering substances are (still) falling short in clinical trials: This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major.",
-        "de": "Bewusstseinsverändernde Substanzen sind (immer noch) in klinischen Studien gescheitert: Diese Woche möchte ich untersuchen, wo wir mit Psychedelika stehen, den bewusstseinsverändernden Substanzen, die es irgendwie geschafft haben, von der Gegenkultur zu einem Hauptthema zu werden."
+        "zh": "迷幻药在临床试验中（仍然）未能达到预期",
+        "en": "Mind-altering substances are (still) falling short in clinical trials.",
+        "de": "Psychoaktive Substanzen bleiben (immer noch) hinter den Erwartungen in klinischen Studien zurück."
       },
       "summary": {
-        "zh": "尽管迷幻药在反文化中获得了关注，但在临床试验中仍未能达到预期效果，显示出其在医学应用中的局限性。",
-        "en": "Despite gaining attention in counterculture, psychedelics have still fallen short in clinical trials, revealing their limitations in medical applications.",
-        "de": "Trotz der Aufmerksamkeit in der Gegenkultur haben Psychedelika in klinischen Studien immer noch versagt, was ihre Einschränkungen in der medizinischen Anwendung offenbart."
+        "zh": "尽管迷幻药在文化中获得了关注，但在临床试验中其疗效仍未达到预期，显示出其在医学应用中的局限性。",
+        "en": "Despite gaining attention in culture, psychedelics have not met expectations in clinical trials, highlighting their limitations in medical applications.",
+        "de": "Trotz der Aufmerksamkeit in der Kultur haben Psychedelika in klinischen Studien nicht die Erwartungen erfüllt, was ihre Grenzen in der medizinischen Anwendung aufzeigt."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "德黑兰举行开斋节祈祷，伊朗革命卫队发言人举行葬礼：德黑兰在首都的空袭后举行开斋节祈祷。",
-        "en": "Tehran holds Eid prayers as funeral held for IRGC spokesman: Eid al-Fitr prayers were held in Tehran after overnight air strikes on the capital.",
-        "de": "Teheran hält Eid-Gebete, während die Beerdigung des IRGC-Sprechers stattfindet: Eid al-Fitr-Gebete wurden in Teheran nach nächtlichen Luftangriffen auf die Hauptstadt abgehalten."
+        "zh": "特朗普威胁要“摧毁”伊朗电厂，除非霍尔木兹海峡开放",
+        "en": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open.",
+        "de": "Trump droht, die iranischen Kraftwerke zu 'vernichten', wenn die Straße von Hormuz nicht geöffnet wird."
       },
       "summary": {
-        "zh": "在德黑兰的空袭后，民众举行了开斋节祈祷，同时为伊朗革命卫队发言人举行了葬礼，显示出紧张局势的加剧。",
-        "en": "Following airstrikes in Tehran, prayers for Eid were held, alongside the funeral for the IRGC spokesman, highlighting the escalating tensions.",
-        "de": "Nach den Luftangriffen in Teheran wurden Eid-Gebete abgehalten, zusammen mit der Beerdigung des Sprechers der IRGC, was die eskalierenden Spannungen verdeutlicht."
+        "zh": "特朗普威胁如果伊朗不开放霍尔木兹海峡，将摧毁该国的电厂。这一言论加剧了美国与伊朗之间的紧张关系。",
+        "en": "Trump has threatened to destroy Iran's power plants if the country does not open the Strait of Hormuz. This statement escalates tensions between the U.S. and Iran.",
+        "de": "Trump hat gedroht, die iranischen Kraftwerke zu zerstören, wenn das Land die Straße von Hormuz nicht öffnet. Diese Aussage eskaliert die Spannungen zwischen den USA und dem Iran."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/tehran-holds-eid-prayers-as-funeral-held-for-irgc-spokesman?traffic_source=rss"
+      "date": "2026-03-22",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/trump-threatens-to-obliterate-iran-power-plants-unless-hormuz-strait-open?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "巴林称爱国者系统拦截了家庭上空的无人机：巴林的说法与美国军方对3月9日事件的描述不同，该事件导致平民受伤。",
-        "en": "Bahrain says Patriot system intercepted drone over homes: Bahrain's account differs from how the US military described the March 9 incident, which led to civilian injuries.",
-        "de": "Bahrain sagt, dass das Patriot-System eine Drohne über Wohngebieten abgefangen hat: Bahrains Darstellung weicht von der Beschreibung des US-Militärs des Vorfalls vom 9. März ab, der zu zivilen Verletzungen führte."
+        "zh": "以色列定居者在约旦河西岸纵火，造成伤亡",
+        "en": "Casualties as Israeli settlers set fire to homes and cars in West Bank.",
+        "de": "Opfer, als israelische Siedler Häuser und Autos im Westjordanland in Brand setzen."
       },
       "summary": {
-        "zh": "巴林声称其爱国者导弹系统成功拦截了一架无人机，然而与美国军方的描述存在差异，导致对事件的解读产生混乱。",
-        "en": "Bahrain claims its Patriot missile system successfully intercepted a drone, yet there are discrepancies with the US military's account, leading to confusion over the incident.",
-        "de": "Bahrain behauptet, dass sein Patriot-Raketensystem eine Drohne erfolgreich abgefangen hat, doch gibt es Unterschiede zur Darstellung des US-Militärs, was zu Verwirrung über den Vorfall führt."
+        "zh": "在约旦河西岸，定居者纵火焚烧房屋和汽车，导致伤亡。这一事件反映了该地区的持续暴力和紧张局势。",
+        "en": "In the West Bank, settlers set fire to homes and cars, resulting in casualties. This incident reflects the ongoing violence and tensions in the region.",
+        "de": "Im Westjordanland setzten Siedler Häuser und Autos in Brand, was zu Opfern führte. Dieser Vorfall spiegelt die anhaltende Gewalt und Spannungen in der Region wider."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-21",
-      "url": "https://www.aljazeera.com/news/2026/3/21/bahrain-says-patriot-system-intercepted-drone-over-homes?traffic_source=rss"
+      "date": "2026-03-22",
+      "url": "https://www.aljazeera.com/news/2026/3/22/casualties-as-israeli-settlers-set-fire-to-homes-and-cars-in-west-bank?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "英国称伊朗对迪戈加西亚的导弹袭击失败：英国称伊朗向印度洋的美英联合基地发射了弹道导弹。",
-        "en": "UK says Iran missile attack on Diego Garcia failed: The UK says Iran launched ballistic missiles at the joint US-UK Diego Garcia base in the Indian Ocean.",
-        "de": "Das Vereinigte Königreich sagt, dass der iranische Raketenangriff auf Diego Garcia gescheitert ist: Das Vereinigte Königreich sagt, dass der Iran ballistische Raketen auf die gemeinsame US-UK-Basis Diego Garcia im Indischen Ozean abgefeuert hat."
+        "zh": "特朗普对伊朗的48小时最后通牒，威胁伊朗电厂",
+        "en": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants.",
+        "de": "Trump gibt ein 48-Stunden-Ultimatum für die Straße von Hormuz aus und droht mit Angriffen auf iranische Kraftwerke."
       },
       "summary": {
-        "zh": "英国政府表示，伊朗对迪戈加西亚基地的导弹攻击未能成功，反映出地区安全局势的复杂性。",
-        "en": "The UK government states that Iran's missile attack on the Diego Garcia base was unsuccessful, reflecting the complexities of the regional security situation.",
-        "de": "Die britische Regierung erklärt, dass der Raketenangriff des Iran auf die Basis Diego Garcia erfolglos war, was die Komplexität der regionalen Sicherheitslage widerspiegelt."
+        "zh": "特朗普向伊朗发出48小时的最后通牒，威胁如果霍尔木兹海峡不开放，将攻击伊朗的电厂。伊朗对此表示将针对美国在该地区的能源基础设施。",
+        "en": "Trump issued a 48-hour ultimatum to Iran, threatening to attack its power plants if the Strait of Hormuz is not opened. Iran responded by stating it would target U.S. energy infrastructure in the region.",
+        "de": "Trump gab ein 48-Stunden-Ultimatum an den Iran aus und drohte, die iranischen Kraftwerke anzugreifen, wenn die Straße von Hormuz nicht geöffnet wird. Der Iran antwortete, dass er die US-Energieinfrastruktur in der Region ins Visier nehmen würde."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/uk-says-iran-missile-attack-on-diego-garcia-failed?traffic_source=rss"
+      "date": "2026-03-22",
+      "url": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊丽莎白·沃伦要求对“非法和鲁莽的战争”的成本和经济影响作出回应：这位自由派民主党火焰女在批评唐纳德·特朗普时表示，他将美国拖入了一场“非法和鲁莽的战争”。",
-        "en": "Elizabeth Warren demands answers on costs, economic impact of 'illegal and reckless war': The liberal Democratic firebrand ripped President Donald Trump, whom she said has 'dragged the United States into an illegal and reckless war.'",
-        "de": "Elizabeth Warren fordert Antworten zu den Kosten und wirtschaftlichen Auswirkungen des 'illegalen und rücksichtslosen Krieges': Die liberale demokratische Feuerbrand kritisierte Präsident Donald Trump, den sie beschuldigte, die Vereinigten Staaten in einen 'illegalen und rücksichtslosen Krieg' gezogen zu haben."
+        "zh": "交易员现在几乎不认为今年会降息，因美联储决定",
+        "en": "Traders now see little chance of an interest rate cut this year following Fed decision.",
+        "de": "Händler sehen nach der Entscheidung der Fed kaum Chancen auf eine Zinssenkung in diesem Jahr."
       },
       "summary": {
-        "zh": "伊丽莎白·沃伦对特朗普政府在伊朗战争中的决策提出质疑，要求澄清战争的经济影响和成本，强调了战争对美国经济的潜在威胁。",
-        "en": "Elizabeth Warren questions the Trump administration's decisions regarding the Iran war, demanding clarification on the economic impacts and costs of the war, highlighting potential threats to the US economy.",
-        "de": "Elizabeth Warren hinterfragt die Entscheidungen der Trump-Administration bezüglich des Iran-Kriegs und fordert Klarheit über die wirtschaftlichen Auswirkungen und Kosten des Krieges, was potenzielle Bedrohungen für die US-Wirtschaft hervorhebt."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-20",
-      "url": "https://www.cnbc.com/2026/03/20/elizabeth-warren-demands-answers-on-costs-economic-impact-of-illegal-and-reckless-war.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "交易员现在几乎没有机会在美联储决定后今年降息：本周美联储会议上的积极经济谈话对投资者产生了负面影响。",
-        "en": "Traders now see little chance of an interest rate cut this year following Fed decision: All of the positive economic talk out of this week's Federal Reserve meeting had a negative impact on investors.",
-        "de": "Händler sehen nach der Fed-Entscheidung kaum Chancen auf eine Zinssenkung in diesem Jahr: Alle positiven wirtschaftlichen Gespräche aus der Sitzung der Federal Reserve in dieser Woche hatten negative Auswirkungen auf die Investoren."
-      },
-      "summary": {
-        "zh": "美联储的最新会议使交易员对今年降息的预期降至最低，反映出市场对经济前景的担忧。",
-        "en": "The latest Federal Reserve meeting has led traders to lower expectations for an interest rate cut this year, reflecting market concerns over the economic outlook.",
-        "de": "Die letzte Sitzung der Federal Reserve hat dazu geführt, dass Händler ihre Erwartungen an eine Zinssenkung in diesem Jahr gesenkt haben, was die Bedenken des Marktes hinsichtlich der wirtschaftlichen Aussichten widerspiegelt."
+        "zh": "在美联储的决定之后，交易员们几乎不认为今年会有降息的可能性，这对投资者产生了负面影响。",
+        "en": "Following the Fed's decision, traders see little chance of an interest rate cut this year, which has negatively impacted investors.",
+        "de": "Nach der Entscheidung der Fed sehen Händler kaum Chancen auf eine Zinssenkung in diesem Jahr, was sich negativ auf die Investoren ausgewirkt hat."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
       "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”：伊朗战争扰乱了欧洲的经济平衡，威胁能源供应、增长和消费者价格的前景。",
-        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain': The war in Iran has upset the economic equilibrium Europe threatening energy supplies, growth and the outlook for consumer prices, upsetting economic.",
-        "de": "Die Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind: Der Krieg im Iran hat das wirtschaftliche Gleichgewicht in Europa gestört und bedroht die Energieversorgung, das Wachstum und die Aussichten für die Verbraucherpreise."
+        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”",
+        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'.",
+        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind."
       },
       "summary": {
-        "zh": "欧洲央行决定维持利率不变，并对未来经济前景表示担忧，指出伊朗战争对欧洲经济的潜在影响。",
-        "en": "The European Central Bank has decided to keep interest rates steady and expressed concerns over future economic prospects, highlighting the potential impact of the Iran war on the European economy.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, und äußerte Bedenken hinsichtlich der zukünftigen wirtschaftlichen Aussichten, wobei sie die potenziellen Auswirkungen des Iran-Kriegs auf die europäische Wirtschaft hervorhebt."
+        "zh": "欧洲央行决定维持利率不变，并警告由于伊朗战争，经济前景变得更加不确定，这可能影响能源供应和消费者价格。",
+        "en": "The European Central Bank decided to keep interest rates steady and warned that the economic outlook has become significantly more uncertain due to the war in Iran, which could affect energy supplies and consumer prices.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, und warnt, dass die wirtschaftlichen Aussichten aufgrund des Krieges im Iran deutlich unsicherer geworden sind, was die Energieversorgung und die Verbraucherpreise beeinträchtigen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
       "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "批发价格在2月份上涨0.7%，远超预期",
+        "en": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually.",
+        "de": "Die Großhandelspreise stiegen im Februar um 0,7%, was die Erwartungen bei weitem übertraf und jährlich um 3,4% zunahm."
+      },
+      "summary": {
+        "zh": "2月份的批发价格上涨了0.7%，远超预期，显示出通货膨胀的持续压力，尽管能源价格上涨。",
+        "en": "Wholesale prices rose 0.7% in February, much more than expected, indicating ongoing inflationary pressures despite rising energy prices.",
+        "de": "Die Großhandelspreise stiegen im Februar um 0,7%, was die Erwartungen bei weitem übertraf und auf anhaltende Inflationsdruck hinweist, trotz steigender Energiepreise."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-18",
+      "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html"
     }
   ]
 }
