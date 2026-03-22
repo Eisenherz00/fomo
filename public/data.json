@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-03-22T05:38:57.062909+00:00",
+  "generatedAt": "2026-03-22T16:52:12.645339+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "OpenAI正在构建一个完全自动化的研究人员，以及迷幻药试验的盲点：今天的下载",
-        "en": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: OpenAI baut einen vollständig automatisierten Forscher und einen blinden Fleck bei psychedelischen Studien: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Einblick in die Welt der Technologie bietet."
+        "zh": "OpenAI正在构建一个完全自动化的研究员",
+        "en": "OpenAI is throwing everything into building a fully automated researcher",
+        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu bauen"
       },
       "summary": {
-        "zh": "OpenAI正在全力以赴地构建一个完全自动化的研究人员，旨在推动科技领域的研究效率。同时，迷幻药在临床试验中的效果仍然存在争议。",
-        "en": "OpenAI is fully committed to building a fully automated researcher, aiming to enhance research efficiency in the tech field. Meanwhile, the effectiveness of psychedelics in clinical trials remains contentious.",
-        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln, um die Forschungseffizienz im Technologiebereich zu steigern. Inzwischen bleibt die Wirksamkeit von Psychedelika in klinischen Studien umstritten."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-03-20",
-      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
-    },
-    {
-      "id": "ai-2",
-      "title": {
-        "zh": "OpenAI正在全力以赴构建一个完全自动化的研究人员",
-        "en": "OpenAI is throwing everything into building a fully automated researcher.",
-        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln."
-      },
-      "summary": {
-        "zh": "OpenAI正在重新调整其研究重点，投入资源于构建一个全自动化的研究人员，这一宏大挑战将改变科技研究的未来。",
-        "en": "OpenAI is refocusing its research priorities and investing resources into building a fully automated researcher, a grand challenge that could transform the future of tech research.",
-        "de": "OpenAI konzentriert seine Forschungsprioritäten neu und investiert Ressourcen in den Aufbau eines vollständig automatisierten Forschers, einer großen Herausforderung, die die Zukunft der Technologieforschung verändern könnte."
+        "zh": "OpenAI正在重新聚焦其研究工作，投入资源于一个新的重大挑战，旨在构建一个完全自动化的研究员。",
+        "en": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge aimed at building a fully automated researcher.",
+        "de": "OpenAI konzentriert seine Forschungsanstrengungen neu und investiert Ressourcen in eine neue große Herausforderung, die darauf abzielt, einen vollständig automatisierten Forscher zu entwickeln."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
       "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     },
     {
-      "id": "ai-3",
+      "id": "ai-2",
       "title": {
-        "zh": "迷幻药在临床试验中（仍然）未能达到预期",
-        "en": "Mind-altering substances are (still) falling short in clinical trials.",
-        "de": "Psychoaktive Substanzen bleiben (immer noch) hinter den Erwartungen in klinischen Studien zurück."
+        "zh": "广泛使用的Trivy扫描器在持续的供应链攻击中被破坏",
+        "en": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+        "de": "Weit verbreiteter Trivy-Scanner in laufendem Lieferkettenangriff kompromittiert"
       },
       "summary": {
-        "zh": "尽管迷幻药在文化中获得了关注，但在临床试验中其疗效仍未达到预期，显示出其在医学应用中的局限性。",
-        "en": "Despite gaining attention in culture, psychedelics have not met expectations in clinical trials, highlighting their limitations in medical applications.",
-        "de": "Trotz der Aufmerksamkeit in der Kultur haben Psychedelika in klinischen Studien nicht die Erwartungen erfüllt, was ihre Grenzen in der medizinischen Anwendung aufzeigt."
+        "zh": "在持续的供应链攻击中，广泛使用的Trivy扫描器遭到破坏，管理员被警告需要更换秘密。",
+        "en": "The widely used Trivy scanner has been compromised in an ongoing supply-chain attack, prompting administrators to rotate their secrets.",
+        "de": "Der weit verbreitete Trivy-Scanner wurde in einem laufenden Lieferkettenangriff kompromittiert, was Administratoren dazu zwingt, ihre Geheimnisse zu wechseln."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-03-20",
-      "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/"
+      "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "联邦网络专家称微软的云是“一堆垃圾”，但仍然批准了它",
+        "en": "Federal cyber experts called Microsoft's cloud a 'pile of shit,' approved it anyway",
+        "de": "Bundes-Cyberexperten bezeichneten Microsofts Cloud als 'Scheißhaufen', genehmigten sie aber trotzdem"
+      },
+      "summary": {
+        "zh": "尽管联邦网络专家对微软云的安全性表示担忧，但该产品仍获得批准，反映出对其安全性的持续争议。",
+        "en": "Despite concerns from federal cyber experts regarding Microsoft's cloud security, the product was approved, highlighting ongoing controversies over its safety.",
+        "de": "Trotz der Bedenken von Bundes-Cyberexperten hinsichtlich der Sicherheit von Microsofts Cloud wurde das Produkt genehmigt, was die anhaltenden Kontroversen über seine Sicherheit verdeutlicht."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-03-18",
+      "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普威胁要“摧毁”伊朗电厂，除非霍尔木兹海峡开放",
-        "en": "Trump threatens to ‘obliterate’ Iran power plants unless Hormuz Strait open.",
-        "de": "Trump droht, die iranischen Kraftwerke zu 'vernichten', wenn die Straße von Hormuz nicht geöffnet wird."
+        "zh": "以色列是否误判了伊朗的军事能力？",
+        "en": "Did Israel miscalculate Iranian military capabilities?",
+        "de": "Hat Israel die militärischen Fähigkeiten Irans falsch eingeschätzt?"
       },
       "summary": {
-        "zh": "特朗普威胁如果伊朗不开放霍尔木兹海峡，将摧毁该国的电厂。这一言论加剧了美国与伊朗之间的紧张关系。",
-        "en": "Trump has threatened to destroy Iran's power plants if the country does not open the Strait of Hormuz. This statement escalates tensions between the U.S. and Iran.",
-        "de": "Trump hat gedroht, die iranischen Kraftwerke zu zerstören, wenn das Land die Straße von Hormuz nicht öffnet. Diese Aussage eskaliert die Spannungen zwischen den USA und dem Iran."
+        "zh": "伊朗对以色列核设施附近的阿拉德和迪莫纳的攻击引发了对以色列防御战略的严重质疑。",
+        "en": "Iranian attacks on Arad and Dimona near Israeli nuclear sites raise serious questions about Israel's defense strategy.",
+        "de": "Iranische Angriffe auf Arad und Dimona in der Nähe israelischer Nuklearstandorte werfen ernsthafte Fragen zur Verteidigungsstrategie Israels auf."
       },
       "source": "Al Jazeera",
       "date": "2026-03-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/trump-threatens-to-obliterate-iran-power-plants-unless-hormuz-strait-open?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列定居者在约旦河西岸纵火，造成伤亡",
-        "en": "Casualties as Israeli settlers set fire to homes and cars in West Bank.",
-        "de": "Opfer, als israelische Siedler Häuser und Autos im Westjordanland in Brand setzen."
+        "zh": "伊朗声称对以色列关键军事基地的导弹袭击",
+        "en": "Iran claims missile attacks on key Israeli military bases",
+        "de": "Iran behauptet, Raketenangriffe auf wichtige israelische Militärbasen durchgeführt zu haben"
       },
       "summary": {
-        "zh": "在约旦河西岸，定居者纵火焚烧房屋和汽车，导致伤亡。这一事件反映了该地区的持续暴力和紧张局势。",
-        "en": "In the West Bank, settlers set fire to homes and cars, resulting in casualties. This incident reflects the ongoing violence and tensions in the region.",
-        "de": "Im Westjordanland setzten Siedler Häuser und Autos in Brand, was zu Opfern führte. Dieser Vorfall spiegelt die anhaltende Gewalt und Spannungen in der Region wider."
+        "zh": "伊朗声称发起了多次弹道导弹和无人机袭击，针对以色列、阿联酋和科威特的基地。",
+        "en": "Iran claims it launched multiple ballistic missile and drone strikes, targeting bases across Israel, UAE, and Kuwait.",
+        "de": "Iran behauptet, mehrere ballistische Raketen- und Drohnenangriffe durchgeführt zu haben, die auf Basen in Israel, den VAE und Kuwait abzielten."
       },
       "source": "Al Jazeera",
       "date": "2026-03-22",
-      "url": "https://www.aljazeera.com/news/2026/3/22/casualties-as-israeli-settlers-set-fire-to-homes-and-cars-in-west-bank?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普对伊朗的48小时最后通牒，威胁伊朗电厂",
-        "en": "Trump issues 48-hour Hormuz Strait ultimatum, threatens Iran power plants.",
-        "de": "Trump gibt ein 48-Stunden-Ultimatum für die Straße von Hormuz aus und droht mit Angriffen auf iranische Kraftwerke."
+        "zh": "特朗普对伊朗战争的变化信息：这对美国战略意味着什么？",
+        "en": "Trump’s changing messages on Iran war: What does it say about US strategy?",
+        "de": "Trumps wechselnde Botschaften zum Iran-Krieg: Was sagt das über die US-Strategie aus?"
       },
       "summary": {
-        "zh": "特朗普向伊朗发出48小时的最后通牒，威胁如果霍尔木兹海峡不开放，将攻击伊朗的电厂。伊朗对此表示将针对美国在该地区的能源基础设施。",
-        "en": "Trump issued a 48-hour ultimatum to Iran, threatening to attack its power plants if the Strait of Hormuz is not opened. Iran responded by stating it would target U.S. energy infrastructure in the region.",
-        "de": "Trump gab ein 48-Stunden-Ultimatum an den Iran aus und drohte, die iranischen Kraftwerke anzugreifen, wenn die Straße von Hormuz nicht geöffnet wird. Der Iran antwortete, dass er die US-Energieinfrastruktur in der Region ins Visier nehmen würde."
+        "zh": "随着战争进入第四周，特朗普政府在如何推进方面发出矛盾的信息。",
+        "en": "With the war in its fourth week, the Trump administration sends contradictory messages on how to proceed.",
+        "de": "Mit dem Krieg in der vierten Woche sendet die Trump-Administration widersprüchliche Botschaften darüber, wie es weitergehen soll."
       },
       "source": "Al Jazeera",
       "date": "2026-03-22",
-      "url": "https://www.aljazeera.com/news/2026/3/22/trump-issues-48-hour-hormuz-strait-ultimatum-threatens-iran-power-plants?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员现在几乎不认为今年会降息，因美联储决定",
-        "en": "Traders now see little chance of an interest rate cut this year following Fed decision.",
-        "de": "Händler sehen nach der Entscheidung der Fed kaum Chancen auf eine Zinssenkung in diesem Jahr."
+        "zh": "交易员在美联储决定后几乎没有降息的机会",
+        "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
+        "de": "Händler sehen nach der Fed-Entscheidung kaum Chancen auf eine Zinssenkung in diesem Jahr"
       },
       "summary": {
-        "zh": "在美联储的决定之后，交易员们几乎不认为今年会有降息的可能性，这对投资者产生了负面影响。",
-        "en": "Following the Fed's decision, traders see little chance of an interest rate cut this year, which has negatively impacted investors.",
-        "de": "Nach der Entscheidung der Fed sehen Händler kaum Chancen auf eine Zinssenkung in diesem Jahr, was sich negativ auf die Investoren ausgewirkt hat."
+        "zh": "美联储会议传出的积极经济消息对投资者产生了负面影响，导致交易员几乎没有降息的预期。",
+        "en": "Positive economic talk from this week's Federal Reserve meeting had a negative impact on investors, leading traders to see little chance of an interest rate cut.",
+        "de": "Positive wirtschaftliche Äußerungen aus dieser Woche von der Federal Reserve hatten negative Auswirkungen auf die Investoren, was dazu führte, dass Händler kaum Chancen auf eine Zinssenkung sehen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”",
-        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'.",
-        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind."
+        "zh": "欧洲央行保持利率不变，警告前景“显著不确定”",
+        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
       },
       "summary": {
-        "zh": "欧洲央行决定维持利率不变，并警告由于伊朗战争，经济前景变得更加不确定，这可能影响能源供应和消费者价格。",
-        "en": "The European Central Bank decided to keep interest rates steady and warned that the economic outlook has become significantly more uncertain due to the war in Iran, which could affect energy supplies and consumer prices.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, und warnt, dass die wirtschaftlichen Aussichten aufgrund des Krieges im Iran deutlich unsicherer geworden sind, was die Energieversorgung und die Verbraucherpreise beeinträchtigen könnte."
+        "zh": "由于伊朗战争影响经济平衡，欧洲央行决定保持利率不变，并警告未来经济前景的不确定性。",
+        "en": "The European Central Bank decided to hold rates steady due to the economic disruption caused by the war in Iran, warning of significant uncertainty in the economic outlook.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinsen stabil zu halten, da der Krieg im Iran die wirtschaftliche Stabilität stört, und warnt vor erheblicher Unsicherheit in der wirtschaftlichen Perspektive."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "批发价格在2月份上涨0.7%，远超预期",
-        "en": "Wholesale prices rose 0.7% in February, much more than expected and up 3.4% annually.",
-        "de": "Die Großhandelspreise stiegen im Februar um 0,7%, was die Erwartungen bei weitem übertraf und jährlich um 3,4% zunahm."
+        "zh": "伊朗战争油价冲击引发对1970年代滞胀的担忧",
+        "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
+        "de": "Öl-Schock durch den Iran-Krieg schürt Ängste vor stagflationären Verhältnissen wie in den 1970er Jahren – warum es diesmal anders sein könnte"
       },
       "summary": {
-        "zh": "2月份的批发价格上涨了0.7%，远超预期，显示出通货膨胀的持续压力，尽管能源价格上涨。",
-        "en": "Wholesale prices rose 0.7% in February, much more than expected, indicating ongoing inflationary pressures despite rising energy prices.",
-        "de": "Die Großhandelspreise stiegen im Februar um 0,7%, was die Erwartungen bei weitem übertraf und auf anhaltende Inflationsdruck hinweist, trotz steigender Energiepreise."
+        "zh": "一些投资者将当前市场情况与1970年代进行比较，尽管存在一些关键差异。",
+        "en": "Some investors are drawing comparisons between the current market situation and the 1970s, although there are several key differences to note this time.",
+        "de": "Einige Investoren ziehen Vergleiche zwischen der aktuellen Marktsituation und den 1970er Jahren, obwohl es diesmal mehrere wichtige Unterschiede zu beachten gibt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-18",
-      "url": "https://www.cnbc.com/2026/03/18/ppi-inflation-february-2026.html"
+      "date": "2026-03-13",
+      "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
     }
   ]
 }
