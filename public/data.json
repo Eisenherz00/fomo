@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-03-23T05:55:18.617117+00:00",
+  "generatedAt": "2026-03-23T17:14:07.448066+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "OpenAI正在构建一个完全自动化的研究人员，以及迷幻药试验的盲点：这是今天的《下载》",
-        "en": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: OpenAI baut einen vollständig automatisierten Forscher und einen blinden Fleck bei psychedelischen Studien: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Überblick über die Technologie bietet."
+        "zh": "关于人工智能引发的妄想，最难回答的问题",
+        "en": "The hardest question to answer about AI-fueled delusions",
+        "de": "Die schwerste Frage zu beantworten über von KI verursachte Wahnvorstellungen"
       },
       "summary": {
-        "zh": "OpenAI正在集中资源开发一个完全自动化的研究人员，以推动其研究工作。同时，迷幻药的临床试验在效果上仍存在不足之处。",
-        "en": "OpenAI is focusing its resources on developing a fully automated researcher to advance its research efforts. Meanwhile, psychedelic clinical trials still show shortcomings in effectiveness.",
-        "de": "OpenAI konzentriert seine Ressourcen auf die Entwicklung eines vollständig automatisierten Forschers, um seine Forschungsanstrengungen voranzutreiben. In der Zwischenzeit zeigen klinische Studien zu Psychedelika weiterhin Mängel in der Wirksamkeit."
+        "zh": "这篇文章探讨了人工智能引发的妄想现象及其复杂性，尤其是在如何理解和应对这些现象方面的挑战。",
+        "en": "This article explores the phenomenon of AI-fueled delusions and its complexities, particularly the challenges in understanding and addressing these phenomena.",
+        "de": "Dieser Artikel untersucht das Phänomen der von KI verursachten Wahnvorstellungen und deren Komplexität, insbesondere die Herausforderungen beim Verständnis und der Bewältigung dieser Phänomene."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-20",
-      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
+      "date": "2026-03-23",
+      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "OpenAI全力以赴构建一个完全自动化的研究人员",
-        "en": "OpenAI is throwing everything into building a fully automated researcher",
-        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln"
+        "zh": "下载：动物福利获得AGI支持，白宫公布其人工智能政策",
+        "en": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+        "de": "Der Download: Tierschutz erhält AGI-Pille, und das Weiße Haus stellt seine KI-Politik vor"
       },
       "summary": {
-        "zh": "OpenAI正在重新聚焦其研究工作，致力于开发一个完全自动化的研究人员，标志着其在人工智能领域的重大转变。",
-        "en": "OpenAI is refocusing its research efforts on developing a fully automated researcher, marking a significant shift in its approach to artificial intelligence.",
-        "de": "OpenAI konzentriert seine Forschungsanstrengungen auf die Entwicklung eines vollständig automatisierten Forschers, was einen bedeutenden Wandel in seinem Ansatz zur künstlichen Intelligenz darstellt."
+        "zh": "这篇文章介绍了白宫的新人工智能政策以及动物福利运动如何利用AGI技术来推动其目标。",
+        "en": "This article discusses the White House's new AI policy and how the animal welfare movement is leveraging AGI technology to advance its goals.",
+        "de": "Dieser Artikel behandelt die neue KI-Politik des Weißen Hauses und wie die Tierschutzbewegung AGI-Technologie nutzt, um ihre Ziele voranzutreiben."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-20",
-      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
+      "date": "2026-03-23",
+      "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "迷幻药在临床试验中（仍然）未能达到预期",
-        "en": "Mind-altering substances are (still) falling short in clinical trials",
-        "de": "Bewusstseinsverändernde Substanzen schneiden (immer noch) in klinischen Studien schlecht ab"
+        "zh": "OpenAI全力打造完全自动化的研究员",
+        "en": "OpenAI is throwing everything into building a fully automated researcher",
+        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln"
       },
       "summary": {
-        "zh": "尽管迷幻药在文化上获得了认可，但其在临床试验中的效果仍未达到预期，显示出需要进一步研究的必要性。",
-        "en": "Despite gaining cultural recognition, psychedelics are still falling short in clinical trials, indicating a need for further research.",
-        "de": "Trotz kultureller Anerkennung schneiden Psychedelika in klinischen Studien weiterhin schlecht ab, was auf die Notwendigkeit weiterer Forschung hinweist."
+        "zh": "OpenAI正在重新聚焦其研究工作，致力于开发一个完全自动化的研究员，以应对未来的科学挑战。",
+        "en": "OpenAI is refocusing its research efforts to develop a fully automated researcher to tackle future scientific challenges.",
+        "de": "OpenAI konzentriert seine Forschungsanstrengungen darauf, einen vollständig automatisierten Forscher zu entwickeln, um zukünftige wissenschaftliche Herausforderungen zu bewältigen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
-      "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/"
+      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "在德黑兰废墟中寻找失踪兄弟的兄弟们",
-        "en": "Brothers search rubble for missing sibling under Tehran rubble after strike",
-        "de": "Brüder suchen unter den Trümmern von Teheran nach ihrem vermissten Geschwister"
+        "zh": "以色列对黎巴嫩桥的袭击引发地面入侵的担忧",
+        "en": "Israeli strike on Lebanon bridge raises fears of ground invasion",
+        "de": "Israelischer Angriff auf eine Brücke im Libanon weckt Ängste vor einer Bodeninvasion"
       },
       "summary": {
-        "zh": "在德黑兰的一次袭击后，Mahdi Mirzahosseini的兄弟们仍在废墟中寻找他，已经过去五天。",
-        "en": "Five days after a strike in Tehran, Mahdi Mirzahosseini's brothers are still searching for him under the rubble.",
-        "de": "Fünf Tage nach einem Angriff in Teheran suchen die Brüder von Mahdi Mirzahosseini weiterhin unter den Trümmern nach ihm."
+        "zh": "以色列对黎巴嫩Qasmiyeh桥的攻击引发了对可能地面入侵的担忧，黎巴嫩方面对此表示强烈关注。",
+        "en": "Israel's strike on the Qasmiyeh Bridge in Lebanon has raised concerns about a potential ground invasion, with Lebanon expressing strong apprehension.",
+        "de": "Der israelische Angriff auf die Qasmiyeh-Brücke im Libanon hat Bedenken hinsichtlich einer möglichen Bodeninvasion geweckt, wobei der Libanon starke Besorgnis äußert."
       },
       "source": "Al Jazeera",
       "date": "2026-03-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/brothers-search-rubble-for-missing-sibling-under-tehran-rubble-after-strike?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/israeli-strike-on-lebanon-bridge-raises-fears-of-ground-invasion?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗街头目睹巨大破坏",
-        "en": "Immense damage seen in Iran’s streets after air strikes",
-        "de": "Immense Schäden in den Straßen Irans nach Luftangriffen"
+        "zh": "特朗普在机场部署ICE特工以应对人员短缺和延误",
+        "en": "Trump deploys ICE agents to US airports amid staffing issues, delays",
+        "de": "Trump setzt ICE-Agenten an US-Flughäfen ein, um Personalprobleme und Verzögerungen zu bekämpfen"
       },
       "summary": {
-        "zh": "空袭后的伊朗街头出现了巨大的破坏，搜救队正在从废墟中恢复尸体。",
-        "en": "Videos show immense damage in Iran's streets following air strikes, as search teams recover bodies from the rubble.",
-        "de": "Videos zeigen immense Schäden in den Straßen Irans nach Luftangriffen, während Rettungsteams Leichen aus den Trümmern bergen."
+        "zh": "特朗普在美国机场部署移民执法局特工，以应对人员短缺和旅客延误，此举引发了民主党和其他观察者的批评。",
+        "en": "Trump has deployed ICE agents at US airports to address staffing shortages and delays, a move that has drawn criticism from Democrats and other observers.",
+        "de": "Trump hat ICE-Agenten an US-Flughäfen eingesetzt, um Personalengpässe und Verzögerungen zu beheben, was von Demokraten und anderen Beobachtern kritisiert wurde."
       },
       "source": "Al Jazeera",
       "date": "2026-03-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/immense-damage-seen-in-irans-streets-after-air-strikes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/23/trump-deploys-ice-agents-to-us-airports-amid-staffing-issues-delays?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "亚洲股市因特朗普对伊朗的最后通牒而暴跌",
-        "en": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
-        "de": "Asiatische Aktienmärkte stürzen aufgrund von Trumps Ultimatum gegenüber dem Iran ab"
+        "zh": "特朗普在伊朗战争中发出缓和信号，尽管没有“政权更迭”",
+        "en": "Trump signals off-ramp in Iran war despite no ‘regime change’",
+        "de": "Trump signalisiert Ausweg im Iran-Krieg trotz fehlendem 'Regimewechsel'"
       },
       "summary": {
-        "zh": "由于特朗普对伊朗的威胁，亚洲主要股指出现下跌，市场情绪受到影响。",
-        "en": "Key indexes in Asia have tumbled as Trump issues an ultimatum regarding Iran, impacting market sentiment.",
-        "de": "Die wichtigsten Indizes in Asien sind gefallen, nachdem Trump ein Ultimatum bezüglich des Iran ausgesprochen hat, was die Marktstimmung beeinflusst."
+        "zh": "特朗普已下令推迟针对伊朗电力设施的军事打击，表明在伊朗战争中寻求缓和局势的意图。",
+        "en": "Trump has ordered a delay in military strikes against Iranian power facilities, indicating an intention to seek de-escalation in the Iran war.",
+        "de": "Trump hat einen Aufschub militärischer Angriffe auf iranische Energieanlagen angeordnet, was auf eine Absicht hinweist, eine Deeskalation im Iran-Krieg zu suchen."
       },
       "source": "Al Jazeera",
       "date": "2026-03-23",
-      "url": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/trump-signals-off-ramp-in-iran-war-despite-no-regime?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -109,9 +109,9 @@
         "de": "Händler sehen nach der Fed-Entscheidung kaum Chancen auf eine Zinssenkung in diesem Jahr"
       },
       "summary": {
-        "zh": "在美联储会议之后，交易员们对今年降息的可能性几乎没有信心，市场反应消极。",
-        "en": "Following the Federal Reserve meeting, traders have little confidence in the possibility of an interest rate cut this year, leading to negative market reactions.",
-        "de": "Nach der Sitzung der Federal Reserve haben Händler wenig Vertrauen in die Möglichkeit einer Zinssenkung in diesem Jahr, was zu negativen Marktreaktionen führt."
+        "zh": "在美联储的最新决定后，交易员们认为今年降息的可能性微乎其微，这对投资者的情绪产生了负面影响。",
+        "en": "Following the latest decision by the Federal Reserve, traders believe there is little chance of an interest rate cut this year, negatively impacting investor sentiment.",
+        "de": "Nach der neuesten Entscheidung der Federal Reserve glauben die Händler, dass die Chancen auf eine Zinssenkung in diesem Jahr gering sind, was sich negativ auf die Stimmung der Investoren auswirkt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "欧洲央行保持利率不变，警告前景“显著不确定”",
+        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”",
         "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
         "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
       },
       "summary": {
-        "zh": "由于伊朗战争影响，欧洲央行保持利率不变，并警告经济前景的不确定性。",
-        "en": "The European Central Bank has kept rates steady while warning of significant uncertainty in the economic outlook due to the war in Iran.",
-        "de": "Die Europäische Zentralbank hat die Zinsen stabil gehalten und warnt vor erheblichen Unsicherheiten in der wirtschaftlichen Perspektive aufgrund des Krieges im Iran."
+        "zh": "欧洲央行决定维持利率不变，并警告由于伊朗战争，经济前景变得更加不确定。",
+        "en": "The European Central Bank has decided to keep interest rates steady while warning that the economic outlook has become significantly more uncertain due to the Iran war.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, warnt jedoch, dass die wirtschaftlichen Aussichten aufgrund des Iran-Kriegs erheblich unsicherer geworden sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗战争石油冲击引发对1970年代式滞胀的担忧",
-        "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
-        "de": "Öl-Schock durch den Iran-Krieg schürt Ängste vor stagflationären Zuständen wie in den 1970er Jahren — warum es diesmal anders sein könnte"
+        "zh": "医疗保健成本飙升迫使人们做出令人不安的权衡",
+        "en": "Soaring healthcare costs are forcing people to make troubling trade-offs, like skipping meals",
+        "de": "Steigende Gesundheitskosten zwingen die Menschen zu besorgniserregenden Kompromissen, wie das Auslassen von Mahlzeiten"
       },
       "summary": {
-        "zh": "由于伊朗战争的影响，投资者对可能出现1970年代式滞胀的担忧加剧，但市场的反应可能与以往不同。",
-        "en": "Investor fears of a 1970s-style stagflation due to the Iran war oil shock are rising, but market reactions may differ this time.",
-        "de": "Die Ängste der Investoren vor einer stagflationären Situation wie in den 1970er Jahren aufgrund des Öl-Schocks durch den Iran-Krieg nehmen zu, aber die Marktreaktionen könnten diesmal anders sein."
+        "zh": "由于医疗保健成本的飙升，人们不得不做出令人不安的选择，例如跳过用餐，这一情况预计将进一步恶化。",
+        "en": "Due to soaring healthcare costs, people are forced to make troubling choices, such as skipping meals, and this situation is expected to worsen.",
+        "de": "Aufgrund der steigenden Gesundheitskosten sind die Menschen gezwungen, besorgniserregende Entscheidungen zu treffen, wie das Auslassen von Mahlzeiten, und diese Situation wird voraussichtlich schlimmer werden."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-13",
-      "url": "https://www.cnbc.com/2026/03/13/iran-oil-shock-differs-1970s-stagflation.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-23",
+      "url": "https://www.marketwatch.com/story/soaring-healthcare-costs-are-forcing-people-to-make-troubling-trade-offs-like-skipping-meals-and-the-situation-is-about-to-get-worse-cde613d6?mod=mw_rss_topstories"
     }
   ]
 }
