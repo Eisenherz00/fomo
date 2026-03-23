@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-03-22T16:52:12.645339+00:00",
+  "generatedAt": "2026-03-23T05:55:18.617117+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "OpenAI正在构建一个完全自动化的研究员",
-        "en": "OpenAI is throwing everything into building a fully automated researcher",
-        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu bauen"
+        "zh": "OpenAI正在构建一个完全自动化的研究人员，以及迷幻药试验的盲点：这是今天的《下载》",
+        "en": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+        "de": "Der Download: OpenAI baut einen vollständig automatisierten Forscher und einen blinden Fleck bei psychedelischen Studien: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Überblick über die Technologie bietet."
       },
       "summary": {
-        "zh": "OpenAI正在重新聚焦其研究工作，投入资源于一个新的重大挑战，旨在构建一个完全自动化的研究员。",
-        "en": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge aimed at building a fully automated researcher.",
-        "de": "OpenAI konzentriert seine Forschungsanstrengungen neu und investiert Ressourcen in eine neue große Herausforderung, die darauf abzielt, einen vollständig automatisierten Forscher zu entwickeln."
+        "zh": "OpenAI正在集中资源开发一个完全自动化的研究人员，以推动其研究工作。同时，迷幻药的临床试验在效果上仍存在不足之处。",
+        "en": "OpenAI is focusing its resources on developing a fully automated researcher to advance its research efforts. Meanwhile, psychedelic clinical trials still show shortcomings in effectiveness.",
+        "de": "OpenAI konzentriert seine Ressourcen auf die Entwicklung eines vollständig automatisierten Forschers, um seine Forschungsanstrengungen voranzutreiben. In der Zwischenzeit zeigen klinische Studien zu Psychedelika weiterhin Mängel in der Wirksamkeit."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-03-20",
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "OpenAI全力以赴构建一个完全自动化的研究人员",
+        "en": "OpenAI is throwing everything into building a fully automated researcher",
+        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln"
+      },
+      "summary": {
+        "zh": "OpenAI正在重新聚焦其研究工作，致力于开发一个完全自动化的研究人员，标志着其在人工智能领域的重大转变。",
+        "en": "OpenAI is refocusing its research efforts on developing a fully automated researcher, marking a significant shift in its approach to artificial intelligence.",
+        "de": "OpenAI konzentriert seine Forschungsanstrengungen auf die Entwicklung eines vollständig automatisierten Forschers, was einen bedeutenden Wandel in seinem Ansatz zur künstlichen Intelligenz darstellt."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
       "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "广泛使用的Trivy扫描器在持续的供应链攻击中被破坏",
-        "en": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
-        "de": "Weit verbreiteter Trivy-Scanner in laufendem Lieferkettenangriff kompromittiert"
-      },
-      "summary": {
-        "zh": "在持续的供应链攻击中，广泛使用的Trivy扫描器遭到破坏，管理员被警告需要更换秘密。",
-        "en": "The widely used Trivy scanner has been compromised in an ongoing supply-chain attack, prompting administrators to rotate their secrets.",
-        "de": "Der weit verbreitete Trivy-Scanner wurde in einem laufenden Lieferkettenangriff kompromittiert, was Administratoren dazu zwingt, ihre Geheimnisse zu wechseln."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-03-20",
-      "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "联邦网络专家称微软的云是“一堆垃圾”，但仍然批准了它",
-        "en": "Federal cyber experts called Microsoft's cloud a 'pile of shit,' approved it anyway",
-        "de": "Bundes-Cyberexperten bezeichneten Microsofts Cloud als 'Scheißhaufen', genehmigten sie aber trotzdem"
+        "zh": "迷幻药在临床试验中（仍然）未能达到预期",
+        "en": "Mind-altering substances are (still) falling short in clinical trials",
+        "de": "Bewusstseinsverändernde Substanzen schneiden (immer noch) in klinischen Studien schlecht ab"
       },
       "summary": {
-        "zh": "尽管联邦网络专家对微软云的安全性表示担忧，但该产品仍获得批准，反映出对其安全性的持续争议。",
-        "en": "Despite concerns from federal cyber experts regarding Microsoft's cloud security, the product was approved, highlighting ongoing controversies over its safety.",
-        "de": "Trotz der Bedenken von Bundes-Cyberexperten hinsichtlich der Sicherheit von Microsofts Cloud wurde das Produkt genehmigt, was die anhaltenden Kontroversen über seine Sicherheit verdeutlicht."
+        "zh": "尽管迷幻药在文化上获得了认可，但其在临床试验中的效果仍未达到预期，显示出需要进一步研究的必要性。",
+        "en": "Despite gaining cultural recognition, psychedelics are still falling short in clinical trials, indicating a need for further research.",
+        "de": "Trotz kultureller Anerkennung schneiden Psychedelika in klinischen Studien weiterhin schlecht ab, was auf die Notwendigkeit weiterer Forschung hinweist."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-03-18",
-      "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"
+      "source": "MIT Technology Review",
+      "date": "2026-03-20",
+      "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列是否误判了伊朗的军事能力？",
-        "en": "Did Israel miscalculate Iranian military capabilities?",
-        "de": "Hat Israel die militärischen Fähigkeiten Irans falsch eingeschätzt?"
+        "zh": "在德黑兰废墟中寻找失踪兄弟的兄弟们",
+        "en": "Brothers search rubble for missing sibling under Tehran rubble after strike",
+        "de": "Brüder suchen unter den Trümmern von Teheran nach ihrem vermissten Geschwister"
       },
       "summary": {
-        "zh": "伊朗对以色列核设施附近的阿拉德和迪莫纳的攻击引发了对以色列防御战略的严重质疑。",
-        "en": "Iranian attacks on Arad and Dimona near Israeli nuclear sites raise serious questions about Israel's defense strategy.",
-        "de": "Iranische Angriffe auf Arad und Dimona in der Nähe israelischer Nuklearstandorte werfen ernsthafte Fragen zur Verteidigungsstrategie Israels auf."
+        "zh": "在德黑兰的一次袭击后，Mahdi Mirzahosseini的兄弟们仍在废墟中寻找他，已经过去五天。",
+        "en": "Five days after a strike in Tehran, Mahdi Mirzahosseini's brothers are still searching for him under the rubble.",
+        "de": "Fünf Tage nach einem Angriff in Teheran suchen die Brüder von Mahdi Mirzahosseini weiterhin unter den Trümmern nach ihm."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-22",
-      "url": "https://www.aljazeera.com/news/2026/3/22/did-israel-miscalculate-iranian-military-capabilities?traffic_source=rss"
+      "date": "2026-03-23",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/brothers-search-rubble-for-missing-sibling-under-tehran-rubble-after-strike?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗声称对以色列关键军事基地的导弹袭击",
-        "en": "Iran claims missile attacks on key Israeli military bases",
-        "de": "Iran behauptet, Raketenangriffe auf wichtige israelische Militärbasen durchgeführt zu haben"
+        "zh": "伊朗街头目睹巨大破坏",
+        "en": "Immense damage seen in Iran’s streets after air strikes",
+        "de": "Immense Schäden in den Straßen Irans nach Luftangriffen"
       },
       "summary": {
-        "zh": "伊朗声称发起了多次弹道导弹和无人机袭击，针对以色列、阿联酋和科威特的基地。",
-        "en": "Iran claims it launched multiple ballistic missile and drone strikes, targeting bases across Israel, UAE, and Kuwait.",
-        "de": "Iran behauptet, mehrere ballistische Raketen- und Drohnenangriffe durchgeführt zu haben, die auf Basen in Israel, den VAE und Kuwait abzielten."
+        "zh": "空袭后的伊朗街头出现了巨大的破坏，搜救队正在从废墟中恢复尸体。",
+        "en": "Videos show immense damage in Iran's streets following air strikes, as search teams recover bodies from the rubble.",
+        "de": "Videos zeigen immense Schäden in den Straßen Irans nach Luftangriffen, während Rettungsteams Leichen aus den Trümmern bergen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss"
+      "date": "2026-03-23",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/23/immense-damage-seen-in-irans-streets-after-air-strikes?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普对伊朗战争的变化信息：这对美国战略意味着什么？",
-        "en": "Trump’s changing messages on Iran war: What does it say about US strategy?",
-        "de": "Trumps wechselnde Botschaften zum Iran-Krieg: Was sagt das über die US-Strategie aus?"
+        "zh": "亚洲股市因特朗普对伊朗的最后通牒而暴跌",
+        "en": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
+        "de": "Asiatische Aktienmärkte stürzen aufgrund von Trumps Ultimatum gegenüber dem Iran ab"
       },
       "summary": {
-        "zh": "随着战争进入第四周，特朗普政府在如何推进方面发出矛盾的信息。",
-        "en": "With the war in its fourth week, the Trump administration sends contradictory messages on how to proceed.",
-        "de": "Mit dem Krieg in der vierten Woche sendet die Trump-Administration widersprüchliche Botschaften darüber, wie es weitergehen soll."
+        "zh": "由于特朗普对伊朗的威胁，亚洲主要股指出现下跌，市场情绪受到影响。",
+        "en": "Key indexes in Asia have tumbled as Trump issues an ultimatum regarding Iran, impacting market sentiment.",
+        "de": "Die wichtigsten Indizes in Asien sind gefallen, nachdem Trump ein Ultimatum bezüglich des Iran ausgesprochen hat, was die Marktstimmung beeinflusst."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-22",
-      "url": "https://www.aljazeera.com/news/2026/3/22/trumps-changing-messages-on-iran-war-what-does-it-say-about-us-strategy?traffic_source=rss"
+      "date": "2026-03-23",
+      "url": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员在美联储决定后几乎没有降息的机会",
+        "zh": "交易员现在几乎没有机会在今年降息",
         "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
         "de": "Händler sehen nach der Fed-Entscheidung kaum Chancen auf eine Zinssenkung in diesem Jahr"
       },
       "summary": {
-        "zh": "美联储会议传出的积极经济消息对投资者产生了负面影响，导致交易员几乎没有降息的预期。",
-        "en": "Positive economic talk from this week's Federal Reserve meeting had a negative impact on investors, leading traders to see little chance of an interest rate cut.",
-        "de": "Positive wirtschaftliche Äußerungen aus dieser Woche von der Federal Reserve hatten negative Auswirkungen auf die Investoren, was dazu führte, dass Händler kaum Chancen auf eine Zinssenkung sehen."
+        "zh": "在美联储会议之后，交易员们对今年降息的可能性几乎没有信心，市场反应消极。",
+        "en": "Following the Federal Reserve meeting, traders have little confidence in the possibility of an interest rate cut this year, leading to negative market reactions.",
+        "de": "Nach der Sitzung der Federal Reserve haben Händler wenig Vertrauen in die Möglichkeit einer Zinssenkung in diesem Jahr, was zu negativen Marktreaktionen führt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -125,9 +125,9 @@
         "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
       },
       "summary": {
-        "zh": "由于伊朗战争影响经济平衡，欧洲央行决定保持利率不变，并警告未来经济前景的不确定性。",
-        "en": "The European Central Bank decided to hold rates steady due to the economic disruption caused by the war in Iran, warning of significant uncertainty in the economic outlook.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinsen stabil zu halten, da der Krieg im Iran die wirtschaftliche Stabilität stört, und warnt vor erheblicher Unsicherheit in der wirtschaftlichen Perspektive."
+        "zh": "由于伊朗战争影响，欧洲央行保持利率不变，并警告经济前景的不确定性。",
+        "en": "The European Central Bank has kept rates steady while warning of significant uncertainty in the economic outlook due to the war in Iran.",
+        "de": "Die Europäische Zentralbank hat die Zinsen stabil gehalten und warnt vor erheblichen Unsicherheiten in der wirtschaftlichen Perspektive aufgrund des Krieges im Iran."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗战争油价冲击引发对1970年代滞胀的担忧",
+        "zh": "伊朗战争石油冲击引发对1970年代式滞胀的担忧",
         "en": "Iran war oil shock stokes fears of 1970s-style stagflation — why this time could be different",
-        "de": "Öl-Schock durch den Iran-Krieg schürt Ängste vor stagflationären Verhältnissen wie in den 1970er Jahren – warum es diesmal anders sein könnte"
+        "de": "Öl-Schock durch den Iran-Krieg schürt Ängste vor stagflationären Zuständen wie in den 1970er Jahren — warum es diesmal anders sein könnte"
       },
       "summary": {
-        "zh": "一些投资者将当前市场情况与1970年代进行比较，尽管存在一些关键差异。",
-        "en": "Some investors are drawing comparisons between the current market situation and the 1970s, although there are several key differences to note this time.",
-        "de": "Einige Investoren ziehen Vergleiche zwischen der aktuellen Marktsituation und den 1970er Jahren, obwohl es diesmal mehrere wichtige Unterschiede zu beachten gibt."
+        "zh": "由于伊朗战争的影响，投资者对可能出现1970年代式滞胀的担忧加剧，但市场的反应可能与以往不同。",
+        "en": "Investor fears of a 1970s-style stagflation due to the Iran war oil shock are rising, but market reactions may differ this time.",
+        "de": "Die Ängste der Investoren vor einer stagflationären Situation wie in den 1970er Jahren aufgrund des Öl-Schocks durch den Iran-Krieg nehmen zu, aber die Marktreaktionen könnten diesmal anders sein."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-13",
