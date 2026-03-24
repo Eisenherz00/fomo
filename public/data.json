@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-03-24T05:44:23.274039+00:00",
+  "generatedAt": "2026-03-24T17:29:26.522451+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "关于人工智能驱动的妄想，最难回答的问题",
-        "en": "The hardest question to answer about AI-fueled delusions",
-        "de": "Die schwierigste Frage zu beantworten über KI-gestützte Wahnvorstellungen"
+        "zh": "这位科学家重新加热并研究了他朋友的冷冻大脑",
+        "en": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+        "de": "Dieser Wissenschaftler hat Teile des kryokonservierten Gehirns seines Freundes wieder aufgewärmt und untersucht"
       },
       "summary": {
-        "zh": "这篇文章探讨了关于人工智能驱动的妄想的复杂性和挑战，尤其是在如何理解和应对这些现象方面。",
-        "en": "This article explores the complexities and challenges surrounding AI-fueled delusions, particularly in understanding and addressing these phenomena.",
-        "de": "Dieser Artikel untersucht die Komplexität und Herausforderungen im Zusammenhang mit KI-gestützten Wahnvorstellungen, insbesondere im Verständnis und Umgang mit diesen Phänomenen."
+        "zh": "L. Stephen Coles的脑组织在亚利桑那州的一个储存设施中被冷冻保存，温度约为-146摄氏度。科学家对这些组织进行了重新加热和研究。",
+        "en": "L. Stephen Coles’s brain tissue has been cryopreserved in a storage facility in Arizona at around -146 degrees Celsius. The scientist has rewarmed and studied these tissues.",
+        "de": "Das Gehirngewebe von L. Stephen Coles wurde in einer Lagerstätte in Arizona bei etwa -146 Grad Celsius kryokonserviert. Der Wissenschaftler hat dieses Gewebe wieder aufgewärmt und untersucht."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-23",
-      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/"
+      "date": "2026-03-24",
+      "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：动物福利获得AGI支持，白宫公布其人工智能政策",
-        "en": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-        "de": "Der Download: Tierschutz erhält AGI-Pillen, und das Weiße Haus präsentiert seine KI-Politik"
+        "zh": "下载：追踪AI驱动的妄想，OpenAI承认微软风险",
+        "en": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+        "de": "Der Download: Verfolgung von KI-gestützten Wahnvorstellungen, und OpenAI gibt Microsoft-Risiken zu"
       },
       "summary": {
-        "zh": "这篇文章介绍了动物福利如何受到人工智能的影响，以及白宫最新的人工智能政策。",
-        "en": "This article discusses how animal welfare is being influenced by AI and outlines the latest AI policy from the White House.",
-        "de": "Dieser Artikel erörtert, wie der Tierschutz von KI beeinflusst wird, und skizziert die neueste KI-Politik des Weißen Hauses."
+        "zh": "今天的下载版中，讨论了AI驱动的妄想现象以及OpenAI对微软潜在风险的承认。这些问题在技术界引发了广泛关注。",
+        "en": "Today's edition of The Download discusses the phenomenon of AI-fueled delusions and OpenAI's acknowledgment of potential risks associated with Microsoft. These issues have garnered significant attention in the tech community.",
+        "de": "In der heutigen Ausgabe des Downloads wird das Phänomen der KI-gestützten Wahnvorstellungen und die Anerkennung von potenziellen Risiken durch OpenAI in Verbindung mit Microsoft behandelt. Diese Themen haben in der Tech-Community erhebliches Interesse geweckt."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-23",
-      "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
+      "date": "2026-03-24",
+      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "OpenAI全力打造完全自动化的研究人员",
+        "zh": "OpenAI全力构建完全自动化的研究者",
         "en": "OpenAI is throwing everything into building a fully automated researcher",
         "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln"
       },
       "summary": {
-        "zh": "OpenAI正在重新聚焦其研究工作，致力于开发一个全自动化的研究人员，这是该公司的新重大挑战。",
-        "en": "OpenAI is refocusing its research efforts to develop a fully automated researcher, marking a new grand challenge for the company.",
-        "de": "OpenAI konzentriert seine Forschungsanstrengungen auf die Entwicklung eines vollständig automatisierten Forschers, was eine neue große Herausforderung für das Unternehmen darstellt."
+        "zh": "OpenAI正在重新聚焦其研究工作，致力于构建一个完全自动化的研究者。这一新挑战将其资源集中在前沿科技的开发上。",
+        "en": "OpenAI is refocusing its research efforts on building a fully automated researcher. This new challenge concentrates its resources on the development of cutting-edge technology.",
+        "de": "OpenAI konzentriert seine Forschungsanstrengungen auf den Aufbau eines vollständig automatisierten Forschers. Diese neue Herausforderung bündelt seine Ressourcen auf die Entwicklung modernster Technologien."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-20",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普政府在美国各地机场部署ICE特工",
-        "en": "Trump administration deploys ICE agents at airports across US",
-        "de": "Trump-Administration setzt ICE-Agenten an Flughäfen in den USA ein"
+        "zh": "当UEFA的2026年世界杯附加赛何时进行，哪些国家参与？",
+        "en": "When are UEFA’s World Cup 2026 playoffs, and which nations are involved?",
+        "de": "Wann finden die UEFA-Playoffs zur Fußball-Weltmeisterschaft 2026 statt und welche Nationen sind beteiligt?"
       },
       "summary": {
-        "zh": "特朗普政府在美国各地的机场部署了移民和海关执法局（ICE）特工，以加强边境安全。",
-        "en": "The Trump administration has deployed Immigration and Customs Enforcement (ICE) agents at airports across the United States to enhance border security.",
-        "de": "Die Trump-Administration hat ICE-Agenten an Flughäfen in den gesamten USA eingesetzt, um die Grenzsicherheit zu verbessern."
+        "zh": "2026年世界杯的最终资格名额即将通过UEFA和洲际附加赛确定。各国的参与情况备受关注。",
+        "en": "The final qualification spots for the FIFA World Cup 2026 are about to be sealed via UEFA and Intercontinental playoffs. The participation of various nations is under close scrutiny.",
+        "de": "Die letzten Qualifikationsplätze für die Fußball-Weltmeisterschaft 2026 werden bald durch die UEFA- und interkontinentalen Playoffs entschieden. Die Teilnahme verschiedener Nationen steht im Fokus."
       },
       "source": "Al Jazeera",
       "date": "2026-03-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/trump-administration-deploys-ice-agents-at-airports-across-us?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/3/24/when-are-uefas-world-cup-2026-playoffs-and-which-nations-are-involved?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普宣布推迟对伊朗的打击，美国市场飙升",
-        "en": "US markets surge after Trump announces he’s postponing strikes on Iran",
-        "de": "US-Märkte steigen, nachdem Trump angekündigt hat, dass er Angriffe auf den Iran verschiebt"
+        "zh": "巴勒斯坦足球协会在FIFA歧视报告后呼吁对以色列禁赛",
+        "en": "Palestinian FA calls for Israeli ban after FIFA discrimination report",
+        "de": "Palästinensischer Fußballverband fordert nach FIFA-Diskriminierungsbericht ein Verbot für Israel"
       },
       "summary": {
-        "zh": "特朗普总统宣布推迟对伊朗的军事打击后，美国主要金融市场出现上涨，投资者对局势的缓和表示乐观。",
-        "en": "After President Trump announced the postponement of military strikes on Iran, major US financial markets surged, reflecting investor optimism about the easing of tensions.",
-        "de": "Nachdem Präsident Trump die militärischen Angriffe auf den Iran verschoben hat, stiegen die wichtigsten US-Finanzmärkte, was die Optimismus der Investoren über die Entspannung der Spannungen widerspiegelt."
+        "zh": "在FIFA因种族主义和歧视违规行为对以色列足球协会罚款后，巴勒斯坦足球协会呼吁对以色列实施禁赛。",
+        "en": "Following FIFA's fine against the Israel Football Association for racism and discrimination breaches, the Palestinian FA is calling for a ban on Israel.",
+        "de": "Nach der Geldstrafe von FIFA gegen den israelischen Fußballverband wegen Rassismus und Diskriminierung fordert der palästinensische Fußballverband ein Verbot für Israel."
       },
       "source": "Al Jazeera",
       "date": "2026-03-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/us-markets-surge-after-trump-announces-hes-postponing-strikes-on-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/3/24/palestine-fa-calls-for-israel-football-ban-after-fifa-discrimination-report?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列轰炸黎巴嫩南部的加油站",
-        "en": "Israel bombs petrol station in southern Lebanon",
-        "de": "Israel bombardiert Tankstelle im Süden Libanons"
+        "zh": "以色列防御受到质疑，伊朗继续造成损害",
+        "en": "Israeli defences questioned as Iran continues to cause damage",
+        "de": "Israels Verteidigung wird in Frage gestellt, während Iran weiterhin Schaden anrichtet"
       },
       "summary": {
-        "zh": "以色列对黎巴嫩南部的一处加油站进行了空袭，造成了当地的紧张局势升级。",
-        "en": "Israel conducted an airstrike on a petrol station in southern Lebanon, escalating tensions in the region.",
-        "de": "Israel führte einen Luftangriff auf eine Tankstelle im Süden Libanons durch, was die Spannungen in der Region verschärfte."
+        "zh": "伊朗导弹在以色列造成了损害，引发了对该国防空系统的质疑。局势的紧张程度不断升级。",
+        "en": "Iranian missiles have caused damage in Israel, raising questions about the country’s air defence systems. The tension in the region continues to escalate.",
+        "de": "Iranische Raketen haben in Israel Schäden verursacht, was Fragen zu den Luftverteidigungssystemen des Landes aufwirft. Die Spannungen in der Region eskalieren weiter."
       },
       "source": "Al Jazeera",
       "date": "2026-03-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israel-bombs-petrol-station-in-southern-lebanon?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-defences-questioned-as-iran-continues-to-cause-damage?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员现在几乎不认为今年会降息",
-        "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
-        "de": "Händler sehen nun kaum Chancen auf eine Zinssenkung in diesem Jahr nach der Fed-Entscheidung"
+        "zh": "白宫将支付TotalEnergies 10亿美元以终止东海岸风电项目",
+        "en": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
+        "de": "Das Weiße Haus wird TotalEnergies 1 Milliarde Dollar zahlen, um Windparkprojekte an der Ostküste abzubrechen"
       },
       "summary": {
-        "zh": "在美联储的最新决定之后，交易员们几乎不认为今年会降息，这对投资者产生了负面影响。",
-        "en": "Following the latest decision from the Federal Reserve, traders see little chance of an interest rate cut this year, which has negatively impacted investors.",
-        "de": "Nach der neuesten Entscheidung der Federal Reserve sehen Händler kaum Chancen auf eine Zinssenkung in diesem Jahr, was sich negativ auf die Investoren ausgewirkt hat."
+        "zh": "白宫宣布将支付TotalEnergies 10亿美元，以终止东海岸的风电项目，此举是在伊朗战争扰乱全球油气供应的背景下进行的。",
+        "en": "The White House has announced it will pay TotalEnergies $1 billion to terminate East Coast wind farm projects, a move made urgent by the disruption of global oil and gas supplies due to the Iran war.",
+        "de": "Das Weiße Haus hat angekündigt, TotalEnergies 1 Milliarde Dollar zu zahlen, um Windparkprojekte an der Ostküste abzubrechen, eine Maßnahme, die durch die Störung der globalen Öl- und Gasversorgung aufgrund des Iran-Kriegs dringend erforderlich wurde."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-24",
+      "url": "https://www.cnbc.com/2026/03/24/us-to-pay-totalenergies-1-billion-to-kill-east-coast-wind-projects.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "交易员在美联储决定后几乎不认为今年会降息",
+        "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
+        "de": "Händler sehen nach der Entscheidung der Fed kaum Chancen auf eine Zinssenkung in diesem Jahr"
+      },
+      "summary": {
+        "zh": "在美联储会议后，交易员几乎不认为今年会降息。积极的经济讨论对投资者产生了负面影响。",
+        "en": "Following the Federal Reserve meeting, traders see little chance of an interest rate cut this year. The positive economic discussions had a negative impact on investors.",
+        "de": "Nach der Sitzung der Federal Reserve sehen Händler kaum Chancen auf eine Zinssenkung in diesem Jahr. Die positiven wirtschaftlichen Diskussionen hatten negative Auswirkungen auf die Investoren."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
       "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
         "zh": "欧洲央行维持利率不变，警告前景“显著不确定”",
         "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
         "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
       },
       "summary": {
-        "zh": "欧洲央行决定维持利率不变，并警告说，由于伊朗战争，经济前景变得更加不确定。",
-        "en": "The European Central Bank decided to keep interest rates steady while warning that the economic outlook has become significantly more uncertain due to the war in Iran.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten und warnt, dass die wirtschaftlichen Aussichten aufgrund des Krieges im Iran deutlich unsicherer geworden sind."
+        "zh": "欧洲央行决定维持利率不变，并警告由于伊朗战争，经济前景变得“显著不确定”。",
+        "en": "The European Central Bank has decided to hold rates steady and warned that the economic outlook has become 'significantly more uncertain' due to the Iran war.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinsen stabil zu halten und gewarnt, dass die wirtschaftlichen Aussichten aufgrund des Iran-Kriegs 'deutlich unsicherer' geworden sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
       "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "苹果股票因潜在折叠iPhone的热情而上涨",
-        "en": "Apple’s stock rises as enthusiasm builds for a potential foldable iPhone",
-        "de": "Apples Aktie steigt, da die Begeisterung für ein potenzielles faltbares iPhone wächst"
-      },
-      "summary": {
-        "zh": "苹果公司的股票因消费者对潜在折叠iPhone的强烈兴趣而上涨，分析师认为这可能是苹果的一次重大形态变化。",
-        "en": "Apple's stock has risen due to strong consumer interest in a potential foldable iPhone, with analysts suggesting it could represent a major form-factor change for the company.",
-        "de": "Die Aktie von Apple ist gestiegen, da das starke Verbraucherinteresse an einem potenziellen faltbaren iPhone zunimmt, wobei Analysten darauf hinweisen, dass dies eine bedeutende Formänderung für das Unternehmen darstellen könnte."
-      },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-03-23",
-      "url": "https://www.marketwatch.com/story/apples-stock-rises-as-enthusiasm-builds-for-a-potential-foldable-iphone-2774476f?mod=mw_rss_topstories"
     }
   ]
 }
