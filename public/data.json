@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-25T05:45:16.475579+00:00",
+  "generatedAt": "2026-03-25T17:33:21.073947+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "独家电子书：我们准备好把AI代理的钥匙交给他们了吗？",
-        "en": "Exclusive eBook: Are we ready to hand AI agents the keys?",
-        "de": "Exklusives eBook: Sind wir bereit, KI-Agenten die Schlüssel zu übergeben?"
+        "zh": "为什么这家电池公司转向人工智能：Qichao Hu对电池行业的现状直言不讳。",
+        "en": "Why this battery company is pivoting to AI: Qichao Hu doesn’t mince words about how he sees the state of the battery industry.",
+        "de": "Warum dieses Batterieunternehmen auf KI umschwenkt: Qichao Hu spricht offen über den Zustand der Batterieindustrie."
       },
       "summary": {
-        "zh": "这本仅限订阅者的电子书探讨了我们是否准备好赋予AI代理真正的自主权，以及可能发生的后果。",
-        "en": "This subscriber-only eBook explores whether we are prepared to grant AI agents real autonomy and the potential consequences that may follow.",
-        "de": "Dieses exklusive eBook für Abonnenten untersucht, ob wir bereit sind, KI-Agenten echte Autonomie zu gewähren und welche möglichen Folgen dies haben könnte."
+        "zh": "Qichao Hu表示，几乎所有西方电池公司要么已经倒闭，要么即将倒闭，因此该公司决定转向人工智能以寻求新机遇。",
+        "en": "Qichao Hu states that almost every Western battery company has either died or is about to die, prompting the company to pivot to AI for new opportunities.",
+        "de": "Qichao Hu erklärt, dass fast jedes westliche Batterieunternehmen entweder gestorben ist oder kurz davor steht, was das Unternehmen dazu veranlasst, auf KI umzuschwenken, um neue Chancen zu suchen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-24",
-      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/"
+      "date": "2026-03-25",
+      "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "这位科学家重新加热并研究了他朋友的冷冻大脑的部分",
-        "en": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
-        "de": "Dieser Wissenschaftler hat Teile des kryokonservierten Gehirns seines Freundes wieder aufgewärmt und untersucht"
+        "zh": "这家初创公司想要改变数学家做数学的方式：Axiom Math推出了一款免费的新AI工具。",
+        "en": "This startup wants to change how mathematicians do math: Axiom Math has released a free new AI tool for mathematicians.",
+        "de": "Dieses Startup möchte ändern, wie Mathematiker Mathematik machen: Axiom Math hat ein kostenloses neues KI-Tool für Mathematiker veröffentlicht."
       },
       "summary": {
-        "zh": "L. Stephen Coles的脑部样本在亚利桑那州的一个储存设施中被冷冻保存，研究揭示了冷冻保存技术的潜力和挑战。",
-        "en": "L. Stephen Coles's brain samples are cryopreserved in a storage facility in Arizona, revealing the potential and challenges of cryopreservation technology.",
-        "de": "Die Gehirnproben von L. Stephen Coles werden in einer Lagerstätte in Arizona kryokonserviert, was das Potenzial und die Herausforderungen der Kryokonservierungstechnologie aufzeigt."
+        "zh": "Axiom Math推出的AI工具旨在帮助数学家发现数学模式，改变他们的工作方式。",
+        "en": "The AI tool launched by Axiom Math aims to assist mathematicians in discovering mathematical patterns, transforming their workflow.",
+        "de": "Das von Axiom Math eingeführte KI-Tool soll Mathematikern helfen, mathematische Muster zu entdecken und ihren Arbeitsablauf zu verändern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-24",
-      "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/"
+      "date": "2026-03-25",
+      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：追踪AI驱动的妄想，OpenAI承认微软的风险",
-        "en": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-        "de": "Der Download: Verfolgung von KI-betriebenen Wahnvorstellungen, und OpenAI gibt Microsoft-Risiken zu"
+        "zh": "下载：重启冷冻大脑，AI炒作指数回归：今天的下载。",
+        "en": "The Download: reawakening frozen brains, and the AI Hype Index returns: This is today’s edition of The Download.",
+        "de": "Der Download: Wiederbelebung gefrorener Gehirne und der KI-Hype-Index kehrt zurück: Dies ist die heutige Ausgabe des Downloads."
       },
       "summary": {
-        "zh": "本期《下载》新闻简报探讨了AI引发的妄想现象，并揭示了OpenAI对与微软合作的潜在风险的担忧。",
-        "en": "This edition of The Download newsletter discusses the phenomenon of AI-induced delusions and reveals OpenAI's concerns about the potential risks of collaborating with Microsoft.",
-        "de": "In dieser Ausgabe des Newsletters The Download wird das Phänomen der KI-induzierten Wahnvorstellungen erörtert und OpenAIs Bedenken hinsichtlich der potenziellen Risiken einer Zusammenarbeit mit Microsoft aufgezeigt."
+        "zh": "今天的下载涵盖了重启冷冻大脑的研究进展以及AI炒作指数的最新动态。",
+        "en": "Today's Download covers advancements in the reawakening of frozen brains and the latest developments in the AI Hype Index.",
+        "de": "Der heutige Download behandelt Fortschritte bei der Wiederbelebung gefrorener Gehirne und die neuesten Entwicklungen im KI-Hype-Index."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-24",
-      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
+      "date": "2026-03-25",
+      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "从巴基斯坦到埃及，伊朗战争推动全球南方的燃料价格上涨",
-        "en": "From Pakistan to Egypt, Iran war drives up fuel prices in the Global South",
-        "de": "Von Pakistan bis Ägypten treibt der Iran-Krieg die Kraftstoffpreise im Globalen Süden in die Höhe"
+        "zh": "我们所知道的美国对伊拉克军事基地的攻击：伊拉克当局称美国空袭造成七名士兵死亡，十三人受伤。",
+        "en": "What we know about US attack on Iraqi military site: Iraqi authorities say a US air strike on a military site in Anbar killed seven soldiers and wounded 13.",
+        "de": "Was wir über den US-Angriff auf einen irakischen Militärstandort wissen: Iraks Behörden berichten, dass ein US-Luftangriff auf einen Militärstandort in Anbar sieben Soldaten tötete und 13 verletzte."
       },
       "summary": {
-        "zh": "随着伊朗战争的持续，亚洲、非洲和中东的发展中经济体面临着不断上涨的能源成本，给这些地区带来了重大压力。",
-        "en": "As the Iran war continues, developing economies in Asia, Africa, and the Middle East are facing surging energy costs, putting significant pressure on these regions.",
-        "de": "Mit dem fortdauernden Iran-Krieg sehen sich die Entwicklungsländer in Asien, Afrika und dem Nahen Osten steigenden Energiekosten gegenüber, was erheblichen Druck auf diese Regionen ausübt."
+        "zh": "美国对伊拉克安巴尔省的军事基地进行空袭，造成七名士兵死亡，十三人受伤，引发了国际社会的关注。",
+        "en": "A US airstrike on a military base in Anbar, Iraq, resulted in seven soldiers' deaths and thirteen injuries, drawing international attention.",
+        "de": "Ein US-Luftangriff auf einen Militärstandort in Anbar, Irak, führte zu sieben Todesfällen und dreizehn Verletzten unter Soldaten und erregte internationale Aufmerksamkeit."
       },
       "source": "Al Jazeera",
       "date": "2026-03-25",
-      "url": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-us-attack-on-iraqi-military-site?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "OpenAI因对深度伪造视频的担忧而撤回AI视频应用Sora",
-        "en": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos",
-        "de": "OpenAI zieht die KI-Video-App Sora zurück, da die Bedenken hinsichtlich Deepfake-Videos zunehmen"
+        "zh": "美国对伊拉克军事基地的致命攻击引发谴责：美国在伊拉克的袭击造成七名士兵死亡。",
+        "en": "Deadly US attack on Iraqi military base sparks condemnation: The US killed seven Iraqi soldiers in a strike in Iraq as it targeted the Popular Mobilisation Forces.",
+        "de": "Tödlicher US-Angriff auf einen irakischen Militärstützpunkt löst Verurteilung aus: Die USA töteten sieben irakische Soldaten bei einem Angriff auf die Volksmobilisierungskräfte."
       },
       "summary": {
-        "zh": "OpenAI撤回其AI视频应用Sora，标志着其在深度伪造视频领域的重大转变，旨在专注于更有利可图的业务领域。",
-        "en": "OpenAI's withdrawal of its AI video app Sora marks a significant shift in its focus towards potentially more lucrative areas, such as coding tools.",
-        "de": "Die Rücknahme der KI-Video-App Sora durch OpenAI markiert einen bedeutenden Wandel in seinem Fokus auf potenziell lukrativere Bereiche wie Codierungswerkzeuge."
+        "zh": "美国在伊拉克的空袭针对了人民动员力量，造成七名士兵死亡，引发了广泛的国际谴责。",
+        "en": "The US airstrike in Iraq targeted the Popular Mobilisation Forces, resulting in seven soldiers' deaths and provoking widespread international condemnation.",
+        "de": "Der US-Luftangriff in Irak richtete sich gegen die Volksmobilisierungskräfte, was zu sieben Todesfällen unter Soldaten führte und weitreichende internationale Verurteilungen hervorrief."
       },
       "source": "Al Jazeera",
       "date": "2026-03-25",
-      "url": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/deadly-us-attack-on-iraqi-military-base-sparks-condemnation?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国陪审团命令Meta支付3.75亿美元以保护儿童安全",
-        "en": "US jury orders Meta to pay $375m for endangering children",
-        "de": "US-Jury ordnet an, dass Meta 375 Millionen Dollar für die Gefährdung von Kindern zahlen muss"
+        "zh": "美国向海湾地区调动部队：美国在伊朗周边的军事存在日益增加，暗示可能转向地面行动。",
+        "en": "War on Iran: What troops is the US moving to the Gulf?: Growing US military presence around Iran suggests shift from air campaign to potential ground operations.",
+        "de": "Krieg gegen den Iran: Welche Truppen verlegt die USA in den Golf?: Die wachsende militärische Präsenz der USA rund um den Iran deutet auf einen Wechsel von Luftangriffen zu möglichen Bodenoperationen hin."
       },
       "summary": {
-        "zh": "这是美国某州首次成功起诉社交媒体巨头Meta，因其在儿童安全问题上的失误而被判赔偿。",
-        "en": "This marks the first time a US state has successfully sued social media giant Meta over child safety issues, resulting in a significant compensation ruling.",
-        "de": "Dies ist das erste Mal, dass ein US-Bundesstaat den Social-Media-Riesen Meta erfolgreich wegen Fragen der Kindersicherheit verklagt hat, was zu einem erheblichen Entschädigungsurteil führte."
+        "zh": "美国在伊朗周边的军事存在不断增加，表明可能从空中行动转向地面行动的可能性。",
+        "en": "The increasing US military presence around Iran indicates a potential shift from air operations to ground operations.",
+        "de": "Die zunehmende militärische Präsenz der USA rund um den Iran deutet auf einen möglichen Wechsel von Luftoperationen zu Bodenoperationen hin."
       },
       "source": "Al Jazeera",
       "date": "2026-03-25",
-      "url": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/25/war-on-iran-what-troops-is-the-us-moving-to-the-gulf?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "白宫将支付TotalEnergies 10亿美元以终止东海岸风电项目",
-        "en": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
-        "de": "Weißes Haus zahlt TotalEnergies 1 Milliarde Dollar, um Windparkprojekte an der Ostküste zu beenden"
+        "zh": "华尔街衰退几率上升，经济显露裂痕：经济学家提高了对经济衰退的风险评估。",
+        "en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface: Economists have pulled up their risk assessments of a contraction amid heightened uncertainty over geopolitical risk and a labor market slump.",
+        "de": "Die Wahrscheinlichkeit einer Rezession steigt an der Wall Street, da die Wirtschaft Risse zeigt: Ökonomen haben ihre Risikobewertungen für eine Kontraktion angesichts erhöhter geopolitischer Risiken und eines Rückgangs des Arbeitsmarktes angehoben."
       },
       "summary": {
-        "zh": "随着伊朗战争扰乱全球石油和天然气供应，美国迫切需要开发其液化天然气资源，因此决定支付TotalEnergies以终止相关项目。",
-        "en": "As the Iran war disrupts global oil and gas supplies, the US has decided to pay TotalEnergies to terminate East Coast wind farm projects, highlighting the urgency to develop its LNG resources.",
-        "de": "Da der Iran-Krieg die globalen Öl- und Gaslieferungen stört, hat sich die US-Regierung entschieden, TotalEnergies zu bezahlen, um Windparkprojekte an der Ostküste zu beenden, was die Dringlichkeit der Entwicklung ihrer LNG-Ressourcen verdeutlicht."
+        "zh": "经济学家因地缘政治风险和劳动力市场下滑而提高了对经济衰退的风险评估，华尔街的衰退几率上升。",
+        "en": "Economists have raised their risk assessments for a recession due to geopolitical risks and a slump in the labor market, leading to increased recession odds on Wall Street.",
+        "de": "Ökonomen haben ihre Risikobewertungen für eine Rezession aufgrund geopolitischer Risiken und eines Rückgangs des Arbeitsmarktes angehoben, was zu einer erhöhten Rezessionswahrscheinlichkeit an der Wall Street führt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-25",
+      "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "白宫将支付TotalEnergies 10亿美元以终止东海岸风电项目：此举是在伊朗战争扰乱全球油气供应的背景下进行的。",
+        "en": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects: The announcement comes as the Iran war disrupts global oil and gas supplies.",
+        "de": "Das Weiße Haus wird TotalEnergies 1 Milliarde Dollar zahlen, um Windparkprojekte an der Ostküste zu stoppen: Die Ankündigung erfolgt vor dem Hintergrund des Iran-Kriegs, der die globalen Öl- und Gaslieferungen stört."
+      },
+      "summary": {
+        "zh": "白宫决定支付TotalEnergies 10亿美元以终止东海岸的风电项目，以应对伊朗战争带来的能源供应挑战。",
+        "en": "The White House has decided to pay TotalEnergies $1 billion to terminate wind farm projects on the East Coast in response to energy supply challenges posed by the Iran war.",
+        "de": "Das Weiße Haus hat beschlossen, TotalEnergies 1 Milliarde Dollar zu zahlen, um Windparkprojekte an der Ostküste zu beenden, um den durch den Iran-Krieg verursachten Herausforderungen der Energieversorgung zu begegnen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-24",
       "url": "https://www.cnbc.com/2026/03/24/us-to-pay-totalenergies-1-billion-to-kill-east-coast-wind-projects.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "交易员们在美联储决定后几乎不再预期今年降息",
-        "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
-        "de": "Händler sehen nach der Fed-Entscheidung kaum Chancen auf eine Zinssenkung in diesem Jahr"
-      },
-      "summary": {
-        "zh": "美联储的最新决定使交易员们对今年降息的预期几乎消失，影响了投资者的情绪。",
-        "en": "The latest decision from the Federal Reserve has nearly erased traders' expectations for an interest rate cut this year, impacting investor sentiment.",
-        "de": "Die neueste Entscheidung der Federal Reserve hat die Erwartungen der Händler an eine Zinssenkung in diesem Jahr nahezu ausgelöscht, was sich auf die Stimmung der Investoren auswirkt."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-19",
-      "url": "https://www.cnbc.com/2026/03/19/traders-rate-cut.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "软件股票因AI干扰的恐惧而下跌",
-        "en": "Software stocks fall as fear of AI disruption is back in full force",
-        "de": "Software-Aktien fallen, da die Angst vor KI-Störungen wieder voll zur Geltung kommt"
+        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”：伊朗战争扰乱了欧洲的经济平衡。",
+        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain': The war in Iran has upset the economic equilibrium in Europe threatening energy supplies, growth and the outlook for consumer prices.",
+        "de": "Die Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind: Der Krieg im Iran hat das wirtschaftliche Gleichgewicht in Europa gestört und bedroht die Energieversorgung, das Wachstum und die Aussichten für die Verbraucherpreise."
       },
       "summary": {
-        "zh": "由于Anthropic的AI代理Claude的发布，市场对软件将不再被需要的恐惧重新浮现，导致软件股票普遍下跌。",
-        "en": "The release of Anthropic's AI agent Claude has revived fears that software will no longer be needed, leading to a widespread decline in software stocks.",
-        "de": "Die Veröffentlichung des KI-Agenten Claude von Anthropic hat die Ängste neu entfacht, dass Software nicht mehr benötigt wird, was zu einem weit verbreiteten Rückgang der Softwareaktien führte."
+        "zh": "欧洲央行决定维持利率不变，同时警告伊朗战争对能源供应和经济增长的影响使前景变得更加不确定。",
+        "en": "The European Central Bank has decided to keep interest rates steady while warning that the impact of the Iran war on energy supplies and economic growth has made the outlook significantly more uncertain.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, während sie warnt, dass die Auswirkungen des Iran-Kriegs auf die Energieversorgung und das Wirtschaftswachstum die Aussichten erheblich unsicherer gemacht haben."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-03-24",
-      "url": "https://www.marketwatch.com/story/software-stocks-fall-as-fear-of-ai-disruption-is-back-in-full-force-c5cdf640?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-03-25",
+      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html"
     }
   ]
 }
