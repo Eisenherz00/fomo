@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-03-24T17:29:26.522451+00:00",
+  "generatedAt": "2026-03-25T05:45:16.475579+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "这位科学家重新加热并研究了他朋友的冷冻大脑",
+        "zh": "独家电子书：我们准备好把AI代理的钥匙交给他们了吗？",
+        "en": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+        "de": "Exklusives eBook: Sind wir bereit, KI-Agenten die Schlüssel zu übergeben?"
+      },
+      "summary": {
+        "zh": "这本仅限订阅者的电子书探讨了我们是否准备好赋予AI代理真正的自主权，以及可能发生的后果。",
+        "en": "This subscriber-only eBook explores whether we are prepared to grant AI agents real autonomy and the potential consequences that may follow.",
+        "de": "Dieses exklusive eBook für Abonnenten untersucht, ob wir bereit sind, KI-Agenten echte Autonomie zu gewähren und welche möglichen Folgen dies haben könnte."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-03-24",
+      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "这位科学家重新加热并研究了他朋友的冷冻大脑的部分",
         "en": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
         "de": "Dieser Wissenschaftler hat Teile des kryokonservierten Gehirns seines Freundes wieder aufgewärmt und untersucht"
       },
       "summary": {
-        "zh": "L. Stephen Coles的脑组织在亚利桑那州的一个储存设施中被冷冻保存，温度约为-146摄氏度。科学家对这些组织进行了重新加热和研究。",
-        "en": "L. Stephen Coles’s brain tissue has been cryopreserved in a storage facility in Arizona at around -146 degrees Celsius. The scientist has rewarmed and studied these tissues.",
-        "de": "Das Gehirngewebe von L. Stephen Coles wurde in einer Lagerstätte in Arizona bei etwa -146 Grad Celsius kryokonserviert. Der Wissenschaftler hat dieses Gewebe wieder aufgewärmt und untersucht."
+        "zh": "L. Stephen Coles的脑部样本在亚利桑那州的一个储存设施中被冷冻保存，研究揭示了冷冻保存技术的潜力和挑战。",
+        "en": "L. Stephen Coles's brain samples are cryopreserved in a storage facility in Arizona, revealing the potential and challenges of cryopreservation technology.",
+        "de": "Die Gehirnproben von L. Stephen Coles werden in einer Lagerstätte in Arizona kryokonserviert, was das Potenzial und die Herausforderungen der Kryokonservierungstechnologie aufzeigt."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-24",
       "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "下载：追踪AI驱动的妄想，OpenAI承认微软风险",
+        "zh": "下载：追踪AI驱动的妄想，OpenAI承认微软的风险",
         "en": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-        "de": "Der Download: Verfolgung von KI-gestützten Wahnvorstellungen, und OpenAI gibt Microsoft-Risiken zu"
+        "de": "Der Download: Verfolgung von KI-betriebenen Wahnvorstellungen, und OpenAI gibt Microsoft-Risiken zu"
       },
       "summary": {
-        "zh": "今天的下载版中，讨论了AI驱动的妄想现象以及OpenAI对微软潜在风险的承认。这些问题在技术界引发了广泛关注。",
-        "en": "Today's edition of The Download discusses the phenomenon of AI-fueled delusions and OpenAI's acknowledgment of potential risks associated with Microsoft. These issues have garnered significant attention in the tech community.",
-        "de": "In der heutigen Ausgabe des Downloads wird das Phänomen der KI-gestützten Wahnvorstellungen und die Anerkennung von potenziellen Risiken durch OpenAI in Verbindung mit Microsoft behandelt. Diese Themen haben in der Tech-Community erhebliches Interesse geweckt."
+        "zh": "本期《下载》新闻简报探讨了AI引发的妄想现象，并揭示了OpenAI对与微软合作的潜在风险的担忧。",
+        "en": "This edition of The Download newsletter discusses the phenomenon of AI-induced delusions and reveals OpenAI's concerns about the potential risks of collaborating with Microsoft.",
+        "de": "In dieser Ausgabe des Newsletters The Download wird das Phänomen der KI-induzierten Wahnvorstellungen erörtert und OpenAIs Bedenken hinsichtlich der potenziellen Risiken einer Zusammenarbeit mit Microsoft aufgezeigt."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-24",
       "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "OpenAI全力构建完全自动化的研究者",
-        "en": "OpenAI is throwing everything into building a fully automated researcher",
-        "de": "OpenAI setzt alles daran, einen vollständig automatisierten Forscher zu entwickeln"
-      },
-      "summary": {
-        "zh": "OpenAI正在重新聚焦其研究工作，致力于构建一个完全自动化的研究者。这一新挑战将其资源集中在前沿科技的开发上。",
-        "en": "OpenAI is refocusing its research efforts on building a fully automated researcher. This new challenge concentrates its resources on the development of cutting-edge technology.",
-        "de": "OpenAI konzentriert seine Forschungsanstrengungen auf den Aufbau eines vollständig automatisierten Forschers. Diese neue Herausforderung bündelt seine Ressourcen auf die Entwicklung modernster Technologien."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-03-20",
-      "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "当UEFA的2026年世界杯附加赛何时进行，哪些国家参与？",
-        "en": "When are UEFA’s World Cup 2026 playoffs, and which nations are involved?",
-        "de": "Wann finden die UEFA-Playoffs zur Fußball-Weltmeisterschaft 2026 statt und welche Nationen sind beteiligt?"
+        "zh": "从巴基斯坦到埃及，伊朗战争推动全球南方的燃料价格上涨",
+        "en": "From Pakistan to Egypt, Iran war drives up fuel prices in the Global South",
+        "de": "Von Pakistan bis Ägypten treibt der Iran-Krieg die Kraftstoffpreise im Globalen Süden in die Höhe"
       },
       "summary": {
-        "zh": "2026年世界杯的最终资格名额即将通过UEFA和洲际附加赛确定。各国的参与情况备受关注。",
-        "en": "The final qualification spots for the FIFA World Cup 2026 are about to be sealed via UEFA and Intercontinental playoffs. The participation of various nations is under close scrutiny.",
-        "de": "Die letzten Qualifikationsplätze für die Fußball-Weltmeisterschaft 2026 werden bald durch die UEFA- und interkontinentalen Playoffs entschieden. Die Teilnahme verschiedener Nationen steht im Fokus."
+        "zh": "随着伊朗战争的持续，亚洲、非洲和中东的发展中经济体面临着不断上涨的能源成本，给这些地区带来了重大压力。",
+        "en": "As the Iran war continues, developing economies in Asia, Africa, and the Middle East are facing surging energy costs, putting significant pressure on these regions.",
+        "de": "Mit dem fortdauernden Iran-Krieg sehen sich die Entwicklungsländer in Asien, Afrika und dem Nahen Osten steigenden Energiekosten gegenüber, was erheblichen Druck auf diese Regionen ausübt."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-24",
-      "url": "https://www.aljazeera.com/sports/2026/3/24/when-are-uefas-world-cup-2026-playoffs-and-which-nations-are-involved?traffic_source=rss"
+      "date": "2026-03-25",
+      "url": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "巴勒斯坦足球协会在FIFA歧视报告后呼吁对以色列禁赛",
-        "en": "Palestinian FA calls for Israeli ban after FIFA discrimination report",
-        "de": "Palästinensischer Fußballverband fordert nach FIFA-Diskriminierungsbericht ein Verbot für Israel"
+        "zh": "OpenAI因对深度伪造视频的担忧而撤回AI视频应用Sora",
+        "en": "OpenAI pulls AI video app Sora as concerns grow on deepfake videos",
+        "de": "OpenAI zieht die KI-Video-App Sora zurück, da die Bedenken hinsichtlich Deepfake-Videos zunehmen"
       },
       "summary": {
-        "zh": "在FIFA因种族主义和歧视违规行为对以色列足球协会罚款后，巴勒斯坦足球协会呼吁对以色列实施禁赛。",
-        "en": "Following FIFA's fine against the Israel Football Association for racism and discrimination breaches, the Palestinian FA is calling for a ban on Israel.",
-        "de": "Nach der Geldstrafe von FIFA gegen den israelischen Fußballverband wegen Rassismus und Diskriminierung fordert der palästinensische Fußballverband ein Verbot für Israel."
+        "zh": "OpenAI撤回其AI视频应用Sora，标志着其在深度伪造视频领域的重大转变，旨在专注于更有利可图的业务领域。",
+        "en": "OpenAI's withdrawal of its AI video app Sora marks a significant shift in its focus towards potentially more lucrative areas, such as coding tools.",
+        "de": "Die Rücknahme der KI-Video-App Sora durch OpenAI markiert einen bedeutenden Wandel in seinem Fokus auf potenziell lukrativere Bereiche wie Codierungswerkzeuge."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-24",
-      "url": "https://www.aljazeera.com/sports/2026/3/24/palestine-fa-calls-for-israel-football-ban-after-fifa-discrimination-report?traffic_source=rss"
+      "date": "2026-03-25",
+      "url": "https://www.aljazeera.com/economy/2026/3/25/openai-pulls-ai-video-app-sora-as-concerns-grow-on-deepfake-videos?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列防御受到质疑，伊朗继续造成损害",
-        "en": "Israeli defences questioned as Iran continues to cause damage",
-        "de": "Israels Verteidigung wird in Frage gestellt, während Iran weiterhin Schaden anrichtet"
+        "zh": "美国陪审团命令Meta支付3.75亿美元以保护儿童安全",
+        "en": "US jury orders Meta to pay $375m for endangering children",
+        "de": "US-Jury ordnet an, dass Meta 375 Millionen Dollar für die Gefährdung von Kindern zahlen muss"
       },
       "summary": {
-        "zh": "伊朗导弹在以色列造成了损害，引发了对该国防空系统的质疑。局势的紧张程度不断升级。",
-        "en": "Iranian missiles have caused damage in Israel, raising questions about the country’s air defence systems. The tension in the region continues to escalate.",
-        "de": "Iranische Raketen haben in Israel Schäden verursacht, was Fragen zu den Luftverteidigungssystemen des Landes aufwirft. Die Spannungen in der Region eskalieren weiter."
+        "zh": "这是美国某州首次成功起诉社交媒体巨头Meta，因其在儿童安全问题上的失误而被判赔偿。",
+        "en": "This marks the first time a US state has successfully sued social media giant Meta over child safety issues, resulting in a significant compensation ruling.",
+        "de": "Dies ist das erste Mal, dass ein US-Bundesstaat den Social-Media-Riesen Meta erfolgreich wegen Fragen der Kindersicherheit verklagt hat, was zu einem erheblichen Entschädigungsurteil führte."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/israeli-defences-questioned-as-iran-continues-to-cause-damage?traffic_source=rss"
+      "date": "2026-03-25",
+      "url": "https://www.aljazeera.com/economy/2026/3/25/us-jury-orders-meta-to-pay-375m-for-endangering-children?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -106,12 +106,12 @@
       "title": {
         "zh": "白宫将支付TotalEnergies 10亿美元以终止东海岸风电项目",
         "en": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
-        "de": "Das Weiße Haus wird TotalEnergies 1 Milliarde Dollar zahlen, um Windparkprojekte an der Ostküste abzubrechen"
+        "de": "Weißes Haus zahlt TotalEnergies 1 Milliarde Dollar, um Windparkprojekte an der Ostküste zu beenden"
       },
       "summary": {
-        "zh": "白宫宣布将支付TotalEnergies 10亿美元，以终止东海岸的风电项目，此举是在伊朗战争扰乱全球油气供应的背景下进行的。",
-        "en": "The White House has announced it will pay TotalEnergies $1 billion to terminate East Coast wind farm projects, a move made urgent by the disruption of global oil and gas supplies due to the Iran war.",
-        "de": "Das Weiße Haus hat angekündigt, TotalEnergies 1 Milliarde Dollar zu zahlen, um Windparkprojekte an der Ostküste abzubrechen, eine Maßnahme, die durch die Störung der globalen Öl- und Gasversorgung aufgrund des Iran-Kriegs dringend erforderlich wurde."
+        "zh": "随着伊朗战争扰乱全球石油和天然气供应，美国迫切需要开发其液化天然气资源，因此决定支付TotalEnergies以终止相关项目。",
+        "en": "As the Iran war disrupts global oil and gas supplies, the US has decided to pay TotalEnergies to terminate East Coast wind farm projects, highlighting the urgency to develop its LNG resources.",
+        "de": "Da der Iran-Krieg die globalen Öl- und Gaslieferungen stört, hat sich die US-Regierung entschieden, TotalEnergies zu bezahlen, um Windparkprojekte an der Ostküste zu beenden, was die Dringlichkeit der Entwicklung ihrer LNG-Ressourcen verdeutlicht."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-24",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "交易员在美联储决定后几乎不认为今年会降息",
+        "zh": "交易员们在美联储决定后几乎不再预期今年降息",
         "en": "Traders now see little chance of an interest rate cut this year following Fed decision",
-        "de": "Händler sehen nach der Entscheidung der Fed kaum Chancen auf eine Zinssenkung in diesem Jahr"
+        "de": "Händler sehen nach der Fed-Entscheidung kaum Chancen auf eine Zinssenkung in diesem Jahr"
       },
       "summary": {
-        "zh": "在美联储会议后，交易员几乎不认为今年会降息。积极的经济讨论对投资者产生了负面影响。",
-        "en": "Following the Federal Reserve meeting, traders see little chance of an interest rate cut this year. The positive economic discussions had a negative impact on investors.",
-        "de": "Nach der Sitzung der Federal Reserve sehen Händler kaum Chancen auf eine Zinssenkung in diesem Jahr. Die positiven wirtschaftlichen Diskussionen hatten negative Auswirkungen auf die Investoren."
+        "zh": "美联储的最新决定使交易员们对今年降息的预期几乎消失，影响了投资者的情绪。",
+        "en": "The latest decision from the Federal Reserve has nearly erased traders' expectations for an interest rate cut this year, impacting investor sentiment.",
+        "de": "Die neueste Entscheidung der Federal Reserve hat die Erwartungen der Händler an eine Zinssenkung in diesem Jahr nahezu ausgelöscht, was sich auf die Stimmung der Investoren auswirkt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-19",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”",
-        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
-        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
+        "zh": "软件股票因AI干扰的恐惧而下跌",
+        "en": "Software stocks fall as fear of AI disruption is back in full force",
+        "de": "Software-Aktien fallen, da die Angst vor KI-Störungen wieder voll zur Geltung kommt"
       },
       "summary": {
-        "zh": "欧洲央行决定维持利率不变，并警告由于伊朗战争，经济前景变得“显著不确定”。",
-        "en": "The European Central Bank has decided to hold rates steady and warned that the economic outlook has become 'significantly more uncertain' due to the Iran war.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinsen stabil zu halten und gewarnt, dass die wirtschaftlichen Aussichten aufgrund des Iran-Kriegs 'deutlich unsicherer' geworden sind."
+        "zh": "由于Anthropic的AI代理Claude的发布，市场对软件将不再被需要的恐惧重新浮现，导致软件股票普遍下跌。",
+        "en": "The release of Anthropic's AI agent Claude has revived fears that software will no longer be needed, leading to a widespread decline in software stocks.",
+        "de": "Die Veröffentlichung des KI-Agenten Claude von Anthropic hat die Ängste neu entfacht, dass Software nicht mehr benötigt wird, was zu einem weit verbreiteten Rückgang der Softwareaktien führte."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-19",
-      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-24",
+      "url": "https://www.marketwatch.com/story/software-stocks-fall-as-fear-of-ai-disruption-is-back-in-full-force-c5cdf640?mod=mw_rss_topstories"
     }
   ]
 }
