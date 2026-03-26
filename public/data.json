@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-03-25T17:33:21.073947+00:00",
+  "generatedAt": "2026-03-26T05:57:26.944756+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么这家电池公司转向人工智能：Qichao Hu对电池行业的现状直言不讳。",
-        "en": "Why this battery company is pivoting to AI: Qichao Hu doesn’t mince words about how he sees the state of the battery industry.",
-        "de": "Warum dieses Batterieunternehmen auf KI umschwenkt: Qichao Hu spricht offen über den Zustand der Batterieindustrie."
+        "zh": "谷歌将Q日截止日期提前至2029年，远比之前预期的要早",
+        "en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+        "de": "Google verschiebt den Q-Day-Termin auf 2029, viel früher als zuvor gedacht"
       },
       "summary": {
-        "zh": "Qichao Hu表示，几乎所有西方电池公司要么已经倒闭，要么即将倒闭，因此该公司决定转向人工智能以寻求新机遇。",
-        "en": "Qichao Hu states that almost every Western battery company has either died or is about to die, prompting the company to pivot to AI for new opportunities.",
-        "de": "Qichao Hu erklärt, dass fast jedes westliche Batterieunternehmen entweder gestorben ist oder kurz davor steht, was das Unternehmen dazu veranlasst, auf KI umzuschwenken, um neue Chancen zu suchen."
+        "zh": "谷歌将量子计算的Q日截止日期提前至2029年，警告整个行业需要更快地转移出RSA和EC加密算法。这一变化可能会影响整个科技行业的安全性。",
+        "en": "Google has moved the Q Day deadline for quantum computing to 2029, warning the entire industry to transition away from RSA and EC encryption more quickly. This change could impact the security of the entire tech sector.",
+        "de": "Google hat den Q-Day-Termin für Quantencomputing auf 2029 vorverlegt und warnt die gesamte Branche, schneller von RSA- und EC-Verschlüsselungen abzurücken. Diese Änderung könnte die Sicherheit des gesamten Technologiesektors beeinflussen."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-03-25",
+      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "这家电池公司为何转向人工智能",
+        "en": "Why this battery company is pivoting to AI",
+        "de": "Warum dieses Batterieunternehmen auf KI umschwenkt"
+      },
+      "summary": {
+        "zh": "电池公司SES的首席执行官Qichao Hu表示，几乎每一家西方电池公司都面临困境，因此该公司决定转向人工智能以寻求新的生机。",
+        "en": "SES CEO Qichao Hu states that nearly every Western battery company is struggling, prompting the company to pivot to AI for new opportunities.",
+        "de": "SES-CEO Qichao Hu erklärt, dass fast jedes westliche Batterieunternehmen in Schwierigkeiten steckt, was das Unternehmen dazu veranlasst, auf KI umzuschwenken, um neue Chancen zu suchen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-25",
       "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "这家初创公司想要改变数学家做数学的方式：Axiom Math推出了一款免费的新AI工具。",
-        "en": "This startup wants to change how mathematicians do math: Axiom Math has released a free new AI tool for mathematicians.",
-        "de": "Dieses Startup möchte ändern, wie Mathematiker Mathematik machen: Axiom Math hat ein kostenloses neues KI-Tool für Mathematiker veröffentlicht."
+        "zh": "这家初创公司想要改变数学家的数学方式",
+        "en": "This startup wants to change how mathematicians do math",
+        "de": "Dieses Startup möchte ändern, wie Mathematiker Mathematik betreiben"
       },
       "summary": {
-        "zh": "Axiom Math推出的AI工具旨在帮助数学家发现数学模式，改变他们的工作方式。",
-        "en": "The AI tool launched by Axiom Math aims to assist mathematicians in discovering mathematical patterns, transforming their workflow.",
-        "de": "Das von Axiom Math eingeführte KI-Tool soll Mathematikern helfen, mathematische Muster zu entdecken und ihren Arbeitsablauf zu verändern."
+        "zh": "位于加州帕洛阿尔托的初创公司Axiom Math推出了一款免费的AI工具，旨在帮助数学家发现数学模式，从而改变他们的工作方式。",
+        "en": "Palo Alto-based startup Axiom Math has released a free AI tool designed to help mathematicians discover mathematical patterns, aiming to transform their work.",
+        "de": "Das in Palo Alto ansässige Startup Axiom Math hat ein kostenloses KI-Tool veröffentlicht, das Mathematikern helfen soll, mathematische Muster zu entdecken, und damit ihre Arbeitsweise verändern möchte."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-25",
       "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "下载：重启冷冻大脑，AI炒作指数回归：今天的下载。",
-        "en": "The Download: reawakening frozen brains, and the AI Hype Index returns: This is today’s edition of The Download.",
-        "de": "Der Download: Wiederbelebung gefrorener Gehirne und der KI-Hype-Index kehrt zurück: Dies ist die heutige Ausgabe des Downloads."
-      },
-      "summary": {
-        "zh": "今天的下载涵盖了重启冷冻大脑的研究进展以及AI炒作指数的最新动态。",
-        "en": "Today's Download covers advancements in the reawakening of frozen brains and the latest developments in the AI Hype Index.",
-        "de": "Der heutige Download behandelt Fortschritte bei der Wiederbelebung gefrorener Gehirne und die neuesten Entwicklungen im KI-Hype-Index."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-03-25",
-      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "我们所知道的美国对伊拉克军事基地的攻击：伊拉克当局称美国空袭造成七名士兵死亡，十三人受伤。",
-        "en": "What we know about US attack on Iraqi military site: Iraqi authorities say a US air strike on a military site in Anbar killed seven soldiers and wounded 13.",
-        "de": "Was wir über den US-Angriff auf einen irakischen Militärstandort wissen: Iraks Behörden berichten, dass ein US-Luftangriff auf einen Militärstandort in Anbar sieben Soldaten tötete und 13 verletzte."
+        "zh": "内塔尼亚胡自夸‘在各个方面打破界限’",
+        "en": "Netanyahu boasts about ‘breaking boundaries in every sense of the word’",
+        "de": "Netanjahu rühmt sich, 'Grenzen in jeder Hinsicht zu brechen'"
       },
       "summary": {
-        "zh": "美国对伊拉克安巴尔省的军事基地进行空袭，造成七名士兵死亡，十三人受伤，引发了国际社会的关注。",
-        "en": "A US airstrike on a military base in Anbar, Iraq, resulted in seven soldiers' deaths and thirteen injuries, drawing international attention.",
-        "de": "Ein US-Luftangriff auf einen Militärstandort in Anbar, Irak, führte zu sieben Todesfällen und dreizehn Verletzten unter Soldaten und erregte internationale Aufmerksamkeit."
+        "zh": "以色列总理内塔尼亚胡表示，国家正在努力扩大与黎巴嫩的‘缓冲区’。此言论引发了对地区局势的关注。",
+        "en": "Israeli Prime Minister Netanyahu stated that the country is working to expand its 'buffer zone' from Lebanon. This statement has raised concerns about the regional situation.",
+        "de": "Der israelische Premierminister Netanjahu erklärte, dass das Land daran arbeite, seine 'Pufferzone' von Libanon auszuweiten. Diese Aussage hat Bedenken hinsichtlich der regionalen Situation aufgeworfen."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-25",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/what-we-know-about-us-attack-on-iraqi-military-site?traffic_source=rss"
+      "date": "2026-03-26",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/netanyahu-boasts-about-breaking-boundaries-in-every-sense-of-the-word?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国对伊拉克军事基地的致命攻击引发谴责：美国在伊拉克的袭击造成七名士兵死亡。",
-        "en": "Deadly US attack on Iraqi military base sparks condemnation: The US killed seven Iraqi soldiers in a strike in Iraq as it targeted the Popular Mobilisation Forces.",
-        "de": "Tödlicher US-Angriff auf einen irakischen Militärstützpunkt löst Verurteilung aus: Die USA töteten sieben irakische Soldaten bei einem Angriff auf die Volksmobilisierungskräfte."
+        "zh": "油价上涨，伊朗否认与美国谈判，降温希望渺茫",
+        "en": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
+        "de": "Ölpreise steigen, während Iran US-Gespräche bestreitet und die Hoffnungen auf Deeskalation schwinden"
       },
       "summary": {
-        "zh": "美国在伊拉克的空袭针对了人民动员力量，造成七名士兵死亡，引发了广泛的国际谴责。",
-        "en": "The US airstrike in Iraq targeted the Popular Mobilisation Forces, resulting in seven soldiers' deaths and provoking widespread international condemnation.",
-        "de": "Der US-Luftangriff in Irak richtete sich gegen die Volksmobilisierungskräfte, was zu sieben Todesfällen unter Soldaten führte und weitreichende internationale Verurteilungen hervorrief."
+        "zh": "布伦特原油价格超过每桶104美元，因伊朗否认与美国的谈判，导致对美以与伊朗战争的降温希望减弱。",
+        "en": "Brent crude prices have topped $104 a barrel as Iran denies talks with the US, dimming hopes for de-escalation in the US-Israel war on Iran.",
+        "de": "Die Brent-Rohölpreise haben 104 US-Dollar pro Barrel überschritten, da Iran Gespräche mit den USA bestreitet, was die Hoffnungen auf eine Deeskalation im US-israelischen Krieg gegen den Iran trübt."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-25",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/25/deadly-us-attack-on-iraqi-military-base-sparks-condemnation?traffic_source=rss"
+      "date": "2026-03-26",
+      "url": "https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国向海湾地区调动部队：美国在伊朗周边的军事存在日益增加，暗示可能转向地面行动。",
-        "en": "War on Iran: What troops is the US moving to the Gulf?: Growing US military presence around Iran suggests shift from air campaign to potential ground operations.",
-        "de": "Krieg gegen den Iran: Welche Truppen verlegt die USA in den Golf?: Die wachsende militärische Präsenz der USA rund um den Iran deutet auf einen Wechsel von Luftangriffen zu möglichen Bodenoperationen hin."
+        "zh": "马来西亚总理称与伊朗的谈判应结束战争",
+        "en": "Malaysia’s prime minister says Iran talks should end war",
+        "de": "Malaysias Premierminister sagt, Iran-Gespräche sollten den Krieg beenden"
       },
       "summary": {
-        "zh": "美国在伊朗周边的军事存在不断增加，表明可能从空中行动转向地面行动的可能性。",
-        "en": "The increasing US military presence around Iran indicates a potential shift from air operations to ground operations.",
-        "de": "Die zunehmende militärische Präsenz der USA rund um den Iran deutet auf einen möglichen Wechsel von Luftoperationen zu Bodenoperationen hin."
+        "zh": "马来西亚总理安华·易卜拉欣表示，任何与伊朗的谈判都必须以结束战争为目标，这一立场引发了国际关注。",
+        "en": "Malaysian Prime Minister Anwar Ibrahim stated that any talks with Iran must aim to end the war, a stance that has garnered international attention.",
+        "de": "Der malaysische Premierminister Anwar Ibrahim erklärte, dass alle Gespräche mit dem Iran darauf abzielen sollten, den Krieg zu beenden, eine Haltung, die internationale Aufmerksamkeit erregt hat."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-25",
-      "url": "https://www.aljazeera.com/news/2026/3/25/war-on-iran-what-troops-is-the-us-moving-to-the-gulf?traffic_source=rss"
+      "date": "2026-03-26",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "华尔街衰退几率上升，经济显露裂痕：经济学家提高了对经济衰退的风险评估。",
-        "en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface: Economists have pulled up their risk assessments of a contraction amid heightened uncertainty over geopolitical risk and a labor market slump.",
-        "de": "Die Wahrscheinlichkeit einer Rezession steigt an der Wall Street, da die Wirtschaft Risse zeigt: Ökonomen haben ihre Risikobewertungen für eine Kontraktion angesichts erhöhter geopolitischer Risiken und eines Rückgangs des Arbeitsmarktes angehoben."
+        "zh": "华尔街衰退几率上升，经济表面下显露裂痕",
+        "en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+        "de": "Die Wahrscheinlichkeit einer Rezession steigt an der Wall Street, da die Wirtschaft Risse unter der Oberfläche zeigt"
       },
       "summary": {
-        "zh": "经济学家因地缘政治风险和劳动力市场下滑而提高了对经济衰退的风险评估，华尔街的衰退几率上升。",
-        "en": "Economists have raised their risk assessments for a recession due to geopolitical risks and a slump in the labor market, leading to increased recession odds on Wall Street.",
-        "de": "Ökonomen haben ihre Risikobewertungen für eine Rezession aufgrund geopolitischer Risiken und eines Rückgangs des Arbeitsmarktes angehoben, was zu einer erhöhten Rezessionswahrscheinlichkeit an der Wall Street führt."
+        "zh": "经济学家因地缘政治风险和劳动力市场疲软而提高了对经济衰退的风险评估，华尔街的衰退几率上升。",
+        "en": "Economists have raised their risk assessments for a recession amid heightened geopolitical risks and a slump in the labor market, leading to increased recession odds on Wall Street.",
+        "de": "Ökonomen haben ihre Risikobewertungen für eine Rezession angesichts erhöhter geopolitischer Risiken und eines Rückgangs des Arbeitsmarktes angehoben, was zu einer steigenden Wahrscheinlichkeit einer Rezession an der Wall Street führt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-25",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "白宫将支付TotalEnergies 10亿美元以终止东海岸风电项目：此举是在伊朗战争扰乱全球油气供应的背景下进行的。",
-        "en": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects: The announcement comes as the Iran war disrupts global oil and gas supplies.",
-        "de": "Das Weiße Haus wird TotalEnergies 1 Milliarde Dollar zahlen, um Windparkprojekte an der Ostküste zu stoppen: Die Ankündigung erfolgt vor dem Hintergrund des Iran-Kriegs, der die globalen Öl- und Gaslieferungen stört."
+        "zh": "白宫将支付TotalEnergies 10亿美元以终止东海岸风电项目",
+        "en": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
+        "de": "Das Weiße Haus wird TotalEnergies 1 Milliarde Dollar zahlen, um Windparkprojekte an der Ostküste zu stoppen"
       },
       "summary": {
-        "zh": "白宫决定支付TotalEnergies 10亿美元以终止东海岸的风电项目，以应对伊朗战争带来的能源供应挑战。",
-        "en": "The White House has decided to pay TotalEnergies $1 billion to terminate wind farm projects on the East Coast in response to energy supply challenges posed by the Iran war.",
-        "de": "Das Weiße Haus hat beschlossen, TotalEnergies 1 Milliarde Dollar zu zahlen, um Windparkprojekte an der Ostküste zu beenden, um den durch den Iran-Krieg verursachten Herausforderungen der Energieversorgung zu begegnen."
+        "zh": "白宫宣布将支付TotalEnergies 10亿美元，以终止东海岸的风电项目，此举是由于伊朗战争对全球油气供应的影响。",
+        "en": "The White House has announced it will pay TotalEnergies $1 billion to terminate East Coast wind farm projects, a move prompted by the impact of the Iran war on global oil and gas supplies.",
+        "de": "Das Weiße Haus hat angekündigt, TotalEnergies 1 Milliarde Dollar zu zahlen, um Windparkprojekte an der Ostküste zu beenden, eine Maßnahme, die durch die Auswirkungen des Iran-Kriegs auf die globalen Öl- und Gaslieferungen ausgelöst wurde."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-24",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "欧洲央行维持利率不变，警告前景“显著不确定”：伊朗战争扰乱了欧洲的经济平衡。",
-        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain': The war in Iran has upset the economic equilibrium in Europe threatening energy supplies, growth and the outlook for consumer prices.",
-        "de": "Die Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind: Der Krieg im Iran hat das wirtschaftliche Gleichgewicht in Europa gestört und bedroht die Energieversorgung, das Wachstum und die Aussichten für die Verbraucherpreise."
+        "zh": "欧洲央行维持利率不变，警告前景‘显著不确定’",
+        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
+        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
       },
       "summary": {
-        "zh": "欧洲央行决定维持利率不变，同时警告伊朗战争对能源供应和经济增长的影响使前景变得更加不确定。",
-        "en": "The European Central Bank has decided to keep interest rates steady while warning that the impact of the Iran war on energy supplies and economic growth has made the outlook significantly more uncertain.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten, während sie warnt, dass die Auswirkungen des Iran-Kriegs auf die Energieversorgung und das Wirtschaftswachstum die Aussichten erheblich unsicherer gemacht haben."
+        "zh": "由于伊朗战争扰乱了欧洲的经济平衡，欧洲央行决定维持利率不变，并警告经济前景显著不确定。",
+        "en": "The European Central Bank has decided to keep interest rates steady, warning that the economic outlook is significantly more uncertain due to the disruptions caused by the Iran war.",
+        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten und warnt, dass die wirtschaftlichen Aussichten aufgrund der durch den Iran-Krieg verursachten Störungen deutlich unsicherer sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-25",
