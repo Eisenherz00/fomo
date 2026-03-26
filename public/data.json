@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-26T05:57:26.944756+00:00",
+  "generatedAt": "2026-03-26T17:33:29.960809+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "谷歌将Q日截止日期提前至2029年，远比之前预期的要早",
-        "en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-        "de": "Google verschiebt den Q-Day-Termin auf 2029, viel früher als zuvor gedacht"
+        "zh": "下载：电池转向人工智能，重写数学",
+        "en": "The Download: a battery pivot to AI, and rewriting math",
+        "de": "Der Download: Ein Batteriewechsel zu KI und das Umschreiben von Mathematik"
       },
       "summary": {
-        "zh": "谷歌将量子计算的Q日截止日期提前至2029年，警告整个行业需要更快地转移出RSA和EC加密算法。这一变化可能会影响整个科技行业的安全性。",
-        "en": "Google has moved the Q Day deadline for quantum computing to 2029, warning the entire industry to transition away from RSA and EC encryption more quickly. This change could impact the security of the entire tech sector.",
-        "de": "Google hat den Q-Day-Termin für Quantencomputing auf 2029 vorverlegt und warnt die gesamte Branche, schneller von RSA- und EC-Verschlüsselungen abzurücken. Diese Änderung könnte die Sicherheit des gesamten Technologiesektors beeinflussen."
+        "zh": "今天的下载提供了关于技术世界的最新动态，包括电池行业向人工智能的转变和数学工具的创新。",
+        "en": "Today's Download provides the latest updates from the tech world, including the battery industry's pivot to AI and innovations in mathematical tools.",
+        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich des Wechsels der Batterieindustrie zu KI und Innovationen bei mathematischen Werkzeugen."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-03-25",
-      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"
+      "source": "MIT Technology Review",
+      "date": "2026-03-26",
+      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "这家电池公司为何转向人工智能",
-        "en": "Why this battery company is pivoting to AI",
-        "de": "Warum dieses Batterieunternehmen auf KI umschwenkt"
-      },
-      "summary": {
-        "zh": "电池公司SES的首席执行官Qichao Hu表示，几乎每一家西方电池公司都面临困境，因此该公司决定转向人工智能以寻求新的生机。",
-        "en": "SES CEO Qichao Hu states that nearly every Western battery company is struggling, prompting the company to pivot to AI for new opportunities.",
-        "de": "SES-CEO Qichao Hu erklärt, dass fast jedes westliche Batterieunternehmen in Schwierigkeiten steckt, was das Unternehmen dazu veranlasst, auf KI umzuschwenken, um neue Chancen zu suchen."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-03-25",
-      "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "这家初创公司想要改变数学家的数学方式",
+        "zh": "这家初创公司想改变数学家做数学的方式",
         "en": "This startup wants to change how mathematicians do math",
-        "de": "Dieses Startup möchte ändern, wie Mathematiker Mathematik betreiben"
+        "de": "Dieses Startup möchte ändern, wie Mathematiker Mathematik machen"
       },
       "summary": {
-        "zh": "位于加州帕洛阿尔托的初创公司Axiom Math推出了一款免费的AI工具，旨在帮助数学家发现数学模式，从而改变他们的工作方式。",
-        "en": "Palo Alto-based startup Axiom Math has released a free AI tool designed to help mathematicians discover mathematical patterns, aiming to transform their work.",
-        "de": "Das in Palo Alto ansässige Startup Axiom Math hat ein kostenloses KI-Tool veröffentlicht, das Mathematikern helfen soll, mathematische Muster zu entdecken, und damit ihre Arbeitsweise verändern möchte."
+        "zh": "位于加利福尼亚州帕洛阿尔托的初创公司Axiom Math推出了一种新的免费AI工具，旨在帮助数学家发现数学模式。",
+        "en": "California-based startup Axiom Math has launched a new free AI tool designed to help mathematicians discover mathematical patterns.",
+        "de": "Das in Kalifornien ansässige Startup Axiom Math hat ein neues kostenloses KI-Tool eingeführt, das Mathematikern helfen soll, mathematische Muster zu entdecken."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-25",
       "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "谷歌将Q日截止日期提前至2029年，远比之前预期的要早",
+        "en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
+        "de": "Google verschiebt die Frist für den Q-Tag auf 2029, viel früher als zuvor gedacht"
+      },
+      "summary": {
+        "zh": "谷歌警告整个行业要更快地转移出RSA和EC，以应对即将到来的量子计算威胁。",
+        "en": "Google warns the entire industry to move off RSA and EC more quickly in response to the impending quantum computing threat.",
+        "de": "Google warnt die gesamte Branche, schneller von RSA und EC abzuwandern, um auf die bevorstehende Bedrohung durch Quantencomputing zu reagieren."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-03-25",
+      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "内塔尼亚胡自夸‘在各个方面打破界限’",
-        "en": "Netanyahu boasts about ‘breaking boundaries in every sense of the word’",
-        "de": "Netanjahu rühmt sich, 'Grenzen in jeder Hinsicht zu brechen'"
+        "zh": "五角大楼负责人声称伊朗现在没有海军，没有海军领导人",
+        "en": "Pentagon boss claims Iran now has ‘no navy, no navy leader’",
+        "de": "Pentagon-Chef behauptet, Iran habe jetzt 'keine Marine, keinen Marineführer'"
       },
       "summary": {
-        "zh": "以色列总理内塔尼亚胡表示，国家正在努力扩大与黎巴嫩的‘缓冲区’。此言论引发了对地区局势的关注。",
-        "en": "Israeli Prime Minister Netanyahu stated that the country is working to expand its 'buffer zone' from Lebanon. This statement has raised concerns about the regional situation.",
-        "de": "Der israelische Premierminister Netanjahu erklärte, dass das Land daran arbeite, seine 'Pufferzone' von Libanon auszuweiten. Diese Aussage hat Bedenken hinsichtlich der regionalen Situation aufgeworfen."
+        "zh": "国防部长皮特·赫格塞斯表示，伊朗战争已成为历史，暗示伊朗的海军力量已大幅削弱。",
+        "en": "Defense Secretary Pete Hegseth stated that the Iran war is 'stuff for the history books', implying a significant weakening of Iran's naval power.",
+        "de": "Verteidigungsminister Pete Hegseth erklärte, dass der Iran-Krieg 'Geschichte ist', was auf eine erhebliche Schwächung der Marinekraft des Iran hindeutet."
       },
       "source": "Al Jazeera",
       "date": "2026-03-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/netanyahu-boasts-about-breaking-boundaries-in-every-sense-of-the-word?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pentagon-boss-claims-iran-now-has-no-navy-no-navy?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "油价上涨，伊朗否认与美国谈判，降温希望渺茫",
-        "en": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
-        "de": "Ölpreise steigen, während Iran US-Gespräche bestreitet und die Hoffnungen auf Deeskalation schwinden"
+        "zh": "巴基斯坦表示正在调解美伊会谈",
+        "en": "Pakistan says it is mediating US-Iran talks",
+        "de": "Pakistan sagt, dass es US-Iran-Gespräche vermittelt"
       },
       "summary": {
-        "zh": "布伦特原油价格超过每桶104美元，因伊朗否认与美国的谈判，导致对美以与伊朗战争的降温希望减弱。",
-        "en": "Brent crude prices have topped $104 a barrel as Iran denies talks with the US, dimming hopes for de-escalation in the US-Israel war on Iran.",
-        "de": "Die Brent-Rohölpreise haben 104 US-Dollar pro Barrel überschritten, da Iran Gespräche mit den USA bestreitet, was die Hoffnungen auf eine Deeskalation im US-israelischen Krieg gegen den Iran trübt."
+        "zh": "巴基斯坦政府宣布正在调解美国与伊朗之间的间接会谈，旨在结束战争。",
+        "en": "The Pakistani government announced that it is mediating indirect talks between the US and Iran aimed at ending the war.",
+        "de": "Die pakistanische Regierung gab bekannt, dass sie indirekte Gespräche zwischen den USA und dem Iran vermittelt, die darauf abzielen, den Krieg zu beenden."
       },
       "source": "Al Jazeera",
       "date": "2026-03-26",
-      "url": "https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/pakistan-says-it-is-mediating-us-iran-talks?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "马来西亚总理称与伊朗的谈判应结束战争",
-        "en": "Malaysia’s prime minister says Iran talks should end war",
-        "de": "Malaysias Premierminister sagt, Iran-Gespräche sollten den Krieg beenden"
+        "zh": "世贸组织称世界经历80年来最严重的贸易中断",
+        "en": "WTO says world experiencing worst trade disruption in 80 years",
+        "de": "WTO sagt, dass die Welt die schlimmste Handelsunterbrechung seit 80 Jahren erlebt"
       },
       "summary": {
-        "zh": "马来西亚总理安华·易卜拉欣表示，任何与伊朗的谈判都必须以结束战争为目标，这一立场引发了国际关注。",
-        "en": "Malaysian Prime Minister Anwar Ibrahim stated that any talks with Iran must aim to end the war, a stance that has garnered international attention.",
-        "de": "Der malaysische Premierminister Anwar Ibrahim erklärte, dass alle Gespräche mit dem Iran darauf abzielen sollten, den Krieg zu beenden, eine Haltung, die internationale Aufmerksamkeit erregt hat."
+        "zh": "世贸组织总干事表示，全球贸易秩序已“不可逆转地改变”，面临前所未有的挑战。",
+        "en": "The WTO chief stated that the global trade order has 'irrevocably changed', facing unprecedented challenges.",
+        "de": "Der WTO-Chef erklärte, dass die globale Handelsordnung 'unwiderruflich verändert' wurde und vor beispiellosen Herausforderungen steht."
       },
       "source": "Al Jazeera",
       "date": "2026-03-26",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/26/wto-says-world-experiencing-worst-trade-disruption-in-80-years?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "华尔街衰退几率上升，经济表面下显露裂痕",
-        "en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
-        "de": "Die Wahrscheinlichkeit einer Rezession steigt an der Wall Street, da die Wirtschaft Risse unter der Oberfläche zeigt"
+        "zh": "全球预测小组预计美国今年通胀率为4.2%，远高于美联储的估计",
+        "en": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+        "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2 %, viel höher als die Schätzung der Fed"
       },
       "summary": {
-        "zh": "经济学家因地缘政治风险和劳动力市场疲软而提高了对经济衰退的风险评估，华尔街的衰退几率上升。",
-        "en": "Economists have raised their risk assessments for a recession amid heightened geopolitical risks and a slump in the labor market, leading to increased recession odds on Wall Street.",
-        "de": "Ökonomen haben ihre Risikobewertungen für eine Rezession angesichts erhöhter geopolitischer Risiken und eines Rückgangs des Arbeitsmarktes angehoben, was zu einer steigenden Wahrscheinlichkeit einer Rezession an der Wall Street führt."
+        "zh": "全球预测小组的最新预测显示，美国今年的通胀率将达到4.2%，显著高于美联储的2.7%预估。",
+        "en": "The latest forecast from a global forecasting group indicates that U.S. inflation will reach 4.2% this year, significantly higher than the Fed's estimate of 2.7%.",
+        "de": "Die neueste Prognose einer globalen Prognosegruppe zeigt, dass die US-Inflation in diesem Jahr 4,2 % erreichen wird, was deutlich höher ist als die Schätzung der Fed von 2,7 %."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-26",
+      "url": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "华尔街衰退几率上升，经济显示出潜在裂痕",
+        "en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+        "de": "Die Wahrscheinlichkeit einer Rezession an der Wall Street steigt, da die Wirtschaft Risse unter der Oberfläche zeigt"
+      },
+      "summary": {
+        "zh": "经济学家提高了对经济衰退的风险评估，因地缘政治风险和劳动力市场疲软加剧的不确定性。",
+        "en": "Economists have raised their risk assessments for a recession amid heightened uncertainty over geopolitical risks and a weakening labor market.",
+        "de": "Ökonomen haben ihre Risikobewertungen für eine Rezession angesichts der zunehmenden Unsicherheit über geopolitische Risiken und einen schwächelnden Arbeitsmarkt angehoben."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-25",
       "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
         "zh": "白宫将支付TotalEnergies 10亿美元以终止东海岸风电项目",
         "en": "White House to pay TotalEnergies $1 billion to kill off East Coast wind farm projects",
-        "de": "Das Weiße Haus wird TotalEnergies 1 Milliarde Dollar zahlen, um Windparkprojekte an der Ostküste zu stoppen"
+        "de": "Das Weiße Haus wird TotalEnergies 1 Milliarde Dollar zahlen, um Windparkprojekte an der Ostküste abzubrechen"
       },
       "summary": {
-        "zh": "白宫宣布将支付TotalEnergies 10亿美元，以终止东海岸的风电项目，此举是由于伊朗战争对全球油气供应的影响。",
-        "en": "The White House has announced it will pay TotalEnergies $1 billion to terminate East Coast wind farm projects, a move prompted by the impact of the Iran war on global oil and gas supplies.",
-        "de": "Das Weiße Haus hat angekündigt, TotalEnergies 1 Milliarde Dollar zu zahlen, um Windparkprojekte an der Ostküste zu beenden, eine Maßnahme, die durch die Auswirkungen des Iran-Kriegs auf die globalen Öl- und Gaslieferungen ausgelöst wurde."
+        "zh": "随着伊朗战争扰乱全球油气供应，美国急需开发液化天然气资源，白宫决定支付TotalEnergies 10亿美元以终止相关项目。",
+        "en": "As the Iran war disrupts global oil and gas supplies, the U.S. urgently needs to develop its LNG resources, prompting the White House to pay TotalEnergies $1 billion to terminate related projects.",
+        "de": "Da der Iran-Krieg die globalen Öl- und Gaslieferungen stört, muss die USA dringend ihre LNG-Ressourcen entwickeln, was das Weiße Haus dazu veranlasst, TotalEnergies 1 Milliarde Dollar zu zahlen, um damit verbundene Projekte zu beenden."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-24",
       "url": "https://www.cnbc.com/2026/03/24/us-to-pay-totalenergies-1-billion-to-kill-east-coast-wind-projects.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "欧洲央行维持利率不变，警告前景‘显著不确定’",
-        "en": "European Central Bank holds rates steady, warns outlook is 'significantly more uncertain'",
-        "de": "Europäische Zentralbank hält die Zinsen stabil und warnt, dass die Aussichten 'deutlich unsicherer' sind"
-      },
-      "summary": {
-        "zh": "由于伊朗战争扰乱了欧洲的经济平衡，欧洲央行决定维持利率不变，并警告经济前景显著不确定。",
-        "en": "The European Central Bank has decided to keep interest rates steady, warning that the economic outlook is significantly more uncertain due to the disruptions caused by the Iran war.",
-        "de": "Die Europäische Zentralbank hat beschlossen, die Zinssätze stabil zu halten und warnt, dass die wirtschaftlichen Aussichten aufgrund der durch den Iran-Krieg verursachten Störungen deutlich unsicherer sind."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-25",
-      "url": "https://www.cnbc.com/2026/03/19/ecb-boe-swiss-national-bank-riksbank-interest-rate-decisions.html"
     }
   ]
 }
