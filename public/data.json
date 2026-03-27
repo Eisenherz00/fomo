@@ -1,51 +1,51 @@
 {
-  "generatedAt": "2026-03-27T05:58:02.457121+00:00",
+  "generatedAt": "2026-03-27T17:14:41.994035+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么这家电池公司正在转向人工智能",
-        "en": "Why this battery company is pivoting to AI",
-        "de": "Warum dieses Batterieunternehmen auf KI umschwenkt"
+        "zh": "下载：互联网最佳天气应用程序，以及人们为何冷冻大脑",
+        "en": "The Download: the internet’s best weather app, and why people freeze their brains",
+        "de": "Der Download: Die beste Wetter-App im Internet und warum Menschen ihre Gehirne einfrieren"
       },
       "summary": {
-        "zh": "Qichao Hu对电池行业的现状有明确看法，认为几乎所有西方电池公司都处于困境中，因此该公司决定转向人工智能以寻求新的机会。",
-        "en": "Qichao Hu has a clear view of the battery industry's state, believing that almost every Western battery company is in trouble, prompting the company to pivot to AI for new opportunities.",
-        "de": "Qichao Hu hat eine klare Sicht auf den Zustand der Batteriebranche und glaubt, dass fast jedes westliche Batterieunternehmen in Schwierigkeiten steckt, was das Unternehmen dazu veranlasst, auf KI umzuschwenken, um neue Chancen zu suchen."
+        "zh": "今天的《下载》提供了关于互联网最佳天气应用程序的介绍，以及人们选择冷冻大脑的原因。",
+        "en": "Today's edition of The Download features an introduction to the internet's best weather app and explores why some people choose to freeze their brains.",
+        "de": "Die heutige Ausgabe des Downloads bietet eine Einführung in die beste Wetter-App im Internet und untersucht, warum einige Menschen sich entscheiden, ihre Gehirne einzufrieren."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-25",
-      "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
+      "date": "2026-03-27",
+      "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "这家初创公司想要改变数学家的数学方式",
-        "en": "This startup wants to change how mathematicians do math",
-        "de": "Dieses Startup möchte ändern, wie Mathematiker Mathematik machen"
+        "zh": "为什么一些人选择冷冻身体和大脑以存储",
+        "en": "Here’s why some people choose cryonics to store their bodies and brains after death",
+        "de": "Hier ist der Grund, warum einige Menschen Kryonik wählen, um ihre Körper und Gehirne nach dem Tod zu lagern"
       },
       "summary": {
-        "zh": "位于加利福尼亚州帕洛阿尔托的初创公司Axiom Math推出了一款免费的新AI工具，旨在帮助数学家发现数学模式并提高效率。",
-        "en": "Axiom Math, a startup based in Palo Alto, California, has launched a free new AI tool designed to help mathematicians discover mathematical patterns and improve efficiency.",
-        "de": "Axiom Math, ein in Palo Alto, Kalifornien, ansässiges Startup, hat ein kostenloses neues KI-Tool eingeführt, das darauf abzielt, Mathematikern zu helfen, mathematische Muster zu entdecken und die Effizienz zu verbessern."
+        "zh": "本周的报道聚焦于L. Stephen Coles的研究，他是一位在去世前记录战争宣传的老年医学专家。",
+        "en": "This week's report focuses on research by L. Stephen Coles, a gerontologist who documented pro-war propaganda before his death.",
+        "de": "Der Bericht dieser Woche konzentriert sich auf die Forschung von L. Stephen Coles, einem Geriater, der vor seinem Tod prokriegspropagandistische Dokumentationen erstellt hat."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-25",
-      "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
+      "date": "2026-03-27",
+      "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "谷歌将Q日截止日期提前至2029年，远比之前预期的要早",
+        "zh": "谷歌将Q日的截止日期提前至2029年，远比之前想象的要早",
         "en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
         "de": "Google verschiebt die Frist für den Q-Tag auf 2029, viel früher als zuvor gedacht"
       },
       "summary": {
-        "zh": "谷歌警告整个行业必须更快地从RSA和EC迁移，以应对量子计算的威胁，新的截止日期为2029年。",
-        "en": "Google warns the entire industry to move off RSA and EC more quickly to address the threat of quantum computing, with the new deadline set for 2029.",
-        "de": "Google warnt die gesamte Branche, schneller von RSA und EC umzusteigen, um der Bedrohung durch Quantencomputing zu begegnen, wobei die neue Frist auf 2029 festgelegt ist."
+        "zh": "谷歌警告整个行业要更快地从RSA和EC中退出，提前设定了Q日的截止日期。",
+        "en": "Google warns the entire industry to move off RSA and EC more quickly, having set the Q Day deadline earlier than expected.",
+        "de": "Google warnt die gesamte Branche, schneller von RSA und EC abzurücken, nachdem der Q-Tag früher als erwartet festgelegt wurde."
       },
-      "source": "Ars Technica – AI",
+      "source": "Ars Technica",
       "date": "2026-03-25",
       "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"
     }
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "霍尔木兹海峡不仅仅是一个石油瓶颈：它是全球化生产的单一故障点",
-        "en": "The Strait of Hormuz is not just an oil chokepoint: It is the single point of failure of globalised production",
-        "de": "Der Hormuskanal ist nicht nur ein Ölengpass: Er ist der einzige Ausfallpunkt der globalisierten Produktion"
+        "zh": "俄罗斯宣布奥斯卡获奖纪录片的主角为“外国代理人”",
+        "en": "Russia declares protagonist of Oscar-winning documentary a ‘foreign agent’",
+        "de": "Russland erklärt den Protagonisten des Oscar-prämierten Dokuments zum 'ausländischen Agenten'"
       },
       "summary": {
-        "zh": "霍尔木兹海峡被视为全球经济的关键节点，其重要性超越了石油运输，成为全球化生产的单一故障点。",
-        "en": "The Strait of Hormuz is viewed as a critical node in the global economy, with its importance extending beyond oil transport to being a single point of failure in globalized production.",
-        "de": "Der Hormuskanal wird als kritischer Knotenpunkt in der globalen Wirtschaft angesehen, dessen Bedeutung über den Öltransport hinausgeht und ihn zu einem einzigen Ausfallpunkt in der globalisierten Produktion macht."
+        "zh": "一位教师在俄罗斯记录亲战争宣传两年后，因走私录像而被宣布为“外国代理人”。",
+        "en": "A teacher who spent two years documenting pro-war propaganda in Russia has been declared a 'foreign agent' after smuggling footage out.",
+        "de": "Ein Lehrer, der zwei Jahre damit verbracht hat, prokriegspropaganda in Russland zu dokumentieren, wurde nach dem Schmuggeln von Filmmaterial als 'ausländischer Agent' erklärt."
       },
       "source": "Al Jazeera",
       "date": "2026-03-27",
-      "url": "https://www.aljazeera.com/opinions/2026/3/27/the-strait-of-hormuz-is-not-just-an-oil-chokepoint?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/27/russia-declares-protagonist-of-oscar-winning-documentary-a-foreign-agent?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "斯里兰卡为新经济危机做好准备，伊朗战争持续进行",
-        "en": "Sri Lanka braces for new economic crisis as war on Iran continues",
-        "de": "Sri Lanka bereitet sich auf eine neue Wirtschaftskrise vor, während der Krieg gegen den Iran andauert"
+        "zh": "欧洲是否正走向能源危机？",
+        "en": "Is Europe heading to an energy crisis?",
+        "de": "Steuert Europa auf eine Energiekrise zu?"
       },
       "summary": {
-        "zh": "随着伊朗战争的持续，斯里兰卡面临燃料短缺，许多民众对即将到来的经济危机感到担忧，这种情况与2022年的经济危机相似。",
-        "en": "As the war on Iran continues, Sri Lanka faces fuel shortages, with many citizens concerned about an impending economic crisis reminiscent of the 2022 economic crisis.",
-        "de": "Während der Krieg gegen den Iran andauert, sieht sich Sri Lanka mit Treibstoffengpässen konfrontiert, und viele Bürger sind besorgt über eine bevorstehende Wirtschaftskrise, die an die Krise von 2022 erinnert."
+        "zh": "随着伊朗冲突的持续，欧洲正准备应对供应紧缩和价格冲击。",
+        "en": "As the Iran conflict drags on, Europe is bracing for a supply crunch and a price shock.",
+        "de": "Da der Iran-Konflikt andauert, bereitet sich Europa auf einen Angebotsengpass und einen Preisschock vor."
       },
       "source": "Al Jazeera",
       "date": "2026-03-27",
-      "url": "https://www.aljazeera.com/features/2026/3/27/sri-lanka-braces-for-new-economic-crisis-as-war-on-iran-continues?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/27/is-europe-heading-to-an-energy-crisis?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普的签名将出现在美国货币上，成为在任总统的首次",
-        "en": "Trump’s signature to appear on US currency in first for sitting president",
-        "de": "Trumps Unterschrift wird auf US-Währung erscheinen, ein Novum für einen amtierenden Präsidenten"
+        "zh": "挪威将在10年内增加超过110亿美元的国防预算",
+        "en": "Norway to add more than $11bn to defence budget over 10 years",
+        "de": "Norwegen wird über 10 Jahre mehr als 11 Milliarden Dollar zum Verteidigungshaushalt hinzufügen"
       },
       "summary": {
-        "zh": "特朗普的签名将首次出现在美国货币上，这一决定引发了对总统与国家机构之间关系的讨论。",
-        "en": "Trump's signature will appear on US currency for the first time, prompting discussions about the relationship between the president and national institutions.",
-        "de": "Trumps Unterschrift wird erstmals auf US-Währung erscheinen, was Diskussionen über das Verhältnis zwischen dem Präsidenten und nationalen Institutionen auslöst."
+        "zh": "挪威及其他北约国家在美国的压力下，计划在未来十年内增加国防支出。",
+        "en": "Norway, along with other NATO countries, is under pressure from the US to boost defense spending over the next decade.",
+        "de": "Norwegen steht zusammen mit anderen NATO-Ländern unter Druck der USA, die Verteidigungsausgaben im nächsten Jahrzehnt zu erhöhen."
       },
       "source": "Al Jazeera",
       "date": "2026-03-27",
-      "url": "https://www.aljazeera.com/economy/2026/3/27/trumps-signature-to-appear-on-us-currency-in-first-for-sitting-president?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/27/norway-to-add-more-than-11bn-to-defence-budget-over-10-years?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
+        "zh": "市场现在将美联储的下一步视为潜在加息，因为通货膨胀担忧加剧",
+        "en": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+        "de": "Märkte sehen den nächsten Schritt der Fed jetzt als mögliche Zinserhöhung, da die Inflationsängste zunehmen"
+      },
+      "summary": {
+        "zh": "交易员将2026年底加息的概率调整为52%，因为通货膨胀担忧加剧。",
+        "en": "Traders have shifted the probability of a rate increase by the end of 2026 to 52% as inflation fears mount.",
+        "de": "Händler haben die Wahrscheinlichkeit einer Zinserhöhung bis Ende 2026 auf 52% erhöht, da die Inflationsängste zunehmen."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-27",
+      "url": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
         "zh": "中国工业利润在年初激增15%，但油价冲击威胁前景",
         "en": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
         "de": "Chinas Industriegewinne steigen zu Jahresbeginn um 15%, aber der Ölpreisschock bedroht die Aussichten"
       },
       "summary": {
-        "zh": "尽管中国工业利润在年初增长15%，但由于能源价格飙升，经济前景仍面临威胁，尤其是在全球经济不确定性加剧的背景下。",
-        "en": "Despite a 15% increase in industrial profits at the start of the year, China's economic outlook remains threatened due to soaring energy prices, especially amid increasing global economic uncertainty.",
-        "de": "Trotz eines Anstiegs der Industriegewinne um 15% zu Jahresbeginn bleibt die wirtschaftliche Perspektive Chinas aufgrund der steigenden Energiepreise bedroht, insbesondere vor dem Hintergrund zunehmender globaler wirtschaftlicher Unsicherheit."
+        "zh": "尽管中国的工业利润在年初激增，但由于能源价格飙升，经济前景仍然受到威胁。",
+        "en": "China's industrial profits surged 15% at the start of the year, but the outlook remains threatened by soaring energy prices.",
+        "de": "Die Industriegewinne Chinas stiegen zu Beginn des Jahres um 15%, aber die Aussichten sind durch steigende Energiepreise bedroht."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-27",
       "url": "https://www.cnbc.com/2026/03/27/china-industrial-profits-jan-feb-surge-oil-price-shock-threatens-outlook.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
         "zh": "全球预测机构预计美国今年通胀率为4.2%，远高于美联储的估计",
         "en": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
         "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2%, viel höher als die Schätzung der Fed"
       },
       "summary": {
-        "zh": "全球预测机构将美国今年的通胀率预期上调至4.2%，这比美联储的2.7%估计高出许多，反映出经济面临的压力。",
-        "en": "The global forecasting group has raised its U.S. inflation estimate for this year to 4.2%, significantly higher than the Fed's estimate of 2.7%, reflecting the pressures facing the economy.",
-        "de": "Die globale Prognosegruppe hat ihre Schätzung für die US-Inflation in diesem Jahr auf 4,2% angehoben, was deutlich höher ist als die Schätzung der Fed von 2,7%, und die Belastungen widerspiegelt, mit denen die Wirtschaft konfrontiert ist."
+        "zh": "该预测比之前的2.8%大幅上调，并且远高于美联储官员估计的2.7%。",
+        "en": "The forecast is a sharp step up from the prior projection of 2.8% and is significantly higher than the 2.7% estimated by Fed officials.",
+        "de": "Die Prognose ist ein deutlicher Anstieg gegenüber der vorherigen Schätzung von 2,8% und liegt deutlich über den 2,7%, die von den Fed-Beamten geschätzt wurden."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-26",
       "url": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "华尔街衰退几率上升，经济显示出潜在裂痕",
-        "en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
-        "de": "Die Wahrscheinlichkeit einer Rezession an der Wall Street steigt, da die Wirtschaft Risse unter der Oberfläche zeigt"
-      },
-      "summary": {
-        "zh": "随着经济出现潜在裂痕，华尔街的衰退几率上升，经济学家对经济收缩的风险评估也在上升。",
-        "en": "As the economy shows cracks beneath the surface, the odds of a recession on Wall Street are climbing, with economists raising their risk assessments of a contraction.",
-        "de": "Da die Wirtschaft Risse unter der Oberfläche zeigt, steigen die Chancen auf eine Rezession an der Wall Street, während Ökonomen ihre Risikobewertungen für eine Kontraktion erhöhen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-25",
-      "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html"
     }
   ]
 }
