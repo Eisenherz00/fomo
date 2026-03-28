@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-27T17:14:41.994035+00:00",
+  "generatedAt": "2026-03-28T05:41:52.744758+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：互联网最佳天气应用程序，以及人们为何冷冻大脑",
+        "zh": "下载：互联网最佳天气应用程序，以及人们为何冷冻他们的大脑",
         "en": "The Download: the internet’s best weather app, and why people freeze their brains",
-        "de": "Der Download: Die beste Wetter-App im Internet und warum Menschen ihre Gehirne einfrieren"
+        "de": "Der Download: die beste Wetter-App des Internets und warum Menschen ihre Gehirne einfrieren"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于互联网最佳天气应用程序的介绍，以及人们选择冷冻大脑的原因。",
-        "en": "Today's edition of The Download features an introduction to the internet's best weather app and explores why some people choose to freeze their brains.",
-        "de": "Die heutige Ausgabe des Downloads bietet eine Einführung in die beste Wetter-App im Internet und untersucht, warum einige Menschen sich entscheiden, ihre Gehirne einzufrieren."
+        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括互联网最佳天气应用程序的介绍，以及人们选择冷冻自己大脑的原因。",
+        "en": "Today's edition of The Download provides the latest updates from the tech world, including an introduction to the internet's best weather app and the reasons why some people choose to freeze their brains.",
+        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich einer Einführung in die beste Wetter-App des Internets und den Gründen, warum einige Menschen sich entscheiden, ihre Gehirne einzufrieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-27",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "为什么一些人选择冷冻身体和大脑以存储",
+        "zh": "为什么一些人选择冷冻他们的身体和大脑",
         "en": "Here’s why some people choose cryonics to store their bodies and brains after death",
         "de": "Hier ist der Grund, warum einige Menschen Kryonik wählen, um ihre Körper und Gehirne nach dem Tod zu lagern"
       },
       "summary": {
-        "zh": "本周的报道聚焦于L. Stephen Coles的研究，他是一位在去世前记录战争宣传的老年医学专家。",
-        "en": "This week's report focuses on research by L. Stephen Coles, a gerontologist who documented pro-war propaganda before his death.",
-        "de": "Der Bericht dieser Woche konzentriert sich auf die Forschung von L. Stephen Coles, einem Geriater, der vor seinem Tod prokriegspropagandistische Dokumentationen erstellt hat."
+        "zh": "本周的报道聚焦于L. Stephen Coles的研究，他是一位因胰腺癌去世的老年医学专家，探讨了人们选择冷冻身体和大脑的原因。",
+        "en": "This week's report focuses on the research of L. Stephen Coles, a gerontologist who died from pancreatic cancer, exploring the reasons why some people choose to freeze their bodies and brains.",
+        "de": "Der Bericht dieser Woche konzentriert sich auf die Forschung von L. Stephen Coles, einem Gerontologen, der an Bauchspeicheldrüsenkrebs starb, und untersucht die Gründe, warum einige Menschen sich entscheiden, ihre Körper und Gehirne einzufrieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-27",
@@ -36,16 +36,16 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "谷歌将Q日的截止日期提前至2029年，远比之前想象的要早",
+        "zh": "谷歌将Q日的截止日期提前至2029年，远比之前预想的要早",
         "en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
         "de": "Google verschiebt die Frist für den Q-Tag auf 2029, viel früher als zuvor gedacht"
       },
       "summary": {
-        "zh": "谷歌警告整个行业要更快地从RSA和EC中退出，提前设定了Q日的截止日期。",
-        "en": "Google warns the entire industry to move off RSA and EC more quickly, having set the Q Day deadline earlier than expected.",
-        "de": "Google warnt die gesamte Branche, schneller von RSA und EC abzurücken, nachdem der Q-Tag früher als erwartet festgelegt wurde."
+        "zh": "谷歌警告整个行业要更快地迁移出RSA和EC，因为Q日的截止日期已提前至2029年，这一变化将影响整个网络安全领域。",
+        "en": "Google warns the entire industry to move off RSA and EC more quickly as the Q Day deadline has been moved up to 2029, a change that will impact the entire cybersecurity landscape.",
+        "de": "Google warnt die gesamte Branche, schneller von RSA und EC wegzukommen, da die Frist für den Q-Tag auf 2029 vorverlegt wurde, eine Änderung, die die gesamte Cybersicherheitslandschaft beeinflussen wird."
       },
-      "source": "Ars Technica",
+      "source": "Ars Technica – AI",
       "date": "2026-03-25",
       "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"
     }
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯宣布奥斯卡获奖纪录片的主角为“外国代理人”",
-        "en": "Russia declares protagonist of Oscar-winning documentary a ‘foreign agent’",
-        "de": "Russland erklärt den Protagonisten des Oscar-prämierten Dokuments zum 'ausländischen Agenten'"
+        "zh": "以色列在黎巴嫩的无休止攻击将该国人口推向边缘",
+        "en": "Israel’s unending attacks in Lebanon push country’s population to the brink",
+        "de": "Die unaufhörlichen Angriffe Israels im Libanon bringen die Bevölkerung des Landes an den Rand"
       },
       "summary": {
-        "zh": "一位教师在俄罗斯记录亲战争宣传两年后，因走私录像而被宣布为“外国代理人”。",
-        "en": "A teacher who spent two years documenting pro-war propaganda in Russia has been declared a 'foreign agent' after smuggling footage out.",
-        "de": "Ein Lehrer, der zwei Jahre damit verbracht hat, prokriegspropaganda in Russland zu dokumentieren, wurde nach dem Schmuggeln von Filmmaterial als 'ausländischer Agent' erklärt."
+        "zh": "在美国与以色列对伊朗的战争持续四周后，黎巴嫩的许多人在以色列的又一次侵略中遭受苦难。",
+        "en": "Four weeks into the US-Israeli war on Iran, many in Lebanon are suffering under yet another Israeli aggression.",
+        "de": "Vier Wochen nach dem US-israelischen Krieg gegen den Iran leiden viele im Libanon unter einer weiteren israelischen Aggression."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-27",
-      "url": "https://www.aljazeera.com/news/2026/3/27/russia-declares-protagonist-of-oscar-winning-documentary-a-foreign-agent?traffic_source=rss"
+      "date": "2026-03-28",
+      "url": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "欧洲是否正走向能源危机？",
-        "en": "Is Europe heading to an energy crisis?",
-        "de": "Steuert Europa auf eine Energiekrise zu?"
+        "zh": "巴林在拘留者死于警方拘留后引发的愤怒",
+        "en": "Uproar in Bahrain after detainee dies in police custody",
+        "de": "Aufruhr in Bahrain, nachdem ein Häftling in Polizeigewahrsam gestorben ist"
       },
       "summary": {
-        "zh": "随着伊朗冲突的持续，欧洲正准备应对供应紧缩和价格冲击。",
-        "en": "As the Iran conflict drags on, Europe is bracing for a supply crunch and a price shock.",
-        "de": "Da der Iran-Konflikt andauert, bereitet sich Europa auf einen Angebotsengpass und einen Preisschock vor."
+        "zh": "巴林的人权组织表示，一名因反对对伊朗战争而被捕的32岁男子在警方拘留中被杀，引发了公众的愤怒。",
+        "en": "Rights groups in Bahrain say a 32-year-old man, arrested for opposing the war on Iran, was killed in police custody, sparking public outrage.",
+        "de": "Menschenrechtsgruppen in Bahrain berichten, dass ein 32-jähriger Mann, der wegen seiner Opposition gegen den Krieg im Iran festgenommen wurde, in Polizeigewahrsam getötet wurde, was öffentliche Empörung auslöste."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-27",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/27/is-europe-heading-to-an-energy-crisis?traffic_source=rss"
+      "date": "2026-03-28",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/uproar-in-bahrain-after-detainee-dies-in-police-custody?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "挪威将在10年内增加超过110亿美元的国防预算",
-        "en": "Norway to add more than $11bn to defence budget over 10 years",
-        "de": "Norwegen wird über 10 Jahre mehr als 11 Milliarden Dollar zum Verteidigungshaushalt hinzufügen"
+        "zh": "特朗普表示‘古巴是美国军队的下一个目标’",
+        "en": "Trump says ‘Cuba is next’ target of US military",
+        "de": "Trump sagt, dass 'Kuba das nächste Ziel des US-Militärs ist'"
       },
       "summary": {
-        "zh": "挪威及其他北约国家在美国的压力下，计划在未来十年内增加国防支出。",
-        "en": "Norway, along with other NATO countries, is under pressure from the US to boost defense spending over the next decade.",
-        "de": "Norwegen steht zusammen mit anderen NATO-Ländern unter Druck der USA, die Verteidigungsausgaben im nächsten Jahrzehnt zu erhöhen."
+        "zh": "特朗普在沙特投资会议上公开威胁古巴，称其将成为美国军队的下一个目标。",
+        "en": "Donald Trump publicly threatened Cuba with military attack while speaking at a Saudi investment conference.",
+        "de": "Donald Trump drohte Kuba während einer Rede auf einer saudischen Investitionskonferenz offen mit einem Militärangriff."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-27",
-      "url": "https://www.aljazeera.com/news/2026/3/27/norway-to-add-more-than-11bn-to-defence-budget-over-10-years?traffic_source=rss"
+      "date": "2026-03-28",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-cuba-is-next-target-of-us-military?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "市场现在将美联储的下一步视为潜在加息，因为通货膨胀担忧加剧",
+        "zh": "市场现在将美联储的下一步视为潜在加息，因为通胀担忧加剧",
         "en": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
-        "de": "Märkte sehen den nächsten Schritt der Fed jetzt als mögliche Zinserhöhung, da die Inflationsängste zunehmen"
+        "de": "Die Märkte sehen den nächsten Schritt der Fed jetzt als mögliche Zinserhöhung, da die Inflationsängste zunehmen"
       },
       "summary": {
-        "zh": "交易员将2026年底加息的概率调整为52%，因为通货膨胀担忧加剧。",
-        "en": "Traders have shifted the probability of a rate increase by the end of 2026 to 52% as inflation fears mount.",
-        "de": "Händler haben die Wahrscheinlichkeit einer Zinserhöhung bis Ende 2026 auf 52% erhöht, da die Inflationsängste zunehmen."
+        "zh": "期货市场的交易者将2026年底加息的概率调整至52%，因通胀担忧加剧，市场对美联储的下一步行动充满关注。",
+        "en": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% as inflation fears mount, raising concerns about the Fed's next move.",
+        "de": "Händler auf dem Terminmarkt haben die Wahrscheinlichkeit einer Zinserhöhung bis Ende 2026 auf 52 % verschoben, da die Inflationsängste zunehmen und Bedenken hinsichtlich des nächsten Schrittes der Fed aufkommen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-27",
@@ -122,12 +122,12 @@
       "title": {
         "zh": "中国工业利润在年初激增15%，但油价冲击威胁前景",
         "en": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
-        "de": "Chinas Industriegewinne steigen zu Jahresbeginn um 15%, aber der Ölpreisschock bedroht die Aussichten"
+        "de": "Chinas Industriegewinne steigen zu Jahresbeginn um 15 %, aber der Ölpreisschock bedroht die Aussichten"
       },
       "summary": {
-        "zh": "尽管中国的工业利润在年初激增，但由于能源价格飙升，经济前景仍然受到威胁。",
-        "en": "China's industrial profits surged 15% at the start of the year, but the outlook remains threatened by soaring energy prices.",
-        "de": "Die Industriegewinne Chinas stiegen zu Beginn des Jahres um 15%, aber die Aussichten sind durch steigende Energiepreise bedroht."
+        "zh": "尽管中国工业利润在年初激增15%，但由于能源价格飙升，经济前景仍然面临挑战，可能影响未来的增长。",
+        "en": "Despite a 15% surge in China's industrial profits at the start of the year, the economic outlook remains threatened by soaring energy prices, which could impact future growth.",
+        "de": "Trotz eines Anstiegs der Industriegewinne Chinas um 15 % zu Jahresbeginn bleibt die wirtschaftliche Aussicht durch steigende Energiepreise bedroht, die das zukünftige Wachstum beeinträchtigen könnten."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-27",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "全球预测机构预计美国今年通胀率为4.2%，远高于美联储的估计",
+        "zh": "全球预测机构预计美国今年通胀率为4.2%，远高于美联储的预估",
         "en": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
-        "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2%, viel höher als die Schätzung der Fed"
+        "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2 %, viel höher als die Schätzung der Fed"
       },
       "summary": {
-        "zh": "该预测比之前的2.8%大幅上调，并且远高于美联储官员估计的2.7%。",
-        "en": "The forecast is a sharp step up from the prior projection of 2.8% and is significantly higher than the 2.7% estimated by Fed officials.",
-        "de": "Die Prognose ist ein deutlicher Anstieg gegenüber der vorherigen Schätzung von 2,8% und liegt deutlich über den 2,7%, die von den Fed-Beamten geschätzt wurden."
+        "zh": "全球预测机构预计美国今年的通胀率将达到4.2%，远高于美联储的2.7%估计，这一预测引发了市场的广泛关注。",
+        "en": "The global forecasting group projects U.S. inflation to reach 4.2% this year, significantly higher than the Fed's estimate of 2.7%, raising widespread concern in the markets.",
+        "de": "Die globale Prognosegruppe erwartet, dass die US-Inflation in diesem Jahr 4,2 % erreichen wird, was deutlich höher ist als die Schätzung der Fed von 2,7 %, und damit weit verbreitete Besorgnis auf den Märkten auslöst."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-26",
