@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-28T16:56:28.128441+00:00",
+  "generatedAt": "2026-03-29T05:58:31.029772+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Die Gebärmutter einer Frau wurde erstmals außerhalb des Körpers am Leben gehalten"
       },
       "summary": {
-        "zh": "科学家首次成功在体外维持一名女性的子宫存活，展示了生物医学技术的重大进步。这一成就可能为未来的生育技术和器官移植提供新的可能性。",
-        "en": "Scientists have successfully maintained a woman's uterus alive outside the body for the first time, showcasing a significant advancement in biomedical technology. This achievement may open new possibilities for future reproductive technologies and organ transplantation.",
-        "de": "Wissenschaftler haben erstmals die Gebärmutter einer Frau außerhalb des Körpers am Leben gehalten, was einen bedeutenden Fortschritt in der biomedizinischen Technologie zeigt. Dieser Erfolg könnte neue Möglichkeiten für zukünftige Fortpflanzungstechnologien und Organtransplantationen eröffnen."
+        "zh": "科学家成功地在体外维持了一名女性的子宫，这一突破可能为生育技术带来新的可能性。",
+        "en": "Scientists have successfully maintained a woman's uterus outside the body, a breakthrough that could open new possibilities for reproductive technology.",
+        "de": "Wissenschaftler haben es erfolgreich geschafft, die Gebärmutter einer Frau außerhalb des Körpers zu erhalten, ein Durchbruch, der neue Möglichkeiten für die Fortpflanzungstechnologie eröffnen könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-28",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "谷歌将Q日截止日期提前至2029年，远比之前预想的要早",
         "en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-        "de": "Google verschiebt den Termin für den Q-Tag auf 2029, viel früher als zuvor gedacht"
+        "de": "Google verschiebt den Q-Day-Deadline auf 2029, viel früher als zuvor gedacht"
       },
       "summary": {
-        "zh": "谷歌公司将其Q日的截止日期提前至2029年，警告整个行业需要更快地转移离RSA和EC。这一变化可能会对网络安全领域产生深远影响。",
-        "en": "Google has moved its Q Day deadline up to 2029, warning the entire industry to transition away from RSA and EC more quickly. This change could have far-reaching implications for the cybersecurity landscape.",
-        "de": "Google hat den Termin für den Q-Tag auf 2029 vorverlegt und warnt die gesamte Branche, schneller von RSA und EC abzurücken. Diese Änderung könnte weitreichende Auswirkungen auf die Cybersicherheitslandschaft haben."
+        "zh": "谷歌将量子计算的Q日截止日期提前至2029年，警告整个行业需更快地转移出RSA和EC加密算法。",
+        "en": "Google has moved the deadline for Quantum Day to 2029, warning the entire industry to transition away from RSA and EC encryption algorithms more quickly.",
+        "de": "Google hat die Frist für den Quantum Day auf 2029 vorverlegt und warnt die gesamte Branche, schneller von RSA- und EC-Verschlüsselungsalgorithmen abzurücken."
       },
       "source": "Ars Technica – AI",
       "date": "2026-03-25",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "自我传播恶意软件毒害开源软件并清除伊朗基于的机器",
+        "zh": "自传播恶意软件污染开源软件并清除伊朗基于机器",
         "en": "Self-propagating malware poisons open source software and wipes Iran-based machines",
         "de": "Selbstverbreitende Malware vergiftet Open-Source-Software und löscht iranische Maschinen"
       },
       "summary": {
-        "zh": "一种自我传播的恶意软件正在影响开源软件，并对伊朗的计算机系统造成严重损害。开发商被警告检查其网络以防感染。",
-        "en": "A self-propagating malware is affecting open source software and causing severe damage to computer systems in Iran. Developers are warned to check their networks for infections.",
-        "de": "Eine selbstverbreitende Malware beeinträchtigt Open-Source-Software und verursacht erhebliche Schäden an Computersystemen im Iran. Entwickler werden gewarnt, ihre Netzwerke auf Infektionen zu überprüfen."
+        "zh": "自传播恶意软件正在影响开源软件，导致伊朗境内的机器遭到清除，开发者需检查网络安全。",
+        "en": "Self-propagating malware is affecting open source software, leading to the wiping of machines in Iran, prompting developers to check their network security.",
+        "de": "Selbstverbreitende Malware beeinträchtigt Open-Source-Software und führt zur Löschung von Maschinen im Iran, was Entwickler dazu zwingt, ihre Netzwerksicherheit zu überprüfen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-03-24",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "乌克兰的泽连斯基在海湾之行中与阿联酋、卡塔尔签署防空协议",
-        "en": "Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour",
-        "de": "Ukraines Zelenskyy unterzeichnet Luftverteidigungsabkommen mit den VAE und Katar während seiner Golfreise"
+        "zh": "萨巴伦卡击败高芙赢得第二个迈阿密公开赛冠军",
+        "en": "Sabalenka defeats Gauff to win second straight Miami Open title",
+        "de": "Sabalenka besiegt Gauff und gewinnt den zweiten aufeinanderfolgenden Titel bei den Miami Open"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基在海湾之行中与阿联酋和卡塔尔签署了防空协议，旨在利用乌克兰在击落俄罗斯无人机方面的专业知识来帮助海湾国家。",
-        "en": "Ukrainian President Zelenskyy signed air defense agreements with the UAE and Qatar during his Gulf tour, aiming to leverage Ukraine's expertise in downing Russian drones to assist Gulf nations.",
-        "de": "Der ukrainische Präsident Zelenskyy unterzeichnete während seiner Golfreise Luftverteidigungsabkommen mit den VAE und Katar, um die Expertise der Ukraine im Abfangen russischer Drohnen zu nutzen und den Golfstaaten zu helfen."
+        "zh": "世界排名第一的阿里娜·萨巴伦卡在紧张的三盘决赛中击败科科·高芙，赢得了佛罗里达州的“阳光双冠”。",
+        "en": "World number one Aryna Sabalenka edged Coco Gauff in a tense three-set final to claim the 'Sunshine Double' in Florida.",
+        "de": "Die Weltranglistenerste Aryna Sabalenka setzte sich in einem spannenden Finale über drei Sätze gegen Coco Gauff durch und sicherte sich das 'Sunshine Double' in Florida."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-28",
-      "url": "https://www.aljazeera.com/news/2026/3/28/zelenskyy-signs-air-defence-deals-with-uae-qatar-on-gulf-tour?traffic_source=rss"
+      "date": "2026-03-29",
+      "url": "https://www.aljazeera.com/sports/2026/3/29/sabalenka-defeats-gauff-to-win-second-straight-miami-open-title?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列军队加大对贝鲁特的攻击",
-        "en": "Israeli forces intensify attacks on Beirut",
-        "de": "Israelische Streitkräfte intensivieren Angriffe auf Beirut"
+        "zh": "伊朗战争进入第二个月，耶门胡塞武装打开新战线",
+        "en": "As war on Iran enters second month, Yemen’s Houthis open new front",
+        "de": "Während der Krieg gegen den Iran in den zweiten Monat geht, eröffnen die Houthis im Jemen eine neue Front"
       },
       "summary": {
-        "zh": "以色列军队在贝鲁特南部发起了新的攻击，联合国警告称即将发生人道主义灾难。局势日益紧张，国际社会对此表示关注。",
-        "en": "Israeli forces launched renewed attacks in southern Beirut, as the UN warns of an imminent humanitarian catastrophe. The situation is escalating, drawing international concern.",
-        "de": "Israelische Streitkräfte haben erneute Angriffe im Süden von Beirut gestartet, während die UN vor einer bevorstehenden humanitären Katastrophe warnt. Die Situation eskaliert und zieht internationale Besorgnis auf sich."
+        "zh": "随着对伊朗的战争进入第二个月，耶门的胡塞武装承诺增加对以色列的攻击，担心冲突将失控。",
+        "en": "As the war on Iran enters its second month, Yemen's Houthis pledge more attacks on Israel amid fears that the worsening conflict will spiral out of control.",
+        "de": "Während der Krieg gegen den Iran in den zweiten Monat geht, versprechen die Houthis im Jemen, mehr Angriffe auf Israel durchzuführen, da die Befürchtungen wachsen, dass der sich verschärfende Konflikt außer Kontrolle geraten könnte."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/israeli-forces-intensify-attacks-on-beirut?traffic_source=rss"
+      "date": "2026-03-29",
+      "url": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "在伊朗战争一个月后，尽管公众不满，美国立法者未采取行动",
-        "en": "One month in, disapproval high but US lawmakers take no action on Iran war",
-        "de": "Einen Monat nach dem Krieg: Hohe Ablehnung, aber US-Gesetzgeber ergreifen keine Maßnahmen gegen den Iran-Krieg"
+        "zh": "副总统JD·范斯在CPAC民意调查中领先，成为2028年美国总统候选人",
+        "en": "Vice President JD Vance tops CPAC’s straw poll to be US president in 2028",
+        "de": "Vizepräsident JD Vance führt die CPAC-Stichwahl an, um 2028 US-Präsident zu werden"
       },
       "summary": {
-        "zh": "尽管公众对伊朗战争的反对意见高涨，但美国的两党立法者仍未采取任何行动。民意调查显示，民众对战争和油价感到失望。",
-        "en": "Despite high public disapproval of the Iran war, US lawmakers from both parties have taken no action. Polls indicate widespread public discontent over the war and rising fuel prices.",
-        "de": "Trotz hoher öffentlicher Ablehnung des Iran-Kriegs haben US-Gesetzgeber beider Parteien keine Maßnahmen ergriffen. Umfragen zeigen weit verbreitete Unzufriedenheit der Öffentlichkeit über den Krieg und steigende Kraftstoffpreise."
+        "zh": "副总统JD·范斯在CPAC的民意调查中名列第一，尽管国务卿马尔科·鲁比奥在今年的非正式调查中也有所进展。",
+        "en": "Vice President JD Vance topped CPAC's straw poll, although Secretary of State Marco Rubio made advances in this year's informal poll about who might succeed Trump.",
+        "de": "Vizepräsident JD Vance führt die CPAC-Stichwahl an, obwohl Außenminister Marco Rubio in dieser informellen Umfrage über mögliche Trump-Nachfolger Fortschritte gemacht hat."
       },
       "source": "Al Jazeera",
       "date": "2026-03-28",
-      "url": "https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/28/vice-president-jd-vance-tops-cpacs-straw-poll-to-be-us-president-in-2028?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "新费用、减少航班：更高的燃料价格超出加油站影响消费者预算",
+        "zh": "新费用，减少航班：更高的燃油价格超出加油站对消费者预算的影响",
         "en": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
         "de": "Neue Gebühren, weniger Flüge: Höhere Kraftstoffpreise belasten die Verbraucherbudgets über die Tankstelle hinaus"
       },
       "summary": {
-        "zh": "随着燃料价格的上涨，消费者的预算受到影响，新的费用和航班减少使情况更加复杂。美国人将感受到这一变化的影响，超出加油站的范围。",
-        "en": "As fuel prices rise, consumer budgets are being impacted, with new fees and fewer flights complicating the situation. Americans will feel the effects of this change beyond just the gas pump.",
-        "de": "Mit steigenden Kraftstoffpreisen werden die Budgets der Verbraucher belastet, wobei neue Gebühren und weniger Flüge die Situation komplizieren. Die Amerikaner werden die Auswirkungen dieser Veränderung über die Tankstelle hinaus spüren."
+        "zh": "随着企业政策的变化，美国消费者将感受到更高的油价对其预算的影响，超出加油站的范围。",
+        "en": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
+        "de": "Mit den Änderungen der Unternehmensrichtlinien werden die Amerikaner die höheren Ölpreise in ihren Geldbörsen über die Tankstelle hinaus spüren."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-28",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "市场现在将美联储的下一步视为潜在加息，因通胀担忧加剧",
+        "zh": "市场现在将美联储的下一步视为潜在的加息，因通胀担忧加剧",
         "en": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
-        "de": "Die Märkte sehen den nächsten Schritt der Fed nun als potenzielle Zinserhöhung, da die Inflationsängste zunehmen"
+        "de": "Die Märkte sehen den nächsten Schritt der Fed jetzt als mögliche Zinserhöhung, da die Inflationsängste zunehmen"
       },
       "summary": {
-        "zh": "随着通胀担忧加剧，市场将美联储的下一步行动视为可能的加息。交易员们将2026年底前加息的概率提高至52%。",
-        "en": "As inflation fears mount, markets are viewing the Fed's next move as a potential rate hike. Traders have raised the probability of a rate increase by the end of 2026 to 52%.",
-        "de": "Mit zunehmenden Inflationsängsten betrachten die Märkte den nächsten Schritt der Fed als potenzielle Zinserhöhung. Händler haben die Wahrscheinlichkeit einer Zinserhöhung bis Ende 2026 auf 52 % erhöht."
+        "zh": "交易员将2026年底加息的概率调整至52%，反映出对通胀的担忧加剧。",
+        "en": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning, reflecting growing inflation concerns.",
+        "de": "Händler auf dem Terminmarkt haben die Wahrscheinlichkeit einer Zinserhöhung bis Ende 2026 am Freitagmorgen auf 52 % verschoben, was auf wachsende Inflationssorgen hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-27",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "全球预测机构预计美国通胀率为4.2%，远高于美联储的估计",
+        "zh": "全球预测机构预计美国今年通胀率为4.2%，远高于美联储的预估",
         "en": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
         "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2 %, viel höher als die Schätzung der Fed"
       },
       "summary": {
-        "zh": "全球预测机构预计美国今年的通胀率将达到4.2%，远高于美联储的2.7%估计。这一预测显示出经济前景的潜在风险。",
-        "en": "A global forecasting group predicts that U.S. inflation will reach 4.2% this year, significantly higher than the Fed's estimate of 2.7%. This forecast indicates potential risks to the economic outlook.",
-        "de": "Eine globale Prognosegruppe sagt voraus, dass die US-Inflation in diesem Jahr 4,2 % erreichen wird, was deutlich höher ist als die Schätzung der Fed von 2,7 %. Diese Prognose weist auf potenzielle Risiken für die wirtschaftliche Entwicklung hin."
+        "zh": "全球预测机构预计美国的通胀率将达到4.2%，远高于美联储的2.7%预估，这一预测显示出经济的不确定性。",
+        "en": "The global forecasting group estimates U.S. inflation to be 4.2% this year, much higher than the Fed's estimate of 2.7%, indicating economic uncertainty.",
+        "de": "Die globale Prognosegruppe schätzt die US-Inflation in diesem Jahr auf 4,2 %, was viel höher ist als die Schätzung der Fed von 2,7 %, und zeigt wirtschaftliche Unsicherheit an."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-26",
