@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T05:58:31.029772+00:00",
+  "generatedAt": "2026-03-29T16:58:38.161361+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Die Gebärmutter einer Frau wurde erstmals außerhalb des Körpers am Leben gehalten"
       },
       "summary": {
-        "zh": "科学家成功地在体外维持了一名女性的子宫，这一突破可能为生育技术带来新的可能性。",
-        "en": "Scientists have successfully maintained a woman's uterus outside the body, a breakthrough that could open new possibilities for reproductive technology.",
-        "de": "Wissenschaftler haben es erfolgreich geschafft, die Gebärmutter einer Frau außerhalb des Körpers zu erhalten, ein Durchbruch, der neue Möglichkeiten für die Fortpflanzungstechnologie eröffnen könnte."
+        "zh": "科学家首次成功在体外维持一名女性的子宫存活，标志着生物医学领域的重要进展。这一成就可能为未来的生育技术和器官移植提供新的可能性。",
+        "en": "Scientists have successfully maintained a woman's uterus alive outside the body for the first time, marking a significant advancement in the field of biomedical science. This achievement could open new possibilities for future reproductive technologies and organ transplantation.",
+        "de": "Wissenschaftler haben erstmals die Gebärmutter einer Frau außerhalb des Körpers am Leben gehalten, was einen bedeutenden Fortschritt im Bereich der biomedizinischen Wissenschaft darstellt. Dieser Erfolg könnte neue Möglichkeiten für zukünftige Reproduktionstechnologien und Organtransplantationen eröffnen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-28",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "谷歌将Q日截止日期提前至2029年，远比之前预想的要早",
+        "zh": "谷歌将Q日的截止日期提前至2029年，远比之前预想的要早",
         "en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-        "de": "Google verschiebt den Q-Day-Deadline auf 2029, viel früher als zuvor gedacht"
+        "de": "Google verschiebt die Frist für den Q-Tag auf 2029, viel früher als zuvor gedacht"
       },
       "summary": {
-        "zh": "谷歌将量子计算的Q日截止日期提前至2029年，警告整个行业需更快地转移出RSA和EC加密算法。",
-        "en": "Google has moved the deadline for Quantum Day to 2029, warning the entire industry to transition away from RSA and EC encryption algorithms more quickly.",
-        "de": "Google hat die Frist für den Quantum Day auf 2029 vorverlegt und warnt die gesamte Branche, schneller von RSA- und EC-Verschlüsselungsalgorithmen abzurücken."
+        "zh": "谷歌将量子计算的Q日截止日期提前至2029年，警告整个行业需要更快地转移离RSA和EC。这一变化可能会对网络安全领域产生深远影响。",
+        "en": "Google has moved the Q Day deadline for quantum computing to 2029, warning the entire industry to transition away from RSA and EC more quickly. This change could have far-reaching implications for the field of cybersecurity.",
+        "de": "Google hat die Frist für den Q-Tag der Quantencomputing auf 2029 vorverlegt und warnt die gesamte Branche, schneller von RSA und EC abzurücken. Diese Änderung könnte weitreichende Auswirkungen auf das Gebiet der Cybersicherheit haben."
       },
       "source": "Ars Technica – AI",
       "date": "2026-03-25",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "自传播恶意软件污染开源软件并清除伊朗基于机器",
+        "zh": "自传播恶意软件毒害开源软件并清除伊朗机器",
         "en": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-        "de": "Selbstverbreitende Malware vergiftet Open-Source-Software und löscht iranische Maschinen"
+        "de": "Selbstverbreitende Malware vergiftet Open-Source-Software und löscht Maschinen in Iran"
       },
       "summary": {
-        "zh": "自传播恶意软件正在影响开源软件，导致伊朗境内的机器遭到清除，开发者需检查网络安全。",
-        "en": "Self-propagating malware is affecting open source software, leading to the wiping of machines in Iran, prompting developers to check their network security.",
-        "de": "Selbstverbreitende Malware beeinträchtigt Open-Source-Software und führt zur Löschung von Maschinen im Iran, was Entwickler dazu zwingt, ihre Netzwerksicherheit zu überprüfen."
+        "zh": "一种自传播的恶意软件正在影响开源软件，并导致伊朗境内的计算机被清除。开发者被警告检查其网络以防感染。",
+        "en": "A self-propagating malware is affecting open source software and causing machines in Iran to be wiped. Developers are being warned to check their networks for infections.",
+        "de": "Eine selbstverbreitende Malware beeinträchtigt Open-Source-Software und führt dazu, dass Maschinen im Iran gelöscht werden. Entwickler werden gewarnt, ihre Netzwerke auf Infektionen zu überprüfen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-03-24",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "萨巴伦卡击败高芙赢得第二个迈阿密公开赛冠军",
-        "en": "Sabalenka defeats Gauff to win second straight Miami Open title",
-        "de": "Sabalenka besiegt Gauff und gewinnt den zweiten aufeinanderfolgenden Titel bei den Miami Open"
+        "zh": "伊朗袭击以色列南部工业区",
+        "en": "Iran hits industrial zone in southern Israel",
+        "de": "Iran greift Industriegebiet im Süden Israels an"
       },
       "summary": {
-        "zh": "世界排名第一的阿里娜·萨巴伦卡在紧张的三盘决赛中击败科科·高芙，赢得了佛罗里达州的“阳光双冠”。",
-        "en": "World number one Aryna Sabalenka edged Coco Gauff in a tense three-set final to claim the 'Sunshine Double' in Florida.",
-        "de": "Die Weltranglistenerste Aryna Sabalenka setzte sich in einem spannenden Finale über drei Sätze gegen Coco Gauff durch und sicherte sich das 'Sunshine Double' in Florida."
+        "zh": "伊朗对以色列南部的一个工业区发射导弹，导致一处化工厂发生火灾。这一事件加剧了地区紧张局势。",
+        "en": "Iran launched a missile barrage at an industrial zone in southern Israel, causing a fire at a chemical plant. This incident escalates tensions in the region.",
+        "de": "Iran hat ein Industriegebiet im Süden Israels mit einer Raketenattacke angegriffen, was zu einem Brand in einem Chemiewerk führte. Dieses Ereignis verschärft die Spannungen in der Region."
       },
       "source": "Al Jazeera",
       "date": "2026-03-29",
-      "url": "https://www.aljazeera.com/sports/2026/3/29/sabalenka-defeats-gauff-to-win-second-straight-miami-open-title?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗战争进入第二个月，耶门胡塞武装打开新战线",
-        "en": "As war on Iran enters second month, Yemen’s Houthis open new front",
-        "de": "Während der Krieg gegen den Iran in den zweiten Monat geht, eröffnen die Houthis im Jemen eine neue Front"
+        "zh": "以色列警方阻止天主教红衣主教进入圣墓",
+        "en": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
+        "de": "Israelische Polizei blockiert katholischen Kardinal am Palmsonntag vom Heiligen Grab"
       },
       "summary": {
-        "zh": "随着对伊朗的战争进入第二个月，耶门的胡塞武装承诺增加对以色列的攻击，担心冲突将失控。",
-        "en": "As the war on Iran enters its second month, Yemen's Houthis pledge more attacks on Israel amid fears that the worsening conflict will spiral out of control.",
-        "de": "Während der Krieg gegen den Iran in den zweiten Monat geht, versprechen die Houthis im Jemen, mehr Angriffe auf Israel durchzuführen, da die Befürchtungen wachsen, dass der sich verschärfende Konflikt außer Kontrolle geraten könnte."
+        "zh": "以色列警方在棕榈星期日阻止了一名天主教红衣主教进入耶路撒冷的圣墓，理由是安全考虑。这一举动引发了宗教和政治的争议。",
+        "en": "Israeli police blocked a Catholic cardinal from entering the Holy Sepulchre in Jerusalem on Palm Sunday, citing safety concerns. This action has sparked controversy in both religious and political spheres.",
+        "de": "Die israelische Polizei hat einen katholischen Kardinal am Palmsonntag daran gehindert, das Heilige Grab in Jerusalem zu betreten, und beruft sich auf Sicherheitsbedenken. Diese Maßnahme hat sowohl in religiösen als auch in politischen Kreisen Kontroversen ausgelöst."
       },
       "source": "Al Jazeera",
       "date": "2026-03-29",
-      "url": "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "副总统JD·范斯在CPAC民意调查中领先，成为2028年美国总统候选人",
-        "en": "Vice President JD Vance tops CPAC’s straw poll to be US president in 2028",
-        "de": "Vizepräsident JD Vance führt die CPAC-Stichwahl an, um 2028 US-Präsident zu werden"
+        "zh": "巴基斯坦在伊朗谈判中维持“微妙的平衡”",
+        "en": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
+        "de": "Pakistan hält 'delikate Balance' aufrecht, während es Iran-Gespräche ausrichtet"
       },
       "summary": {
-        "zh": "副总统JD·范斯在CPAC的民意调查中名列第一，尽管国务卿马尔科·鲁比奥在今年的非正式调查中也有所进展。",
-        "en": "Vice President JD Vance topped CPAC's straw poll, although Secretary of State Marco Rubio made advances in this year's informal poll about who might succeed Trump.",
-        "de": "Vizepräsident JD Vance führt die CPAC-Stichwahl an, obwohl Außenminister Marco Rubio in dieser informellen Umfrage über mögliche Trump-Nachfolger Fortschritte gemacht hat."
+        "zh": "巴基斯坦在伊斯兰堡举办伊朗谈判，试图缓解美国和以色列对伊朗的战争。该国在复杂的地缘政治中维持着微妙的平衡。",
+        "en": "Pakistan is hosting talks on Iran in Islamabad, attempting to de-escalate the US-Israel war on Iran. The country is maintaining a delicate balancing act amid complex geopolitical tensions.",
+        "de": "Pakistan veranstaltet Gespräche über den Iran in Islamabad und versucht, den US-Israel-Konflikt über den Iran zu deeskalieren. Das Land hält inmitten komplexer geopolitischer Spannungen eine delikate Balance aufrecht."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-28",
-      "url": "https://www.aljazeera.com/news/2026/3/28/vice-president-jd-vance-tops-cpacs-straw-poll-to-be-us-president-in-2028?traffic_source=rss"
+      "date": "2026-03-29",
+      "url": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "新费用，减少航班：更高的燃油价格超出加油站对消费者预算的影响",
+        "zh": "新费用，减少航班：更高的燃油价格超出消费者预算",
         "en": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
-        "de": "Neue Gebühren, weniger Flüge: Höhere Kraftstoffpreise belasten die Verbraucherbudgets über die Tankstelle hinaus"
+        "de": "Neue Gebühren, weniger Flüge: Höhere Kraftstoffpreise belasten die Budgets der Verbraucher über die Tankstelle hinaus"
       },
       "summary": {
-        "zh": "随着企业政策的变化，美国消费者将感受到更高的油价对其预算的影响，超出加油站的范围。",
-        "en": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
-        "de": "Mit den Änderungen der Unternehmensrichtlinien werden die Amerikaner die höheren Ölpreise in ihren Geldbörsen über die Tankstelle hinaus spüren."
+        "zh": "随着燃油价格上涨，企业政策发生变化，消费者在加油站之外的预算也受到影响。新费用和航班减少可能会进一步加剧这一问题。",
+        "en": "As fuel prices rise, corporate policies are changing, impacting consumer budgets beyond the gas pump. New fees and fewer flights may exacerbate this issue further.",
+        "de": "Mit steigenden Kraftstoffpreisen ändern sich die Unternehmensrichtlinien, was die Budgets der Verbraucher über die Tankstelle hinaus beeinflusst. Neue Gebühren und weniger Flüge könnten dieses Problem weiter verschärfen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-28",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "市场现在将美联储的下一步视为潜在的加息，因通胀担忧加剧",
+        "zh": "市场现在将美联储的下一步视为潜在的加息",
         "en": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
-        "de": "Die Märkte sehen den nächsten Schritt der Fed jetzt als mögliche Zinserhöhung, da die Inflationsängste zunehmen"
+        "de": "Märkte sehen den nächsten Schritt der Fed jetzt als potenzielle Zinserhöhung, da die Inflationsängste zunehmen"
       },
       "summary": {
-        "zh": "交易员将2026年底加息的概率调整至52%，反映出对通胀的担忧加剧。",
-        "en": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning, reflecting growing inflation concerns.",
-        "de": "Händler auf dem Terminmarkt haben die Wahrscheinlichkeit einer Zinserhöhung bis Ende 2026 am Freitagmorgen auf 52 % verschoben, was auf wachsende Inflationssorgen hinweist."
+        "zh": "由于通货膨胀担忧加剧，交易员将2026年底前加息的概率提高到52%。这一变化反映了市场对未来经济形势的担忧。",
+        "en": "As inflation fears mount, traders have raised the probability of a rate hike by the end of 2026 to 52%. This change reflects market concerns about the future economic outlook.",
+        "de": "Angesichts zunehmender Inflationsängste haben Händler die Wahrscheinlichkeit einer Zinserhöhung bis Ende 2026 auf 52 % erhöht. Diese Änderung spiegelt die Bedenken des Marktes hinsichtlich der zukünftigen wirtschaftlichen Aussichten wider."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-27",
@@ -141,9 +141,9 @@
         "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2 %, viel höher als die Schätzung der Fed"
       },
       "summary": {
-        "zh": "全球预测机构预计美国的通胀率将达到4.2%，远高于美联储的2.7%预估，这一预测显示出经济的不确定性。",
-        "en": "The global forecasting group estimates U.S. inflation to be 4.2% this year, much higher than the Fed's estimate of 2.7%, indicating economic uncertainty.",
-        "de": "Die globale Prognosegruppe schätzt die US-Inflation in diesem Jahr auf 4,2 %, was viel höher ist als die Schätzung der Fed von 2,7 %, und zeigt wirtschaftliche Unsicherheit an."
+        "zh": "全球预测机构预计美国今年的通胀率将达到4.2%，远高于美联储的2.7%预估。这一预测可能会影响未来的货币政策。",
+        "en": "A global forecasting group predicts U.S. inflation will reach 4.2% this year, significantly higher than the Fed's estimate of 2.7%. This forecast could impact future monetary policy.",
+        "de": "Eine globale Prognosegruppe sagt voraus, dass die US-Inflation in diesem Jahr 4,2 % erreichen wird, was deutlich höher ist als die Schätzung der Fed von 2,7 %. Diese Prognose könnte zukünftige Geldpolitik beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-26",
