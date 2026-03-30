@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T16:58:38.161361+00:00",
+  "generatedAt": "2026-03-30T06:17:12.701467+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Die Gebärmutter einer Frau wurde erstmals außerhalb des Körpers am Leben gehalten"
       },
       "summary": {
-        "zh": "科学家首次成功在体外维持一名女性的子宫存活，标志着生物医学领域的重要进展。这一成就可能为未来的生育技术和器官移植提供新的可能性。",
-        "en": "Scientists have successfully maintained a woman's uterus alive outside the body for the first time, marking a significant advancement in the field of biomedical science. This achievement could open new possibilities for future reproductive technologies and organ transplantation.",
-        "de": "Wissenschaftler haben erstmals die Gebärmutter einer Frau außerhalb des Körpers am Leben gehalten, was einen bedeutenden Fortschritt im Bereich der biomedizinischen Wissenschaft darstellt. Dieser Erfolg könnte neue Möglichkeiten für zukünftige Reproduktionstechnologien und Organtransplantationen eröffnen."
+        "zh": "科学家成功地在体外维持了一名女性的子宫，这是一个重要的医学突破，可能对生育技术产生深远影响。",
+        "en": "Scientists have successfully maintained a woman's uterus outside the body, marking a significant medical breakthrough that could have profound implications for reproductive technology.",
+        "de": "Wissenschaftler haben erfolgreich die Gebärmutter einer Frau außerhalb des Körpers aufrechterhalten, was einen bedeutenden medizinischen Durchbruch darstellt, der tiefgreifende Auswirkungen auf die Reproduktionsmedizin haben könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-28",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "谷歌将Q日的截止日期提前至2029年，远比之前预想的要早",
+        "zh": "谷歌将Q日截止日期提前至2029年，远比之前预期的要早",
         "en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-        "de": "Google verschiebt die Frist für den Q-Tag auf 2029, viel früher als zuvor gedacht"
+        "de": "Google verschiebt den Termin für den Q-Tag auf 2029, viel früher als zuvor gedacht"
       },
       "summary": {
-        "zh": "谷歌将量子计算的Q日截止日期提前至2029年，警告整个行业需要更快地转移离RSA和EC。这一变化可能会对网络安全领域产生深远影响。",
-        "en": "Google has moved the Q Day deadline for quantum computing to 2029, warning the entire industry to transition away from RSA and EC more quickly. This change could have far-reaching implications for the field of cybersecurity.",
-        "de": "Google hat die Frist für den Q-Tag der Quantencomputing auf 2029 vorverlegt und warnt die gesamte Branche, schneller von RSA und EC abzurücken. Diese Änderung könnte weitreichende Auswirkungen auf das Gebiet der Cybersicherheit haben."
+        "zh": "谷歌宣布将量子计算的Q日截止日期提前至2029年，警告整个行业需要更快地从RSA和EC迁移。",
+        "en": "Google has announced it will move the Q Day deadline for quantum computing to 2029, warning the entire industry to migrate off RSA and EC more quickly.",
+        "de": "Google hat angekündigt, den Termin für den Q-Tag in der Quantencomputing auf 2029 vorzuverlegen und warnt die gesamte Branche, schneller von RSA und EC umzusteigen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-03-25",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "自传播恶意软件毒害开源软件并清除伊朗机器",
+        "zh": "自传播恶意软件毒害开源软件并清除伊朗基于机器",
         "en": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-        "de": "Selbstverbreitende Malware vergiftet Open-Source-Software und löscht Maschinen in Iran"
+        "de": "Selbstverbreitende Malware vergiftet Open-Source-Software und löscht iranische Maschinen"
       },
       "summary": {
-        "zh": "一种自传播的恶意软件正在影响开源软件，并导致伊朗境内的计算机被清除。开发者被警告检查其网络以防感染。",
-        "en": "A self-propagating malware is affecting open source software and causing machines in Iran to be wiped. Developers are being warned to check their networks for infections.",
-        "de": "Eine selbstverbreitende Malware beeinträchtigt Open-Source-Software und führt dazu, dass Maschinen im Iran gelöscht werden. Entwickler werden gewarnt, ihre Netzwerke auf Infektionen zu überprüfen."
+        "zh": "一种自传播的恶意软件正在影响开源软件，导致伊朗的计算机系统遭到破坏，开发商被提醒检查网络安全。",
+        "en": "A self-propagating malware is affecting open source software, leading to the destruction of computer systems in Iran, prompting developers to check their network security.",
+        "de": "Eine sich selbst verbreitende Malware beeinträchtigt Open-Source-Software und führt zur Zerstörung von Computersystemen im Iran, was Entwickler dazu veranlasst, ihre Netzwerksicherheit zu überprüfen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-03-24",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗袭击以色列南部工业区",
-        "en": "Iran hits industrial zone in southern Israel",
-        "de": "Iran greift Industriegebiet im Süden Israels an"
+        "zh": "特朗普表示伊朗“已经发生政权更迭”并描述“成群的石油”",
+        "en": "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’",
+        "de": "Trump sagt, Iran habe 'Regimewechsel' gehabt, während er von 'Bootsladungen Öl' spricht"
       },
       "summary": {
-        "zh": "伊朗对以色列南部的一个工业区发射导弹，导致一处化工厂发生火灾。这一事件加剧了地区紧张局势。",
-        "en": "Iran launched a missile barrage at an industrial zone in southern Israel, causing a fire at a chemical plant. This incident escalates tensions in the region.",
-        "de": "Iran hat ein Industriegebiet im Süden Israels mit einer Raketenattacke angegriffen, was zu einem Brand in einem Chemiewerk führte. Dieses Ereignis verschärft die Spannungen in der Region."
+        "zh": "美国总统特朗普声称，美国和以色列对伊朗的战争有效地实现了政权更迭，并提到伊朗的石油供应。",
+        "en": "U.S. President Trump claims that the U.S.-Israeli war on Iran has effectively brought about regime change, mentioning Iran's oil supplies.",
+        "de": "US-Präsident Trump behauptet, dass der US-israelische Krieg gegen den Iran effektiv einen Regimewechsel herbeigeführt hat und erwähnt die Ölvorräte Irans."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/29/iran-hits-industrial-zone-in-southern-israel?traffic_source=rss"
+      "date": "2026-03-30",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/trump-says-irans-had-regime-change-as-he-describes-boatloads-of-oil?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列警方阻止天主教红衣主教进入圣墓",
-        "en": "Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday",
-        "de": "Israelische Polizei blockiert katholischen Kardinal am Palmsonntag vom Heiligen Grab"
+        "zh": "以色列人纠正伊朗在线主播",
+        "en": "‘We’re killing them, bro’: Israelis correct Iranian online streamer",
+        "de": "‘Wir töten sie, Bruder’: Israelis korrigieren iranischen Online-Streamer"
       },
       "summary": {
-        "zh": "以色列警方在棕榈星期日阻止了一名天主教红衣主教进入耶路撒冷的圣墓，理由是安全考虑。这一举动引发了宗教和政治的争议。",
-        "en": "Israeli police blocked a Catholic cardinal from entering the Holy Sepulchre in Jerusalem on Palm Sunday, citing safety concerns. This action has sparked controversy in both religious and political spheres.",
-        "de": "Die israelische Polizei hat einen katholischen Kardinal am Palmsonntag daran gehindert, das Heilige Grab in Jerusalem zu betreten, und beruft sich auf Sicherheitsbedenken. Diese Maßnahme hat sowohl in religiösen als auch in politischen Kreisen Kontroversen ausgelöst."
+        "zh": "以色列年轻女性对一名伊朗音乐家的感谢回应，强调了两国之间的紧张关系和战争的影响。",
+        "en": "Young Israeli women respond to an Iranian musician's thanks, highlighting the tensions and impacts of war between the two countries.",
+        "de": "Junge israelische Frauen reagieren auf die Dankesworte eines iranischen Musikers und heben die Spannungen und Auswirkungen des Krieges zwischen den beiden Ländern hervor."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-29",
-      "url": "https://www.aljazeera.com/news/2026/3/29/israeli-police-block-catholic-cardinal-from-holy-sepulchre-on-palm-sunday?traffic_source=rss"
+      "date": "2026-03-30",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/were-killing-them-bro-israelis-correct-iranian-online-streamer?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "巴基斯坦在伊朗谈判中维持“微妙的平衡”",
-        "en": "Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks",
-        "de": "Pakistan hält 'delikate Balance' aufrecht, während es Iran-Gespräche ausrichtet"
+        "zh": "伊朗在海湾的攻击持续，主要工业设施受到打击",
+        "en": "Iranian attacks across Gulf continue as major industrial sites hit",
+        "de": "Iranische Angriffe im Golf gehen weiter, während wichtige Industrieanlagen getroffen werden"
       },
       "summary": {
-        "zh": "巴基斯坦在伊斯兰堡举办伊朗谈判，试图缓解美国和以色列对伊朗的战争。该国在复杂的地缘政治中维持着微妙的平衡。",
-        "en": "Pakistan is hosting talks on Iran in Islamabad, attempting to de-escalate the US-Israel war on Iran. The country is maintaining a delicate balancing act amid complex geopolitical tensions.",
-        "de": "Pakistan veranstaltet Gespräche über den Iran in Islamabad und versucht, den US-Israel-Konflikt über den Iran zu deeskalieren. Das Land hält inmitten komplexer geopolitischer Spannungen eine delikate Balance aufrecht."
+        "zh": "伊朗对海湾地区的攻击持续，导致多个主要工业设施受到损害，伤亡人数上升。",
+        "en": "Iranian attacks in the Gulf continue, damaging several major industrial sites and increasing casualties.",
+        "de": "Iranische Angriffe im Golf gehen weiter und beschädigen mehrere wichtige Industrieanlagen, während die Zahl der Opfer steigt."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-03-29",
-      "url": "https://www.aljazeera.com/news/2026/3/29/pakistan-maintains-delicate-balancing-act-as-it-hosts-iran-talks?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "新费用，减少航班：更高的燃油价格超出消费者预算",
-        "en": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
-        "de": "Neue Gebühren, weniger Flüge: Höhere Kraftstoffpreise belasten die Budgets der Verbraucher über die Tankstelle hinaus"
-      },
-      "summary": {
-        "zh": "随着燃油价格上涨，企业政策发生变化，消费者在加油站之外的预算也受到影响。新费用和航班减少可能会进一步加剧这一问题。",
-        "en": "As fuel prices rise, corporate policies are changing, impacting consumer budgets beyond the gas pump. New fees and fewer flights may exacerbate this issue further.",
-        "de": "Mit steigenden Kraftstoffpreisen ändern sich die Unternehmensrichtlinien, was die Budgets der Verbraucher über die Tankstelle hinaus beeinflusst. Neue Gebühren und weniger Flüge könnten dieses Problem weiter verschärfen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-28",
-      "url": "https://www.cnbc.com/2026/03/28/oil-doordash-lyft-usps-united.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "市场现在将美联储的下一步视为潜在的加息",
+        "zh": "市场现在将美联储的下一个举动视为潜在加息",
         "en": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
-        "de": "Märkte sehen den nächsten Schritt der Fed jetzt als potenzielle Zinserhöhung, da die Inflationsängste zunehmen"
+        "de": "Die Märkte sehen den nächsten Schritt der Fed jetzt als potenzielle Zinserhöhung, da die Inflationsängste zunehmen"
       },
       "summary": {
-        "zh": "由于通货膨胀担忧加剧，交易员将2026年底前加息的概率提高到52%。这一变化反映了市场对未来经济形势的担忧。",
-        "en": "As inflation fears mount, traders have raised the probability of a rate hike by the end of 2026 to 52%. This change reflects market concerns about the future economic outlook.",
-        "de": "Angesichts zunehmender Inflationsängste haben Händler die Wahrscheinlichkeit einer Zinserhöhung bis Ende 2026 auf 52 % erhöht. Diese Änderung spiegelt die Bedenken des Marktes hinsichtlich der zukünftigen wirtschaftlichen Aussichten wider."
+        "zh": "随着通货膨胀担忧加剧，交易者将美联储在2026年底前加息的可能性提高到52%。",
+        "en": "As inflation fears mount, traders have raised the probability of a Fed rate hike by the end of 2026 to 52%.",
+        "de": "Angesichts zunehmender Inflationsängste haben Händler die Wahrscheinlichkeit einer Zinserhöhung durch die Fed bis Ende 2026 auf 52 % erhöht."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-27",
       "url": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "全球预测机构预计美国今年通胀率为4.2%，远高于美联储的预估",
+        "zh": "全球预测小组预计美国今年通胀率为4.2%，远高于美联储的估计",
         "en": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
         "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2 %, viel höher als die Schätzung der Fed"
       },
       "summary": {
-        "zh": "全球预测机构预计美国今年的通胀率将达到4.2%，远高于美联储的2.7%预估。这一预测可能会影响未来的货币政策。",
-        "en": "A global forecasting group predicts U.S. inflation will reach 4.2% this year, significantly higher than the Fed's estimate of 2.7%. This forecast could impact future monetary policy.",
-        "de": "Eine globale Prognosegruppe sagt voraus, dass die US-Inflation in diesem Jahr 4,2 % erreichen wird, was deutlich höher ist als die Schätzung der Fed von 2,7 %. Diese Prognose könnte zukünftige Geldpolitik beeinflussen."
+        "zh": "全球预测小组将美国今年的通货膨胀率预测为4.2%，这比美联储的2.7%估计高出许多。",
+        "en": "The global forecasting group projects U.S. inflation at 4.2% this year, significantly higher than the Fed's estimate of 2.7%.",
+        "de": "Die globale Prognosegruppe prognostiziert die US-Inflation in diesem Jahr auf 4,2 %, was deutlich über der Schätzung der Fed von 2,7 % liegt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-26",
       "url": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "美国股指期货下跌，油价飙升，伊朗战争没有减弱迹象",
+        "en": "U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up",
+        "de": "US-Aktienfutures sinken, Ölpreise steigen, während der Iran-Krieg keine Anzeichen einer Entspannung zeigt"
+      },
+      "summary": {
+        "zh": "美国股指期货在周日下跌，油价再次飙升，投资者对伊朗战争的持续影响感到担忧。",
+        "en": "U.S. stock-index futures fell on Sunday, with oil prices surging again, as investors worry about the ongoing impact of the Iran war.",
+        "de": "Die US-Aktienfutures fielen am Sonntag, während die Ölpreise erneut anstiegen, da die Anleger sich um die anhaltenden Auswirkungen des Iran-Kriegs sorgen."
+      },
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-30",
+      "url": "https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163?mod=mw_rss_topstories"
     }
   ]
 }
