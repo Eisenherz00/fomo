@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-30T06:17:12.701467+00:00",
+  "generatedAt": "2026-03-30T17:16:36.260550+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "一名女性的子宫首次在体外存活",
-        "en": "A woman’s uterus has been kept alive outside the body for the first time",
-        "de": "Die Gebärmutter einer Frau wurde erstmals außerhalb des Körpers am Leben gehalten"
+        "zh": "有更多的人工智能健康工具，但它们的效果如何？",
+        "en": "There are more AI health tools than ever—but how well do they work?",
+        "de": "Es gibt mehr KI-Gesundheitswerkzeuge als je zuvor – aber wie gut funktionieren sie?"
       },
       "summary": {
-        "zh": "科学家成功地在体外维持了一名女性的子宫，这是一个重要的医学突破，可能对生育技术产生深远影响。",
-        "en": "Scientists have successfully maintained a woman's uterus outside the body, marking a significant medical breakthrough that could have profound implications for reproductive technology.",
-        "de": "Wissenschaftler haben erfolgreich die Gebärmutter einer Frau außerhalb des Körpers aufrechterhalten, was einen bedeutenden medizinischen Durchbruch darstellt, der tiefgreifende Auswirkungen auf die Reproduktionsmedizin haben könnte."
+        "zh": "微软最近推出了Copilot Health，这是其Copilot应用程序中的一个新空间，用户可以在其中连接他们的医疗记录。尽管人工智能健康工具的数量增加，但其有效性仍然是一个值得关注的问题。",
+        "en": "Microsoft recently launched Copilot Health, a new space within its Copilot app where users can connect their medical records. Despite the increase in the number of AI health tools, their effectiveness remains a concern.",
+        "de": "Microsoft hat kürzlich Copilot Health eingeführt, einen neuen Bereich innerhalb seiner Copilot-App, in dem Benutzer ihre medizinischen Aufzeichnungen verbinden können. Trotz der Zunahme der Anzahl von KI-Gesundheitswerkzeugen bleibt deren Wirksamkeit ein Anliegen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-28",
-      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/"
+      "date": "2026-03-30",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "谷歌将Q日截止日期提前至2029年，远比之前预期的要早",
-        "en": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-        "de": "Google verschiebt den Termin für den Q-Tag auf 2029, viel früher als zuvor gedacht"
+        "zh": "五角大楼对Anthropic的文化战争策略适得其反",
+        "en": "The Pentagon’s culture war tactic against Anthropic has backfired",
+        "de": "Die Kulturkriegstaktik des Pentagons gegen Anthropic hat nach hinten losgegangen"
       },
       "summary": {
-        "zh": "谷歌宣布将量子计算的Q日截止日期提前至2029年，警告整个行业需要更快地从RSA和EC迁移。",
-        "en": "Google has announced it will move the Q Day deadline for quantum computing to 2029, warning the entire industry to migrate off RSA and EC more quickly.",
-        "de": "Google hat angekündigt, den Termin für den Q-Tag in der Quantencomputing auf 2029 vorzuverlegen und warnt die gesamte Branche, schneller von RSA und EC umzusteigen."
+        "zh": "五角大楼对Anthropic的文化战争策略未能达到预期效果，反而引发了更大的关注和讨论。这一事件突显了在人工智能领域中，政府与企业之间的复杂关系。",
+        "en": "The Pentagon's cultural war tactic against Anthropic has failed to achieve its intended effect, instead sparking greater attention and discussion. This incident highlights the complex relationship between government and corporations in the AI sector.",
+        "de": "Die Kulturkriegstaktik des Pentagons gegen Anthropic hat nicht die beabsichtigte Wirkung erzielt, sondern stattdessen größere Aufmerksamkeit und Diskussionen ausgelöst. Dieser Vorfall hebt die komplexe Beziehung zwischen Regierung und Unternehmen im KI-Sektor hervor."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-03-25",
-      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"
+      "source": "MIT Technology Review",
+      "date": "2026-03-30",
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "自传播恶意软件毒害开源软件并清除伊朗基于机器",
-        "en": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-        "de": "Selbstverbreitende Malware vergiftet Open-Source-Software und löscht iranische Maschinen"
+        "zh": "首次在体外维持人类子宫的成功",
+        "en": "A woman’s uterus has been kept alive outside the body for the first time",
+        "de": "Die Gebärmutter einer Frau wurde zum ersten Mal außerhalb des Körpers am Leben gehalten"
       },
       "summary": {
-        "zh": "一种自传播的恶意软件正在影响开源软件，导致伊朗的计算机系统遭到破坏，开发商被提醒检查网络安全。",
-        "en": "A self-propagating malware is affecting open source software, leading to the destruction of computer systems in Iran, prompting developers to check their network security.",
-        "de": "Eine sich selbst verbreitende Malware beeinträchtigt Open-Source-Software und führt zur Zerstörung von Computersystemen im Iran, was Entwickler dazu veranlasst, ihre Netzwerksicherheit zu überprüfen."
+        "zh": "科学家们首次成功在体外维持人类子宫的生命，这一突破可能对生育医学和再生医学产生深远影响。这项研究为未来的生育治疗提供了新的可能性。",
+        "en": "Scientists have successfully kept a woman's uterus alive outside the body for the first time, a breakthrough that could have profound implications for reproductive medicine and regenerative medicine. This research opens new possibilities for future fertility treatments.",
+        "de": "Wissenschaftler haben zum ersten Mal die Gebärmutter einer Frau außerhalb des Körpers am Leben gehalten, ein Durchbruch, der tiefgreifende Auswirkungen auf die Reproduktionsmedizin und regenerative Medizin haben könnte. Diese Forschung eröffnet neue Möglichkeiten für zukünftige Fruchtbarkeitsbehandlungen."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-03-24",
-      "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/"
+      "source": "MIT Technology Review",
+      "date": "2026-03-28",
+      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普表示伊朗“已经发生政权更迭”并描述“成群的石油”",
-        "en": "Trump says Iran’s ‘had regime change’ as he describes ‘boatloads of oil’",
-        "de": "Trump sagt, Iran habe 'Regimewechsel' gehabt, während er von 'Bootsladungen Öl' spricht"
+        "zh": "七国集团准备采取“必要措施”以确保能源市场稳定",
+        "en": "G7 ready to take ‘necessary measures’ to ensure energy market stability",
+        "de": "G7 bereit, „notwendige Maßnahmen“ zu ergreifen, um die Stabilität des Energiemarktes zu gewährleisten"
       },
       "summary": {
-        "zh": "美国总统特朗普声称，美国和以色列对伊朗的战争有效地实现了政权更迭，并提到伊朗的石油供应。",
-        "en": "U.S. President Trump claims that the U.S.-Israeli war on Iran has effectively brought about regime change, mentioning Iran's oil supplies.",
-        "de": "US-Präsident Trump behauptet, dass der US-israelische Krieg gegen den Iran effektiv einen Regimewechsel herbeigeführt hat und erwähnt die Ölvorräte Irans."
+        "zh": "七国集团国家因能源价格上涨而感到不安，担心这将推高通货膨胀，损害购买力并抑制经济增长。各国领导人表示将采取必要措施以应对这一挑战。",
+        "en": "G7 nations are jittery as rising energy prices threaten to drive up inflation, damage purchasing power, and stunt growth. Leaders from these countries have stated they will take necessary measures to address this challenge.",
+        "de": "Die G7-Staaten sind nervös, da steigende Energiepreise drohen, die Inflation zu erhöhen, die Kaufkraft zu schädigen und das Wachstum zu hemmen. Die Führer dieser Länder haben erklärt, dass sie notwendige Maßnahmen ergreifen werden, um diese Herausforderung zu bewältigen."
       },
       "source": "Al Jazeera",
       "date": "2026-03-30",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/trump-says-irans-had-regime-change-as-he-describes-boatloads-of-oil?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/30/g7-ready-to-take-necessary-measures-to-ensure-energy-market-stability?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列人纠正伊朗在线主播",
-        "en": "‘We’re killing them, bro’: Israelis correct Iranian online streamer",
-        "de": "‘Wir töten sie, Bruder’: Israelis korrigieren iranischen Online-Streamer"
+        "zh": "鲁比奥告诉半岛电视台：霍尔木兹海峡将以某种方式重新开放",
+        "en": "‘Strait of Hormuz will reopen one way or another’, Rubio tells Al Jazeera",
+        "de": "„Der Hormuskanal wird auf die eine oder andere Weise wieder geöffnet“, sagt Rubio zu Al Jazeera"
       },
       "summary": {
-        "zh": "以色列年轻女性对一名伊朗音乐家的感谢回应，强调了两国之间的紧张关系和战争的影响。",
-        "en": "Young Israeli women respond to an Iranian musician's thanks, highlighting the tensions and impacts of war between the two countries.",
-        "de": "Junge israelische Frauen reagieren auf die Dankesworte eines iranischen Musikers und heben die Spannungen und Auswirkungen des Krieges zwischen den beiden Ländern hervor."
+        "zh": "美国国务卿马尔科·鲁比奥表示，美国不会接受伊朗对霍尔木兹海峡的主张，并坚信该海峡将以某种方式重新开放。这一声明反映了美国在该地区的坚定立场。",
+        "en": "U.S. Secretary of State Marco Rubio stated that the U.S. will not accept Iran's claim over the Strait of Hormuz and is confident that the strait will reopen one way or another. This statement reflects the U.S.'s firm stance in the region.",
+        "de": "Der US-Außenminister Marco Rubio erklärte, dass die USA Irans Anspruch auf den Hormuskanal nicht akzeptieren werden und zuversichtlich sind, dass der Kanal auf die eine oder andere Weise wieder geöffnet wird. Diese Erklärung spiegelt die feste Haltung der USA in der Region wider."
       },
       "source": "Al Jazeera",
       "date": "2026-03-30",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/were-killing-them-bro-israelis-correct-iranian-online-streamer?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/30/strait-of-hormuz-will-reopen-one-way-or-another-rubio-tells-al-jazeera?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗在海湾的攻击持续，主要工业设施受到打击",
-        "en": "Iranian attacks across Gulf continue as major industrial sites hit",
-        "de": "Iranische Angriffe im Golf gehen weiter, während wichtige Industrieanlagen getroffen werden"
+        "zh": "以色列海法的石油精炼厂在导弹袭击后火势得到控制",
+        "en": "Fire contained after missile attack on oil refinery in Israel’s Haifa",
+        "de": "Feuer nach Raketenangriff auf Ölraffinerie in Israels Haifa unter Kontrolle"
       },
       "summary": {
-        "zh": "伊朗对海湾地区的攻击持续，导致多个主要工业设施受到损害，伤亡人数上升。",
-        "en": "Iranian attacks in the Gulf continue, damaging several major industrial sites and increasing casualties.",
-        "de": "Iranische Angriffe im Golf gehen weiter und beschädigen mehrere wichtige Industrieanlagen, während die Zahl der Opfer steigt."
+        "zh": "以色列海法的石油精炼厂在美国与伊朗的战争中遭到导弹袭击，火势已得到控制。这是该设施在冲突中第二次遭到攻击，凸显了该地区的紧张局势。",
+        "en": "An oil refinery in Haifa, Israel, was attacked by missiles amid the U.S.-Iran war, but the fire has been contained. This marks the second time the facility has been targeted during the conflict, highlighting the tensions in the region.",
+        "de": "Eine Ölraffinerie in Haifa, Israel, wurde im Zuge des US-Iran-Kriegs mit Raketen angegriffen, das Feuer wurde jedoch unter Kontrolle gebracht. Dies ist das zweite Mal, dass die Anlage während des Konflikts angegriffen wurde, was die Spannungen in der Region verdeutlicht."
       },
-      "source": "BBC News – World",
-      "date": "2026-03-29",
-      "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-03-30",
+      "url": "https://www.aljazeera.com/news/2026/3/30/fire-contained-after-missile-attack-on-oil-refinery-in-israels-haifa?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "市场现在将美联储的下一个举动视为潜在加息",
-        "en": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
-        "de": "Die Märkte sehen den nächsten Schritt der Fed jetzt als potenzielle Zinserhöhung, da die Inflationsängste zunehmen"
+        "zh": "新费用，减少航班：更高的燃料价格超出加油站影响消费者预算",
+        "en": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
+        "de": "Neue Gebühren, weniger Flüge: Höhere Kraftstoffpreise belasten die Verbraucherbudgets über die Tankstelle hinaus"
       },
       "summary": {
-        "zh": "随着通货膨胀担忧加剧，交易者将美联储在2026年底前加息的可能性提高到52%。",
-        "en": "As inflation fears mount, traders have raised the probability of a Fed rate hike by the end of 2026 to 52%.",
-        "de": "Angesichts zunehmender Inflationsängste haben Händler die Wahrscheinlichkeit einer Zinserhöhung durch die Fed bis Ende 2026 auf 52 % erhöht."
+        "zh": "随着企业政策的变化，美国消费者将感受到更高的油价对他们钱包的影响，超出加油站的范围。这一变化可能会影响到多个行业的消费模式。",
+        "en": "As corporate policies change, American consumers will feel the impact of higher oil prices on their wallets beyond just the gas pump. This shift may affect consumer behavior across multiple industries.",
+        "de": "Mit der Änderung der Unternehmensrichtlinien werden amerikanische Verbraucher die Auswirkungen höherer Ölpreise auf ihre Geldbeutel über die Tankstelle hinaus spüren. Diese Veränderung könnte das Verbraucherverhalten in mehreren Branchen beeinflussen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-27",
-      "url": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html"
+      "source": "CNBC",
+      "date": "2026-03-30",
+      "url": "https://www.cnbc.com/2026/03/28/oil-doordash-lyft-usps-united.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "全球预测小组预计美国今年通胀率为4.2%，远高于美联储的估计",
-        "en": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
-        "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2 %, viel höher als die Schätzung der Fed"
+        "zh": "市场现在将美联储的下一步视为潜在加息，因通胀担忧加剧",
+        "en": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
+        "de": "Die Märkte sehen den nächsten Schritt der Fed jetzt als potenzielle Zinserhöhung, da die Inflationsängste zunehmen"
       },
       "summary": {
-        "zh": "全球预测小组将美国今年的通货膨胀率预测为4.2%，这比美联储的2.7%估计高出许多。",
-        "en": "The global forecasting group projects U.S. inflation at 4.2% this year, significantly higher than the Fed's estimate of 2.7%.",
-        "de": "Die globale Prognosegruppe prognostiziert die US-Inflation in diesem Jahr auf 4,2 %, was deutlich über der Schätzung der Fed von 2,7 % liegt."
+        "zh": "随着通货膨胀担忧加剧，期货市场交易者将美联储在2026年底前加息的可能性上调至52%。这一变化反映了市场对未来经济形势的紧张情绪。",
+        "en": "As inflation fears mount, traders in the futures market have raised the probability of a rate increase by the Federal Reserve by the end of 2026 to 52%. This shift reflects market anxiety about the future economic outlook.",
+        "de": "Mit zunehmenden Inflationsängsten haben Händler auf dem Terminmarkt die Wahrscheinlichkeit einer Zinserhöhung durch die Federal Reserve bis Ende 2026 auf 52 % erhöht. Diese Veränderung spiegelt die Marktsorgen über die zukünftige wirtschaftliche Entwicklung wider."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-26",
-      "url": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html"
+      "source": "CNBC",
+      "date": "2026-03-27",
+      "url": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国股指期货下跌，油价飙升，伊朗战争没有减弱迹象",
-        "en": "U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up",
-        "de": "US-Aktienfutures sinken, Ölpreise steigen, während der Iran-Krieg keine Anzeichen einer Entspannung zeigt"
+        "zh": "中国工业利润在年初激增15%，但油价冲击威胁前景",
+        "en": "China industrial profits surge 15% to start year, but oil price shock threatens outlook",
+        "de": "Chinas Industriegewinne steigen zu Jahresbeginn um 15 %, aber der Ölpreisschock bedroht die Aussichten"
       },
       "summary": {
-        "zh": "美国股指期货在周日下跌，油价再次飙升，投资者对伊朗战争的持续影响感到担忧。",
-        "en": "U.S. stock-index futures fell on Sunday, with oil prices surging again, as investors worry about the ongoing impact of the Iran war.",
-        "de": "Die US-Aktienfutures fielen am Sonntag, während die Ölpreise erneut anstiegen, da die Anleger sich um die anhaltenden Auswirkungen des Iran-Kriegs sorgen."
+        "zh": "中国的工业利润在2026年初激增15%，但由于油价飙升，经济前景受到威胁。尽管中国拥有巨大的石油储备和替代能源，但这一挑战仍然不容忽视。",
+        "en": "China's industrial profits surged 15% at the start of 2026, but the economic outlook is threatened by soaring oil prices. Despite China's massive oil reserves and alternative energy sources, this challenge cannot be overlooked.",
+        "de": "Die Industriegewinne Chinas stiegen zu Beginn des Jahres 2026 um 15 %, aber die wirtschaftlichen Aussichten sind durch steigende Ölpreise bedroht. Trotz Chinas massiver Ölreserven und alternativer Energiequellen kann diese Herausforderung nicht ignoriert werden."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-03-30",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163?mod=mw_rss_topstories"
+      "source": "CNBC",
+      "date": "2026-03-27",
+      "url": "https://www.cnbc.com/2026/03/27/china-industrial-profits-jan-feb-surge-oil-price-shock-threatens-outlook.html"
     }
   ]
 }
