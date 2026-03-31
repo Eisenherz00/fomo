@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-03-31T06:04:37.462948+00:00",
+  "generatedAt": "2026-03-31T17:30:57.555466+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "有更多的人工智能健康工具，但它们的效果如何？",
-        "en": "There are more AI health tools than ever—but how well do they work?",
-        "de": "Es gibt mehr KI-Gesundheitswerkzeuge als je zuvor – aber wie gut funktionieren sie?"
+        "zh": "转向AI模型定制是建筑上的必要性",
+        "en": "Shifting to AI model customization is an architectural imperative",
+        "de": "Der Wechsel zur Anpassung von KI-Modellen ist eine architektonische Notwendigkeit"
       },
       "summary": {
-        "zh": "微软最近推出了Copilot Health，一个新的应用程序空间，用户可以连接他们的医疗记录。尽管人工智能健康工具的数量增加，但其有效性仍然值得关注。",
-        "en": "Microsoft recently launched Copilot Health, a new app space where users can connect their medical records. Despite the increase in the number of AI health tools, their effectiveness remains a concern.",
-        "de": "Microsoft hat kürzlich Copilot Health eingeführt, einen neuen Anwendungsbereich, in dem Benutzer ihre medizinischen Unterlagen verbinden können. Trotz der Zunahme der Anzahl von KI-Gesundheitswerkzeugen bleibt deren Wirksamkeit ein Anliegen."
+        "zh": "大型语言模型（LLM）的早期阶段，我们习惯于每个新模型在推理和编码能力上实现10倍的巨大飞跃。当前，转向AI模型定制已成为一种必要的架构选择。",
+        "en": "In the early days of large language models (LLMs), we became accustomed to massive 10x jumps in reasoning and coding capability with every new model. Currently, shifting to AI model customization has become an architectural necessity.",
+        "de": "In den frühen Tagen der großen Sprachmodelle (LLMs) gewöhnten wir uns an massive 10-fache Sprünge in der Denk- und Codierungsfähigkeit mit jedem neuen Modell. Derzeit ist der Wechsel zur Anpassung von KI-Modellen zu einer architektonischen Notwendigkeit geworden."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-30",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
+      "date": "2026-03-31",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "五角大楼针对Anthropic的文化战争策略适得其反",
-        "en": "The Pentagon’s culture war tactic against Anthropic has backfired",
-        "de": "Die Kulturkriegstaktik des Pentagons gegen Anthropic hat nach hinten losgegangen"
+        "zh": "AI基准已破碎。我们需要什么",
+        "en": "AI benchmarks are broken. Here’s what we need instead.",
+        "de": "KI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
       },
       "summary": {
-        "zh": "五角大楼针对Anthropic的文化战争策略未能达到预期效果，反而引发了更大的反对声音。这一事件突显了科技公司与政府之间的复杂关系。",
-        "en": "The Pentagon's culture war tactic against Anthropic has failed to achieve its intended effects, instead provoking greater opposition. This incident highlights the complex relationship between tech companies and the government.",
-        "de": "Die Kulturkriegstaktik des Pentagons gegen Anthropic hat nicht die beabsichtigten Effekte erzielt, sondern vielmehr größeren Widerstand hervorgerufen. Dieser Vorfall verdeutlicht die komplexe Beziehung zwischen Technologieunternehmen und der Regierung."
+        "zh": "几十年来，人工智能的评估一直基于机器是否超越人类的问题。当前，AI基准的有效性受到质疑，需要新的评估标准。",
+        "en": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. Currently, the validity of AI benchmarks is being questioned, necessitating new evaluation standards.",
+        "de": "Seit Jahrzehnten wird künstliche Intelligenz danach bewertet, ob Maschinen Menschen übertreffen. Derzeit wird die Gültigkeit von KI-Benchmarks in Frage gestellt, was neue Bewertungsstandards erforderlich macht."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-30",
-      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
+      "date": "2026-03-31",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "首次在体外维持人类子宫的成功",
-        "en": "A woman’s uterus has been kept alive outside the body for the first time",
-        "de": "Die Gebärmutter einer Frau wurde zum ersten Mal außerhalb des Körpers am Leben gehalten"
+        "zh": "AI健康工具的数量比以往更多——但它们的效果如何？",
+        "en": "There are more AI health tools than ever—but how well do they work?",
+        "de": "Es gibt mehr KI-Gesundheitswerkzeuge als je zuvor – aber wie gut funktionieren sie?"
       },
       "summary": {
-        "zh": "科学家们成功地在体外维持了一名女性的子宫，这是生物医学领域的一项重大突破。这一成就可能对未来的生育技术产生深远影响。",
-        "en": "Scientists have successfully kept a woman's uterus alive outside the body, marking a significant breakthrough in the field of biomedicine. This achievement could have far-reaching implications for future reproductive technologies.",
-        "de": "Wissenschaftler haben es erfolgreich geschafft, die Gebärmutter einer Frau außerhalb des Körpers am Leben zu halten, was einen bedeutenden Durchbruch im Bereich der Biomedizin darstellt. Dieser Erfolg könnte weitreichende Auswirkungen auf zukünftige Fortpflanzungstechnologien haben."
+        "zh": "本月早些时候，微软推出了Copilot Health，这是其Copilot应用程序中的一个新空间，用户可以在此连接他们的医疗记录。尽管工具数量增加，但其有效性仍需评估。",
+        "en": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users can connect their medical records. Despite the increase in the number of tools, their effectiveness still needs to be assessed.",
+        "de": "Anfang dieses Monats hat Microsoft Copilot Health eingeführt, einen neuen Bereich innerhalb seiner Copilot-App, in dem Benutzer ihre medizinischen Aufzeichnungen verbinden können. Trotz der Zunahme der Anzahl der Werkzeuge muss deren Wirksamkeit weiterhin bewertet werden."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-28",
-      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/"
+      "date": "2026-03-30",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "西班牙关闭空域以阻止参与伊朗战争的美国战机",
-        "en": "Spain closes airspace to US warplanes involved in war on Iran",
-        "de": "Spanien schließt den Luftraum für US-Kampfflugzeuge, die am Krieg gegen den Iran beteiligt sind"
+        "zh": "伊朗为何相信自己能战胜美国",
+        "en": "Why Iran believes it can outlast the US",
+        "de": "Warum der Iran glaubt, dass er die USA überdauern kann"
       },
       "summary": {
-        "zh": "西班牙政府决定拒绝美国战机使用其空域，以反对美国和以色列对伊朗的战争。这一举措标志着西班牙在国际事务中的立场日益坚定。",
-        "en": "The Spanish government has decided to deny US warplanes access to its airspace in opposition to the US-Israeli war on Iran. This move signifies Spain's increasingly assertive stance in international affairs.",
-        "de": "Die spanische Regierung hat beschlossen, US-Kampfflugzeugen den Zugang zu ihrem Luftraum zu verweigern, um sich gegen den US-israelischen Krieg gegen den Iran zu stellen. Dieser Schritt zeigt Spaniens zunehmend durchsetzungsfähige Haltung in den internationalen Angelegenheiten."
+        "zh": "伊朗正在为美国的进一步升级做准备，同时坚称自己正在获胜。此战争能否在扩大之前结束？",
+        "en": "Iran is preparing for deeper US escalation while insisting it’s winning. Can this war end before it widens?",
+        "de": "Der Iran bereitet sich auf eine tiefere Eskalation der USA vor und besteht darauf, dass er gewinnt. Kann dieser Krieg enden, bevor er sich ausweitet?"
       },
       "source": "Al Jazeera",
       "date": "2026-03-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/spain-closes-airspace-to-us-warplanes-involved-in-war-on-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/3/31/aje-onl-tt_irn_whatcouldendthewar_av_v2-310326?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列对巴勒斯坦人的死刑法案引发愤怒和谴责",
-        "en": "Outrage and condemnation over Israel’s death penalty law for Palestinians",
-        "de": "Empörung und Verurteilung über Israels Todesstrafe-Gesetz für Palästinenser"
+        "zh": "卡塔尔表示“准备帮助”美伊谈判",
+        "en": "Qatar says ‘ready to help’ with US-Iran negotiations",
+        "de": "Katar sagt, dass es bereit ist, bei den US-Iran-Verhandlungen zu helfen"
       },
       "summary": {
-        "zh": "以色列通过了一项针对巴勒斯坦人的死刑法案，引发了国际社会的广泛愤怒和谴责。这一法案被视为对人权的严重侵犯。",
-        "en": "Israel has passed a death penalty law targeting Palestinians, provoking widespread outrage and condemnation from the international community. This law is viewed as a severe violation of human rights.",
-        "de": "Israel hat ein Todesstrafengesetz verabschiedet, das sich gegen Palästinenser richtet, was weltweit Empörung und Verurteilung auslöste. Dieses Gesetz wird als schwerer Verstoß gegen die Menschenrechte angesehen."
+        "zh": "卡塔尔外交部发言人表示，卡塔尔“准备帮助”美伊谈判，显示出该国在地区事务中的调解角色。",
+        "en": "The Qatari Foreign Ministry spokesperson stated that Qatar is 'ready to help' with US-Iran negotiations, highlighting the country's mediating role in regional affairs.",
+        "de": "Der Sprecher des katarischen Außenministeriums erklärte, dass Katar 'bereit ist, bei den US-Iran-Verhandlungen zu helfen', was die Vermittlerrolle des Landes in regionalen Angelegenheiten hervorhebt."
       },
       "source": "Al Jazeera",
       "date": "2026-03-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/outrage-and-condemnation-over-israels-death-penalty-law-for-palestinians?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/qatar-says-ready-to-help-with-us-iran-negotiations?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "英国亲巴勒斯坦活动人士在保释后再次被捕",
-        "en": "UK pro-Palestine activist arrested weeks after being released on bail",
-        "de": "UK-Pro-Palästina-Aktivist wurde Wochen nach seiner Freilassung gegen Kaution verhaftet"
+        "zh": "联合国援助负责人警告南黎巴嫩将出现新的以色列占领",
+        "en": "UN aid chief warns of new Israeli occupation in southern Lebanon",
+        "de": "UN-Hilfschef warnt vor neuer israelischer Besetzung im Süden Libanons"
       },
       "summary": {
-        "zh": "英国亲巴勒斯坦活动人士Qesser Zuhrah在上个月保释后再次被捕，面临恐怖主义指控。这一事件引发了对言论自由和抗议权的关注。",
-        "en": "UK pro-Palestine activist Qesser Zuhrah has been arrested again on terrorism charges weeks after being released on bail. This incident raises concerns about freedom of speech and the right to protest.",
-        "de": "Der britische Pro-Palästina-Aktivist Qesser Zuhrah wurde Wochen nach seiner Freilassung gegen Kaution erneut wegen Terrorismus verhaftet. Dieser Vorfall wirft Fragen zur Meinungsfreiheit und zum Recht auf Protest auf."
+        "zh": "随着以色列扩大对黎巴嫩的入侵，联合国人道主义事务负责人汤姆·弗莱彻询问世界如何为“新占领”做准备。",
+        "en": "As Israel expands its invasion of Lebanon, UN humanitarian chief Tom Fletcher asks how the world will prepare for a 'new addition' to occupied territory.",
+        "de": "Während Israel seine Invasion im Libanon ausweitet, fragt der UN-Hilfschef Tom Fletcher, wie die Welt sich auf eine 'neue Ergänzung' des besetzten Gebiets vorbereiten wird."
       },
       "source": "Al Jazeera",
       "date": "2026-03-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/uk-pro-palestine-activist-arrested-weeks-after-being-released-on-bail-2?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/3/31/un-humanitarian-chief-warns-of-new-israeli-occupation-in-southern-lebanon?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "中国供应商警告美国人由于霍尔木兹海峡关闭而面临更高价格",
+        "zh": "为什么每加仑4美元的汽油价格不会触发美联储加息——并可能导致降息",
+        "en": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
+        "de": "Warum 4 Dollar pro Gallone Benzinpreise keine Zinserhöhungen der Fed auslösen werden – und zu Kürzungen führen könnten"
+      },
+      "summary": {
+        "zh": "尽管关于利率走向仍存在许多不确定性，但华尔街的评论已转向对降息的预期，认为4美元的汽油价格不会引发美联储加息。",
+        "en": "While there is still plenty of uncertainty about where rates are headed, Wall Street commentary has shifted back to expectations for cuts, believing that $4 gas prices will not trigger Fed interest rate hikes.",
+        "de": "Obwohl es noch viele Unsicherheiten über die Richtung der Zinsen gibt, hat sich die Wall-Street-Kommentierung wieder auf die Erwartungen an Zinssenkungen verschoben, da die 4-Dollar-Benzinpreise keine Zinserhöhungen der Fed auslösen werden."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-03-31",
+      "url": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "中国供应商警告由于霍尔木兹海峡关闭，美国价格将上涨",
         "en": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
         "de": "Chinesische Lieferanten warnen vor höheren Preisen für Amerikaner aufgrund der Schließung der Straße von Hormuz"
       },
       "summary": {
-        "zh": "由于霍尔木兹海峡的关闭，中国供应商警告美国消费者将面临更高的商品价格。这一局势可能会对美国经济产生广泛影响。",
-        "en": "Due to the closure of the Strait of Hormuz, Chinese suppliers warn that American consumers will face higher prices for goods. This situation could have widespread implications for the US economy.",
-        "de": "Aufgrund der Schließung der Straße von Hormuz warnen chinesische Lieferanten, dass amerikanische Verbraucher mit höheren Preisen für Waren rechnen müssen. Diese Situation könnte weitreichende Auswirkungen auf die US-Wirtschaft haben."
+        "zh": "伊朗战争导致霍尔木兹海峡的石油及其产品运输停滞，令中国制造商对供应链的担忧加剧，预计美国消费者将面临更高的价格。",
+        "en": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions, with American consumers expected to face higher prices.",
+        "de": "Der Iran-Krieg hat die Lieferungen von Öl und seinen Produkten durch die Straße von Hormuz gestoppt, was bei chinesischen Herstellern Besorgnis über Störungen der Lieferkette aufwirft, wobei amerikanische Verbraucher mit höheren Preisen rechnen müssen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-30",
       "url": "https://www.cnbc.com/2026/03/30/china-suppliers-warn-higher-us-prices-hormuz-closure.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "市场预计美联储可能加息，因通胀担忧加剧",
-        "en": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
-        "de": "Die Märkte sehen den nächsten Schritt der Fed jetzt als mögliche Zinserhöhung, da die Inflationsängste zunehmen"
-      },
-      "summary": {
-        "zh": "随着通胀担忧加剧，市场将美联储的下一个举措视为可能的加息。交易员们对未来几个月的利率变化持谨慎态度。",
-        "en": "As inflation fears mount, markets view the Fed's next move as a potential rate hike. Traders are cautiously assessing the likelihood of interest rate changes in the coming months.",
-        "de": "Da die Inflationsängste zunehmen, betrachten die Märkte den nächsten Schritt der Fed als mögliche Zinserhöhung. Die Händler bewerten vorsichtig die Wahrscheinlichkeit von Änderungen des Zinssatzes in den kommenden Monaten."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-27",
-      "url": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "华尔街衰退几率上升，经济显示出裂痕",
-        "en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
-        "de": "Die Wahrscheinlichkeit einer Rezession steigt an der Wall Street, da die Wirtschaft Risse zeigt"
+        "zh": "消费者信心在三月改善，因对就业市场的乐观情绪超过了因伊朗战争带来的成本上升",
+        "en": "Consumer confidence improves in March as brighter job-market view outweighs surging costs amid Iran war",
+        "de": "Das Verbrauchervertrauen verbessert sich im März, da die optimistische Sicht auf den Arbeitsmarkt die steigenden Kosten im Zuge des Iran-Kriegs überwiegt"
       },
       "summary": {
-        "zh": "随着经济出现裂痕，华尔街的衰退几率上升。经济学家们对未来几个月的经济前景持谨慎态度。",
-        "en": "As the economy shows cracks, recession odds are climbing on Wall Street. Economists are cautiously assessing the economic outlook for the coming months.",
-        "de": "Da die Wirtschaft Risse zeigt, steigen die Rezessionswahrscheinlichkeiten an der Wall Street. Ökonomen bewerten vorsichtig die wirtschaftlichen Aussichten für die kommenden Monate."
+        "zh": "消费者在面对即将到来的更高通货膨胀和利率的预期时，仍对就业市场持乐观态度，显示出对未来经济的信心。",
+        "en": "Consumers remain optimistic about the job market despite expectations of higher inflation and interest rates, indicating confidence in the future economy.",
+        "de": "Die Verbraucher bleiben optimistisch hinsichtlich des Arbeitsmarktes, trotz der Erwartungen an steigende Inflation und Zinssätze, was auf Vertrauen in die zukünftige Wirtschaft hinweist."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-25",
-      "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-03-31",
+      "url": "https://www.marketwatch.com/story/consumer-confidence-improves-in-march-as-brighter-job-market-view-outweighs-surging-costs-amid-war-c6e9ac7c?mod=mw_rss_topstories"
     }
   ]
 }
