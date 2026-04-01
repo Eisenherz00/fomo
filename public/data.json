@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-03-31T17:30:57.555466+00:00",
+  "generatedAt": "2026-04-01T06:12:58.634601+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "转向AI模型定制是建筑上的必要性",
+        "zh": "转向AI模型定制是架构上的必要性",
         "en": "Shifting to AI model customization is an architectural imperative",
-        "de": "Der Wechsel zur Anpassung von KI-Modellen ist eine architektonische Notwendigkeit"
+        "de": "Der Übergang zur Anpassung von KI-Modellen ist eine architektonische Notwendigkeit"
       },
       "summary": {
-        "zh": "大型语言模型（LLM）的早期阶段，我们习惯于每个新模型在推理和编码能力上实现10倍的巨大飞跃。当前，转向AI模型定制已成为一种必要的架构选择。",
-        "en": "In the early days of large language models (LLMs), we became accustomed to massive 10x jumps in reasoning and coding capability with every new model. Currently, shifting to AI model customization has become an architectural necessity.",
-        "de": "In den frühen Tagen der großen Sprachmodelle (LLMs) gewöhnten wir uns an massive 10-fache Sprünge in der Denk- und Codierungsfähigkeit mit jedem neuen Modell. Derzeit ist der Wechsel zur Anpassung von KI-Modellen zu einer architektonischen Notwendigkeit geworden."
+        "zh": "大型语言模型的早期阶段，每个新模型都带来了推理和编码能力的巨大提升。如今，定制化AI模型被视为提升性能的关键。",
+        "en": "In the early stages of large language models, each new model brought significant improvements in reasoning and coding capabilities. Today, customizing AI models is seen as crucial for enhancing performance.",
+        "de": "In den frühen Phasen großer Sprachmodelle brachte jedes neue Modell erhebliche Verbesserungen in den Fähigkeiten des Denkens und Programmierens. Heute wird die Anpassung von KI-Modellen als entscheidend für die Leistungssteigerung angesehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-31",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "AI基准已破碎。我们需要什么",
+        "zh": "AI基准测试已破碎。我们需要什么替代品。",
         "en": "AI benchmarks are broken. Here’s what we need instead.",
         "de": "KI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
       },
       "summary": {
-        "zh": "几十年来，人工智能的评估一直基于机器是否超越人类的问题。当前，AI基准的有效性受到质疑，需要新的评估标准。",
-        "en": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. Currently, the validity of AI benchmarks is being questioned, necessitating new evaluation standards.",
-        "de": "Seit Jahrzehnten wird künstliche Intelligenz danach bewertet, ob Maschinen Menschen übertreffen. Derzeit wird die Gültigkeit von KI-Benchmarks in Frage gestellt, was neue Bewertungsstandards erforderlich macht."
+        "zh": "几十年来，人工智能的评估主要基于机器是否超越人类。现在，专家呼吁重新思考评估标准，以更好地反映AI的实际能力。",
+        "en": "For decades, AI has been evaluated primarily on whether machines outperform humans. Experts are now calling for a rethinking of evaluation standards to better reflect AI's actual capabilities.",
+        "de": "Seit Jahrzehnten wird KI hauptsächlich danach bewertet, ob Maschinen Menschen übertreffen. Experten fordern nun eine Neubewertung der Bewertungsstandards, um die tatsächlichen Fähigkeiten der KI besser widerzuspiegeln."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-31",
@@ -36,68 +36,68 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI健康工具的数量比以往更多——但它们的效果如何？",
-        "en": "There are more AI health tools than ever—but how well do they work?",
-        "de": "Es gibt mehr KI-Gesundheitswerkzeuge als je zuvor – aber wie gut funktionieren sie?"
+        "zh": "量子计算机需要的资源远低于预期以破解重要加密",
+        "en": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+        "de": "Quantencomputer benötigen weit weniger Ressourcen als gedacht, um wichtige Verschlüsselungen zu brechen"
       },
       "summary": {
-        "zh": "本月早些时候，微软推出了Copilot Health，这是其Copilot应用程序中的一个新空间，用户可以在此连接他们的医疗记录。尽管工具数量增加，但其有效性仍需评估。",
-        "en": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users can connect their medical records. Despite the increase in the number of tools, their effectiveness still needs to be assessed.",
-        "de": "Anfang dieses Monats hat Microsoft Copilot Health eingeführt, einen neuen Bereich innerhalb seiner Copilot-App, in dem Benutzer ihre medizinischen Aufzeichnungen verbinden können. Trotz der Zunahme der Anzahl der Werkzeuge muss deren Wirksamkeit weiterhin bewertet werden."
+        "zh": "新的量子计算进展表明，破解重要加密所需的资源远低于预期，这可能会对当前的安全系统构成威胁。",
+        "en": "New advances in quantum computing indicate that the resources needed to break vital encryption are far lower than previously thought, posing a potential threat to current security systems.",
+        "de": "Neue Fortschritte in der Quantencomputing-Technologie zeigen, dass die benötigten Ressourcen zum Brechen wichtiger Verschlüsselungen weit geringer sind als bisher angenommen, was eine potenzielle Bedrohung für aktuelle Sicherheitssysteme darstellt."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-03-30",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
+      "source": "Ars Technica – AI",
+      "date": "2026-03-31",
+      "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗为何相信自己能战胜美国",
-        "en": "Why Iran believes it can outlast the US",
-        "de": "Warum der Iran glaubt, dass er die USA überdauern kann"
+        "zh": "伊拉克以2-1击败玻利维亚，晋级2026年世界杯",
+        "en": "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026",
+        "de": "Irak besiegt Bolivien mit 2:1 und qualifiziert sich für die FIFA-Weltmeisterschaft 2026"
       },
       "summary": {
-        "zh": "伊朗正在为美国的进一步升级做准备，同时坚称自己正在获胜。此战争能否在扩大之前结束？",
-        "en": "Iran is preparing for deeper US escalation while insisting it’s winning. Can this war end before it widens?",
-        "de": "Der Iran bereitet sich auf eine tiefere Eskalation der USA vor und besteht darauf, dass er gewinnt. Kann dieser Krieg enden, bevor er sich ausweitet?"
+        "zh": "伊拉克队在2026年世界杯预选赛中以2-1战胜玻利维亚，成功晋级，这是自1986年以来他们首次进入世界杯。",
+        "en": "Iraq's national team defeated Bolivia 2-1 in the 2026 World Cup qualifiers, successfully qualifying for the tournament for the first time since 1986.",
+        "de": "Die irakische Nationalmannschaft besiegte Bolivien mit 2:1 in den Qualifikationsspielen zur FIFA-Weltmeisterschaft 2026 und qualifizierte sich damit zum ersten Mal seit 1986 für das Turnier."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-31",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/3/31/aje-onl-tt_irn_whatcouldendthewar_av_v2-310326?traffic_source=rss"
+      "date": "2026-04-01",
+      "url": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "卡塔尔表示“准备帮助”美伊谈判",
-        "en": "Qatar says ‘ready to help’ with US-Iran negotiations",
-        "de": "Katar sagt, dass es bereit ist, bei den US-Iran-Verhandlungen zu helfen"
+        "zh": "美国记者在巴格达被绑架",
+        "en": "American journalist kidnapped in Baghdad",
+        "de": "Amerikanischer Journalist in Bagdad entführt"
       },
       "summary": {
-        "zh": "卡塔尔外交部发言人表示，卡塔尔“准备帮助”美伊谈判，显示出该国在地区事务中的调解角色。",
-        "en": "The Qatari Foreign Ministry spokesperson stated that Qatar is 'ready to help' with US-Iran negotiations, highlighting the country's mediating role in regional affairs.",
-        "de": "Der Sprecher des katarischen Außenministeriums erklärte, dass Katar 'bereit ist, bei den US-Iran-Verhandlungen zu helfen', was die Vermittlerrolle des Landes in regionalen Angelegenheiten hervorhebt."
+        "zh": "美国自由记者Shelly Kittleson在巴格达被绑架，相关部门表示她的绑架嫌疑人与伊朗支持的民兵组织有联系。",
+        "en": "American freelance journalist Shelly Kittleson has been kidnapped in Baghdad, with authorities stating that a suspect in her abduction has ties to an Iran-backed militia group.",
+        "de": "Die amerikanische freie Journalistin Shelly Kittleson wurde in Bagdad entführt, wobei die Behörden angaben, dass ein Verdächtiger in ihrer Entführung Verbindungen zu einer von Iran unterstützten Milizgruppe hat."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/31/qatar-says-ready-to-help-with-us-iran-negotiations?traffic_source=rss"
+      "date": "2026-04-01",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/american-journalist-kidnapped-in-baghdad?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "联合国援助负责人警告南黎巴嫩将出现新的以色列占领",
-        "en": "UN aid chief warns of new Israeli occupation in southern Lebanon",
-        "de": "UN-Hilfschef warnt vor neuer israelischer Besetzung im Süden Libanons"
+        "zh": "全球抗议谴责以色列新法案对巴勒斯坦人的死刑",
+        "en": "Global protests condemning Israel’s new death penalty law for Palestinians",
+        "de": "Globale Proteste gegen Israels neues Todesstrafengesetz für Palästinenser"
       },
       "summary": {
-        "zh": "随着以色列扩大对黎巴嫩的入侵，联合国人道主义事务负责人汤姆·弗莱彻询问世界如何为“新占领”做准备。",
-        "en": "As Israel expands its invasion of Lebanon, UN humanitarian chief Tom Fletcher asks how the world will prepare for a 'new addition' to occupied territory.",
-        "de": "Während Israel seine Invasion im Libanon ausweitet, fragt der UN-Hilfschef Tom Fletcher, wie die Welt sich auf eine 'neue Ergänzung' des besetzten Gebiets vorbereiten wird."
+        "zh": "抗议者谴责以色列新法案，该法案将对某些巴勒斯坦人的死刑作为默认惩罚，引发全球范围的抗议活动。",
+        "en": "Protesters are condemning Israel's new bill that makes the death penalty the default punishment for some Palestinians, sparking global protests.",
+        "de": "Demonstranten verurteilen Israels neues Gesetz, das die Todesstrafe zur Standardstrafe für einige Palästinenser macht, was weltweit Proteste auslöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-03-31",
-      "url": "https://www.aljazeera.com/news/2026/3/31/un-humanitarian-chief-warns-of-new-israeli-occupation-in-southern-lebanon?traffic_source=rss"
+      "date": "2026-04-01",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/global-protests-condemning-israels-new-death-penalty-law-for-palestinians?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -106,12 +106,12 @@
       "title": {
         "zh": "为什么每加仑4美元的汽油价格不会触发美联储加息——并可能导致降息",
         "en": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
-        "de": "Warum 4 Dollar pro Gallone Benzinpreise keine Zinserhöhungen der Fed auslösen werden – und zu Kürzungen führen könnten"
+        "de": "Warum 4 Dollar pro Gallone Benzinpreise keine Zinserhöhungen der Fed auslösen werden – und zu Senkungen führen könnten"
       },
       "summary": {
-        "zh": "尽管关于利率走向仍存在许多不确定性，但华尔街的评论已转向对降息的预期，认为4美元的汽油价格不会引发美联储加息。",
-        "en": "While there is still plenty of uncertainty about where rates are headed, Wall Street commentary has shifted back to expectations for cuts, believing that $4 gas prices will not trigger Fed interest rate hikes.",
-        "de": "Obwohl es noch viele Unsicherheiten über die Richtung der Zinsen gibt, hat sich die Wall-Street-Kommentierung wieder auf die Erwartungen an Zinssenkungen verschoben, da die 4-Dollar-Benzinpreise keine Zinserhöhungen der Fed auslösen werden."
+        "zh": "尽管对利率走向仍存在不确定性，华尔街的评论已转向对降息的预期，认为4美元的汽油价格不会导致美联储加息。",
+        "en": "Despite uncertainty about the direction of interest rates, Wall Street commentary has shifted towards expectations for cuts, believing that $4 gas prices will not trigger Fed rate hikes.",
+        "de": "Trotz der Unsicherheit über die Richtung der Zinssätze hat sich die Wall-Street-Kommentierung in Richtung der Erwartungen an Zinssenkungen verschoben, da man glaubt, dass 4-Dollar-Benzinpreise keine Zinserhöhungen der Fed auslösen werden."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-31",
@@ -122,12 +122,12 @@
       "title": {
         "zh": "中国供应商警告由于霍尔木兹海峡关闭，美国价格将上涨",
         "en": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
-        "de": "Chinesische Lieferanten warnen vor höheren Preisen für Amerikaner aufgrund der Schließung der Straße von Hormuz"
+        "de": "Chinesische Lieferanten warnen vor höheren Preisen für Amerikaner aufgrund der Schließung der Straße von Hormus"
       },
       "summary": {
-        "zh": "伊朗战争导致霍尔木兹海峡的石油及其产品运输停滞，令中国制造商对供应链的担忧加剧，预计美国消费者将面临更高的价格。",
-        "en": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions, with American consumers expected to face higher prices.",
-        "de": "Der Iran-Krieg hat die Lieferungen von Öl und seinen Produkten durch die Straße von Hormuz gestoppt, was bei chinesischen Herstellern Besorgnis über Störungen der Lieferkette aufwirft, wobei amerikanische Verbraucher mit höheren Preisen rechnen müssen."
+        "zh": "由于伊朗战争导致霍尔木兹海峡的石油和产品运输停滞，中国制造商对美国市场的价格上涨表示担忧。",
+        "en": "Due to the Iran war halting shipments of oil and its products through the Strait of Hormuz, Chinese manufacturers are concerned about price increases in the U.S. market.",
+        "de": "Wegen des Iran-Kriegs, der die Lieferungen von Öl und seinen Produkten durch die Straße von Hormus stoppt, sind chinesische Hersteller besorgt über Preiserhöhungen auf dem US-Markt."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-30",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "消费者信心在三月改善，因对就业市场的乐观情绪超过了因伊朗战争带来的成本上升",
-        "en": "Consumer confidence improves in March as brighter job-market view outweighs surging costs amid Iran war",
-        "de": "Das Verbrauchervertrauen verbessert sich im März, da die optimistische Sicht auf den Arbeitsmarkt die steigenden Kosten im Zuge des Iran-Kriegs überwiegt"
+        "zh": "耐克预计销售将继续下降，股价因转型未见成效而下跌",
+        "en": "Nike expects more falling sales, as stock sinks amid worries turnaround is not working",
+        "de": "Nike erwartet weiter sinkende Verkaufszahlen, da die Aktie aufgrund von Bedenken über das Scheitern der Wende sinkt"
       },
       "summary": {
-        "zh": "消费者在面对即将到来的更高通货膨胀和利率的预期时，仍对就业市场持乐观态度，显示出对未来经济的信心。",
-        "en": "Consumers remain optimistic about the job market despite expectations of higher inflation and interest rates, indicating confidence in the future economy.",
-        "de": "Die Verbraucher bleiben optimistisch hinsichtlich des Arbeitsmarktes, trotz der Erwartungen an steigende Inflation und Zinssätze, was auf Vertrauen in die zukünftige Wirtschaft hinweist."
+        "zh": "耐克在季度财报中报告的业绩略好于华尔街预期，但投资者仍对其转型计划的有效性表示怀疑，导致股价下跌。",
+        "en": "Nike reported quarterly results that were slightly better than Wall Street's expectations, but investors remain skeptical about the effectiveness of its turnaround plan, leading to a decline in stock prices.",
+        "de": "Nike meldete vierteljährliche Ergebnisse, die leicht über den Erwartungen der Wall Street lagen, aber die Anleger bleiben skeptisch gegenüber der Wirksamkeit seines Umstrukturierungsplans, was zu einem Rückgang der Aktienkurse führte."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-03-31",
-      "url": "https://www.marketwatch.com/story/consumer-confidence-improves-in-march-as-brighter-job-market-view-outweighs-surging-costs-amid-war-c6e9ac7c?mod=mw_rss_topstories"
+      "date": "2026-04-01",
+      "url": "https://www.marketwatch.com/story/nikes-results-were-better-than-expected-but-investors-still-arent-sold-on-its-turnaround-ef2d3b70?mod=mw_rss_topstories"
     }
   ]
 }
