@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-01T06:12:58.634601+00:00",
+  "generatedAt": "2026-04-01T17:16:14.223160+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "转向AI模型定制是架构上的必要性",
-        "en": "Shifting to AI model customization is an architectural imperative",
-        "de": "Der Übergang zur Anpassung von KI-Modellen ist eine architektonische Notwendigkeit"
+        "zh": "下载：零工工作者训练类人机器人，以及更好的人工智能基准",
+        "en": "The Download: gig workers training humanoids, and better AI benchmarks",
+        "de": "Der Download: Gig-Arbeiter trainieren Humanoide und bessere KI-Benchmarks"
       },
       "summary": {
-        "zh": "大型语言模型的早期阶段，每个新模型都带来了推理和编码能力的巨大提升。如今，定制化AI模型被视为提升性能的关键。",
-        "en": "In the early stages of large language models, each new model brought significant improvements in reasoning and coding capabilities. Today, customizing AI models is seen as crucial for enhancing performance.",
-        "de": "In den frühen Phasen großer Sprachmodelle brachte jedes neue Modell erhebliche Verbesserungen in den Fähigkeiten des Denkens und Programmierens. Heute wird die Anpassung von KI-Modellen als entscheidend für die Leistungssteigerung angesehen."
+        "zh": "本期《下载》介绍了零工工作者如何在家中训练类人机器人，并探讨了人工智能基准的改进。随着技术的发展，零工经济在人工智能领域的作用日益重要。",
+        "en": "This edition of The Download discusses how gig workers are training humanoid robots at home and explores improvements in AI benchmarks. The role of the gig economy in the AI sector is becoming increasingly significant as technology advances.",
+        "de": "In dieser Ausgabe des Downloads wird erörtert, wie Gig-Arbeiter zu Hause humanoide Roboter trainieren und Verbesserungen bei KI-Benchmarks untersucht. Die Rolle der Gig-Economie im KI-Sektor wird mit dem Fortschritt der Technologie zunehmend bedeutender."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-31",
-      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
+      "date": "2026-04-01",
+      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "AI基准测试已破碎。我们需要什么替代品。",
-        "en": "AI benchmarks are broken. Here’s what we need instead.",
-        "de": "KI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
+        "zh": "在家训练类人机器人的零工工作者",
+        "en": "The gig workers who are training humanoid robots at home",
+        "de": "Die Gig-Arbeiter, die zu Hause humanoide Roboter trainieren"
       },
       "summary": {
-        "zh": "几十年来，人工智能的评估主要基于机器是否超越人类。现在，专家呼吁重新思考评估标准，以更好地反映AI的实际能力。",
-        "en": "For decades, AI has been evaluated primarily on whether machines outperform humans. Experts are now calling for a rethinking of evaluation standards to better reflect AI's actual capabilities.",
-        "de": "Seit Jahrzehnten wird KI hauptsächlich danach bewertet, ob Maschinen Menschen übertreffen. Experten fordern nun eine Neubewertung der Bewertungsstandards, um die tatsächlichen Fähigkeiten der KI besser widerzuspiegeln."
+        "zh": "这篇文章讲述了尼日利亚一名医学生如何利用零工经济在家中训练类人机器人。此举不仅为技术进步提供了新思路，也为零工工作者创造了新的就业机会。",
+        "en": "This article tells the story of a medical student in Nigeria who utilizes the gig economy to train humanoid robots at home. This initiative not only provides new insights for technological advancement but also creates new job opportunities for gig workers.",
+        "de": "Dieser Artikel erzählt die Geschichte eines Medizinstudenten in Nigeria, der die Gig-Economie nutzt, um zu Hause humanoide Roboter zu trainieren. Diese Initiative bietet nicht nur neue Einblicke in den technologischen Fortschritt, sondern schafft auch neue Beschäftigungsmöglichkeiten für Gig-Arbeiter."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-31",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
+      "date": "2026-04-01",
+      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "量子计算机需要的资源远低于预期以破解重要加密",
-        "en": "Quantum computers need vastly fewer resources than thought to break vital encryption",
-        "de": "Quantencomputer benötigen weit weniger Ressourcen als gedacht, um wichtige Verschlüsselungen zu brechen"
+        "zh": "人工智能基准已破碎。我们需要什么替代品",
+        "en": "AI benchmarks are broken. Here’s what we need instead.",
+        "de": "KI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
       },
       "summary": {
-        "zh": "新的量子计算进展表明，破解重要加密所需的资源远低于预期，这可能会对当前的安全系统构成威胁。",
-        "en": "New advances in quantum computing indicate that the resources needed to break vital encryption are far lower than previously thought, posing a potential threat to current security systems.",
-        "de": "Neue Fortschritte in der Quantencomputing-Technologie zeigen, dass die benötigten Ressourcen zum Brechen wichtiger Verschlüsselungen weit geringer sind als bisher angenommen, was eine potenzielle Bedrohung für aktuelle Sicherheitssysteme darstellt."
+        "zh": "文章探讨了当前人工智能基准的不足之处，并提出了新的评估标准，以更好地衡量人工智能系统的性能和能力。对未来人工智能发展的影响深远。",
+        "en": "The article discusses the shortcomings of current AI benchmarks and proposes new evaluation standards to better assess the performance and capabilities of AI systems. The implications for the future of AI development are profound.",
+        "de": "Der Artikel erörtert die Mängel der aktuellen KI-Benchmarks und schlägt neue Bewertungsstandards vor, um die Leistung und Fähigkeiten von KI-Systemen besser zu beurteilen. Die Auswirkungen auf die zukünftige Entwicklung von KI sind tiefgreifend."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-03-31",
-      "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊拉克以2-1击败玻利维亚，晋级2026年世界杯",
-        "en": "Iraq defeat Bolivia 2-1 to qualify for FIFA World Cup 2026",
-        "de": "Irak besiegt Bolivien mit 2:1 und qualifiziert sich für die FIFA-Weltmeisterschaft 2026"
+        "zh": "伊朗官员对特朗普声称伊朗要求停火的说法表示“嘲笑”",
+        "en": "Iranian officials ‘laugh’ at Trump’s claim Iran wants a ceasefire",
+        "de": "Iranische Beamte ‚lachen‘ über Trumps Behauptung, Iran wolle einen Waffenstillstand"
       },
       "summary": {
-        "zh": "伊拉克队在2026年世界杯预选赛中以2-1战胜玻利维亚，成功晋级，这是自1986年以来他们首次进入世界杯。",
-        "en": "Iraq's national team defeated Bolivia 2-1 in the 2026 World Cup qualifiers, successfully qualifying for the tournament for the first time since 1986.",
-        "de": "Die irakische Nationalmannschaft besiegte Bolivien mit 2:1 in den Qualifikationsspielen zur FIFA-Weltmeisterschaft 2026 und qualifizierte sich damit zum ersten Mal seit 1986 für das Turnier."
+        "zh": "伊朗高级官员对特朗普声称伊朗要求停火的说法表示嘲笑，认为这一说法毫无根据。这一事件突显了美伊关系的紧张局势。",
+        "en": "Senior Iranian officials laughed at Trump's claim that Iran asked for a ceasefire, deeming it baseless. This incident highlights the tense relations between the U.S. and Iran.",
+        "de": "Hohe iranische Beamte lachten über Trumps Behauptung, Iran habe um einen Waffenstillstand gebeten, und hielten sie für unbegründet. Dieser Vorfall hebt die angespannten Beziehungen zwischen den USA und dem Iran hervor."
       },
       "source": "Al Jazeera",
       "date": "2026-04-01",
-      "url": "https://www.aljazeera.com/sports/2026/4/1/iraq-defeat-bolivia-2-1-to-qualify-for-fifa-world-cup-2026?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/iranian-officials-laugh-at-trumps-claim-iran-wants-a-ceasefire?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国记者在巴格达被绑架",
-        "en": "American journalist kidnapped in Baghdad",
-        "de": "Amerikanischer Journalist in Bagdad entführt"
+        "zh": "肯尼亚茶叶产业因美以对伊朗的战争而遭受危机",
+        "en": "Kenya’s tea industry suffers crisis caused by the US-Israeli war on Iran",
+        "de": "Kenyas Teewirtschaft leidet unter einer Krise, die durch den US-israelischen Krieg gegen den Iran verursacht wurde"
       },
       "summary": {
-        "zh": "美国自由记者Shelly Kittleson在巴格达被绑架，相关部门表示她的绑架嫌疑人与伊朗支持的民兵组织有联系。",
-        "en": "American freelance journalist Shelly Kittleson has been kidnapped in Baghdad, with authorities stating that a suspect in her abduction has ties to an Iran-backed militia group.",
-        "de": "Die amerikanische freie Journalistin Shelly Kittleson wurde in Bagdad entführt, wobei die Behörden angaben, dass ein Verdächtiger in ihrer Entführung Verbindungen zu einer von Iran unterstützten Milizgruppe hat."
+        "zh": "由于美以对伊朗的战争，肯尼亚的茶农面临危机，主要出口路线受到干扰。这一局势对肯尼亚经济产生了重大影响。",
+        "en": "Kenyan tea farmers are facing a crisis due to the disruption of key export routes caused by the US-Israeli war on Iran. This situation has significant implications for Kenya's economy.",
+        "de": "Kenyas Teebauern stehen aufgrund der Störung wichtiger Exportwege durch den US-israelischen Krieg gegen den Iran vor einer Krise. Diese Situation hat erhebliche Auswirkungen auf die kenianische Wirtschaft."
       },
       "source": "Al Jazeera",
       "date": "2026-04-01",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/american-journalist-kidnapped-in-baghdad?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/kenyas-tea-industry-suffers-crisis-caused-by-the-us-israeli-war-on-iran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "全球抗议谴责以色列新法案对巴勒斯坦人的死刑",
-        "en": "Global protests condemning Israel’s new death penalty law for Palestinians",
-        "de": "Globale Proteste gegen Israels neues Todesstrafengesetz für Palästinenser"
+        "zh": "历史上最大的普查：印度的新人口统计为何引发争议",
+        "en": "History’s biggest census: Why India’s new population count is controversial",
+        "de": "Die größte Volkszählung der Geschichte: Warum Indiens neue Bevölkerungszählung umstritten ist"
       },
       "summary": {
-        "zh": "抗议者谴责以色列新法案，该法案将对某些巴勒斯坦人的死刑作为默认惩罚，引发全球范围的抗议活动。",
-        "en": "Protesters are condemning Israel's new bill that makes the death penalty the default punishment for some Palestinians, sparking global protests.",
-        "de": "Demonstranten verurteilen Israels neues Gesetz, das die Todesstrafe zur Standardstrafe für einige Palästinenser macht, was weltweit Proteste auslöst."
+        "zh": "印度的新一轮人口普查因首次纳入种姓统计而引发争议。这一延迟了五年的普查将对印度社会产生深远影响。",
+        "en": "India's new population count, which includes caste enumeration for the first time in a century, has sparked controversy. This census, delayed by five years, will have profound implications for Indian society.",
+        "de": "Indiens neue Bevölkerungszählung, die zum ersten Mal seit einem Jahrhundert eine Kastenaufzählung umfasst, hat Kontroversen ausgelöst. Diese Volkszählung, die um fünf Jahre verzögert wurde, wird tiefgreifende Auswirkungen auf die indische Gesellschaft haben."
       },
       "source": "Al Jazeera",
       "date": "2026-04-01",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/1/global-protests-condemning-israels-new-death-penalty-law-for-palestinians?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/1/historys-biggest-census-why-indias-new-population-count-is-controversial?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "为什么每加仑4美元的汽油价格不会触发美联储加息——并可能导致降息",
+        "zh": "ADP称，3月份私营部门招聘总数为62,000，高于预期",
+        "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
+        "de": "ADP sagt, dass die Einstellung im privaten Sektor im März 62.000 betrug, besser als erwartet"
+      },
+      "summary": {
+        "zh": "ADP报告显示，3月份私营部门的招聘人数达到62,000，超出预期，主要由医疗和建筑行业推动。这表明就业市场依然强劲。",
+        "en": "ADP reports that private sector hiring totaled 62,000 in March, exceeding expectations, primarily driven by the healthcare and construction sectors. This indicates that the job market remains robust.",
+        "de": "ADP berichtet, dass die Einstellung im privaten Sektor im März 62.000 betrug, was die Erwartungen übertraf und hauptsächlich von den Sektoren Gesundheitswesen und Bauwesen angetrieben wurde. Dies deutet darauf hin, dass der Arbeitsmarkt robust bleibt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-01",
+      "url": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "为什么每加仑4美元的汽油价格不会引发美联储加息——并可能导致降息",
         "en": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
         "de": "Warum 4 Dollar pro Gallone Benzinpreise keine Zinserhöhungen der Fed auslösen werden – und zu Senkungen führen könnten"
       },
       "summary": {
-        "zh": "尽管对利率走向仍存在不确定性，华尔街的评论已转向对降息的预期，认为4美元的汽油价格不会导致美联储加息。",
-        "en": "Despite uncertainty about the direction of interest rates, Wall Street commentary has shifted towards expectations for cuts, believing that $4 gas prices will not trigger Fed rate hikes.",
-        "de": "Trotz der Unsicherheit über die Richtung der Zinssätze hat sich die Wall-Street-Kommentierung in Richtung der Erwartungen an Zinssenkungen verschoben, da man glaubt, dass 4-Dollar-Benzinpreise keine Zinserhöhungen der Fed auslösen werden."
+        "zh": "尽管汽油价格达到每加仑4美元，但分析师认为这不会导致美联储加息，反而可能会促使降息。这反映出市场对未来经济形势的复杂预期。",
+        "en": "Despite gas prices reaching $4 a gallon, analysts believe this will not trigger Fed interest rate hikes but could instead lead to cuts. This reflects the complex expectations of the market regarding future economic conditions.",
+        "de": "Trotz der Benzinpreise von 4 Dollar pro Gallone glauben Analysten, dass dies keine Zinserhöhungen der Fed auslösen, sondern stattdessen zu Senkungen führen könnte. Dies spiegelt die komplexen Erwartungen des Marktes hinsichtlich zukünftiger wirtschaftlicher Bedingungen wider."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-31",
       "url": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
         "zh": "中国供应商警告由于霍尔木兹海峡关闭，美国价格将上涨",
         "en": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
-        "de": "Chinesische Lieferanten warnen vor höheren Preisen für Amerikaner aufgrund der Schließung der Straße von Hormus"
+        "de": "Chinesische Lieferanten warnen vor höheren Preisen für Amerikaner aufgrund der Schließung der Straße von Hormuz"
       },
       "summary": {
-        "zh": "由于伊朗战争导致霍尔木兹海峡的石油和产品运输停滞，中国制造商对美国市场的价格上涨表示担忧。",
-        "en": "Due to the Iran war halting shipments of oil and its products through the Strait of Hormuz, Chinese manufacturers are concerned about price increases in the U.S. market.",
-        "de": "Wegen des Iran-Kriegs, der die Lieferungen von Öl und seinen Produkten durch die Straße von Hormus stoppt, sind chinesische Hersteller besorgt über Preiserhöhungen auf dem US-Markt."
+        "zh": "由于霍尔木兹海峡的关闭，中国供应商警告美国消费者将面临更高的价格。这一局势可能会影响美国的供应链和消费市场。",
+        "en": "Due to the closure of the Strait of Hormuz, Chinese suppliers are warning that American consumers will face higher prices. This situation could impact the U.S. supply chain and consumer market.",
+        "de": "Aufgrund der Schließung der Straße von Hormuz warnen chinesische Lieferanten, dass amerikanische Verbraucher mit höheren Preisen rechnen müssen. Diese Situation könnte die US-Lieferkette und den Verbrauchermarkt beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-03-30",
       "url": "https://www.cnbc.com/2026/03/30/china-suppliers-warn-higher-us-prices-hormuz-closure.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "耐克预计销售将继续下降，股价因转型未见成效而下跌",
-        "en": "Nike expects more falling sales, as stock sinks amid worries turnaround is not working",
-        "de": "Nike erwartet weiter sinkende Verkaufszahlen, da die Aktie aufgrund von Bedenken über das Scheitern der Wende sinkt"
-      },
-      "summary": {
-        "zh": "耐克在季度财报中报告的业绩略好于华尔街预期，但投资者仍对其转型计划的有效性表示怀疑，导致股价下跌。",
-        "en": "Nike reported quarterly results that were slightly better than Wall Street's expectations, but investors remain skeptical about the effectiveness of its turnaround plan, leading to a decline in stock prices.",
-        "de": "Nike meldete vierteljährliche Ergebnisse, die leicht über den Erwartungen der Wall Street lagen, aber die Anleger bleiben skeptisch gegenüber der Wirksamkeit seines Umstrukturierungsplans, was zu einem Rückgang der Aktienkurse führte."
-      },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-04-01",
-      "url": "https://www.marketwatch.com/story/nikes-results-were-better-than-expected-but-investors-still-arent-sold-on-its-turnaround-ef2d3b70?mod=mw_rss_topstories"
     }
   ]
 }
