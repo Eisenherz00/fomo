@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-04-02T05:57:27.740921+00:00",
+  "generatedAt": "2026-04-02T17:14:00.047368+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：零工培训类人机器人，以及更好的AI基准",
-        "en": "The Download: gig workers training humanoids, and better AI benchmarks",
-        "de": "Der Download: Gig-Arbeiter trainieren Humanoiden und bessere KI-Benchmarks"
+        "zh": "燃料价格飙升。塑料可能是下一个。",
+        "en": "Fuel prices are soaring. Plastic could be next.",
+        "de": "Die Kraftstoffpreise steigen. Kunststoff könnte der Nächste sein."
       },
       "summary": {
-        "zh": "本期《下载》介绍了零工如何在家中培训类人机器人，并探讨了AI基准的改进。随着技术的发展，AI的评估标准也在不断演变。",
-        "en": "This edition of The Download discusses how gig workers are training humanoid robots at home and explores improvements in AI benchmarks. As technology evolves, the standards for evaluating AI are also changing.",
-        "de": "In dieser Ausgabe des Downloads wird erörtert, wie Gig-Arbeiter zu Hause Humanoiden trainieren, und es werden Verbesserungen bei KI-Benchmarks untersucht. Mit der Weiterentwicklung der Technologie ändern sich auch die Standards zur Bewertung von KI."
+        "zh": "随着伊朗战争的持续，燃料价格的上涨可能会对塑料行业产生重大影响。分析指出，塑料的生产成本可能会因此而增加。",
+        "en": "As the war in Iran continues, rising fuel prices may significantly impact the plastic industry. Analysis suggests that production costs for plastic could increase as a result.",
+        "de": "Da der Krieg im Iran andauert, könnten steigende Kraftstoffpreise erhebliche Auswirkungen auf die Kunststoffindustrie haben. Analysen deuten darauf hin, dass die Produktionskosten für Kunststoff dadurch steigen könnten."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-01",
-      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
+      "date": "2026-04-02",
+      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "在家培训类人机器人的零工",
-        "en": "The gig workers who are training humanoid robots at home",
-        "de": "Die Gig-Arbeiter, die zu Hause humanoide Roboter trainieren"
+        "zh": "自我传播的恶意软件毒害开源软件并清除伊朗机器",
+        "en": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+        "de": "Selbstverbreitende Malware vergiftet Open-Source-Software und löscht iranische Maschinen."
       },
       "summary": {
-        "zh": "这篇文章讲述了一位尼日利亚医学生如何在家中参与培训类人机器人，展示了零工经济在AI发展中的新角色。",
-        "en": "This article tells the story of a medical student in Nigeria who participates in training humanoid robots at home, showcasing the new role of the gig economy in AI development.",
-        "de": "Dieser Artikel erzählt die Geschichte eines Medizinstudenten in Nigeria, der zu Hause humanoide Roboter trainiert, und zeigt die neue Rolle der Gig-Economie in der KI-Entwicklung."
+        "zh": "一种自我传播的恶意软件正在影响开源软件，并导致伊朗的计算机被清除。开发者被警告检查他们的网络以防感染。",
+        "en": "A self-propagating malware is affecting open source software and causing computers in Iran to be wiped. Developers are warned to check their networks for infections.",
+        "de": "Eine sich selbst verbreitende Malware beeinträchtigt Open-Source-Software und führt dazu, dass Computer im Iran gelöscht werden. Entwickler werden gewarnt, ihre Netzwerke auf Infektionen zu überprüfen."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-04-01",
-      "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
+      "source": "Ars Technica – AI",
+      "date": "2026-03-24",
+      "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI基准已破损。我们需要什么",
-        "en": "AI benchmarks are broken. Here’s what we need instead.",
-        "de": "KI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
+        "zh": "量子计算机需要比想象中更少的资源来破解重要加密",
+        "en": "Quantum computers need vastly fewer resources than thought to break vital encryption",
+        "de": "Quantencomputer benötigen weit weniger Ressourcen als gedacht, um wichtige Verschlüsselungen zu brechen."
       },
       "summary": {
-        "zh": "文章探讨了当前AI基准的缺陷，并提出了新的评估方法，以更好地反映AI的能力和性能。",
-        "en": "The article discusses the flaws in current AI benchmarks and proposes new evaluation methods to better reflect the capabilities and performance of AI.",
-        "de": "Der Artikel erörtert die Mängel der aktuellen KI-Benchmarks und schlägt neue Bewertungsmethoden vor, um die Fähigkeiten und Leistungen von KI besser widerzuspiegeln."
+        "zh": "最新研究表明，量子计算机在破解重要加密方面所需的资源远低于预期。这一发现可能会对网络安全产生重大影响。",
+        "en": "Recent research indicates that quantum computers require far fewer resources than previously thought to break vital encryption. This finding could have significant implications for cybersecurity.",
+        "de": "Jüngste Forschungen zeigen, dass Quantencomputer weit weniger Ressourcen benötigen als zuvor gedacht, um wichtige Verschlüsselungen zu brechen. Diese Erkenntnis könnte erhebliche Auswirkungen auf die Cybersicherheit haben."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-03-31",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
+      "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普关于伊朗战争的黄金时段演讲：关键要点",
-        "en": "Trump’s primetime speech on Iran war: Key takeaways",
-        "de": "Trumps Primetime-Rede zum Iran-Krieg: Wichtige Erkenntnisse"
+        "zh": "加沙抗议以色列对巴勒斯坦死刑法的批准",
+        "en": "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
+        "de": "Video: Proteste im Gazastreifen gegen Israels palästinensisches Todesstrafengesetz"
       },
       "summary": {
-        "zh": "特朗普在黄金时段的演讲中表示，美国在伊朗战争中接近实现目标，并承诺将伊朗轰炸至“石器时代”。",
-        "en": "In his primetime speech, Trump stated that the U.S. is getting very close to achieving its goals in the Iran war and promised to bomb Iran into the 'Stone Ages'.",
-        "de": "In seiner Primetime-Rede erklärte Trump, dass die USA sehr nah daran sind, ihre Ziele im Iran-Krieg zu erreichen, und versprach, den Iran in die 'Steinzeit' zu bombardieren."
+        "zh": "加沙的巴勒斯坦人抗议以色列政府批准针对巴勒斯坦囚犯的死刑法。这一法案引发了广泛的愤怒和抗议活动。",
+        "en": "Palestinians in Gaza protested against the Israeli government's approval of a death penalty law for Palestinian prisoners. The legislation has sparked widespread anger and protests.",
+        "de": "Palästinenser im Gazastreifen protestierten gegen die Genehmigung eines Todesstrafengesetzes für palästinensische Gefangene durch die israelische Regierung. Das Gesetz hat weit verbreitete Wut und Proteste ausgelöst."
       },
       "source": "Al Jazeera",
       "date": "2026-04-02",
-      "url": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/video-protests-in-gaza-against-israels-palestinian-death-penalty-law?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普的国家演讲被指“尴尬、不连贯”",
-        "en": "Trump’s national address on Iran ’embarrassing, incoherent’",
-        "de": "Trumps nationale Ansprache zum Iran 'peinlich, unzusammenhängend'"
+        "zh": "巴基斯坦和阿富汗在中国举行会谈以结束数月冲突",
+        "en": "Pakistan, Afghanistan hold talks in China to end months of conflict",
+        "de": "Pakistan und Afghanistan führen Gespräche in China, um monatelange Konflikte zu beenden."
       },
       "summary": {
-        "zh": "前美国海军高级军官哈兰·乌尔曼批评特朗普的国家演讲，称其内容尴尬且不连贯。",
-        "en": "Former senior U.S. naval officer Harlan Ullman criticized Trump's national address, calling it embarrassing and incoherent.",
-        "de": "Der ehemalige hochrangige US-Marineoffizier Harlan Ullman kritisierte Trumps nationale Ansprache und nannte sie peinlich und unzusammenhängend."
+        "zh": "巴基斯坦和阿富汗在中国举行会谈，旨在结束两国之间的数月冲突。中国在调解这一谈判中发挥了重要作用。",
+        "en": "Pakistan and Afghanistan held talks in China aimed at ending months of conflict between the two nations. China has played a significant role in mediating the negotiations.",
+        "de": "Pakistan und Afghanistan führten Gespräche in China, um monatelange Konflikte zwischen den beiden Ländern zu beenden. China hat eine bedeutende Rolle bei der Vermittlung der Verhandlungen gespielt."
       },
       "source": "Al Jazeera",
       "date": "2026-04-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trumps-national-address-on-iran-embarrassing?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普声称在32天内在伊朗取得“成功”",
-        "en": "Trump claims ‘success’ in Iran in just 32 days compared to lengthy US wars",
-        "de": "Trump behauptet, in nur 32 Tagen in Iran 'Erfolg' gehabt zu haben, im Vergleich zu langen US-Kriegen"
+        "zh": "伊朗发布嘲讽特朗普威胁的导弹发射视频",
+        "en": "Iran releases mocking missile launch video after Trump threats",
+        "de": "Iran veröffentlicht verspottendes Video eines Raketenstarts nach Drohungen von Trump."
       },
       "summary": {
-        "zh": "特朗普表示，伊朗不再是中东的威胁，并声称在32天内取得了成功，这与美国以往的漫长战争形成对比。",
-        "en": "Trump stated that Iran is no longer a threat in the Middle East and claimed success in just 32 days, contrasting it with lengthy U.S. wars.",
-        "de": "Trump erklärte, dass der Iran keine Bedrohung mehr im Nahen Osten darstellt, und behauptete, in nur 32 Tagen Erfolg gehabt zu haben, was im Gegensatz zu den langen US-Kriegen steht."
+        "zh": "伊朗国家媒体发布了一段导弹发射视频，内容嘲讽特朗普的威胁。这一举动加剧了与美国的紧张关系。",
+        "en": "Iranian state media released a video of a missile launch mocking Trump's threats. This move escalates tensions with the United States.",
+        "de": "Iranische Staatsmedien veröffentlichten ein Video eines Raketenstarts, das die Drohungen von Trump verspottet. Dieser Schritt eskaliert die Spannungen mit den Vereinigten Staaten."
       },
       "source": "Al Jazeera",
       "date": "2026-04-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-releases-mocking-missile-launch-video-after-trump-threats?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "私人部门3月份新增就业62,000人，超出预期",
+        "zh": "私营部门3月份的招聘总数为62,000，超出预期",
         "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
-        "de": "Die Beschäftigung im privaten Sektor belief sich im März auf 62.000, besser als erwartet, so ADP"
+        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, sagt ADP."
       },
       "summary": {
-        "zh": "ADP报告显示，3月份私人部门新增62,000个就业岗位，超出预期，医疗和建筑行业继续推动就业增长。",
-        "en": "ADP reports that private sector hiring totaled 62,000 jobs in March, exceeding expectations, with healthcare and construction continuing to drive employment growth.",
-        "de": "ADP berichtet, dass die Beschäftigung im privaten Sektor im März 62.000 Arbeitsplätze betrug, was die Erwartungen übertraf, wobei das Gesundheitswesen und der Bau weiterhin das Beschäftigungswachstum antreiben."
+        "zh": "ADP报告称，3月份私营部门的招聘人数达到62,000，超出预期。这一增长主要由医疗和建筑行业推动。",
+        "en": "ADP reports that private sector hiring totaled 62,000 in March, exceeding expectations. This growth was primarily driven by the healthcare and construction sectors.",
+        "de": "ADP berichtet, dass die Einstellungen im privaten Sektor im März 62.000 betrugen, was die Erwartungen übertraf. Dieses Wachstum wurde hauptsächlich von den Sektoren Gesundheitswesen und Bauwesen angetrieben."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-01",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "$4的油价不会触发美联储加息——可能导致降息",
-        "en": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
-        "de": "Warum 4 Dollar pro Gallone Benzinpreise keine Zinserhöhungen der Fed auslösen werden – und zu Senkungen führen könnten"
+        "zh": "全球预测机构预计今年美国通胀率为4.2%，远高于美联储估计",
+        "en": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
+        "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2%, viel höher als die Schätzung der Fed."
       },
       "summary": {
-        "zh": "尽管对利率走向仍存在不确定性，但华尔街的评论转向了对降息的预期，认为油价不会导致美联储加息。",
-        "en": "Despite uncertainty about the direction of interest rates, Wall Street commentary has shifted to expectations for cuts, believing that gas prices will not trigger Fed rate hikes.",
-        "de": "Trotz der Unsicherheit über die Richtung der Zinssätze hat sich der Kommentar an der Wall Street auf die Erwartungen an Zinssenkungen verschoben, da man glaubt, dass die Benzinpreise keine Zinserhöhungen der Fed auslösen werden."
+        "zh": "全球预测机构预计，美国今年的通胀率将达到4.2%，远高于美联储的2.7%估计。这一预测可能会影响市场情绪。",
+        "en": "A global forecasting group predicts U.S. inflation will reach 4.2% this year, significantly higher than the Fed's estimate of 2.7%. This forecast could impact market sentiment.",
+        "de": "Eine globale Prognosegruppe sagt voraus, dass die US-Inflation in diesem Jahr 4,2% erreichen wird, was deutlich höher ist als die Schätzung der Fed von 2,7%. Diese Prognose könnte die Marktentwicklung beeinflussen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-31",
-      "url": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html"
+      "date": "2026-03-26",
+      "url": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "中国供应商警告因霍尔木兹海关闭导致美国价格上涨",
-        "en": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
-        "de": "Chinesische Lieferanten warnen vor höheren Preisen für Amerikaner aufgrund der Schließung der Straße von Hormuz"
+        "zh": "华尔街的衰退几率上升，因为经济显示出裂痕",
+        "en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
+        "de": "Die Rezessionswahrscheinlichkeit steigt an der Wall Street, da die Wirtschaft Risse zeigt."
       },
       "summary": {
-        "zh": "由于伊朗战争导致霍尔木兹海的油品运输受阻，中国制造商对美国市场的价格上涨表示担忧。",
-        "en": "Due to the Iran war disrupting oil shipments through the Strait of Hormuz, Chinese manufacturers are expressing concerns about rising prices in the U.S. market.",
-        "de": "Aufgrund des Iran-Kriegs, der die Öllieferungen durch die Straße von Hormuz stört, äußern chinesische Hersteller Bedenken hinsichtlich steigender Preise auf dem US-Markt."
+        "zh": "经济学家提高了对经济衰退的风险评估，因地缘政治风险和劳动力市场疲软的担忧加剧。市场对未来的预期变得更加谨慎。",
+        "en": "Economists have raised their risk assessments for a recession amid heightened concerns over geopolitical risks and a weakening labor market. Market expectations have become more cautious.",
+        "de": "Ökonomen haben ihre Risikobewertungen für eine Rezession angesichts zunehmender Bedenken hinsichtlich geopolitischer Risiken und eines schwächelnden Arbeitsmarktes erhöht. Die Markterwartungen sind vorsichtiger geworden."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-30",
-      "url": "https://www.cnbc.com/2026/03/30/china-suppliers-warn-higher-us-prices-hormuz-closure.html"
+      "date": "2026-03-25",
+      "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html"
     }
   ]
 }
