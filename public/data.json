@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-03T05:57:11.103711+00:00",
+  "generatedAt": "2026-04-03T17:01:28.295392+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "新的Rowhammer攻击使运行Nvidia GPU的机器完全控制",
+        "zh": "新的Rowhammer攻击使运行Nvidia GPU的机器完全失控",
         "en": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
         "de": "Neue Rowhammer-Angriffe geben vollständige Kontrolle über Maschinen mit Nvidia-GPUs"
       },
       "summary": {
-        "zh": "新的Rowhammer攻击通过以破坏CPU的方式影响GPU内存，给运行Nvidia GPU的机器提供了完全控制权。",
-        "en": "New Rowhammer attacks compromise GPU memory in ways that give complete control of machines running Nvidia GPUs.",
-        "de": "Neue Rowhammer-Angriffe gefährden den GPU-Speicher auf eine Weise, die vollständige Kontrolle über Maschinen mit Nvidia-GPUs ermöglicht."
+        "zh": "新的Rowhammer攻击利用GDDR内存的漏洞，使攻击者能够完全控制运行Nvidia GPU的机器。这种攻击方式可能对计算机安全构成严重威胁。",
+        "en": "New Rowhammer attacks exploit vulnerabilities in GDDR memory, allowing attackers to gain complete control of machines running Nvidia GPUs. This method poses a significant threat to computer security.",
+        "de": "Neue Rowhammer-Angriffe nutzen Schwachstellen im GDDR-Speicher aus, die es Angreifern ermöglichen, die vollständige Kontrolle über Maschinen mit Nvidia-GPUs zu erlangen. Diese Methode stellt eine erhebliche Bedrohung für die Computersicherheit dar."
       },
       "source": "Ars Technica – AI",
       "date": "2026-04-02",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "量子计算机需要的资源远比想象中少以破解重要加密",
+        "zh": "量子计算机需要的资源远低于预期以破解重要加密",
         "en": "Quantum computers need vastly fewer resources than thought to break vital encryption",
-        "de": "Quantencomputer benötigen weit weniger Ressourcen als gedacht, um wichtige Verschlüsselungen zu brechen"
+        "de": "Quantencomputer benötigen erheblich weniger Ressourcen als gedacht, um wichtige Verschlüsselungen zu brechen"
       },
       "summary": {
-        "zh": "量子计算的进展表明，破解重要加密所需的资源远低于预期，尽管这并不意味着即将到来。",
-        "en": "Advances in quantum computing suggest that breaking vital encryption will require far fewer resources than previously thought, though it does not mean an immediate threat.",
-        "de": "Fortschritte in der Quantencomputing-Technologie deuten darauf hin, dass zum Brechen wichtiger Verschlüsselungen viel weniger Ressourcen benötigt werden als zuvor angenommen, was jedoch nicht bedeutet, dass eine unmittelbare Bedrohung bevorsteht."
+        "zh": "最新研究表明，量子计算机破解重要加密所需的资源远低于之前的预期。这一发现可能会加速对现有加密技术的重新评估。",
+        "en": "Recent research indicates that quantum computers require far fewer resources than previously thought to break vital encryption. This finding could accelerate the reevaluation of existing encryption technologies.",
+        "de": "Jüngste Forschungen zeigen, dass Quantencomputer weit weniger Ressourcen benötigen als zuvor gedacht, um wichtige Verschlüsselungen zu brechen. Diese Erkenntnis könnte die Neubewertung bestehender Verschlüsselungstechnologien beschleunigen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-03-31",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI基准测试已破损。我们需要什么替代品。",
+        "zh": "AI基准测试已破碎。我们需要什么",
         "en": "AI benchmarks are broken. Here’s what we need instead.",
         "de": "AI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
       },
       "summary": {
-        "zh": "人工智能的评估方式已不再有效，文章探讨了需要哪些新的基准来更好地评估AI的能力。",
-        "en": "The methods for evaluating artificial intelligence have become ineffective, and the article discusses what new benchmarks are needed to better assess AI capabilities.",
-        "de": "Die Methoden zur Bewertung von künstlicher Intelligenz sind ineffektiv geworden, und der Artikel erörtert, welche neuen Benchmarks erforderlich sind, um die Fähigkeiten von KI besser zu bewerten."
+        "zh": "研究表明，当前的AI基准测试无法有效评估人工智能的能力。文章提出了新的评估方法，以更好地反映AI的实际表现。",
+        "en": "Research indicates that current AI benchmarks fail to effectively assess the capabilities of artificial intelligence. The article proposes new evaluation methods to better reflect AI's actual performance.",
+        "de": "Forschungen zeigen, dass die aktuellen AI-Benchmarks nicht in der Lage sind, die Fähigkeiten der künstlichen Intelligenz effektiv zu bewerten. Der Artikel schlägt neue Bewertungsmethoden vor, um die tatsächliche Leistung der KI besser widerzuspiegeln."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-31",
@@ -54,80 +54,80 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普警告基础设施攻击“还没有开始”",
-        "en": "Trump warns assault on infrastructure ‘hasn’t even started’",
-        "de": "Trump warnt, dass der Angriff auf die Infrastruktur 'noch nicht einmal begonnen hat'"
+        "zh": "法国拥有的集装箱船在霍尔木兹海峡通过，这是自伊朗战争以来的第一次",
+        "en": "French-owned container ship transits Hormuz Strait in first since Iran war",
+        "de": "Französisches Containerschiff durchquert die Straße von Hormuz zum ersten Mal seit dem Iran-Krieg"
       },
       "summary": {
-        "zh": "特朗普在美国对伊朗最大桥梁的打击后加大威胁，称对基础设施的攻击才刚刚开始。",
-        "en": "Trump escalates threats following a U.S. strike on Iran's largest bridge, stating that the assault on infrastructure has only just begun.",
-        "de": "Trump verstärkt die Drohungen nach einem US-Angriff auf die größte Brücke Irans und erklärt, dass der Angriff auf die Infrastruktur gerade erst begonnen hat."
+        "zh": "CMA CGM的船只成为自美国-以色列战争开始以来首艘通过霍尔木兹海峡的法国船只。这标志着该地区航运活动的一个重要里程碑。",
+        "en": "CMA CGM's vessel becomes the first French-owned ship to traverse the Hormuz Strait since the US-Israel war on Iran began. This marks a significant milestone in shipping activities in the region.",
+        "de": "Das Schiff von CMA CGM wird zum ersten französischen Schiff, das die Straße von Hormuz seit Beginn des US-Israel-Kriegs gegen den Iran durchquert. Dies stellt einen bedeutenden Meilenstein für die Schifffahrt in der Region dar."
       },
       "source": "Al Jazeera",
       "date": "2026-04-03",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/3/french-owned-container-ship-transits-hormuz-strait-in-first-since-iran-war?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普解雇忠诚的检察总长Pam Bondi",
-        "en": "Donald Trump fires loyalist Attorney General Pam Bondi",
-        "de": "Donald Trump entlässt die loyale Generalstaatsanwältin Pam Bondi"
+        "zh": "特朗普在国会预算请求中寻求历史性的1.5万亿美元军事开支",
+        "en": "Trump seeks historic $1.5 trillion for military in Congress budget request",
+        "de": "Trump fordert historische 1,5 Billionen Dollar für das Militär im Haushaltsantrag des Kongresses"
       },
       "summary": {
-        "zh": "特朗普解雇了忠诚的检察总长Pam Bondi，她在特朗普的辩护中发挥了重要作用。",
-        "en": "Trump has fired Attorney General Pam Bondi, a loyalist who played a significant role in defending him.",
-        "de": "Trump hat Generalstaatsanwältin Pam Bondi entlassen, eine Loyalistin, die eine bedeutende Rolle in seiner Verteidigung spielte."
+        "zh": "特朗普请求的国防开支是几十年来最大的一次，并伴随削减国内项目的提案。这一预算请求引发了广泛的讨论。",
+        "en": "Trump's request for defense spending is the largest in decades and accompanies proposals to cut domestic programs. This budget request has sparked widespread discussion.",
+        "de": "Trumps Antrag auf Verteidigungsausgaben ist der größte seit Jahrzehnten und geht mit Vorschlägen zur Kürzung von Inlandsprogrammen einher. Dieser Haushaltsantrag hat eine breite Diskussion ausgelöst."
       },
       "source": "Al Jazeera",
       "date": "2026-04-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/donald-trump-fires-loyalist-attorney-general-pam-bondi?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/3/trump-seeks-historic-1-5-trillion-for-military-in-congress-budget-request?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗誓言报复美国对卡拉杰桥的致命打击",
-        "en": "Iran vows retaliation after deadly US strike on bridge in Karaj",
-        "de": "Iran schwört Vergeltung nach dem tödlichen US-Angriff auf die Brücke in Karaj"
+        "zh": "乌克兰减缓敌人进攻，解放土地，耗尽俄罗斯的战争资金",
+        "en": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
+        "de": "Die Ukraine verlangsamt die Angriffe des Feindes, befreit Land und erschöpft Russlands Kriegskasse"
       },
       "summary": {
-        "zh": "伊朗官员表示，该国最大的桥梁将“重建得更强大”，并誓言对美国的打击进行报复。",
-        "en": "Iranian officials state that the country's largest bridge will be 'built back stronger' and vow retaliation against the U.S. strike.",
-        "de": "Iranische Beamte erklären, dass die größte Brücke des Landes 'stärker wieder aufgebaut' wird, und schwören Vergeltung gegen den US-Angriff."
+        "zh": "乌克兰在战场上取得了显著胜利，得益于不断增长的无人机生产能力。这些胜利有助于减缓敌军的进攻并解放被占领的土地。",
+        "en": "Ukraine achieves significant victories on the battlefield thanks to burgeoning drone production. These victories help slow enemy advances and liberate occupied land.",
+        "de": "Die Ukraine erzielt dank der wachsenden Drohnenproduktion bedeutende Siege auf dem Schlachtfeld. Diese Siege helfen, die Angriffe des Feindes zu verlangsamen und besetztes Land zu befreien."
       },
       "source": "Al Jazeera",
       "date": "2026-04-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "三月就业报告将于周五发布。以下是预期：",
-        "en": "The March jobs report will be released on Friday. Here's what to expect:",
-        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Das ist zu erwarten:"
+        "zh": "美国3月份非农就业人数增加178,000人，失业率为4.3%",
+        "en": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
+        "de": "Die US-Löhne stiegen im März um 178.000, mehr als erwartet; Arbeitslosigkeit bei 4,3%"
       },
       "summary": {
-        "zh": "预计美国经济在三月份将新增59,000个就业岗位，失业率保持在4.4%。",
-        "en": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
-        "de": "Die US-Wirtschaft wird voraussichtlich im März 59.000 neue Arbeitsplätze schaffen, während die Arbeitslosenquote bei 4,4 % bleibt."
+        "zh": "美国3月份的非农就业人数增加了178,000人，超出预期，失业率降至4.3%。这一数据可能会影响未来的货币政策。",
+        "en": "U.S. nonfarm payrolls rose by 178,000 in March, exceeding expectations, with the unemployment rate dropping to 4.3%. This data could influence future monetary policy.",
+        "de": "Die US-Nichtlandwirtschaftlichen Löhne stiegen im März um 178.000, was die Erwartungen übertraf, während die Arbeitslosenquote auf 4,3% sank. Diese Daten könnten die zukünftige Geldpolitik beeinflussen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-02",
-      "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html"
+      "date": "2026-04-03",
+      "url": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "私人部门在三月份的招聘总数为62,000，超出预期，ADP表示：",
+        "zh": "私人部门3月份雇佣人数达到62,000人，超出预期，ADP表示",
         "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
         "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, so ADP"
       },
       "summary": {
-        "zh": "ADP报告显示，私人部门的就业增长保持稳定，但医疗保健和建筑行业仍然是主要推动力。",
-        "en": "ADP reports that private sector employment growth remained steady, with healthcare and construction continuing to provide nearly all the momentum.",
-        "de": "ADP berichtet, dass das Beschäftigungswachstum im privaten Sektor stabil blieb, wobei das Gesundheitswesen und der Bau weiterhin fast die gesamte Dynamik lieferten."
+        "zh": "ADP报告显示，3月份私人部门的雇佣人数达到62,000人，表现优于预期，主要由医疗和建筑行业推动。",
+        "en": "ADP reports that private sector hiring totaled 62,000 in March, better than expected, primarily driven by the healthcare and construction sectors.",
+        "de": "ADP berichtet, dass die Einstellungen im privaten Sektor im März 62.000 betrugen, besser als erwartet, hauptsächlich getrieben von den Sektoren Gesundheitswesen und Bauwesen."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-01",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "为什么每加仑4美元的油价不会引发美联储加息——并可能导致降息：",
-        "en": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
-        "de": "Warum 4 Dollar pro Gallone Benzinpreise keine Zinserhöhungen der Fed auslösen werden – und zu Senkungen führen könnten"
+        "zh": "3月份的就业报告看起来并不如表面上那么好。这里是坏的一面。",
+        "en": "The March jobs report isn’t as good as it looks. Here are the bad parts.",
+        "de": "Der Arbeitsbericht für März ist nicht so gut, wie er aussieht. Hier sind die schlechten Teile."
       },
       "summary": {
-        "zh": "尽管油价上涨，但市场对美联储加息的预期有所减弱，反而转向降息的预期。",
-        "en": "Despite rising gas prices, market expectations for Fed interest rate hikes have weakened, shifting instead to expectations for cuts.",
-        "de": "Trotz steigender Benzinpreise haben sich die Markterwartungen für Zinserhöhungen der Fed abgeschwächt und stattdessen auf Zinssenkungen verschoben."
+        "zh": "尽管3月份新增就业人数创下15个月以来的最高水平，但就业市场仍然面临挑战，许多人仍然难以找到工作。",
+        "en": "Despite the highest job gains in 15 months in March, the job market still faces challenges, with many people struggling to find employment.",
+        "de": "Trotz der höchsten Beschäftigungszuwächse seit 15 Monaten im März steht der Arbeitsmarkt weiterhin vor Herausforderungen, da viele Menschen Schwierigkeiten haben, eine Anstellung zu finden."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-03-31",
-      "url": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-03",
+      "url": "https://www.marketwatch.com/story/the-march-jobs-report-isnt-as-good-as-it-looks-here-are-the-bad-parts-e5f62160?mod=mw_rss_topstories"
     }
   ]
 }
