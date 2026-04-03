@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-02T17:14:00.047368+00:00",
+  "generatedAt": "2026-04-03T05:57:11.103711+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "燃料价格飙升。塑料可能是下一个。",
-        "en": "Fuel prices are soaring. Plastic could be next.",
-        "de": "Die Kraftstoffpreise steigen. Kunststoff könnte der Nächste sein."
+        "zh": "新的Rowhammer攻击使运行Nvidia GPU的机器完全控制",
+        "en": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+        "de": "Neue Rowhammer-Angriffe geben vollständige Kontrolle über Maschinen mit Nvidia-GPUs"
       },
       "summary": {
-        "zh": "随着伊朗战争的持续，燃料价格的上涨可能会对塑料行业产生重大影响。分析指出，塑料的生产成本可能会因此而增加。",
-        "en": "As the war in Iran continues, rising fuel prices may significantly impact the plastic industry. Analysis suggests that production costs for plastic could increase as a result.",
-        "de": "Da der Krieg im Iran andauert, könnten steigende Kraftstoffpreise erhebliche Auswirkungen auf die Kunststoffindustrie haben. Analysen deuten darauf hin, dass die Produktionskosten für Kunststoff dadurch steigen könnten."
+        "zh": "新的Rowhammer攻击通过以破坏CPU的方式影响GPU内存，给运行Nvidia GPU的机器提供了完全控制权。",
+        "en": "New Rowhammer attacks compromise GPU memory in ways that give complete control of machines running Nvidia GPUs.",
+        "de": "Neue Rowhammer-Angriffe gefährden den GPU-Speicher auf eine Weise, die vollständige Kontrolle über Maschinen mit Nvidia-GPUs ermöglicht."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-04-02",
-      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
+      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "自我传播的恶意软件毒害开源软件并清除伊朗机器",
-        "en": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-        "de": "Selbstverbreitende Malware vergiftet Open-Source-Software und löscht iranische Maschinen."
-      },
-      "summary": {
-        "zh": "一种自我传播的恶意软件正在影响开源软件，并导致伊朗的计算机被清除。开发者被警告检查他们的网络以防感染。",
-        "en": "A self-propagating malware is affecting open source software and causing computers in Iran to be wiped. Developers are warned to check their networks for infections.",
-        "de": "Eine sich selbst verbreitende Malware beeinträchtigt Open-Source-Software und führt dazu, dass Computer im Iran gelöscht werden. Entwickler werden gewarnt, ihre Netzwerke auf Infektionen zu überprüfen."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-03-24",
-      "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "量子计算机需要比想象中更少的资源来破解重要加密",
+        "zh": "量子计算机需要的资源远比想象中少以破解重要加密",
         "en": "Quantum computers need vastly fewer resources than thought to break vital encryption",
-        "de": "Quantencomputer benötigen weit weniger Ressourcen als gedacht, um wichtige Verschlüsselungen zu brechen."
+        "de": "Quantencomputer benötigen weit weniger Ressourcen als gedacht, um wichtige Verschlüsselungen zu brechen"
       },
       "summary": {
-        "zh": "最新研究表明，量子计算机在破解重要加密方面所需的资源远低于预期。这一发现可能会对网络安全产生重大影响。",
-        "en": "Recent research indicates that quantum computers require far fewer resources than previously thought to break vital encryption. This finding could have significant implications for cybersecurity.",
-        "de": "Jüngste Forschungen zeigen, dass Quantencomputer weit weniger Ressourcen benötigen als zuvor gedacht, um wichtige Verschlüsselungen zu brechen. Diese Erkenntnis könnte erhebliche Auswirkungen auf die Cybersicherheit haben."
+        "zh": "量子计算的进展表明，破解重要加密所需的资源远低于预期，尽管这并不意味着即将到来。",
+        "en": "Advances in quantum computing suggest that breaking vital encryption will require far fewer resources than previously thought, though it does not mean an immediate threat.",
+        "de": "Fortschritte in der Quantencomputing-Technologie deuten darauf hin, dass zum Brechen wichtiger Verschlüsselungen viel weniger Ressourcen benötigt werden als zuvor angenommen, was jedoch nicht bedeutet, dass eine unmittelbare Bedrohung bevorsteht."
       },
       "source": "Ars Technica – AI",
       "date": "2026-03-31",
       "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "AI基准测试已破损。我们需要什么替代品。",
+        "en": "AI benchmarks are broken. Here’s what we need instead.",
+        "de": "AI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
+      },
+      "summary": {
+        "zh": "人工智能的评估方式已不再有效，文章探讨了需要哪些新的基准来更好地评估AI的能力。",
+        "en": "The methods for evaluating artificial intelligence have become ineffective, and the article discusses what new benchmarks are needed to better assess AI capabilities.",
+        "de": "Die Methoden zur Bewertung von künstlicher Intelligenz sind ineffektiv geworden, und der Artikel erörtert, welche neuen Benchmarks erforderlich sind, um die Fähigkeiten von KI besser zu bewerten."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-03-31",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "加沙抗议以色列对巴勒斯坦死刑法的批准",
-        "en": "Video: Protests in Gaza against Israel’s Palestinian death penalty law",
-        "de": "Video: Proteste im Gazastreifen gegen Israels palästinensisches Todesstrafengesetz"
+        "zh": "特朗普警告基础设施攻击“还没有开始”",
+        "en": "Trump warns assault on infrastructure ‘hasn’t even started’",
+        "de": "Trump warnt, dass der Angriff auf die Infrastruktur 'noch nicht einmal begonnen hat'"
       },
       "summary": {
-        "zh": "加沙的巴勒斯坦人抗议以色列政府批准针对巴勒斯坦囚犯的死刑法。这一法案引发了广泛的愤怒和抗议活动。",
-        "en": "Palestinians in Gaza protested against the Israeli government's approval of a death penalty law for Palestinian prisoners. The legislation has sparked widespread anger and protests.",
-        "de": "Palästinenser im Gazastreifen protestierten gegen die Genehmigung eines Todesstrafengesetzes für palästinensische Gefangene durch die israelische Regierung. Das Gesetz hat weit verbreitete Wut und Proteste ausgelöst."
+        "zh": "特朗普在美国对伊朗最大桥梁的打击后加大威胁，称对基础设施的攻击才刚刚开始。",
+        "en": "Trump escalates threats following a U.S. strike on Iran's largest bridge, stating that the assault on infrastructure has only just begun.",
+        "de": "Trump verstärkt die Drohungen nach einem US-Angriff auf die größte Brücke Irans und erklärt, dass der Angriff auf die Infrastruktur gerade erst begonnen hat."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/video-protests-in-gaza-against-israels-palestinian-death-penalty-law?traffic_source=rss"
+      "date": "2026-04-03",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "巴基斯坦和阿富汗在中国举行会谈以结束数月冲突",
-        "en": "Pakistan, Afghanistan hold talks in China to end months of conflict",
-        "de": "Pakistan und Afghanistan führen Gespräche in China, um monatelange Konflikte zu beenden."
+        "zh": "特朗普解雇忠诚的检察总长Pam Bondi",
+        "en": "Donald Trump fires loyalist Attorney General Pam Bondi",
+        "de": "Donald Trump entlässt die loyale Generalstaatsanwältin Pam Bondi"
       },
       "summary": {
-        "zh": "巴基斯坦和阿富汗在中国举行会谈，旨在结束两国之间的数月冲突。中国在调解这一谈判中发挥了重要作用。",
-        "en": "Pakistan and Afghanistan held talks in China aimed at ending months of conflict between the two nations. China has played a significant role in mediating the negotiations.",
-        "de": "Pakistan und Afghanistan führten Gespräche in China, um monatelange Konflikte zwischen den beiden Ländern zu beenden. China hat eine bedeutende Rolle bei der Vermittlung der Verhandlungen gespielt."
+        "zh": "特朗普解雇了忠诚的检察总长Pam Bondi，她在特朗普的辩护中发挥了重要作用。",
+        "en": "Trump has fired Attorney General Pam Bondi, a loyalist who played a significant role in defending him.",
+        "de": "Trump hat Generalstaatsanwältin Pam Bondi entlassen, eine Loyalistin, die eine bedeutende Rolle in seiner Verteidigung spielte."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-02",
-      "url": "https://www.aljazeera.com/news/2026/4/2/pakistan-afghanistan-hold-talks-in-china-to-end-months-of-conflict?traffic_source=rss"
+      "date": "2026-04-03",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/donald-trump-fires-loyalist-attorney-general-pam-bondi?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗发布嘲讽特朗普威胁的导弹发射视频",
-        "en": "Iran releases mocking missile launch video after Trump threats",
-        "de": "Iran veröffentlicht verspottendes Video eines Raketenstarts nach Drohungen von Trump."
+        "zh": "伊朗誓言报复美国对卡拉杰桥的致命打击",
+        "en": "Iran vows retaliation after deadly US strike on bridge in Karaj",
+        "de": "Iran schwört Vergeltung nach dem tödlichen US-Angriff auf die Brücke in Karaj"
       },
       "summary": {
-        "zh": "伊朗国家媒体发布了一段导弹发射视频，内容嘲讽特朗普的威胁。这一举动加剧了与美国的紧张关系。",
-        "en": "Iranian state media released a video of a missile launch mocking Trump's threats. This move escalates tensions with the United States.",
-        "de": "Iranische Staatsmedien veröffentlichten ein Video eines Raketenstarts, das die Drohungen von Trump verspottet. Dieser Schritt eskaliert die Spannungen mit den Vereinigten Staaten."
+        "zh": "伊朗官员表示，该国最大的桥梁将“重建得更强大”，并誓言对美国的打击进行报复。",
+        "en": "Iranian officials state that the country's largest bridge will be 'built back stronger' and vow retaliation against the U.S. strike.",
+        "de": "Iranische Beamte erklären, dass die größte Brücke des Landes 'stärker wieder aufgebaut' wird, und schwören Vergeltung gegen den US-Angriff."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/2/iran-releases-mocking-missile-launch-video-after-trump-threats?traffic_source=rss"
+      "date": "2026-04-03",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/3/iran-vows-retaliation-after-deadly-us-strike-on-bridge-in-karaj?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "私营部门3月份的招聘总数为62,000，超出预期",
-        "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
-        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, sagt ADP."
+        "zh": "三月就业报告将于周五发布。以下是预期：",
+        "en": "The March jobs report will be released on Friday. Here's what to expect:",
+        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Das ist zu erwarten:"
       },
       "summary": {
-        "zh": "ADP报告称，3月份私营部门的招聘人数达到62,000，超出预期。这一增长主要由医疗和建筑行业推动。",
-        "en": "ADP reports that private sector hiring totaled 62,000 in March, exceeding expectations. This growth was primarily driven by the healthcare and construction sectors.",
-        "de": "ADP berichtet, dass die Einstellungen im privaten Sektor im März 62.000 betrugen, was die Erwartungen übertraf. Dieses Wachstum wurde hauptsächlich von den Sektoren Gesundheitswesen und Bauwesen angetrieben."
+        "zh": "预计美国经济在三月份将新增59,000个就业岗位，失业率保持在4.4%。",
+        "en": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
+        "de": "Die US-Wirtschaft wird voraussichtlich im März 59.000 neue Arbeitsplätze schaffen, während die Arbeitslosenquote bei 4,4 % bleibt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-02",
+      "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "私人部门在三月份的招聘总数为62,000，超出预期，ADP表示：",
+        "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
+        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, so ADP"
+      },
+      "summary": {
+        "zh": "ADP报告显示，私人部门的就业增长保持稳定，但医疗保健和建筑行业仍然是主要推动力。",
+        "en": "ADP reports that private sector employment growth remained steady, with healthcare and construction continuing to provide nearly all the momentum.",
+        "de": "ADP berichtet, dass das Beschäftigungswachstum im privaten Sektor stabil blieb, wobei das Gesundheitswesen und der Bau weiterhin fast die gesamte Dynamik lieferten."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-01",
       "url": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "全球预测机构预计今年美国通胀率为4.2%，远高于美联储估计",
-        "en": "Global forecasting group sees U.S. inflation at 4.2% this year, much higher than Fed estimate",
-        "de": "Globale Prognosegruppe sieht die US-Inflation in diesem Jahr bei 4,2%, viel höher als die Schätzung der Fed."
-      },
-      "summary": {
-        "zh": "全球预测机构预计，美国今年的通胀率将达到4.2%，远高于美联储的2.7%估计。这一预测可能会影响市场情绪。",
-        "en": "A global forecasting group predicts U.S. inflation will reach 4.2% this year, significantly higher than the Fed's estimate of 2.7%. This forecast could impact market sentiment.",
-        "de": "Eine globale Prognosegruppe sagt voraus, dass die US-Inflation in diesem Jahr 4,2% erreichen wird, was deutlich höher ist als die Schätzung der Fed von 2,7%. Diese Prognose könnte die Marktentwicklung beeinflussen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-03-26",
-      "url": "https://www.cnbc.com/2026/03/26/global-forecasting-group-sees-us-inflation-at-4point2percent-this-year-much-higher-than-fed-estimate.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "华尔街的衰退几率上升，因为经济显示出裂痕",
-        "en": "Recession odds climb on Wall Street as economy shows cracks beneath the surface",
-        "de": "Die Rezessionswahrscheinlichkeit steigt an der Wall Street, da die Wirtschaft Risse zeigt."
+        "zh": "为什么每加仑4美元的油价不会引发美联储加息——并可能导致降息：",
+        "en": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
+        "de": "Warum 4 Dollar pro Gallone Benzinpreise keine Zinserhöhungen der Fed auslösen werden – und zu Senkungen führen könnten"
       },
       "summary": {
-        "zh": "经济学家提高了对经济衰退的风险评估，因地缘政治风险和劳动力市场疲软的担忧加剧。市场对未来的预期变得更加谨慎。",
-        "en": "Economists have raised their risk assessments for a recession amid heightened concerns over geopolitical risks and a weakening labor market. Market expectations have become more cautious.",
-        "de": "Ökonomen haben ihre Risikobewertungen für eine Rezession angesichts zunehmender Bedenken hinsichtlich geopolitischer Risiken und eines schwächelnden Arbeitsmarktes erhöht. Die Markterwartungen sind vorsichtiger geworden."
+        "zh": "尽管油价上涨，但市场对美联储加息的预期有所减弱，反而转向降息的预期。",
+        "en": "Despite rising gas prices, market expectations for Fed interest rate hikes have weakened, shifting instead to expectations for cuts.",
+        "de": "Trotz steigender Benzinpreise haben sich die Markterwartungen für Zinserhöhungen der Fed abgeschwächt und stattdessen auf Zinssenkungen verschoben."
       },
       "source": "CNBC – Markets",
-      "date": "2026-03-25",
-      "url": "https://www.cnbc.com/2026/03/25/recession-odds-climb-on-wall-street-as-economy-shows-cracks-beneath-the-surface.html"
+      "date": "2026-03-31",
+      "url": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html"
     }
   ]
 }
