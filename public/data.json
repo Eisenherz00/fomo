@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-04T05:41:34.428124+00:00",
+  "generatedAt": "2026-04-04T16:58:59.229010+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "将数据中心放入太空所需的四件事：MIT科技评论解释",
+        "zh": "将数据中心放置在太空中需要的四件事：MIT科技评论解释",
         "en": "Four things we’d need to put data centers in space: MIT Technology Review Explains",
         "de": "Vier Dinge, die wir benötigen, um Rechenzentren ins All zu bringen: MIT Technology Review erklärt"
       },
       "summary": {
-        "zh": "MIT科技评论探讨了将数据中心放入太空所需的四个关键要素，包括技术、成本和环境影响等方面的考虑。",
-        "en": "MIT Technology Review discusses four key elements needed to place data centers in space, including considerations of technology, cost, and environmental impact.",
-        "de": "Die MIT Technology Review erörtert vier Schlüsselfaktoren, die erforderlich sind, um Rechenzentren ins All zu bringen, einschließlich Überlegungen zu Technologie, Kosten und Umweltauswirkungen."
+        "zh": "MIT科技评论探讨了将数据中心放置在太空中的四个必要条件，包括技术、成本和可行性等方面的考量。",
+        "en": "MIT Technology Review discusses four necessary conditions for placing data centers in space, including considerations of technology, cost, and feasibility.",
+        "de": "Die MIT Technology Review erörtert vier notwendige Bedingungen für die Platzierung von Rechenzentren im Weltraum, einschließlich Überlegungen zu Technologie, Kosten und Machbarkeit."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-03",
@@ -25,9 +25,9 @@
         "de": "Die Kraftstoffpreise steigen. Plastik könnte das nächste Opfer sein."
       },
       "summary": {
-        "zh": "随着伊朗战争的持续，燃料价格的飙升可能会对全球塑料市场产生重大影响，导致塑料价格上涨。",
-        "en": "As the war in Iran continues, soaring fuel prices may significantly impact the global plastic market, leading to increased plastic prices.",
-        "de": "Da der Krieg im Iran andauert, könnten die steigenden Kraftstoffpreise erhebliche Auswirkungen auf den globalen Plastikmarkt haben und zu höheren Plastikpreisen führen."
+        "zh": "随着伊朗战争的持续，燃料价格的上涨可能会对塑料行业造成重大影响，导致塑料产品的成本上升。",
+        "en": "As the war in Iran continues, rising fuel prices may significantly impact the plastic industry, leading to increased costs for plastic products.",
+        "de": "Da der Krieg im Iran andauert, könnten steigende Kraftstoffpreise erhebliche Auswirkungen auf die Kunststoffindustrie haben, was zu höheren Kosten für Kunststoffprodukte führt."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-02",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI基准测试已破损。我们需要什么来替代它。",
+        "zh": "AI基准测试已破损。我们需要什么来替代",
         "en": "AI benchmarks are broken. Here’s what we need instead.",
-        "de": "Die KI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
+        "de": "AI-Benchmarks sind kaputt. Hier ist, was wir stattdessen brauchen."
       },
       "summary": {
-        "zh": "文章指出，传统的人工智能评估方式已不再适用，呼吁建立新的标准来更好地评估AI的能力。",
-        "en": "The article points out that traditional methods of evaluating artificial intelligence are no longer applicable and calls for new standards to better assess AI capabilities.",
-        "de": "Der Artikel weist darauf hin, dass traditionelle Methoden zur Bewertung von Künstlicher Intelligenz nicht mehr anwendbar sind und fordert neue Standards, um die Fähigkeiten von KI besser zu bewerten."
+        "zh": "文章指出，传统的AI基准测试方法已不再有效，呼吁采用新的评估标准，以更好地反映机器的能力和表现。",
+        "en": "The article points out that traditional AI benchmarking methods are no longer effective and calls for new evaluation standards to better reflect machine capabilities and performance.",
+        "de": "Der Artikel weist darauf hin, dass traditionelle Methoden zur Bewertung von KI nicht mehr effektiv sind, und fordert neue Bewertungsstandards, um die Fähigkeiten und Leistungen von Maschinen besser widerzuspiegeln."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-31",
@@ -54,98 +54,98 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "NASA公布阿尔忒弥斯II号拍摄的地球首张图像",
-        "en": "NASA unveils first images of Earth from Artemis II",
-        "de": "NASA präsentiert die ersten Bilder der Erde von Artemis II"
+        "zh": "特朗普表示伊朗有48小时达成协议，搜寻美国飞行员持续进行",
+        "en": "Trump says Iran has 48 hours to make deal as search for US pilot continues",
+        "de": "Trump sagt, Iran habe 48 Stunden Zeit, um einen Deal zu schließen, während die Suche nach dem US-Piloten fortgesetzt wird"
       },
       "summary": {
-        "zh": "NASA展示了阿尔忒弥斯II号宇航员拍摄的地球首张图像，标志着人类探索月球的新里程碑。",
-        "en": "NASA has unveiled the first images of Earth taken by Artemis II astronauts, marking a new milestone in human exploration of the Moon.",
-        "de": "NASA hat die ersten Bilder der Erde veröffentlicht, die von den Astronauten von Artemis II aufgenommen wurden, und damit einen neuen Meilenstein in der menschlichen Erkundung des Mondes gesetzt."
+        "zh": "特朗普在社交媒体上表示，伊朗必须在48小时内达成协议，以便重新开放霍尔木兹海峡，尽管他没有提及一架坠毁的美国战机。",
+        "en": "Trump stated on social media that Iran must make a deal within 48 hours to reopen the Strait of Hormuz, although he did not reference a downed US jet.",
+        "de": "Trump erklärte in den sozialen Medien, dass Iran innerhalb von 48 Stunden einen Deal schließen müsse, um die Straße von Hormuz wieder zu öffnen, obwohl er kein Wort über ein abgestürztes US-Jet verlor."
       },
       "source": "Al Jazeera",
       "date": "2026-04-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/nasa-unveils-first-images-of-earth-from-artemis-ii?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/4/trump-says-iran-has-48-hours-to-make-deal-as-search-for-us-pilot-continues?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗战争：美国-以色列攻击第36天的情况如何？",
-        "en": "Iran war: What is happening on day 36 of US-Israeli attacks?",
-        "de": "Iran-Krieg: Was passiert am 36. Tag der US-israelischen Angriffe?"
+        "zh": "联合国监管机构对伊朗核电厂新攻击表示“深切关注”",
+        "en": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
+        "de": "UN-Wachhund äußert 'tiefe Besorgnis', während Iran neue Angriffe auf das Kernkraftwerk meldet"
       },
       "summary": {
-        "zh": "在伊朗战争的第36天，伊朗声称击落两架美国战斗机，正在进行对失踪机组成员的搜寻。",
-        "en": "On day 36 of the Iran war, Iran claims responsibility for downing two US warplanes, with a search underway for the missing crew member.",
-        "de": "Am 36. Tag des Iran-Kriegs beansprucht Iran die Verantwortung für den Abschuss von zwei US-Kampfflugzeugen, während die Suche nach dem vermissten Besatzungsmitglied läuft."
+        "zh": "国际原子能机构对伊朗布什尔核电厂的攻击表示深切关注，呼吁各方保持克制，以避免核事故的发生。",
+        "en": "The International Atomic Energy Agency has expressed deep concern over attacks on Iran's Bushehr nuclear plant, urging all parties to exercise restraint to avoid a nuclear accident.",
+        "de": "Die Internationale Atomenergie-Organisation hat tiefe Besorgnis über Angriffe auf das iranische Kernkraftwerk Bushehr geäußert und alle Parteien aufgefordert, Zurückhaltung zu üben, um einen nuklearen Unfall zu vermeiden."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-04-04",
-      "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗导弹袭击中央以色列居民区",
-        "en": "Iranian missile attack hits residential areas in central Israel",
-        "de": "Iranischer Raketenangriff trifft Wohngebiete im zentralen Israel"
+        "zh": "美国逮捕已故伊朗将军卡西姆·苏莱曼尼的亲属",
+        "en": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
+        "de": "US-Arrest von Verwandten des verstorbenen iranischen Generals Qasem Soleimani"
       },
       "summary": {
-        "zh": "根据以色列媒体的报道，伊朗的导弹袭击造成中央以色列的居民区受到损害。",
-        "en": "According to Israeli media, an Iranian missile attack has caused damage across residential areas in central Israel.",
-        "de": "Laut israelischen Medien hat ein iranischer Raketenangriff Schäden in Wohngebieten im zentralen Israel verursacht."
+        "zh": "美国移民和海关执法局表示，已故伊朗将军卡西姆·苏莱曼尼的侄女和外甥女已被拘留。",
+        "en": "US Immigration and Customs Enforcement officials stated that the niece and grand-niece of deceased Iranian general Qasem Soleimani are in custody.",
+        "de": "Beamte der US-Einwanderungs- und Zollbehörde gaben bekannt, dass die Nichte und Großnichte des verstorbenen iranischen Generals Qasem Soleimani in Gewahrsam sind."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-04-04",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国3月就业人数增加178,000，失业率为4.3%",
+        "zh": "美国3月非农就业人数增加178,000，失业率为4.3%",
         "en": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
-        "de": "Die US-Löhne stiegen im März um 178.000, mehr als erwartet; Arbeitslosigkeit bei 4,3%"
+        "de": "Die US-Löhne stiegen im März um 178.000, mehr als erwartet; Arbeitslosenquote bei 4,3%"
       },
       "summary": {
-        "zh": "美国3月非农就业人数增加178,000，超出预期的59,000，失业率降至4.3%。",
-        "en": "U.S. nonfarm payrolls rose by 178,000 in March, exceeding expectations of 59,000, with the unemployment rate dropping to 4.3%.",
-        "de": "Die US-Nichtlandwirtschaftsgehälter stiegen im März um 178.000, was die Erwartungen von 59.000 übertraf, während die Arbeitslosenquote auf 4,3 % sank."
+        "zh": "美国3月非农就业人数增加178,000，超出预期，失业率降至4.3%。",
+        "en": "U.S. nonfarm payrolls increased by 178,000 in March, exceeding expectations, with the unemployment rate dropping to 4.3%.",
+        "de": "Die US-Nichtlandwirtschaftsgehälter stiegen im März um 178.000, was die Erwartungen übertraf, während die Arbeitslosenquote auf 4,3% sank."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-03",
       "url": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "3月就业报告将于周五发布。以下是预期：",
-        "en": "The March jobs report will be released on Friday. Here's what to expect:",
-        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Das ist zu erwarten:"
+        "zh": "3月就业报告将于周五发布。以下是预期内容",
+        "en": "The March jobs report will be released on Friday. Here's what to expect",
+        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Das können Sie erwarten"
       },
       "summary": {
-        "zh": "预计3月美国经济将增加59,000个就业岗位，失业率保持在4.4%。",
-        "en": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
-        "de": "Die US-Wirtschaft wird voraussichtlich im März 59.000 neue Arbeitsplätze schaffen, während die Arbeitslosenquote bei 4,4 % bleibt."
+        "zh": "预计美国3月将新增59,000个就业岗位，失业率保持在4.4%。",
+        "en": "The U.S. is projected to add 59,000 jobs in March, with the unemployment rate holding steady at 4.4%.",
+        "de": "Es wird erwartet, dass die USA im März 59.000 Arbeitsplätze schaffen, während die Arbeitslosenquote bei 4,4% bleibt."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-02",
       "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "3月私营部门招聘总计62,000，超出预期",
+        "zh": "私营部门3月新增62,000个岗位，超出预期，ADP称",
         "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
-        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, sagt ADP"
+        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, so ADP"
       },
       "summary": {
-        "zh": "ADP报告称，3月私营部门就业增长保持稳定，医疗保健和建筑行业继续提供几乎所有的动力。",
-        "en": "ADP reports that private sector employment growth remained steady in March, with healthcare and construction continuing to provide nearly all the momentum.",
-        "de": "ADP berichtet, dass das Beschäftigungswachstum im privaten Sektor im März stabil blieb, wobei das Gesundheitswesen und der Bau weiterhin fast die gesamte Dynamik lieferten."
+        "zh": "ADP报告显示，3月私营部门就业增长保持稳定，医疗和建筑行业提供了几乎所有的增长动力。",
+        "en": "ADP reports that private sector employment growth remained steady in March, with healthcare and construction providing nearly all the momentum.",
+        "de": "ADP berichtet, dass das Beschäftigungswachstum im privaten Sektor im März stabil blieb, wobei das Gesundheitswesen und der Bau nahezu die gesamte Dynamik lieferten."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-01",
       "url": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html"
     }
