@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-04T16:58:59.229010+00:00",
+  "generatedAt": "2026-04-05T06:00:29.574776+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "将数据中心放置在太空中需要的四件事：MIT科技评论解释",
+        "zh": "将数据中心放在太空中需要的四件事：MIT科技评论解释",
         "en": "Four things we’d need to put data centers in space: MIT Technology Review Explains",
-        "de": "Vier Dinge, die wir benötigen, um Rechenzentren ins All zu bringen: MIT Technology Review erklärt"
+        "de": "Vier Dinge, die wir benötigen, um Rechenzentren im Weltraum zu errichten: MIT Technology Review erklärt"
       },
       "summary": {
-        "zh": "MIT科技评论探讨了将数据中心放置在太空中的四个必要条件，包括技术、成本和可行性等方面的考量。",
-        "en": "MIT Technology Review discusses four necessary conditions for placing data centers in space, including considerations of technology, cost, and feasibility.",
-        "de": "Die MIT Technology Review erörtert vier notwendige Bedingungen für die Platzierung von Rechenzentren im Weltraum, einschließlich Überlegungen zu Technologie, Kosten und Machbarkeit."
+        "zh": "MIT科技评论探讨了将数据中心放置在太空中所需的四个关键因素，包括技术、成本、法律和环境影响。",
+        "en": "MIT Technology Review discusses four key factors needed to place data centers in space, including technology, cost, legal considerations, and environmental impact.",
+        "de": "Die MIT Technology Review erörtert vier Schlüsselfaktoren, die erforderlich sind, um Rechenzentren im Weltraum zu platzieren, einschließlich Technologie, Kosten, rechtliche Überlegungen und Umweltauswirkungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-03",
@@ -20,98 +20,98 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "燃料价格飙升，塑料可能是下一个受害者",
-        "en": "Fuel prices are soaring. Plastic could be next.",
-        "de": "Die Kraftstoffpreise steigen. Plastik könnte das nächste Opfer sein."
+        "zh": "下载：塑料与燃料价格的问题，以及SpaceX的重磅IPO",
+        "en": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+        "de": "Der Download: Das Problem von Plastik mit den Kraftstoffpreisen und der Blockbuster-IPO von SpaceX"
       },
       "summary": {
-        "zh": "随着伊朗战争的持续，燃料价格的上涨可能会对塑料行业造成重大影响，导致塑料产品的成本上升。",
-        "en": "As the war in Iran continues, rising fuel prices may significantly impact the plastic industry, leading to increased costs for plastic products.",
-        "de": "Da der Krieg im Iran andauert, könnten steigende Kraftstoffpreise erhebliche Auswirkungen auf die Kunststoffindustrie haben, was zu höheren Kosten für Kunststoffprodukte führt."
+        "zh": "本期下载讨论了塑料行业面临的燃料价格上涨问题，以及SpaceX即将进行的首次公开募股的影响。",
+        "en": "This edition of The Download discusses the rising fuel prices affecting the plastic industry and the implications of SpaceX's upcoming IPO.",
+        "de": "Diese Ausgabe des Downloads behandelt die steigenden Kraftstoffpreise, die die Kunststoffindustrie betreffen, und die Auswirkungen des bevorstehenden IPO von SpaceX."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-02",
-      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
+      "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI基准测试已破损。我们需要什么来替代",
-        "en": "AI benchmarks are broken. Here’s what we need instead.",
-        "de": "AI-Benchmarks sind kaputt. Hier ist, was wir stattdessen brauchen."
+        "zh": "新的Rowhammer攻击使得运行Nvidia GPU的机器完全控制",
+        "en": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+        "de": "Neue Rowhammer-Angriffe geben vollständige Kontrolle über Maschinen, die Nvidia-GPUs betreiben"
       },
       "summary": {
-        "zh": "文章指出，传统的AI基准测试方法已不再有效，呼吁采用新的评估标准，以更好地反映机器的能力和表现。",
-        "en": "The article points out that traditional AI benchmarking methods are no longer effective and calls for new evaluation standards to better reflect machine capabilities and performance.",
-        "de": "Der Artikel weist darauf hin, dass traditionelle Methoden zur Bewertung von KI nicht mehr effektiv sind, und fordert neue Bewertungsstandards, um die Fähigkeiten und Leistungen von Maschinen besser widerzuspiegeln."
+        "zh": "新的Rowhammer攻击方法使攻击者能够完全控制运行Nvidia GPU的机器，给计算机安全带来重大威胁。",
+        "en": "New Rowhammer attack methods allow attackers to gain complete control of machines running Nvidia GPUs, posing a significant threat to computer security.",
+        "de": "Neue Rowhammer-Angriffsmethoden ermöglichen es Angreifern, die vollständige Kontrolle über Maschinen zu erlangen, die Nvidia-GPUs betreiben, was eine erhebliche Bedrohung für die Computersicherheit darstellt."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-03-31",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
+      "source": "Ars Technica – AI",
+      "date": "2026-04-02",
+      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普表示伊朗有48小时达成协议，搜寻美国飞行员持续进行",
-        "en": "Trump says Iran has 48 hours to make deal as search for US pilot continues",
-        "de": "Trump sagt, Iran habe 48 Stunden Zeit, um einen Deal zu schließen, während die Suche nach dem US-Piloten fortgesetzt wird"
+        "zh": "特朗普对伊朗的不受欢迎的战争：大多数美国人反对美国-以色列对伊朗的战争",
+        "en": "Trump’s unpopular war on Iran: Most Americans oppose the US-Israel war on Iran",
+        "de": "Trumps unpopulärer Krieg gegen den Iran: Die meisten Amerikaner lehnen den US-israelischen Krieg gegen den Iran ab"
       },
       "summary": {
-        "zh": "特朗普在社交媒体上表示，伊朗必须在48小时内达成协议，以便重新开放霍尔木兹海峡，尽管他没有提及一架坠毁的美国战机。",
-        "en": "Trump stated on social media that Iran must make a deal within 48 hours to reopen the Strait of Hormuz, although he did not reference a downed US jet.",
-        "de": "Trump erklärte in den sozialen Medien, dass Iran innerhalb von 48 Stunden einen Deal schließen müsse, um die Straße von Hormuz wieder zu öffnen, obwohl er kein Wort über ein abgestürztes US-Jet verlor."
+        "zh": "大多数美国人对特朗普发起的对伊朗的战争表示反对，这场战争在美国历史上开局最不受欢迎。",
+        "en": "Most Americans oppose the war on Iran initiated by Trump, marking one of the least popular starts to a war in U.S. history.",
+        "de": "Die meisten Amerikaner lehnen den von Trump initiierten Krieg gegen den Iran ab, was den unpopulärsten Kriegsbeginn in der US-Geschichte darstellt."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-04",
-      "url": "https://www.aljazeera.com/news/2026/4/4/trump-says-iran-has-48-hours-to-make-deal-as-search-for-us-pilot-continues?traffic_source=rss"
+      "date": "2026-04-05",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/5/trumps-unpopular-war-on-iran?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "联合国监管机构对伊朗核电厂新攻击表示“深切关注”",
-        "en": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
-        "de": "UN-Wachhund äußert 'tiefe Besorgnis', während Iran neue Angriffe auf das Kernkraftwerk meldet"
+        "zh": "伊朗表示伊拉克船只可以通过霍尔木兹海峡，过境量上升",
+        "en": "Iran says Iraqi ships can pass Strait of Hormuz as transits tick up",
+        "de": "Iran sagt, dass irakische Schiffe die Straße von Hormuz passieren können, während die Durchgänge zunehmen"
       },
       "summary": {
-        "zh": "国际原子能机构对伊朗布什尔核电厂的攻击表示深切关注，呼吁各方保持克制，以避免核事故的发生。",
-        "en": "The International Atomic Energy Agency has expressed deep concern over attacks on Iran's Bushehr nuclear plant, urging all parties to exercise restraint to avoid a nuclear accident.",
-        "de": "Die Internationale Atomenergie-Organisation hat tiefe Besorgnis über Angriffe auf das iranische Kernkraftwerk Bushehr geäußert und alle Parteien aufgefordert, Zurückhaltung zu üben, um einen nuklearen Unfall zu vermeiden."
+        "zh": "伊朗政府表示，伊拉克船只在霍尔木兹海峡的通行量增加，并表示将不会对其施加限制。",
+        "en": "The Iranian government states that Iraqi ships can pass through the Strait of Hormuz as transit volumes increase, with no restrictions imposed.",
+        "de": "Die iranische Regierung erklärt, dass irakische Schiffe die Straße von Hormuz passieren können, während die Durchgangsmengen zunehmen, ohne dass Einschränkungen auferlegt werden."
       },
-      "source": "BBC News",
-      "date": "2026-04-04",
-      "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-04-05",
+      "url": "https://www.aljazeera.com/economy/2026/4/5/iran-says-iraqi-ships-can-pass-strait-of-hormuz-as-transits-tick-up?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国逮捕已故伊朗将军卡西姆·苏莱曼尼的亲属",
-        "en": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
-        "de": "US-Arrest von Verwandten des verstorbenen iranischen Generals Qasem Soleimani"
+        "zh": "美国卫星公司Planet Labs宣布对伊朗战争图像的黑暗期",
+        "en": "US satellite firm Planet Labs announces blackout on war on Iran images",
+        "de": "US-Satellitenfirma Planet Labs kündigt Blackout für Bilder des Krieges gegen den Iran an"
       },
       "summary": {
-        "zh": "美国移民和海关执法局表示，已故伊朗将军卡西姆·苏莱曼尼的侄女和外甥女已被拘留。",
-        "en": "US Immigration and Customs Enforcement officials stated that the niece and grand-niece of deceased Iranian general Qasem Soleimani are in custody.",
-        "de": "Beamte der US-Einwanderungs- und Zollbehörde gaben bekannt, dass die Nichte und Großnichte des verstorbenen iranischen Generals Qasem Soleimani in Gewahrsam sind."
+        "zh": "Planet Labs宣布在美国-以色列对伊朗的战争期间将不再发布相关图像，此举是应美国政府的要求。",
+        "en": "Planet Labs announces a blackout on images related to the US-Israel war on Iran, following a request from the US government.",
+        "de": "Planet Labs kündigt einen Blackout für Bilder im Zusammenhang mit dem US-israelischen Krieg gegen den Iran an, nachdem eine Anfrage der US-Regierung eingegangen ist."
       },
-      "source": "BBC News",
-      "date": "2026-04-04",
-      "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-04-05",
+      "url": "https://www.aljazeera.com/news/2026/4/5/us-satellite-firm-planet-labs-announces-blackout-on-war-on-iran-images?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国3月非农就业人数增加178,000，失业率为4.3%",
+        "zh": "美国3月就业人数增加178,000，超出预期；失业率为4.3%",
         "en": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
-        "de": "Die US-Löhne stiegen im März um 178.000, mehr als erwartet; Arbeitslosenquote bei 4,3%"
+        "de": "Die US-Löhne stiegen im März um 178.000, mehr als erwartet; Arbeitslosigkeit bei 4,3%"
       },
       "summary": {
-        "zh": "美国3月非农就业人数增加178,000，超出预期，失业率降至4.3%。",
-        "en": "U.S. nonfarm payrolls increased by 178,000 in March, exceeding expectations, with the unemployment rate dropping to 4.3%.",
-        "de": "Die US-Nichtlandwirtschaftsgehälter stiegen im März um 178.000, was die Erwartungen übertraf, während die Arbeitslosenquote auf 4,3% sank."
+        "zh": "美国3月份的非农就业人数增加了178,000，超出预期的59,000，失业率降至4.3%。",
+        "en": "U.S. nonfarm payrolls increased by 178,000 in March, exceeding the expected 59,000, with the unemployment rate dropping to 4.3%.",
+        "de": "Die US-Nichtlandwirtschaftsgehälter stiegen im März um 178.000, was die erwarteten 59.000 übertraf, während die Arbeitslosenquote auf 4,3% sank."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-03",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "3月就业报告将于周五发布。以下是预期内容",
+        "zh": "3月就业报告将于周五发布。以下是预期：",
         "en": "The March jobs report will be released on Friday. Here's what to expect",
-        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Das können Sie erwarten"
+        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Hier ist, was zu erwarten ist"
       },
       "summary": {
-        "zh": "预计美国3月将新增59,000个就业岗位，失业率保持在4.4%。",
-        "en": "The U.S. is projected to add 59,000 jobs in March, with the unemployment rate holding steady at 4.4%.",
-        "de": "Es wird erwartet, dass die USA im März 59.000 Arbeitsplätze schaffen, während die Arbeitslosenquote bei 4,4% bleibt."
+        "zh": "预计3月份美国经济将新增59,000个就业岗位，失业率保持在4.4%。",
+        "en": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
+        "de": "Die US-Wirtschaft wird voraussichtlich im März 59.000 neue Arbeitsplätze schaffen, während die Arbeitslosenquote bei 4,4% bleibt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-02",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "私营部门3月新增62,000个岗位，超出预期，ADP称",
+        "zh": "私营部门3月雇佣总数为62,000，超出预期，ADP称",
         "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
         "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, so ADP"
       },
       "summary": {
-        "zh": "ADP报告显示，3月私营部门就业增长保持稳定，医疗和建筑行业提供了几乎所有的增长动力。",
-        "en": "ADP reports that private sector employment growth remained steady in March, with healthcare and construction providing nearly all the momentum.",
-        "de": "ADP berichtet, dass das Beschäftigungswachstum im privaten Sektor im März stabil blieb, wobei das Gesundheitswesen und der Bau nahezu die gesamte Dynamik lieferten."
+        "zh": "ADP报告称，3月份私营部门的就业增长总数为62,000，主要由医疗保健和建筑行业驱动。",
+        "en": "ADP reports that private sector hiring totaled 62,000 in March, driven primarily by the healthcare and construction sectors.",
+        "de": "ADP berichtet, dass die Einstellungen im privaten Sektor im März 62.000 betrugen, hauptsächlich angetrieben von den Sektoren Gesundheitswesen und Bau."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-01",
