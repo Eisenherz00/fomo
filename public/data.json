@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-06T06:17:35.270825+00:00",
+  "generatedAt": "2026-04-06T17:11:44.807231+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "将数据中心放置在太空中需要的四件事：MIT科技评论解释",
-        "en": "Four things we’d need to put data centers in space: MIT Technology Review Explains",
-        "de": "Vier Dinge, die wir benötigen, um Rechenzentren im Weltraum zu errichten: MIT Technology Review erklärt"
+        "zh": "能够真正揭示你的工作与人工智能之间关系的数据",
+        "en": "The one piece of data that could actually shed light on your job and AI",
+        "de": "Das eine Stück Daten, das tatsächlich Licht auf Ihren Job und KI werfen könnte"
       },
       "summary": {
-        "zh": "MIT科技评论探讨了将数据中心放置在太空中所需的四个关键要素，包括技术、成本和可行性等方面的挑战。",
-        "en": "MIT Technology Review discusses four key requirements for placing data centers in space, including challenges related to technology, cost, and feasibility.",
-        "de": "Die MIT Technology Review erörtert vier wesentliche Anforderungen für die Platzierung von Rechenzentren im Weltraum, einschließlich Herausforderungen in Bezug auf Technologie, Kosten und Machbarkeit."
+        "zh": "这篇文章探讨了一个特定的数据点如何帮助人们理解人工智能在工作中的作用。它强调了数据的重要性，尤其是在快速发展的技术环境中。",
+        "en": "This article explores how a specific data point can help individuals understand the role of AI in the workplace. It emphasizes the importance of data, especially in a rapidly evolving technological landscape.",
+        "de": "Dieser Artikel untersucht, wie ein bestimmter Datenpunkt Einzelpersonen helfen kann, die Rolle von KI am Arbeitsplatz zu verstehen. Er betont die Bedeutung von Daten, insbesondere in einer sich schnell entwickelnden technologischen Landschaft."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-03",
-      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
+      "date": "2026-04-06",
+      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "燃料价格飙升，塑料可能是下一个受害者",
-        "en": "Fuel prices are soaring. Plastic could be next.",
-        "de": "Die Kraftstoffpreise steigen. Plastik könnte das nächste Opfer sein."
+        "zh": "人工智能正在改变小型在线卖家的生产决策",
+        "en": "AI is changing how small online sellers decide what to make",
+        "de": "KI verändert, wie kleine Online-Verkäufer entscheiden, was sie herstellen"
       },
       "summary": {
-        "zh": "由于伊朗战争的持续，燃料价格的上涨可能会导致塑料价格也随之飙升，影响全球经济。",
-        "en": "The ongoing war in Iran is causing fuel prices to rise, which may lead to an increase in plastic prices, impacting the global economy.",
-        "de": "Der andauernde Krieg im Iran führt zu steigenden Kraftstoffpreisen, was zu einem Anstieg der Kunststoffpreise führen könnte und die globale Wirtschaft beeinflusst."
+        "zh": "这篇文章讨论了人工智能如何影响小型在线卖家的产品决策。通过使用数据分析，这些卖家能够更好地满足市场需求。",
+        "en": "This article discusses how AI is influencing product decisions for small online sellers. By utilizing data analytics, these sellers can better meet market demands.",
+        "de": "Dieser Artikel behandelt, wie KI die Produktentscheidungen kleiner Online-Verkäufer beeinflusst. Durch die Nutzung von Datenanalysen können diese Verkäufer besser auf die Marktnachfrage reagieren."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-02",
-      "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
+      "date": "2026-04-06",
+      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI基准测试已破损。我们需要什么替代方案。",
-        "en": "AI benchmarks are broken. Here’s what we need instead.",
-        "de": "Die KI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
+        "zh": "将数据中心放置在太空中需要的四件事",
+        "en": "Four things we’d need to put data centers in space",
+        "de": "Vier Dinge, die wir benötigen, um Datenzentren im Weltraum zu errichten"
       },
       "summary": {
-        "zh": "文章指出，传统的人工智能评估方法已不再适用，提出了新的评估标准以更好地反映AI的能力。",
-        "en": "The article points out that traditional AI evaluation methods are no longer applicable and proposes new assessment standards to better reflect AI capabilities.",
-        "de": "Der Artikel weist darauf hin, dass traditionelle Bewertungsmethoden für KI nicht mehr anwendbar sind und schlägt neue Bewertungsstandards vor, um die Fähigkeiten von KI besser widerzuspiegeln."
+        "zh": "这篇文章探讨了在太空中建立数据中心所需的四个关键要素。它强调了技术、资源和基础设施的挑战。",
+        "en": "This article explores the four key elements needed to establish data centers in space. It highlights the challenges related to technology, resources, and infrastructure.",
+        "de": "Dieser Artikel untersucht die vier Schlüsselelemente, die erforderlich sind, um Datenzentren im Weltraum zu errichten. Er hebt die Herausforderungen im Zusammenhang mit Technologie, Ressourcen und Infrastruktur hervor."
       },
       "source": "MIT Technology Review",
-      "date": "2026-03-31",
-      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
+      "date": "2026-04-03",
+      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普宣布救援成功，但对美国在伊朗的行动威胁仍然存在",
-        "en": "Trump declares victory after rescue but threats to US operation in Iran still loom",
-        "de": "Trump erklärt den Sieg nach der Rettung, aber Bedrohungen für die US-Operation im Iran bestehen weiterhin"
+        "zh": "加沙营地为儿童提供安全感",
+        "en": "Gaza camp offers children a sense of safety",
+        "de": "Gaza-Camp bietet Kindern ein Gefühl von Sicherheit"
       },
       "summary": {
-        "zh": "特朗普在成功救援美国空军飞行员后宣布胜利，但仍面临对美国在伊朗行动的威胁。",
-        "en": "Trump declared victory after the successful rescue of a U.S. airman, but threats to U.S. operations in Iran still loom.",
-        "de": "Trump erklärte den Sieg nach der erfolgreichen Rettung eines US-Piloten, aber Bedrohungen für US-Operationen im Iran bestehen weiterhin."
+        "zh": "Samir项目为加沙的儿童提供一个学习和治愈的营地，让他们重新获得安全感。这个项目旨在帮助儿童在冲突中恢复心理健康。",
+        "en": "The Samir Project offers a camp for children in Gaza where they can learn, heal, and regain a sense of safety. This initiative aims to help children recover their mental health amid conflict.",
+        "de": "Das Samir-Projekt bietet ein Camp für Kinder in Gaza, in dem sie lernen, heilen und ein Gefühl von Sicherheit zurückgewinnen können. Diese Initiative zielt darauf ab, Kindern zu helfen, ihre psychische Gesundheit inmitten des Konflikts wiederherzustellen."
       },
-      "source": "BBC News",
+      "source": "Al Jazeera",
       "date": "2026-04-06",
-      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/gaza-camp-offers-children-a-sense-of-safety?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "越南的零工工人因伊朗战争的后果而受到燃料成本上涨的冲击",
-        "en": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
-        "de": "Vietnams Gig-Arbeiter leiden unter steigenden Kraftstoffkosten infolge des Iran-Kriegs"
+        "zh": "以色列军队在加沙南部开火，导致一名世卫组织工作人员死亡",
+        "en": "Israeli army fire on WHO vehicle in southern Gaza kills one, medics report",
+        "de": "Israels Armee feuert auf WHO-Fahrzeug im Süden Gazas und tötet einen, berichten Sanitäter"
       },
       "summary": {
-        "zh": "由于伊朗封锁霍尔木兹海峡，越南的柴油价格翻了一番，给零工工人带来了巨大的经济压力。",
-        "en": "Diesel prices in Vietnam have more than doubled due to the Iranian blockade of the Strait of Hormuz, placing significant economic pressure on gig workers.",
-        "de": "Die Dieselpreise in Vietnam haben sich aufgrund der iranischen Blockade der Straße von Hormuz mehr als verdoppelt, was erheblichen wirtschaftlichen Druck auf Gig-Arbeiter ausübt."
+        "zh": "世卫组织的司机在以色列军队的攻击中丧生，此外还有多名巴勒斯坦人受伤。此事件进一步加剧了加沙地区的紧张局势。",
+        "en": "A WHO driver was killed in an attack by the Israeli army, with several other Palestinians also injured. This incident further escalates tensions in the Gaza region.",
+        "de": "Ein Fahrer der WHO wurde bei einem Angriff der israelischen Armee getötet, mehrere andere Palästinenser wurden ebenfalls verletzt. Dieser Vorfall eskaliert die Spannungen in der Region Gaza weiter."
       },
       "source": "Al Jazeera",
       "date": "2026-04-06",
-      "url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/6/who-employee-killed-several-injured-in-israeli-attack-in-gaza-say-medics?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "哈马斯武装派别表示解除武装要求不可接受",
-        "en": "Hamas armed wing says disarmament demands not acceptable",
-        "de": "Die bewaffnete Flügel von Hamas sagt, dass Abrüstungforderungen nicht akzeptabel sind"
+        "zh": "乌克兰袭击俄罗斯黑海能源中心诺沃罗西斯克",
+        "en": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
+        "de": "Ukraine greift russisches Energiezentrum Novorossiysk im Schwarzen Meer an"
       },
       "summary": {
-        "zh": "哈马斯发言人表示，解除武装的要求等同于继续以色列的种族灭绝行为，绝不接受。",
-        "en": "A spokesperson for Hamas stated that demands for disarmament are tantamount to continuing Israel's genocide and are absolutely unacceptable.",
-        "de": "Ein Sprecher von Hamas erklärte, dass Abrüstungsforderungen gleichbedeutend mit der Fortsetzung des Völkermords an Israel sind und absolut inakzeptabel sind."
+        "zh": "乌克兰加大对俄罗斯能源基础设施的攻击，旨在破坏其战争融资。此举可能会对俄罗斯的经济造成重大影响。",
+        "en": "Ukraine increases attacks on Russian energy infrastructure in a bid to disrupt financing of its war. This move could have significant economic repercussions for Russia.",
+        "de": "Die Ukraine verstärkt die Angriffe auf die russische Energieinfrastruktur, um die Finanzierung ihres Krieges zu stören. Dieser Schritt könnte erhebliche wirtschaftliche Auswirkungen auf Russland haben."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-05",
-      "url": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss"
+      "date": "2026-04-06",
+      "url": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国3月份非农就业人数增加178,000，失业率为4.3%",
+        "zh": "美国3月份新增178,000个就业岗位，失业率为4.3%",
         "en": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
         "de": "Die US-Löhne stiegen im März um 178.000, mehr als erwartet; Arbeitslosigkeit bei 4,3%"
       },
       "summary": {
-        "zh": "美国3月份非农就业人数增加178,000，超出预期，失业率降至4.3%，显示出经济复苏的迹象。",
-        "en": "U.S. nonfarm payrolls rose by 178,000 in March, exceeding expectations, with the unemployment rate dropping to 4.3%, indicating signs of economic recovery.",
-        "de": "Die US-Nichtlandwirtschaftslohnzahlen stiegen im März um 178.000, was die Erwartungen übertraf, während die Arbeitslosenquote auf 4,3% sank, was auf Anzeichen einer wirtschaftlichen Erholung hinweist."
+        "zh": "美国3月份的非农就业岗位增长178,000个，超出预期，失业率降至4.3%。这一数据可能影响未来的货币政策。",
+        "en": "Nonfarm payrolls in the U.S. increased by 178,000 in March, exceeding expectations, with the unemployment rate dropping to 4.3%. This data could influence future monetary policy.",
+        "de": "Die Zahl der Nichtlandwirtschaftlichen Beschäftigten in den USA stieg im März um 178.000 und übertraf die Erwartungen, während die Arbeitslosenquote auf 4,3 % sank. Diese Daten könnten die zukünftige Geldpolitik beeinflussen."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-03",
       "url": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "3月份私营部门招聘总数为62,000，超出预期",
-        "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
-        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, sagt ADP"
+        "zh": "3月份的就业报告将于周五发布。以下是预期内容：",
+        "en": "The March jobs report will be released on Friday. Here's what to expect",
+        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Hier ist, was zu erwarten ist"
       },
       "summary": {
-        "zh": "ADP报告显示，3月份私营部门新增就业62,000个，超出预期，主要由医疗和建筑行业推动。",
-        "en": "ADP reported that private sector hiring totaled 62,000 in March, exceeding expectations, primarily driven by the healthcare and construction sectors.",
-        "de": "ADP berichtete, dass die Einstellungen im privaten Sektor im März 62.000 betrugen, was die Erwartungen übertraf, hauptsächlich getrieben von den Sektoren Gesundheitswesen und Bau."
+        "zh": "预计3月份美国经济将新增59,000个就业岗位，失业率保持在4.4%。市场对这一数据的关注度很高。",
+        "en": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%. The market is closely watching this data.",
+        "de": "Die US-Wirtschaft wird voraussichtlich im März 59.000 neue Arbeitsplätze schaffen, während die Arbeitslosenquote bei 4,4 % bleibt. Der Markt beobachtet diese Daten genau."
       },
-      "source": "CNBC",
-      "date": "2026-04-01",
-      "url": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html"
+      "source": "CNBC – Markets",
+      "date": "2026-04-02",
+      "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "四美元的汽油价格不会引发美联储加息——反而可能导致降息",
-        "en": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
-        "de": "Warum 4-Dollar-Gaspreise keine Zinserhöhungen der Fed auslösen werden – und zu Senkungen führen könnten"
+        "zh": "私营部门3月份新增62,000个岗位，表现好于预期",
+        "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
+        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, sagt ADP"
       },
       "summary": {
-        "zh": "尽管油价上涨至每加仑四美元，但分析师认为这不会导致美联储加息，反而可能会促使降息。",
-        "en": "Despite gas prices rising to $4 a gallon, analysts believe this will not trigger Fed interest rate hikes but may instead lead to cuts.",
-        "de": "Trotz steigender Benzinpreise auf 4 Dollar pro Gallone glauben Analysten, dass dies keine Zinserhöhungen der Fed auslösen wird, sondern möglicherweise zu Senkungen führen könnte."
+        "zh": "ADP报告显示，3月份私营部门新增62,000个岗位，超出预期，医疗和建筑行业继续推动就业增长。",
+        "en": "ADP reports that private sector hiring totaled 62,000 in March, exceeding expectations, with healthcare and construction continuing to drive job growth.",
+        "de": "ADP berichtet, dass die Einstellungen im privaten Sektor im März 62.000 betrugen und die Erwartungen übertrafen, wobei das Gesundheitswesen und die Bauwirtschaft das Beschäftigungswachstum weiterhin ankurbeln."
       },
-      "source": "CNBC",
-      "date": "2026-03-31",
-      "url": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html"
+      "source": "CNBC – Markets",
+      "date": "2026-04-01",
+      "url": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html"
     }
   ]
 }
