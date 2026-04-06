@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-05T16:59:27.480613+00:00",
+  "generatedAt": "2026-04-06T06:17:35.270825+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "将数据中心放置在太空中需要的四件事：麻省理工科技评论解释",
+        "zh": "将数据中心放置在太空中需要的四件事：MIT科技评论解释",
         "en": "Four things we’d need to put data centers in space: MIT Technology Review Explains",
-        "de": "Vier Dinge, die wir benötigen, um Rechenzentren im Weltraum zu platzieren: MIT Technology Review erklärt"
+        "de": "Vier Dinge, die wir benötigen, um Rechenzentren im Weltraum zu errichten: MIT Technology Review erklärt"
       },
       "summary": {
-        "zh": "麻省理工科技评论探讨了将数据中心放置在太空中所需的四个关键因素，包括技术、成本、法规和环境影响。",
-        "en": "MIT Technology Review discusses the four key factors needed to place data centers in space, including technology, costs, regulations, and environmental impacts.",
-        "de": "Die MIT Technology Review erörtert die vier Schlüsselfaktoren, die erforderlich sind, um Rechenzentren im Weltraum zu platzieren, einschließlich Technologie, Kosten, Vorschriften und Umweltauswirkungen."
+        "zh": "MIT科技评论探讨了将数据中心放置在太空中所需的四个关键要素，包括技术、成本和可行性等方面的挑战。",
+        "en": "MIT Technology Review discusses four key requirements for placing data centers in space, including challenges related to technology, cost, and feasibility.",
+        "de": "Die MIT Technology Review erörtert vier wesentliche Anforderungen für die Platzierung von Rechenzentren im Weltraum, einschließlich Herausforderungen in Bezug auf Technologie, Kosten und Machbarkeit."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-03",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "燃料价格飙升。塑料可能是下一个。",
+        "zh": "燃料价格飙升，塑料可能是下一个受害者",
         "en": "Fuel prices are soaring. Plastic could be next.",
-        "de": "Die Kraftstoffpreise steigen. Plastik könnte das nächste sein."
+        "de": "Die Kraftstoffpreise steigen. Plastik könnte das nächste Opfer sein."
       },
       "summary": {
-        "zh": "随着伊朗战争的持续，燃料价格的上涨可能导致塑料价格也随之上涨，影响全球经济。",
-        "en": "As the war in Iran continues, rising fuel prices may lead to an increase in plastic prices, impacting the global economy.",
-        "de": "Da der Krieg im Iran anhält, könnten steigende Kraftstoffpreise zu einem Anstieg der Kunststoffpreise führen, was die globale Wirtschaft beeinflusst."
+        "zh": "由于伊朗战争的持续，燃料价格的上涨可能会导致塑料价格也随之飙升，影响全球经济。",
+        "en": "The ongoing war in Iran is causing fuel prices to rise, which may lead to an increase in plastic prices, impacting the global economy.",
+        "de": "Der andauernde Krieg im Iran führt zu steigenden Kraftstoffpreisen, was zu einem Anstieg der Kunststoffpreise führen könnte und die globale Wirtschaft beeinflusst."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-02",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI基准测试已破损。我们需要什么。",
+        "zh": "AI基准测试已破损。我们需要什么替代方案。",
         "en": "AI benchmarks are broken. Here’s what we need instead.",
         "de": "Die KI-Benchmarks sind kaputt. Das brauchen wir stattdessen."
       },
       "summary": {
-        "zh": "文章指出，传统的人工智能评估方法已不再适用，呼吁建立新的评估标准来更好地反映机器的能力。",
-        "en": "The article points out that traditional AI evaluation methods are no longer applicable and calls for the establishment of new assessment standards to better reflect machine capabilities.",
-        "de": "Der Artikel weist darauf hin, dass traditionelle KI-Bewertungsmethoden nicht mehr anwendbar sind, und fordert die Schaffung neuer Bewertungsstandards, um die Fähigkeiten von Maschinen besser widerzuspiegeln."
+        "zh": "文章指出，传统的人工智能评估方法已不再适用，提出了新的评估标准以更好地反映AI的能力。",
+        "en": "The article points out that traditional AI evaluation methods are no longer applicable and proposes new assessment standards to better reflect AI capabilities.",
+        "de": "Der Artikel weist darauf hin, dass traditionelle Bewertungsmethoden für KI nicht mehr anwendbar sind und schlägt neue Bewertungsstandards vor, um die Fähigkeiten von KI besser widerzuspiegeln."
       },
       "source": "MIT Technology Review",
       "date": "2026-03-31",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列空袭黎巴嫩造成至少14人死亡",
-        "en": "At least 14 people killed in Israeli strikes across Lebanon",
-        "de": "Mindestens 14 Menschen bei israelischen Luftangriffen im Libanon getötet"
+        "zh": "特朗普宣布救援成功，但对美国在伊朗的行动威胁仍然存在",
+        "en": "Trump declares victory after rescue but threats to US operation in Iran still loom",
+        "de": "Trump erklärt den Sieg nach der Rettung, aber Bedrohungen für die US-Operation im Iran bestehen weiterhin"
       },
       "summary": {
-        "zh": "以色列对黎巴嫩的空袭造成至少14人死亡，真主党向以色列北部发射炮弹，以色列军队则深入黎巴嫩南部。",
-        "en": "Israeli airstrikes in Lebanon have resulted in at least 14 deaths, with Hezbollah firing projectiles into northern Israel while Israeli troops push deeper into southern Lebanon.",
-        "de": "Israels Luftangriffe im Libanon haben mindestens 14 Todesopfer gefordert, während die Hisbollah Geschosse in den Norden Israels abfeuerte und israelische Truppen weiter in den Süden Libanons vordrangen."
+        "zh": "特朗普在成功救援美国空军飞行员后宣布胜利，但仍面临对美国在伊朗行动的威胁。",
+        "en": "Trump declared victory after the successful rescue of a U.S. airman, but threats to U.S. operations in Iran still loom.",
+        "de": "Trump erklärte den Sieg nach der erfolgreichen Rettung eines US-Piloten, aber Bedrohungen für US-Operationen im Iran bestehen weiterhin."
       },
-      "source": "Al Jazeera",
-      "date": "2026-04-05",
-      "url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon?traffic_source=rss"
+      "source": "BBC News",
+      "date": "2026-04-06",
+      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "教皇警告世界对暴力变得‘冷漠’",
-        "en": "Pope warns world is becoming ‘indifferent’ to violence",
-        "de": "Papst warnt, die Welt werde ‚gleichgültig‘ gegenüber Gewalt"
+        "zh": "越南的零工工人因伊朗战争的后果而受到燃料成本上涨的冲击",
+        "en": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
+        "de": "Vietnams Gig-Arbeiter leiden unter steigenden Kraftstoffkosten infolge des Iran-Kriegs"
       },
       "summary": {
-        "zh": "教皇利奥十四世在梵蒂冈举行的首次复活节弥撒上呼吁全球领导人选择和平。",
-        "en": "Pope Leo XIV used his first Easter mass at the Vatican to urge global leaders to 'choose peace'.",
-        "de": "Papst Leo XIV nutzte seine erste Ostermesse im Vatikan, um die globalen Führer zu drängen, 'Frieden zu wählen'."
+        "zh": "由于伊朗封锁霍尔木兹海峡，越南的柴油价格翻了一番，给零工工人带来了巨大的经济压力。",
+        "en": "Diesel prices in Vietnam have more than doubled due to the Iranian blockade of the Strait of Hormuz, placing significant economic pressure on gig workers.",
+        "de": "Die Dieselpreise in Vietnam haben sich aufgrund der iranischen Blockade der Straße von Hormuz mehr als verdoppelt, was erheblichen wirtschaftlichen Druck auf Gig-Arbeiter ausübt."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/pope-warns-world-is-becoming-indifferent-to-violence?traffic_source=rss"
+      "date": "2026-04-06",
+      "url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普威胁对伊朗采取‘地狱’行动",
-        "en": "Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches",
-        "de": "Trump droht Iran mit ‚Hölle‘ über die Straße von Hormus, während die Frist näher rückt"
+        "zh": "哈马斯武装派别表示解除武装要求不可接受",
+        "en": "Hamas armed wing says disarmament demands not acceptable",
+        "de": "Die bewaffnete Flügel von Hamas sagt, dass Abrüstungforderungen nicht akzeptabel sind"
       },
       "summary": {
-        "zh": "美国总统特朗普在社交媒体上发文，威胁在截止日期到来时对伊朗的电厂和桥梁进行打击。",
-        "en": "U.S. President Trump posted on social media threatening to strike power plants and bridges in Iran as the deadline approaches.",
-        "de": "Der US-Präsident Trump postete in den sozialen Medien und drohte, Kraftwerke und Brücken im Iran anzugreifen, während die Frist näher rückt."
+        "zh": "哈马斯发言人表示，解除武装的要求等同于继续以色列的种族灭绝行为，绝不接受。",
+        "en": "A spokesperson for Hamas stated that demands for disarmament are tantamount to continuing Israel's genocide and are absolutely unacceptable.",
+        "de": "Ein Sprecher von Hamas erklärte, dass Abrüstungsforderungen gleichbedeutend mit der Fortsetzung des Völkermords an Israel sind und absolut inakzeptabel sind."
       },
       "source": "Al Jazeera",
       "date": "2026-04-05",
-      "url": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国3月新增178,000个就业岗位，失业率为4.3%",
+        "zh": "美国3月份非农就业人数增加178,000，失业率为4.3%",
         "en": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
         "de": "Die US-Löhne stiegen im März um 178.000, mehr als erwartet; Arbeitslosigkeit bei 4,3%"
       },
       "summary": {
-        "zh": "美国3月的非农就业岗位增加了178,000个，失业率降至4.3%，超出预期。",
-        "en": "U.S. nonfarm payrolls increased by 178,000 in March, with the unemployment rate dropping to 4.3%, exceeding expectations.",
-        "de": "Die US-Nichtlandwirtschaftsgehälter stiegen im März um 178.000, wobei die Arbeitslosenquote auf 4,3% fiel und die Erwartungen übertraf."
+        "zh": "美国3月份非农就业人数增加178,000，超出预期，失业率降至4.3%，显示出经济复苏的迹象。",
+        "en": "U.S. nonfarm payrolls rose by 178,000 in March, exceeding expectations, with the unemployment rate dropping to 4.3%, indicating signs of economic recovery.",
+        "de": "Die US-Nichtlandwirtschaftslohnzahlen stiegen im März um 178.000, was die Erwartungen übertraf, während die Arbeitslosenquote auf 4,3% sank, was auf Anzeichen einer wirtschaftlichen Erholung hinweist."
       },
       "source": "CNBC",
       "date": "2026-04-03",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "3月就业报告将于周五发布。以下是预期：",
-        "en": "The March jobs report will be released on Friday. Here's what to expect:",
-        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Das ist zu erwarten:"
-      },
-      "summary": {
-        "zh": "预计美国经济在3月将新增59,000个就业岗位，失业率保持在4.4%。",
-        "en": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
-        "de": "Die US-Wirtschaft wird voraussichtlich im März 59.000 neue Arbeitsplätze schaffen, während die Arbeitslosenquote bei 4,4% bleibt."
-      },
-      "source": "CNBC",
-      "date": "2026-04-02",
-      "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "私营部门3月招聘总计62,000个，超出预期，ADP称：",
+        "zh": "3月份私营部门招聘总数为62,000，超出预期",
         "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
-        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, so ADP"
+        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, sagt ADP"
       },
       "summary": {
-        "zh": "ADP报告显示，3月私营部门就业增长保持良好，医疗和建筑行业继续提供主要动力。",
-        "en": "ADP reports that private sector employment growth in March remained strong, with healthcare and construction continuing to provide the main momentum.",
-        "de": "ADP berichtet, dass das Beschäftigungswachstum im privaten Sektor im März stark blieb, wobei das Gesundheitswesen und der Bau weiterhin die Hauptantriebskräfte bildeten."
+        "zh": "ADP报告显示，3月份私营部门新增就业62,000个，超出预期，主要由医疗和建筑行业推动。",
+        "en": "ADP reported that private sector hiring totaled 62,000 in March, exceeding expectations, primarily driven by the healthcare and construction sectors.",
+        "de": "ADP berichtete, dass die Einstellungen im privaten Sektor im März 62.000 betrugen, was die Erwartungen übertraf, hauptsächlich getrieben von den Sektoren Gesundheitswesen und Bau."
       },
       "source": "CNBC",
       "date": "2026-04-01",
       "url": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "四美元的汽油价格不会引发美联储加息——反而可能导致降息",
+        "en": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
+        "de": "Warum 4-Dollar-Gaspreise keine Zinserhöhungen der Fed auslösen werden – und zu Senkungen führen könnten"
+      },
+      "summary": {
+        "zh": "尽管油价上涨至每加仑四美元，但分析师认为这不会导致美联储加息，反而可能会促使降息。",
+        "en": "Despite gas prices rising to $4 a gallon, analysts believe this will not trigger Fed interest rate hikes but may instead lead to cuts.",
+        "de": "Trotz steigender Benzinpreise auf 4 Dollar pro Gallone glauben Analysten, dass dies keine Zinserhöhungen der Fed auslösen wird, sondern möglicherweise zu Senkungen führen könnte."
+      },
+      "source": "CNBC",
+      "date": "2026-03-31",
+      "url": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html"
     }
   ]
 }
