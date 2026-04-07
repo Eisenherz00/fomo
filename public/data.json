@@ -1,119 +1,119 @@
 {
-  "generatedAt": "2026-04-07T06:07:08.204324+00:00",
+  "generatedAt": "2026-04-07T17:31:00.279889+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "能够真正揭示你的工作与人工智能之间关系的数据",
-        "en": "The one piece of data that could actually shed light on your job and AI",
-        "de": "Das eine Stück Daten, das tatsächlich Licht auf Ihren Job und KI werfen könnte"
+        "zh": "中东的海水淡化厂越来越脆弱：MIT科技评论解释",
+        "en": "Desalination plants in the Middle East are increasingly vulnerable: MIT Technology Review Explains",
+        "de": "Entsalzungsanlagen im Nahen Osten sind zunehmend anfällig: MIT Technology Review erklärt"
       },
       "summary": {
-        "zh": "这篇文章探讨了一种特定的数据类型，可能会帮助人们理解人工智能如何影响他们的职业生涯。作者强调了数据在职业决策和AI应用中的重要性。",
-        "en": "This article explores a specific type of data that could help individuals understand how AI impacts their careers. The author emphasizes the importance of data in career decisions and AI applications.",
-        "de": "Dieser Artikel untersucht eine bestimmte Art von Daten, die Einzelpersonen helfen könnte zu verstehen, wie KI ihre Karrieren beeinflusst. Der Autor betont die Bedeutung von Daten für Karriereentscheidungen und KI-Anwendungen."
+        "zh": "中东的海水淡化厂面临越来越多的脆弱性，尤其是在气候变化和地缘政治紧张局势加剧的背景下。这些设施的安全性和可靠性对该地区的水资源供应至关重要。",
+        "en": "Desalination plants in the Middle East are facing increasing vulnerabilities, particularly against the backdrop of climate change and escalating geopolitical tensions. The safety and reliability of these facilities are crucial for the region's water supply.",
+        "de": "Entsalzungsanlagen im Nahen Osten sehen sich zunehmenden Verwundbarkeiten gegenüber, insbesondere vor dem Hintergrund des Klimawandels und eskalierender geopolitischer Spannungen. Die Sicherheit und Zuverlässigkeit dieser Anlagen sind entscheidend für die Wasserversorgung der Region."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-06",
-      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
+      "date": "2026-04-07",
+      "url": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "人工智能正在改变小型在线卖家决定制作什么",
-        "en": "AI is changing how small online sellers decide what to make",
-        "de": "KI verändert, wie kleine Online-Verkäufer entscheiden, was sie herstellen"
+        "zh": "启用以代理为首的流程重设计",
+        "en": "Enabling agent-first process redesign",
+        "de": "Ermöglichung des agentenbasierten Prozessdesigns"
       },
       "summary": {
-        "zh": "这篇文章讨论了人工智能如何影响小型在线卖家的产品决策过程。通过分析消费者数据，卖家能够更好地满足市场需求。",
-        "en": "This article discusses how AI is influencing the product decision-making process of small online sellers. By analyzing consumer data, sellers can better meet market demands.",
-        "de": "Dieser Artikel behandelt, wie KI den Entscheidungsprozess von kleinen Online-Verkäufern in Bezug auf Produkte beeinflusst. Durch die Analyse von Verbraucherdaten können Verkäufer besser auf die Marktnachfrage eingehen."
+        "zh": "AI代理能够动态学习、适应和优化流程，与数据、系统和人员互动。这种方法有助于提高效率和灵活性。",
+        "en": "AI agents can dynamically learn, adapt, and optimize processes as they interact with data, systems, and people. This approach helps enhance efficiency and flexibility.",
+        "de": "KI-Agenten können Prozesse dynamisch lernen, anpassen und optimieren, während sie mit Daten, Systemen und Menschen interagieren. Dieser Ansatz trägt dazu bei, Effizienz und Flexibilität zu steigern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-06",
-      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
+      "date": "2026-04-07",
+      "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "将数据中心放置在太空中需要的四件事",
-        "en": "Four things we’d need to put data centers in space",
-        "de": "Vier Dinge, die wir brauchen würden, um Rechenzentren im Weltraum zu errichten"
+        "zh": "下载：AI对就业的影响，以及太空中的数据中心",
+        "en": "The Download: AI’s impact on jobs, and data centres in space",
+        "de": "Der Download: Die Auswirkungen von KI auf Arbeitsplätze und Datenzentren im Weltraum"
       },
       "summary": {
-        "zh": "文章探讨了在太空中建立数据中心所需的关键要素，包括技术、成本和可持续性等方面的挑战。",
-        "en": "The article explores the key elements required to establish data centers in space, including challenges related to technology, cost, and sustainability.",
-        "de": "Der Artikel untersucht die Schlüsselfaktoren, die erforderlich sind, um Rechenzentren im Weltraum zu errichten, einschließlich Herausforderungen in Bezug auf Technologie, Kosten und Nachhaltigkeit."
+        "zh": "本期下载讨论了AI对就业市场的影响，以及在太空中建立数据中心的潜力。这些主题反映了技术进步对未来工作的深远影响。",
+        "en": "This edition of The Download discusses the impact of AI on the job market and the potential for establishing data centers in space. These topics reflect the profound implications of technological advancements for the future of work.",
+        "de": "Diese Ausgabe des Downloads behandelt die Auswirkungen von KI auf den Arbeitsmarkt und das Potenzial für den Aufbau von Datenzentren im Weltraum. Diese Themen spiegeln die tiefgreifenden Auswirkungen technologischer Fortschritte auf die Zukunft der Arbeit wider."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-03",
-      "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
+      "date": "2026-04-07",
+      "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普威胁袭击伊朗电厂的阴影",
-        "en": "Trump’s threat to strike Iran’s power plants looms",
-        "de": "Trumps Drohung, Irans Kraftwerke anzugreifen, schwebt über uns"
+        "zh": "顶级大学称美以攻击针对伊朗的进展和AI学习",
+        "en": "Top university says US-Israel attack targeted Iran’s progress, AI learning",
+        "de": "Top-Universität sagt, dass der US-israelische Angriff auf Irans Fortschritt und KI-Lernen abzielte"
       },
       "summary": {
-        "zh": "美国总统特朗普在社交媒体上发文称“周二将是电厂日”，引发对可能袭击伊朗电厂的担忧。",
-        "en": "U.S. President Trump posted on social media that 'Tuesday will be power plant day,' raising concerns about a potential strike on Iran's power plants.",
-        "de": "Der US-Präsident Trump postete in sozialen Medien, dass 'Dienstag der Tag der Kraftwerke sein wird', was Bedenken hinsichtlich eines möglichen Angriffs auf Irans Kraftwerke aufwirft."
+        "zh": "伊朗谴责对包括学术中心在内的平民地点的系统性攻击，认为这些攻击破坏了其在AI学习和其他领域的进展。",
+        "en": "Iran condemns systematic attacks on civilian sites, including academic hubs, arguing that these attacks undermine its progress in AI learning and other fields.",
+        "de": "Iran verurteilt systematische Angriffe auf zivile Stätten, einschließlich akademischer Zentren, und argumentiert, dass diese Angriffe seinen Fortschritt im Bereich des KI-Lernens und anderer Bereiche untergraben."
       },
       "source": "Al Jazeera",
       "date": "2026-04-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/trumps-threat-to-strike-irans-power-plants-looms?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/7/top-university-says-us-israel-attack-targeted-irans-progress-ai-learning?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "‘考虑到美国和以色列的记录，伊朗为何会同意停火？’",
-        "en": "‘Why would Iran agree to a ceasefire given US and Israeli track record?’",
-        "de": "‘Warum sollte Iran einem Waffenstillstand zustimmen, angesichts der Bilanz der USA und Israels?’"
+        "zh": "美国否认核计划，伊朗“文明”威胁的最后期限临近",
+        "en": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
+        "de": "Die USA bestreiten einen Nuklearplan, während die Frist für die Bedrohung der iranischen 'Zivilisation' naht"
       },
       "summary": {
-        "zh": "政治分析家特里塔·帕尔西表示，考虑到美国和以色列的历史，伊朗拒绝美国停火提议并不令人意外。",
-        "en": "Political analyst Trita Parsi states that it is not surprising Iran has rejected the U.S. ceasefire proposal, given the historical context with the U.S. and Israel.",
-        "de": "Der politische Analyst Trita Parsi erklärt, dass es nicht überraschend ist, dass Iran den Waffenstillstands Vorschlag der USA abgelehnt hat, angesichts des historischen Kontexts mit den USA und Israel."
+        "zh": "特朗普对“整个文明”进行威胁的言论引发了人们的担忧，美国政府则否认有任何核计划。",
+        "en": "Trump's threats against 'whole civilization' have raised concerns, while the U.S. government denies any nuclear plans.",
+        "de": "Trumps Drohungen gegen die 'ganze Zivilisation' haben Besorgnis ausgelöst, während die US-Regierung einen Nuklearplan bestreitet."
       },
       "source": "Al Jazeera",
       "date": "2026-04-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/why-would-iran-agree-to-a-ceasefire-given-us-and-israeli-track?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "阿尔忒弥斯II号宇航员打破人类最远旅行记录",
-        "en": "Artemis II astronauts break record for farthest human travel from Earth",
-        "de": "Artemis-II-Astronauten brechen den Rekord für die weiteste menschliche Reise von der Erde"
+        "zh": "内塔尼亚胡：以色列通过对伊朗的打击改变“力量平衡”",
+        "en": "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes",
+        "de": "Netanjahu: Israel verschiebt das 'Machtgleichgewicht' mit Angriffen auf den Iran"
       },
       "summary": {
-        "zh": "NASA的阿尔忒弥斯II号任务的四名宇航员打破了人类从地球出发的最远旅行记录，标志着太空探索的新里程碑。",
-        "en": "Four astronauts from NASA’s Artemis II mission have broken the record for the farthest human travel from Earth, marking a new milestone in space exploration.",
-        "de": "Vier Astronauten der NASA-Mission Artemis II haben den Rekord für die weiteste menschliche Reise von der Erde gebrochen, was einen neuen Meilenstein in der Raumfahrt darstellt."
+        "zh": "以色列总理本雅明·内塔尼亚胡表示，以色列正在加强对伊朗的打击，以改变地区的力量平衡。",
+        "en": "Israeli Prime Minister Benjamin Netanyahu states that Israel is intensifying strikes on Iran to shift the regional balance of power.",
+        "de": "Der israelische Premierminister Benjamin Netanjahu erklärt, dass Israel die Angriffe auf den Iran intensiviert, um das regionale Machtgleichgewicht zu verschieben."
       },
       "source": "Al Jazeera",
       "date": "2026-04-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/artemis-ii-astronauts-break-record-for-farthest-human-travel-from-earth?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/netanyahu-israel-shifting-balance-of-power-with-iran-strikes?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国3月就业人数增加178,000，失业率为4.3%",
+        "zh": "美国3月非农就业人数增加178,000，失业率为4.3%",
         "en": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
         "de": "Die US-Löhne stiegen im März um 178.000, mehr als erwartet; Arbeitslosigkeit bei 4,3%"
       },
       "summary": {
-        "zh": "美国3月的非农就业人数增加了178,000，超出预期，失业率降至4.3%。这一数据表明经济复苏的迹象。",
-        "en": "U.S. nonfarm payrolls increased by 178,000 in March, exceeding expectations, with the unemployment rate dropping to 4.3%. This data indicates signs of economic recovery.",
-        "de": "Die US-Nichtlandwirtschaftsgehälter stiegen im März um 178.000, was die Erwartungen übertraf, während die Arbeitslosenquote auf 4,3% sank. Diese Daten deuten auf Anzeichen einer wirtschaftlichen Erholung hin."
+        "zh": "3月份，美国非农就业人数增加178,000，超出预期，失业率降至4.3%。这一数据反映了经济的持续复苏。",
+        "en": "In March, U.S. nonfarm payrolls rose by 178,000, exceeding expectations, with the unemployment rate dropping to 4.3%. This data reflects the ongoing recovery of the economy.",
+        "de": "Im März stiegen die US-Nichtlandwirtschaftsgehälter um 178.000, was die Erwartungen übertraf, während die Arbeitslosenquote auf 4,3% sank. Diese Daten spiegeln die anhaltende Erholung der Wirtschaft wider."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-03",
       "url": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html"
     },
@@ -121,31 +121,31 @@
       "id": "stk-2",
       "title": {
         "zh": "3月就业报告将于周五发布。以下是预期：",
-        "en": "The March jobs report will be released on Friday. Here's what to expect",
-        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Hier ist, was zu erwarten ist"
+        "en": "The March jobs report will be released on Friday. Here's what to expect:",
+        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Das ist zu erwarten:"
       },
       "summary": {
-        "zh": "预计3月的就业报告将显示新增59,000个工作岗位，失业率保持在4.4%。市场对此数据的反应将影响未来的经济政策。",
-        "en": "The March jobs report is expected to show an increase of 59,000 jobs, with the unemployment rate holding at 4.4%. The market's reaction to this data will influence future economic policies.",
-        "de": "Der Arbeitsbericht für März wird voraussichtlich einen Anstieg von 59.000 Arbeitsplätzen zeigen, während die Arbeitslosenquote bei 4,4% bleibt. Die Reaktion des Marktes auf diese Daten wird zukünftige Wirtschaftspolitiken beeinflussen."
+        "zh": "预计3月份美国经济将新增59,000个就业岗位，失业率保持在4.4%。",
+        "en": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
+        "de": "Es wird erwartet, dass die US-Wirtschaft im März 59.000 neue Arbeitsplätze schaffen wird, während die Arbeitslosenquote bei 4,4% bleibt."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-02",
       "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "私营部门3月雇佣总数为62,000，超出预期",
+        "zh": "私营部门3月招聘总数为62,000，超出预期，ADP称",
         "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
         "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, so ADP"
       },
       "summary": {
-        "zh": "ADP报告显示，3月私营部门的雇佣总数为62,000，超出预期。医疗和建筑行业继续推动就业增长。",
-        "en": "ADP reports that private sector hiring totaled 62,000 in March, exceeding expectations. The healthcare and construction sectors continue to drive employment growth.",
-        "de": "ADP berichtet, dass die Einstellungen im privaten Sektor im März 62.000 betrugen, was die Erwartungen übertraf. Die Gesundheits- und Bauwirtschaft treiben weiterhin das Beschäftigungswachstum voran."
+        "zh": "ADP报告显示，3月份私营部门招聘人数为62,000，超出预期，主要由医疗保健和建筑行业推动。",
+        "en": "ADP reports that private sector hiring totaled 62,000 in March, exceeding expectations, primarily driven by the healthcare and construction sectors.",
+        "de": "ADP berichtet, dass die Einstellungen im privaten Sektor im März 62.000 betrugen, was die Erwartungen übertraf, hauptsächlich getrieben von den Sektoren Gesundheitswesen und Bau."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-01",
       "url": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html"
     }
