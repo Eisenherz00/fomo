@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-07T17:31:00.279889+00:00",
+  "generatedAt": "2026-04-08T06:08:28.470270+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "中东的海水淡化厂越来越脆弱：MIT科技评论解释",
+        "zh": "中东的海水淡化厂越来越脆弱：麻省理工科技评论解释",
         "en": "Desalination plants in the Middle East are increasingly vulnerable: MIT Technology Review Explains",
         "de": "Entsalzungsanlagen im Nahen Osten sind zunehmend anfällig: MIT Technology Review erklärt"
       },
       "summary": {
-        "zh": "中东的海水淡化厂面临越来越多的脆弱性，尤其是在气候变化和地缘政治紧张局势加剧的背景下。这些设施的安全性和可靠性对该地区的水资源供应至关重要。",
-        "en": "Desalination plants in the Middle East are facing increasing vulnerabilities, particularly against the backdrop of climate change and escalating geopolitical tensions. The safety and reliability of these facilities are crucial for the region's water supply.",
-        "de": "Entsalzungsanlagen im Nahen Osten sehen sich zunehmenden Verwundbarkeiten gegenüber, insbesondere vor dem Hintergrund des Klimawandels und eskalierender geopolitischer Spannungen. Die Sicherheit und Zuverlässigkeit dieser Anlagen sind entscheidend für die Wasserversorgung der Region."
+        "zh": "麻省理工科技评论指出，中东的海水淡化厂面临越来越多的脆弱性，可能影响水资源的可持续性。",
+        "en": "MIT Technology Review highlights that desalination plants in the Middle East are facing increasing vulnerabilities, potentially impacting the sustainability of water resources.",
+        "de": "Die MIT Technology Review hebt hervor, dass Entsalzungsanlagen im Nahen Osten zunehmenden Verwundbarkeiten ausgesetzt sind, was die Nachhaltigkeit der Wasserressourcen beeinträchtigen könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-07",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "启用以代理为首的流程重设计",
+        "zh": "启用以代理为主的流程重设计",
         "en": "Enabling agent-first process redesign",
-        "de": "Ermöglichung des agentenbasierten Prozessdesigns"
+        "de": "Ermöglichung eines agentenbasierten Prozessdesigns"
       },
       "summary": {
-        "zh": "AI代理能够动态学习、适应和优化流程，与数据、系统和人员互动。这种方法有助于提高效率和灵活性。",
-        "en": "AI agents can dynamically learn, adapt, and optimize processes as they interact with data, systems, and people. This approach helps enhance efficiency and flexibility.",
-        "de": "KI-Agenten können Prozesse dynamisch lernen, anpassen und optimieren, während sie mit Daten, Systemen und Menschen interagieren. Dieser Ansatz trägt dazu bei, Effizienz und Flexibilität zu steigern."
+        "zh": "这篇文章探讨了AI代理如何动态学习、适应和优化流程，与数据、系统和人进行互动。",
+        "en": "This article explores how AI agents can dynamically learn, adapt, and optimize processes through interaction with data, systems, and people.",
+        "de": "Dieser Artikel untersucht, wie KI-Agenten Prozesse dynamisch lernen, anpassen und optimieren können, indem sie mit Daten, Systemen und Menschen interagieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-07",
@@ -41,9 +41,9 @@
         "de": "Der Download: Die Auswirkungen von KI auf Arbeitsplätze und Datenzentren im Weltraum"
       },
       "summary": {
-        "zh": "本期下载讨论了AI对就业市场的影响，以及在太空中建立数据中心的潜力。这些主题反映了技术进步对未来工作的深远影响。",
-        "en": "This edition of The Download discusses the impact of AI on the job market and the potential for establishing data centers in space. These topics reflect the profound implications of technological advancements for the future of work.",
-        "de": "Diese Ausgabe des Downloads behandelt die Auswirkungen von KI auf den Arbeitsmarkt und das Potenzial für den Aufbau von Datenzentren im Weltraum. Diese Themen spiegeln die tiefgreifenden Auswirkungen technologischer Fortschritte auf die Zukunft der Arbeit wider."
+        "zh": "这篇文章讨论了AI对就业市场的影响以及在太空中建立数据中心的可能性。",
+        "en": "This article discusses the impact of AI on the job market and the potential for establishing data centers in space.",
+        "de": "Dieser Artikel behandelt die Auswirkungen von KI auf den Arbeitsmarkt und das Potenzial für den Aufbau von Datenzentren im Weltraum."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-07",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "顶级大学称美以攻击针对伊朗的进展和AI学习",
-        "en": "Top university says US-Israel attack targeted Iran’s progress, AI learning",
-        "de": "Top-Universität sagt, dass der US-israelische Angriff auf Irans Fortschritt und KI-Lernen abzielte"
+        "zh": "美国停火允许对伊朗“可行”十点计划的谈判",
+        "en": "US ceasefire allows negotiations on Iran’s ‘workable’ 10-point plan",
+        "de": "US-Waffenstillstand ermöglicht Verhandlungen über Irans 'umsetzbaren' 10-Punkte-Plan"
       },
       "summary": {
-        "zh": "伊朗谴责对包括学术中心在内的平民地点的系统性攻击，认为这些攻击破坏了其在AI学习和其他领域的进展。",
-        "en": "Iran condemns systematic attacks on civilian sites, including academic hubs, arguing that these attacks undermine its progress in AI learning and other fields.",
-        "de": "Iran verurteilt systematische Angriffe auf zivile Stätten, einschließlich akademischer Zentren, und argumentiert, dass diese Angriffe seinen Fortschritt im Bereich des KI-Lernens und anderer Bereiche untergraben."
+        "zh": "特朗普宣布的为期两周的停火为对伊朗十点计划的谈判铺平了道路。",
+        "en": "Trump's announcement of a two-week ceasefire paves the way for negotiations on Iran's 10-point plan.",
+        "de": "Die Ankündigung eines zweiwöchigen Waffenstillstands durch Trump ebnet den Weg für Verhandlungen über Irans 10-Punkte-Plan."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-07",
-      "url": "https://www.aljazeera.com/news/2026/4/7/top-university-says-us-israel-attack-targeted-irans-progress-ai-learning?traffic_source=rss"
+      "date": "2026-04-08",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/us-ceasefire-allows-negotiations-on-irans-workable-10-point-plan?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国否认核计划，伊朗“文明”威胁的最后期限临近",
-        "en": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
-        "de": "Die USA bestreiten einen Nuklearplan, während die Frist für die Bedrohung der iranischen 'Zivilisation' naht"
+        "zh": "美国政客对特朗普的伊朗停火反应谨慎、松了一口气",
+        "en": "US politicians react to Trump’s Iran ceasefire with caution, relief",
+        "de": "US-Politiker reagieren mit Vorsicht und Erleichterung auf Trumps Waffenstillstand mit dem Iran"
       },
       "summary": {
-        "zh": "特朗普对“整个文明”进行威胁的言论引发了人们的担忧，美国政府则否认有任何核计划。",
-        "en": "Trump's threats against 'whole civilization' have raised concerns, while the U.S. government denies any nuclear plans.",
-        "de": "Trumps Drohungen gegen die 'ganze Zivilisation' haben Besorgnis ausgelöst, während die US-Regierung einen Nuklearplan bestreitet."
+        "zh": "共和党鹰派对与德黑兰的谈判表示怀疑，而民主党则欢迎停火并呼吁问责。",
+        "en": "Republican hawks voice skepticism about talks with Tehran as Democrats welcome the truce and call for accountability.",
+        "de": "Republikanische Falken äußern Skepsis gegenüber Gesprächen mit Teheran, während die Demokraten den Waffenstillstand begrüßen und zur Rechenschaft aufrufen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-07",
-      "url": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms?traffic_source=rss"
+      "date": "2026-04-08",
+      "url": "https://www.aljazeera.com/news/2026/4/8/caution-relief-as-us-politicians-respond-to-trumps-ceasefire-with-iran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "内塔尼亚胡：以色列通过对伊朗的打击改变“力量平衡”",
-        "en": "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes",
-        "de": "Netanjahu: Israel verschiebt das 'Machtgleichgewicht' mit Angriffen auf den Iran"
+        "zh": "伊朗人纪念米纳布学校袭击的受害者",
+        "en": "Iranians commemorate victims of Minab school strike",
+        "de": "Iraner gedenken der Opfer des Angriffs auf die Minab-Schule"
       },
       "summary": {
-        "zh": "以色列总理本雅明·内塔尼亚胡表示，以色列正在加强对伊朗的打击，以改变地区的力量平衡。",
-        "en": "Israeli Prime Minister Benjamin Netanyahu states that Israel is intensifying strikes on Iran to shift the regional balance of power.",
-        "de": "Der israelische Premierminister Benjamin Netanjahu erklärt, dass Israel die Angriffe auf den Iran intensiviert, um das regionale Machtgleichgewicht zu verschieben."
+        "zh": "伊朗人纪念在米纳布学校袭击中遇难的168人，表达了对暴力的反对。",
+        "en": "Iranians commemorate the 168 victims of the Minab school strike, expressing opposition to violence.",
+        "de": "Iraner gedenken der 168 Opfer des Angriffs auf die Minab-Schule und drücken ihre Ablehnung von Gewalt aus."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/7/netanyahu-israel-shifting-balance-of-power-with-iran-strikes?traffic_source=rss"
+      "date": "2026-04-08",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iranians-commemorate-victims-of-minab-school-strike?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国3月非农就业人数增加178,000，失业率为4.3%",
-        "en": "U.S. payrolls rose by 178,000 in March, more than expected; unemployment at 4.3%",
-        "de": "Die US-Löhne stiegen im März um 178.000, mehr als erwartet; Arbeitslosigkeit bei 4,3%"
+        "zh": "股指期货飙升，油价下跌，特朗普宣布与伊朗达成为期两周的停火",
+        "en": "Stock futures surge, oil prices slide as Trump announces two-week cease-fire with Iran",
+        "de": "Aktienfutures steigen, Ölpreise fallen, als Trump einen zweiwöchigen Waffenstillstand mit dem Iran ankündigt"
       },
       "summary": {
-        "zh": "3月份，美国非农就业人数增加178,000，超出预期，失业率降至4.3%。这一数据反映了经济的持续复苏。",
-        "en": "In March, U.S. nonfarm payrolls rose by 178,000, exceeding expectations, with the unemployment rate dropping to 4.3%. This data reflects the ongoing recovery of the economy.",
-        "de": "Im März stiegen die US-Nichtlandwirtschaftsgehälter um 178.000, was die Erwartungen übertraf, während die Arbeitslosenquote auf 4,3% sank. Diese Daten spiegeln die anhaltende Erholung der Wirtschaft wider."
+        "zh": "特朗普宣布的为期两周的停火协议使美国股指期货上涨，油价则出现下跌。",
+        "en": "The two-week ceasefire deal announced by Trump has led to a surge in U.S. stock futures while oil prices have slid.",
+        "de": "Das von Trump angekündigte zweiwöchige Waffenstillstandsabkommen führte zu einem Anstieg der US-Aktienfutures, während die Ölpreise fielen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-03",
-      "url": "https://www.cnbc.com/2026/04/03/jobs-report-march-2026-.html"
+      "source": "MarketWatch",
+      "date": "2026-04-08",
+      "url": "https://www.marketwatch.com/story/stock-futures-surge-oil-prices-slides-as-trump-announces-2-week-cease-fire-with-iran-5609c7e9?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "3月就业报告将于周五发布。以下是预期：",
-        "en": "The March jobs report will be released on Friday. Here's what to expect:",
-        "de": "Der Arbeitsbericht für März wird am Freitag veröffentlicht. Das ist zu erwarten:"
+        "zh": "利维斯提升销售前景，抵御对伊朗冲突影响的担忧",
+        "en": "Levi’s boosts its sales outlook, defying concerns about the impact of the Iran conflict",
+        "de": "Levi's hebt seine Verkaufsprognose an und trotzt den Bedenken hinsichtlich der Auswirkungen des Iran-Konflikts"
       },
       "summary": {
-        "zh": "预计3月份美国经济将新增59,000个就业岗位，失业率保持在4.4%。",
-        "en": "The U.S. economy is projected to show job gains of 59,000 in March, with the unemployment rate holding at 4.4%.",
-        "de": "Es wird erwartet, dass die US-Wirtschaft im März 59.000 neue Arbeitsplätze schaffen wird, während die Arbeitslosenquote bei 4,4% bleibt."
+        "zh": "利维斯表示，消费者对新产品的需求强劲，提升了销售前景，尽管对伊朗冲突的担忧依然存在。",
+        "en": "Levi's reports strong consumer demand for new products, boosting its sales outlook despite ongoing concerns about the Iran conflict.",
+        "de": "Levi's berichtet von einer starken Verbrauchernachfrage nach neuen Produkten, was die Verkaufsprognose trotz anhaltender Bedenken hinsichtlich des Iran-Konflikts anhebt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-02",
-      "url": "https://www.cnbc.com/2026/04/02/the-march-jobs-report-will-be-released-on-friday-heres-what-to-expect.html"
+      "source": "MarketWatch",
+      "date": "2026-04-07",
+      "url": "https://www.marketwatch.com/story/levis-boosts-its-sales-outlook-defying-concerns-about-the-impact-of-the-iran-conflict-8f71cb20?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "私营部门3月招聘总数为62,000，超出预期，ADP称",
-        "en": "Private sector hiring totaled 62,000 in March, better than expected, ADP says",
-        "de": "Die Einstellungen im privaten Sektor beliefen sich im März auf 62.000, besser als erwartet, so ADP"
+        "zh": "伊朗冲突尚未让投资者感到恐慌——但情况即将改变",
+        "en": "The Iran conflict isn’t panicking investors — yet. That’s about to change.",
+        "de": "Der Iran-Konflikt bringt Investoren noch nicht in Panik – aber das wird sich bald ändern."
       },
       "summary": {
-        "zh": "ADP报告显示，3月份私营部门招聘人数为62,000，超出预期，主要由医疗保健和建筑行业推动。",
-        "en": "ADP reports that private sector hiring totaled 62,000 in March, exceeding expectations, primarily driven by the healthcare and construction sectors.",
-        "de": "ADP berichtet, dass die Einstellungen im privaten Sektor im März 62.000 betrugen, was die Erwartungen übertraf, hauptsächlich getrieben von den Sektoren Gesundheitswesen und Bau."
+        "zh": "尽管目前市场尚未对伊朗冲突感到恐慌，但分析师预计这种情况将很快改变。",
+        "en": "While the market has not yet panicked over the Iran conflict, analysts expect that this situation will soon change.",
+        "de": "Obwohl der Markt bisher nicht in Panik über den Iran-Konflikt geraten ist, erwarten Analysten, dass sich diese Situation bald ändern wird."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-01",
-      "url": "https://www.cnbc.com/2026/04/01/private-sector-hiring-totaled-62000-in-march-better-than-expected-adp-says.html"
+      "source": "MarketWatch",
+      "date": "2026-04-07",
+      "url": "https://www.marketwatch.com/story/the-iran-conflict-isnt-panicking-investors-yet-thats-about-to-change-e7f51dad?mod=mw_rss_topstories"
     }
   ]
 }
