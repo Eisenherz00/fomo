@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-08T17:37:23.476136+00:00",
+  "generatedAt": "2026-04-09T06:08:04.101512+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "穆斯塔法·苏莱曼：人工智能的发展不会很快遇到瓶颈——原因如下",
+        "zh": "穆斯塔法·苏莱曼：人工智能发展不会很快遇到瓶颈——原因如下",
         "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-        "de": "Mustafa Suleyman: Die KI-Entwicklung wird nicht so schnell an eine Wand stoßen – hier ist der Grund"
+        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht auf ein Hindernis stoßen – hier ist der Grund"
       },
       "summary": {
-        "zh": "穆斯塔法·苏莱曼认为，人工智能的发展将持续增长，因为人类的进化使我们适应线性世界。未来的技术进步将继续推动这一领域的发展。",
-        "en": "Mustafa Suleyman believes that AI development will continue to grow as human evolution has adapted us to a linear world. Future technological advancements will keep driving progress in this field.",
-        "de": "Mustafa Suleyman ist der Ansicht, dass sich die KI-Entwicklung weiterhin positiv entwickeln wird, da die menschliche Evolution uns an eine lineare Welt angepasst hat. Zukünftige technologische Fortschritte werden den Fortschritt in diesem Bereich weiter vorantreiben."
+        "zh": "穆斯塔法·苏莱曼讨论了人工智能的发展前景，认为由于人类的线性思维模式，人工智能不会很快遇到瓶颈。他强调了持续进步的可能性。",
+        "en": "Mustafa Suleyman discusses the future of AI development, asserting that due to human linear thinking, AI will not hit a wall anytime soon. He emphasizes the potential for continuous progress.",
+        "de": "Mustafa Suleyman erörtert die Zukunft der KI-Entwicklung und behauptet, dass KI aufgrund des linearen Denkens der Menschen nicht bald auf ein Hindernis stoßen wird. Er betont das Potenzial für kontinuierlichen Fortschritt."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-08",
@@ -25,9 +25,9 @@
         "de": "Der Download: Wasserbedrohungen im Iran und die Auswirkungen von KI auf das, was Unternehmer herstellen"
       },
       "summary": {
-        "zh": "本期《下载》报道了伊朗面临的水资源威胁以及人工智能如何影响企业家的产品选择。这些因素将对未来的商业模式产生深远影响。",
-        "en": "This edition of The Download covers the water threats faced by Iran and how AI is influencing entrepreneurs' product choices. These factors will have significant implications for future business models.",
-        "de": "Diese Ausgabe des Downloads behandelt die Wasserbedrohungen, mit denen der Iran konfrontiert ist, und wie KI die Produktentscheidungen von Unternehmern beeinflusst. Diese Faktoren werden erhebliche Auswirkungen auf zukünftige Geschäftsmodelle haben."
+        "zh": "本期《下载》探讨了伊朗面临的水资源威胁以及人工智能如何影响企业家的产品决策。技术的进步正在改变创业环境。",
+        "en": "This edition of The Download explores the water threats facing Iran and how AI is impacting entrepreneurs' product decisions. Technological advancements are reshaping the entrepreneurial landscape.",
+        "de": "Diese Ausgabe des Downloads untersucht die Wasserbedrohungen im Iran und wie KI die Produktentscheidungen von Unternehmern beeinflusst. Technologische Fortschritte verändern die unternehmerische Landschaft."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-08",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "中东的海水淡化厂越来越脆弱：MIT科技评论解释",
+        "zh": "中东的海水淡化厂日益脆弱：MIT科技评论解释",
         "en": "Desalination plants in the Middle East are increasingly vulnerable: MIT Technology Review Explains",
         "de": "Entsalzungsanlagen im Nahen Osten sind zunehmend anfällig: MIT Technology Review erklärt"
       },
       "summary": {
-        "zh": "MIT科技评论分析了中东地区海水淡化厂面临的脆弱性，强调了技术在应对水资源危机中的重要性。这些设施的安全性对地区的水供应至关重要。",
-        "en": "MIT Technology Review analyzes the vulnerabilities faced by desalination plants in the Middle East, emphasizing the importance of technology in addressing water resource crises. The security of these facilities is crucial for the region's water supply.",
-        "de": "Die MIT Technology Review analysiert die Verwundbarkeiten, mit denen Entsalzungsanlagen im Nahen Osten konfrontiert sind, und betont die Bedeutung von Technologie zur Bewältigung von Wasserressourcenkrisen. Die Sicherheit dieser Einrichtungen ist entscheidend für die Wasserversorgung der Region."
+        "zh": "这篇文章探讨了中东地区海水淡化厂面临的脆弱性，强调了技术和环境因素对水资源管理的影响。",
+        "en": "This article discusses the vulnerabilities faced by desalination plants in the Middle East, emphasizing the impact of technological and environmental factors on water resource management.",
+        "de": "Dieser Artikel erörtert die Verwundbarkeiten, mit denen Entsalzungsanlagen im Nahen Osten konfrontiert sind, und hebt die Auswirkungen technologischer und umweltbedingter Faktoren auf das Wassermanagement hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-07",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "加沙的平民遭到帮派袭击：马哈齐发生了什么？",
-        "en": "Civilians under fire by gangs in Gaza: What happened in Maghazi?",
-        "de": "Zivilisten unter Beschuss von Banden in Gaza: Was ist in Maghazi passiert?"
+        "zh": "被困两周后，墨西哥矿井获救男子",
+        "en": "Man rescued after two weeks trapped in collapsed Mexico mine",
+        "de": "Mann nach zwei Wochen aus eingestürzter Mine in Mexiko gerettet"
       },
       "summary": {
-        "zh": "武装分子袭击了加沙的马哈齐难民营，似乎得到了以色列军队的支持。这一事件引发了对当地安全局势的担忧。",
-        "en": "Armed men raided the Maghazi refugee camp in Gaza, apparently with support from the Israeli army. This incident raises concerns about the local security situation.",
-        "de": "Bewaffnete Männer überfielen das Flüchtlingslager Maghazi in Gaza, anscheinend mit Unterstützung der israelischen Armee. Dieser Vorfall wirft Bedenken hinsichtlich der lokalen Sicherheitslage auf."
+        "zh": "在墨西哥锡那罗亚州，一名男子在被困于淹没的金矿近两周后，被军方潜水员成功救出。",
+        "en": "In Sinaloa, Mexico, a man trapped for nearly two weeks in a flooded gold mine has been successfully rescued by military divers.",
+        "de": "In Sinaloa, Mexiko, wurde ein Mann, der fast zwei Wochen in einer überfluteten Goldmine gefangen war, erfolgreich von Militärtauchern gerettet."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-08",
-      "url": "https://www.aljazeera.com/features/2026/4/8/civilians-under-fire-by-gangs-in-gaza-what-happened-in-maghazi?traffic_source=rss"
+      "date": "2026-04-09",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/man-rescued-after-two-weeks-trapped-in-collapsed-mexico-mine?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普声称在伊朗取得胜利——但这真的是胜利吗？",
-        "en": "Trump claims victory in Iran — but is this really a win?",
-        "de": "Trump beansprucht den Sieg im Iran – aber ist das wirklich ein Sieg?"
+        "zh": "特朗普在与鲁特会晤后抨击北约，重申格林兰威胁",
+        "en": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+        "de": "Trump kritisiert die NATO wegen Iran nach Treffen mit Rutte, erneuert die Grönland-Drohung"
       },
       "summary": {
-        "zh": "特朗普在尚未谈判任何条款之前声称对伊朗的完全胜利，但分析人士对此表示怀疑，认为这是否真的是胜利仍需观察。",
-        "en": "Trump claims total victory over Iran before any terms have been negotiated, but analysts are skeptical about whether this is truly a win.",
-        "de": "Trump beansprucht einen vollständigen Sieg über den Iran, bevor irgendwelche Bedingungen verhandelt wurden, aber Analysten sind skeptisch, ob dies wirklich ein Sieg ist."
+        "zh": "特朗普在与北约秘书长鲁特会晤后，对北约在伊朗问题上的表现表示失望，并重申了对格林兰的威胁。",
+        "en": "Trump expressed disappointment over NATO's performance regarding Iran after meeting with NATO chief Rutte and renewed threats concerning Greenland.",
+        "de": "Trump äußerte nach dem Treffen mit NATO-Chef Rutte seine Enttäuschung über die Leistung der NATO in Bezug auf den Iran und erneuerte Drohungen bezüglich Grönland."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/8/trump-claims-victory-in-iran-but-is-this-really-a?traffic_source=rss"
+      "date": "2026-04-09",
+      "url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列袭击导致阿尔杰兹拉记者穆罕默德·维沙在加沙遇难",
-        "en": "Israeli attack kills Al Jazeera journalist Mohammed Wishah in Gaza",
-        "de": "Israelischer Angriff tötet Al Jazeera-Journalisten Mohammed Wishah in Gaza"
+        "zh": "以色列轰炸贝鲁特的可怕时刻被13岁女孩捕捉",
+        "en": "13-year-old girl captures terrifying moment Israel bombed Beirut",
+        "de": "13-jähriges Mädchen fängt den erschreckenden Moment ein, als Israel Beirut bombardierte"
       },
       "summary": {
-        "zh": "以色列的袭击导致阿尔杰兹拉记者穆罕默德·维沙在加沙遇难，此事件引发了对新闻自由和记者安全的广泛关注。",
-        "en": "An Israeli attack has killed Al Jazeera journalist Mohammed Wishah in Gaza, raising widespread concerns about press freedom and the safety of journalists.",
-        "de": "Ein israelischer Angriff hat den Al Jazeera-Journalisten Mohammed Wishah in Gaza getötet, was weit verbreitete Bedenken hinsichtlich der Pressefreiheit und der Sicherheit von Journalisten aufwirft."
+        "zh": "一名13岁的女孩通过Snapchat捕捉到了以色列对贝鲁特袭击的瞬间，展现了战争的恐怖。",
+        "en": "A 13-year-old girl captured the moment Israel began its assault on Beirut through Snapchat, showcasing the horrors of war.",
+        "de": "Ein 13-jähriges Mädchen hielt den Moment fest, als Israel mit Snapchat seinen Angriff auf Beirut begann, und zeigte die Schrecken des Krieges."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-08",
-      "url": "https://www.aljazeera.com/news/2026/4/8/israeli-attack-kills-al-jazeera-journalist-mohammed-wishah-in-gaza?traffic_source=rss"
+      "date": "2026-04-09",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "市场因伊朗停火而转向潜在的美联储降息",
-        "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
-        "de": "Märkte verschieben sich wieder in Richtung potenzieller Fed-Zinssenkungen in diesem Jahr mit dem Iran-Waffenstillstand"
+        "zh": "伊朗石油冲击唤起1997年亚洲金融危机的记忆——但历史可能不会重演",
+        "en": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
+        "de": "Iran-Ölschock weckt Erinnerungen an die asiatische Finanzkrise von 1997 – aber hier ist der Grund, warum die Geschichte sich möglicherweise nicht wiederholt"
       },
       "summary": {
-        "zh": "随着伊朗停火协议的达成，市场对美联储降息的预期上升，降息的可能性达到了43%。",
-        "en": "With the Iran ceasefire agreement in place, market expectations for a Fed rate cut have risen, with the likelihood hitting 43%.",
-        "de": "Mit dem Inkrafttreten des Iran-Waffenstillstands sind die Markterwartungen für eine Zinssenkung der Fed gestiegen, wobei die Wahrscheinlichkeit 43 % erreicht hat."
+        "zh": "伊朗的石油冲击正在对亚洲经济造成影响，尽管与1997年金融危机相比，经济基础更为稳固，历史可能不会重演。",
+        "en": "The Iranian oil shock is impacting Asian economies, though the economic fundamentals are more solid compared to the 1997 financial crisis, suggesting history may not repeat itself.",
+        "de": "Der iranische Ölschock hat Auswirkungen auf die asiatischen Volkswirtschaften, obwohl die wirtschaftlichen Grundlagen im Vergleich zur Finanzkrise von 1997 solider sind, was darauf hindeutet, dass sich die Geschichte möglicherweise nicht wiederholt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-09",
+      "url": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "市场因伊朗停火而转向潜在的美联储降息",
+        "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+        "de": "Märkte verschieben sich wieder in Richtung einer möglichen Fed-Zinssenkung in diesem Jahr mit bestehendem Iran-Waffenstillstand"
+      },
+      "summary": {
+        "zh": "随着伊朗停火的实施，市场对美联储降息的预期上升，降息的可能性达到了43%。",
+        "en": "With the implementation of the Iran ceasefire, market expectations for a Fed rate cut have risen, with the likelihood hitting about 43%.",
+        "de": "Mit der Umsetzung des Iran-Waffenstillstands sind die Markterwartungen für eine Zinssenkung der Fed gestiegen, wobei die Wahrscheinlichkeit bei etwa 43 % liegt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-08",
       "url": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "脆弱的美伊停火引发市场的松一口气——但没有明确的持久和平之路",
+        "zh": "脆弱的美伊停火引发市场宽慰——但没有明确的持久和平之路",
         "en": "A fragile U.S.-Iran ceasefire sparks market relief — but no clear path to lasting peace",
         "de": "Ein fragiler US-Iran-Waffenstillstand sorgt für Erleichterung an den Märkten – aber kein klarer Weg zu dauerhaftem Frieden"
       },
       "summary": {
-        "zh": "尽管美伊之间的停火协议带来了市场的短期松一口气，但分析师警告称，双方之间的信任缺失可能会导致未来的挑战。",
-        "en": "While the ceasefire agreement between the U.S. and Iran brings short-term relief to the markets, analysts warn that the significant trust deficit between both sides may lead to future challenges.",
-        "de": "Während das Waffenstillstandsabkommen zwischen den USA und dem Iran kurzfristige Erleichterung für die Märkte bringt, warnen Analysten, dass das erhebliche Vertrauensdefizit zwischen beiden Seiten zu zukünftigen Herausforderungen führen könnte."
+        "zh": "尽管美伊停火带来了市场的短暂宽慰，但分析师警告称，双方之间的信任缺失使得持久和平的道路充满挑战。",
+        "en": "While the U.S.-Iran ceasefire has provided temporary relief to the markets, analysts warn that the lack of trust between both sides poses significant challenges to achieving lasting peace.",
+        "de": "Obwohl der US-Iran-Waffenstillstand den Märkten vorübergehende Erleichterung verschafft hat, warnen Analysten, dass das fehlende Vertrauen zwischen beiden Seiten erhebliche Herausforderungen für einen dauerhaften Frieden darstellt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-08",
       "url": "https://www.cnbc.com/2026/04/08/us-iran-war-ceasefire-middle-east-strait-of-hormuz-oil-markets.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "油价暴跌，股市因美伊停火计划而反弹",
-        "en": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-        "de": "Ölpreise stürzen ab und Aktien springen auf den US-Iran-Waffenstillstandsplan"
-      },
-      "summary": {
-        "zh": "在美伊达成停火协议后，油价大幅下跌，股市反弹，显示出市场对未来局势的乐观情绪。",
-        "en": "Following the ceasefire agreement between the U.S. and Iran, oil prices have plummeted while the stock market has rallied, indicating optimism about future developments.",
-        "de": "Nach dem Waffenstillstandsabkommen zwischen den USA und dem Iran sind die Ölpreise stark gefallen, während der Aktienmarkt gestiegen ist, was auf Optimismus hinsichtlich zukünftiger Entwicklungen hinweist."
-      },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-04-08",
-      "url": "https://www.marketwatch.com/story/oil-prices-drop-sharply-after-two-week-cease-fire-reached-c0bc90ed?mod=mw_rss_topstories"
     }
   ]
 }
