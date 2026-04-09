@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-09T06:08:04.101512+00:00",
+  "generatedAt": "2026-04-09T17:35:18.299370+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "穆斯塔法·苏莱曼：人工智能发展不会很快遇到瓶颈——原因如下",
-        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht auf ein Hindernis stoßen – hier ist der Grund"
+        "zh": "下载：草皮战争与指数级AI增长：今天的下载版，提供有关科技世界的每日信息。",
+        "en": "The Download: AstroTurf wars and exponential AI growth: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+        "de": "Der Download: AstroTurf-Kriege und exponentielles AI-Wachstum: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich über das Geschehen in der Technologie informiert."
       },
       "summary": {
-        "zh": "穆斯塔法·苏莱曼讨论了人工智能的发展前景，认为由于人类的线性思维模式，人工智能不会很快遇到瓶颈。他强调了持续进步的可能性。",
-        "en": "Mustafa Suleyman discusses the future of AI development, asserting that due to human linear thinking, AI will not hit a wall anytime soon. He emphasizes the potential for continuous progress.",
-        "de": "Mustafa Suleyman erörtert die Zukunft der KI-Entwicklung und behauptet, dass KI aufgrund des linearen Denkens der Menschen nicht bald auf ein Hindernis stoßen wird. Er betont das Potenzial für kontinuierlichen Fortschritt."
+        "zh": "今天的下载版讨论了草皮战争和AI的指数级增长，强调了技术领域的最新动态。",
+        "en": "Today's edition of The Download discusses the AstroTurf wars and the exponential growth of AI, highlighting the latest developments in the tech field.",
+        "de": "Die heutige Ausgabe des Downloads behandelt die AstroTurf-Kriege und das exponentielle Wachstum von AI und hebt die neuesten Entwicklungen im Technologiebereich hervor."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-04-09",
+      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "穆斯塔法·苏莱曼：AI发展不会很快遇到瓶颈——原因如下：",
+        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why:",
+        "de": "Mustafa Suleyman: Die AI-Entwicklung wird nicht so schnell an eine Wand stoßen – das ist der Grund:"
+      },
+      "summary": {
+        "zh": "穆斯塔法·苏莱曼讨论了AI发展的线性与指数性增长，认为技术将持续进步。",
+        "en": "Mustafa Suleyman discusses the linear versus exponential growth of AI, asserting that technology will continue to advance.",
+        "de": "Mustafa Suleyman diskutiert das lineare versus exponentielle Wachstum von AI und behauptet, dass sich die Technologie weiterentwickeln wird."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-08",
       "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "下载：伊朗的水威胁和人工智能对企业家的影响",
-        "en": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
-        "de": "Der Download: Wasserbedrohungen im Iran und die Auswirkungen von KI auf das, was Unternehmer herstellen"
-      },
-      "summary": {
-        "zh": "本期《下载》探讨了伊朗面临的水资源威胁以及人工智能如何影响企业家的产品决策。技术的进步正在改变创业环境。",
-        "en": "This edition of The Download explores the water threats facing Iran and how AI is impacting entrepreneurs' product decisions. Technological advancements are reshaping the entrepreneurial landscape.",
-        "de": "Diese Ausgabe des Downloads untersucht die Wasserbedrohungen im Iran und wie KI die Produktentscheidungen von Unternehmern beeinflusst. Technologische Fortschritte verändern die unternehmerische Landschaft."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-04-08",
-      "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "中东的海水淡化厂日益脆弱：MIT科技评论解释",
-        "en": "Desalination plants in the Middle East are increasingly vulnerable: MIT Technology Review Explains",
-        "de": "Entsalzungsanlagen im Nahen Osten sind zunehmend anfällig: MIT Technology Review erklärt"
+        "zh": "与伊朗的战争升级，伊朗黑客破坏美国关键基础设施：",
+        "en": "Iran-linked hackers disrupt operations at US critical infrastructure sites:",
+        "de": "Mit Iran verbundene Hacker stören den Betrieb an kritischen Infrastruktureinrichtungen in den USA:"
       },
       "summary": {
-        "zh": "这篇文章探讨了中东地区海水淡化厂面临的脆弱性，强调了技术和环境因素对水资源管理的影响。",
-        "en": "This article discusses the vulnerabilities faced by desalination plants in the Middle East, emphasizing the impact of technological and environmental factors on water resource management.",
-        "de": "Dieser Artikel erörtert die Verwundbarkeiten, mit denen Entsalzungsanlagen im Nahen Osten konfrontiert sind, und hebt die Auswirkungen technologischer und umweltbedingter Faktoren auf das Wassermanagement hervor."
+        "zh": "随着美国与以色列的战争升级，伊朗黑客对美国工业网站的攻击也在增加。",
+        "en": "As the war between the US and Israel escalates, Iranian hackers are increasing attacks on US industrial sites.",
+        "de": "Mit der Eskalation des Krieges zwischen den USA und Israel nehmen iranische Hackerangriffe auf US-Industriestandorte zu."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-04-07",
-      "url": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/"
+      "source": "Ars Technica",
+      "date": "2026-04-08",
+      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "被困两周后，墨西哥矿井获救男子",
-        "en": "Man rescued after two weeks trapped in collapsed Mexico mine",
-        "de": "Mann nach zwei Wochen aus eingestürzter Mine in Mexiko gerettet"
+        "zh": "以色列的内塔尼亚胡准备尽快与黎巴嫩进行谈判：",
+        "en": "Israel’s Netanyahu ready for talks with Lebanon ‘as soon as possible’:",
+        "de": "Israels Netanyahu bereit für Gespräche mit dem Libanon 'so schnell wie möglich':"
       },
       "summary": {
-        "zh": "在墨西哥锡那罗亚州，一名男子在被困于淹没的金矿近两周后，被军方潜水员成功救出。",
-        "en": "In Sinaloa, Mexico, a man trapped for nearly two weeks in a flooded gold mine has been successfully rescued by military divers.",
-        "de": "In Sinaloa, Mexiko, wurde ein Mann, der fast zwei Wochen in einer überfluteten Goldmine gefangen war, erfolgreich von Militärtauchern gerettet."
+        "zh": "以色列总理内塔尼亚胡表示，政府准备就“解除真主党的武装”和“建立和平关系”进行谈判。",
+        "en": "Israeli Prime Minister Netanyahu states that his government is ready to negotiate on 'disarming Hezbollah' and 'establishing peaceful relations'.",
+        "de": "Der israelische Premierminister Netanyahu erklärt, dass seine Regierung bereit ist, über 'die Entwaffnung der Hisbollah' und 'die Schaffung friedlicher Beziehungen' zu verhandeln."
       },
       "source": "Al Jazeera",
       "date": "2026-04-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/man-rescued-after-two-weeks-trapped-in-collapsed-mexico-mine?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/9/israels-netanyahu-ready-for-talks-with-lebanon-as-soon-as-possible?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普在与鲁特会晤后抨击北约，重申格林兰威胁",
-        "en": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
-        "de": "Trump kritisiert die NATO wegen Iran nach Treffen mit Rutte, erneuert die Grönland-Drohung"
+        "zh": "苏丹的人道主义形势处于“灾难性水平”，非政府组织表示：",
+        "en": "Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO:",
+        "de": "Die humanitäre Situation im Sudan ist auf 'katastrophale Niveaus' gesunken, sagt eine NGO:"
       },
       "summary": {
-        "zh": "特朗普在与北约秘书长鲁特会晤后，对北约在伊朗问题上的表现表示失望，并重申了对格林兰的威胁。",
-        "en": "Trump expressed disappointment over NATO's performance regarding Iran after meeting with NATO chief Rutte and renewed threats concerning Greenland.",
-        "de": "Trump äußerte nach dem Treffen mit NATO-Chef Rutte seine Enttäuschung über die Leistung der NATO in Bezug auf den Iran und erneuerte Drohungen bezüglich Grönland."
+        "zh": "人道主义与包容性组织表示，战争和人道危机使残疾人面临极端挑战。",
+        "en": "Humanity & Inclusion states that people with disabilities face extreme challenges amid war and humanitarian crisis.",
+        "de": "Humanity & Inclusion erklärt, dass Menschen mit Behinderungen angesichts des Krieges und der humanitären Krise extremen Herausforderungen gegenüberstehen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-09",
-      "url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列轰炸贝鲁特的可怕时刻被13岁女孩捕捉",
-        "en": "13-year-old girl captures terrifying moment Israel bombed Beirut",
-        "de": "13-jähriges Mädchen fängt den erschreckenden Moment ein, als Israel Beirut bombardierte"
+        "zh": "以色列在过去40天内对加沙进行了36次轰炸，同时伊朗战争持续：",
+        "en": "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran:",
+        "de": "Israel bombardierte Gaza an 36 der letzten 40 Tage, während der Krieg im Iran tobte:"
       },
       "summary": {
-        "zh": "一名13岁的女孩通过Snapchat捕捉到了以色列对贝鲁特袭击的瞬间，展现了战争的恐怖。",
-        "en": "A 13-year-old girl captured the moment Israel began its assault on Beirut through Snapchat, showcasing the horrors of war.",
-        "de": "Ein 13-jähriges Mädchen hielt den Moment fest, als Israel mit Snapchat seinen Angriff auf Beirut begann, und zeigte die Schrecken des Krieges."
+        "zh": "以色列在过去40天内对加沙进行了36次轰炸，造成107人死亡，仅允许8%的医疗撤离。",
+        "en": "Israel bombed Gaza on 36 of the past 40 days, killing 107 people, permitting only 8 percent of medical evacuations.",
+        "de": "Israel bombardierte Gaza an 36 der letzten 40 Tage, tötete 107 Menschen und erlaubte nur 8 Prozent der medizinischen Evakuierungen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/9/13-year-old-girl-captures-terrifying-moment-israel-bombed-beirut?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/9/israel-bombed-gaza-on-36-of-the-past-40-days-while-the-war-raged-in-iran?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗石油冲击唤起1997年亚洲金融危机的记忆——但历史可能不会重演",
-        "en": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
-        "de": "Iran-Ölschock weckt Erinnerungen an die asiatische Finanzkrise von 1997 – aber hier ist der Grund, warum die Geschichte sich möglicherweise nicht wiederholt"
+        "zh": "通胀在美国与伊朗战争前保持在3%不变，关键的美联储指标显示：",
+        "en": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows:",
+        "de": "Die Inflation blieb bei 3 % stabil, während die USA in den Krieg mit dem Iran gingen, zeigt ein wichtiger Fed-Indikator:"
       },
       "summary": {
-        "zh": "伊朗的石油冲击正在对亚洲经济造成影响，尽管与1997年金融危机相比，经济基础更为稳固，历史可能不会重演。",
-        "en": "The Iranian oil shock is impacting Asian economies, though the economic fundamentals are more solid compared to the 1997 financial crisis, suggesting history may not repeat itself.",
-        "de": "Der iranische Ölschock hat Auswirkungen auf die asiatischen Volkswirtschaften, obwohl die wirtschaftlichen Grundlagen im Vergleich zur Finanzkrise von 1997 solider sind, was darauf hindeutet, dass sich die Geschichte möglicherweise nicht wiederholt."
+        "zh": "数据显示，在与伊朗的战争前，美国的通胀率保持在3%，为美联储提供了经济状况的快照。",
+        "en": "Data shows that inflation in the U.S. held steady at 3% before the war with Iran, providing the Federal Reserve with a snapshot of economic conditions.",
+        "de": "Daten zeigen, dass die Inflation in den USA vor dem Krieg mit dem Iran bei 3 % stabil blieb und der Federal Reserve einen Überblick über die wirtschaftlichen Bedingungen bietet."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-09",
+      "url": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "伊朗石油冲击唤起1997年亚洲金融危机的回忆——但历史可能不会重演：",
+        "en": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself:",
+        "de": "Der Iran-Ölschock weckt Erinnerungen an die asiatische Finanzkrise von 1997 – aber hier ist der Grund, warum die Geschichte sich möglicherweise nicht wiederholt:"
+      },
+      "summary": {
+        "zh": "霍尔木兹海峡的干扰正在重创亚洲经济，尽管与30年前的危机相比，情况可能有所不同。",
+        "en": "The disruption in the Strait of Hormuz is hammering Asian economies, though the situation may differ from the crisis three decades ago.",
+        "de": "Die Störung im Hormuz-Strom trifft die asiatischen Volkswirtschaften hart, obwohl die Situation sich von der Krise vor drei Jahrzehnten unterscheiden könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-09",
       "url": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "市场因伊朗停火而转向潜在的美联储降息",
-        "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
-        "de": "Märkte verschieben sich wieder in Richtung einer möglichen Fed-Zinssenkung in diesem Jahr mit bestehendem Iran-Waffenstillstand"
+        "zh": "市场在伊朗停火后重新转向潜在的美联储降息：",
+        "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place:",
+        "de": "Die Märkte wenden sich wieder einer möglichen Fed-Zinssenkung in diesem Jahr zu, nachdem ein Waffenstillstand mit dem Iran erreicht wurde:"
       },
       "summary": {
-        "zh": "随着伊朗停火的实施，市场对美联储降息的预期上升，降息的可能性达到了43%。",
-        "en": "With the implementation of the Iran ceasefire, market expectations for a Fed rate cut have risen, with the likelihood hitting about 43%.",
-        "de": "Mit der Umsetzung des Iran-Waffenstillstands sind die Markterwartungen für eine Zinssenkung der Fed gestiegen, wobei die Wahrscheinlichkeit bei etwa 43 % liegt."
+        "zh": "随着伊朗停火协议的达成，市场对美联储降息的预期上升，达到约43%。",
+        "en": "With the Iran ceasefire agreement in place, market expectations for a Fed rate cut have risen to about 43%.",
+        "de": "Mit dem Waffenstillstandsabkommen im Iran sind die Markterwartungen für eine Zinssenkung der Fed auf etwa 43 % gestiegen."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-08",
       "url": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "脆弱的美伊停火引发市场宽慰——但没有明确的持久和平之路",
-        "en": "A fragile U.S.-Iran ceasefire sparks market relief — but no clear path to lasting peace",
-        "de": "Ein fragiler US-Iran-Waffenstillstand sorgt für Erleichterung an den Märkten – aber kein klarer Weg zu dauerhaftem Frieden"
-      },
-      "summary": {
-        "zh": "尽管美伊停火带来了市场的短暂宽慰，但分析师警告称，双方之间的信任缺失使得持久和平的道路充满挑战。",
-        "en": "While the U.S.-Iran ceasefire has provided temporary relief to the markets, analysts warn that the lack of trust between both sides poses significant challenges to achieving lasting peace.",
-        "de": "Obwohl der US-Iran-Waffenstillstand den Märkten vorübergehende Erleichterung verschafft hat, warnen Analysten, dass das fehlende Vertrauen zwischen beiden Seiten erhebliche Herausforderungen für einen dauerhaften Frieden darstellt."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-08",
-      "url": "https://www.cnbc.com/2026/04/08/us-iran-war-ceasefire-middle-east-strait-of-hormuz-oil-markets.html"
     }
   ]
 }
