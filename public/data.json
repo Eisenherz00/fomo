@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-04-09T17:35:18.299370+00:00",
+  "generatedAt": "2026-04-10T06:17:23.584224+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：草皮战争与指数级AI增长：今天的下载版，提供有关科技世界的每日信息。",
-        "en": "The Download: AstroTurf wars and exponential AI growth: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: AstroTurf-Kriege und exponentielles AI-Wachstum: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich über das Geschehen in der Technologie informiert."
+        "zh": "AI发展不会很快遇到瓶颈——原因在这里",
+        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht an eine Wand stoßen – hier ist der Grund"
       },
       "summary": {
-        "zh": "今天的下载版讨论了草皮战争和AI的指数级增长，强调了技术领域的最新动态。",
-        "en": "Today's edition of The Download discusses the AstroTurf wars and the exponential growth of AI, highlighting the latest developments in the tech field.",
-        "de": "Die heutige Ausgabe des Downloads behandelt die AstroTurf-Kriege und das exponentielle Wachstum von AI und hebt die neuesten Entwicklungen im Technologiebereich hervor."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-04-09",
-      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/"
-    },
-    {
-      "id": "ai-2",
-      "title": {
-        "zh": "穆斯塔法·苏莱曼：AI发展不会很快遇到瓶颈——原因如下：",
-        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why:",
-        "de": "Mustafa Suleyman: Die AI-Entwicklung wird nicht so schnell an eine Wand stoßen – das ist der Grund:"
-      },
-      "summary": {
-        "zh": "穆斯塔法·苏莱曼讨论了AI发展的线性与指数性增长，认为技术将持续进步。",
-        "en": "Mustafa Suleyman discusses the linear versus exponential growth of AI, asserting that technology will continue to advance.",
-        "de": "Mustafa Suleyman diskutiert das lineare versus exponentielle Wachstum von AI und behauptet, dass sich die Technologie weiterentwickeln wird."
+        "zh": "Mustafa Suleyman 讨论了人工智能的线性与指数增长，强调未来的发展不会受到限制。他认为，随着技术的进步，AI将继续快速发展。",
+        "en": "Mustafa Suleyman discusses the linear versus exponential growth of AI, emphasizing that future development will not be constrained. He believes that as technology advances, AI will continue to grow rapidly.",
+        "de": "Mustafa Suleyman diskutiert das lineare versus exponentielle Wachstum der KI und betont, dass die zukünftige Entwicklung nicht eingeschränkt sein wird. Er glaubt, dass die KI mit dem Fortschritt der Technologie weiterhin schnell wachsen wird."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-08",
       "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
     },
     {
-      "id": "ai-3",
+      "id": "ai-2",
       "title": {
-        "zh": "与伊朗的战争升级，伊朗黑客破坏美国关键基础设施：",
-        "en": "Iran-linked hackers disrupt operations at US critical infrastructure sites:",
-        "de": "Mit Iran verbundene Hacker stören den Betrieb an kritischen Infrastruktureinrichtungen in den USA:"
+        "zh": "成千上万的消费者路由器被俄罗斯军方黑客攻击",
+        "en": "Thousands of consumer routers hacked by Russia's military",
+        "de": "Tausende von Verbraucherroutern wurden von der russischen Militär gehackt"
       },
       "summary": {
-        "zh": "随着美国与以色列的战争升级，伊朗黑客对美国工业网站的攻击也在增加。",
-        "en": "As the war between the US and Israel escalates, Iranian hackers are increasing attacks on US industrial sites.",
-        "de": "Mit der Eskalation des Krieges zwischen den USA und Israel nehmen iranische Hackerangriffe auf US-Industriestandorte zu."
+        "zh": "俄罗斯军方黑客攻击了120个国家的家庭和小型办公室中的过时路由器，导致大量用户的凭证被盗。此事件引发了对网络安全的广泛关注。",
+        "en": "Russia's military has hacked outdated routers in homes and small offices across 120 countries, leading to the theft of credentials for many users. This incident has raised widespread concerns about cybersecurity.",
+        "de": "Das russische Militär hat veraltete Router in Haushalten und kleinen Büros in 120 Ländern gehackt, was zum Diebstahl von Anmeldedaten vieler Nutzer führte. Dieser Vorfall hat weitreichende Bedenken hinsichtlich der Cybersicherheit ausgelöst."
       },
-      "source": "Ars Technica",
+      "source": "Ars Technica – AI",
       "date": "2026-04-08",
-      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/"
+      "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "新Rowhammer攻击完全控制运行Nvidia GPU的机器",
+        "en": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+        "de": "Neue Rowhammer-Angriffe geben vollständige Kontrolle über Maschinen mit Nvidia-GPUs"
+      },
+      "summary": {
+        "zh": "新发现的Rowhammer攻击可以通过操纵GPU内存来完全控制运行Nvidia GPU的机器。这一漏洞引发了对硬件安全性的担忧。",
+        "en": "Newly discovered Rowhammer attacks can completely control machines running Nvidia GPUs by manipulating GPU memory. This vulnerability raises concerns about hardware security.",
+        "de": "Neu entdeckte Rowhammer-Angriffe können Maschinen mit Nvidia-GPUs vollständig kontrollieren, indem sie den GPU-Speicher manipulieren. Diese Schwachstelle wirft Bedenken hinsichtlich der Hardware-Sicherheit auf."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-04-02",
+      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列的内塔尼亚胡准备尽快与黎巴嫩进行谈判：",
-        "en": "Israel’s Netanyahu ready for talks with Lebanon ‘as soon as possible’:",
-        "de": "Israels Netanyahu bereit für Gespräche mit dem Libanon 'so schnell wie möglich':"
+        "zh": "能源价格可能需要“几个月”才能恢复正常，尽管停火",
+        "en": "Energy prices may take ‘months’ to normalise, despite ceasefire: Analysts",
+        "de": "Energiepreise könnten trotz Waffenstillstand 'Monate' benötigen, um sich zu normalisieren: Analysten"
       },
       "summary": {
-        "zh": "以色列总理内塔尼亚胡表示，政府准备就“解除真主党的武装”和“建立和平关系”进行谈判。",
-        "en": "Israeli Prime Minister Netanyahu states that his government is ready to negotiate on 'disarming Hezbollah' and 'establishing peaceful relations'.",
-        "de": "Der israelische Premierminister Netanyahu erklärt, dass seine Regierung bereit ist, über 'die Entwaffnung der Hisbollah' und 'die Schaffung friedlicher Beziehungen' zu verhandeln."
+        "zh": "分析师表示，尽管达成停火协议，但在霍尔木兹海峡的货物流动恢复之前，市场稳定仍需时日。能源价格的波动可能持续数月。",
+        "en": "Analysts state that despite the ceasefire agreement, market stabilization will take time until there is a predictable flow of cargo through the Strait of Hormuz. Energy price fluctuations may persist for months.",
+        "de": "Analysten geben an, dass die Marktstabilisierung trotz des Waffenstillstands Zeit in Anspruch nehmen wird, bis es einen vorhersehbaren Warenfluss durch die Straße von Hormuz gibt. Preisschwankungen bei Energie könnten monatelang anhalten."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-09",
-      "url": "https://www.aljazeera.com/news/2026/4/9/israels-netanyahu-ready-for-talks-with-lebanon-as-soon-as-possible?traffic_source=rss"
+      "date": "2026-04-10",
+      "url": "https://www.aljazeera.com/economy/2026/4/10/energy-prices-may-take-months-to-normalise-despite-ceasefire-analysts?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "苏丹的人道主义形势处于“灾难性水平”，非政府组织表示：",
-        "en": "Humanitarian situation in Sudan at ‘catastrophic levels’, says NGO:",
-        "de": "Die humanitäre Situation im Sudan ist auf 'katastrophale Niveaus' gesunken, sagt eine NGO:"
+        "zh": "库威特指责伊朗进行无人机袭击，伊朗否认责任",
+        "en": "Kuwait blames Iran for drone strike, Iran denies responsibility",
+        "de": "Kuwait macht Iran für den Drohnenangriff verantwortlich, Iran weist die Verantwortung zurück"
       },
       "summary": {
-        "zh": "人道主义与包容性组织表示，战争和人道危机使残疾人面临极端挑战。",
-        "en": "Humanity & Inclusion states that people with disabilities face extreme challenges amid war and humanitarian crisis.",
-        "de": "Humanity & Inclusion erklärt, dass Menschen mit Behinderungen angesichts des Krieges und der humanitären Krise extremen Herausforderungen gegenüberstehen."
+        "zh": "库威特指责伊朗及其代理人对周四晚上的无人机袭击负责，而伊朗则否认了这一指控。这一事件加剧了地区紧张局势。",
+        "en": "Kuwait blames Iran and its proxies for a drone attack on Thursday night, while Iran denies the accusation. This incident escalates regional tensions.",
+        "de": "Kuwait macht Iran und seine Stellvertreter für einen Drohnenangriff am Donnerstagabend verantwortlich, während Iran die Anschuldigung zurückweist. Dieses Ereignis eskaliert die regionalen Spannungen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-09",
-      "url": "https://www.aljazeera.com/news/2026/4/9/humanitarian-situation-in-sudan-at-catastrophic-levels-says-ngo?traffic_source=rss"
+      "date": "2026-04-10",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列在过去40天内对加沙进行了36次轰炸，同时伊朗战争持续：",
-        "en": "Israel bombed Gaza on 36 of the past 40 days while the war raged in Iran:",
-        "de": "Israel bombardierte Gaza an 36 der letzten 40 Tage, während der Krieg im Iran tobte:"
+        "zh": "英国首相基尔·斯塔默访问海湾地区以巩固“脆弱”的美伊停火",
+        "en": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
+        "de": "UK-Premierminister Keir Starmer besucht den Golf, um den 'fragilen' US-Iran-Waffenstillstand zu festigen"
       },
       "summary": {
-        "zh": "以色列在过去40天内对加沙进行了36次轰炸，造成107人死亡，仅允许8%的医疗撤离。",
-        "en": "Israel bombed Gaza on 36 of the past 40 days, killing 107 people, permitting only 8 percent of medical evacuations.",
-        "de": "Israel bombardierte Gaza an 36 der letzten 40 Tage, tötete 107 Menschen und erlaubte nur 8 Prozent der medizinischen Evakuierungen."
+        "zh": "英国首相基尔·斯塔默在多哈进行海湾之行，讨论巩固美伊停火的努力。此行旨在缓解地区紧张局势。",
+        "en": "UK Prime Minister Keir Starmer arrives in Doha as part of a Gulf tour to discuss efforts to secure the US-Iran ceasefire. This visit aims to alleviate regional tensions.",
+        "de": "Der britische Premierminister Keir Starmer trifft in Doha im Rahmen einer Golfreise ein, um über die Bemühungen zur Sicherung des US-Iran-Waffenstillstands zu diskutieren. Dieser Besuch zielt darauf ab, die regionalen Spannungen zu verringern."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-09",
-      "url": "https://www.aljazeera.com/news/2026/4/9/israel-bombed-gaza-on-36-of-the-past-40-days-while-the-war-raged-in-iran?traffic_source=rss"
+      "date": "2026-04-10",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "通胀在美国与伊朗战争前保持在3%不变，关键的美联储指标显示：",
-        "en": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows:",
-        "de": "Die Inflation blieb bei 3 % stabil, während die USA in den Krieg mit dem Iran gingen, zeigt ein wichtiger Fed-Indikator:"
+        "zh": "通胀在美国与伊朗开战前保持在3%的高位",
+        "en": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
+        "de": "Inflation blieb bei 3% hartnäckig, während die USA in den Krieg mit dem Iran gingen, zeigt ein wichtiger Fed-Indikator"
       },
       "summary": {
-        "zh": "数据显示，在与伊朗的战争前，美国的通胀率保持在3%，为美联储提供了经济状况的快照。",
-        "en": "Data shows that inflation in the U.S. held steady at 3% before the war with Iran, providing the Federal Reserve with a snapshot of economic conditions.",
-        "de": "Daten zeigen, dass die Inflation in den USA vor dem Krieg mit dem Iran bei 3 % stabil blieb und der Federal Reserve einen Überblick über die wirtschaftlichen Bedingungen bietet."
+        "zh": "最新数据显示，通胀在与伊朗开战前保持在3%的水平，这为美联储的决策提供了重要依据。市场对未来经济形势的预期仍然不确定。",
+        "en": "Recent data shows inflation remained sticky at 3% ahead of the war with Iran, providing crucial insights for the Federal Reserve's decision-making. Market expectations about the future economic landscape remain uncertain.",
+        "de": "Aktuelle Daten zeigen, dass die Inflation vor dem Krieg mit dem Iran hartnäckig bei 3% blieb, was wichtige Einblicke für die Entscheidungsfindung der Federal Reserve bietet. Die Markterwartungen hinsichtlich der zukünftigen wirtschaftlichen Lage bleiben ungewiss."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-09",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "伊朗石油冲击唤起1997年亚洲金融危机的回忆——但历史可能不会重演：",
-        "en": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself:",
-        "de": "Der Iran-Ölschock weckt Erinnerungen an die asiatische Finanzkrise von 1997 – aber hier ist der Grund, warum die Geschichte sich möglicherweise nicht wiederholt:"
+        "zh": "伊朗石油冲击唤起1997年亚洲金融危机的记忆——但历史可能不会重演",
+        "en": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
+        "de": "Öl-Schock des Iran weckt Erinnerungen an die asiatische Finanzkrise von 1997 – aber hier ist der Grund, warum sich die Geschichte möglicherweise nicht wiederholt"
       },
       "summary": {
-        "zh": "霍尔木兹海峡的干扰正在重创亚洲经济，尽管与30年前的危机相比，情况可能有所不同。",
-        "en": "The disruption in the Strait of Hormuz is hammering Asian economies, though the situation may differ from the crisis three decades ago.",
-        "de": "Die Störung im Hormuz-Strom trifft die asiatischen Volkswirtschaften hart, obwohl die Situation sich von der Krise vor drei Jahrzehnten unterscheiden könnte."
+        "zh": "伊朗的石油冲击对亚洲经济造成了严重影响，导致能源成本飙升和货币贬值，但专家认为这次危机不会重演1997年的情况。",
+        "en": "The Iranian oil shock has severely impacted Asian economies, leading to soaring energy costs and currency devaluation, but experts believe this crisis will not repeat the situation of 1997.",
+        "de": "Der Öl-Schock des Iran hat die asiatischen Volkswirtschaften stark beeinträchtigt, was zu steigenden Energiekosten und Währungsabwertungen führte, aber Experten glauben, dass sich diese Krise nicht wie 1997 wiederholen wird."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-09",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "市场在伊朗停火后重新转向潜在的美联储降息：",
-        "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place:",
-        "de": "Die Märkte wenden sich wieder einer möglichen Fed-Zinssenkung in diesem Jahr zu, nachdem ein Waffenstillstand mit dem Iran erreicht wurde:"
+        "zh": "市场转向潜在的美联储降息，伊朗停火生效",
+        "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+        "de": "Märkte verschieben sich wieder in Richtung möglicher Zinssenkungen der Fed in diesem Jahr mit Inkrafttreten des Iran-Waffenstillstands"
       },
       "summary": {
-        "zh": "随着伊朗停火协议的达成，市场对美联储降息的预期上升，达到约43%。",
-        "en": "With the Iran ceasefire agreement in place, market expectations for a Fed rate cut have risen to about 43%.",
-        "de": "Mit dem Waffenstillstandsabkommen im Iran sind die Markterwartungen für eine Zinssenkung der Fed auf etwa 43 % gestiegen."
+        "zh": "随着伊朗停火协议的生效，市场对美联储降息的预期再次上升，降息的可能性达到了约43%。",
+        "en": "With the Iran ceasefire in place, market expectations for a Fed rate cut have risen again, with the likelihood of a cut reaching about 43%.",
+        "de": "Mit Inkrafttreten des Iran-Waffenstillstands sind die Markterwartungen für eine Zinssenkung der Fed erneut gestiegen, wobei die Wahrscheinlichkeit einer Senkung bei etwa 43% liegt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-08",
