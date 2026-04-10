@@ -1,151 +1,151 @@
 {
-  "generatedAt": "2026-04-10T06:17:23.584224+00:00",
+  "generatedAt": "2026-04-10T17:11:59.598390+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "AI发展不会很快遇到瓶颈——原因在这里",
-        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht an eine Wand stoßen – hier ist der Grund"
+        "zh": "莫德纳的“疫苗”与“疗法”困境：这是一种国防部还是战争部？墨西哥湾还是美国湾？",
+        "en": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma: Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America?",
+        "de": "Was steckt in einem Namen? Modernas „Impfstoff“ vs. „Therapie“-Dilemma: Ist es das Verteidigungsministerium oder das Kriegsministerium? Der Golf von Mexiko oder der Golf von Amerika?"
       },
       "summary": {
-        "zh": "Mustafa Suleyman 讨论了人工智能的线性与指数增长，强调未来的发展不会受到限制。他认为，随着技术的进步，AI将继续快速发展。",
-        "en": "Mustafa Suleyman discusses the linear versus exponential growth of AI, emphasizing that future development will not be constrained. He believes that as technology advances, AI will continue to grow rapidly.",
-        "de": "Mustafa Suleyman diskutiert das lineare versus exponentielle Wachstum der KI und betont, dass die zukünftige Entwicklung nicht eingeschränkt sein wird. Er glaubt, dass die KI mit dem Fortschritt der Technologie weiterhin schnell wachsen wird."
+        "zh": "本文探讨了莫德纳在疫苗与疗法之间的命名困境，涉及国防部与战争部的定义及其影响。",
+        "en": "This article explores Moderna's naming dilemma between vaccine and therapy, touching on the implications of defining it as the Department of Defense versus the Department of War.",
+        "de": "Dieser Artikel untersucht Modernas Benennungsdilemma zwischen Impfstoff und Therapie und berührt die Auswirkungen der Definition als Verteidigungsministerium im Vergleich zum Kriegsministerium."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-08",
-      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
+      "date": "2026-04-10",
+      "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "成千上万的消费者路由器被俄罗斯军方黑客攻击",
-        "en": "Thousands of consumer routers hacked by Russia's military",
-        "de": "Tausende von Verbraucherroutern wurden von der russischen Militär gehackt"
+        "zh": "下载：独家杰夫·范德梅尔故事和太可怕的AI模型：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日信息。",
+        "en": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+        "de": "Der Download: eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden: Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der eine tägliche Dosis dessen bietet, was in der Technikwelt passiert."
       },
       "summary": {
-        "zh": "俄罗斯军方黑客攻击了120个国家的家庭和小型办公室中的过时路由器，导致大量用户的凭证被盗。此事件引发了对网络安全的广泛关注。",
-        "en": "Russia's military has hacked outdated routers in homes and small offices across 120 countries, leading to the theft of credentials for many users. This incident has raised widespread concerns about cybersecurity.",
-        "de": "Das russische Militär hat veraltete Router in Haushalten und kleinen Büros in 120 Ländern gehackt, was zum Diebstahl von Anmeldedaten vieler Nutzer führte. Dieser Vorfall hat weitreichende Bedenken hinsichtlich der Cybersicherheit ausgelöst."
+        "zh": "本期下载包含一则独家故事以及关于不适合发布的AI模型的讨论，反映了当今技术领域的动态。",
+        "en": "This edition of The Download features an exclusive story and a discussion on AI models deemed too dangerous to release, reflecting the current dynamics in the tech field.",
+        "de": "Diese Ausgabe von The Download enthält eine exklusive Geschichte und eine Diskussion über KI-Modelle, die als zu gefährlich erachtet werden, um veröffentlicht zu werden, und spiegelt die aktuellen Dynamiken im Technologiebereich wider."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-04-08",
-      "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/"
+      "source": "MIT Technology Review",
+      "date": "2026-04-10",
+      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "新Rowhammer攻击完全控制运行Nvidia GPU的机器",
-        "en": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-        "de": "Neue Rowhammer-Angriffe geben vollständige Kontrolle über Maschinen mit Nvidia-GPUs"
+        "zh": "穆斯塔法·苏莱曼：AI发展不会很快遇到瓶颈——原因如下：我们为线性世界而进化。",
+        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why: We evolved for a linear world.",
+        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht an eine Wand stoßen – hier ist der Grund: Wir haben uns für eine lineare Welt entwickelt."
       },
       "summary": {
-        "zh": "新发现的Rowhammer攻击可以通过操纵GPU内存来完全控制运行Nvidia GPU的机器。这一漏洞引发了对硬件安全性的担忧。",
-        "en": "Newly discovered Rowhammer attacks can completely control machines running Nvidia GPUs by manipulating GPU memory. This vulnerability raises concerns about hardware security.",
-        "de": "Neu entdeckte Rowhammer-Angriffe können Maschinen mit Nvidia-GPUs vollständig kontrollieren, indem sie den GPU-Speicher manipulieren. Diese Schwachstelle wirft Bedenken hinsichtlich der Hardware-Sicherheit auf."
+        "zh": "穆斯塔法·苏莱曼讨论了AI发展的未来，认为技术将继续以线性方式进步，且不会很快遇到瓶颈。",
+        "en": "Mustafa Suleyman discusses the future of AI development, asserting that technology will continue to progress linearly and is unlikely to hit a wall anytime soon.",
+        "de": "Mustafa Suleyman diskutiert die Zukunft der KI-Entwicklung und behauptet, dass sich die Technologie weiterhin linear entwickeln wird und wahrscheinlich nicht so schnell an eine Wand stößt."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-04-02",
-      "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
+      "source": "MIT Technology Review",
+      "date": "2026-04-08",
+      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "能源价格可能需要“几个月”才能恢复正常，尽管停火",
-        "en": "Energy prices may take ‘months’ to normalise, despite ceasefire: Analysts",
-        "de": "Energiepreise könnten trotz Waffenstillstand 'Monate' benötigen, um sich zu normalisieren: Analysten"
+        "zh": "内塔尼亚胡因“敌对”将西班牙移出加沙协调中心",
+        "en": "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’",
+        "de": "Netanjahu entfernt Spanien aus dem Gaza-Koordinationszentrum wegen 'Feindseligkeit'"
       },
       "summary": {
-        "zh": "分析师表示，尽管达成停火协议，但在霍尔木兹海峡的货物流动恢复之前，市场稳定仍需时日。能源价格的波动可能持续数月。",
-        "en": "Analysts state that despite the ceasefire agreement, market stabilization will take time until there is a predictable flow of cargo through the Strait of Hormuz. Energy price fluctuations may persist for months.",
-        "de": "Analysten geben an, dass die Marktstabilisierung trotz des Waffenstillstands Zeit in Anspruch nehmen wird, bis es einen vorhersehbaren Warenfluss durch die Straße von Hormuz gibt. Preisschwankungen bei Energie könnten monatelang anhalten."
+        "zh": "以色列总理内塔尼亚胡因指责西班牙对以色列进行“外交战争”，决定将其移出加沙协调中心。",
+        "en": "Israeli Prime Minister Netanyahu has decided to remove Spain from the Gaza coordination centre, accusing it of waging a 'diplomatic war' against Israel.",
+        "de": "Der israelische Premierminister Netanjahu hat beschlossen, Spanien aus dem Gaza-Koordinationszentrum zu entfernen und beschuldigt es, einen 'diplomatischen Krieg' gegen Israel zu führen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-10",
-      "url": "https://www.aljazeera.com/economy/2026/4/10/energy-prices-may-take-months-to-normalise-despite-ceasefire-analysts?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "库威特指责伊朗进行无人机袭击，伊朗否认责任",
-        "en": "Kuwait blames Iran for drone strike, Iran denies responsibility",
-        "de": "Kuwait macht Iran für den Drohnenangriff verantwortlich, Iran weist die Verantwortung zurück"
+        "zh": "JD·范斯预计与伊朗的“积极”战争谈判",
+        "en": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
+        "de": "JD Vance erwartet 'positive' US-Iran-Kriegsverhandlungen, während er nach Pakistan aufbricht"
       },
       "summary": {
-        "zh": "库威特指责伊朗及其代理人对周四晚上的无人机袭击负责，而伊朗则否认了这一指控。这一事件加剧了地区紧张局势。",
-        "en": "Kuwait blames Iran and its proxies for a drone attack on Thursday night, while Iran denies the accusation. This incident escalates regional tensions.",
-        "de": "Kuwait macht Iran und seine Stellvertreter für einen Drohnenangriff am Donnerstagabend verantwortlich, während Iran die Anschuldigung zurückweist. Dieses Ereignis eskaliert die regionalen Spannungen."
+        "zh": "美国副总统JD·范斯在前往巴基斯坦之前表示，如果伊朗不“玩弄”美国，谈判将会富有成效。",
+        "en": "US Vice President JD Vance stated that the talks will be productive if Iran does not 'play' the US, as he departs for Pakistan.",
+        "de": "Der US-Vizepräsident JD Vance erklärte, dass die Gespräche produktiv sein werden, wenn Iran die USA nicht 'verarscht', während er nach Pakistan aufbricht."
       },
       "source": "Al Jazeera",
       "date": "2026-04-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/kuwait-blames-iran-for-drone-strike-iran-denies-responsibility?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "英国首相基尔·斯塔默访问海湾地区以巩固“脆弱”的美伊停火",
-        "en": "UK PM Keir Starmer visits Gulf to shore up ‘fragile’ US-Iran ceasefire",
-        "de": "UK-Premierminister Keir Starmer besucht den Golf, um den 'fragilen' US-Iran-Waffenstillstand zu festigen"
+        "zh": "美国与伊朗的和平谈判面临巨大障碍",
+        "en": "US-Iran peace talks in Islamabad face massive hurdles",
+        "de": "US-Iran-Friedensgespräche in Islamabad stehen vor massiven Hürden"
       },
       "summary": {
-        "zh": "英国首相基尔·斯塔默在多哈进行海湾之行，讨论巩固美伊停火的努力。此行旨在缓解地区紧张局势。",
-        "en": "UK Prime Minister Keir Starmer arrives in Doha as part of a Gulf tour to discuss efforts to secure the US-Iran ceasefire. This visit aims to alleviate regional tensions.",
-        "de": "Der britische Premierminister Keir Starmer trifft in Doha im Rahmen einer Golfreise ein, um über die Bemühungen zur Sicherung des US-Iran-Waffenstillstands zu diskutieren. Dieser Besuch zielt darauf ab, die regionalen Spannungen zu verringern."
+        "zh": "专家表示，即将举行的美伊谈判可能因信任缺失而受到影响，面临重大挑战。",
+        "en": "Experts indicate that the upcoming US-Iran talks may be marred by a deficit of trust, facing significant challenges.",
+        "de": "Experten weisen darauf hin, dass die bevorstehenden US-Iran-Gespräche durch einen Mangel an Vertrauen beeinträchtigt werden könnten und vor erheblichen Herausforderungen stehen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/uk-pm-keir-starmer-visits-gulf-to-shore-up-fragile-us-iran-ceasefire?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/quotable/2026/4/10/us-iran-peace-talks-in-islamabad-face-massive-hurdles?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "通胀在美国与伊朗开战前保持在3%的高位",
-        "en": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
-        "de": "Inflation blieb bei 3% hartnäckig, während die USA in den Krieg mit dem Iran gingen, zeigt ein wichtiger Fed-Indikator"
+        "zh": "消费者信心降至历史低点，通胀担忧加剧，伊朗战争影响显著",
+        "en": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
+        "de": "Verbrauchervertrauen erreicht Rekordtief, Inflationsängste steigen im Zuge des Iran-Kriegs"
       },
       "summary": {
-        "zh": "最新数据显示，通胀在与伊朗开战前保持在3%的水平，这为美联储的决策提供了重要依据。市场对未来经济形势的预期仍然不确定。",
-        "en": "Recent data shows inflation remained sticky at 3% ahead of the war with Iran, providing crucial insights for the Federal Reserve's decision-making. Market expectations about the future economic landscape remain uncertain.",
-        "de": "Aktuelle Daten zeigen, dass die Inflation vor dem Krieg mit dem Iran hartnäckig bei 3% blieb, was wichtige Einblicke für die Entscheidungsfindung der Federal Reserve bietet. Die Markterwartungen hinsichtlich der zukünftigen wirtschaftlichen Lage bleiben ungewiss."
+        "zh": "消费者信心指数降至47.6，较三月下降10.7%，创下历史新低，反映出对通胀的担忧加剧。",
+        "en": "The consumer sentiment index has fallen to 47.6, down 10.7% from March, marking a record low and reflecting heightened concerns over inflation.",
+        "de": "Der Verbrauchervertrauensindex ist auf 47,6 gefallen, was einem Rückgang von 10,7 % gegenüber März entspricht und einen Rekordtiefstand darstellt, der auf zunehmende Inflationsängste hinweist."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-09",
-      "url": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html"
+      "source": "CNBC",
+      "date": "2026-04-10",
+      "url": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "伊朗石油冲击唤起1997年亚洲金融危机的记忆——但历史可能不会重演",
-        "en": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
-        "de": "Öl-Schock des Iran weckt Erinnerungen an die asiatische Finanzkrise von 1997 – aber hier ist der Grund, warum sich die Geschichte möglicherweise nicht wiederholt"
+        "zh": "消费者价格因伊朗冲突飙升3.3%",
+        "en": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
+        "de": "Die Verbraucherpreise stiegen im März um 3,3 %, da die Energiepreise aufgrund des Iran-Konflikts anstiegen"
       },
       "summary": {
-        "zh": "伊朗的石油冲击对亚洲经济造成了严重影响，导致能源成本飙升和货币贬值，但专家认为这次危机不会重演1997年的情况。",
-        "en": "The Iranian oil shock has severely impacted Asian economies, leading to soaring energy costs and currency devaluation, but experts believe this crisis will not repeat the situation of 1997.",
-        "de": "Der Öl-Schock des Iran hat die asiatischen Volkswirtschaften stark beeinträchtigt, was zu steigenden Energiekosten und Währungsabwertungen führte, aber Experten glauben, dass sich diese Krise nicht wie 1997 wiederholen wird."
+        "zh": "消费者价格指数显示，三月份消费者价格同比上涨3.3%，主要由于能源价格因伊朗冲突而飙升。",
+        "en": "The consumer price index indicates a year-over-year increase of 3.3% in March, primarily driven by rising energy prices due to the Iran conflict.",
+        "de": "Der Verbraucherpreisindex zeigt einen Anstieg von 3,3 % im März im Vergleich zum Vorjahr, der hauptsächlich durch steigende Energiepreise aufgrund des Iran-Konflikts bedingt ist."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-09",
-      "url": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html"
+      "source": "CNBC",
+      "date": "2026-04-10",
+      "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "市场转向潜在的美联储降息，伊朗停火生效",
+        "zh": "市场因伊朗停火而转向潜在的美联储降息",
         "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
-        "de": "Märkte verschieben sich wieder in Richtung möglicher Zinssenkungen der Fed in diesem Jahr mit Inkrafttreten des Iran-Waffenstillstands"
+        "de": "Märkte wenden sich wieder einer möglichen Zinssenkung der Fed in diesem Jahr zu, da ein Iran-Feuerpause in Kraft tritt"
       },
       "summary": {
-        "zh": "随着伊朗停火协议的生效，市场对美联储降息的预期再次上升，降息的可能性达到了约43%。",
-        "en": "With the Iran ceasefire in place, market expectations for a Fed rate cut have risen again, with the likelihood of a cut reaching about 43%.",
-        "de": "Mit Inkrafttreten des Iran-Waffenstillstands sind die Markterwartungen für eine Zinssenkung der Fed erneut gestiegen, wobei die Wahrscheinlichkeit einer Senkung bei etwa 43% liegt."
+        "zh": "随着伊朗停火的实施，市场对美联储降息的预期回升，降息的可能性约为43%。",
+        "en": "With the implementation of the Iran ceasefire, market expectations for a Fed rate cut have risen, with the likelihood now around 43%.",
+        "de": "Mit der Umsetzung des Iran-Feuerpause sind die Markterwartungen an eine Zinssenkung der Fed gestiegen, wobei die Wahrscheinlichkeit jetzt bei etwa 43 % liegt."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-04-08",
       "url": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html"
     }
