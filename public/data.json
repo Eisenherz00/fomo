@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-10T17:11:59.598390+00:00",
+  "generatedAt": "2026-04-11T05:45:09.175011+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "莫德纳的“疫苗”与“疗法”困境：这是一种国防部还是战争部？墨西哥湾还是美国湾？",
+        "zh": "现代疫苗与治疗的困境：国防部还是战争部？墨西哥湾还是美洲湾？",
         "en": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma: Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America?",
         "de": "Was steckt in einem Namen? Modernas „Impfstoff“ vs. „Therapie“-Dilemma: Ist es das Verteidigungsministerium oder das Kriegsministerium? Der Golf von Mexiko oder der Golf von Amerika?"
       },
       "summary": {
-        "zh": "本文探讨了莫德纳在疫苗与疗法之间的命名困境，涉及国防部与战争部的定义及其影响。",
-        "en": "This article explores Moderna's naming dilemma between vaccine and therapy, touching on the implications of defining it as the Department of Defense versus the Department of War.",
-        "de": "Dieser Artikel untersucht Modernas Benennungsdilemma zwischen Impfstoff und Therapie und berührt die Auswirkungen der Definition als Verteidigungsministerium im Vergleich zum Kriegsministerium."
+        "zh": "现代疫苗与治疗的定义存在争议，尤其是在国防和战争的语境下。文章探讨了这些术语的使用对公众理解和政策的影响。",
+        "en": "The definitions of Moderna's vaccine and therapy are under debate, especially in the context of defense and war. The article explores how the use of these terms affects public understanding and policy.",
+        "de": "Die Definitionen von Modernas Impfstoff und Therapie sind umstritten, insbesondere im Kontext von Verteidigung und Krieg. Der Artikel untersucht, wie die Verwendung dieser Begriffe das öffentliche Verständnis und die Politik beeinflusst."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-10",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：独家杰夫·范德梅尔故事和太可怕的AI模型：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日信息。",
-        "en": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden: Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der eine tägliche Dosis dessen bietet, was in der Technikwelt passiert."
+        "zh": "下载：独家杰夫·范德梅尔故事和不敢发布的AI模型",
+        "en": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+        "de": "Der Download: eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden"
       },
       "summary": {
-        "zh": "本期下载包含一则独家故事以及关于不适合发布的AI模型的讨论，反映了当今技术领域的动态。",
-        "en": "This edition of The Download features an exclusive story and a discussion on AI models deemed too dangerous to release, reflecting the current dynamics in the tech field.",
-        "de": "Diese Ausgabe von The Download enthält eine exklusive Geschichte und eine Diskussion über KI-Modelle, die als zu gefährlich erachtet werden, um veröffentlicht zu werden, und spiegelt die aktuellen Dynamiken im Technologiebereich wider."
+        "zh": "本期下载提供了杰夫·范德梅尔的独家故事以及一些因安全原因而不敢发布的AI模型。文章探讨了技术界的最新动态。",
+        "en": "This edition of The Download features an exclusive story by Jeff VanderMeer and discusses AI models that are too scary to release for safety reasons. The article explores the latest developments in the tech world.",
+        "de": "Diese Ausgabe des Downloads enthält eine exklusive Geschichte von Jeff VanderMeer und diskutiert KI-Modelle, die aus Sicherheitsgründen zu gruselig sind, um veröffentlicht zu werden. Der Artikel untersucht die neuesten Entwicklungen in der Technologiewelt."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-10",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "穆斯塔法·苏莱曼：AI发展不会很快遇到瓶颈——原因如下：我们为线性世界而进化。",
-        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why: We evolved for a linear world.",
-        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht an eine Wand stoßen – hier ist der Grund: Wir haben uns für eine lineare Welt entwickelt."
+        "zh": "穆斯塔法·苏莱曼：人工智能的发展不会很快遇到瓶颈——原因在这里",
+        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht an eine Wand stoßen – hier ist der Grund"
       },
       "summary": {
-        "zh": "穆斯塔法·苏莱曼讨论了AI发展的未来，认为技术将继续以线性方式进步，且不会很快遇到瓶颈。",
-        "en": "Mustafa Suleyman discusses the future of AI development, asserting that technology will continue to progress linearly and is unlikely to hit a wall anytime soon.",
-        "de": "Mustafa Suleyman diskutiert die Zukunft der KI-Entwicklung und behauptet, dass sich die Technologie weiterhin linear entwickeln wird und wahrscheinlich nicht so schnell an eine Wand stößt."
+        "zh": "穆斯塔法·苏莱曼讨论了人工智能发展的线性与指数增长，认为未来的发展不会受到限制。文章分析了技术进步的潜力。",
+        "en": "Mustafa Suleyman discusses the linear versus exponential growth of AI development, asserting that future advancements will not be constrained. The article analyzes the potential of technological progress.",
+        "de": "Mustafa Suleyman diskutiert das lineare versus exponentielle Wachstum der KI-Entwicklung und behauptet, dass zukünftige Fortschritte nicht eingeschränkt sein werden. Der Artikel analysiert das Potenzial des technologischen Fortschritts."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-08",
@@ -54,98 +54,98 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "内塔尼亚胡因“敌对”将西班牙移出加沙协调中心",
-        "en": "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’",
-        "de": "Netanjahu entfernt Spanien aus dem Gaza-Koordinationszentrum wegen 'Feindseligkeit'"
+        "zh": "伊朗战争：美国-伊朗冲突第43天发生了什么？",
+        "en": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+        "de": "Iran-Krieg: Was passiert am 43. Tag des US-Iran-Konflikts?"
       },
       "summary": {
-        "zh": "以色列总理内塔尼亚胡因指责西班牙对以色列进行“外交战争”，决定将其移出加沙协调中心。",
-        "en": "Israeli Prime Minister Netanyahu has decided to remove Spain from the Gaza coordination centre, accusing it of waging a 'diplomatic war' against Israel.",
-        "de": "Der israelische Premierminister Netanjahu hat beschlossen, Spanien aus dem Gaza-Koordinationszentrum zu entfernen und beschuldigt es, einen 'diplomatischen Krieg' gegen Israel zu führen."
+        "zh": "在美国和伊朗冲突的第43天，伊朗高级官员抵达伊斯兰堡进行停火谈判。局势紧张，国际社会密切关注。",
+        "en": "On day 43 of the US-Iran conflict, senior Iranian officials arrive in Islamabad for ceasefire talks. The situation remains tense, with the international community closely monitoring developments.",
+        "de": "Am 43. Tag des US-Iran-Konflikts treffen hochrangige iranische Beamte in Islamabad zu Gesprächen über einen Waffenstillstand ein. Die Situation bleibt angespannt, und die internationale Gemeinschaft beobachtet die Entwicklungen genau."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-10",
-      "url": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss"
+      "date": "2026-04-11",
+      "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "JD·范斯预计与伊朗的“积极”战争谈判",
-        "en": "JD Vance expects ‘positive’ US-Iran war talks as he departs for Pakistan",
-        "de": "JD Vance erwartet 'positive' US-Iran-Kriegsverhandlungen, während er nach Pakistan aufbricht"
+        "zh": "巴基斯坦大使在美国-伊朗谈判前对半岛电视台发表讲话",
+        "en": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+        "de": "Der pakistanische Botschafter spricht mit Al Jazeera am Vorabend der US-Iran-Gespräche"
       },
       "summary": {
-        "zh": "美国副总统JD·范斯在前往巴基斯坦之前表示，如果伊朗不“玩弄”美国，谈判将会富有成效。",
-        "en": "US Vice President JD Vance stated that the talks will be productive if Iran does not 'play' the US, as he departs for Pakistan.",
-        "de": "Der US-Vizepräsident JD Vance erklärte, dass die Gespräche produktiv sein werden, wenn Iran die USA nicht 'verarscht', während er nach Pakistan aufbricht."
+        "zh": "巴基斯坦驻美国大使表示，经过几周的紧张外交努力，各方达成了共同承诺。谈判的前景引发了广泛关注。",
+        "en": "Pakistan's ambassador to the US stated that weeks of intense diplomatic efforts have led to a shared commitment from all sides. The prospects for negotiations are drawing widespread attention.",
+        "de": "Der pakistanische Botschafter in den USA erklärte, dass Wochen intensiver diplomatischer Bemühungen zu einem gemeinsamen Engagement aller Seiten geführt haben. Die Aussichten für die Verhandlungen ziehen große Aufmerksamkeit auf sich."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-10",
-      "url": "https://www.aljazeera.com/news/2026/4/10/jd-vance-expects-positive-us-iran-war-talks-as-he-departs-for-pakistan?traffic_source=rss"
+      "date": "2026-04-11",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国与伊朗的和平谈判面临巨大障碍",
-        "en": "US-Iran peace talks in Islamabad face massive hurdles",
-        "de": "US-Iran-Friedensgespräche in Islamabad stehen vor massiven Hürden"
+        "zh": "巴基斯坦总理称美国-伊朗谈判为“生死攸关”",
+        "en": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
+        "de": "Pakistans Premierminister nennt die US-Iran-Gespräche ‚entscheidend‘"
       },
       "summary": {
-        "zh": "专家表示，即将举行的美伊谈判可能因信任缺失而受到影响，面临重大挑战。",
-        "en": "Experts indicate that the upcoming US-Iran talks may be marred by a deficit of trust, facing significant challenges.",
-        "de": "Experten weisen darauf hin, dass die bevorstehenden US-Iran-Gespräche durch einen Mangel an Vertrauen beeinträchtigt werden könnten und vor erheblichen Herausforderungen stehen."
+        "zh": "巴基斯坦总理谢赫巴兹·沙里夫称即将举行的美国-伊朗谈判为“生死攸关”。此言论反映出谈判的重要性。",
+        "en": "Pakistan's Prime Minister Shehbaz Sharif described the upcoming US-Iran talks as 'make or break'. This statement reflects the significance of the negotiations.",
+        "de": "Pakistans Premierminister Shehbaz Sharif bezeichnete die bevorstehenden US-Iran-Gespräche als ‚entscheidend‘. Diese Aussage spiegelt die Bedeutung der Verhandlungen wider."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-10",
-      "url": "https://www.aljazeera.com/video/quotable/2026/4/10/us-iran-peace-talks-in-islamabad-face-massive-hurdles?traffic_source=rss"
+      "date": "2026-04-11",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者信心降至历史低点，通胀担忧加剧，伊朗战争影响显著",
+        "zh": "消费者信心降至历史低点，通胀担忧因伊朗战争而上升",
         "en": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
-        "de": "Verbrauchervertrauen erreicht Rekordtief, Inflationsängste steigen im Zuge des Iran-Kriegs"
+        "de": "Das Verbrauchervertrauen erreicht Rekordtief, Inflationsängste steigen im Zuge des Iran-Kriegs"
       },
       "summary": {
-        "zh": "消费者信心指数降至47.6，较三月下降10.7%，创下历史新低，反映出对通胀的担忧加剧。",
-        "en": "The consumer sentiment index has fallen to 47.6, down 10.7% from March, marking a record low and reflecting heightened concerns over inflation.",
-        "de": "Der Verbrauchervertrauensindex ist auf 47,6 gefallen, was einem Rückgang von 10,7 % gegenüber März entspricht und einen Rekordtiefstand darstellt, der auf zunehmende Inflationsängste hinweist."
+        "zh": "由于伊朗战争，消费者信心指数降至47.6，创历史新低，较3月份下降10.7%。经济前景令人担忧。",
+        "en": "Due to the Iran war, the consumer sentiment index has dropped to 47.6, a record low, down 10.7% from March. Economic prospects are concerning.",
+        "de": "Aufgrund des Iran-Kriegs ist der Verbrauchervertrauensindex auf 47,6 gefallen, ein Rekordtief, was einem Rückgang von 10,7 % gegenüber März entspricht. Die wirtschaftlichen Aussichten sind besorgniserregend."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-10",
       "url": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者价格因伊朗冲突飙升3.3%",
+        "zh": "由于伊朗冲突，消费者价格在3月份上涨3.3%",
         "en": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
         "de": "Die Verbraucherpreise stiegen im März um 3,3 %, da die Energiepreise aufgrund des Iran-Konflikts anstiegen"
       },
       "summary": {
-        "zh": "消费者价格指数显示，三月份消费者价格同比上涨3.3%，主要由于能源价格因伊朗冲突而飙升。",
-        "en": "The consumer price index indicates a year-over-year increase of 3.3% in March, primarily driven by rising energy prices due to the Iran conflict.",
-        "de": "Der Verbraucherpreisindex zeigt einen Anstieg von 3,3 % im März im Vergleich zum Vorjahr, der hauptsächlich durch steigende Energiepreise aufgrund des Iran-Konflikts bedingt ist."
+        "zh": "3月份消费者价格指数预计显示同比增长3.3%，主要由于伊朗冲突导致能源价格飙升。经济面临压力。",
+        "en": "The consumer price index is expected to show a year-over-year increase of 3.3% in March, primarily due to soaring energy prices from the Iran conflict. The economy is under pressure.",
+        "de": "Der Verbraucherpreisindex wird voraussichtlich im März einen Anstieg von 3,3 % im Vergleich zum Vorjahr zeigen, hauptsächlich aufgrund der steigenden Energiepreise durch den Iran-Konflikt. Die Wirtschaft steht unter Druck."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-10",
       "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "市场因伊朗停火而转向潜在的美联储降息",
+        "zh": "由于伊朗停火，市场重新关注潜在的美联储降息",
         "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
-        "de": "Märkte wenden sich wieder einer möglichen Zinssenkung der Fed in diesem Jahr zu, da ein Iran-Feuerpause in Kraft tritt"
+        "de": "Die Märkte richten sich wieder auf eine mögliche Zinssenkung der Fed in diesem Jahr aus, da ein Waffenstillstand im Iran besteht"
       },
       "summary": {
-        "zh": "随着伊朗停火的实施，市场对美联储降息的预期回升，降息的可能性约为43%。",
-        "en": "With the implementation of the Iran ceasefire, market expectations for a Fed rate cut have risen, with the likelihood now around 43%.",
-        "de": "Mit der Umsetzung des Iran-Feuerpause sind die Markterwartungen an eine Zinssenkung der Fed gestiegen, wobei die Wahrscheinlichkeit jetzt bei etwa 43 % liegt."
+        "zh": "随着伊朗停火协议的达成，市场对美联储降息的预期上升，降息的可能性约为43%。",
+        "en": "With the Iran ceasefire agreement in place, market expectations for a Fed rate cut have risen, with the likelihood now at about 43%.",
+        "de": "Mit dem Inkrafttreten des Waffenstillstands im Iran sind die Markterwartungen für eine Zinssenkung der Fed gestiegen, wobei die Wahrscheinlichkeit nun bei etwa 43 % liegt."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-04-08",
       "url": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html"
     }
