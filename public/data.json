@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-11T05:45:09.175011+00:00",
+  "generatedAt": "2026-04-11T17:00:50.232735+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "现代疫苗与治疗的困境：国防部还是战争部？墨西哥湾还是美洲湾？",
-        "en": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma: Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America?",
-        "de": "Was steckt in einem Namen? Modernas „Impfstoff“ vs. „Therapie“-Dilemma: Ist es das Verteidigungsministerium oder das Kriegsministerium? Der Golf von Mexiko oder der Golf von Amerika?"
+        "zh": "现代疫苗与疗法的困境：名字里有什么？",
+        "en": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+        "de": "Was steckt in einem Namen? Modernas Dilemma zwischen „Impfstoff“ und „Therapie“"
       },
       "summary": {
-        "zh": "现代疫苗与治疗的定义存在争议，尤其是在国防和战争的语境下。文章探讨了这些术语的使用对公众理解和政策的影响。",
-        "en": "The definitions of Moderna's vaccine and therapy are under debate, especially in the context of defense and war. The article explores how the use of these terms affects public understanding and policy.",
-        "de": "Die Definitionen von Modernas Impfstoff und Therapie sind umstritten, insbesondere im Kontext von Verteidigung und Krieg. Der Artikel untersucht, wie die Verwendung dieser Begriffe das öffentliche Verständnis und die Politik beeinflusst."
+        "zh": "现代疫苗与疗法的定义引发了关于其真正性质的辩论。文章探讨了这些术语的含义及其对公众认知的影响。",
+        "en": "The definitions of modern vaccines and therapies have sparked debates about their true nature. The article explores the implications of these terms and their impact on public perception.",
+        "de": "Die Definitionen moderner Impfstoffe und Therapien haben Debatten über ihre wahre Natur ausgelöst. Der Artikel untersucht die Auswirkungen dieser Begriffe und ihren Einfluss auf die öffentliche Wahrnehmung."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-10",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "下载：独家杰夫·范德梅尔故事和不敢发布的AI模型",
         "en": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-        "de": "Der Download: eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden"
+        "de": "Der Download: Eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden"
       },
       "summary": {
-        "zh": "本期下载提供了杰夫·范德梅尔的独家故事以及一些因安全原因而不敢发布的AI模型。文章探讨了技术界的最新动态。",
-        "en": "This edition of The Download features an exclusive story by Jeff VanderMeer and discusses AI models that are too scary to release for safety reasons. The article explores the latest developments in the tech world.",
-        "de": "Diese Ausgabe des Downloads enthält eine exklusive Geschichte von Jeff VanderMeer und diskutiert KI-Modelle, die aus Sicherheitsgründen zu gruselig sind, um veröffentlicht zu werden. Der Artikel untersucht die neuesten Entwicklungen in der Technologiewelt."
+        "zh": "本期下载提供了杰夫·范德梅尔的独家故事，并讨论了一些因安全原因而未能发布的AI模型。",
+        "en": "This edition of The Download features an exclusive story by Jeff VanderMeer and discusses some AI models that have not been released due to safety concerns.",
+        "de": "Diese Ausgabe des Downloads enthält eine exklusive Geschichte von Jeff VanderMeer und erörtert einige KI-Modelle, die aus Sicherheitsgründen nicht veröffentlicht wurden."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-10",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "穆斯塔法·苏莱曼：人工智能的发展不会很快遇到瓶颈——原因在这里",
+        "zh": "穆斯塔法·苏莱曼：AI发展不会很快遇到瓶颈——原因在这里",
         "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
         "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht an eine Wand stoßen – hier ist der Grund"
       },
       "summary": {
-        "zh": "穆斯塔法·苏莱曼讨论了人工智能发展的线性与指数增长，认为未来的发展不会受到限制。文章分析了技术进步的潜力。",
-        "en": "Mustafa Suleyman discusses the linear versus exponential growth of AI development, asserting that future advancements will not be constrained. The article analyzes the potential of technological progress.",
-        "de": "Mustafa Suleyman diskutiert das lineare versus exponentielle Wachstum der KI-Entwicklung und behauptet, dass zukünftige Fortschritte nicht eingeschränkt sein werden. Der Artikel analysiert das Potenzial des technologischen Fortschritts."
+        "zh": "穆斯塔法·苏莱曼讨论了人工智能发展的线性与指数增长，认为未来的发展将持续推进。",
+        "en": "Mustafa Suleyman discusses the linear versus exponential growth of AI development, asserting that future advancements will continue to progress.",
+        "de": "Mustafa Suleyman diskutiert das lineare versus exponentielle Wachstum der KI-Entwicklung und behauptet, dass zukünftige Fortschritte weiterhin voranschreiten werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-08",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗战争：美国-伊朗冲突第43天发生了什么？",
-        "en": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-        "de": "Iran-Krieg: Was passiert am 43. Tag des US-Iran-Konflikts?"
+        "zh": "阿尔忒弥斯船员安全返回，完成历史性月球任务",
+        "en": "Artemis crew home safely after completing historic mission to the Moon",
+        "de": "Artemis-Crew sicher nach Abschluss der historischen Mondmission zurück"
       },
       "summary": {
-        "zh": "在美国和伊朗冲突的第43天，伊朗高级官员抵达伊斯兰堡进行停火谈判。局势紧张，国际社会密切关注。",
-        "en": "On day 43 of the US-Iran conflict, senior Iranian officials arrive in Islamabad for ceasefire talks. The situation remains tense, with the international community closely monitoring developments.",
-        "de": "Am 43. Tag des US-Iran-Konflikts treffen hochrangige iranische Beamte in Islamabad zu Gesprächen über einen Waffenstillstand ein. Die Situation bleibt angespannt, und die internationale Gemeinschaft beobachtet die Entwicklungen genau."
+        "zh": "四名宇航员在太平洋成功着陆，完成了为期九天的任务，创造了人类历史上最远的航行记录。",
+        "en": "Four astronauts successfully splashed down in the Pacific, completing a nine-day mission that marked the farthest journey from Earth in human history.",
+        "de": "Vier Astronauten landeten erfolgreich im Pazifik und schlossen eine neuntägige Mission ab, die die weiteste Reise von der Erde in der Menschheitsgeschichte markierte."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-04-11",
-      "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "巴基斯坦大使在美国-伊朗谈判前对半岛电视台发表讲话",
-        "en": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
-        "de": "Der pakistanische Botschafter spricht mit Al Jazeera am Vorabend der US-Iran-Gespräche"
+        "zh": "加州州长候选人否认性侵犯指控",
+        "en": "Frontrunner for California governor denies sexual assault allegations",
+        "de": "Frontrunner für das Amt des Gouverneurs von Kalifornien weist sexuelle Übergriffsanklagen zurück"
       },
       "summary": {
-        "zh": "巴基斯坦驻美国大使表示，经过几周的紧张外交努力，各方达成了共同承诺。谈判的前景引发了广泛关注。",
-        "en": "Pakistan's ambassador to the US stated that weeks of intense diplomatic efforts have led to a shared commitment from all sides. The prospects for negotiations are drawing widespread attention.",
-        "de": "Der pakistanische Botschafter in den USA erklärte, dass Wochen intensiver diplomatischer Bemühungen zu einem gemeinsamen Engagement aller Seiten geführt haben. Die Aussichten für die Verhandlungen ziehen große Aufmerksamkeit auf sich."
+        "zh": "一名民主党国会议员在竞选中强烈否认性侵犯指控，并表示将以“事实”进行反击。",
+        "en": "A Democratic congressman, a leading candidate in the race, has strongly denied sexual assault allegations, stating he will fight back with 'facts'.",
+        "de": "Ein demokratischer Abgeordneter, der führende Kandidat im Rennen, hat die Vorwürfe sexueller Übergriffe entschieden zurückgewiesen und erklärt, er werde mit „Fakten“ dagegen kämpfen."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-04-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "巴基斯坦总理称美国-伊朗谈判为“生死攸关”",
-        "en": "Pakistan’s prime minister calls US-Iran talks ‘make or break’",
-        "de": "Pakistans Premierminister nennt die US-Iran-Gespräche ‚entscheidend‘"
+        "zh": "尼日利亚近400人因与激进伊斯兰主义者有关联被判刑",
+        "en": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
+        "de": "Fast 400 Personen in Nigeria wegen Verbindungen zu militanten Islamisten verurteilt"
       },
       "summary": {
-        "zh": "巴基斯坦总理谢赫巴兹·沙里夫称即将举行的美国-伊朗谈判为“生死攸关”。此言论反映出谈判的重要性。",
-        "en": "Pakistan's Prime Minister Shehbaz Sharif described the upcoming US-Iran talks as 'make or break'. This statement reflects the significance of the negotiations.",
-        "de": "Pakistans Premierminister Shehbaz Sharif bezeichnete die bevorstehenden US-Iran-Gespräche als ‚entscheidend‘. Diese Aussage spiegelt die Bedeutung der Verhandlungen wider."
+        "zh": "尼日利亚法官对近400人进行了量刑，判决范围从五年到终身监禁，涉及大规模审判。",
+        "en": "Nigerian judges handed down sentences to nearly 400 individuals, ranging from five years to life imprisonment, following mass trials.",
+        "de": "Nigerianische Richter verhängten Urteile gegen fast 400 Personen, die von fünf Jahren bis zu lebenslanger Haft reichten, nach Massenprozessen."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-04-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistans-prime-minister-calls-us-iran-talks-make-or?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者信心降至历史低点，通胀担忧因伊朗战争而上升",
+        "zh": "消费者信心降至历史低点，通胀担忧加剧",
         "en": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
         "de": "Das Verbrauchervertrauen erreicht Rekordtief, Inflationsängste steigen im Zuge des Iran-Kriegs"
       },
       "summary": {
-        "zh": "由于伊朗战争，消费者信心指数降至47.6，创历史新低，较3月份下降10.7%。经济前景令人担忧。",
-        "en": "Due to the Iran war, the consumer sentiment index has dropped to 47.6, a record low, down 10.7% from March. Economic prospects are concerning.",
-        "de": "Aufgrund des Iran-Kriegs ist der Verbrauchervertrauensindex auf 47,6 gefallen, ein Rekordtief, was einem Rückgang von 10,7 % gegenüber März entspricht. Die wirtschaftlichen Aussichten sind besorgniserregend."
+        "zh": "由于伊朗战争的影响，消费者信心指数降至47.6，较三月下降10.7%，创下历史新低。",
+        "en": "Due to the impact of the Iran war, the consumer sentiment index fell to 47.6, down 10.7% from March, marking a record low.",
+        "de": "Aufgrund der Auswirkungen des Iran-Kriegs fiel der Verbraucherindex auf 47,6, ein Rückgang von 10,7 % gegenüber März und ein Rekordtief."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "由于伊朗冲突，消费者价格在3月份上涨3.3%",
+        "zh": "消费者价格因伊朗冲突上涨3.3%",
         "en": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
         "de": "Die Verbraucherpreise stiegen im März um 3,3 %, da die Energiepreise aufgrund des Iran-Konflikts anstiegen"
       },
       "summary": {
-        "zh": "3月份消费者价格指数预计显示同比增长3.3%，主要由于伊朗冲突导致能源价格飙升。经济面临压力。",
-        "en": "The consumer price index is expected to show a year-over-year increase of 3.3% in March, primarily due to soaring energy prices from the Iran conflict. The economy is under pressure.",
-        "de": "Der Verbraucherpreisindex wird voraussichtlich im März einen Anstieg von 3,3 % im Vergleich zum Vorjahr zeigen, hauptsächlich aufgrund der steigenden Energiepreise durch den Iran-Konflikt. Die Wirtschaft steht unter Druck."
+        "zh": "消费者价格指数显示，三月份消费者价格同比上涨3.3%，主要由于能源价格飙升。",
+        "en": "The consumer price index indicated a 3.3% year-over-year increase in consumer prices in March, primarily due to soaring energy prices.",
+        "de": "Der Verbraucherpreisindex zeigte im März einen Anstieg der Verbraucherpreise um 3,3 % im Jahresvergleich, hauptsächlich aufgrund der steigenden Energiepreise."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "由于伊朗停火，市场重新关注潜在的美联储降息",
-        "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
-        "de": "Die Märkte richten sich wieder auf eine mögliche Zinssenkung der Fed in diesem Jahr aus, da ein Waffenstillstand im Iran besteht"
+        "zh": "美国通胀在进入伊朗战争时保持在3%",
+        "en": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
+        "de": "Die Inflation blieb bei 3 %, als die USA in den Krieg mit dem Iran zogen, zeigt ein wichtiger Fed-Indikator"
       },
       "summary": {
-        "zh": "随着伊朗停火协议的达成，市场对美联储降息的预期上升，降息的可能性约为43%。",
-        "en": "With the Iran ceasefire agreement in place, market expectations for a Fed rate cut have risen, with the likelihood now at about 43%.",
-        "de": "Mit dem Inkrafttreten des Waffenstillstands im Iran sind die Markterwartungen für eine Zinssenkung der Fed gestiegen, wobei die Wahrscheinlichkeit nun bei etwa 43 % liegt."
+        "zh": "在进入与伊朗的战争时，美国的通胀率保持在3%，这一关键指标为美联储提供了经济状况的快照。",
+        "en": "As the U.S. entered the war with Iran, inflation held steady at 3%, providing the Federal Reserve with a snapshot of economic conditions.",
+        "de": "Als die USA in den Krieg mit dem Iran eintraten, blieb die Inflation bei 3 % stabil und lieferte der Federal Reserve einen Überblick über die wirtschaftlichen Bedingungen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-08",
-      "url": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html"
+      "date": "2026-04-09",
+      "url": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html"
     }
   ]
 }
