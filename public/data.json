@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-11T17:00:50.232735+00:00",
+  "generatedAt": "2026-04-12T06:10:10.448257+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "现代疫苗与疗法的困境：名字里有什么？",
-        "en": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
-        "de": "Was steckt in einem Namen? Modernas Dilemma zwischen „Impfstoff“ und „Therapie“"
+        "zh": "现代疫苗与治疗的困境：国防部还是战争部？墨西哥湾还是美洲湾？",
+        "en": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma: Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America?",
+        "de": "Was steckt in einem Namen? Modernas Dilemma „Impfstoff“ vs. „Therapie“: Ist es das Verteidigungsministerium oder das Kriegsministerium? Der Golf von Mexiko oder der Golf von Amerika?"
       },
       "summary": {
-        "zh": "现代疫苗与疗法的定义引发了关于其真正性质的辩论。文章探讨了这些术语的含义及其对公众认知的影响。",
-        "en": "The definitions of modern vaccines and therapies have sparked debates about their true nature. The article explores the implications of these terms and their impact on public perception.",
-        "de": "Die Definitionen moderner Impfstoffe und Therapien haben Debatten über ihre wahre Natur ausgelöst. Der Artikel untersucht die Auswirkungen dieser Begriffe und ihren Einfluss auf die öffentliche Wahrnehmung."
+        "zh": "现代疫苗与治疗的定义在科学和法律上存在争议，尤其是在与国防和战争相关的背景下。文章探讨了这些术语的使用及其影响。",
+        "en": "The definitions of modern vaccines and therapies are contentious in both scientific and legal contexts, particularly in relation to defense and war. The article explores the implications of these terms.",
+        "de": "Die Definitionen moderner Impfstoffe und Therapien sind in wissenschaftlichen und rechtlichen Kontexten umstritten, insbesondere im Zusammenhang mit Verteidigung und Krieg. Der Artikel untersucht die Auswirkungen dieser Begriffe."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-10",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：独家杰夫·范德梅尔故事和不敢发布的AI模型",
+        "zh": "下载：独家杰夫·范德梅尔故事和无法发布的AI模型",
         "en": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-        "de": "Der Download: Eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden"
+        "de": "Der Download: eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden"
       },
       "summary": {
-        "zh": "本期下载提供了杰夫·范德梅尔的独家故事，并讨论了一些因安全原因而未能发布的AI模型。",
-        "en": "This edition of The Download features an exclusive story by Jeff VanderMeer and discusses some AI models that have not been released due to safety concerns.",
-        "de": "Diese Ausgabe des Downloads enthält eine exklusive Geschichte von Jeff VanderMeer und erörtert einige KI-Modelle, die aus Sicherheitsgründen nicht veröffentlicht wurden."
+        "zh": "本期下载提供了杰夫·范德梅尔的独家故事，以及一些因安全原因无法发布的AI模型。这些内容展示了技术世界的最新动态。",
+        "en": "This edition of The Download features an exclusive story by Jeff VanderMeer and some AI models that cannot be released due to safety concerns. It showcases the latest happenings in the tech world.",
+        "de": "Diese Ausgabe des Downloads enthält eine exklusive Geschichte von Jeff VanderMeer und einige KI-Modelle, die aus Sicherheitsgründen nicht veröffentlicht werden können. Sie zeigt die neuesten Entwicklungen in der Technologiewelt."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-10",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "穆斯塔法·苏莱曼：AI发展不会很快遇到瓶颈——原因在这里",
+        "zh": "穆斯塔法·苏莱曼：人工智能的发展不会很快遇到瓶颈——原因在这里",
         "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht an eine Wand stoßen – hier ist der Grund"
+        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht auf ein Hindernis stoßen – hier ist der Grund"
       },
       "summary": {
-        "zh": "穆斯塔法·苏莱曼讨论了人工智能发展的线性与指数增长，认为未来的发展将持续推进。",
-        "en": "Mustafa Suleyman discusses the linear versus exponential growth of AI development, asserting that future advancements will continue to progress.",
-        "de": "Mustafa Suleyman diskutiert das lineare versus exponentielle Wachstum der KI-Entwicklung und behauptet, dass zukünftige Fortschritte weiterhin voranschreiten werden."
+        "zh": "穆斯塔法·苏莱曼讨论了人工智能发展的持续性，强调了线性世界观对人类理解技术进步的重要性。他认为，未来的技术进步将不会受到限制。",
+        "en": "Mustafa Suleyman discusses the sustainability of AI development, emphasizing the importance of a linear worldview in understanding technological advancements. He believes that future technological progress will not be constrained.",
+        "de": "Mustafa Suleyman diskutiert die Nachhaltigkeit der KI-Entwicklung und betont die Bedeutung einer linearen Weltanschauung für das Verständnis technologischer Fortschritte. Er glaubt, dass zukünftige technologische Fortschritte nicht eingeschränkt sein werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-08",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "阿尔忒弥斯船员安全返回，完成历史性月球任务",
-        "en": "Artemis crew home safely after completing historic mission to the Moon",
-        "de": "Artemis-Crew sicher nach Abschluss der historischen Mondmission zurück"
+        "zh": "巴基斯坦敦促美国和伊朗遵守停火协议",
+        "en": "Pakistan urges US and Iran to uphold ceasefire after talks end",
+        "de": "Pakistan drängt die USA und den Iran, den Waffenstillstand nach dem Ende der Gespräche einzuhalten"
       },
       "summary": {
-        "zh": "四名宇航员在太平洋成功着陆，完成了为期九天的任务，创造了人类历史上最远的航行记录。",
-        "en": "Four astronauts successfully splashed down in the Pacific, completing a nine-day mission that marked the farthest journey from Earth in human history.",
-        "de": "Vier Astronauten landeten erfolgreich im Pazifik und schlossen eine neuntägige Mission ab, die die weiteste Reise von der Erde in der Menschheitsgeschichte markierte."
+        "zh": "巴基斯坦外交部长伊斯哈克·达尔呼吁美国和伊朗在谈判结束后遵守停火协议，以维护地区稳定。",
+        "en": "Pakistani Foreign Minister Ishaq Dar has called on the US and Iran to uphold their ceasefire agreement following the conclusion of talks to maintain regional stability.",
+        "de": "Der pakistanische Außenminister Ishaq Dar hat die USA und den Iran aufgefordert, ihren Waffenstillstand nach dem Ende der Gespräche einzuhalten, um die regionale Stabilität zu wahren."
       },
-      "source": "BBC News – World",
-      "date": "2026-04-11",
-      "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-04-12",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "加州州长候选人否认性侵犯指控",
-        "en": "Frontrunner for California governor denies sexual assault allegations",
-        "de": "Frontrunner für das Amt des Gouverneurs von Kalifornien weist sexuelle Übergriffsanklagen zurück"
+        "zh": "美国和伊朗在巴基斯坦的马拉松谈判后未能达成和平协议",
+        "en": "US and Iran fail to reach peace deal after marathon talks in Pakistan",
+        "de": "USA und Iran können nach Marathonverhandlungen in Pakistan keinen Friedensvertrag erreichen"
       },
       "summary": {
-        "zh": "一名民主党国会议员在竞选中强烈否认性侵犯指控，并表示将以“事实”进行反击。",
-        "en": "A Democratic congressman, a leading candidate in the race, has strongly denied sexual assault allegations, stating he will fight back with 'facts'.",
-        "de": "Ein demokratischer Abgeordneter, der führende Kandidat im Rennen, hat die Vorwürfe sexueller Übergriffe entschieden zurückgewiesen und erklärt, er werde mit „Fakten“ dagegen kämpfen."
+        "zh": "美国副总统JD·范斯表示，伊朗未接受美国的条款，而伊朗则表示未期望在首次会议上达成协议。",
+        "en": "US Vice President JD Vance stated that Iran chose not to accept US terms, while Iran indicated it did not expect a deal at the first meeting.",
+        "de": "US-Vizepräsident JD Vance erklärte, dass der Iran sich entschieden habe, die US-Bedingungen nicht zu akzeptieren, während der Iran angab, bei der ersten Sitzung keinen Vertrag zu erwarten."
       },
-      "source": "BBC News – World",
-      "date": "2026-04-11",
-      "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-04-12",
+      "url": "https://www.aljazeera.com/news/2026/4/12/us-and-iran-fail-to-reach-peace-deal-after-marathon-talks-in-pakistan?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "尼日利亚近400人因与激进伊斯兰主义者有关联被判刑",
-        "en": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
-        "de": "Fast 400 Personen in Nigeria wegen Verbindungen zu militanten Islamisten verurteilt"
+        "zh": "为什么美国和伊朗的谈判在巴基斯坦未能达成协议？",
+        "en": "Why did US-Iran talks end without an agreement in Pakistan?",
+        "de": "Warum endeten die US-Iran-Gespräche in Pakistan ohne Vereinbarung?"
       },
       "summary": {
-        "zh": "尼日利亚法官对近400人进行了量刑，判决范围从五年到终身监禁，涉及大规模审判。",
-        "en": "Nigerian judges handed down sentences to nearly 400 individuals, ranging from five years to life imprisonment, following mass trials.",
-        "de": "Nigerianische Richter verhängten Urteile gegen fast 400 Personen, die von fünf Jahren bis zu lebenslanger Haft reichten, nach Massenprozessen."
+        "zh": "尽管多年后首次进行高层会谈，但美国和伊朗未能就结束战争的条款达成协议，反映出双方之间的信任缺失。",
+        "en": "Despite high-level talks for the first time in years, the US and Iran could not reach an agreement on terms to end the war, reflecting a significant trust deficit between the two sides.",
+        "de": "Trotz hochrangiger Gespräche zum ersten Mal seit Jahren konnten die USA und der Iran keine Vereinbarung über die Bedingungen zur Beendigung des Krieges erzielen, was auf ein erhebliches Vertrauensdefizit zwischen den beiden Seiten hinweist."
       },
-      "source": "BBC News – World",
-      "date": "2026-04-11",
-      "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-04-12",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/why-did-us-iran-talks-end-without-an-agreement-in-pakistan?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者信心降至历史低点，通胀担忧加剧",
+        "zh": "消费者信心降至历史低点，因伊朗战争引发通胀担忧",
         "en": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
         "de": "Das Verbrauchervertrauen erreicht Rekordtief, Inflationsängste steigen im Zuge des Iran-Kriegs"
       },
       "summary": {
-        "zh": "由于伊朗战争的影响，消费者信心指数降至47.6，较三月下降10.7%，创下历史新低。",
-        "en": "Due to the impact of the Iran war, the consumer sentiment index fell to 47.6, down 10.7% from March, marking a record low.",
-        "de": "Aufgrund der Auswirkungen des Iran-Kriegs fiel der Verbraucherindex auf 47,6, ein Rückgang von 10,7 % gegenüber März und ein Rekordtief."
+        "zh": "消费者信心指数降至47.6，较三月下降10.7%，创历史新低，反映出因伊朗战争引发的通胀担忧。",
+        "en": "The consumer sentiment index fell to 47.6, down 10.7% from March, marking a record low, reflecting inflation fears stemming from the Iran war.",
+        "de": "Der Verbrauchervertrauensindex fiel auf 47,6, was einem Rückgang von 10,7 % gegenüber März entspricht und ein Rekordtief markiert, was auf Inflationsängste im Zusammenhang mit dem Iran-Krieg hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者价格因伊朗冲突上涨3.3%",
+        "zh": "由于伊朗冲突，消费者价格在三月份上涨3.3%",
         "en": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
         "de": "Die Verbraucherpreise stiegen im März um 3,3 %, da die Energiepreise aufgrund des Iran-Konflikts anstiegen"
       },
       "summary": {
-        "zh": "消费者价格指数显示，三月份消费者价格同比上涨3.3%，主要由于能源价格飙升。",
-        "en": "The consumer price index indicated a 3.3% year-over-year increase in consumer prices in March, primarily due to soaring energy prices.",
-        "de": "Der Verbraucherpreisindex zeigte im März einen Anstieg der Verbraucherpreise um 3,3 % im Jahresvergleich, hauptsächlich aufgrund der steigenden Energiepreise."
+        "zh": "消费者价格指数显示，三月份同比上涨3.3%，主要由于伊朗冲突导致能源价格飙升。",
+        "en": "The consumer price index showed a year-over-year increase of 3.3% in March, primarily due to a spike in energy prices caused by the Iran conflict.",
+        "de": "Der Verbraucherpreisindex zeigte im März einen Anstieg von 3,3 % im Jahresvergleich, hauptsächlich aufgrund eines Anstiegs der Energiepreise, der durch den Iran-Konflikt verursacht wurde."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国通胀在进入伊朗战争时保持在3%",
-        "en": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
-        "de": "Die Inflation blieb bei 3 %, als die USA in den Krieg mit dem Iran zogen, zeigt ein wichtiger Fed-Indikator"
+        "zh": "由于伊朗停火，市场转向潜在的美联储降息",
+        "en": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+        "de": "Märkte wenden sich wieder einer möglichen Zinssenkung der Fed in diesem Jahr zu, da der Iran-Waffenstillstand in Kraft ist"
       },
       "summary": {
-        "zh": "在进入与伊朗的战争时，美国的通胀率保持在3%，这一关键指标为美联储提供了经济状况的快照。",
-        "en": "As the U.S. entered the war with Iran, inflation held steady at 3%, providing the Federal Reserve with a snapshot of economic conditions.",
-        "de": "Als die USA in den Krieg mit dem Iran eintraten, blieb die Inflation bei 3 % stabil und lieferte der Federal Reserve einen Überblick über die wirtschaftlichen Bedingungen."
+        "zh": "随着伊朗停火协议的实施，市场对美联储降息的预期上升，降息的可能性约为43%。",
+        "en": "With the implementation of the Iran ceasefire agreement, market expectations for a Fed rate cut have risen, with the probability of a cut at about 43%.",
+        "de": "Mit der Umsetzung des Iran-Waffenstillstands sind die Markterwartungen für eine Zinssenkung durch die Fed gestiegen, wobei die Wahrscheinlichkeit einer Senkung bei etwa 43 % liegt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-09",
-      "url": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html"
+      "date": "2026-04-08",
+      "url": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html"
     }
   ]
 }
