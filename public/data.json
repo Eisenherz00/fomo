@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-13T06:32:22.973173+00:00",
+  "generatedAt": "2026-04-13T17:36:02.354973+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "名字里有什么？Moderna的“疫苗”与“治疗”困境：是国防部还是战争部？墨西哥湾还是美国湾？疫苗——还是“个性化新抗原治疗”？",
-        "en": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma: Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment?",
-        "de": "Was steckt in einem Namen? Modernas „Impfstoff“ vs. „Therapie“-Dilemma: Ist es das Verteidigungsministerium oder das Kriegsministerium? Der Golf von Mexiko oder der Golf von Amerika? Ein Impfstoff – oder eine „individualisierte Neoantigenbehandlung“?"
+        "zh": "为什么对人工智能的看法如此分歧：这篇文章最初出现在《算法》中，这是我们每周关于人工智能的通讯。要第一时间收到这样的故事，请在这里注册。",
+        "en": "Why opinion on AI is so divided: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
+        "de": "Warum die Meinungen zu KI so gespalten sind: Diese Geschichte erschien ursprünglich im Algorithmus, unserem wöchentlichen Newsletter über KI. Um solche Geschichten zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an."
       },
       "summary": {
-        "zh": "Moderna面临着将其产品定义为疫苗还是治疗的困境，这引发了关于其产品性质的广泛讨论。此问题不仅涉及医学术语，还涉及更广泛的政策和社会影响。",
-        "en": "Moderna faces a dilemma in defining its product as a vaccine or therapy, sparking widespread discussion about the nature of its offerings. This issue touches on not just medical terminology but broader policy and societal implications.",
-        "de": "Moderna steht vor dem Dilemma, sein Produkt als Impfstoff oder Therapie zu definieren, was eine umfassende Diskussion über die Natur seiner Angebote auslöst. Dieses Thema betrifft nicht nur medizinische Terminologie, sondern auch breitere politische und gesellschaftliche Implikationen."
+        "zh": "关于人工智能的看法存在显著分歧，反映了人们对其潜力和风险的不同理解。文章探讨了这些分歧的根源及其对未来技术发展的影响。",
+        "en": "There is a significant divide in opinions about artificial intelligence, reflecting differing understandings of its potential and risks. The article explores the roots of these divisions and their implications for future technological developments.",
+        "de": "Es gibt eine erhebliche Meinungsverschiedenheit über künstliche Intelligenz, die unterschiedliche Auffassungen über ihr Potenzial und ihre Risiken widerspiegelt. Der Artikel untersucht die Ursachen dieser Spaltungen und deren Auswirkungen auf zukünftige technologische Entwicklungen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-10",
-      "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/"
+      "date": "2026-04-13",
+      "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：独家Jeff VanderMeer故事和无法发布的AI模型：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
-        "en": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden: Dies ist die heutige Ausgabe des Downloads, unseres Wochentags-Newsletters, der eine tägliche Dosis dessen bietet, was in der Technikwelt passiert."
+        "zh": "想了解人工智能的当前状态吗？看看这些图表。",
+        "en": "Want to understand the current state of AI? Check out these charts.",
+        "de": "Möchten Sie den aktuellen Stand der KI verstehen? Schauen Sie sich diese Diagramme an."
       },
       "summary": {
-        "zh": "今天的下载通讯包含了Jeff VanderMeer的独家故事以及一些由于安全原因无法发布的AI模型。该通讯旨在为读者提供最新的技术动态。",
-        "en": "Today's Download newsletter features an exclusive story by Jeff VanderMeer and some AI models that cannot be released due to safety concerns. The newsletter aims to keep readers updated on the latest in technology.",
-        "de": "Der heutige Download-Newsletter enthält eine exklusive Geschichte von Jeff VanderMeer und einige KI-Modelle, die aus Sicherheitsgründen nicht veröffentlicht werden können. Der Newsletter soll die Leser über die neuesten Entwicklungen in der Technologie auf dem Laufenden halten."
+        "zh": "随着人工智能的快速发展，公众对其状态的理解变得复杂。文章通过图表展示了当前人工智能技术的多样性和发展趋势。",
+        "en": "As artificial intelligence rapidly evolves, public understanding of its state has become complex. The article uses charts to illustrate the diversity and trends in current AI technologies.",
+        "de": "Mit der rasanten Entwicklung der künstlichen Intelligenz ist das öffentliche Verständnis ihres Zustands komplex geworden. Der Artikel verwendet Diagramme, um die Vielfalt und Trends der aktuellen KI-Technologien zu veranschaulichen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-10",
-      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/"
+      "date": "2026-04-13",
+      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "穆斯塔法·苏莱曼：人工智能的发展不会很快遇到瓶颈——原因如下：我们是为线性世界而进化的。如果你走一个小时，你会覆盖一定的距离。",
-        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why: We evolved for a linear world. If you walk for an hour, you cover a certain distance.",
-        "de": "Mustafa Suleyman: Die Entwicklung der KI wird nicht so schnell an eine Wand stoßen – hier ist der Grund: Wir haben uns für eine lineare Welt entwickelt. Wenn Sie eine Stunde lang gehen, legen Sie eine bestimmte Strecke zurück."
+        "zh": "下载：人类如何做决定，以及Moderna的“疫苗”文字游戏",
+        "en": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+        "de": "Der Download: wie Menschen Entscheidungen treffen und Modernas „Impfstoff“-Wortspiele"
       },
       "summary": {
-        "zh": "穆斯塔法·苏莱曼认为，人工智能的发展将继续顺利进行，原因在于人类的进化适应了线性世界的规律。他强调了技术进步的潜力和未来的发展方向。",
-        "en": "Mustafa Suleyman believes that AI development will continue to progress smoothly, citing that human evolution has adapted to the rules of a linear world. He emphasizes the potential for technological advancement and future directions.",
-        "de": "Mustafa Suleyman ist der Ansicht, dass sich die Entwicklung der KI weiterhin reibungslos entwickeln wird, da die menschliche Evolution sich an die Regeln einer linearen Welt angepasst hat. Er betont das Potenzial für technologische Fortschritte und zukünftige Richtungen."
+        "zh": "本期下载探讨了人类决策过程及Moderna在疫苗命名上的策略。文章分析了这些因素如何影响公众对疫苗的接受度。",
+        "en": "This edition of The Download explores the human decision-making process and Moderna's strategies regarding vaccine naming. The article analyzes how these factors influence public acceptance of vaccines.",
+        "de": "Diese Ausgabe des Downloads untersucht den menschlichen Entscheidungsprozess und Modernas Strategien zur Benennung von Impfstoffen. Der Artikel analysiert, wie diese Faktoren die öffentliche Akzeptanz von Impfstoffen beeinflussen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-08",
-      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
+      "date": "2026-04-13",
+      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普在和平呼吁后攻击教皇利奥，称其“对外交政策极其糟糕”",
-        "en": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
-        "de": "„Schrecklich für die Außenpolitik“: Trump greift Papst Leo nach Friedensappell an"
+        "zh": "特朗普的伊朗海军封锁的利弊是什么？",
+        "en": "What are the pros and cons of Trump’s Iranian naval blockade?",
+        "de": "Was sind die Vor- und Nachteile von Trumps iranischer Seeblockade?"
       },
       "summary": {
-        "zh": "特朗普对教皇利奥的和平呼吁表示强烈反对，称其对美国外交政策造成了负面影响。这一言论引发了对美国与伊朗冲突的进一步关注。",
-        "en": "Trump strongly opposed Pope Leo's peace appeal, stating it negatively impacts U.S. foreign policy. This remark has drawn further attention to the ongoing conflict between the U.S. and Iran.",
-        "de": "Trump sprach sich entschieden gegen den Friedensappell von Papst Leo aus und erklärte, dass er sich negativ auf die Außenpolitik der USA auswirkt. Diese Bemerkung lenkte die Aufmerksamkeit erneut auf den laufenden Konflikt zwischen den USA und dem Iran."
+        "zh": "特朗普的伊朗海军封锁引发了关于其有效性和潜在后果的辩论。文章分析了这一政策的可能影响以及国际反应。",
+        "en": "Trump's Iranian naval blockade has sparked debates about its effectiveness and potential consequences. The article analyzes the possible impacts of this policy and the international reactions.",
+        "de": "Trumps iranische Seeblockade hat Debatten über ihre Wirksamkeit und mögliche Konsequenzen ausgelöst. Der Artikel analysiert die möglichen Auswirkungen dieser Politik und die internationalen Reaktionen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-13",
-      "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-are-the-pros-and-cons-of-trumps-iranian-naval-blockade?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "维克托·欧尔班在匈牙利执政16年后被扫除",
-        "en": "Viktor Orban swept from power after 16 years ruling Hungary",
-        "de": "Viktor Orbán nach 16 Jahren an der Macht in Ungarn abgewählt"
+        "zh": "匈牙利候任总理彼得·马加尔阐述了推翻欧尔班后的愿景",
+        "en": "PM-in-waiting Peter Magyar lays out vision for Hungary after ousting Orban",
+        "de": "Der designierte Premierminister Peter Magyar skizziert seine Vision für Ungarn nach dem Sturz von Orban."
       },
       "summary": {
-        "zh": "在创纪录的投票率下，匈牙利选民将长期执政的欧尔班首相投票下台，标志着该国政治格局的重大转变。",
-        "en": "Hungarian voters have ousted long-serving Prime Minister Orban in a record turnout, marking a significant shift in the country's political landscape.",
-        "de": "Die ungarischen Wähler haben den langjährigen Ministerpräsidenten Orbán bei einer Rekordwahlbeteiligung abgewählt, was einen bedeutenden Wandel in der politischen Landschaft des Landes markiert."
+        "zh": "彼得·马加尔在推翻欧尔班后提出了对匈牙利未来的愿景，吸引了国际社会的关注。文章探讨了这一变化可能带来的影响。",
+        "en": "Peter Magyar has presented a vision for Hungary's future following the ousting of Orban, drawing international attention. The article explores the potential implications of this change.",
+        "de": "Peter Magyar hat eine Vision für die Zukunft Ungarns nach dem Sturz von Orban präsentiert, die internationale Aufmerksamkeit erregt. Der Artikel untersucht die möglichen Auswirkungen dieses Wandels."
       },
       "source": "Al Jazeera",
       "date": "2026-04-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/viktor-orban-swept-from-power-after-16-years-ruling-hungary?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/13/hungary-election?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国军方威胁将在周一封锁所有伊朗港口",
-        "en": "US military threatens to blockade all Iranian ports starting on Monday",
-        "de": "US-Militär droht mit Blockade aller iranischen Häfen ab Montag"
+        "zh": "匈牙利的彼得·马加尔呼吁提前召开国会",
+        "en": "Hungary’s Peter Magyar calls for early convening of parliament",
+        "de": "Ungarns Peter Magyar fordert die frühzeitige Einberufung des Parlaments."
       },
       "summary": {
-        "zh": "美国中央司令部宣布将于周一开始对所有伊朗港口实施封锁，此举可能加剧与伊朗的紧张关系，并对全球能源市场产生重大影响。",
-        "en": "The U.S. Central Command has announced a blockade of all Iranian ports starting Monday, a move that could escalate tensions with Iran and significantly impact global energy markets.",
-        "de": "Das US-Zentralkommando hat eine Blockade aller iranischen Häfen ab Montag angekündigt, eine Maßnahme, die die Spannungen mit dem Iran eskalieren und erhebliche Auswirkungen auf die globalen Energiemärkte haben könnte."
+        "zh": "彼得·马加尔呼吁提前召开国会，以便迅速组建新政府。此举标志着匈牙利政治格局的重大转变。",
+        "en": "Peter Magyar has called for the early convening of parliament to swiftly form a new government. This move signifies a significant shift in Hungary's political landscape.",
+        "de": "Peter Magyar hat die frühzeitige Einberufung des Parlaments gefordert, um schnell eine neue Regierung zu bilden. Dieser Schritt bedeutet einen bedeutenden Wandel in der politischen Landschaft Ungarns."
       },
       "source": "Al Jazeera",
       "date": "2026-04-13",
-      "url": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/hungarys-peter-magyar-calls-for-early-convening-of-parliament?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者信心降至创纪录低点，因伊朗战争引发通胀担忧",
-        "en": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
-        "de": "Das Verbrauchervertrauen erreicht Rekordtief, Inflationsängste steigen im Zuge des Iran-Kriegs"
+        "zh": "霍尔木兹海峡封锁可能加剧全球最严重的能源危机——并冒着危险的失误风险",
+        "en": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
+        "de": "Die Hormuz-Blockade könnte die schlimmste Energiekrise der Welt vertiefen — und ein gefährliches Missgeschick riskieren"
       },
       "summary": {
-        "zh": "由于伊朗战争的影响，消费者信心指数降至47.6，创下历史新低，反映出公众对经济前景的担忧。",
-        "en": "Consumer sentiment index has dropped to 47.6, a record low, reflecting public concerns about the economic outlook amid the Iran war.",
-        "de": "Der Verbrauchervertrauensindex ist auf 47,6 gesunken, ein Rekordtief, was die öffentlichen Bedenken hinsichtlich der wirtschaftlichen Aussichten im Zuge des Iran-Kriegs widerspiegelt."
+        "zh": "美国在霍尔木兹海峡实施的海军封锁可能会导致油价飙升，并引发全球能源危机。文章分析了这一局势对市场的潜在影响。",
+        "en": "The U.S. naval blockade in the Strait of Hormuz could lead to soaring oil prices and trigger a global energy crisis. The article analyzes the potential market impacts of this situation.",
+        "de": "Die US-Seeblockade im Hormuz-Golf könnte zu steigenden Ölpreisen führen und eine globale Energiekrise auslösen. Der Artikel analysiert die potenziellen Auswirkungen dieser Situation auf die Märkte."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-13",
+      "url": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "消费者信心降至历史低点，通胀担忧加剧伊朗战争",
+        "en": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
+        "de": "Das Verbrauchervertrauen erreicht einen Rekordtiefstand, Inflationsängste steigen im Zuge des Iran-Kriegs"
+      },
+      "summary": {
+        "zh": "由于伊朗战争的影响，消费者信心指数降至历史最低点，反映出人们对经济前景的担忧。文章探讨了这一趋势对市场的影响。",
+        "en": "Due to the impact of the Iran war, the consumer sentiment index has fallen to a record low, reflecting concerns about the economic outlook. The article discusses the implications of this trend for the markets.",
+        "de": "Aufgrund der Auswirkungen des Iran-Kriegs ist der Verbrauchervertrauensindex auf einen Rekordtiefstand gefallen, was Bedenken hinsichtlich der wirtschaftlichen Aussichten widerspiegelt. Der Artikel erörtert die Auswirkungen dieses Trends auf die Märkte."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
       "url": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "消费者价格因伊朗冲突飙升3.3%",
+        "zh": "消费者价格在3月份上涨3.3%，由于伊朗冲突能源价格飙升",
         "en": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
         "de": "Die Verbraucherpreise stiegen im März um 3,3 %, da die Energiepreise aufgrund des Iran-Konflikts anstiegen"
       },
       "summary": {
-        "zh": "由于伊朗冲突导致能源价格飙升，消费者价格指数在三月份上涨了3.3%。这一增长加剧了人们对未来通胀的担忧。",
-        "en": "Consumer price index rose by 3.3% in March due to surging energy prices from the Iran conflict. This increase has heightened concerns about future inflation.",
-        "de": "Der Verbraucherpreisindex stieg im März um 3,3 % aufgrund der steigenden Energiepreise durch den Iran-Konflikt. Dieser Anstieg hat die Bedenken hinsichtlich zukünftiger Inflation verstärkt."
+        "zh": "3月份消费者价格指数同比上涨3.3%，主要受伊朗冲突导致的能源价格上涨影响。文章分析了这一现象对经济的潜在影响。",
+        "en": "In March, the consumer price index rose by 3.3% year-over-year, primarily driven by rising energy prices due to the Iran conflict. The article analyzes the potential economic implications of this phenomenon.",
+        "de": "Im März stieg der Verbraucherpreisindex im Jahresvergleich um 3,3 %, was hauptsächlich auf steigende Energiepreise aufgrund des Iran-Konflikts zurückzuführen ist. Der Artikel analysiert die potenziellen wirtschaftlichen Auswirkungen dieses Phänomens."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
       "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "伊朗石油冲击引发1997年亚洲金融危机的回忆——但历史可能不会重演",
-        "en": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
-        "de": "Der Iran-Ölschock weckt Erinnerungen an die asiatische Finanzkrise von 1997 – aber hier ist der Grund, warum sich die Geschichte möglicherweise nicht wiederholt"
-      },
-      "summary": {
-        "zh": "伊朗的石油冲击导致亚洲经济面临能源成本飙升和货币贬值的压力，但分析师认为这次危机与1997年的情况不同，可能不会重演。",
-        "en": "The Iranian oil shock is putting pressure on Asian economies with rising energy costs and currency depreciation, but analysts believe this crisis differs from 1997 and may not repeat itself.",
-        "de": "Der Iran-Ölschock setzt die asiatischen Volkswirtschaften durch steigende Energiekosten und Währungsabwertung unter Druck, aber Analysten glauben, dass sich diese Krise von 1997 unterscheidet und sich möglicherweise nicht wiederholen wird."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-09",
-      "url": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html"
     }
   ]
 }
