@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-12T17:02:17.280162+00:00",
+  "generatedAt": "2026-04-13T06:32:22.973173+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "现代疫苗与治疗的困境：国防部还是战争部？墨西哥湾还是美国湾？",
-        "en": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma: Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America?",
-        "de": "Was steckt in einem Namen? Modernas Dilemma zwischen „Impfstoff“ und „Therapie“: Ist es das Verteidigungsministerium oder das Kriegsministerium? Der Golf von Mexiko oder der Golf von Amerika?"
+        "zh": "名字里有什么？Moderna的“疫苗”与“治疗”困境：是国防部还是战争部？墨西哥湾还是美国湾？疫苗——还是“个性化新抗原治疗”？",
+        "en": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma: Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment?",
+        "de": "Was steckt in einem Namen? Modernas „Impfstoff“ vs. „Therapie“-Dilemma: Ist es das Verteidigungsministerium oder das Kriegsministerium? Der Golf von Mexiko oder der Golf von Amerika? Ein Impfstoff – oder eine „individualisierte Neoantigenbehandlung“?"
       },
       "summary": {
-        "zh": "现代疫苗与治疗的定义引发了关于其用途和监管的争论。文章探讨了Moderna在命名其产品时面临的挑战，以及这对公众信任和政策的影响。",
-        "en": "The definition of modern vaccines and therapies has sparked debate over their uses and regulations. The article explores the challenges Moderna faces in naming its products and the implications for public trust and policy.",
-        "de": "Die Definition moderner Impfstoffe und Therapien hat eine Debatte über deren Verwendung und Regulierung ausgelöst. Der Artikel untersucht die Herausforderungen, vor denen Moderna bei der Benennung seiner Produkte steht, und die Auswirkungen auf das öffentliche Vertrauen und die Politik."
+        "zh": "Moderna面临着将其产品定义为疫苗还是治疗的困境，这引发了关于其产品性质的广泛讨论。此问题不仅涉及医学术语，还涉及更广泛的政策和社会影响。",
+        "en": "Moderna faces a dilemma in defining its product as a vaccine or therapy, sparking widespread discussion about the nature of its offerings. This issue touches on not just medical terminology but broader policy and societal implications.",
+        "de": "Moderna steht vor dem Dilemma, sein Produkt als Impfstoff oder Therapie zu definieren, was eine umfassende Diskussion über die Natur seiner Angebote auslöst. Dieses Thema betrifft nicht nur medizinische Terminologie, sondern auch breitere politische und gesellschaftliche Implikationen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-10",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：独家杰夫·范德梅尔故事和无法发布的AI模型",
-        "en": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-        "de": "Der Download: eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden"
+        "zh": "下载：独家Jeff VanderMeer故事和无法发布的AI模型：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
+        "en": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+        "de": "Der Download: eine exklusive Geschichte von Jeff VanderMeer und KI-Modelle, die zu gruselig sind, um veröffentlicht zu werden: Dies ist die heutige Ausgabe des Downloads, unseres Wochentags-Newsletters, der eine tägliche Dosis dessen bietet, was in der Technikwelt passiert."
       },
       "summary": {
-        "zh": "本期下载提供了杰夫·范德梅尔的独家故事以及关于一些无法发布的AI模型的讨论。这些模型因其潜在的风险而受到关注。",
-        "en": "This edition of The Download features an exclusive story by Jeff VanderMeer and discusses AI models that are considered too risky to release. These models have raised concerns due to their potential dangers.",
-        "de": "Diese Ausgabe des Downloads enthält eine exklusive Geschichte von Jeff VanderMeer und diskutiert KI-Modelle, die als zu riskant für eine Veröffentlichung gelten. Diese Modelle haben aufgrund ihrer potenziellen Gefahren Besorgnis ausgelöst."
+        "zh": "今天的下载通讯包含了Jeff VanderMeer的独家故事以及一些由于安全原因无法发布的AI模型。该通讯旨在为读者提供最新的技术动态。",
+        "en": "Today's Download newsletter features an exclusive story by Jeff VanderMeer and some AI models that cannot be released due to safety concerns. The newsletter aims to keep readers updated on the latest in technology.",
+        "de": "Der heutige Download-Newsletter enthält eine exklusive Geschichte von Jeff VanderMeer und einige KI-Modelle, die aus Sicherheitsgründen nicht veröffentlicht werden können. Der Newsletter soll die Leser über die neuesten Entwicklungen in der Technologie auf dem Laufenden halten."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-10",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "穆斯塔法·苏莱曼：AI发展不会很快遇到瓶颈——原因在这里",
-        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-        "de": "Mustafa Suleyman: Die KI-Entwicklung wird bald nicht an eine Wand stoßen – hier ist der Grund"
+        "zh": "穆斯塔法·苏莱曼：人工智能的发展不会很快遇到瓶颈——原因如下：我们是为线性世界而进化的。如果你走一个小时，你会覆盖一定的距离。",
+        "en": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why: We evolved for a linear world. If you walk for an hour, you cover a certain distance.",
+        "de": "Mustafa Suleyman: Die Entwicklung der KI wird nicht so schnell an eine Wand stoßen – hier ist der Grund: Wir haben uns für eine lineare Welt entwickelt. Wenn Sie eine Stunde lang gehen, legen Sie eine bestimmte Strecke zurück."
       },
       "summary": {
-        "zh": "穆斯塔法·苏莱曼讨论了AI发展的线性增长模式，并认为未来的技术进步不会受到限制。他强调了持续创新的重要性。",
-        "en": "Mustafa Suleyman discusses the linear growth pattern of AI development and believes that future technological advancements will not be hindered. He emphasizes the importance of ongoing innovation.",
-        "de": "Mustafa Suleyman diskutiert das lineare Wachstumsmodell der KI-Entwicklung und ist der Meinung, dass zukünftige technologische Fortschritte nicht behindert werden. Er betont die Bedeutung fortlaufender Innovation."
+        "zh": "穆斯塔法·苏莱曼认为，人工智能的发展将继续顺利进行，原因在于人类的进化适应了线性世界的规律。他强调了技术进步的潜力和未来的发展方向。",
+        "en": "Mustafa Suleyman believes that AI development will continue to progress smoothly, citing that human evolution has adapted to the rules of a linear world. He emphasizes the potential for technological advancement and future directions.",
+        "de": "Mustafa Suleyman ist der Ansicht, dass sich die Entwicklung der KI weiterhin reibungslos entwickeln wird, da die menschliche Evolution sich an die Regeln einer linearen Welt angepasst hat. Er betont das Potenzial für technologische Fortschritte und zukünftige Richtungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-08",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗当局依然坚决，呼吁支持者留在街头",
-        "en": "Iranian authorities remain defiant, urge supporters to stay in streets",
-        "de": "Iranische Behörden bleiben trotzig und fordern Unterstützer auf, auf der Straße zu bleiben"
+        "zh": "特朗普在和平呼吁后攻击教皇利奥，称其“对外交政策极其糟糕”",
+        "en": "‘Terrible for foreign policy’: Trump attacks Pope Leo after peace appeal",
+        "de": "„Schrecklich für die Außenpolitik“: Trump greift Papst Leo nach Friedensappell an"
       },
       "summary": {
-        "zh": "伊朗当局在与美国的和平谈判未能取得进展后，呼吁民众继续抗议。官员们强调与美国的信任缺失。",
-        "en": "Iranian authorities are urging the public to continue protests after peace talks with the U.S. faltered. Officials emphasize the lack of trust with the U.S.",
-        "de": "Iranische Behörden fordern die Öffentlichkeit auf, die Proteste fortzusetzen, nachdem die Friedensgespräche mit den USA ins Stocken geraten sind. Beamte betonen das fehlende Vertrauen zu den USA."
+        "zh": "特朗普对教皇利奥的和平呼吁表示强烈反对，称其对美国外交政策造成了负面影响。这一言论引发了对美国与伊朗冲突的进一步关注。",
+        "en": "Trump strongly opposed Pope Leo's peace appeal, stating it negatively impacts U.S. foreign policy. This remark has drawn further attention to the ongoing conflict between the U.S. and Iran.",
+        "de": "Trump sprach sich entschieden gegen den Friedensappell von Papst Leo aus und erklärte, dass er sich negativ auf die Außenpolitik der USA auswirkt. Diese Bemerkung lenkte die Aufmerksamkeit erneut auf den laufenden Konflikt zwischen den USA und dem Iran."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-12",
-      "url": "https://www.aljazeera.com/news/2026/4/12/iranian-authorities-remain-defiant-urge-supporters-to-stay-in?traffic_source=rss"
+      "date": "2026-04-13",
+      "url": "https://www.aljazeera.com/news/2026/4/13/terrible-for-foreign-policy-trump-attacks-pope-leo-after-peace-appeal?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普宣布霍尔木兹海峡封锁，因美伊和平谈判未果",
-        "en": "Trump announces Strait of Hormuz blockade after US-Iran peace talks end",
-        "de": "Trump kündigt Blockade der Straße von Hormuz an, nachdem die US-Iran-Friedensgespräche beendet wurden"
+        "zh": "维克托·欧尔班在匈牙利执政16年后被扫除",
+        "en": "Viktor Orban swept from power after 16 years ruling Hungary",
+        "de": "Viktor Orbán nach 16 Jahren an der Macht in Ungarn abgewählt"
       },
       "summary": {
-        "zh": "特朗普在美伊和平谈判未能达成协议后，宣布美国海军将封锁霍尔木兹海峡。这一举动引发了国际社会的广泛关注。",
-        "en": "Trump announced that the U.S. Navy will blockade the Strait of Hormuz after peace talks with Iran ended without a deal. This move has drawn significant international attention.",
-        "de": "Trump kündigte an, dass die US-Marine die Straße von Hormuz blockieren wird, nachdem die Friedensgespräche mit dem Iran ohne Einigung beendet wurden. Dieser Schritt hat erhebliche internationale Aufmerksamkeit auf sich gezogen."
+        "zh": "在创纪录的投票率下，匈牙利选民将长期执政的欧尔班首相投票下台，标志着该国政治格局的重大转变。",
+        "en": "Hungarian voters have ousted long-serving Prime Minister Orban in a record turnout, marking a significant shift in the country's political landscape.",
+        "de": "Die ungarischen Wähler haben den langjährigen Ministerpräsidenten Orbán bei einer Rekordwahlbeteiligung abgewählt, was einen bedeutenden Wandel in der politischen Landschaft des Landes markiert."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-12",
-      "url": "https://www.aljazeera.com/news/2026/4/12/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end?traffic_source=rss"
+      "date": "2026-04-13",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/viktor-orban-swept-from-power-after-16-years-ruling-hungary?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰和俄罗斯互相指责数百起停火违规事件",
-        "en": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-        "de": "Die Ukraine und Russland beschuldigen sich gegenseitig hunderter Verstöße gegen den Waffenstillstand"
+        "zh": "美国军方威胁将在周一封锁所有伊朗港口",
+        "en": "US military threatens to blockade all Iranian ports starting on Monday",
+        "de": "US-Militär droht mit Blockade aller iranischen Häfen ab Montag"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基表示，乌克兰军队将对俄罗斯的攻击作出“对称”回应。双方的紧张局势持续升级。",
-        "en": "Ukrainian President Zelensky stated that Ukrainian forces would respond 'symmetrically' to Russian attacks. Tensions between both sides continue to escalate.",
-        "de": "Der ukrainische Präsident Zelensky erklärte, dass die ukrainischen Streitkräfte 'symmetrisch' auf russische Angriffe reagieren würden. Die Spannungen zwischen beiden Seiten eskalieren weiterhin."
+        "zh": "美国中央司令部宣布将于周一开始对所有伊朗港口实施封锁，此举可能加剧与伊朗的紧张关系，并对全球能源市场产生重大影响。",
+        "en": "The U.S. Central Command has announced a blockade of all Iranian ports starting Monday, a move that could escalate tensions with Iran and significantly impact global energy markets.",
+        "de": "Das US-Zentralkommando hat eine Blockade aller iranischen Häfen ab Montag angekündigt, eine Maßnahme, die die Spannungen mit dem Iran eskalieren und erhebliche Auswirkungen auf die globalen Energiemärkte haben könnte."
       },
-      "source": "BBC News – World",
-      "date": "2026-04-12",
-      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-04-13",
+      "url": "https://www.aljazeera.com/news/2026/4/13/us-military-threatens-to-blockade-all-iranian-ports-starting-on-monday?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -109,9 +109,9 @@
         "de": "Das Verbrauchervertrauen erreicht Rekordtief, Inflationsängste steigen im Zuge des Iran-Kriegs"
       },
       "summary": {
-        "zh": "消费者信心指数降至47.6，较上月下降10.7%，创历史新低。通胀担忧加剧，尤其是在伊朗战争背景下。",
-        "en": "The consumer sentiment index fell to 47.6, down 10.7% from the previous month, marking a record low. Inflation fears are rising, particularly in the context of the Iran war.",
-        "de": "Der Verbrauchervertrauensindex fiel auf 47,6, ein Rückgang um 10,7 % gegenüber dem Vormonat und ein Rekordtief. Die Inflationsängste steigen, insbesondere im Kontext des Iran-Kriegs."
+        "zh": "由于伊朗战争的影响，消费者信心指数降至47.6，创下历史新低，反映出公众对经济前景的担忧。",
+        "en": "Consumer sentiment index has dropped to 47.6, a record low, reflecting public concerns about the economic outlook amid the Iran war.",
+        "de": "Der Verbrauchervertrauensindex ist auf 47,6 gesunken, ein Rekordtief, was die öffentlichen Bedenken hinsichtlich der wirtschaftlichen Aussichten im Zuge des Iran-Kriegs widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者价格在三月上涨3.3%，因伊朗冲突导致能源价格飙升",
+        "zh": "消费者价格因伊朗冲突飙升3.3%",
         "en": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
-        "de": "Die Verbraucherpreise stiegen im März um 3,3 %, da die Energiepreise aufgrund des Iran-Konflikts in die Höhe schossen"
+        "de": "Die Verbraucherpreise stiegen im März um 3,3 %, da die Energiepreise aufgrund des Iran-Konflikts anstiegen"
       },
       "summary": {
-        "zh": "消费者价格指数显示，三月份消费者价格同比上涨3.3%。能源价格的飙升是导致这一增长的主要原因。",
-        "en": "The consumer price index indicates a 3.3% year-over-year increase in consumer prices for March. The spike in energy prices is a primary driver of this increase.",
-        "de": "Der Verbraucherpreisindex zeigt einen Anstieg der Verbraucherpreise um 3,3 % im Jahresvergleich für März. Der Anstieg der Energiepreise ist ein Haupttreiber dieses Anstiegs."
+        "zh": "由于伊朗冲突导致能源价格飙升，消费者价格指数在三月份上涨了3.3%。这一增长加剧了人们对未来通胀的担忧。",
+        "en": "Consumer price index rose by 3.3% in March due to surging energy prices from the Iran conflict. This increase has heightened concerns about future inflation.",
+        "de": "Der Verbraucherpreisindex stieg im März um 3,3 % aufgrund der steigenden Energiepreise durch den Iran-Konflikt. Dieser Anstieg hat die Bedenken hinsichtlich zukünftiger Inflation verstärkt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗石油冲击引发对1997年亚洲金融危机的回忆——但历史可能不会重演",
+        "zh": "伊朗石油冲击引发1997年亚洲金融危机的回忆——但历史可能不会重演",
         "en": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
         "de": "Der Iran-Ölschock weckt Erinnerungen an die asiatische Finanzkrise von 1997 – aber hier ist der Grund, warum sich die Geschichte möglicherweise nicht wiederholt"
       },
       "summary": {
-        "zh": "伊朗的石油危机导致亚洲经济面临能源成本飙升和货币贬值的挑战，但专家认为不会重演1997年的危机。",
-        "en": "The Iranian oil crisis poses challenges for Asian economies with rising energy costs and currency depreciation, but experts believe a repeat of the 1997 crisis is unlikely.",
-        "de": "Die iranische Ölkrise stellt asiatische Volkswirtschaften vor Herausforderungen durch steigende Energiekosten und Währungsabwertung, aber Experten glauben, dass eine Wiederholung der Krise von 1997 unwahrscheinlich ist."
+        "zh": "伊朗的石油冲击导致亚洲经济面临能源成本飙升和货币贬值的压力，但分析师认为这次危机与1997年的情况不同，可能不会重演。",
+        "en": "The Iranian oil shock is putting pressure on Asian economies with rising energy costs and currency depreciation, but analysts believe this crisis differs from 1997 and may not repeat itself.",
+        "de": "Der Iran-Ölschock setzt die asiatischen Volkswirtschaften durch steigende Energiekosten und Währungsabwertung unter Druck, aber Analysten glauben, dass sich diese Krise von 1997 unterscheidet und sich möglicherweise nicht wiederholen wird."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-09",
