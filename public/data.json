@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-14T06:17:33.439441+00:00",
+  "generatedAt": "2026-04-14T17:39:06.323404+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么对人工智能的看法如此分歧",
-        "en": "Why opinion on AI is so divided",
-        "de": "Warum die Meinungen zu KI so geteilt sind"
+        "zh": "下载：人工智能的现状，以及用无人机保护熊",
+        "en": "The Download: the state of AI, and protecting bears with drones",
+        "de": "Der Download: der Stand der KI und den Schutz von Bären mit Drohnen"
       },
       "summary": {
-        "zh": "关于人工智能的看法存在显著分歧，反映了人们对其潜力和风险的不同看法。许多人认为人工智能是一个金矿，而另一些人则担心其可能带来的负面影响。",
-        "en": "There is a significant divide in opinions regarding artificial intelligence, reflecting differing views on its potential and risks. Many see AI as a gold rush, while others are concerned about its potential negative impacts.",
-        "de": "Es gibt eine erhebliche Meinungsverschiedenheit über künstliche Intelligenz, die unterschiedliche Ansichten über ihr Potenzial und ihre Risiken widerspiegelt. Viele sehen KI als Goldrausch, während andere sich um ihre potenziellen negativen Auswirkungen sorgen."
+        "zh": "今天的《下载》提供了关于人工智能现状的最新信息，并讨论了使用无人机保护熊的创新方法。",
+        "en": "Today's edition of The Download provides the latest insights on the state of AI and discusses innovative methods for protecting bears using drones.",
+        "de": "Die heutige Ausgabe von The Download bietet die neuesten Einblicke in den Stand der KI und diskutiert innovative Methoden zum Schutz von Bären mit Drohnen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-13",
-      "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/"
+      "date": "2026-04-14",
+      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "想了解人工智能的现状吗？看看这些图表。",
-        "en": "Want to understand the current state of AI? Check out these charts.",
-        "de": "Möchten Sie den aktuellen Stand der KI verstehen? Schauen Sie sich diese Diagramme an."
+        "zh": "NASA正在建造第一艘核反应堆驱动的星际航天器。它将如何运作？",
+        "en": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+        "de": "Die NASA baut das erste interplanetare Raumschiff, das von einem Kernreaktor betrieben wird. Wie wird es funktionieren?"
       },
       "summary": {
-        "zh": "当前人工智能的状态复杂多变，图表展示了这一领域的关键趋势和数据。随着技术的发展，公众对人工智能的看法也在不断变化。",
-        "en": "The current state of AI is complex and dynamic, with charts illustrating key trends and data in the field. As technology evolves, public perceptions of AI are also shifting.",
-        "de": "Der aktuelle Stand der KI ist komplex und dynamisch, wobei Diagramme wichtige Trends und Daten im Bereich veranschaulichen. Mit der Weiterentwicklung der Technologie ändern sich auch die öffentlichen Wahrnehmungen von KI."
+        "zh": "本文探讨了NASA正在开发的首个核反应堆驱动的星际航天器的工作原理及其潜在应用。",
+        "en": "This article explores how NASA's first nuclear reactor-powered interplanetary spacecraft will work and its potential applications.",
+        "de": "Dieser Artikel untersucht, wie das erste interplanetare Raumschiff der NASA, das von einem Kernreaktor betrieben wird, funktionieren wird und welche potenziellen Anwendungen es hat."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-13",
-      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
+      "date": "2026-04-14",
+      "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：人类如何做出决策，以及Moderna的“疫苗”文字游戏",
-        "en": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
-        "de": "Der Download: wie Menschen Entscheidungen treffen und Modernas „Impfstoff“-Wortspiele"
+        "zh": "即将推出：当前人工智能中重要的10件事",
+        "en": "Coming soon: 10 Things That Matter in AI Right Now",
+        "de": "Demnächst: 10 Dinge, die jetzt in der KI wichtig sind"
       },
       "summary": {
-        "zh": "本文探讨了人类决策过程及其复杂性，同时分析了Moderna在疫苗命名上的策略。此类决策不仅影响科学界，也对公众认知产生深远影响。",
-        "en": "This article explores the complexities of human decision-making processes while analyzing Moderna's strategies in vaccine naming. Such decisions not only impact the scientific community but also have far-reaching effects on public perception.",
-        "de": "Dieser Artikel untersucht die Komplexität menschlicher Entscheidungsprozesse und analysiert Modernas Strategien bei der Benennung von Impfstoffen. Solche Entscheidungen beeinflussen nicht nur die wissenschaftliche Gemeinschaft, sondern haben auch weitreichende Auswirkungen auf die öffentliche Wahrnehmung."
+        "zh": "每年我们都会汇编10项突破性技术清单，预测哪些技术将产生最大影响。",
+        "en": "Each year, we compile a list of 10 breakthrough technologies, predicting which technologies will have the biggest impact.",
+        "de": "Jedes Jahr erstellen wir eine Liste der 10 bahnbrechenden Technologien und prognostizieren, welche Technologien den größten Einfluss haben werden."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-13",
-      "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/"
+      "date": "2026-04-14",
+      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "亚洲股市飙升，油价因美伊谈判希望而下跌",
-        "en": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
-        "de": "Asiens Aktienmärkte steigen, Öl fällt in der Hoffnung auf US-Iran-Gespräche"
+        "zh": "卢拉要求美国将前情报局长送回巴西，因ICE逮捕",
+        "en": "Lula asks US to send ex-intelligence chief to Brazil after ICE arrest",
+        "de": "Lula bittet die USA, den ehemaligen Geheimdienstchef nach der ICE-Verhaftung nach Brasilien zu schicken"
       },
       "summary": {
-        "zh": "在特朗普表示伊朗官员对达成协议持积极态度后，全球市场获得了缓解，亚洲股市上涨，油价下跌。市场对美伊谈判的希望推动了这一趋势。",
-        "en": "Global markets received relief after Trump indicated that Iranian officials were keen on a deal, leading to a surge in Asian stock markets and a drop in oil prices. Hopes for US-Iran talks fueled this trend.",
-        "de": "Die globalen Märkte erhielten Entlastung, nachdem Trump angedeutet hatte, dass iranische Beamte an einem Deal interessiert sind, was zu einem Anstieg der asiatischen Aktienmärkte und einem Rückgang der Ölpreise führte. Hoffnungen auf US-Iran-Gespräche befeuerten diesen Trend."
+        "zh": "巴西总统卢拉表示，他希望美国将前情报局长亚历山大·拉马根送回巴西，以便在那里服刑。",
+        "en": "Brazil's President Lula stated that he expects the US to return former intelligence chief Alexandre Ramagem to Brazil to serve his prison sentence.",
+        "de": "Der brasilianische Präsident Lula erklärte, dass er von den USA erwartet, dass sie den ehemaligen Geheimdienstchef Alexandre Ramagem nach Brasilien zurückbringen, um dort seine Haftstrafe zu verbüßen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-14",
-      "url": "https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/14/lula-asks-us-to-send-ex-intelligence-chief-to-brazil-after-ice-arrest?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "印尼与美国签署“重大”防务合作协议",
-        "en": "Indonesia, US sign ‘major’ defence cooperation agreement",
-        "de": "Indonesien und die USA unterzeichnen ein „großes“ Verteidigungskooperationsabkommen"
+        "zh": "经过三年的战争，苏丹的情况如何？",
+        "en": "After three years of war, what is the situation like in Sudan?",
+        "de": "Nach drei Jahren Krieg, wie ist die Situation im Sudan?"
       },
       "summary": {
-        "zh": "印尼与美国签署了一项重要的防务合作协议，此举是在美国寻求在印尼为军事飞机提供飞越权限的背景下进行的。此协议可能对地区安全产生深远影响。",
-        "en": "Indonesia and the US have signed a significant defense cooperation agreement, following reports that the US is seeking overflight access in Indonesia for military planes. This agreement could have far-reaching implications for regional security.",
-        "de": "Indonesien und die USA haben ein bedeutendes Verteidigungskooperationsabkommen unterzeichnet, nachdem Berichte aufgetaucht sind, dass die USA in Indonesien Überflugrechte für Militärflugzeuge anstreben. Dieses Abkommen könnte weitreichende Auswirkungen auf die regionale Sicherheit haben."
+        "zh": "苏丹的战争已导致数百万人流离失所，造成数千人死亡，暴力仍在继续，前景不明。",
+        "en": "The war in Sudan has displaced millions and caused thousands of deaths, with ongoing violence and no clear end in sight.",
+        "de": "Der Krieg im Sudan hat Millionen vertrieben und Tausende von Todesfällen verursacht, während die Gewalt anhält und kein Ende in Sicht ist."
       },
       "source": "Al Jazeera",
       "date": "2026-04-14",
-      "url": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/14/after-three-years-of-war-what-is-the-situation-like-in-sudan?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "每分钟有三名婴儿出生在苏丹战争中，慈善机构警告",
-        "en": "Three babies born into Sudan war every minute, charity warns",
-        "de": "Jede Minute werden drei Babys in den Sudan-Krieg geboren, warnt eine Wohltätigkeitsorganisation"
+        "zh": "乌克兰与德国达成无人机生产和军事支持协议",
+        "en": "Ukraine strikes drone production, military support deal with Germany",
+        "de": "Ukraine schließt Vereinbarung über Drohnenproduktion und militärische Unterstützung mit Deutschland"
       },
       "summary": {
-        "zh": "慈善机构“拯救儿童”警告称，苏丹的儿童在极其恶劣的条件下出生，情况令人堪忧。每分钟都有三名婴儿在战争中出生，显示出人道主义危机的严重性。",
-        "en": "The charity Save the Children warns that children in Sudan are being born into extremely dire conditions, with three babies born every minute amid the war, highlighting the severity of the humanitarian crisis.",
-        "de": "Die Wohltätigkeitsorganisation Save the Children warnt, dass Kinder im Sudan unter extremen Bedingungen geboren werden, wobei jede Minute drei Babys im Krieg geboren werden, was die Schwere der humanitären Krise verdeutlicht."
+        "zh": "乌克兰与德国达成协议，德国将获得乌克兰的尖端无人机技术，以换取在对抗俄罗斯的战争中提供额外帮助。",
+        "en": "Ukraine has reached an agreement with Germany, where Germany will gain access to Ukraine's cutting-edge drone technology in exchange for additional military support in the war against Russia.",
+        "de": "Die Ukraine hat eine Vereinbarung mit Deutschland getroffen, bei der Deutschland Zugang zu den fortschrittlichen Drohnentechnologien der Ukraine erhält, im Austausch für zusätzliche militärische Unterstützung im Krieg gegen Russland."
       },
       "source": "Al Jazeera",
       "date": "2026-04-14",
-      "url": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/14/ukraine-strikes-drone-production-deal-with-germany?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "霍尔木兹海峡封锁可能加深世界最严重的能源危机——并冒着危险的失误",
-        "en": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
-        "de": "Die Blockade von Hormuz könnte die schlimmste Energiekrise der Welt vertiefen – und ein gefährliches Fehlverhalten riskieren"
+        "zh": "首席执行官们在押注人工智能将增强工作而非取代所有工人",
+        "en": "CEOs are betting AI will augment work rather than displace all workers",
+        "de": "CEOs setzen darauf, dass KI die Arbeit ergänzt, anstatt alle Arbeiter zu ersetzen"
       },
       "summary": {
-        "zh": "美国在霍尔木兹海峡的海军封锁可能会阻止更多油轮通行，导致油价飙升，并可能将中国卷入更广泛的冲突。这一局势对全球能源市场构成了重大威胁。",
-        "en": "The US naval blockade of the Strait of Hormuz could halt more tanker traffic, causing oil prices to surge and potentially drawing China into a wider conflict. This situation poses a significant threat to global energy markets.",
-        "de": "Die US-Marineblockade der Straße von Hormuz könnte den Verkehr weiterer Tanker stoppen, was zu einem Anstieg der Ölpreise führen und China möglicherweise in einen breiteren Konflikt verwickeln könnte. Diese Situation stellt eine erhebliche Bedrohung für die globalen Energiemärkte dar."
+        "zh": "在Semafor世界经济会议上，专家表示，人工智能可以补充现有工作，提高其数量和质量。",
+        "en": "At the Semafor World Economy conference, panelists stated that artificial intelligence can supplement existing work, improving both its quantity and quality.",
+        "de": "Auf der Semafor-Weltwirtschaftskonferenz erklärten die Podiumsteilnehmer, dass künstliche Intelligenz die bestehende Arbeit ergänzen kann, wodurch sowohl die Menge als auch die Qualität verbessert werden."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-13",
-      "url": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html"
+      "date": "2026-04-14",
+      "url": "https://www.cnbc.com/2026/04/14/ceos-are-betting-ai-will-augment-work-rather-than-displace-all-workers.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者信心创历史新低，通胀担忧因伊朗战争而上升",
-        "en": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
-        "de": "Das Verbrauchervertrauen erreicht ein Rekordtief, Inflationsängste steigen im Zuge des Iran-Kriegs"
+        "zh": "3月批发价格上涨0.5%，远低于预期，尽管受到战争影响",
+        "en": "Wholesale prices rose 0.5% in March, much less than expected despite war impact",
+        "de": "Die Großhandelspreise stiegen im März um 0,5%, was weit unter den Erwartungen liegt, trotz der Auswirkungen des Krieges"
       },
       "summary": {
-        "zh": "消费者信心指数降至47.6，创下历史新低，反映出人们对经济前景的担忧。由于伊朗战争的影响，通胀担忧加剧。",
-        "en": "The consumer sentiment index has dropped to 47.6, a record low, reflecting concerns about the economic outlook. Inflation fears have intensified due to the impact of the Iran war.",
-        "de": "Der Verbrauchervertrauensindex ist auf 47,6 gefallen, ein Rekordtief, das Bedenken hinsichtlich der wirtschaftlichen Aussichten widerspiegelt. Die Inflationsängste haben sich aufgrund der Auswirkungen des Iran-Kriegs verstärkt."
+        "zh": "尽管预计3月批发价格将上涨1.1%，但实际增长仅为0.5%，显示出战争对经济的影响有限。",
+        "en": "Despite expectations of a 1.1% increase in wholesale prices for March, the actual rise was only 0.5%, indicating limited economic impact from the war.",
+        "de": "Trotz der Erwartungen eines Anstiegs der Großhandelspreise um 1,1 % im März betrug der tatsächliche Anstieg nur 0,5 %, was auf eine begrenzte wirtschaftliche Auswirkung des Krieges hinweist."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-10",
-      "url": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html"
+      "date": "2026-04-14",
+      "url": "https://www.cnbc.com/2026/04/14/wholesale-prices-rose-0point5percent-in-march-much-less-than-expected-despite-war-impact.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "消费者价格因伊朗冲突而上涨3.3%",
-        "en": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
-        "de": "Die Verbraucherpreise stiegen im März um 3,3%, da die Energiepreise aufgrund des Iran-Konflikts anstiegen"
+        "zh": "霍尔木兹海峡的封锁可能加深世界上最严重的能源危机——并冒着危险的失误",
+        "en": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
+        "de": "Die Blockade von Hormuz könnte die schlimmste Energiekrise der Welt vertiefen – und ein gefährliches Missgeschick riskieren"
       },
       "summary": {
-        "zh": "由于伊朗冲突导致能源价格飙升，消费者价格指数在3月份同比上涨3.3%。这一增长反映了市场对能源供应不稳定的担忧。",
-        "en": "Consumer prices rose 3.3% year-over-year in March, driven by surging energy prices due to the Iran conflict. This increase reflects market concerns over unstable energy supplies.",
-        "de": "Die Verbraucherpreise stiegen im März im Jahresvergleich um 3,3%, angetrieben von steigenden Energiepreisen aufgrund des Iran-Konflikts. Dieser Anstieg spiegelt die Marktbedenken über instabile Energieversorgung wider."
+        "zh": "美国在霍尔木兹海峡的海军封锁可能会导致油价飙升，并可能引发更广泛的冲突。",
+        "en": "The U.S. naval blockade in the Strait of Hormuz could lead to soaring oil prices and potentially trigger a wider conflict.",
+        "de": "Die US-Marineblockade im Persischen Golf könnte zu steigenden Ölpreisen führen und möglicherweise einen breiteren Konflikt auslösen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-10",
-      "url": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html"
+      "date": "2026-04-13",
+      "url": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html"
     }
   ]
 }
