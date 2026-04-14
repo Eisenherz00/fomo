@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-13T17:36:02.354973+00:00",
+  "generatedAt": "2026-04-14T06:17:33.439441+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么对人工智能的看法如此分歧：这篇文章最初出现在《算法》中，这是我们每周关于人工智能的通讯。要第一时间收到这样的故事，请在这里注册。",
-        "en": "Why opinion on AI is so divided: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here.",
-        "de": "Warum die Meinungen zu KI so gespalten sind: Diese Geschichte erschien ursprünglich im Algorithmus, unserem wöchentlichen Newsletter über KI. Um solche Geschichten zuerst in Ihrem Posteingang zu erhalten, melden Sie sich hier an."
+        "zh": "为什么对人工智能的看法如此分歧",
+        "en": "Why opinion on AI is so divided",
+        "de": "Warum die Meinungen zu KI so geteilt sind"
       },
       "summary": {
-        "zh": "关于人工智能的看法存在显著分歧，反映了人们对其潜力和风险的不同理解。文章探讨了这些分歧的根源及其对未来技术发展的影响。",
-        "en": "There is a significant divide in opinions about artificial intelligence, reflecting differing understandings of its potential and risks. The article explores the roots of these divisions and their implications for future technological developments.",
-        "de": "Es gibt eine erhebliche Meinungsverschiedenheit über künstliche Intelligenz, die unterschiedliche Auffassungen über ihr Potenzial und ihre Risiken widerspiegelt. Der Artikel untersucht die Ursachen dieser Spaltungen und deren Auswirkungen auf zukünftige technologische Entwicklungen."
+        "zh": "关于人工智能的看法存在显著分歧，反映了人们对其潜力和风险的不同看法。许多人认为人工智能是一个金矿，而另一些人则担心其可能带来的负面影响。",
+        "en": "There is a significant divide in opinions regarding artificial intelligence, reflecting differing views on its potential and risks. Many see AI as a gold rush, while others are concerned about its potential negative impacts.",
+        "de": "Es gibt eine erhebliche Meinungsverschiedenheit über künstliche Intelligenz, die unterschiedliche Ansichten über ihr Potenzial und ihre Risiken widerspiegelt. Viele sehen KI als Goldrausch, während andere sich um ihre potenziellen negativen Auswirkungen sorgen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-13",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "想了解人工智能的当前状态吗？看看这些图表。",
+        "zh": "想了解人工智能的现状吗？看看这些图表。",
         "en": "Want to understand the current state of AI? Check out these charts.",
         "de": "Möchten Sie den aktuellen Stand der KI verstehen? Schauen Sie sich diese Diagramme an."
       },
       "summary": {
-        "zh": "随着人工智能的快速发展，公众对其状态的理解变得复杂。文章通过图表展示了当前人工智能技术的多样性和发展趋势。",
-        "en": "As artificial intelligence rapidly evolves, public understanding of its state has become complex. The article uses charts to illustrate the diversity and trends in current AI technologies.",
-        "de": "Mit der rasanten Entwicklung der künstlichen Intelligenz ist das öffentliche Verständnis ihres Zustands komplex geworden. Der Artikel verwendet Diagramme, um die Vielfalt und Trends der aktuellen KI-Technologien zu veranschaulichen."
+        "zh": "当前人工智能的状态复杂多变，图表展示了这一领域的关键趋势和数据。随着技术的发展，公众对人工智能的看法也在不断变化。",
+        "en": "The current state of AI is complex and dynamic, with charts illustrating key trends and data in the field. As technology evolves, public perceptions of AI are also shifting.",
+        "de": "Der aktuelle Stand der KI ist komplex und dynamisch, wobei Diagramme wichtige Trends und Daten im Bereich veranschaulichen. Mit der Weiterentwicklung der Technologie ändern sich auch die öffentlichen Wahrnehmungen von KI."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-13",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：人类如何做决定，以及Moderna的“疫苗”文字游戏",
+        "zh": "下载：人类如何做出决策，以及Moderna的“疫苗”文字游戏",
         "en": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
         "de": "Der Download: wie Menschen Entscheidungen treffen und Modernas „Impfstoff“-Wortspiele"
       },
       "summary": {
-        "zh": "本期下载探讨了人类决策过程及Moderna在疫苗命名上的策略。文章分析了这些因素如何影响公众对疫苗的接受度。",
-        "en": "This edition of The Download explores the human decision-making process and Moderna's strategies regarding vaccine naming. The article analyzes how these factors influence public acceptance of vaccines.",
-        "de": "Diese Ausgabe des Downloads untersucht den menschlichen Entscheidungsprozess und Modernas Strategien zur Benennung von Impfstoffen. Der Artikel analysiert, wie diese Faktoren die öffentliche Akzeptanz von Impfstoffen beeinflussen."
+        "zh": "本文探讨了人类决策过程及其复杂性，同时分析了Moderna在疫苗命名上的策略。此类决策不仅影响科学界，也对公众认知产生深远影响。",
+        "en": "This article explores the complexities of human decision-making processes while analyzing Moderna's strategies in vaccine naming. Such decisions not only impact the scientific community but also have far-reaching effects on public perception.",
+        "de": "Dieser Artikel untersucht die Komplexität menschlicher Entscheidungsprozesse und analysiert Modernas Strategien bei der Benennung von Impfstoffen. Solche Entscheidungen beeinflussen nicht nur die wissenschaftliche Gemeinschaft, sondern haben auch weitreichende Auswirkungen auf die öffentliche Wahrnehmung."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-13",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普的伊朗海军封锁的利弊是什么？",
-        "en": "What are the pros and cons of Trump’s Iranian naval blockade?",
-        "de": "Was sind die Vor- und Nachteile von Trumps iranischer Seeblockade?"
+        "zh": "亚洲股市飙升，油价因美伊谈判希望而下跌",
+        "en": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks",
+        "de": "Asiens Aktienmärkte steigen, Öl fällt in der Hoffnung auf US-Iran-Gespräche"
       },
       "summary": {
-        "zh": "特朗普的伊朗海军封锁引发了关于其有效性和潜在后果的辩论。文章分析了这一政策的可能影响以及国际反应。",
-        "en": "Trump's Iranian naval blockade has sparked debates about its effectiveness and potential consequences. The article analyzes the possible impacts of this policy and the international reactions.",
-        "de": "Trumps iranische Seeblockade hat Debatten über ihre Wirksamkeit und mögliche Konsequenzen ausgelöst. Der Artikel analysiert die möglichen Auswirkungen dieser Politik und die internationalen Reaktionen."
+        "zh": "在特朗普表示伊朗官员对达成协议持积极态度后，全球市场获得了缓解，亚洲股市上涨，油价下跌。市场对美伊谈判的希望推动了这一趋势。",
+        "en": "Global markets received relief after Trump indicated that Iranian officials were keen on a deal, leading to a surge in Asian stock markets and a drop in oil prices. Hopes for US-Iran talks fueled this trend.",
+        "de": "Die globalen Märkte erhielten Entlastung, nachdem Trump angedeutet hatte, dass iranische Beamte an einem Deal interessiert sind, was zu einem Anstieg der asiatischen Aktienmärkte und einem Rückgang der Ölpreise führte. Hoffnungen auf US-Iran-Gespräche befeuerten diesen Trend."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/what-are-the-pros-and-cons-of-trumps-iranian-naval-blockade?traffic_source=rss"
+      "date": "2026-04-14",
+      "url": "https://www.aljazeera.com/economy/2026/4/14/asias-stock-markets-surge-oil-falls-on-hopes-for-us-iran-talks?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "匈牙利候任总理彼得·马加尔阐述了推翻欧尔班后的愿景",
-        "en": "PM-in-waiting Peter Magyar lays out vision for Hungary after ousting Orban",
-        "de": "Der designierte Premierminister Peter Magyar skizziert seine Vision für Ungarn nach dem Sturz von Orban."
+        "zh": "印尼与美国签署“重大”防务合作协议",
+        "en": "Indonesia, US sign ‘major’ defence cooperation agreement",
+        "de": "Indonesien und die USA unterzeichnen ein „großes“ Verteidigungskooperationsabkommen"
       },
       "summary": {
-        "zh": "彼得·马加尔在推翻欧尔班后提出了对匈牙利未来的愿景，吸引了国际社会的关注。文章探讨了这一变化可能带来的影响。",
-        "en": "Peter Magyar has presented a vision for Hungary's future following the ousting of Orban, drawing international attention. The article explores the potential implications of this change.",
-        "de": "Peter Magyar hat eine Vision für die Zukunft Ungarns nach dem Sturz von Orban präsentiert, die internationale Aufmerksamkeit erregt. Der Artikel untersucht die möglichen Auswirkungen dieses Wandels."
+        "zh": "印尼与美国签署了一项重要的防务合作协议，此举是在美国寻求在印尼为军事飞机提供飞越权限的背景下进行的。此协议可能对地区安全产生深远影响。",
+        "en": "Indonesia and the US have signed a significant defense cooperation agreement, following reports that the US is seeking overflight access in Indonesia for military planes. This agreement could have far-reaching implications for regional security.",
+        "de": "Indonesien und die USA haben ein bedeutendes Verteidigungskooperationsabkommen unterzeichnet, nachdem Berichte aufgetaucht sind, dass die USA in Indonesien Überflugrechte für Militärflugzeuge anstreben. Dieses Abkommen könnte weitreichende Auswirkungen auf die regionale Sicherheit haben."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-13",
-      "url": "https://www.aljazeera.com/news/2026/4/13/hungary-election?traffic_source=rss"
+      "date": "2026-04-14",
+      "url": "https://www.aljazeera.com/news/2026/4/14/us-indonesia-sign-major-defence-cooperation-agreement?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "匈牙利的彼得·马加尔呼吁提前召开国会",
-        "en": "Hungary’s Peter Magyar calls for early convening of parliament",
-        "de": "Ungarns Peter Magyar fordert die frühzeitige Einberufung des Parlaments."
+        "zh": "每分钟有三名婴儿出生在苏丹战争中，慈善机构警告",
+        "en": "Three babies born into Sudan war every minute, charity warns",
+        "de": "Jede Minute werden drei Babys in den Sudan-Krieg geboren, warnt eine Wohltätigkeitsorganisation"
       },
       "summary": {
-        "zh": "彼得·马加尔呼吁提前召开国会，以便迅速组建新政府。此举标志着匈牙利政治格局的重大转变。",
-        "en": "Peter Magyar has called for the early convening of parliament to swiftly form a new government. This move signifies a significant shift in Hungary's political landscape.",
-        "de": "Peter Magyar hat die frühzeitige Einberufung des Parlaments gefordert, um schnell eine neue Regierung zu bilden. Dieser Schritt bedeutet einen bedeutenden Wandel in der politischen Landschaft Ungarns."
+        "zh": "慈善机构“拯救儿童”警告称，苏丹的儿童在极其恶劣的条件下出生，情况令人堪忧。每分钟都有三名婴儿在战争中出生，显示出人道主义危机的严重性。",
+        "en": "The charity Save the Children warns that children in Sudan are being born into extremely dire conditions, with three babies born every minute amid the war, highlighting the severity of the humanitarian crisis.",
+        "de": "Die Wohltätigkeitsorganisation Save the Children warnt, dass Kinder im Sudan unter extremen Bedingungen geboren werden, wobei jede Minute drei Babys im Krieg geboren werden, was die Schwere der humanitären Krise verdeutlicht."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/hungarys-peter-magyar-calls-for-early-convening-of-parliament?traffic_source=rss"
+      "date": "2026-04-14",
+      "url": "https://www.aljazeera.com/news/2026/4/14/three-babies-born-into-sudan-war-every-minute-charity-warns?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "霍尔木兹海峡封锁可能加剧全球最严重的能源危机——并冒着危险的失误风险",
+        "zh": "霍尔木兹海峡封锁可能加深世界最严重的能源危机——并冒着危险的失误",
         "en": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
-        "de": "Die Hormuz-Blockade könnte die schlimmste Energiekrise der Welt vertiefen — und ein gefährliches Missgeschick riskieren"
+        "de": "Die Blockade von Hormuz könnte die schlimmste Energiekrise der Welt vertiefen – und ein gefährliches Fehlverhalten riskieren"
       },
       "summary": {
-        "zh": "美国在霍尔木兹海峡实施的海军封锁可能会导致油价飙升，并引发全球能源危机。文章分析了这一局势对市场的潜在影响。",
-        "en": "The U.S. naval blockade in the Strait of Hormuz could lead to soaring oil prices and trigger a global energy crisis. The article analyzes the potential market impacts of this situation.",
-        "de": "Die US-Seeblockade im Hormuz-Golf könnte zu steigenden Ölpreisen führen und eine globale Energiekrise auslösen. Der Artikel analysiert die potenziellen Auswirkungen dieser Situation auf die Märkte."
+        "zh": "美国在霍尔木兹海峡的海军封锁可能会阻止更多油轮通行，导致油价飙升，并可能将中国卷入更广泛的冲突。这一局势对全球能源市场构成了重大威胁。",
+        "en": "The US naval blockade of the Strait of Hormuz could halt more tanker traffic, causing oil prices to surge and potentially drawing China into a wider conflict. This situation poses a significant threat to global energy markets.",
+        "de": "Die US-Marineblockade der Straße von Hormuz könnte den Verkehr weiterer Tanker stoppen, was zu einem Anstieg der Ölpreise führen und China möglicherweise in einen breiteren Konflikt verwickeln könnte. Diese Situation stellt eine erhebliche Bedrohung für die globalen Energiemärkte dar."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-13",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者信心降至历史低点，通胀担忧加剧伊朗战争",
+        "zh": "消费者信心创历史新低，通胀担忧因伊朗战争而上升",
         "en": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
-        "de": "Das Verbrauchervertrauen erreicht einen Rekordtiefstand, Inflationsängste steigen im Zuge des Iran-Kriegs"
+        "de": "Das Verbrauchervertrauen erreicht ein Rekordtief, Inflationsängste steigen im Zuge des Iran-Kriegs"
       },
       "summary": {
-        "zh": "由于伊朗战争的影响，消费者信心指数降至历史最低点，反映出人们对经济前景的担忧。文章探讨了这一趋势对市场的影响。",
-        "en": "Due to the impact of the Iran war, the consumer sentiment index has fallen to a record low, reflecting concerns about the economic outlook. The article discusses the implications of this trend for the markets.",
-        "de": "Aufgrund der Auswirkungen des Iran-Kriegs ist der Verbrauchervertrauensindex auf einen Rekordtiefstand gefallen, was Bedenken hinsichtlich der wirtschaftlichen Aussichten widerspiegelt. Der Artikel erörtert die Auswirkungen dieses Trends auf die Märkte."
+        "zh": "消费者信心指数降至47.6，创下历史新低，反映出人们对经济前景的担忧。由于伊朗战争的影响，通胀担忧加剧。",
+        "en": "The consumer sentiment index has dropped to 47.6, a record low, reflecting concerns about the economic outlook. Inflation fears have intensified due to the impact of the Iran war.",
+        "de": "Der Verbrauchervertrauensindex ist auf 47,6 gefallen, ein Rekordtief, das Bedenken hinsichtlich der wirtschaftlichen Aussichten widerspiegelt. Die Inflationsängste haben sich aufgrund der Auswirkungen des Iran-Kriegs verstärkt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "消费者价格在3月份上涨3.3%，由于伊朗冲突能源价格飙升",
+        "zh": "消费者价格因伊朗冲突而上涨3.3%",
         "en": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
-        "de": "Die Verbraucherpreise stiegen im März um 3,3 %, da die Energiepreise aufgrund des Iran-Konflikts anstiegen"
+        "de": "Die Verbraucherpreise stiegen im März um 3,3%, da die Energiepreise aufgrund des Iran-Konflikts anstiegen"
       },
       "summary": {
-        "zh": "3月份消费者价格指数同比上涨3.3%，主要受伊朗冲突导致的能源价格上涨影响。文章分析了这一现象对经济的潜在影响。",
-        "en": "In March, the consumer price index rose by 3.3% year-over-year, primarily driven by rising energy prices due to the Iran conflict. The article analyzes the potential economic implications of this phenomenon.",
-        "de": "Im März stieg der Verbraucherpreisindex im Jahresvergleich um 3,3 %, was hauptsächlich auf steigende Energiepreise aufgrund des Iran-Konflikts zurückzuführen ist. Der Artikel analysiert die potenziellen wirtschaftlichen Auswirkungen dieses Phänomens."
+        "zh": "由于伊朗冲突导致能源价格飙升，消费者价格指数在3月份同比上涨3.3%。这一增长反映了市场对能源供应不稳定的担忧。",
+        "en": "Consumer prices rose 3.3% year-over-year in March, driven by surging energy prices due to the Iran conflict. This increase reflects market concerns over unstable energy supplies.",
+        "de": "Die Verbraucherpreise stiegen im März im Jahresvergleich um 3,3%, angetrieben von steigenden Energiepreisen aufgrund des Iran-Konflikts. Dieser Anstieg spiegelt die Marktbedenken über instabile Energieversorgung wider."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-10",
