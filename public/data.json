@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-15T06:18:06.942095+00:00",
+  "generatedAt": "2026-04-15T17:36:55.971778+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "在人工智能时代建立信任：以隐私为主导的用户体验",
-        "en": "Building trust in the AI era with privacy-led UX",
-        "de": "Vertrauen in der KI-Ära aufbauen mit datenschutzorientiertem UX"
+        "zh": "下载：NASA的核动力航天器和揭示我们的AI 10",
+        "en": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+        "de": "Der Download: NASAs nukleares Raumfahrzeug und die Enthüllung unserer KI 10"
       },
       "summary": {
-        "zh": "以隐私为主导的用户体验设计理念强调数据收集和使用的透明性，旨在增强用户对人工智能的信任。",
-        "en": "The privacy-led user experience design philosophy emphasizes transparency around data collection and usage, aiming to enhance user trust in AI.",
-        "de": "Die datenschutzorientierte UX-Design-Philosophie betont die Transparenz bei der Datenerfassung und -nutzung, um das Vertrauen der Nutzer in KI zu stärken."
+        "zh": "本期《下载》提供了关于NASA核动力航天器的最新消息，以及当前AI领域的十大重要事项。",
+        "en": "This edition of The Download provides the latest news on NASA's nuclear-powered spacecraft and the ten most important matters in AI right now.",
+        "de": "Diese Ausgabe des Downloads bietet die neuesten Nachrichten über NASAs nukleares Raumfahrzeug und die zehn wichtigsten Themen in der KI derzeit."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-15",
-      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/"
+      "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "重新定义软件工程的未来",
-        "en": "Redefining the future of software engineering",
-        "de": "Die Zukunft der Softwaretechnik neu definieren"
+        "zh": "网络诈骗者利用在Telegram上出售的非法工具绕过银行安全",
+        "en": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
+        "de": "Cyberscammer umgehen die Sicherheit von Banken mit illegalen Werkzeugen, die auf Telegram verkauft werden"
       },
       "summary": {
-        "zh": "软件工程在本世纪经历了两次重大变革，开放源代码运动的崛起使得代码访问变得更加普遍。",
-        "en": "Software engineering has undergone two major shifts this century, with the rise of the open source movement making code access more prevalent.",
-        "de": "Die Softwaretechnik hat in diesem Jahrhundert zwei große Veränderungen durchgemacht, wobei die Aufstieg der Open-Source-Bewegung den Zugang zu Code verbreitert hat."
+        "zh": "一名员工在柬埔寨的洗钱中心使用流行的越南银行应用程序，展示了网络诈骗者如何利用Telegram上出售的工具绕过银行安全。",
+        "en": "An employee at a money-laundering center in Cambodia demonstrates how cybercriminals use tools sold on Telegram to bypass bank security.",
+        "de": "Ein Mitarbeiter in einem Geldwäschezentrum in Kambodscha zeigt, wie Cyberkriminelle Werkzeuge verwenden, die auf Telegram verkauft werden, um die Sicherheit von Banken zu umgehen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-14",
-      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/"
+      "date": "2026-04-15",
+      "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "想了解当前人工智能的状态吗？查看这些图表。",
-        "en": "Want to understand the current state of AI? Check out these charts.",
-        "de": "Möchten Sie den aktuellen Stand der KI verstehen? Schauen Sie sich diese Diagramme an."
+        "zh": "在AI时代建立信任：以隐私为导向的用户体验",
+        "en": "Building trust in the AI era with privacy-led UX",
+        "de": "Vertrauen im KI-Zeitalter aufbauen mit datenschutzorientierter UX"
       },
       "summary": {
-        "zh": "随着人工智能新闻的快速变化，了解其当前状态变得尤为重要，这些图表提供了清晰的视角。",
-        "en": "With the rapid changes in AI news, understanding its current state is crucial, and these charts provide a clear perspective.",
-        "de": "Angesichts der schnellen Veränderungen in den KI-Nachrichten ist es entscheidend, den aktuellen Stand zu verstehen, und diese Diagramme bieten eine klare Perspektive."
+        "zh": "隐私导向的用户体验设计理念将数据收集和使用的透明度视为建立用户信任的重要组成部分。",
+        "en": "The privacy-led user experience design philosophy treats transparency around data collection and usage as an integral part of building user trust.",
+        "de": "Die datenschutzorientierte UX-Design-Philosophie betrachtet die Transparenz bei der Datensammlung und -nutzung als einen integralen Bestandteil des Vertrauensaufbaus bei Nutzern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-13",
-      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
+      "date": "2026-04-15",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "候选人呼吁在秘鲁重新选举，声称没有证据的欺诈",
-        "en": "Candidate calls for new election in Peru, claiming fraud without evidence",
-        "de": "Kandidat fordert neue Wahlen in Peru und behauptet ohne Beweise Betrug"
+        "zh": "联合国专家呼吁成员国暂停对以色列的武器转让",
+        "en": "UN experts urge member states to suspend Israel arms transfers",
+        "de": "UN-Experten fordern die Mitgliedstaaten auf, die Waffenübertragungen an Israel auszusetzen"
       },
       "summary": {
-        "zh": "秘鲁总统候选人拉斐尔·洛佩斯·阿利亚加呼吁官员宣布周日的选举“无效”，声称存在欺诈行为，但未提供证据。",
-        "en": "Peru's presidential candidate Rafael Lopez Aliaga is urging officials to declare Sunday’s election 'null and void', claiming fraud without evidence.",
-        "de": "Der Präsidentschaftskandidat Perus, Rafael Lopez Aliaga, fordert die Beamten auf, die Wahl am Sonntag für 'null und nichtig' zu erklären und behauptet ohne Beweise Betrug."
+        "zh": "专家们称以色列在4月8日对黎巴嫩的轰炸是对联合国宪章的明显违反，呼吁国际社会采取行动。",
+        "en": "Experts describe Israel's bombardment of Lebanon on April 8 as a blatant violation of the UN Charter, urging the international community to take action.",
+        "de": "Experten beschreiben die Bombardierung Libanons durch Israel am 8. April als eklatante Verletzung der UN-Charta und fordern die internationale Gemeinschaft zum Handeln auf."
       },
       "source": "Al Jazeera",
       "date": "2026-04-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/15/un-experts-urge-member-states-to-suspend-israel-arms-transfers?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列和黎巴嫩首次直接会谈",
-        "en": "Israel and Lebanon hold direct talks for first time in decades",
-        "de": "Israel und Libanon führen zum ersten Mal seit Jahrzehnten direkte Gespräche"
+        "zh": "特朗普加大威胁，称将解雇美国联邦储备委员会主席鲍威尔",
+        "en": "Trump escalates threats to fire US Federal Reserve Chair Powell",
+        "de": "Trump eskaliert Drohungen, den Vorsitzenden der US-Notenbank Powell zu entlassen"
       },
       "summary": {
-        "zh": "以色列和黎巴嫩在数十年后首次举行直接会谈，双方同意开始谈判。",
-        "en": "Israel and Lebanon have held direct talks for the first time in decades, agreeing to begin negotiations.",
-        "de": "Israel und Libanon haben zum ersten Mal seit Jahrzehnten direkte Gespräche geführt und sich darauf geeinigt, Verhandlungen aufzunehmen."
+        "zh": "特朗普在福克斯商业频道的采访中表示，如果鲍威尔在任期结束时不辞职，他将解雇他。",
+        "en": "In a Fox Business interview, Trump stated he would fire Powell if he does not resign when his term ends.",
+        "de": "In einem Interview mit Fox Business erklärte Trump, dass er Powell entlassen würde, wenn dieser bei Ablauf seiner Amtszeit nicht zurücktritt."
       },
       "source": "Al Jazeera",
       "date": "2026-04-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国军方称对伊朗港口的封锁“完全”停止经济贸易",
-        "en": "US military says blockade of Iran ports ‘completely’ halts economic trade",
-        "de": "US-Militär sagt, die Blockade der iranischen Häfen stoppe den wirtschaftlichen Handel 'vollständig'"
+        "zh": "以色列最高法院听取罢免本-吉尔的请愿",
+        "en": "Israel’s High Court hears petitions to oust Ben-Gvir",
+        "de": "Das Oberste Gericht Israels hört Petitionen zur Absetzung von Ben-Gvir"
       },
       "summary": {
-        "zh": "美国中央司令部表示，超过10,000名武装部队成员及战舰和飞机参与了对伊朗港口的封锁。",
-        "en": "US Central Command says more than 10,000 armed forces members, as well as warships and planes, are involved in the blockade of Iran's ports.",
-        "de": "Das US-Zentralkommando sagt, dass mehr als 10.000 Mitglieder der Streitkräfte sowie Kriegsschiffe und Flugzeuge an der Blockade der iranischen Häfen beteiligt sind."
+        "zh": "以色列最高法院听取了关于罢免极右翼国家安全部长伊塔马尔·本-吉尔的请愿。",
+        "en": "Israel's High Court has heard petitions to oust far-right National Security Minister Itamar Ben-Gvir.",
+        "de": "Das Oberste Gericht Israels hat Petitionen zur Absetzung des rechtsextremen Innenministers Itamar Ben-Gvir gehört."
       },
       "source": "Al Jazeera",
       "date": "2026-04-15",
-      "url": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israels-high-court-hears-petitions-to-oust-ben-gvir?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国表示霍尔木兹海峡封锁“完全实施”，同时为伊朗发出外交出路信号",
-        "en": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran",
-        "de": "Die USA sagen, die Hormus-Blockade sei 'vollständig umgesetzt', während sie diplomatische Auswege für den Iran signalisieren"
+        "zh": "伊朗战争对美国经济的影响",
+        "en": "Here are all the ways the Iran war has affected the U.S. economy so far",
+        "de": "Hier sind alle Möglichkeiten, wie der Iran-Krieg die US-Wirtschaft bisher beeinflusst hat"
       },
       "summary": {
-        "zh": "白宫在中东冲突中发出外交解决的信号，讨论与德黑兰继续谈判的可能性。",
-        "en": "The White House has been signaling a diplomatic solution to the conflict in the Middle East, as discussions around continuing negotiations with Tehran unfold.",
-        "de": "Das Weiße Haus hat ein diplomatisches Lösungssignal für den Konflikt im Nahen Osten gesendet, während Gespräche über die Fortsetzung der Verhandlungen mit Teheran stattfinden."
+        "zh": "伊朗战争开始在美国经济中显现出明显和不明显的影响，分析师正在密切关注这些变化。",
+        "en": "The Iran war is starting to show up in the U.S. economy in both obvious and subtle ways, with analysts closely monitoring these changes.",
+        "de": "Der Iran-Krieg zeigt sich zunehmend in der US-Wirtschaft auf offensichtliche und subtile Weise, wobei Analysten diese Veränderungen genau beobachten."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-15",
-      "url": "https://www.cnbc.com/2026/04/15/us-strait-of-hormuz-blockade-navy-iran-seaborne-trade-oil-trump.html"
+      "url": "https://www.cnbc.com/2026/04/15/here-are-all-the-ways-the-iran-war-has-affected-the-us-economy-so-far.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "首席执行官们押注人工智能将增强工作而非取代所有工人",
-        "en": "CEOs are betting AI will augment work rather than displace all workers",
-        "de": "CEOs setzen darauf, dass KI die Arbeit ergänzt, anstatt alle Arbeiter zu ersetzen"
+        "zh": "克利夫兰联邦储备主席哈马克预计利率将保持不变",
+        "en": "Cleveland Fed President Hammack expects interest rates to stay on hold 'for a good while'",
+        "de": "Der Präsident der Cleveland Fed, Hammack, erwartet, dass die Zinssätze 'eine ganze Weile' stabil bleiben"
       },
       "summary": {
-        "zh": "在Semafor世界经济会议上，专家表示人工智能可以补充现有工作，提高工作效率。",
-        "en": "Panelists at the Semafor World Economy conference said artificial intelligence can supplement the work that's already done, improving its quantity and quality.",
-        "de": "Die Panelisten der Semafor-Weltwirtschaftskonferenz sagten, dass künstliche Intelligenz die bereits geleistete Arbeit ergänzen und deren Menge und Qualität verbessern kann."
+        "zh": "克利夫兰联邦储备主席哈马克倡导耐心的态度，观察即将到来的数据以判断美国经济的走向。",
+        "en": "Cleveland Fed President Hammack advocated for a patient approach as officials watch incoming data for clues about where the U.S. economy is heading.",
+        "de": "Der Präsident der Cleveland Fed, Hammack, plädierte für einen geduldigen Ansatz, während die Beamten die eingehenden Daten beobachten, um Hinweise darauf zu erhalten, wohin sich die US-Wirtschaft entwickelt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-14",
-      "url": "https://www.cnbc.com/2026/04/14/ceos-are-betting-ai-will-augment-work-rather-than-displace-all-workers.html"
+      "date": "2026-04-15",
+      "url": "https://www.cnbc.com/2026/04/15/cleveland-fed-president-hammack-expects-interest-rates-to-stay-on-hold-for-a-good-while.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "3月份批发价格上涨0.5%，尽管战争影响远低于预期",
-        "en": "Wholesale prices rose 0.5% in March, much less than expected despite war impact",
-        "de": "Die Großhandelspreise stiegen im März um 0,5%, was trotz der Kriegsfolgen weit unter den Erwartungen liegt"
+        "zh": "特朗普威胁解雇鲍威尔，如果他不自行离职",
+        "en": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own",
+        "de": "Trump droht, Powell zu entlassen, wenn der Fed-Vorsitzende nicht von selbst zurücktritt"
       },
       "summary": {
-        "zh": "尽管预计3月份生产者价格指数将上涨1.1%，但实际增长仅为0.5%。",
-        "en": "Despite expectations for a 1.1% increase in the producer price index in March, the actual growth was only 0.5%.",
-        "de": "Trotz der Erwartungen eines Anstiegs des Produzentenpreisindex um 1,1 % im März betrug das tatsächliche Wachstum nur 0,5 %."
+        "zh": "特朗普的威胁标志着他与鲍威尔之间持续争执的最新升级，市场对此反应不一。",
+        "en": "Trump's threat marks the latest escalation in his ongoing spat with Powell, with mixed reactions from the market.",
+        "de": "Trumps Drohung stellt die neueste Eskalation in seinem anhaltenden Streit mit Powell dar, mit gemischten Reaktionen vom Markt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-14",
-      "url": "https://www.cnbc.com/2026/04/14/wholesale-prices-rose-0point5percent-in-march-much-less-than-expected-despite-war-impact.html"
+      "date": "2026-04-15",
+      "url": "https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html"
     }
   ]
 }
