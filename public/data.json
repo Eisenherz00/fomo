@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-14T17:39:06.323404+00:00",
+  "generatedAt": "2026-04-15T06:18:06.942095+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：人工智能的现状，以及用无人机保护熊",
-        "en": "The Download: the state of AI, and protecting bears with drones",
-        "de": "Der Download: der Stand der KI und den Schutz von Bären mit Drohnen"
+        "zh": "在人工智能时代建立信任：以隐私为主导的用户体验",
+        "en": "Building trust in the AI era with privacy-led UX",
+        "de": "Vertrauen in der KI-Ära aufbauen mit datenschutzorientiertem UX"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于人工智能现状的最新信息，并讨论了使用无人机保护熊的创新方法。",
-        "en": "Today's edition of The Download provides the latest insights on the state of AI and discusses innovative methods for protecting bears using drones.",
-        "de": "Die heutige Ausgabe von The Download bietet die neuesten Einblicke in den Stand der KI und diskutiert innovative Methoden zum Schutz von Bären mit Drohnen."
+        "zh": "以隐私为主导的用户体验设计理念强调数据收集和使用的透明性，旨在增强用户对人工智能的信任。",
+        "en": "The privacy-led user experience design philosophy emphasizes transparency around data collection and usage, aiming to enhance user trust in AI.",
+        "de": "Die datenschutzorientierte UX-Design-Philosophie betont die Transparenz bei der Datenerfassung und -nutzung, um das Vertrauen der Nutzer in KI zu stärken."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-14",
-      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/"
+      "date": "2026-04-15",
+      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "NASA正在建造第一艘核反应堆驱动的星际航天器。它将如何运作？",
-        "en": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-        "de": "Die NASA baut das erste interplanetare Raumschiff, das von einem Kernreaktor betrieben wird. Wie wird es funktionieren?"
+        "zh": "重新定义软件工程的未来",
+        "en": "Redefining the future of software engineering",
+        "de": "Die Zukunft der Softwaretechnik neu definieren"
       },
       "summary": {
-        "zh": "本文探讨了NASA正在开发的首个核反应堆驱动的星际航天器的工作原理及其潜在应用。",
-        "en": "This article explores how NASA's first nuclear reactor-powered interplanetary spacecraft will work and its potential applications.",
-        "de": "Dieser Artikel untersucht, wie das erste interplanetare Raumschiff der NASA, das von einem Kernreaktor betrieben wird, funktionieren wird und welche potenziellen Anwendungen es hat."
+        "zh": "软件工程在本世纪经历了两次重大变革，开放源代码运动的崛起使得代码访问变得更加普遍。",
+        "en": "Software engineering has undergone two major shifts this century, with the rise of the open source movement making code access more prevalent.",
+        "de": "Die Softwaretechnik hat in diesem Jahrhundert zwei große Veränderungen durchgemacht, wobei die Aufstieg der Open-Source-Bewegung den Zugang zu Code verbreitert hat."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-14",
-      "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/"
+      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "即将推出：当前人工智能中重要的10件事",
-        "en": "Coming soon: 10 Things That Matter in AI Right Now",
-        "de": "Demnächst: 10 Dinge, die jetzt in der KI wichtig sind"
+        "zh": "想了解当前人工智能的状态吗？查看这些图表。",
+        "en": "Want to understand the current state of AI? Check out these charts.",
+        "de": "Möchten Sie den aktuellen Stand der KI verstehen? Schauen Sie sich diese Diagramme an."
       },
       "summary": {
-        "zh": "每年我们都会汇编10项突破性技术清单，预测哪些技术将产生最大影响。",
-        "en": "Each year, we compile a list of 10 breakthrough technologies, predicting which technologies will have the biggest impact.",
-        "de": "Jedes Jahr erstellen wir eine Liste der 10 bahnbrechenden Technologien und prognostizieren, welche Technologien den größten Einfluss haben werden."
+        "zh": "随着人工智能新闻的快速变化，了解其当前状态变得尤为重要，这些图表提供了清晰的视角。",
+        "en": "With the rapid changes in AI news, understanding its current state is crucial, and these charts provide a clear perspective.",
+        "de": "Angesichts der schnellen Veränderungen in den KI-Nachrichten ist es entscheidend, den aktuellen Stand zu verstehen, und diese Diagramme bieten eine klare Perspektive."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-14",
-      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"
+      "date": "2026-04-13",
+      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "卢拉要求美国将前情报局长送回巴西，因ICE逮捕",
-        "en": "Lula asks US to send ex-intelligence chief to Brazil after ICE arrest",
-        "de": "Lula bittet die USA, den ehemaligen Geheimdienstchef nach der ICE-Verhaftung nach Brasilien zu schicken"
+        "zh": "候选人呼吁在秘鲁重新选举，声称没有证据的欺诈",
+        "en": "Candidate calls for new election in Peru, claiming fraud without evidence",
+        "de": "Kandidat fordert neue Wahlen in Peru und behauptet ohne Beweise Betrug"
       },
       "summary": {
-        "zh": "巴西总统卢拉表示，他希望美国将前情报局长亚历山大·拉马根送回巴西，以便在那里服刑。",
-        "en": "Brazil's President Lula stated that he expects the US to return former intelligence chief Alexandre Ramagem to Brazil to serve his prison sentence.",
-        "de": "Der brasilianische Präsident Lula erklärte, dass er von den USA erwartet, dass sie den ehemaligen Geheimdienstchef Alexandre Ramagem nach Brasilien zurückbringen, um dort seine Haftstrafe zu verbüßen."
+        "zh": "秘鲁总统候选人拉斐尔·洛佩斯·阿利亚加呼吁官员宣布周日的选举“无效”，声称存在欺诈行为，但未提供证据。",
+        "en": "Peru's presidential candidate Rafael Lopez Aliaga is urging officials to declare Sunday’s election 'null and void', claiming fraud without evidence.",
+        "de": "Der Präsidentschaftskandidat Perus, Rafael Lopez Aliaga, fordert die Beamten auf, die Wahl am Sonntag für 'null und nichtig' zu erklären und behauptet ohne Beweise Betrug."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-14",
-      "url": "https://www.aljazeera.com/news/2026/4/14/lula-asks-us-to-send-ex-intelligence-chief-to-brazil-after-ice-arrest?traffic_source=rss"
+      "date": "2026-04-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "经过三年的战争，苏丹的情况如何？",
-        "en": "After three years of war, what is the situation like in Sudan?",
-        "de": "Nach drei Jahren Krieg, wie ist die Situation im Sudan?"
+        "zh": "以色列和黎巴嫩首次直接会谈",
+        "en": "Israel and Lebanon hold direct talks for first time in decades",
+        "de": "Israel und Libanon führen zum ersten Mal seit Jahrzehnten direkte Gespräche"
       },
       "summary": {
-        "zh": "苏丹的战争已导致数百万人流离失所，造成数千人死亡，暴力仍在继续，前景不明。",
-        "en": "The war in Sudan has displaced millions and caused thousands of deaths, with ongoing violence and no clear end in sight.",
-        "de": "Der Krieg im Sudan hat Millionen vertrieben und Tausende von Todesfällen verursacht, während die Gewalt anhält und kein Ende in Sicht ist."
+        "zh": "以色列和黎巴嫩在数十年后首次举行直接会谈，双方同意开始谈判。",
+        "en": "Israel and Lebanon have held direct talks for the first time in decades, agreeing to begin negotiations.",
+        "de": "Israel und Libanon haben zum ersten Mal seit Jahrzehnten direkte Gespräche geführt und sich darauf geeinigt, Verhandlungen aufzunehmen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-14",
-      "url": "https://www.aljazeera.com/news/2026/4/14/after-three-years-of-war-what-is-the-situation-like-in-sudan?traffic_source=rss"
+      "date": "2026-04-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-and-lebanon-hold-direct-talks-for-first-time-in-decades?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰与德国达成无人机生产和军事支持协议",
-        "en": "Ukraine strikes drone production, military support deal with Germany",
-        "de": "Ukraine schließt Vereinbarung über Drohnenproduktion und militärische Unterstützung mit Deutschland"
+        "zh": "美国军方称对伊朗港口的封锁“完全”停止经济贸易",
+        "en": "US military says blockade of Iran ports ‘completely’ halts economic trade",
+        "de": "US-Militär sagt, die Blockade der iranischen Häfen stoppe den wirtschaftlichen Handel 'vollständig'"
       },
       "summary": {
-        "zh": "乌克兰与德国达成协议，德国将获得乌克兰的尖端无人机技术，以换取在对抗俄罗斯的战争中提供额外帮助。",
-        "en": "Ukraine has reached an agreement with Germany, where Germany will gain access to Ukraine's cutting-edge drone technology in exchange for additional military support in the war against Russia.",
-        "de": "Die Ukraine hat eine Vereinbarung mit Deutschland getroffen, bei der Deutschland Zugang zu den fortschrittlichen Drohnentechnologien der Ukraine erhält, im Austausch für zusätzliche militärische Unterstützung im Krieg gegen Russland."
+        "zh": "美国中央司令部表示，超过10,000名武装部队成员及战舰和飞机参与了对伊朗港口的封锁。",
+        "en": "US Central Command says more than 10,000 armed forces members, as well as warships and planes, are involved in the blockade of Iran's ports.",
+        "de": "Das US-Zentralkommando sagt, dass mehr als 10.000 Mitglieder der Streitkräfte sowie Kriegsschiffe und Flugzeuge an der Blockade der iranischen Häfen beteiligt sind."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-14",
-      "url": "https://www.aljazeera.com/news/2026/4/14/ukraine-strikes-drone-production-deal-with-germany?traffic_source=rss"
+      "date": "2026-04-15",
+      "url": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "首席执行官们在押注人工智能将增强工作而非取代所有工人",
+        "zh": "美国表示霍尔木兹海峡封锁“完全实施”，同时为伊朗发出外交出路信号",
+        "en": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran",
+        "de": "Die USA sagen, die Hormus-Blockade sei 'vollständig umgesetzt', während sie diplomatische Auswege für den Iran signalisieren"
+      },
+      "summary": {
+        "zh": "白宫在中东冲突中发出外交解决的信号，讨论与德黑兰继续谈判的可能性。",
+        "en": "The White House has been signaling a diplomatic solution to the conflict in the Middle East, as discussions around continuing negotiations with Tehran unfold.",
+        "de": "Das Weiße Haus hat ein diplomatisches Lösungssignal für den Konflikt im Nahen Osten gesendet, während Gespräche über die Fortsetzung der Verhandlungen mit Teheran stattfinden."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-15",
+      "url": "https://www.cnbc.com/2026/04/15/us-strait-of-hormuz-blockade-navy-iran-seaborne-trade-oil-trump.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "首席执行官们押注人工智能将增强工作而非取代所有工人",
         "en": "CEOs are betting AI will augment work rather than displace all workers",
         "de": "CEOs setzen darauf, dass KI die Arbeit ergänzt, anstatt alle Arbeiter zu ersetzen"
       },
       "summary": {
-        "zh": "在Semafor世界经济会议上，专家表示，人工智能可以补充现有工作，提高其数量和质量。",
-        "en": "At the Semafor World Economy conference, panelists stated that artificial intelligence can supplement existing work, improving both its quantity and quality.",
-        "de": "Auf der Semafor-Weltwirtschaftskonferenz erklärten die Podiumsteilnehmer, dass künstliche Intelligenz die bestehende Arbeit ergänzen kann, wodurch sowohl die Menge als auch die Qualität verbessert werden."
+        "zh": "在Semafor世界经济会议上，专家表示人工智能可以补充现有工作，提高工作效率。",
+        "en": "Panelists at the Semafor World Economy conference said artificial intelligence can supplement the work that's already done, improving its quantity and quality.",
+        "de": "Die Panelisten der Semafor-Weltwirtschaftskonferenz sagten, dass künstliche Intelligenz die bereits geleistete Arbeit ergänzen und deren Menge und Qualität verbessern kann."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-14",
       "url": "https://www.cnbc.com/2026/04/14/ceos-are-betting-ai-will-augment-work-rather-than-displace-all-workers.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "3月批发价格上涨0.5%，远低于预期，尽管受到战争影响",
+        "zh": "3月份批发价格上涨0.5%，尽管战争影响远低于预期",
         "en": "Wholesale prices rose 0.5% in March, much less than expected despite war impact",
-        "de": "Die Großhandelspreise stiegen im März um 0,5%, was weit unter den Erwartungen liegt, trotz der Auswirkungen des Krieges"
+        "de": "Die Großhandelspreise stiegen im März um 0,5%, was trotz der Kriegsfolgen weit unter den Erwartungen liegt"
       },
       "summary": {
-        "zh": "尽管预计3月批发价格将上涨1.1%，但实际增长仅为0.5%，显示出战争对经济的影响有限。",
-        "en": "Despite expectations of a 1.1% increase in wholesale prices for March, the actual rise was only 0.5%, indicating limited economic impact from the war.",
-        "de": "Trotz der Erwartungen eines Anstiegs der Großhandelspreise um 1,1 % im März betrug der tatsächliche Anstieg nur 0,5 %, was auf eine begrenzte wirtschaftliche Auswirkung des Krieges hinweist."
+        "zh": "尽管预计3月份生产者价格指数将上涨1.1%，但实际增长仅为0.5%。",
+        "en": "Despite expectations for a 1.1% increase in the producer price index in March, the actual growth was only 0.5%.",
+        "de": "Trotz der Erwartungen eines Anstiegs des Produzentenpreisindex um 1,1 % im März betrug das tatsächliche Wachstum nur 0,5 %."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-14",
       "url": "https://www.cnbc.com/2026/04/14/wholesale-prices-rose-0point5percent-in-march-much-less-than-expected-despite-war-impact.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "霍尔木兹海峡的封锁可能加深世界上最严重的能源危机——并冒着危险的失误",
-        "en": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
-        "de": "Die Blockade von Hormuz könnte die schlimmste Energiekrise der Welt vertiefen – und ein gefährliches Missgeschick riskieren"
-      },
-      "summary": {
-        "zh": "美国在霍尔木兹海峡的海军封锁可能会导致油价飙升，并可能引发更广泛的冲突。",
-        "en": "The U.S. naval blockade in the Strait of Hormuz could lead to soaring oil prices and potentially trigger a wider conflict.",
-        "de": "Die US-Marineblockade im Persischen Golf könnte zu steigenden Ölpreisen führen und möglicherweise einen breiteren Konflikt auslösen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-13",
-      "url": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html"
     }
   ]
 }
