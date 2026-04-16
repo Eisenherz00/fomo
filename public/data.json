@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-16T06:20:45.916561+00:00",
+  "generatedAt": "2026-04-16T17:48:37.161063+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：NASA的核动力航天器和我们AI的揭幕",
-        "en": "The Download: NASA’s nuclear spacecraft and unveiling our AI",
-        "de": "Der Download: NASAs nukleare Raumsonde und die Enthüllung unserer KI"
+        "zh": "在受限的公共部门环境中使人工智能投入运营",
+        "en": "Making AI operational in constrained public sector environments",
+        "de": "Künstliche Intelligenz in eingeschränkten öffentlichen Sektorumgebungen betriebsbereit machen"
       },
       "summary": {
-        "zh": "本期《下载》提供了关于NASA核动力航天器的最新消息，以及当前AI领域的重要动态。",
-        "en": "This edition of The Download provides the latest news on NASA's nuclear-powered spacecraft and important developments in the AI field.",
-        "de": "Diese Ausgabe des Downloads bietet die neuesten Nachrichten über NASAs nuklearbetriebenes Raumfahrzeug und wichtige Entwicklungen im Bereich KI."
+        "zh": "人工智能在各行业的快速发展给公共部门带来了压力，迫使其加速采用新技术。政府机构面临着在资源有限的情况下有效实施人工智能的挑战。",
+        "en": "The rapid development of AI across industries has put pressure on the public sector to accelerate adoption. Government organizations face challenges in effectively implementing AI under constrained resources.",
+        "de": "Die rasante Entwicklung der KI in verschiedenen Branchen setzt den öffentlichen Sektor unter Druck, die Einführung zu beschleunigen. Regierungsorganisationen stehen vor der Herausforderung, KI unter eingeschränkten Ressourcen effektiv umzusetzen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-15",
-      "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/"
+      "date": "2026-04-16",
+      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "网络诈骗者通过Telegram出售的非法工具绕过银行安全",
-        "en": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
-        "de": "Cyberbetrüger umgehen die Sicherheit von Banken mit illegalen Werkzeugen, die auf Telegram verkauft werden"
+        "zh": "将企业人工智能视为操作层",
+        "en": "Treating enterprise AI as an operating layer",
+        "de": "Unternehmens-KI als Betriebsschicht betrachten"
       },
       "summary": {
-        "zh": "一名员工在柬埔寨的洗钱中心使用流行的越南银行应用程序，展示了网络诈骗者如何利用Telegram上的非法工具来绕过银行安全。",
-        "en": "An employee at a money-laundering center in Cambodia demonstrates how cyber scammers use illicit tools sold on Telegram to bypass bank security.",
-        "de": "Ein Mitarbeiter in einem Geldwäschezentrum in Kambodscha zeigt, wie Cyberbetrüger illegale Werkzeuge, die auf Telegram verkauft werden, nutzen, um die Sicherheit von Banken zu umgehen."
+        "zh": "企业人工智能的讨论往往集中在基础模型上，但实际上，企业应将其视为操作层，以提升整体效率和功能。",
+        "en": "Discussions around enterprise AI often focus on foundational models, but organizations should view it as an operating layer to enhance overall efficiency and functionality.",
+        "de": "Diskussionen über Unternehmens-KI konzentrieren sich oft auf grundlegende Modelle, aber Organisationen sollten sie als Betriebsschicht betrachten, um die Gesamteffizienz und -funktionalität zu verbessern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-15",
-      "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/"
+      "date": "2026-04-16",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "在AI时代建立信任：以隐私为导向的用户体验",
-        "en": "Building trust in the AI era with privacy-led UX",
-        "de": "Vertrauen in der KI-Ära aufbauen mit datenschutzorientierter UX"
+        "zh": "在人工智能战争中“人类参与”的幻觉",
+        "en": "Why having 'humans in the loop' in an AI war is an illusion",
+        "de": "Warum es eine Illusion ist, 'Menschen im Loop' in einem KI-Krieg zu haben"
       },
       "summary": {
-        "zh": "隐私导向的用户体验设计理念将数据收集和使用的透明度视为建立用户信任的重要组成部分。",
-        "en": "The privacy-led user experience design philosophy treats transparency around data collection and usage as a crucial part of building user trust.",
-        "de": "Die datenschutzorientierte UX-Design-Philosophie betrachtet die Transparenz bei der Datensammlung und -nutzung als einen entscheidenden Teil des Aufbaus von Benutzervertrauen."
+        "zh": "人工智能在战争中的使用引发了法律争议，特别是在“人类参与”的概念上，这被认为是一种幻觉，可能会导致不必要的误解。",
+        "en": "The use of AI in warfare has sparked legal disputes, particularly around the concept of 'humans in the loop,' which is seen as an illusion that could lead to unnecessary misunderstandings.",
+        "de": "Der Einsatz von KI in Kriegen hat rechtliche Auseinandersetzungen ausgelöst, insbesondere um das Konzept der 'Menschen im Loop', das als Illusion angesehen wird und zu unnötigen Missverständnissen führen könnte."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-15",
-      "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/"
+      "date": "2026-04-16",
+      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "教皇向世界展示如何对抗特朗普",
-        "en": "The pope has shown the world how to stand up to Trump",
-        "de": "Der Papst hat der Welt gezeigt, wie man sich Trump entgegenstellt"
+        "zh": "特朗普宣布黎巴嫩-以色列停火10天",
+        "en": "10-day Lebanon-Israel ceasefire announced by Trump",
+        "de": "10-tägiger Libanon-Israel-Waffenstillstand von Trump angekündigt"
       },
       "summary": {
-        "zh": "教皇以其坚定的立场向世界展示了如何勇敢地对抗特朗普，反映出许多世界领导人的软弱。",
-        "en": "The pope has demonstrated to the world how to bravely stand up to Trump, reflecting the weakness of many world leaders.",
-        "de": "Der Papst hat der Welt gezeigt, wie man sich mutig Trump entgegenstellt, was die Schwäche vieler Weltführer widerspiegelt."
+        "zh": "美国总统特朗普宣布以色列和黎巴嫩达成10天的停火协议，停火将于周四21:00 GMT生效。",
+        "en": "US President Trump announced that Israel and Lebanon have agreed to a 10-day ceasefire, effective Thursday at 21:00 GMT.",
+        "de": "US-Präsident Trump gab bekannt, dass Israel und der Libanon einem 10-tägigen Waffenstillstand zugestimmt haben, der am Donnerstag um 21:00 GMT in Kraft tritt."
       },
       "source": "Al Jazeera",
       "date": "2026-04-16",
-      "url": "https://www.aljazeera.com/opinions/2026/4/16/the-pope-has-shown-the-world-how-to-stand-up-to-trump?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/10-day-lebanon-israel-ceasefire-announced-by-trump?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普计划建造250英尺的“凯旋门”以纪念美国独立250周年",
-        "en": "Trump plans 250-foot ‘Triumphal Arch’ to mark 250 years of US independence",
-        "de": "Trump plant ein 250 Fuß hohes ‚Triumphbogen‘ zur Feier von 250 Jahren US-Unabhängigkeit"
+        "zh": "美国将伊朗港口封锁，而非霍尔木兹海峡",
+        "en": "US general clarifies Iranian ports under blockade, not Strait of Hormuz",
+        "de": "US-General klärt auf: Iranische Häfen unter Blockade, nicht die Straße von Hormuz"
       },
       "summary": {
-        "zh": "特朗普政府公布了一项计划，建造一座巨大的结构，以纪念美国独立250周年。",
-        "en": "The Trump administration has unveiled plans for a massive structure to commemorate the 250th anniversary of US independence.",
-        "de": "Die Trump-Administration hat Pläne für eine massive Struktur zur Feier des 250. Jahrestages der US-Unabhängigkeit vorgestellt."
+        "zh": "一位美国将军澄清，美国军方只对伊朗港口实施封锁，而非整个霍尔木兹海峡，消除了对航运的误解。",
+        "en": "A US general clarified that the US military is only blockading Iranian ports, not the entire Strait of Hormuz, dispelling misunderstandings about shipping.",
+        "de": "Ein US-General stellte klar, dass die US-Militärs nur iranische Häfen blockieren, nicht die gesamte Straße von Hormuz, und damit Missverständnisse über den Schiffsverkehr ausräumte."
       },
       "source": "Al Jazeera",
       "date": "2026-04-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/trump-plans-250-foot-triumphal-arch-to-mark-250-years-of-us-independence?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/us-general-clarifies-iranian-ports-under-blockade-not-strait-of-hormuz?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国总统特朗普表示以色列和黎巴嫩领导人将于周四通话",
-        "en": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
-        "de": "Trump sagt, dass die Führer Israels und Libanons am Donnerstag sprechen werden"
+        "zh": "叙利亚控制所有美国驻军基地",
+        "en": "Syria takes control of all bases where US forces were deployed",
+        "de": "Syrien übernimmt die Kontrolle über alle Basen, in denen US-Truppen stationiert waren"
       },
       "summary": {
-        "zh": "特朗普表示，以色列和黎巴嫩的领导人将在34年后首次通话，标志着两国关系的潜在改善。",
-        "en": "Trump announced that the leaders of Israel and Lebanon will speak for the first time in 34 years, marking a potential improvement in relations between the two countries.",
-        "de": "Trump kündigte an, dass die Führer Israels und Libanons am Donnerstag zum ersten Mal seit 34 Jahren sprechen werden, was eine potenzielle Verbesserung der Beziehungen zwischen den beiden Ländern markiert."
+        "zh": "叙利亚政府宣布已控制所有曾有美国军队驻扎的基地，标志着美国在该地区军事存在的结束。",
+        "en": "The Syrian government announced it has taken control of all bases where US forces were deployed, marking the end of the US military presence in the region.",
+        "de": "Die syrische Regierung gab bekannt, dass sie die Kontrolle über alle Basen übernommen hat, in denen US-Truppen stationiert waren, was das Ende der US-Militärpräsenz in der Region markiert."
       },
       "source": "Al Jazeera",
       "date": "2026-04-16",
-      "url": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/16/syria-takes-control-of-all-bases-where-us-forces-were-deployed?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英国经济在2月份增长0.5%，远超经济学家的预期",
-        "en": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
-        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 %, was die Erwartungen der Ökonomen bei weitem übertraf"
+        "zh": "纽约联储主席威廉姆斯担心战争将减缓增长，加剧通货膨胀",
+        "en": "New York Fed President Williams worries war will slow growth, aggravate inflation",
+        "de": "Präsident der New Yorker Fed Williams befürchtet, dass der Krieg das Wachstum verlangsamen und die Inflation verschärfen wird"
       },
       "summary": {
-        "zh": "英国经济在2月份增长了0.5%，远超经济学家预期的0.1%的增长，显示出经济的强劲复苏。",
-        "en": "The UK economy grew by 0.5% in February, far exceeding economists' expectations of 0.1%, indicating a strong economic recovery.",
-        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 %, was die Erwartungen der Ökonomen von 0,1 % bei weitem übertraf und auf eine starke wirtschaftliche Erholung hinweist."
+        "zh": "纽约联储主席威廉姆斯表示，战争加剧了国家和地方经济的不确定性，可能会影响经济增长和通货膨胀。",
+        "en": "New York Fed President Williams stated that the war has intensified uncertainty around national and local economic conditions, potentially impacting growth and inflation.",
+        "de": "Der Präsident der New Yorker Fed, Williams, erklärte, dass der Krieg die Unsicherheit über nationale und lokale wirtschaftliche Bedingungen verstärkt hat, was das Wachstum und die Inflation beeinträchtigen könnte."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-16",
+      "url": "https://www.cnbc.com/2026/04/16/new-york-fed-president-williams-worries-war-will-slow-growth-aggravate-inflation.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "英国经济在2月份增长0.5%，大幅超出经济学家的预期",
+        "en": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
+        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 % und übertraf damit die Erwartungen der Ökonomen bei weitem"
+      },
+      "summary": {
+        "zh": "英国经济在2月份的增长率为0.5%，远超经济学家预期的0.1%，显示出经济复苏的强劲迹象。",
+        "en": "The UK economy grew by 0.5% in February, far exceeding economists' expectations of 0.1%, indicating strong signs of economic recovery.",
+        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 %, was die Erwartungen der Ökonomen von 0,1 % bei weitem übertraf und starke Anzeichen einer wirtschaftlichen Erholung zeigt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-16",
       "url": "https://www.cnbc.com/2026/04/16/uk-gdp-march-2026-iran-war.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "牛肉价格飙升至创纪录高位，烧烤季节即将来临",
-        "en": "Cattle prices soar to record highs as grilling season heats up",
-        "de": "Rinderpreise steigen auf Rekordhöhen, da die Grill-Saison beginnt"
-      },
-      "summary": {
-        "zh": "随着烧烤季节的临近，牛肉期货合约在过去12个月内上涨超过25%，牧场主面临成本上升的压力。",
-        "en": "As grilling season approaches, cattle futures contracts have jumped more than 25% over the past 12 months as ranchers face rising costs.",
-        "de": "Mit dem bevorstehenden Grill-Saison sind die Rinderfutures in den letzten 12 Monaten um mehr als 25 % gestiegen, da die Rancher mit steigenden Kosten konfrontiert sind."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-15",
-      "url": "https://www.cnbc.com/2026/04/15/beef-cattle-grilling-inflation.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "美国经济受伊朗战争影响的各个方面",
-        "en": "Here are all the ways the Iran war has affected the U.S. economy so far",
-        "de": "Hier sind alle Möglichkeiten, wie der Iran-Krieg die US-Wirtschaft bisher beeinflusst hat"
+        "zh": "可口可乐表示降价和健康推动客户回归——股价飙升",
+        "en": "Pepsi says price cuts and wellness push are bringing back customers — and the stock surges",
+        "de": "Pepsi sagt, Preissenkungen und Wellness-Initiativen bringen Kunden zurück – und die Aktie steigt"
       },
       "summary": {
-        "zh": "伊朗战争开始在美国经济中产生明显影响，包括能源价格和供应链的变化。",
-        "en": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much, including changes in energy prices and supply chains.",
-        "de": "Der Iran-Krieg zeigt sich zunehmend in der US-Wirtschaft auf sowohl offensichtliche als auch weniger offensichtliche Weise, einschließlich Veränderungen bei den Energiepreisen und den Lieferketten."
+        "zh": "可口可乐公司表示，新的产品和近期的降价措施吸引了顾客，导致股价大幅上涨。",
+        "en": "PepsiCo stated that new products and recent price cuts have attracted customers, leading to a significant surge in stock prices.",
+        "de": "PepsiCo erklärte, dass neue Produkte und kürzliche Preissenkungen Kunden angezogen haben, was zu einem signifikanten Anstieg der Aktienkurse führte."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-15",
-      "url": "https://www.cnbc.com/2026/04/15/here-are-all-the-ways-the-iran-war-has-affected-the-us-economy-so-far.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-16",
+      "url": "https://www.marketwatch.com/story/pepsi-says-price-cuts-and-wellness-push-are-bringing-back-customers-and-the-stock-surges-e6e5ea05?mod=mw_rss_topstories"
     }
   ]
 }
