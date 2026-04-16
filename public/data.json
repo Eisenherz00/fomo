@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-15T17:36:55.971778+00:00",
+  "generatedAt": "2026-04-16T06:20:45.916561+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：NASA的核动力航天器和揭示我们的AI 10",
-        "en": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
-        "de": "Der Download: NASAs nukleares Raumfahrzeug und die Enthüllung unserer KI 10"
+        "zh": "下载：NASA的核动力航天器和我们AI的揭幕",
+        "en": "The Download: NASA’s nuclear spacecraft and unveiling our AI",
+        "de": "Der Download: NASAs nukleare Raumsonde und die Enthüllung unserer KI"
       },
       "summary": {
-        "zh": "本期《下载》提供了关于NASA核动力航天器的最新消息，以及当前AI领域的十大重要事项。",
-        "en": "This edition of The Download provides the latest news on NASA's nuclear-powered spacecraft and the ten most important matters in AI right now.",
-        "de": "Diese Ausgabe des Downloads bietet die neuesten Nachrichten über NASAs nukleares Raumfahrzeug und die zehn wichtigsten Themen in der KI derzeit."
+        "zh": "本期《下载》提供了关于NASA核动力航天器的最新消息，以及当前AI领域的重要动态。",
+        "en": "This edition of The Download provides the latest news on NASA's nuclear-powered spacecraft and important developments in the AI field.",
+        "de": "Diese Ausgabe des Downloads bietet die neuesten Nachrichten über NASAs nuklearbetriebenes Raumfahrzeug und wichtige Entwicklungen im Bereich KI."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-15",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "网络诈骗者利用在Telegram上出售的非法工具绕过银行安全",
+        "zh": "网络诈骗者通过Telegram出售的非法工具绕过银行安全",
         "en": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
-        "de": "Cyberscammer umgehen die Sicherheit von Banken mit illegalen Werkzeugen, die auf Telegram verkauft werden"
+        "de": "Cyberbetrüger umgehen die Sicherheit von Banken mit illegalen Werkzeugen, die auf Telegram verkauft werden"
       },
       "summary": {
-        "zh": "一名员工在柬埔寨的洗钱中心使用流行的越南银行应用程序，展示了网络诈骗者如何利用Telegram上出售的工具绕过银行安全。",
-        "en": "An employee at a money-laundering center in Cambodia demonstrates how cybercriminals use tools sold on Telegram to bypass bank security.",
-        "de": "Ein Mitarbeiter in einem Geldwäschezentrum in Kambodscha zeigt, wie Cyberkriminelle Werkzeuge verwenden, die auf Telegram verkauft werden, um die Sicherheit von Banken zu umgehen."
+        "zh": "一名员工在柬埔寨的洗钱中心使用流行的越南银行应用程序，展示了网络诈骗者如何利用Telegram上的非法工具来绕过银行安全。",
+        "en": "An employee at a money-laundering center in Cambodia demonstrates how cyber scammers use illicit tools sold on Telegram to bypass bank security.",
+        "de": "Ein Mitarbeiter in einem Geldwäschezentrum in Kambodscha zeigt, wie Cyberbetrüger illegale Werkzeuge, die auf Telegram verkauft werden, nutzen, um die Sicherheit von Banken zu umgehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-15",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "在AI时代建立信任：以隐私为导向的用户体验",
         "en": "Building trust in the AI era with privacy-led UX",
-        "de": "Vertrauen im KI-Zeitalter aufbauen mit datenschutzorientierter UX"
+        "de": "Vertrauen in der KI-Ära aufbauen mit datenschutzorientierter UX"
       },
       "summary": {
         "zh": "隐私导向的用户体验设计理念将数据收集和使用的透明度视为建立用户信任的重要组成部分。",
-        "en": "The privacy-led user experience design philosophy treats transparency around data collection and usage as an integral part of building user trust.",
-        "de": "Die datenschutzorientierte UX-Design-Philosophie betrachtet die Transparenz bei der Datensammlung und -nutzung als einen integralen Bestandteil des Vertrauensaufbaus bei Nutzern."
+        "en": "The privacy-led user experience design philosophy treats transparency around data collection and usage as a crucial part of building user trust.",
+        "de": "Die datenschutzorientierte UX-Design-Philosophie betrachtet die Transparenz bei der Datensammlung und -nutzung als einen entscheidenden Teil des Aufbaus von Benutzervertrauen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-15",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "联合国专家呼吁成员国暂停对以色列的武器转让",
-        "en": "UN experts urge member states to suspend Israel arms transfers",
-        "de": "UN-Experten fordern die Mitgliedstaaten auf, die Waffenübertragungen an Israel auszusetzen"
+        "zh": "教皇向世界展示如何对抗特朗普",
+        "en": "The pope has shown the world how to stand up to Trump",
+        "de": "Der Papst hat der Welt gezeigt, wie man sich Trump entgegenstellt"
       },
       "summary": {
-        "zh": "专家们称以色列在4月8日对黎巴嫩的轰炸是对联合国宪章的明显违反，呼吁国际社会采取行动。",
-        "en": "Experts describe Israel's bombardment of Lebanon on April 8 as a blatant violation of the UN Charter, urging the international community to take action.",
-        "de": "Experten beschreiben die Bombardierung Libanons durch Israel am 8. April als eklatante Verletzung der UN-Charta und fordern die internationale Gemeinschaft zum Handeln auf."
+        "zh": "教皇以其坚定的立场向世界展示了如何勇敢地对抗特朗普，反映出许多世界领导人的软弱。",
+        "en": "The pope has demonstrated to the world how to bravely stand up to Trump, reflecting the weakness of many world leaders.",
+        "de": "Der Papst hat der Welt gezeigt, wie man sich mutig Trump entgegenstellt, was die Schwäche vieler Weltführer widerspiegelt."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-15",
-      "url": "https://www.aljazeera.com/news/2026/4/15/un-experts-urge-member-states-to-suspend-israel-arms-transfers?traffic_source=rss"
+      "date": "2026-04-16",
+      "url": "https://www.aljazeera.com/opinions/2026/4/16/the-pope-has-shown-the-world-how-to-stand-up-to-trump?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普加大威胁，称将解雇美国联邦储备委员会主席鲍威尔",
-        "en": "Trump escalates threats to fire US Federal Reserve Chair Powell",
-        "de": "Trump eskaliert Drohungen, den Vorsitzenden der US-Notenbank Powell zu entlassen"
+        "zh": "特朗普计划建造250英尺的“凯旋门”以纪念美国独立250周年",
+        "en": "Trump plans 250-foot ‘Triumphal Arch’ to mark 250 years of US independence",
+        "de": "Trump plant ein 250 Fuß hohes ‚Triumphbogen‘ zur Feier von 250 Jahren US-Unabhängigkeit"
       },
       "summary": {
-        "zh": "特朗普在福克斯商业频道的采访中表示，如果鲍威尔在任期结束时不辞职，他将解雇他。",
-        "en": "In a Fox Business interview, Trump stated he would fire Powell if he does not resign when his term ends.",
-        "de": "In einem Interview mit Fox Business erklärte Trump, dass er Powell entlassen würde, wenn dieser bei Ablauf seiner Amtszeit nicht zurücktritt."
+        "zh": "特朗普政府公布了一项计划，建造一座巨大的结构，以纪念美国独立250周年。",
+        "en": "The Trump administration has unveiled plans for a massive structure to commemorate the 250th anniversary of US independence.",
+        "de": "Die Trump-Administration hat Pläne für eine massive Struktur zur Feier des 250. Jahrestages der US-Unabhängigkeit vorgestellt."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-15",
-      "url": "https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss"
+      "date": "2026-04-16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/16/trump-plans-250-foot-triumphal-arch-to-mark-250-years-of-us-independence?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列最高法院听取罢免本-吉尔的请愿",
-        "en": "Israel’s High Court hears petitions to oust Ben-Gvir",
-        "de": "Das Oberste Gericht Israels hört Petitionen zur Absetzung von Ben-Gvir"
+        "zh": "美国总统特朗普表示以色列和黎巴嫩领导人将于周四通话",
+        "en": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
+        "de": "Trump sagt, dass die Führer Israels und Libanons am Donnerstag sprechen werden"
       },
       "summary": {
-        "zh": "以色列最高法院听取了关于罢免极右翼国家安全部长伊塔马尔·本-吉尔的请愿。",
-        "en": "Israel's High Court has heard petitions to oust far-right National Security Minister Itamar Ben-Gvir.",
-        "de": "Das Oberste Gericht Israels hat Petitionen zur Absetzung des rechtsextremen Innenministers Itamar Ben-Gvir gehört."
+        "zh": "特朗普表示，以色列和黎巴嫩的领导人将在34年后首次通话，标志着两国关系的潜在改善。",
+        "en": "Trump announced that the leaders of Israel and Lebanon will speak for the first time in 34 years, marking a potential improvement in relations between the two countries.",
+        "de": "Trump kündigte an, dass die Führer Israels und Libanons am Donnerstag zum ersten Mal seit 34 Jahren sprechen werden, was eine potenzielle Verbesserung der Beziehungen zwischen den beiden Ländern markiert."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israels-high-court-hears-petitions-to-oust-ben-gvir?traffic_source=rss"
+      "date": "2026-04-16",
+      "url": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗战争对美国经济的影响",
-        "en": "Here are all the ways the Iran war has affected the U.S. economy so far",
-        "de": "Hier sind alle Möglichkeiten, wie der Iran-Krieg die US-Wirtschaft bisher beeinflusst hat"
+        "zh": "英国经济在2月份增长0.5%，远超经济学家的预期",
+        "en": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
+        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 %, was die Erwartungen der Ökonomen bei weitem übertraf"
       },
       "summary": {
-        "zh": "伊朗战争开始在美国经济中显现出明显和不明显的影响，分析师正在密切关注这些变化。",
-        "en": "The Iran war is starting to show up in the U.S. economy in both obvious and subtle ways, with analysts closely monitoring these changes.",
-        "de": "Der Iran-Krieg zeigt sich zunehmend in der US-Wirtschaft auf offensichtliche und subtile Weise, wobei Analysten diese Veränderungen genau beobachten."
+        "zh": "英国经济在2月份增长了0.5%，远超经济学家预期的0.1%的增长，显示出经济的强劲复苏。",
+        "en": "The UK economy grew by 0.5% in February, far exceeding economists' expectations of 0.1%, indicating a strong economic recovery.",
+        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 %, was die Erwartungen der Ökonomen von 0,1 % bei weitem übertraf und auf eine starke wirtschaftliche Erholung hinweist."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-15",
-      "url": "https://www.cnbc.com/2026/04/15/here-are-all-the-ways-the-iran-war-has-affected-the-us-economy-so-far.html"
+      "date": "2026-04-16",
+      "url": "https://www.cnbc.com/2026/04/16/uk-gdp-march-2026-iran-war.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "克利夫兰联邦储备主席哈马克预计利率将保持不变",
-        "en": "Cleveland Fed President Hammack expects interest rates to stay on hold 'for a good while'",
-        "de": "Der Präsident der Cleveland Fed, Hammack, erwartet, dass die Zinssätze 'eine ganze Weile' stabil bleiben"
+        "zh": "牛肉价格飙升至创纪录高位，烧烤季节即将来临",
+        "en": "Cattle prices soar to record highs as grilling season heats up",
+        "de": "Rinderpreise steigen auf Rekordhöhen, da die Grill-Saison beginnt"
       },
       "summary": {
-        "zh": "克利夫兰联邦储备主席哈马克倡导耐心的态度，观察即将到来的数据以判断美国经济的走向。",
-        "en": "Cleveland Fed President Hammack advocated for a patient approach as officials watch incoming data for clues about where the U.S. economy is heading.",
-        "de": "Der Präsident der Cleveland Fed, Hammack, plädierte für einen geduldigen Ansatz, während die Beamten die eingehenden Daten beobachten, um Hinweise darauf zu erhalten, wohin sich die US-Wirtschaft entwickelt."
+        "zh": "随着烧烤季节的临近，牛肉期货合约在过去12个月内上涨超过25%，牧场主面临成本上升的压力。",
+        "en": "As grilling season approaches, cattle futures contracts have jumped more than 25% over the past 12 months as ranchers face rising costs.",
+        "de": "Mit dem bevorstehenden Grill-Saison sind die Rinderfutures in den letzten 12 Monaten um mehr als 25 % gestiegen, da die Rancher mit steigenden Kosten konfrontiert sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-15",
-      "url": "https://www.cnbc.com/2026/04/15/cleveland-fed-president-hammack-expects-interest-rates-to-stay-on-hold-for-a-good-while.html"
+      "url": "https://www.cnbc.com/2026/04/15/beef-cattle-grilling-inflation.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普威胁解雇鲍威尔，如果他不自行离职",
-        "en": "Trump threatens to fire Powell if the Fed chair doesn't leave office on his own",
-        "de": "Trump droht, Powell zu entlassen, wenn der Fed-Vorsitzende nicht von selbst zurücktritt"
+        "zh": "美国经济受伊朗战争影响的各个方面",
+        "en": "Here are all the ways the Iran war has affected the U.S. economy so far",
+        "de": "Hier sind alle Möglichkeiten, wie der Iran-Krieg die US-Wirtschaft bisher beeinflusst hat"
       },
       "summary": {
-        "zh": "特朗普的威胁标志着他与鲍威尔之间持续争执的最新升级，市场对此反应不一。",
-        "en": "Trump's threat marks the latest escalation in his ongoing spat with Powell, with mixed reactions from the market.",
-        "de": "Trumps Drohung stellt die neueste Eskalation in seinem anhaltenden Streit mit Powell dar, mit gemischten Reaktionen vom Markt."
+        "zh": "伊朗战争开始在美国经济中产生明显影响，包括能源价格和供应链的变化。",
+        "en": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much, including changes in energy prices and supply chains.",
+        "de": "Der Iran-Krieg zeigt sich zunehmend in der US-Wirtschaft auf sowohl offensichtliche als auch weniger offensichtliche Weise, einschließlich Veränderungen bei den Energiepreisen und den Lieferketten."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-15",
-      "url": "https://www.cnbc.com/2026/04/15/trump-threatens-to-fire-powell-if-the-fed-chair-doesnt-leave-office-on-his-own.html"
+      "url": "https://www.cnbc.com/2026/04/15/here-are-all-the-ways-the-iran-war-has-affected-the-us-economy-so-far.html"
     }
   ]
 }
