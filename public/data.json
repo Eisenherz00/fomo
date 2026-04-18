@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-18T05:57:40.248728+00:00",
+  "generatedAt": "2026-04-18T17:02:31.193852+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "内心的尼安德特人坏消息，AI战争中的人类幻觉",
+        "zh": "内心的尼安德特人坏消息，人工智能战争中的人类幻觉：今天的下载",
         "en": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-        "de": "Der Download: schlechte Nachrichten für innere Neandertaler und die menschliche Illusion im AI-Krieg"
+        "de": "Der Download: schlechte Nachrichten für innere Neandertaler und die menschliche Illusion im KI-Krieg"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于科技领域的最新动态，包括内心尼安德特人的研究和AI战争中人类参与的幻觉。",
-        "en": "Today's edition of The Download provides the latest updates in technology, including research on inner Neanderthals and the illusion of human involvement in AI warfare.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technologie, einschließlich der Forschung zu inneren Neandertalern und der Illusion menschlicher Beteiligung im AI-Krieg."
+        "zh": "人工智能在战争中的使用引发了法律争议，Anthropic与五角大楼之间的辩论集中在“人类在环”这一概念上。",
+        "en": "The use of artificial intelligence in warfare has sparked legal disputes, with a debate between Anthropic and the Pentagon focusing on the concept of 'humans in the loop.'",
+        "de": "Der Einsatz von künstlicher Intelligenz in Kriegen hat rechtliche Auseinandersetzungen ausgelöst, wobei eine Debatte zwischen Anthropic und dem Pentagon sich auf das Konzept der 'Menschen im Loop' konzentriert."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-17",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "在受限公共部门环境中使AI可操作",
+        "zh": "在受限公共部门环境中使人工智能可操作",
         "en": "Making AI operational in constrained public sector environments",
-        "de": "AI in eingeschränkten öffentlichen Sektorumgebungen betriebsbereit machen"
+        "de": "Künstliche Intelligenz in eingeschränkten öffentlichen Sektorumgebungen operational machen"
       },
       "summary": {
-        "zh": "AI的快速发展正在推动各行业的变革，公共部门面临加速采用的压力，同时也面临资源和技术的限制。",
-        "en": "The rapid development of AI is driving transformation across industries, with the public sector facing pressure to accelerate adoption while also contending with resource and technical constraints.",
-        "de": "Die rasante Entwicklung von AI treibt den Wandel in verschiedenen Branchen voran, wobei der öffentliche Sektor unter Druck steht, die Einführung zu beschleunigen, während er gleichzeitig mit Ressourcen- und technischen Einschränkungen konfrontiert ist."
+        "zh": "公共部门面临加速采用人工智能的压力，政府机构在此过程中面临多重挑战。",
+        "en": "Public sector organizations are under pressure to accelerate AI adoption, facing multiple challenges in the process.",
+        "de": "Öffentliche Sektororganisationen stehen unter Druck, die Einführung von KI zu beschleunigen, und sehen sich dabei mehreren Herausforderungen gegenüber."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-16",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "将企业AI视为操作层",
+        "zh": "将企业人工智能视为操作层",
         "en": "Treating enterprise AI as an operating layer",
-        "de": "Unternehmens-AI als Betriebsschicht betrachten"
+        "de": "Unternehmens-KI als Betriebsschicht betrachten"
       },
       "summary": {
-        "zh": "企业AI的讨论通常集中在基础模型上，但实际上，企业AI的操作层次同样重要，影响着其整体效能。",
-        "en": "Discussions around enterprise AI often focus on foundational models, but the operational layer of enterprise AI is equally important and impacts its overall effectiveness.",
-        "de": "Diskussionen über Unternehmens-AI konzentrieren sich oft auf grundlegende Modelle, aber die Betriebsschicht der Unternehmens-AI ist ebenso wichtig und beeinflusst deren Gesamteffektivität."
+        "zh": "企业人工智能的讨论仍然集中在基础模型上，而未能关注其作为操作层的潜力。",
+        "en": "The discussion around enterprise AI still focuses on foundational models, missing the potential of treating it as an operating layer.",
+        "de": "Die Diskussion über Unternehmens-KI konzentriert sich weiterhin auf grundlegende Modelle und verpasst das Potenzial, sie als Betriebsschicht zu betrachten."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-16",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "南苏丹可能面临“全面饥荒”的警告",
-        "en": "UN aid chief warns of possible ‘full-scale famine’ in South Sudan",
-        "de": "UN-Hilfschef warnt vor möglicher 'vollständiger Hungersnot' in Südsudan"
+        "zh": "‘没有遗憾’：委内瑞拉的马查多为将诺贝尔奖颁给特朗普辩护",
+        "en": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
+        "de": "‘Keine Reue’: Venezuelas Machado verteidigt die Übergabe der Nobelmedaille an Trump"
       },
       "summary": {
-        "zh": "联合国人道主义事务协调员警告，南苏丹可能面临全面饥荒的风险，呼吁国际社会采取紧急措施。",
-        "en": "The UN humanitarian chief warns that South Sudan is at risk of a full-scale famine, urging the international community to take urgent action.",
-        "de": "Der UN-Hilfschef warnt, dass der Südsudan Gefahr läuft, in eine vollständige Hungersnot zu geraten, und fordert die internationale Gemeinschaft zu dringenden Maßnahmen auf."
+        "zh": "委内瑞拉政治家玛丽亚·科琳娜·马查多在特朗普捕获尼古拉斯·马杜罗后，将她的诺贝尔和平奖颁给了特朗普，并表示没有遗憾。",
+        "en": "Venezuelan politician Maria Corina Machado defended giving her Nobel Peace Prize to Trump after he captured Nicolas Maduro, stating she has no regrets.",
+        "de": "Die venezolanische Politikerin Maria Corina Machado verteidigte die Übergabe ihres Friedensnobelpreises an Trump, nachdem dieser Nicolas Maduro gefangen genommen hatte, und erklärte, sie habe keine Reue."
       },
       "source": "Al Jazeera",
       "date": "2026-04-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/un-aid-chief-warns-of-possible-full-scale-famine-in-south-sudan?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "新泽西州宣布150美元的交通票价以抵达世界杯",
-        "en": "New Jersey announces $150 transit tickets to reach the World Cup",
-        "de": "New Jersey kündigt 150-Dollar-Transporttickets für die Anreise zur Weltmeisterschaft an"
+        "zh": "巴西总统谴责联合国安理会：‘战争之主’",
+        "en": "“Lords of war.” Brazil’s president condemns UN Security Council",
+        "de": "„Kriegsherren.“ Brasiliens Präsident verurteilt den UN-Sicherheitsrat"
       },
       "summary": {
-        "zh": "新泽西州宣布，为了世界杯比赛，纽约到梅特生命体育场的交通票价将上涨至150美元。",
-        "en": "New Jersey has announced that transit fares from New York to MetLife Stadium for World Cup matches will rise to $150.",
-        "de": "New Jersey hat angekündigt, dass die Fahrpreise für den Transport von New York zum MetLife Stadium für die WM-Spiele auf 150 US-Dollar steigen werden."
+        "zh": "巴西总统批评联合国安理会的五个常任理事国，称其为“战争之主”，表达对国际局势的强烈不满。",
+        "en": "Brazil's president criticized the five permanent members of the UN Security Council, calling them 'Lords of War,' expressing strong dissatisfaction with the international situation.",
+        "de": "Der Präsident Brasiliens kritisierte die fünf ständigen Mitglieder des UN-Sicherheitsrates und nannte sie 'Kriegsherren', was seine starke Unzufriedenheit mit der internationalen Lage zum Ausdruck bringt."
       },
       "source": "Al Jazeera",
       "date": "2026-04-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/new-jersey-announces-150-transit-tickets-to-reach-the-world-cup?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/lords-of-war-brazils-president-condemns-un-security?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普感谢海湾国家的“巨大”支持",
-        "en": "Trump thanks Gulf states for their ‘tremendous’ support",
-        "de": "Trump dankt den Golfstaaten für ihre 'tremendous' Unterstützung"
+        "zh": "法国士兵在黎巴嫩袭击中遇害",
+        "en": "French soldier serving with UNIFIL killed in Lebanon attack",
+        "de": "Französischer Soldat im Einsatz bei UNIFIL in Libanon getötet"
       },
       "summary": {
-        "zh": "特朗普在伊朗全面开放霍尔木兹海峡之际，感谢海湾国家的支持，并称这将是“世界伟大而辉煌的一天”。",
-        "en": "Trump thanked Gulf states for their support as Iran fully opens the Strait of Hormuz, calling it a 'great and brilliant day for the world'.",
-        "de": "Trump dankte den Golfstaaten für ihre Unterstützung, als der Iran die Straße von Hormus vollständig öffnete, und nannte es einen 'großen und brillanten Tag für die Welt'."
+        "zh": "在以色列和黎巴嫩宣布停火十天后，联合国驻黎巴嫩临时部队的一名法国士兵在袭击中遇害。",
+        "en": "A French soldier serving with UNIFIL was killed in an attack just days after Israel and Lebanon announced a 10-day ceasefire.",
+        "de": "Ein französischer Soldat, der bei UNIFIL im Einsatz war, wurde in einem Angriff getötet, nur wenige Tage nachdem Israel und Libanon einen 10-tägigen Waffenstillstand angekündigt hatten."
       },
       "source": "Al Jazeera",
       "date": "2026-04-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "我们与数十位中央银行行长、政策制定者和政治家交谈，关于伊朗战争——他们对全球经济的最大担忧",
-        "en": "We spoke to dozens of central bankers, policymakers and politicians about the Iran war — These are their biggest fears for the global economy",
-        "de": "Wir sprachen mit Dutzenden von Zentralbankern, Politikern und Politikern über den Iran-Krieg - Dies sind ihre größten Ängste für die Weltwirtschaft"
-      },
-      "summary": {
-        "zh": "在与中央银行行长和政策制定者的对话中，他们表达了对伊朗战争对全球经济的影响，包括滞胀和能源安全等问题。",
-        "en": "In discussions with central bankers and policymakers, they expressed concerns about the impact of the Iran war on the global economy, including issues like stagflation and energy security.",
-        "de": "In Gesprächen mit Zentralbankern und Politikern äußerten sie Bedenken hinsichtlich der Auswirkungen des Iran-Kriegs auf die Weltwirtschaft, einschließlich Themen wie Stagflation und Energiesicherheit."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-18",
-      "url": "https://www.cnbc.com/2026/04/18/iran-war-inflation-prices-energy-trump-economy-end.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "美联储理事沃勒表示，伊朗战争和劳动力市场风险使中央银行保持观望",
+        "zh": "美联储理事沃勒表示，伊朗战争和劳动市场风险使央行保持观望",
         "en": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
-        "de": "Fed-Gouverneur Waller sagt, dass der Iran-Krieg und Risiken auf dem Arbeitsmarkt die Zentralbank auf der Hut halten"
+        "de": "Fed-Gouverneur Waller sagt, dass der Iran-Krieg und Risiken auf dem Arbeitsmarkt die Zentralbank auf der Stelle halten"
       },
       "summary": {
-        "zh": "美联储理事沃勒表示，当前经济形势使得中央银行在利率政策上保持观望，尤其是在伊朗战争和劳动力市场风险的影响下。",
-        "en": "Fed Governor Waller stated that current economic conditions are keeping the central bank on hold regarding interest rate policies, particularly under the influence of the Iran war and labor market risks.",
-        "de": "Fed-Gouverneur Waller erklärte, dass die aktuellen wirtschaftlichen Bedingungen die Zentralbank in Bezug auf die Zinspolitik auf der Hut halten, insbesondere unter dem Einfluss des Iran-Kriegs und der Risiken auf dem Arbeitsmarkt."
+        "zh": "美联储理事沃勒表示，当前经济形势使得利率政策的制定变得复杂，尤其是在伊朗战争和劳动市场风险的背景下。",
+        "en": "Fed Governor Waller stated that current economic conditions complicate interest rate policy formulation, particularly against the backdrop of the Iran war and labor market risks.",
+        "de": "Fed-Gouverneur Waller erklärte, dass die aktuellen wirtschaftlichen Bedingungen die Formulierung der Zinspolitik komplizieren, insbesondere vor dem Hintergrund des Iran-Kriegs und der Risiken auf dem Arbeitsmarkt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-17",
       "url": "https://www.cnbc.com/2026/04/17/fed-governor-waller-says-iran-war-and-labor-market-risks-are-keeping-central-bank-on-hold.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "纽约联储主席威廉姆斯担心战争将减缓增长，加剧通货膨胀",
+        "zh": "纽约联储主席威廉姆斯担心战争将减缓增长，加剧通胀",
         "en": "New York Fed President Williams worries war will slow growth, aggravate inflation",
-        "de": "New York Fed-Präsident Williams befürchtet, dass der Krieg das Wachstum verlangsamen und die Inflation verschärfen wird"
+        "de": "Präsident der New Yorker Fed Williams befürchtet, dass der Krieg das Wachstum verlangsamen und die Inflation verschärfen wird"
       },
       "summary": {
-        "zh": "纽约联储主席威廉姆斯表示，战争加剧了国家和地方经济的不确定性，可能会减缓经济增长并加剧通货膨胀。",
-        "en": "New York Fed President Williams stated that the war has intensified uncertainty around national and local economies, potentially slowing economic growth and aggravating inflation.",
-        "de": "Der Präsident der New Yorker Fed, Williams, erklärte, dass der Krieg die Unsicherheit über nationale und lokale Volkswirtschaften verstärkt hat, was das Wirtschaftswachstum verlangsamen und die Inflation verschärfen könnte."
+        "zh": "纽约联储主席威廉姆斯指出，战争加剧了国家和地方经济的不确定性，可能会减缓经济增长并加剧通胀。",
+        "en": "New York Fed President Williams noted that the war has intensified uncertainty around national and local economies, potentially slowing growth and aggravating inflation.",
+        "de": "Der Präsident der New Yorker Fed, Williams, stellte fest, dass der Krieg die Unsicherheit in Bezug auf nationale und lokale Volkswirtschaften verstärkt hat, was das Wachstum verlangsamen und die Inflation verschärfen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-16",
       "url": "https://www.cnbc.com/2026/04/16/new-york-fed-president-williams-worries-war-will-slow-growth-aggravate-inflation.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "英国经济在二月份增长0.5%，超出经济学家的预期",
+        "en": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
+        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 % und übertraf die Erwartungen der Ökonomen bei weitem"
+      },
+      "summary": {
+        "zh": "英国经济在二月份的增长率为0.5%，远超经济学家预期的0.1%。",
+        "en": "The UK economy grew by 0.5% in February, significantly exceeding economists' expectations of 0.1%.",
+        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 %, was die Erwartungen der Ökonomen von 0,1 % deutlich übertraf."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-16",
+      "url": "https://www.cnbc.com/2026/04/16/uk-gdp-march-2026-iran-war.html"
     }
   ]
 }
