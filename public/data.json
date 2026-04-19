@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-19T06:16:12.138341+00:00",
+  "generatedAt": "2026-04-19T17:02:13.531595+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "AI战争中的“人类在环”是一个幻觉",
-        "en": "Why having “humans in the loop” in an AI war is an illusion",
-        "de": "Warum es eine Illusion ist, in einem KI-Krieg „Menschen im Loop“ zu haben"
+        "zh": "AI战争中的“人类参与者”是一个幻觉",
+        "en": "Why having 'humans in the loop' in an AI war is an illusion",
+        "de": "Warum es eine Illusion ist, 'Menschen im Loop' in einem KI-Krieg zu haben"
       },
       "summary": {
-        "zh": "人工智能在战争中的应用引发了法律争议，Anthropic与五角大楼之间的辩论集中在“人类在环”的概念上，认为这种想法是虚幻的。",
-        "en": "The use of artificial intelligence in warfare has sparked legal disputes, with a debate between Anthropic and the Pentagon focusing on the concept of 'humans in the loop,' deemed an illusion.",
-        "de": "Der Einsatz von künstlicher Intelligenz in Kriegen hat rechtliche Streitigkeiten ausgelöst, wobei eine Debatte zwischen Anthropic und dem Pentagon sich auf das Konzept der 'Menschen im Loop' konzentriert, das als Illusion angesehen wird."
+        "zh": "人工智能在战争中的使用引发了法律争议，Anthropic与五角大楼之间的辩论集中在“人类参与者”的概念上，认为这种想法是虚幻的。",
+        "en": "The use of artificial intelligence in warfare has sparked legal disputes, with a debate between Anthropic and the Pentagon focusing on the concept of 'humans in the loop', which is deemed an illusion.",
+        "de": "Der Einsatz von künstlicher Intelligenz im Krieg hat rechtliche Auseinandersetzungen ausgelöst, wobei eine Debatte zwischen Anthropic und dem Pentagon sich auf das Konzept der 'Menschen im Loop' konzentriert, das als Illusion angesehen wird."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-16",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "在受限公共部门环境中使AI投入运营",
+        "zh": "在受限公共部门环境中使AI可操作",
         "en": "Making AI operational in constrained public sector environments",
-        "de": "KI in eingeschränkten öffentlichen Sektorumgebungen betriebsbereit machen"
+        "de": "KI in eingeschränkten öffentlichen Sektor-Umgebungen betriebsbereit machen"
       },
       "summary": {
-        "zh": "AI的快速发展促使公共部门组织加快采用步伐，但政府机构面临着在资源有限的环境中有效实施AI的挑战。",
-        "en": "The rapid development of AI is pushing public sector organizations to accelerate adoption, but government agencies face challenges in effectively implementing AI in resource-constrained environments.",
-        "de": "Die rasante Entwicklung von KI zwingt öffentliche Sektororganisationen, die Einführung zu beschleunigen, doch stehen Regierungsbehörden vor Herausforderungen bei der effektiven Implementierung von KI in ressourcenbeschränkten Umgebungen."
+        "zh": "AI的快速发展在各个行业中引发了压力，公共部门组织面临加速采用的压力，同时政府机构也在努力克服实施障碍。",
+        "en": "The rapid development of AI has created pressure across various industries, with public sector organizations facing the challenge of accelerating adoption while government agencies work to overcome implementation barriers.",
+        "de": "Die schnelle Entwicklung von KI hat in verschiedenen Branchen Druck erzeugt, wobei öffentliche Sektororganisationen mit der Herausforderung konfrontiert sind, die Einführung zu beschleunigen, während Regierungsbehörden daran arbeiten, Umsetzungsbarrieren zu überwinden."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-16",
@@ -36,16 +36,16 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "大科技公司越来越接近量子日危险区",
+        "zh": "大科技公司接近量子日危险区的最新进展",
         "en": "Recent advances push Big Tech closer to the Q-Day danger zone",
         "de": "Jüngste Fortschritte bringen Big Tech näher an die Q-Day-Gefahrenzone"
       },
       "summary": {
-        "zh": "随着量子计算技术的进步，大科技公司正在加速向后量子加密的过渡，面临日益增加的安全风险。",
-        "en": "With advancements in quantum computing technology, Big Tech companies are accelerating their transition to post-quantum encryption, facing increasing security risks.",
-        "de": "Mit Fortschritten in der Quantencomputing-Technologie beschleunigen Big-Tech-Unternehmen ihren Übergang zu post-quanten Verschlüsselung und sehen sich zunehmenden Sicherheitsrisiken gegenüber."
+        "zh": "一些大型科技公司在向后量子加密的过渡中取得了进展，这使得它们更接近于量子计算可能带来的安全威胁。",
+        "en": "Some major tech companies have made progress in transitioning to post-quantum cryptography, bringing them closer to the security threats posed by quantum computing.",
+        "de": "Einige große Technologieunternehmen haben Fortschritte beim Übergang zu post-quantum-Kryptografie gemacht, was sie näher an die Sicherheitsbedrohungen bringt, die durch Quantencomputing entstehen."
       },
-      "source": "Ars Technica – AI",
+      "source": "Ars Technica",
       "date": "2026-04-17",
       "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/"
     }
@@ -54,99 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "保加利亚人前往投票选举五年来第八次国会",
-        "en": "Bulgarians head to polls to elect parliament for eighth time in 5 years",
-        "de": "Bulgarien wählt zum achten Mal in fünf Jahren ein Parlament"
+        "zh": "美国媒体报道路易斯安那州发生大规模枪击事件，八名儿童遇难",
+        "en": "Eight children killed in mass shooting in Louisiana, US media reports",
+        "de": "Acht Kinder bei Massenerschießung in Louisiana getötet, berichten US-Medien"
       },
       "summary": {
-        "zh": "保加利亚人投票选举新国会，此次选举是在去年12月大规模抗议活动导致前政府下台后进行的。",
-        "en": "Bulgarians are voting to elect a new parliament, following mass protests that brought down the previous government in December.",
-        "de": "Die Bulgaren wählen ein neues Parlament, nachdem im Dezember Massenproteste die vorherige Regierung gestürzt haben."
+        "zh": "在美国路易斯安那州发生的一起大规模枪击事件中，八名儿童不幸遇难，事件引发了全国范围内的关注和愤怒。",
+        "en": "A mass shooting in Louisiana, USA, has resulted in the tragic deaths of eight children, sparking nationwide attention and outrage.",
+        "de": "Eine Massenerschießung in Louisiana, USA, hat zum tragischen Tod von acht Kindern geführt und landesweite Aufmerksamkeit und Empörung ausgelöst."
       },
       "source": "Al Jazeera",
       "date": "2026-04-19",
-      "url": "https://www.aljazeera.com/news/2026/4/19/bulgarians-head-to-polls-to-elect-parliament-for-eighth-time-in-5-years?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/19/eight-children-killed-in-mass-shooting-in-louisiana-us-media-reports?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "北朝鲜向东海发射弹道导弹",
-        "en": "North Korea launches ballistic missiles towards sea off its east coast",
-        "de": "Nordkorea feuert ballistische Raketen ins Meer vor seiner Ostküste"
+        "zh": "以色列扩建加沙军事基地的卫星图像揭示",
+        "en": "Satellite images reveal Israel expanding Gaza military sites",
+        "de": "Satellitenbilder zeigen, dass Israel militärische Stätten im Gazastreifen erweitert"
       },
       "summary": {
-        "zh": "北朝鲜在今年第七次进行弹道导弹试验，从东部新浦地区发射多枚导弹。",
-        "en": "North Korea has conducted its seventh ballistic missile test this year, firing multiple missiles from the eastern Sinpo area.",
-        "de": "Nordkorea hat in diesem Jahr seinen siebten Test ballistischer Raketen durchgeführt und mehrere Raketen aus dem östlichen Sinpo-Gebiet abgefeuert."
+        "zh": "卫星图像显示，以色列在加沙地区扩建永久军事基地，尽管美国支持的重建计划陷入停滞。",
+        "en": "Satellite images indicate that Israel is expanding permanent military bases in Gaza, even as US-backed reconstruction plans stall.",
+        "de": "Satellitenbilder zeigen, dass Israel permanente Militärbasen im Gazastreifen erweitert, während die von den USA unterstützten Wiederaufbaupläne ins Stocken geraten."
       },
       "source": "Al Jazeera",
       "date": "2026-04-19",
-      "url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/19/satellite-images-reveal-israel-expanding-gaza-military-sites?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "法国维和人员在南黎巴嫩遇害",
-        "en": "Französischer Friedenssoldat in Südlubanon getötet"
+        "zh": "特朗普表示美国谈判代表将前往巴基斯坦进行伊朗谈判",
+        "en": "Trump says US negotiators to head to Pakistan for Iran talks",
+        "de": "Trump sagt, US-Verhandler werden nach Pakistan für Iran-Gespräche reisen"
       },
       "summary": {
-        "zh": "法国总统马克龙指责真主党对这起袭击负责，而真主党否认与此事件有任何关系。",
-        "en": "French President Macron blames Hezbollah for the attack, while Hezbollah denies any connection to the incident.",
-        "de": "Der französische Präsident Macron macht die Hisbollah für den Angriff verantwortlich, während die Hisbollah jede Verbindung zu dem Vorfall bestreitet."
+        "zh": "特朗普宣布美国谈判代表将前往巴基斯坦进行与伊朗的谈判，并指责伊朗违反停火协议，警告德黑兰将面临后果。",
+        "en": "Trump announced that US negotiators will head to Pakistan for talks with Iran, accusing Tehran of violating the ceasefire and warning of repercussions.",
+        "de": "Trump kündigte an, dass US-Verhandler nach Pakistan reisen werden, um mit dem Iran Gespräche zu führen, und beschuldigte Teheran, den Waffenstillstand verletzt zu haben, und warnte vor Konsequenzen."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-04-19",
-      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储官员表示伊朗战争和劳动力市场风险使央行保持观望",
+        "zh": "美联储官员表示伊朗战争和劳动力市场风险使中央银行保持观望",
         "en": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
-        "de": "Fed-Gouverneur Waller sagt, dass der Iran-Krieg und Risiken auf dem Arbeitsmarkt die Zentralbank auf der Hut halten"
+        "de": "Fed-Gouverneur Waller sagt, dass der Iran-Krieg und Risiken auf dem Arbeitsmarkt die Zentralbank auf der Stelle halten"
       },
       "summary": {
-        "zh": "美联储官员表示，当前经济形势使得利率政策的制定变得复杂，尤其是在伊朗战争和劳动力市场风险的背景下。",
-        "en": "Federal Reserve officials indicate that current economic conditions complicate the formulation of interest rate policies, particularly in the context of the Iran war and labor market risks.",
-        "de": "Die Beamten der Federal Reserve geben an, dass die aktuellen wirtschaftlichen Bedingungen die Formulierung der Zinspolitik komplizieren, insbesondere im Kontext des Iran-Kriegs und der Risiken auf dem Arbeitsmarkt."
+        "zh": "美联储官员表示，当前经济形势复杂，伊朗战争和劳动力市场的风险使得中央银行在利率政策上保持观望。",
+        "en": "Federal Reserve officials indicated that the current economic conditions are complex, with risks from the Iran war and labor market keeping the central bank on hold regarding interest rate policy.",
+        "de": "Die Beamten der Federal Reserve gaben an, dass die aktuellen wirtschaftlichen Bedingungen komplex sind, wobei Risiken durch den Iran-Krieg und den Arbeitsmarkt die Zentralbank in Bezug auf die Zinspolitik auf der Stelle halten."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-04-17",
       "url": "https://www.cnbc.com/2026/04/17/fed-governor-waller-says-iran-war-and-labor-market-risks-are-keeping-central-bank-on-hold.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "纽约联邦储备银行行长担忧战争将减缓增长，加剧通胀",
+        "zh": "纽约联储主席担忧战争将减缓增长，加剧通货膨胀",
         "en": "New York Fed President Williams worries war will slow growth, aggravate inflation",
-        "de": "Präsident der New Yorker Fed Williams befürchtet, dass der Krieg das Wachstum verlangsamen und die Inflation verschärfen wird"
+        "de": "Der Präsident der New Yorker Fed, Williams, befürchtet, dass der Krieg das Wachstum verlangsamen und die Inflation verschärfen wird"
       },
       "summary": {
-        "zh": "纽约联邦储备银行行长表示，战争加剧了国家和地方经济的不确定性，可能导致经济增长放缓和通货膨胀加剧。",
-        "en": "The President of the New York Fed expresses concerns that the war is intensifying uncertainty around national and local economies, potentially leading to slower growth and aggravated inflation.",
-        "de": "Der Präsident der New Yorker Fed äußert Bedenken, dass der Krieg die Unsicherheit in Bezug auf nationale und lokale Volkswirtschaften verstärkt, was zu einem langsameren Wachstum und einer verschärften Inflation führen könnte."
+        "zh": "纽约联邦储备银行的主席威廉姆斯表示，战争可能会减缓经济增长，并加剧通货膨胀的不确定性。",
+        "en": "New York Fed President Williams expressed concerns that the war could slow economic growth and exacerbate inflation uncertainty.",
+        "de": "Der Präsident der New Yorker Fed, Williams, äußerte Bedenken, dass der Krieg das Wirtschaftswachstum verlangsamen und die Unsicherheit über die Inflation verschärfen könnte."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-04-16",
       "url": "https://www.cnbc.com/2026/04/16/new-york-fed-president-williams-worries-war-will-slow-growth-aggravate-inflation.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "英国经济在2月份增长0.5%，大幅超出经济学家的预期",
-        "en": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
-        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 % und übertraf die Erwartungen der Ökonomen bei weitem"
+        "zh": "S&P 500在史诗般的反弹中突破7000点",
+        "en": "The S&P 500 blows past 7,000 in an epic comeback rally",
+        "de": "Der S&P 500 überwindet in einem epischen Comeback-Rally die 7.000 Punkte"
       },
       "summary": {
-        "zh": "英国经济在2月份的增长率为0.5%，远超经济学家预期的0.1%，显示出经济复苏的迹象。",
-        "en": "The UK economy grew by 0.5% in February, significantly exceeding economists' expectations of 0.1%, indicating signs of economic recovery.",
-        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 %, was die Erwartungen der Ökonomen von 0,1 % deutlich übertraf und Anzeichen einer wirtschaftlichen Erholung zeigt."
+        "zh": "尽管伊朗战争可能尚未结束，但股市对未来的乐观情绪推动S&P 500指数在反弹中突破7000点。",
+        "en": "Despite the Iran war possibly not being over, optimism in the stock market has propelled the S&P 500 index past 7,000 in a comeback rally.",
+        "de": "Trotz der Tatsache, dass der Iran-Krieg möglicherweise noch nicht vorbei ist, hat der Optimismus an den Aktienmärkten den S&P 500-Index in einem Comeback-Rally über 7.000 Punkte gehoben."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-16",
-      "url": "https://www.cnbc.com/2026/04/16/uk-gdp-march-2026-iran-war.html"
+      "source": "MarketWatch",
+      "date": "2026-04-19",
+      "url": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories"
     }
   ]
 }
