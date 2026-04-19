@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-04-18T17:02:31.193852+00:00",
+  "generatedAt": "2026-04-19T06:16:12.138341+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "内心的尼安德特人坏消息，人工智能战争中的人类幻觉：今天的下载",
-        "en": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-        "de": "Der Download: schlechte Nachrichten für innere Neandertaler und die menschliche Illusion im KI-Krieg"
+        "zh": "AI战争中的“人类在环”是一个幻觉",
+        "en": "Why having “humans in the loop” in an AI war is an illusion",
+        "de": "Warum es eine Illusion ist, in einem KI-Krieg „Menschen im Loop“ zu haben"
       },
       "summary": {
-        "zh": "人工智能在战争中的使用引发了法律争议，Anthropic与五角大楼之间的辩论集中在“人类在环”这一概念上。",
-        "en": "The use of artificial intelligence in warfare has sparked legal disputes, with a debate between Anthropic and the Pentagon focusing on the concept of 'humans in the loop.'",
-        "de": "Der Einsatz von künstlicher Intelligenz in Kriegen hat rechtliche Auseinandersetzungen ausgelöst, wobei eine Debatte zwischen Anthropic und dem Pentagon sich auf das Konzept der 'Menschen im Loop' konzentriert."
+        "zh": "人工智能在战争中的应用引发了法律争议，Anthropic与五角大楼之间的辩论集中在“人类在环”的概念上，认为这种想法是虚幻的。",
+        "en": "The use of artificial intelligence in warfare has sparked legal disputes, with a debate between Anthropic and the Pentagon focusing on the concept of 'humans in the loop,' deemed an illusion.",
+        "de": "Der Einsatz von künstlicher Intelligenz in Kriegen hat rechtliche Streitigkeiten ausgelöst, wobei eine Debatte zwischen Anthropic und dem Pentagon sich auf das Konzept der 'Menschen im Loop' konzentriert, das als Illusion angesehen wird."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-17",
-      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/"
+      "date": "2026-04-16",
+      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "在受限公共部门环境中使人工智能可操作",
+        "zh": "在受限公共部门环境中使AI投入运营",
         "en": "Making AI operational in constrained public sector environments",
-        "de": "Künstliche Intelligenz in eingeschränkten öffentlichen Sektorumgebungen operational machen"
+        "de": "KI in eingeschränkten öffentlichen Sektorumgebungen betriebsbereit machen"
       },
       "summary": {
-        "zh": "公共部门面临加速采用人工智能的压力，政府机构在此过程中面临多重挑战。",
-        "en": "Public sector organizations are under pressure to accelerate AI adoption, facing multiple challenges in the process.",
-        "de": "Öffentliche Sektororganisationen stehen unter Druck, die Einführung von KI zu beschleunigen, und sehen sich dabei mehreren Herausforderungen gegenüber."
+        "zh": "AI的快速发展促使公共部门组织加快采用步伐，但政府机构面临着在资源有限的环境中有效实施AI的挑战。",
+        "en": "The rapid development of AI is pushing public sector organizations to accelerate adoption, but government agencies face challenges in effectively implementing AI in resource-constrained environments.",
+        "de": "Die rasante Entwicklung von KI zwingt öffentliche Sektororganisationen, die Einführung zu beschleunigen, doch stehen Regierungsbehörden vor Herausforderungen bei der effektiven Implementierung von KI in ressourcenbeschränkten Umgebungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-16",
@@ -36,82 +36,81 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "将企业人工智能视为操作层",
-        "en": "Treating enterprise AI as an operating layer",
-        "de": "Unternehmens-KI als Betriebsschicht betrachten"
+        "zh": "大科技公司越来越接近量子日危险区",
+        "en": "Recent advances push Big Tech closer to the Q-Day danger zone",
+        "de": "Jüngste Fortschritte bringen Big Tech näher an die Q-Day-Gefahrenzone"
       },
       "summary": {
-        "zh": "企业人工智能的讨论仍然集中在基础模型上，而未能关注其作为操作层的潜力。",
-        "en": "The discussion around enterprise AI still focuses on foundational models, missing the potential of treating it as an operating layer.",
-        "de": "Die Diskussion über Unternehmens-KI konzentriert sich weiterhin auf grundlegende Modelle und verpasst das Potenzial, sie als Betriebsschicht zu betrachten."
+        "zh": "随着量子计算技术的进步，大科技公司正在加速向后量子加密的过渡，面临日益增加的安全风险。",
+        "en": "With advancements in quantum computing technology, Big Tech companies are accelerating their transition to post-quantum encryption, facing increasing security risks.",
+        "de": "Mit Fortschritten in der Quantencomputing-Technologie beschleunigen Big-Tech-Unternehmen ihren Übergang zu post-quanten Verschlüsselung und sehen sich zunehmenden Sicherheitsrisiken gegenüber."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-04-16",
-      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"
+      "source": "Ars Technica – AI",
+      "date": "2026-04-17",
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "‘没有遗憾’：委内瑞拉的马查多为将诺贝尔奖颁给特朗普辩护",
-        "en": "‘No regrets’: Venezuela’s Machado defends giving Nobel medal to Trump",
-        "de": "‘Keine Reue’: Venezuelas Machado verteidigt die Übergabe der Nobelmedaille an Trump"
+        "zh": "保加利亚人前往投票选举五年来第八次国会",
+        "en": "Bulgarians head to polls to elect parliament for eighth time in 5 years",
+        "de": "Bulgarien wählt zum achten Mal in fünf Jahren ein Parlament"
       },
       "summary": {
-        "zh": "委内瑞拉政治家玛丽亚·科琳娜·马查多在特朗普捕获尼古拉斯·马杜罗后，将她的诺贝尔和平奖颁给了特朗普，并表示没有遗憾。",
-        "en": "Venezuelan politician Maria Corina Machado defended giving her Nobel Peace Prize to Trump after he captured Nicolas Maduro, stating she has no regrets.",
-        "de": "Die venezolanische Politikerin Maria Corina Machado verteidigte die Übergabe ihres Friedensnobelpreises an Trump, nachdem dieser Nicolas Maduro gefangen genommen hatte, und erklärte, sie habe keine Reue."
+        "zh": "保加利亚人投票选举新国会，此次选举是在去年12月大规模抗议活动导致前政府下台后进行的。",
+        "en": "Bulgarians are voting to elect a new parliament, following mass protests that brought down the previous government in December.",
+        "de": "Die Bulgaren wählen ein neues Parlament, nachdem im Dezember Massenproteste die vorherige Regierung gestürzt haben."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-18",
-      "url": "https://www.aljazeera.com/news/2026/4/18/no-regrets-venezuelas-machado-defends-giving-nobel-medal-to-trump?traffic_source=rss"
+      "date": "2026-04-19",
+      "url": "https://www.aljazeera.com/news/2026/4/19/bulgarians-head-to-polls-to-elect-parliament-for-eighth-time-in-5-years?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "巴西总统谴责联合国安理会：‘战争之主’",
-        "en": "“Lords of war.” Brazil’s president condemns UN Security Council",
-        "de": "„Kriegsherren.“ Brasiliens Präsident verurteilt den UN-Sicherheitsrat"
+        "zh": "北朝鲜向东海发射弹道导弹",
+        "en": "North Korea launches ballistic missiles towards sea off its east coast",
+        "de": "Nordkorea feuert ballistische Raketen ins Meer vor seiner Ostküste"
       },
       "summary": {
-        "zh": "巴西总统批评联合国安理会的五个常任理事国，称其为“战争之主”，表达对国际局势的强烈不满。",
-        "en": "Brazil's president criticized the five permanent members of the UN Security Council, calling them 'Lords of War,' expressing strong dissatisfaction with the international situation.",
-        "de": "Der Präsident Brasiliens kritisierte die fünf ständigen Mitglieder des UN-Sicherheitsrates und nannte sie 'Kriegsherren', was seine starke Unzufriedenheit mit der internationalen Lage zum Ausdruck bringt."
+        "zh": "北朝鲜在今年第七次进行弹道导弹试验，从东部新浦地区发射多枚导弹。",
+        "en": "North Korea has conducted its seventh ballistic missile test this year, firing multiple missiles from the eastern Sinpo area.",
+        "de": "Nordkorea hat in diesem Jahr seinen siebten Test ballistischer Raketen durchgeführt und mehrere Raketen aus dem östlichen Sinpo-Gebiet abgefeuert."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/18/lords-of-war-brazils-president-condemns-un-security?traffic_source=rss"
+      "date": "2026-04-19",
+      "url": "https://www.aljazeera.com/news/2026/4/19/north-korea-launches-ballistic-missiles-towards-sea-off-its-east-coast?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "法国士兵在黎巴嫩袭击中遇害",
-        "en": "French soldier serving with UNIFIL killed in Lebanon attack",
-        "de": "Französischer Soldat im Einsatz bei UNIFIL in Libanon getötet"
+        "zh": "法国维和人员在南黎巴嫩遇害",
+        "en": "Französischer Friedenssoldat in Südlubanon getötet"
       },
       "summary": {
-        "zh": "在以色列和黎巴嫩宣布停火十天后，联合国驻黎巴嫩临时部队的一名法国士兵在袭击中遇害。",
-        "en": "A French soldier serving with UNIFIL was killed in an attack just days after Israel and Lebanon announced a 10-day ceasefire.",
-        "de": "Ein französischer Soldat, der bei UNIFIL im Einsatz war, wurde in einem Angriff getötet, nur wenige Tage nachdem Israel und Libanon einen 10-tägigen Waffenstillstand angekündigt hatten."
+        "zh": "法国总统马克龙指责真主党对这起袭击负责，而真主党否认与此事件有任何关系。",
+        "en": "French President Macron blames Hezbollah for the attack, while Hezbollah denies any connection to the incident.",
+        "de": "Der französische Präsident Macron macht die Hisbollah für den Angriff verantwortlich, während die Hisbollah jede Verbindung zu dem Vorfall bestreitet."
       },
-      "source": "Al Jazeera",
-      "date": "2026-04-18",
-      "url": "https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-04-19",
+      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储理事沃勒表示，伊朗战争和劳动市场风险使央行保持观望",
+        "zh": "美联储官员表示伊朗战争和劳动力市场风险使央行保持观望",
         "en": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
-        "de": "Fed-Gouverneur Waller sagt, dass der Iran-Krieg und Risiken auf dem Arbeitsmarkt die Zentralbank auf der Stelle halten"
+        "de": "Fed-Gouverneur Waller sagt, dass der Iran-Krieg und Risiken auf dem Arbeitsmarkt die Zentralbank auf der Hut halten"
       },
       "summary": {
-        "zh": "美联储理事沃勒表示，当前经济形势使得利率政策的制定变得复杂，尤其是在伊朗战争和劳动市场风险的背景下。",
-        "en": "Fed Governor Waller stated that current economic conditions complicate interest rate policy formulation, particularly against the backdrop of the Iran war and labor market risks.",
-        "de": "Fed-Gouverneur Waller erklärte, dass die aktuellen wirtschaftlichen Bedingungen die Formulierung der Zinspolitik komplizieren, insbesondere vor dem Hintergrund des Iran-Kriegs und der Risiken auf dem Arbeitsmarkt."
+        "zh": "美联储官员表示，当前经济形势使得利率政策的制定变得复杂，尤其是在伊朗战争和劳动力市场风险的背景下。",
+        "en": "Federal Reserve officials indicate that current economic conditions complicate the formulation of interest rate policies, particularly in the context of the Iran war and labor market risks.",
+        "de": "Die Beamten der Federal Reserve geben an, dass die aktuellen wirtschaftlichen Bedingungen die Formulierung der Zinspolitik komplizieren, insbesondere im Kontext des Iran-Kriegs und der Risiken auf dem Arbeitsmarkt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-17",
@@ -120,14 +119,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "纽约联储主席威廉姆斯担心战争将减缓增长，加剧通胀",
+        "zh": "纽约联邦储备银行行长担忧战争将减缓增长，加剧通胀",
         "en": "New York Fed President Williams worries war will slow growth, aggravate inflation",
         "de": "Präsident der New Yorker Fed Williams befürchtet, dass der Krieg das Wachstum verlangsamen und die Inflation verschärfen wird"
       },
       "summary": {
-        "zh": "纽约联储主席威廉姆斯指出，战争加剧了国家和地方经济的不确定性，可能会减缓经济增长并加剧通胀。",
-        "en": "New York Fed President Williams noted that the war has intensified uncertainty around national and local economies, potentially slowing growth and aggravating inflation.",
-        "de": "Der Präsident der New Yorker Fed, Williams, stellte fest, dass der Krieg die Unsicherheit in Bezug auf nationale und lokale Volkswirtschaften verstärkt hat, was das Wachstum verlangsamen und die Inflation verschärfen könnte."
+        "zh": "纽约联邦储备银行行长表示，战争加剧了国家和地方经济的不确定性，可能导致经济增长放缓和通货膨胀加剧。",
+        "en": "The President of the New York Fed expresses concerns that the war is intensifying uncertainty around national and local economies, potentially leading to slower growth and aggravated inflation.",
+        "de": "Der Präsident der New Yorker Fed äußert Bedenken, dass der Krieg die Unsicherheit in Bezug auf nationale und lokale Volkswirtschaften verstärkt, was zu einem langsameren Wachstum und einer verschärften Inflation führen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-16",
@@ -136,14 +135,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "英国经济在二月份增长0.5%，超出经济学家的预期",
+        "zh": "英国经济在2月份增长0.5%，大幅超出经济学家的预期",
         "en": "UK economy grew 0.5% in February, beating economists' expectations by a long shot",
         "de": "Die britische Wirtschaft wuchs im Februar um 0,5 % und übertraf die Erwartungen der Ökonomen bei weitem"
       },
       "summary": {
-        "zh": "英国经济在二月份的增长率为0.5%，远超经济学家预期的0.1%。",
-        "en": "The UK economy grew by 0.5% in February, significantly exceeding economists' expectations of 0.1%.",
-        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 %, was die Erwartungen der Ökonomen von 0,1 % deutlich übertraf."
+        "zh": "英国经济在2月份的增长率为0.5%，远超经济学家预期的0.1%，显示出经济复苏的迹象。",
+        "en": "The UK economy grew by 0.5% in February, significantly exceeding economists' expectations of 0.1%, indicating signs of economic recovery.",
+        "de": "Die britische Wirtschaft wuchs im Februar um 0,5 %, was die Erwartungen der Ökonomen von 0,1 % deutlich übertraf und Anzeichen einer wirtschaftlichen Erholung zeigt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-16",
