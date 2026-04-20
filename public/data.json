@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-04-19T17:02:13.531595+00:00",
+  "generatedAt": "2026-04-20T06:32:57.628684+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "AI战争中的“人类参与者”是一个幻觉",
-        "en": "Why having 'humans in the loop' in an AI war is an illusion",
-        "de": "Warum es eine Illusion ist, 'Menschen im Loop' in einem KI-Krieg zu haben"
+        "zh": "内在尼安德特人的坏消息，以及人工智能战争中的人类幻觉：今天的下载",
+        "en": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+        "de": "Der Download: schlechte Nachrichten für innere Neandertaler und die menschliche Illusion im KI-Krieg"
       },
       "summary": {
-        "zh": "人工智能在战争中的使用引发了法律争议，Anthropic与五角大楼之间的辩论集中在“人类参与者”的概念上，认为这种想法是虚幻的。",
-        "en": "The use of artificial intelligence in warfare has sparked legal disputes, with a debate between Anthropic and the Pentagon focusing on the concept of 'humans in the loop', which is deemed an illusion.",
-        "de": "Der Einsatz von künstlicher Intelligenz im Krieg hat rechtliche Auseinandersetzungen ausgelöst, wobei eine Debatte zwischen Anthropic und dem Pentagon sich auf das Konzept der 'Menschen im Loop' konzentriert, das als Illusion angesehen wird."
+        "zh": "今天的下载讨论了内在尼安德特人的研究结果以及人工智能在战争中的应用所引发的法律争议，特别是人类在这一过程中的角色。",
+        "en": "Today's Download discusses findings related to inner Neanderthals and the legal controversies surrounding the use of artificial intelligence in warfare, particularly the role of humans in this process.",
+        "de": "Der heutige Download behandelt Ergebnisse zu inneren Neandertalern und die rechtlichen Kontroversen rund um den Einsatz von künstlicher Intelligenz in Kriegen, insbesondere die Rolle der Menschen in diesem Prozess."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-16",
-      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/"
+      "date": "2026-04-17",
+      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "在受限公共部门环境中使AI可操作",
+        "zh": "在受限公共部门环境中使人工智能操作化",
         "en": "Making AI operational in constrained public sector environments",
-        "de": "KI in eingeschränkten öffentlichen Sektor-Umgebungen betriebsbereit machen"
+        "de": "Künstliche Intelligenz in eingeschränkten öffentlichen Sektoren operational machen"
       },
       "summary": {
-        "zh": "AI的快速发展在各个行业中引发了压力，公共部门组织面临加速采用的压力，同时政府机构也在努力克服实施障碍。",
-        "en": "The rapid development of AI has created pressure across various industries, with public sector organizations facing the challenge of accelerating adoption while government agencies work to overcome implementation barriers.",
-        "de": "Die schnelle Entwicklung von KI hat in verschiedenen Branchen Druck erzeugt, wobei öffentliche Sektororganisationen mit der Herausforderung konfrontiert sind, die Einführung zu beschleunigen, während Regierungsbehörden daran arbeiten, Umsetzungsbarrieren zu überwinden."
+        "zh": "这篇文章探讨了公共部门在人工智能快速发展的背景下面临的挑战，以及如何在资源有限的环境中有效地实施人工智能技术。",
+        "en": "This article explores the challenges faced by the public sector amidst the rapid development of artificial intelligence and how to effectively implement AI technologies in resource-constrained environments.",
+        "de": "Dieser Artikel untersucht die Herausforderungen, mit denen der öffentliche Sektor angesichts der rasanten Entwicklung der künstlichen Intelligenz konfrontiert ist, und wie KI-Technologien in ressourcenbeschränkten Umgebungen effektiv implementiert werden können."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-16",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "大科技公司接近量子日危险区的最新进展",
-        "en": "Recent advances push Big Tech closer to the Q-Day danger zone",
-        "de": "Jüngste Fortschritte bringen Big Tech näher an die Q-Day-Gefahrenzone"
+        "zh": "将企业人工智能视为操作层",
+        "en": "Treating enterprise AI as an operating layer",
+        "de": "Unternehmens-KI als Betriebsschicht betrachten"
       },
       "summary": {
-        "zh": "一些大型科技公司在向后量子加密的过渡中取得了进展，这使得它们更接近于量子计算可能带来的安全威胁。",
-        "en": "Some major tech companies have made progress in transitioning to post-quantum cryptography, bringing them closer to the security threats posed by quantum computing.",
-        "de": "Einige große Technologieunternehmen haben Fortschritte beim Übergang zu post-quantum-Kryptografie gemacht, was sie näher an die Sicherheitsbedrohungen bringt, die durch Quantencomputing entstehen."
+        "zh": "本文讨论了企业人工智能的不同层面，强调了将其视为操作层的重要性，以提高效率和响应能力。",
+        "en": "This article discusses the different aspects of enterprise AI, emphasizing the importance of treating it as an operating layer to enhance efficiency and responsiveness.",
+        "de": "Dieser Artikel behandelt die verschiedenen Aspekte der Unternehmens-KI und betont die Bedeutung, sie als Betriebsschicht zu betrachten, um Effizienz und Reaktionsfähigkeit zu verbessern."
       },
-      "source": "Ars Technica",
-      "date": "2026-04-17",
-      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/"
+      "source": "MIT Technology Review",
+      "date": "2026-04-16",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国媒体报道路易斯安那州发生大规模枪击事件，八名儿童遇难",
-        "en": "Eight children killed in mass shooting in Louisiana, US media reports",
-        "de": "Acht Kinder bei Massenerschießung in Louisiana getötet, berichten US-Medien"
+        "zh": "在以色列士兵亵渎耶稣基督雕像后引发愤怒",
+        "en": "Outrage after Israeli soldier desecrates statue of Jesus Christ in Lebanon",
+        "de": "Empörung nach der Entweihung einer Jesus-Christus-Statue durch einen israelischen Soldaten im Libanon"
       },
       "summary": {
-        "zh": "在美国路易斯安那州发生的一起大规模枪击事件中，八名儿童不幸遇难，事件引发了全国范围内的关注和愤怒。",
-        "en": "A mass shooting in Louisiana, USA, has resulted in the tragic deaths of eight children, sparking nationwide attention and outrage.",
-        "de": "Eine Massenerschießung in Louisiana, USA, hat zum tragischen Tod von acht Kindern geführt und landesweite Aufmerksamkeit und Empörung ausgelöst."
+        "zh": "以色列士兵在黎巴嫩破坏耶稣基督雕像的照片引发了广泛的愤怒，许多人对此表示谴责。",
+        "en": "A photo of an Israeli soldier desecrating a statue of Jesus Christ in Lebanon has sparked widespread outrage, with many condemning the act.",
+        "de": "Ein Foto eines israelischen Soldaten, der eine Jesus-Christus-Statue im Libanon entweiht, hat weit verbreitete Empörung ausgelöst, wobei viele die Tat verurteilen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-19",
-      "url": "https://www.aljazeera.com/news/2026/4/19/eight-children-killed-in-mass-shooting-in-louisiana-us-media-reports?traffic_source=rss"
+      "date": "2026-04-20",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/outrage-after-israeli-soldier-desecrates-statue-of-jesus-christ-in-lebanon?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列扩建加沙军事基地的卫星图像揭示",
-        "en": "Satellite images reveal Israel expanding Gaza military sites",
-        "de": "Satellitenbilder zeigen, dass Israel militärische Stätten im Gazastreifen erweitert"
+        "zh": "黎巴嫩流离失所者面临艰难选择",
+        "en": "To stay or to go? No good options for Lebanon’s displaced",
+        "de": "Bleiben oder gehen? Keine guten Optionen für die Vertriebenen im Libanon"
       },
       "summary": {
-        "zh": "卫星图像显示，以色列在加沙地区扩建永久军事基地，尽管美国支持的重建计划陷入停滞。",
-        "en": "Satellite images indicate that Israel is expanding permanent military bases in Gaza, even as US-backed reconstruction plans stall.",
-        "de": "Satellitenbilder zeigen, dass Israel permanente Militärbasen im Gazastreifen erweitert, während die von den USA unterstützten Wiederaufbaupläne ins Stocken geraten."
+        "zh": "南黎巴嫩的居民面临艰难的选择：留在家中冒着生命危险，还是逃离并面临加深贫困的风险。",
+        "en": "Residents of southern Lebanon face a stark choice: stay home and risk being killed, or flee and risk deepening poverty.",
+        "de": "Die Bewohner des südlichen Libanon stehen vor einer harten Wahl: Zu Hause bleiben und das Risiko eingehen, getötet zu werden, oder fliehen und das Risiko einer vertieften Armut eingehen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-19",
-      "url": "https://www.aljazeera.com/news/2026/4/19/satellite-images-reveal-israel-expanding-gaza-military-sites?traffic_source=rss"
+      "date": "2026-04-20",
+      "url": "https://www.aljazeera.com/features/2026/4/20/to-stay-or-to-go-no-good-options-for-lebanon-displaced?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普表示美国谈判代表将前往巴基斯坦进行伊朗谈判",
-        "en": "Trump says US negotiators to head to Pakistan for Iran talks",
-        "de": "Trump sagt, US-Verhandler werden nach Pakistan für Iran-Gespräche reisen"
+        "zh": "美国军队提高入伍年龄至42岁的背后原因",
+        "en": "What’s behind the US army’s decision to raise enlistment age to 42?",
+        "de": "Was steckt hinter der Entscheidung der US-Armee, das Eintrittsalter auf 42 Jahre zu erhöhen?"
       },
       "summary": {
-        "zh": "特朗普宣布美国谈判代表将前往巴基斯坦进行与伊朗的谈判，并指责伊朗违反停火协议，警告德黑兰将面临后果。",
-        "en": "Trump announced that US negotiators will head to Pakistan for talks with Iran, accusing Tehran of violating the ceasefire and warning of repercussions.",
-        "de": "Trump kündigte an, dass US-Verhandler nach Pakistan reisen werden, um mit dem Iran Gespräche zu führen, und beschuldigte Teheran, den Waffenstillstand verletzt zu haben, und warnte vor Konsequenzen."
+        "zh": "美国军队提高入伍年龄的变化可能是为了提高招募人数，因为近年来招募数字一直处于低迷状态。",
+        "en": "Changes in US Army enlistment standards could be an effort to boost recruitment as numbers have lagged in recent years.",
+        "de": "Änderungen der Rekrutierungsstandards der US-Armee könnten ein Versuch sein, die Rekrutierung zu steigern, da die Zahlen in den letzten Jahren zurückgegangen sind."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-19",
-      "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss"
+      "date": "2026-04-20",
+      "url": "https://www.aljazeera.com/news/2026/4/20/whats-behind-the-us-armys-decision-to-raise-enlistment-age-to-42?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储官员表示伊朗战争和劳动力市场风险使中央银行保持观望",
-        "en": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
-        "de": "Fed-Gouverneur Waller sagt, dass der Iran-Krieg und Risiken auf dem Arbeitsmarkt die Zentralbank auf der Stelle halten"
+        "zh": "“敌对国家”进行的1500万美元劫案",
+        "en": "US-sanctioned currency exchange says $15 million heist done by 'unfriendly states'",
+        "de": "Von den USA sanktionierter Währungswechsel sagt, dass der 15-Millionen-Dollar-Raub von 'unfreundlichen Staaten' durchgeführt wurde"
       },
       "summary": {
-        "zh": "美联储官员表示，当前经济形势复杂，伊朗战争和劳动力市场的风险使得中央银行在利率政策上保持观望。",
-        "en": "Federal Reserve officials indicated that the current economic conditions are complex, with risks from the Iran war and labor market keeping the central bank on hold regarding interest rate policy.",
-        "de": "Die Beamten der Federal Reserve gaben an, dass die aktuellen wirtschaftlichen Bedingungen komplex sind, wobei Risiken durch den Iran-Krieg und den Arbeitsmarkt die Zentralbank in Bezug auf die Zinspolitik auf der Stelle halten."
+        "zh": "Grinex声称，进行1500万美元劫案的黑客资源“仅限于敌对国家”，这引发了对网络安全的担忧。",
+        "en": "Grinex claims that the hacking resources needed for the $15 million heist are 'available exclusively to unfriendly states,' raising concerns about cybersecurity.",
+        "de": "Grinex behauptet, dass die für den 15-Millionen-Dollar-Raub benötigten Hacking-Ressourcen 'ausschließlich feindlichen Staaten zur Verfügung stehen', was Bedenken hinsichtlich der Cybersicherheit aufwirft."
+      },
+      "source": "Ars Technica",
+      "date": "2026-04-17",
+      "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "美联储官员表示伊朗战争和劳动市场风险使利率保持不变",
+        "en": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
+        "de": "Fed-Gouverneur Waller sagt, dass der Iran-Krieg und Risiken auf dem Arbeitsmarkt die Zentralbank auf Eis halten"
+      },
+      "summary": {
+        "zh": "美联储官员表示，当前经济形势使得利率政策的制定变得复杂，尤其是在伊朗战争和劳动市场风险的背景下。",
+        "en": "Federal Reserve officials state that current economic conditions complicate the formulation of interest rate policies, particularly in the context of the Iran war and labor market risks.",
+        "de": "Die Beamten der Federal Reserve geben an, dass die aktuellen wirtschaftlichen Bedingungen die Formulierung der Zinspolitik komplizieren, insbesondere im Kontext des Iran-Kriegs und der Risiken auf dem Arbeitsmarkt."
       },
       "source": "CNBC",
       "date": "2026-04-17",
       "url": "https://www.cnbc.com/2026/04/17/fed-governor-waller-says-iran-war-and-labor-market-risks-are-keeping-central-bank-on-hold.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "纽约联储主席担忧战争将减缓增长，加剧通货膨胀",
-        "en": "New York Fed President Williams worries war will slow growth, aggravate inflation",
-        "de": "Der Präsident der New Yorker Fed, Williams, befürchtet, dass der Krieg das Wachstum verlangsamen und die Inflation verschärfen wird"
-      },
-      "summary": {
-        "zh": "纽约联邦储备银行的主席威廉姆斯表示，战争可能会减缓经济增长，并加剧通货膨胀的不确定性。",
-        "en": "New York Fed President Williams expressed concerns that the war could slow economic growth and exacerbate inflation uncertainty.",
-        "de": "Der Präsident der New Yorker Fed, Williams, äußerte Bedenken, dass der Krieg das Wirtschaftswachstum verlangsamen und die Unsicherheit über die Inflation verschärfen könnte."
-      },
-      "source": "CNBC",
-      "date": "2026-04-16",
-      "url": "https://www.cnbc.com/2026/04/16/new-york-fed-president-williams-worries-war-will-slow-growth-aggravate-inflation.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "S&P 500在史诗般的反弹中突破7000点",
-        "en": "The S&P 500 blows past 7,000 in an epic comeback rally",
-        "de": "Der S&P 500 überwindet in einem epischen Comeback-Rally die 7.000 Punkte"
+        "zh": "油价飙升，因美国和伊朗和平谈判信号混杂",
+        "en": "Oil prices surge amid mixed signals on US-Iran peace talks",
+        "de": "Ölpreise steigen aufgrund gemischter Signale zu den US-Iran-Friedensgesprächen"
       },
       "summary": {
-        "zh": "尽管伊朗战争可能尚未结束，但股市对未来的乐观情绪推动S&P 500指数在反弹中突破7000点。",
-        "en": "Despite the Iran war possibly not being over, optimism in the stock market has propelled the S&P 500 index past 7,000 in a comeback rally.",
-        "de": "Trotz der Tatsache, dass der Iran-Krieg möglicherweise noch nicht vorbei ist, hat der Optimismus an den Aktienmärkten den S&P 500-Index in einem Comeback-Rally über 7.000 Punkte gehoben."
+        "zh": "由于华盛顿和德黑兰在停火谈判中提供了相互矛盾的消息，布伦特原油价格上涨超过7%。",
+        "en": "Brent crude rises more than 7% as Washington and Tehran offer conflicting accounts on ceasefire negotiations.",
+        "de": "Der Brent-Rohölpreis steigt um mehr als 7%, da Washington und Teheran widersprüchliche Berichte über die Verhandlungen zum Waffenstillstand liefern."
       },
-      "source": "MarketWatch",
-      "date": "2026-04-19",
-      "url": "https://www.marketwatch.com/story/the-s-p-500-blowed-past-7-000-in-an-epic-comeback-rally-heres-why-it-can-keep-going-higher-632d6a38?mod=mw_rss_topstories"
+      "source": "Al Jazeera",
+      "date": "2026-04-20",
+      "url": "https://www.aljazeera.com/economy/2026/4/20/oil-prices-surge-amid-mixed-signals-on-us-iran-peace-talks?traffic_source=rss"
     }
   ]
 }
