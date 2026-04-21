@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-21T06:21:56.710630+00:00",
+  "generatedAt": "2026-04-21T17:32:00.394283+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：凶残的“镜像”细菌，以及中国工人与AI双胞胎的斗争",
-        "en": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-        "de": "Der Download: mörderische 'Spiegel'-Bakterien und chinesische Arbeiter kämpfen gegen KI-Doubles"
+        "zh": "下载：降低人类噪音，洛杉矶令人惊叹的地铁升级",
+        "en": "The Download: turning down human noise, and LA’s stunning subway upgrade",
+        "de": "Der Download: Menschliches Geräusch reduzieren und die beeindruckende U-Bahn-Aufrüstung von LA"
       },
       "summary": {
-        "zh": "今天的《下载》报道了中国科技工人被要求训练AI代理以取代他们的现象，以及一种新发现的凶残细菌。此类细菌的研究可能会影响生物技术领域的未来。",
-        "en": "Today's Download covers the phenomenon of Chinese tech workers being instructed to train AI agents to replace them, alongside a newly discovered murderous bacteria. This research could impact the future of biotechnology.",
-        "de": "Der heutige Download behandelt das Phänomen, dass chinesische Technikarbeiter angewiesen werden, KI-Agenten zu trainieren, um sie zu ersetzen, sowie eine neu entdeckte mörderische Bakterienart. Diese Forschung könnte die Zukunft der Biotechnologie beeinflussen."
+        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括洛杉矶地铁的升级和如何降低人类噪音的讨论。",
+        "en": "Today's edition of The Download provides updates on the tech world, including the upgrade of LA's subway and discussions on reducing human noise.",
+        "de": "Die heutige Ausgabe des Downloads bietet Neuigkeiten aus der Technikwelt, einschließlich des Upgrades der U-Bahn von LA und Diskussionen über die Reduzierung menschlicher Geräusche."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-20",
-      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/"
+      "date": "2026-04-21",
+      "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "Colossal Biosciences称其克隆了红狼。是真的吗？",
-        "en": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-        "de": "Colossal Biosciences behauptet, es habe rote Wölfe geklont. Ist das echt?"
-      },
-      "summary": {
-        "zh": "Colossal Biosciences声称成功克隆了红狼，这一消息引发了广泛的关注和质疑。专家们对克隆技术的有效性和伦理性表示担忧。",
-        "en": "Colossal Biosciences claims to have successfully cloned red wolves, sparking widespread attention and skepticism. Experts express concerns about the efficacy and ethics of cloning technology.",
-        "de": "Colossal Biosciences behauptet, erfolgreich rote Wölfe geklont zu haben, was weitreichende Aufmerksamkeit und Skepsis auslöst. Experten äußern Bedenken hinsichtlich der Wirksamkeit und Ethik der Klontechnologie."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-04-20",
-      "url": "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
         "zh": "中国科技工人开始训练他们的AI双胞胎，并进行反击",
-        "en": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-        "de": "Chinesische Technikarbeiter beginnen, ihre KI-Doubles zu trainieren – und wehren sich"
+        "en": "Chinese tech workers are starting to train their AI doubles—and pushing back",
+        "de": "Chinesische Techniker beginnen, ihre KI-Zwillinge zu trainieren – und wehren sich"
       },
       "summary": {
-        "zh": "中国科技工人被迫训练AI以取代他们，这引发了广泛的反思和抗议。工人们开始反击，要求更好的工作条件和对AI的合理使用。",
-        "en": "Chinese tech workers are being forced to train AI to replace them, prompting widespread reflection and protests. Workers are beginning to push back, demanding better working conditions and responsible use of AI.",
-        "de": "Chinesische Technikarbeiter sind gezwungen, KI zu trainieren, um sie zu ersetzen, was weitreichende Überlegungen und Proteste auslöst. Die Arbeiter beginnen, sich zu wehren und fordern bessere Arbeitsbedingungen sowie einen verantwortungsvollen Umgang mit KI."
+        "zh": "中国科技工人在被要求训练AI代理以取代他们的同时，开始进行反击，反映出对未来工作的担忧。",
+        "en": "Chinese tech workers are beginning to push back as they are instructed to train AI agents to replace them, reflecting concerns about the future of work.",
+        "de": "Chinesische Techniker beginnen, sich zu wehren, während sie angewiesen werden, KI-Agenten zu trainieren, die sie ersetzen sollen, was Bedenken über die Zukunft der Arbeit widerspiegelt."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-20",
       "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "与流行迷信相反，AES 128在后量子世界中完全可以",
+        "en": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+        "de": "Entgegen der gängigen Superstition ist AES 128 in einer post-quanten Welt völlig in Ordnung"
+      },
+      "summary": {
+        "zh": "一项研究表明，AES 128在后量子计算环境中仍然是安全的，这一发现挑战了流行的误解。",
+        "en": "A study indicates that AES 128 remains secure in a post-quantum computing environment, challenging popular misconceptions.",
+        "de": "Eine Studie zeigt, dass AES 128 in einer post-quanten Computerumgebung weiterhin sicher ist und damit gängige Missverständnisse herausfordert."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-04-21",
+      "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗战争导致印度陶瓷中心失业和逆向迁移",
-        "en": "Iran war forces job losses, reverse migration in India’s ceramic hub",
-        "de": "Der Iran-Krieg führt zu Arbeitsplatzverlusten und umgekehrter Migration im indischen Keramikzentrum"
+        "zh": "以色列性暴力助推巴勒斯坦人离开西岸：报告",
+        "en": "Israeli sexual violence helping push Palestinians from West Bank: Report",
+        "de": "Israelische sexuelle Gewalt hilft, Palästinenser aus dem Westjordanland zu vertreiben: Bericht"
       },
       "summary": {
-        "zh": "由于燃料危机，印度古吉拉特邦的陶瓷行业受到严重打击，许多工厂关闭，工人失业。此情况导致了工人的逆向迁移。",
-        "en": "The ceramics industry in Gujarat, India, has been severely impacted by the fuel crisis, leading to factory closures and job losses. This has resulted in a reverse migration of workers.",
-        "de": "Die Keramikindustrie in Gujarat, Indien, ist stark von der Treibstoffkrise betroffen, was zu Fabrikschließungen und Arbeitsplatzverlusten führt. Dies hat zu einer umgekehrten Migration von Arbeitern geführt."
+        "zh": "一份报告指出，以色列定居者和士兵的性暴力行为导致至少16起与冲突相关的案件，进一步加剧了巴勒斯坦人的流离失所。",
+        "en": "A report highlights at least 16 cases of conflict-related sexual violence attributed to Israeli settlers and soldiers, exacerbating the displacement of Palestinians.",
+        "de": "Ein Bericht hebt mindestens 16 Fälle von konfliktbezogener sexueller Gewalt hervor, die israelischen Siedlern und Soldaten zugeschrieben werden, und verschärft die Vertreibung der Palästinenser."
       },
       "source": "Al Jazeera",
       "date": "2026-04-21",
-      "url": "https://www.aljazeera.com/news/2026/4/21/iran-war-forces-job-losses-reverse-migration-in-indias-ceramic-hub?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国退伍军人在国会抗议伊朗战争时被捕",
-        "en": "US veterans arrested in Capitol during protest against the war on Iran",
-        "de": "US-Veteranen während Protesten gegen den Krieg im Iran im Kapitol festgenommen"
+        "zh": "欧盟法院裁定匈牙利LGBTQ法违反人权",
+        "en": "EU court rules Hungary’s LGBTQ law violates human rights",
+        "de": "EuGH entscheidet, dass Ungarns LGBTQ-Gesetz Menschenrechte verletzt"
       },
       "summary": {
-        "zh": "在国会大厦内，美国退伍军人在抗议伊朗战争时被捕，显示出对当前军事行动的强烈反对情绪。",
-        "en": "US veterans were arrested in the Capitol during protests against the war on Iran, highlighting strong opposition to the current military actions.",
-        "de": "US-Veteranen wurden im Kapitol während Protesten gegen den Krieg im Iran festgenommen, was die starke Opposition gegen die aktuellen militärischen Aktionen verdeutlicht."
+        "zh": "欧洲法院裁定匈牙利总理欧尔班政府的法律在多个层面上违反了欧盟法律，标志着对LGBTQ权利的重大胜利。",
+        "en": "The European Court has ruled that the law by PM Viktor Orban's government breaches EU law on multiple levels, marking a significant victory for LGBTQ rights.",
+        "de": "Der Europäische Gerichtshof hat entschieden, dass das Gesetz der Regierung von Ministerpräsident Viktor Orban auf mehreren Ebenen gegen das EU-Recht verstößt, was einen bedeutenden Sieg für die LGBTQ-Rechte darstellt."
       },
       "source": "Al Jazeera",
       "date": "2026-04-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/us-veterans-arrested-in-capitol-during-protest-against-the-war-on-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "日本解除致命武器出口禁令，重大转变和平主义政策",
-        "en": "Japan lifts ban on lethal weapons exports in major shift of pacifist policy",
-        "de": "Japan hebt das Verbot des Exports von tödlichen Waffen auf, was einen bedeutenden Wandel in der pazifistischen Politik darstellt"
+        "zh": "特朗普表示反对在谈判不确定性中延长伊朗停火",
+        "en": "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
+        "de": "Trump sagt, er sei gegen die Verlängerung des Iran-Waffenstillstands angesichts der Unsicherheit der Gespräche"
       },
       "summary": {
-        "zh": "日本宣布解除对致命武器出口的禁令，标志着其长期和平主义政策的重大转变。这一决定可能会影响国际安全局势。",
-        "en": "Japan has announced the lifting of its ban on lethal weapons exports, marking a significant shift in its long-standing pacifist policy. This decision could impact international security dynamics.",
-        "de": "Japan hat die Aufhebung seines Verbots für den Export von tödlichen Waffen angekündigt, was einen bedeutenden Wandel in seiner langjährigen pazifistischen Politik darstellt. Diese Entscheidung könnte die internationalen Sicherheitsdynamiken beeinflussen."
+        "zh": "美国总统特朗普表示，伊朗在巴基斯坦的谈判中“别无选择”，必须接受“伟大的”协议，反对延长停火。",
+        "en": "US President Trump stated that Iran has 'no choice' but to accept a 'great' deal in negotiations in Pakistan, opposing the extension of the ceasefire.",
+        "de": "US-Präsident Trump erklärte, dass Iran 'keine Wahl' hat, als ein 'großes' Abkommen in den Verhandlungen in Pakistan zu akzeptieren, und sich gegen die Verlängerung des Waffenstillstands aussprach."
       },
       "source": "Al Jazeera",
       "date": "2026-04-21",
-      "url": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/21/trump-says-he-opposes-extending-iran-ceasefire-amid-talks-uncertainty?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国与伊朗的和平谈判停滞，双方言辞升级",
+        "zh": "关税退款周一开始。这些零售商将获得丰厚的回报",
+        "en": "Tariff refunds begin on Monday. These retailers are due big paydays",
+        "de": "Zollrückerstattungen beginnen am Montag. Diese Einzelhändler stehen vor großen Auszahlungen"
+      },
+      "summary": {
+        "zh": "美国进口商如沃尔玛和塔吉特将在周一开始申请数十亿美元的关税退款，这将对他们的财务状况产生重大影响。",
+        "en": "U.S. importers like Walmart and Target are set to apply for billions in tariff refunds starting Monday, which will have a significant impact on their financials.",
+        "de": "US-Importeure wie Walmart und Target werden ab Montag Milliarden an Zollrückerstattungen beantragen, was erhebliche Auswirkungen auf ihre Finanzen haben wird."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-21",
+      "url": "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "美伊紧张局势升级，和平谈判陷入僵局",
         "en": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
         "de": "‘Neue Karten auf dem Schlachtfeld’: USA und Iran verschärfen die Rhetorik, während Friedensgespräche ins Stocken geraten"
       },
       "summary": {
-        "zh": "美国与伊朗的和平谈判陷入僵局，双方的言辞愈发激烈，可能对市场产生影响。分析师指出，美国谈判代表可能在谈判桌上处于劣势。",
-        "en": "US-Iran peace talks are stalled, with both sides escalating rhetoric, potentially impacting the markets. Analysts suggest that American negotiators may be outmatched at the negotiating table.",
-        "de": "Die Friedensgespräche zwischen den USA und dem Iran sind ins Stocken geraten, während beide Seiten die Rhetorik verschärfen, was potenziell Auswirkungen auf die Märkte haben könnte. Analysten deuten darauf hin, dass die amerikanischen Verhandler am Verhandlungstisch möglicherweise im Nachteil sind."
+        "zh": "美国与伊朗之间的紧张局势加剧，分析师表示，美国谈判代表可能在谈判桌上被伊朗的经验丰富的外交代表所压制。",
+        "en": "Tensions between the U.S. and Iran are escalating, with analysts suggesting that American negotiators may be outmatched by Iran's experienced diplomatic delegation at the negotiating table.",
+        "de": "Die Spannungen zwischen den USA und dem Iran eskalieren, wobei Analysten darauf hinweisen, dass die amerikanischen Verhandlungsführer möglicherweise von der erfahrenen diplomatischen Delegation des Iran am Verhandlungstisch übertroffen werden."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-21",
       "url": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "关税退款将于周一开始。这些零售商将获得巨额退款",
-        "en": "Tariff refunds begin on Monday. These retailers are due big paydays",
-        "de": "Zollrückerstattungen beginnen am Montag. Diese Einzelhändler erwarten große Auszahlungen"
-      },
-      "summary": {
-        "zh": "美国进口商如沃尔玛和塔吉特将在周一开始申请巨额关税退款，预计将获得数十亿美元的退款。这一政策将对零售市场产生重大影响。",
-        "en": "US importers like Walmart and Target will begin applying for substantial tariff refunds on Monday, expected to total billions. This policy will have significant implications for the retail market.",
-        "de": "US-Importeure wie Walmart und Target werden am Montag mit der Beantragung erheblicher Zollrückerstattungen beginnen, die voraussichtlich Milliarden betragen werden. Diese Politik wird erhebliche Auswirkungen auf den Einzelhandelsmarkt haben."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-20",
-      "url": "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "美联储主席提名人凯文·沃什表示，美联储必须“保持独立”",
-        "en": "Chair nominee Kevin Warsh says Fed must ‘stay in its lane’ to maintain independence",
-        "de": "Der Vorsitzende der Fed-Nominierung Kevin Warsh sagt, die Fed müsse 'in ihrem Bereich bleiben', um unabhängig zu bleiben"
+        "zh": "特斯拉财报时投资者真正关心的是什么",
+        "en": "Here’s what will really matter to Tesla investors when the company reports earnings",
+        "de": "Das wird für Tesla-Investoren wirklich wichtig sein, wenn das Unternehmen die Ergebnisse bekannt gibt"
       },
       "summary": {
-        "zh": "美联储主席提名人凯文·沃什表示，美联储必须保持独立，以有效应对通货膨胀。他强调了对劳动力市场的关注。",
-        "en": "Fed chair nominee Kevin Warsh stated that the Fed must maintain its independence to effectively address inflation. He emphasized the importance of focusing on the labor market.",
-        "de": "Der Fed-Vorsitzende Nominierte Kevin Warsh erklärte, dass die Fed ihre Unabhängigkeit wahren müsse, um effektiv auf die Inflation zu reagieren. Er betonte die Bedeutung der Fokussierung auf den Arbeitsmarkt."
+        "zh": "特斯拉即将发布财报，投资者将更加关注公司的未来故事而非财务数字。",
+        "en": "As Tesla prepares to report earnings, investors are expected to focus more on the company's future narrative rather than the financial numbers.",
+        "de": "Während Tesla sich auf die Bekanntgabe der Ergebnisse vorbereitet, wird erwartet, dass die Investoren mehr auf die zukünftige Erzählung des Unternehmens als auf die finanziellen Zahlen achten."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-20",
-      "url": "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-21",
+      "url": "https://www.marketwatch.com/story/heres-what-will-really-matter-to-tesla-investors-when-it-reports-earnings-ba621f85?mod=mw_rss_topstories"
     }
   ]
 }
