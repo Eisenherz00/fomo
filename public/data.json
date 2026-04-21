@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-20T17:33:38.084659+00:00",
+  "generatedAt": "2026-04-21T06:21:56.710630+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：凶残的“镜像”细菌，以及中国工人对抗人工智能双胞胎",
+        "zh": "下载：凶残的“镜像”细菌，以及中国工人与AI双胞胎的斗争",
         "en": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
-        "de": "Der Download: mörderische 'Spiegel'-Bakterien und chinesische Arbeiter, die gegen KI-Doubles kämpfen"
+        "de": "Der Download: mörderische 'Spiegel'-Bakterien und chinesische Arbeiter kämpfen gegen KI-Doubles"
       },
       "summary": {
-        "zh": "今天的《下载》报道了中国科技工人被要求训练人工智能代理以取代他们的现象，以及一种新发现的凶残“镜像”细菌。科技行业的变化引发了工人的深思。",
-        "en": "Today's Download covers the phenomenon of Chinese tech workers being instructed to train AI agents to replace them, alongside a newly discovered murderous 'mirror' bacteria. The changes in the tech industry are prompting soul-searching among workers.",
-        "de": "Der heutige Download behandelt das Phänomen, dass chinesische Techniker angewiesen werden, KI-Agenten zu trainieren, die sie ersetzen sollen, sowie eine neu entdeckte mörderische 'Spiegel'-Bakterie. Die Veränderungen in der Technologiebranche führen zu Selbstreflexion unter den Arbeitern."
+        "zh": "今天的《下载》报道了中国科技工人被要求训练AI代理以取代他们的现象，以及一种新发现的凶残细菌。此类细菌的研究可能会影响生物技术领域的未来。",
+        "en": "Today's Download covers the phenomenon of Chinese tech workers being instructed to train AI agents to replace them, alongside a newly discovered murderous bacteria. This research could impact the future of biotechnology.",
+        "de": "Der heutige Download behandelt das Phänomen, dass chinesische Technikarbeiter angewiesen werden, KI-Agenten zu trainieren, um sie zu ersetzen, sowie eine neu entdeckte mörderische Bakterienart. Diese Forschung könnte die Zukunft der Biotechnologie beeinflussen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-20",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "Colossal Biosciences称其克隆了红狼。这是真的吗？",
+        "zh": "Colossal Biosciences称其克隆了红狼。是真的吗？",
         "en": "Colossal Biosciences said it cloned red wolves. Is it for real?",
-        "de": "Colossal Biosciences behauptet, sie hätten rote Wölfe geklont. Ist das echt?"
+        "de": "Colossal Biosciences behauptet, es habe rote Wölfe geklont. Ist das echt?"
       },
       "summary": {
-        "zh": "Colossal Biosciences宣称成功克隆了红狼，这一消息引发了广泛关注。文章探讨了这一声明的真实性及其科学背景。",
-        "en": "Colossal Biosciences claims to have successfully cloned red wolves, a statement that has garnered widespread attention. The article explores the authenticity of this claim and its scientific background.",
-        "de": "Colossal Biosciences behauptet, sie hätten rote Wölfe erfolgreich geklont, eine Aussage, die große Aufmerksamkeit erregt hat. Der Artikel untersucht die Authentizität dieser Behauptung und ihren wissenschaftlichen Hintergrund."
+        "zh": "Colossal Biosciences声称成功克隆了红狼，这一消息引发了广泛的关注和质疑。专家们对克隆技术的有效性和伦理性表示担忧。",
+        "en": "Colossal Biosciences claims to have successfully cloned red wolves, sparking widespread attention and skepticism. Experts express concerns about the efficacy and ethics of cloning technology.",
+        "de": "Colossal Biosciences behauptet, erfolgreich rote Wölfe geklont zu haben, was weitreichende Aufmerksamkeit und Skepsis auslöst. Experten äußern Bedenken hinsichtlich der Wirksamkeit und Ethik der Klontechnologie."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-20",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "中国科技工人开始训练他们的人工智能双胞胎，并进行反击",
+        "zh": "中国科技工人开始训练他们的AI双胞胎，并进行反击",
         "en": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-        "de": "Chinesische Techniker beginnen, ihre KI-Doubles zu trainieren – und wehren sich"
+        "de": "Chinesische Technikarbeiter beginnen, ihre KI-Doubles zu trainieren – und wehren sich"
       },
       "summary": {
-        "zh": "中国的科技工人被迫训练人工智能以取代他们，这引发了广泛的反思和抵制。文章分析了这一现象对劳动市场的潜在影响。",
-        "en": "Chinese tech workers are being forced to train AI to replace them, prompting widespread reflection and pushback. The article analyzes the potential impact of this phenomenon on the labor market.",
-        "de": "Chinesische Techniker sind gezwungen, KI zu trainieren, um sie zu ersetzen, was zu weitreichenden Überlegungen und Widerstand führt. Der Artikel analysiert die potenziellen Auswirkungen dieses Phänomens auf den Arbeitsmarkt."
+        "zh": "中国科技工人被迫训练AI以取代他们，这引发了广泛的反思和抗议。工人们开始反击，要求更好的工作条件和对AI的合理使用。",
+        "en": "Chinese tech workers are being forced to train AI to replace them, prompting widespread reflection and protests. Workers are beginning to push back, demanding better working conditions and responsible use of AI.",
+        "de": "Chinesische Technikarbeiter sind gezwungen, KI zu trainieren, um sie zu ersetzen, was weitreichende Überlegungen und Proteste auslöst. Die Arbeiter beginnen, sich zu wehren und fordern bessere Arbeitsbedingungen sowie einen verantwortungsvollen Umgang mit KI."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-20",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国推出关税退款系统，数千进口商排队",
-        "en": "US launches tariff refund system as thousands of importers line up",
-        "de": "Die USA starten ein Tariff-Rückerstattungssystem, während Tausende von Importeuren Schlange stehen"
+        "zh": "伊朗战争导致印度陶瓷中心失业和逆向迁移",
+        "en": "Iran war forces job losses, reverse migration in India’s ceramic hub",
+        "de": "Der Iran-Krieg führt zu Arbeitsplatzverlusten und umgekehrter Migration im indischen Keramikzentrum"
       },
       "summary": {
-        "zh": "美国推出了一项新的关税退款系统，超过33万名进口商为53百万件进口商品支付了高达1660亿美元的关税。此举旨在减轻进口商的经济负担。",
-        "en": "The US has launched a new tariff refund system, with over 330,000 importers having paid up to $166 billion in tariffs on 53 million shipments of imported goods. This move aims to alleviate the economic burden on importers.",
-        "de": "Die USA haben ein neues Tariff-Rückerstattungssystem eingeführt, bei dem über 330.000 Importeure bis zu 166 Milliarden Dollar an Zöllen für 53 Millionen Sendungen importierter Waren gezahlt haben. Dieser Schritt soll die wirtschaftliche Belastung der Importeure verringern."
+        "zh": "由于燃料危机，印度古吉拉特邦的陶瓷行业受到严重打击，许多工厂关闭，工人失业。此情况导致了工人的逆向迁移。",
+        "en": "The ceramics industry in Gujarat, India, has been severely impacted by the fuel crisis, leading to factory closures and job losses. This has resulted in a reverse migration of workers.",
+        "de": "Die Keramikindustrie in Gujarat, Indien, ist stark von der Treibstoffkrise betroffen, was zu Fabrikschließungen und Arbeitsplatzverlusten führt. Dies hat zu einer umgekehrten Migration von Arbeitern geführt."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-20",
-      "url": "https://www.aljazeera.com/economy/2026/4/20/us-launches-tariff-refund-system-as-thousands-of-importers-line-up?traffic_source=rss"
+      "date": "2026-04-21",
+      "url": "https://www.aljazeera.com/news/2026/4/21/iran-war-forces-job-losses-reverse-migration-in-indias-ceramic-hub?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "黎巴嫩和以色列将在周四再次会面进行直接谈判，美国表示",
-        "en": "Lebanon, Israel to meet again Thursday for direct talks, US says",
-        "de": "Libanon und Israel treffen sich am Donnerstag erneut zu direkten Gesprächen, sagt die USA"
+        "zh": "美国退伍军人在国会抗议伊朗战争时被捕",
+        "en": "US veterans arrested in Capitol during protest against the war on Iran",
+        "de": "US-Veteranen während Protesten gegen den Krieg im Iran im Kapitol festgenommen"
       },
       "summary": {
-        "zh": "美国确认黎巴嫩和以色列之间将进行第二轮谈判，此时以色列军方正在摧毁黎巴嫩城镇。此举可能影响地区的稳定。",
-        "en": "The US has confirmed that Lebanon and Israel will engage in a second round of negotiations while the Israeli military is annihilating Lebanese towns. This move could impact regional stability.",
-        "de": "Die USA haben bestätigt, dass Libanon und Israel eine zweite Verhandlungsrunde führen werden, während das israelische Militär libanesische Städte zerstört. Dieser Schritt könnte die regionale Stabilität beeinträchtigen."
+        "zh": "在国会大厦内，美国退伍军人在抗议伊朗战争时被捕，显示出对当前军事行动的强烈反对情绪。",
+        "en": "US veterans were arrested in the Capitol during protests against the war on Iran, highlighting strong opposition to the current military actions.",
+        "de": "US-Veteranen wurden im Kapitol während Protesten gegen den Krieg im Iran festgenommen, was die starke Opposition gegen die aktuellen militärischen Aktionen verdeutlicht."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-20",
-      "url": "https://www.aljazeera.com/news/2026/4/20/lebanon-israel-to-meet-again-thursday-for-direct-talks-us-says?traffic_source=rss"
+      "date": "2026-04-21",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/us-veterans-arrested-in-capitol-during-protest-against-the-war-on-iran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "马克龙呼吁“大家冷静下来”，因为美伊谈判临近",
-        "en": "‘Everyone must calm down’, Macron urges as US-Iran talks near",
-        "de": "‘Alle müssen sich beruhigen’, fordert Macron, da die US-Iran-Gespräche näher rücken"
+        "zh": "日本解除致命武器出口禁令，重大转变和平主义政策",
+        "en": "Japan lifts ban on lethal weapons exports in major shift of pacifist policy",
+        "de": "Japan hebt das Verbot des Exports von tödlichen Waffen auf, was einen bedeutenden Wandel in der pazifistischen Politik darstellt"
       },
       "summary": {
-        "zh": "法国总统马克龙呼吁各方保持冷静，并维护美国、以色列、伊朗和黎巴嫩之间的停火协议。此时局势紧张，谈判即将进行。",
-        "en": "French President Macron urges all parties to remain calm and maintain the ceasefire agreement among the US, Israel, Iran, and Lebanon as tensions rise and negotiations approach.",
-        "de": "Der französische Präsident Macron fordert alle Parteien auf, ruhig zu bleiben und das Waffenstillstandsabkommen zwischen den USA, Israel, Iran und Libanon aufrechtzuerhalten, während die Spannungen steigen und die Verhandlungen näher rücken."
+        "zh": "日本宣布解除对致命武器出口的禁令，标志着其长期和平主义政策的重大转变。这一决定可能会影响国际安全局势。",
+        "en": "Japan has announced the lifting of its ban on lethal weapons exports, marking a significant shift in its long-standing pacifist policy. This decision could impact international security dynamics.",
+        "de": "Japan hat die Aufhebung seines Verbots für den Export von tödlichen Waffen angekündigt, was einen bedeutenden Wandel in seiner langjährigen pazifistischen Politik darstellt. Diese Entscheidung könnte die internationalen Sicherheitsdynamiken beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/everyone-must-calm-down-macron-urges-as-us-iran-talks-near?traffic_source=rss"
+      "date": "2026-04-21",
+      "url": "https://www.aljazeera.com/news/2026/4/21/japan-lifts-ban-on-lethal-weapons-exports-in-major-shift-of-pacifist-policy?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "主席提名人凯文·沃什表示，美联储必须“保持在其轨道上”以维护独立性",
-        "en": "Chair nominee Kevin Warsh says Fed must ‘stay in its lane’ to maintain independence",
-        "de": "Vorsitzendenkandidat Kevin Warsh sagt, die Fed müsse 'in ihrem Bereich bleiben', um die Unabhängigkeit zu wahren"
+        "zh": "美国与伊朗的和平谈判停滞，双方言辞升级",
+        "en": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+        "de": "‘Neue Karten auf dem Schlachtfeld’: USA und Iran verschärfen die Rhetorik, während Friedensgespräche ins Stocken geraten"
       },
       "summary": {
-        "zh": "美联储主席提名人凯文·沃什在国会听证会上表示，美联储必须专注于其核心职能，以维护其独立性，并强调对抗通货膨胀的重要性。",
-        "en": "Federal Reserve chair nominee Kevin Warsh stated during his congressional hearing that the Fed must focus on its core functions to maintain its independence, emphasizing the importance of combating inflation.",
-        "de": "Der Vorsitzendenkandidat der Federal Reserve, Kevin Warsh, erklärte während seiner Anhörung im Kongress, dass die Fed sich auf ihre Kernfunktionen konzentrieren müsse, um ihre Unabhängigkeit zu wahren, und betonte die Bedeutung des Kampfes gegen die Inflation."
+        "zh": "美国与伊朗的和平谈判陷入僵局，双方的言辞愈发激烈，可能对市场产生影响。分析师指出，美国谈判代表可能在谈判桌上处于劣势。",
+        "en": "US-Iran peace talks are stalled, with both sides escalating rhetoric, potentially impacting the markets. Analysts suggest that American negotiators may be outmatched at the negotiating table.",
+        "de": "Die Friedensgespräche zwischen den USA und dem Iran sind ins Stocken geraten, während beide Seiten die Rhetorik verschärfen, was potenziell Auswirkungen auf die Märkte haben könnte. Analysten deuten darauf hin, dass die amerikanischen Verhandler am Verhandlungstisch möglicherweise im Nachteil sind."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-20",
-      "url": "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html"
+      "date": "2026-04-21",
+      "url": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "“敌对国家”进行的1500万美元劫案，受美国制裁的货币兑换商称",
-        "en": "US-sanctioned currency exchange says $15 million heist done by 'unfriendly states'",
-        "de": "Von den USA sanktionierter Währungsumtausch sagt, dass der 15-Millionen-Dollar-Raub von 'unfreundlichen Staaten' durchgeführt wurde"
+        "zh": "关税退款将于周一开始。这些零售商将获得巨额退款",
+        "en": "Tariff refunds begin on Monday. These retailers are due big paydays",
+        "de": "Zollrückerstattungen beginnen am Montag. Diese Einzelhändler erwarten große Auszahlungen"
       },
       "summary": {
-        "zh": "一家受美国制裁的货币兑换商声称，1500万美元的劫案是由“敌对国家”实施的。这一事件可能对市场信心产生影响。",
-        "en": "A US-sanctioned currency exchange claims that a $15 million heist was carried out by 'unfriendly states.' This incident could impact market confidence.",
-        "de": "Ein von den USA sanktionierter Währungsumtausch behauptet, dass ein Raubüberfall in Höhe von 15 Millionen Dollar von 'unfreundlichen Staaten' durchgeführt wurde. Dieser Vorfall könnte das Marktvertrauen beeinträchtigen."
+        "zh": "美国进口商如沃尔玛和塔吉特将在周一开始申请巨额关税退款，预计将获得数十亿美元的退款。这一政策将对零售市场产生重大影响。",
+        "en": "US importers like Walmart and Target will begin applying for substantial tariff refunds on Monday, expected to total billions. This policy will have significant implications for the retail market.",
+        "de": "US-Importeure wie Walmart und Target werden am Montag mit der Beantragung erheblicher Zollrückerstattungen beginnen, die voraussichtlich Milliarden betragen werden. Diese Politik wird erhebliche Auswirkungen auf den Einzelhandelsmarkt haben."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-04-17",
-      "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
+      "source": "CNBC – Markets",
+      "date": "2026-04-20",
+      "url": "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "‘敌对国家’进行的1500万美元劫案，受美国制裁的货币兑换商称",
-        "en": "Recent advances push Big Tech closer to the Q-Day danger zone",
-        "de": "Jüngste Fortschritte bringen Big Tech näher an die Q-Day-Gefahrenzone"
+        "zh": "美联储主席提名人凯文·沃什表示，美联储必须“保持独立”",
+        "en": "Chair nominee Kevin Warsh says Fed must ‘stay in its lane’ to maintain independence",
+        "de": "Der Vorsitzende der Fed-Nominierung Kevin Warsh sagt, die Fed müsse 'in ihrem Bereich bleiben', um unabhängig zu bleiben"
       },
       "summary": {
-        "zh": "随着技术的进步，大型科技公司正在逐步接近量子计算可能带来的风险。文章探讨了这些进展对市场的潜在影响。",
-        "en": "With recent technological advancements, Big Tech is gradually approaching the risks posed by quantum computing. The article discusses the potential implications of these advancements for the market.",
-        "de": "Mit den jüngsten technologischen Fortschritten nähern sich große Technologieunternehmen allmählich den Risiken, die durch Quantencomputing entstehen. Der Artikel erörtert die potenziellen Auswirkungen dieser Fortschritte auf den Markt."
+        "zh": "美联储主席提名人凯文·沃什表示，美联储必须保持独立，以有效应对通货膨胀。他强调了对劳动力市场的关注。",
+        "en": "Fed chair nominee Kevin Warsh stated that the Fed must maintain its independence to effectively address inflation. He emphasized the importance of focusing on the labor market.",
+        "de": "Der Fed-Vorsitzende Nominierte Kevin Warsh erklärte, dass die Fed ihre Unabhängigkeit wahren müsse, um effektiv auf die Inflation zu reagieren. Er betonte die Bedeutung der Fokussierung auf den Arbeitsmarkt."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-04-17",
-      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/"
+      "source": "CNBC – Markets",
+      "date": "2026-04-20",
+      "url": "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html"
     }
   ]
 }
