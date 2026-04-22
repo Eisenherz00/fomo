@@ -1,133 +1,133 @@
 {
-  "generatedAt": "2026-04-22T06:20:34.723114+00:00",
+  "generatedAt": "2026-04-22T17:30:00.198211+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "圆桌会议：揭示当前人工智能中重要的10件事",
-        "en": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
-        "de": "Rundtischgespräche: Enthüllung der 10 Dinge, die jetzt in der KI wichtig sind"
+        "zh": "下载：介绍当前人工智能领域的10件重要事情",
+        "en": "The Download: introducing the 10 Things That Matter in AI Right Now",
+        "de": "Der Download: Einführung der 10 Dinge, die jetzt in der KI wichtig sind"
       },
       "summary": {
-        "zh": "在MIT技术评论的EmTech AI会议上，专家们讨论了当前人工智能领域的十大重要议题，涵盖了技术、伦理和未来发展等方面。",
-        "en": "At the EmTech AI conference by MIT Technology Review, experts discussed the ten most important topics in the field of artificial intelligence, covering technology, ethics, and future developments.",
-        "de": "Auf der EmTech AI-Konferenz der MIT Technology Review diskutierten Experten die zehn wichtigsten Themen im Bereich der künstlichen Intelligenz, die Technologie, Ethik und zukünftige Entwicklungen umfassen."
+        "zh": "今天的下载提供了关于人工智能领域的最新动态，包括当前最重要的十个议题。",
+        "en": "Today's Download provides the latest updates in the field of artificial intelligence, highlighting the ten most important topics currently.",
+        "de": "Der heutige Download bietet die neuesten Updates im Bereich der künstlichen Intelligenz und hebt die zehn wichtigsten Themen hervor."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-21",
-      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/"
+      "date": "2026-04-22",
+      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "一种天然蛋白质可能保护胃肠道免受感染",
-        "en": "A natural protein may protect the GI tract from infection",
-        "de": "Ein natürliches Protein könnte den Magen-Darm-Trakt vor Infektionen schützen"
+        "zh": "人工智能需要强大的数据架构以提供商业价值",
+        "en": "AI needs a strong data fabric to deliver business value",
+        "de": "KI benötigt eine starke Datenstruktur, um Geschäftswert zu liefern"
       },
       "summary": {
-        "zh": "麻省理工学院的研究小组发现，嵌入身体粘膜表面的蛋白质可以与细胞表面的糖结合，从而可能保护胃肠道免受感染。",
-        "en": "A research team at MIT has discovered that proteins embedded in the body's mucosal surfaces can bind to sugars on cell surfaces, potentially protecting the GI tract from infection.",
-        "de": "Ein Forschungsteam am MIT hat entdeckt, dass in den Schleimhautoberflächen des Körpers eingebettete Proteine an Zucker auf Zelloberflächen binden können, was möglicherweise den Magen-Darm-Trakt vor Infektionen schützt."
+        "zh": "人工智能正在迅速进入企业应用，组织正在部署各种智能助手和代理，需要强大的数据架构来实现其商业价值。",
+        "en": "Artificial intelligence is rapidly moving into enterprise applications, with organizations deploying various copilots and agents, necessitating a strong data fabric to realize its business value.",
+        "de": "Künstliche Intelligenz bewegt sich schnell in Unternehmensanwendungen, wobei Organisationen verschiedene Co-Piloten und Agenten einsetzen, was eine starke Datenstruktur erforderlich macht, um ihren Geschäftswert zu realisieren."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-21",
-      "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/"
+      "date": "2026-04-22",
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "这一工具可能展示意识如何运作",
-        "en": "This tool could show how consciousness works",
-        "de": "Dieses Werkzeug könnte zeigen, wie Bewusstsein funktioniert"
+        "zh": "与流行迷信相反，AES 128在后量子世界中仍然有效",
+        "en": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
+        "de": "Entgegen der weit verbreiteten Aberglauben ist AES 128 in einer post-quanten Welt völlig in Ordnung"
       },
       "summary": {
-        "zh": "研究人员开发了一种新工具，旨在探索大脑中的物质如何转化为思想、感觉和情感，这一过程的研究通常需要神经外科手术。",
-        "en": "Researchers have developed a new tool aimed at exploring how physical matter in the brain translates into thoughts, sensations, and emotions, a process that typically requires neurosurgery.",
-        "de": "Forscher haben ein neues Werkzeug entwickelt, das darauf abzielt, zu untersuchen, wie physische Materie im Gehirn in Gedanken, Empfindungen und Emotionen umgewandelt wird, ein Prozess, der normalerweise eine Neurochirurgie erfordert."
+        "zh": "关于AES 128的误解正在阻碍量子准备的进展，最新研究表明它在后量子环境中依然有效。",
+        "en": "Misconceptions about AES 128 are hindering progress in quantum readiness, with recent studies indicating it remains effective in a post-quantum environment.",
+        "de": "Missverständnisse über AES 128 behindern den Fortschritt in der Quantenbereitschaft, während aktuelle Studien darauf hinweisen, dass es in einer post-quanten Umgebung weiterhin wirksam bleibt."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-04-21",
-      "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/"
+      "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗战争：特朗普延长停火的第54天发生了什么？",
-        "en": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
-        "de": "Iran-Krieg: Was passiert am Tag 54, während Trump den Waffenstillstand verlängert?"
+        "zh": "切尔西在英超俱乐部仅三个月后解雇罗森尼奥",
+        "en": "Chelsea sack Rosenior after only three months at Premier League club",
+        "de": "Chelsea entlässt Rosenior nach nur drei Monaten im Premier-League-Club"
       },
       "summary": {
-        "zh": "特朗普宣布美国将延长与伊朗的停火，直到伊朗提出提案并结束谈判，这一决定在持续的冲突中引发了新的关注。",
-        "en": "Trump announced that the U.S. would extend the ceasefire with Iran until it presents a proposal and talks conclude, a decision that has drawn renewed attention amid ongoing conflict.",
-        "de": "Trump kündigte an, dass die USA den Waffenstillstand mit dem Iran verlängern würden, bis dieser einen Vorschlag unterbreitet und die Gespräche abgeschlossen sind, eine Entscheidung, die angesichts des anhaltenden Konflikts neue Aufmerksamkeit erregt hat."
+        "zh": "切尔西在仅任职三个月后解雇了主教练利亚姆·罗森尼奥，球队在此期间连续五场失利。",
+        "en": "Chelsea has sacked head coach Liam Rosenior after just three months in charge, during which the team suffered five consecutive losses.",
+        "de": "Chelsea hat Cheftrainer Liam Rosenior nach nur drei Monaten im Amt entlassen, in denen das Team fünf aufeinanderfolgende Niederlagen erlitt."
       },
       "source": "Al Jazeera",
       "date": "2026-04-22",
-      "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/4/22/chelsea-sack-rosenior-after-only-3-months-at-premier-league-club?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普在与德黑兰的谈判停滞中延长停火",
-        "en": "Trump extends ceasefire and hopes for ‘unified proposal’",
-        "de": "Trump verlängert den Waffenstillstand und hofft auf einen 'einheitlichen Vorschlag'"
+        "zh": "伊朗表示已“完全准备好”参加世界杯",
+        "en": "Iran says ‘fully prepared’ for football team’s World Cup participation",
+        "de": "Iran sagt, dass es 'vollständig vorbereitet' ist für die Teilnahme seiner Fußballmannschaft an der Weltmeisterschaft"
       },
       "summary": {
-        "zh": "特朗普在社交媒体上宣布延长与伊朗的停火，并表示希望能达成一个统一的提案，以推动谈判进展。",
-        "en": "Trump announced on social media the extension of the ceasefire with Iran, expressing hope for a unified proposal to advance negotiations.",
-        "de": "Trump kündigte in den sozialen Medien die Verlängerung des Waffenstillstands mit dem Iran an und äußerte die Hoffnung auf einen einheitlichen Vorschlag, um die Verhandlungen voranzubringen."
+        "zh": "伊朗政府表示，已为其足球队参加由美国共同主办的世界杯做好了所有必要的准备。",
+        "en": "The Iranian government has stated that it is fully prepared for its football team's participation in the World Cup co-hosted by the US.",
+        "de": "Die iranische Regierung hat erklärt, dass sie vollständig auf die Teilnahme ihrer Fußballmannschaft an der von den USA mitveranstalteten Weltmeisterschaft vorbereitet ist."
       },
       "source": "Al Jazeera",
       "date": "2026-04-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/trump-extends-ceasefire-and-hopes-for-unified?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/22/iran-says-fully-prepared-for-football-teams-world-cup-participation?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普为伊朗协议争取时间，经过紧张的外交努力",
-        "en": "Trump buys time for Iran deal after frantic day of diplomacy",
-        "de": "Trump kauft Zeit für den Iran-Deal nach einem hektischen Diplomatie-Tag"
+        "zh": "乌克兰重启俄罗斯石油输往欧洲，解冻900亿欧元的欧盟贷款",
+        "en": "Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan",
+        "de": "Ukraine startet russisches Öl nach Europa wieder, was ein 90-Milliarden-Euro-EU-Darlehen freigibt"
       },
       "summary": {
-        "zh": "特朗普的决定标志着他在短短两周内第二次放弃升级战争的威胁，为与伊朗达成协议争取了更多时间。",
-        "en": "Trump's decision marks the second time in as many weeks that he has backed off a threat to escalate the war, buying more time for a potential deal with Iran.",
-        "de": "Trumps Entscheidung markiert das zweite Mal innerhalb von zwei Wochen, dass er von einer Drohung zur Eskalation des Krieges Abstand genommen hat, und kauft mehr Zeit für einen möglichen Deal mit dem Iran."
+        "zh": "乌克兰恢复对欧洲的俄罗斯石油供应，促使匈牙利解除对欧盟900亿欧元贷款的否决。",
+        "en": "Ukraine has resumed Russian oil supplies to Europe, enabling Hungary to lift its veto on a 90-billion-euro EU loan.",
+        "de": "Die Ukraine hat die russischen Öllieferungen nach Europa wieder aufgenommen, was Ungarn ermöglicht, sein Veto gegen ein 90-Milliarden-Euro-EU-Darlehen aufzuheben."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-04-22",
-      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/22/ukraine-restarts-russian-oil-flows-to-europe-unblocking-90bn-eu-loan?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国、伊朗在和平谈判停滞中加剧言辞",
-        "en": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
-        "de": "‘Neue Karten auf dem Schlachtfeld’: USA und Iran verschärfen die Rhetorik, während die Friedensgespräche ins Stocken geraten"
+        "zh": "特朗普延长伊朗停火——但市场焦点已转向其他地方",
+        "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
+        "de": "Trump verlängert den Iran-Feuerpause – aber der Markt hat sich bereits woanders hin bewegt"
       },
       "summary": {
-        "zh": "分析师指出，美国谈判代表可能在谈判桌上被伊朗经验丰富的外交代表所压制，导致和平谈判陷入停滞。",
-        "en": "Analysts suggest that American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, leading to a stalemate in peace talks.",
-        "de": "Analysten deuten darauf hin, dass die amerikanischen Verhandlungsführer am Verhandlungstisch von Irans erfahrenem diplomatischen Team übertroffen werden könnten, was zu einem Stillstand der Friedensgespräche führt."
+        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转向其他问题，未来谈判的前景仍不确定。",
+        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has shifted to other issues, with uncertain prospects for future negotiations.",
+        "de": "Trotz Trumps Verlängerung der Feuerpause mit dem Iran hat sich der Markt auf andere Themen konzentriert, wobei die Aussichten für zukünftige Verhandlungen ungewiss bleiben."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-21",
-      "url": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html"
+      "date": "2026-04-22",
+      "url": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "关税退款将于周一开始。这些零售商将获得巨额退款",
+        "zh": "关税退款将于周一开始。这些零售商将获得巨额补偿",
         "en": "Tariff refunds begin on Monday. These retailers are due big paydays",
-        "de": "Zollrückerstattungen beginnen am Montag. Diese Einzelhändler erwarten große Auszahlungen"
+        "de": "Zollrückerstattungen beginnen am Montag. Diese Einzelhändler stehen vor großen Auszahlungen"
       },
       "summary": {
-        "zh": "美国进口商如沃尔玛和塔吉特将在政府启动索赔申请门户后，可能获得数十亿美元的关税退款。",
-        "en": "U.S. importers such as Walmart and Target could be in line for billions in tariff refunds as the government launches its claims filing portal on Monday.",
-        "de": "US-Importeure wie Walmart und Target könnten aufgrund der Eröffnung des Antragsportals der Regierung am Montag Milliarden an Zollrückerstattungen erhalten."
+        "zh": "美国进口商如沃尔玛和塔吉特将在周一开始申请数十亿的关税退款，预计将获得巨额补偿。",
+        "en": "U.S. importers like Walmart and Target will begin filing for billions in tariff refunds starting Monday, expecting substantial payouts.",
+        "de": "US-Importeure wie Walmart und Target werden ab Montag mit der Beantragung von Milliarden an Zollrückerstattungen beginnen und erwarten erhebliche Auszahlungen."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-21",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美联储主席提名人凯文·沃什表示，美联储必须保持独立",
-        "en": "Chair nominee Kevin Warsh says Fed must ‘stay in its lane’ to maintain independence",
-        "de": "Vorsitzendenkandidat Kevin Warsh sagt, die Fed müsse 'in ihrem Bereich bleiben', um unabhängig zu bleiben"
+        "zh": "伊朗在霍尔木兹海峡袭击油轮，油价回升至每桶100美元以上",
+        "en": "Iran attacks oil tankers in Hormuz, sending oil back above $100 a barrel",
+        "de": "Iran greift Öltanker im Hormuz an und treibt den Ölpreis wieder über 100 Dollar pro Barrel"
       },
       "summary": {
-        "zh": "沃什在提名听证会上表示，美联储必须专注于抗击通货膨胀，而不是过多关注劳动市场。",
-        "en": "Warsh stated during his confirmation hearing that the Federal Reserve must focus on combating inflation while not overly concerning itself with the labor market.",
-        "de": "Warsh erklärte während seiner Bestätigungsanhörung, dass die Federal Reserve sich auf die Bekämpfung der Inflation konzentrieren müsse, ohne sich zu sehr um den Arbeitsmarkt zu kümmern."
+        "zh": "伊朗对霍尔木兹海峡的油轮发起攻击，导致油价再次上涨，超过每桶100美元。",
+        "en": "Iran's attacks on oil tankers in the Strait of Hormuz have led to a resurgence in oil prices, pushing them back above $100 a barrel.",
+        "de": "Die Angriffe Irans auf Öltanker im Hormuz haben zu einem Anstieg der Ölpreise geführt, die wieder über 100 Dollar pro Barrel liegen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-21",
-      "url": "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-22",
+      "url": "https://www.marketwatch.com/story/global-oil-climbs-back-to-100-a-barrel-after-iran-flexes-its-power-over-oil-tankers-in-hormuz-9de1dd30?mod=mw_rss_topstories"
     }
   ]
 }
