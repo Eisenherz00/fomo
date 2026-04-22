@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-21T17:32:00.394283+00:00",
+  "generatedAt": "2026-04-22T06:20:34.723114+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：降低人类噪音，洛杉矶令人惊叹的地铁升级",
-        "en": "The Download: turning down human noise, and LA’s stunning subway upgrade",
-        "de": "Der Download: Menschliches Geräusch reduzieren und die beeindruckende U-Bahn-Aufrüstung von LA"
+        "zh": "圆桌会议：揭示当前人工智能中重要的10件事",
+        "en": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
+        "de": "Rundtischgespräche: Enthüllung der 10 Dinge, die jetzt in der KI wichtig sind"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括洛杉矶地铁的升级和如何降低人类噪音的讨论。",
-        "en": "Today's edition of The Download provides updates on the tech world, including the upgrade of LA's subway and discussions on reducing human noise.",
-        "de": "Die heutige Ausgabe des Downloads bietet Neuigkeiten aus der Technikwelt, einschließlich des Upgrades der U-Bahn von LA und Diskussionen über die Reduzierung menschlicher Geräusche."
+        "zh": "在MIT技术评论的EmTech AI会议上，专家们讨论了当前人工智能领域的十大重要议题，涵盖了技术、伦理和未来发展等方面。",
+        "en": "At the EmTech AI conference by MIT Technology Review, experts discussed the ten most important topics in the field of artificial intelligence, covering technology, ethics, and future developments.",
+        "de": "Auf der EmTech AI-Konferenz der MIT Technology Review diskutierten Experten die zehn wichtigsten Themen im Bereich der künstlichen Intelligenz, die Technologie, Ethik und zukünftige Entwicklungen umfassen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-21",
-      "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/"
+      "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "中国科技工人开始训练他们的AI双胞胎，并进行反击",
-        "en": "Chinese tech workers are starting to train their AI doubles—and pushing back",
-        "de": "Chinesische Techniker beginnen, ihre KI-Zwillinge zu trainieren – und wehren sich"
+        "zh": "一种天然蛋白质可能保护胃肠道免受感染",
+        "en": "A natural protein may protect the GI tract from infection",
+        "de": "Ein natürliches Protein könnte den Magen-Darm-Trakt vor Infektionen schützen"
       },
       "summary": {
-        "zh": "中国科技工人在被要求训练AI代理以取代他们的同时，开始进行反击，反映出对未来工作的担忧。",
-        "en": "Chinese tech workers are beginning to push back as they are instructed to train AI agents to replace them, reflecting concerns about the future of work.",
-        "de": "Chinesische Techniker beginnen, sich zu wehren, während sie angewiesen werden, KI-Agenten zu trainieren, die sie ersetzen sollen, was Bedenken über die Zukunft der Arbeit widerspiegelt."
+        "zh": "麻省理工学院的研究小组发现，嵌入身体粘膜表面的蛋白质可以与细胞表面的糖结合，从而可能保护胃肠道免受感染。",
+        "en": "A research team at MIT has discovered that proteins embedded in the body's mucosal surfaces can bind to sugars on cell surfaces, potentially protecting the GI tract from infection.",
+        "de": "Ein Forschungsteam am MIT hat entdeckt, dass in den Schleimhautoberflächen des Körpers eingebettete Proteine an Zucker auf Zelloberflächen binden können, was möglicherweise den Magen-Darm-Trakt vor Infektionen schützt."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-20",
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/"
+      "date": "2026-04-21",
+      "url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "与流行迷信相反，AES 128在后量子世界中完全可以",
-        "en": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-        "de": "Entgegen der gängigen Superstition ist AES 128 in einer post-quanten Welt völlig in Ordnung"
+        "zh": "这一工具可能展示意识如何运作",
+        "en": "This tool could show how consciousness works",
+        "de": "Dieses Werkzeug könnte zeigen, wie Bewusstsein funktioniert"
       },
       "summary": {
-        "zh": "一项研究表明，AES 128在后量子计算环境中仍然是安全的，这一发现挑战了流行的误解。",
-        "en": "A study indicates that AES 128 remains secure in a post-quantum computing environment, challenging popular misconceptions.",
-        "de": "Eine Studie zeigt, dass AES 128 in einer post-quanten Computerumgebung weiterhin sicher ist und damit gängige Missverständnisse herausfordert."
+        "zh": "研究人员开发了一种新工具，旨在探索大脑中的物质如何转化为思想、感觉和情感，这一过程的研究通常需要神经外科手术。",
+        "en": "Researchers have developed a new tool aimed at exploring how physical matter in the brain translates into thoughts, sensations, and emotions, a process that typically requires neurosurgery.",
+        "de": "Forscher haben ein neues Werkzeug entwickelt, das darauf abzielt, zu untersuchen, wie physische Materie im Gehirn in Gedanken, Empfindungen und Emotionen umgewandelt wird, ein Prozess, der normalerweise eine Neurochirurgie erfordert."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-04-21",
-      "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/"
+      "url": "https://www.technologyreview.com/2026/04/21/1134862/this-tool-could-show-how-consciousness-works/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列性暴力助推巴勒斯坦人离开西岸：报告",
-        "en": "Israeli sexual violence helping push Palestinians from West Bank: Report",
-        "de": "Israelische sexuelle Gewalt hilft, Palästinenser aus dem Westjordanland zu vertreiben: Bericht"
+        "zh": "伊朗战争：特朗普延长停火的第54天发生了什么？",
+        "en": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
+        "de": "Iran-Krieg: Was passiert am Tag 54, während Trump den Waffenstillstand verlängert?"
       },
       "summary": {
-        "zh": "一份报告指出，以色列定居者和士兵的性暴力行为导致至少16起与冲突相关的案件，进一步加剧了巴勒斯坦人的流离失所。",
-        "en": "A report highlights at least 16 cases of conflict-related sexual violence attributed to Israeli settlers and soldiers, exacerbating the displacement of Palestinians.",
-        "de": "Ein Bericht hebt mindestens 16 Fälle von konfliktbezogener sexueller Gewalt hervor, die israelischen Siedlern und Soldaten zugeschrieben werden, und verschärft die Vertreibung der Palästinenser."
+        "zh": "特朗普宣布美国将延长与伊朗的停火，直到伊朗提出提案并结束谈判，这一决定在持续的冲突中引发了新的关注。",
+        "en": "Trump announced that the U.S. would extend the ceasefire with Iran until it presents a proposal and talks conclude, a decision that has drawn renewed attention amid ongoing conflict.",
+        "de": "Trump kündigte an, dass die USA den Waffenstillstand mit dem Iran verlängern würden, bis dieser einen Vorschlag unterbreitet und die Gespräche abgeschlossen sind, eine Entscheidung, die angesichts des anhaltenden Konflikts neue Aufmerksamkeit erregt hat."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-21",
-      "url": "https://www.aljazeera.com/news/2026/4/21/israeli-sexual-violence-helping-push-palestinians-from-west-bank-report?traffic_source=rss"
+      "date": "2026-04-22",
+      "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "欧盟法院裁定匈牙利LGBTQ法违反人权",
-        "en": "EU court rules Hungary’s LGBTQ law violates human rights",
-        "de": "EuGH entscheidet, dass Ungarns LGBTQ-Gesetz Menschenrechte verletzt"
+        "zh": "特朗普在与德黑兰的谈判停滞中延长停火",
+        "en": "Trump extends ceasefire and hopes for ‘unified proposal’",
+        "de": "Trump verlängert den Waffenstillstand und hofft auf einen 'einheitlichen Vorschlag'"
       },
       "summary": {
-        "zh": "欧洲法院裁定匈牙利总理欧尔班政府的法律在多个层面上违反了欧盟法律，标志着对LGBTQ权利的重大胜利。",
-        "en": "The European Court has ruled that the law by PM Viktor Orban's government breaches EU law on multiple levels, marking a significant victory for LGBTQ rights.",
-        "de": "Der Europäische Gerichtshof hat entschieden, dass das Gesetz der Regierung von Ministerpräsident Viktor Orban auf mehreren Ebenen gegen das EU-Recht verstößt, was einen bedeutenden Sieg für die LGBTQ-Rechte darstellt."
+        "zh": "特朗普在社交媒体上宣布延长与伊朗的停火，并表示希望能达成一个统一的提案，以推动谈判进展。",
+        "en": "Trump announced on social media the extension of the ceasefire with Iran, expressing hope for a unified proposal to advance negotiations.",
+        "de": "Trump kündigte in den sozialen Medien die Verlängerung des Waffenstillstands mit dem Iran an und äußerte die Hoffnung auf einen einheitlichen Vorschlag, um die Verhandlungen voranzubringen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-21",
-      "url": "https://www.aljazeera.com/news/2026/4/21/eu-court-rules-hungarys-lgbtq-law-violates-human-rights?traffic_source=rss"
+      "date": "2026-04-22",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/trump-extends-ceasefire-and-hopes-for-unified?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普表示反对在谈判不确定性中延长伊朗停火",
-        "en": "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
-        "de": "Trump sagt, er sei gegen die Verlängerung des Iran-Waffenstillstands angesichts der Unsicherheit der Gespräche"
+        "zh": "特朗普为伊朗协议争取时间，经过紧张的外交努力",
+        "en": "Trump buys time for Iran deal after frantic day of diplomacy",
+        "de": "Trump kauft Zeit für den Iran-Deal nach einem hektischen Diplomatie-Tag"
       },
       "summary": {
-        "zh": "美国总统特朗普表示，伊朗在巴基斯坦的谈判中“别无选择”，必须接受“伟大的”协议，反对延长停火。",
-        "en": "US President Trump stated that Iran has 'no choice' but to accept a 'great' deal in negotiations in Pakistan, opposing the extension of the ceasefire.",
-        "de": "US-Präsident Trump erklärte, dass Iran 'keine Wahl' hat, als ein 'großes' Abkommen in den Verhandlungen in Pakistan zu akzeptieren, und sich gegen die Verlängerung des Waffenstillstands aussprach."
+        "zh": "特朗普的决定标志着他在短短两周内第二次放弃升级战争的威胁，为与伊朗达成协议争取了更多时间。",
+        "en": "Trump's decision marks the second time in as many weeks that he has backed off a threat to escalate the war, buying more time for a potential deal with Iran.",
+        "de": "Trumps Entscheidung markiert das zweite Mal innerhalb von zwei Wochen, dass er von einer Drohung zur Eskalation des Krieges Abstand genommen hat, und kauft mehr Zeit für einen möglichen Deal mit dem Iran."
       },
-      "source": "Al Jazeera",
-      "date": "2026-04-21",
-      "url": "https://www.aljazeera.com/news/2026/4/21/trump-says-he-opposes-extending-iran-ceasefire-amid-talks-uncertainty?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-04-22",
+      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "关税退款周一开始。这些零售商将获得丰厚的回报",
-        "en": "Tariff refunds begin on Monday. These retailers are due big paydays",
-        "de": "Zollrückerstattungen beginnen am Montag. Diese Einzelhändler stehen vor großen Auszahlungen"
-      },
-      "summary": {
-        "zh": "美国进口商如沃尔玛和塔吉特将在周一开始申请数十亿美元的关税退款，这将对他们的财务状况产生重大影响。",
-        "en": "U.S. importers like Walmart and Target are set to apply for billions in tariff refunds starting Monday, which will have a significant impact on their financials.",
-        "de": "US-Importeure wie Walmart und Target werden ab Montag Milliarden an Zollrückerstattungen beantragen, was erhebliche Auswirkungen auf ihre Finanzen haben wird."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-21",
-      "url": "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "美伊紧张局势升级，和平谈判陷入僵局",
+        "zh": "美国、伊朗在和平谈判停滞中加剧言辞",
         "en": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
-        "de": "‘Neue Karten auf dem Schlachtfeld’: USA und Iran verschärfen die Rhetorik, während Friedensgespräche ins Stocken geraten"
+        "de": "‘Neue Karten auf dem Schlachtfeld’: USA und Iran verschärfen die Rhetorik, während die Friedensgespräche ins Stocken geraten"
       },
       "summary": {
-        "zh": "美国与伊朗之间的紧张局势加剧，分析师表示，美国谈判代表可能在谈判桌上被伊朗的经验丰富的外交代表所压制。",
-        "en": "Tensions between the U.S. and Iran are escalating, with analysts suggesting that American negotiators may be outmatched by Iran's experienced diplomatic delegation at the negotiating table.",
-        "de": "Die Spannungen zwischen den USA und dem Iran eskalieren, wobei Analysten darauf hinweisen, dass die amerikanischen Verhandlungsführer möglicherweise von der erfahrenen diplomatischen Delegation des Iran am Verhandlungstisch übertroffen werden."
+        "zh": "分析师指出，美国谈判代表可能在谈判桌上被伊朗经验丰富的外交代表所压制，导致和平谈判陷入停滞。",
+        "en": "Analysts suggest that American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, leading to a stalemate in peace talks.",
+        "de": "Analysten deuten darauf hin, dass die amerikanischen Verhandlungsführer am Verhandlungstisch von Irans erfahrenem diplomatischen Team übertroffen werden könnten, was zu einem Stillstand der Friedensgespräche führt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-21",
       "url": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "特斯拉财报时投资者真正关心的是什么",
-        "en": "Here’s what will really matter to Tesla investors when the company reports earnings",
-        "de": "Das wird für Tesla-Investoren wirklich wichtig sein, wenn das Unternehmen die Ergebnisse bekannt gibt"
+        "zh": "关税退款将于周一开始。这些零售商将获得巨额退款",
+        "en": "Tariff refunds begin on Monday. These retailers are due big paydays",
+        "de": "Zollrückerstattungen beginnen am Montag. Diese Einzelhändler erwarten große Auszahlungen"
       },
       "summary": {
-        "zh": "特斯拉即将发布财报，投资者将更加关注公司的未来故事而非财务数字。",
-        "en": "As Tesla prepares to report earnings, investors are expected to focus more on the company's future narrative rather than the financial numbers.",
-        "de": "Während Tesla sich auf die Bekanntgabe der Ergebnisse vorbereitet, wird erwartet, dass die Investoren mehr auf die zukünftige Erzählung des Unternehmens als auf die finanziellen Zahlen achten."
+        "zh": "美国进口商如沃尔玛和塔吉特将在政府启动索赔申请门户后，可能获得数十亿美元的关税退款。",
+        "en": "U.S. importers such as Walmart and Target could be in line for billions in tariff refunds as the government launches its claims filing portal on Monday.",
+        "de": "US-Importeure wie Walmart und Target könnten aufgrund der Eröffnung des Antragsportals der Regierung am Montag Milliarden an Zollrückerstattungen erhalten."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC – Markets",
       "date": "2026-04-21",
-      "url": "https://www.marketwatch.com/story/heres-what-will-really-matter-to-tesla-investors-when-it-reports-earnings-ba621f85?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "美联储主席提名人凯文·沃什表示，美联储必须保持独立",
+        "en": "Chair nominee Kevin Warsh says Fed must ‘stay in its lane’ to maintain independence",
+        "de": "Vorsitzendenkandidat Kevin Warsh sagt, die Fed müsse 'in ihrem Bereich bleiben', um unabhängig zu bleiben"
+      },
+      "summary": {
+        "zh": "沃什在提名听证会上表示，美联储必须专注于抗击通货膨胀，而不是过多关注劳动市场。",
+        "en": "Warsh stated during his confirmation hearing that the Federal Reserve must focus on combating inflation while not overly concerning itself with the labor market.",
+        "de": "Warsh erklärte während seiner Bestätigungsanhörung, dass die Federal Reserve sich auf die Bekämpfung der Inflation konzentrieren müsse, ohne sich zu sehr um den Arbeitsmarkt zu kümmern."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-21",
+      "url": "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html"
     }
   ]
 }
