@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-23T06:25:20.613454+00:00",
+  "generatedAt": "2026-04-23T17:51:37.729427+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：介绍当前人工智能中10个重要事项",
-        "en": "The Download: introducing the 10 Things That Matter in AI Right Now",
-        "de": "Der Download: Einführung der 10 Dinge, die jetzt in der KI wichtig sind"
+        "zh": "下载：介绍自然问题",
+        "en": "The Download: introducing the Nature issue",
+        "de": "Der Download: Einführung in die Naturausgabe"
       },
       "summary": {
-        "zh": "本期《下载》提供了当前人工智能领域的十个重要事项，涵盖了技术进展和应用趋势。",
-        "en": "This edition of The Download highlights ten important matters in the field of artificial intelligence, covering technological advancements and application trends.",
-        "de": "Diese Ausgabe des Downloads hebt zehn wichtige Aspekte im Bereich der künstlichen Intelligenz hervor, die technologische Fortschritte und Anwendungstrends abdecken."
+        "zh": "今天的下载版介绍了技术世界的最新动态，特别是关于自然问题的讨论。",
+        "en": "Today's edition of The Download highlights the latest happenings in the tech world, particularly focusing on the Nature issue.",
+        "de": "Die heutige Ausgabe des Downloads hebt die neuesten Entwicklungen in der Technologiewelt hervor, insbesondere im Hinblick auf die Naturausgabe."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-22",
-      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/"
+      "date": "2026-04-23",
+      "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "人工智能需要强大的数据架构来提供商业价值",
-        "en": "AI needs a strong data fabric to deliver business value",
-        "de": "KI benötigt ein starkes Datengewebe, um Geschäftswert zu liefern"
+        "zh": "核聚变电力会变便宜吗？别指望了。",
+        "en": "Will fusion power get cheap? Don’t count on it.",
+        "de": "Wird Fusionsenergie billig werden? Zählen Sie nicht darauf."
       },
       "summary": {
-        "zh": "随着人工智能在企业中的快速发展，组织需要建立强大的数据架构，以支持日常使用和商业价值的实现。",
-        "en": "As artificial intelligence rapidly evolves in enterprises, organizations need to establish a strong data fabric to support everyday use and deliver business value.",
-        "de": "Da sich die künstliche Intelligenz in Unternehmen schnell entwickelt, müssen Organisationen ein starkes Datengewebe aufbauen, um die tägliche Nutzung zu unterstützen und Geschäftswert zu liefern."
+        "zh": "核聚变电力可能在未来提供稳定的零排放电源，但新研究表明，企业在建设和运营工厂方面面临重大挑战。",
+        "en": "Fusion power could potentially provide a steady, zero-emissions energy source in the future, but a new study indicates that companies face significant challenges in building and operating plants.",
+        "de": "Fusionsenergie könnte in Zukunft eine stabile, emissionsfreie Energiequelle bieten, aber eine neue Studie zeigt, dass Unternehmen vor erheblichen Herausforderungen beim Bau und Betrieb von Anlagen stehen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-22",
-      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/"
+      "date": "2026-04-23",
+      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "微软为macOS和Linux ASP.NET威胁发布紧急更新",
-        "en": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
-        "de": "Microsoft gibt Notfallupdate für macOS und Linux ASP.NET-Bedrohung heraus"
+        "zh": "人工智能需要强大的数据架构以提供商业价值",
+        "en": "AI needs a strong data fabric to deliver business value",
+        "de": "KI benötigt ein starkes Datengewebe, um geschäftlichen Nutzen zu liefern"
       },
       "summary": {
-        "zh": "微软发布了针对macOS和Linux的紧急更新，以应对ASP.NET的安全威胁，强调了身份验证失败可能导致的严重后果。",
-        "en": "Microsoft has released an emergency update for macOS and Linux to address security threats related to ASP.NET, highlighting the severe consequences of authentication failures.",
-        "de": "Microsoft hat ein Notfallupdate für macOS und Linux veröffentlicht, um Sicherheitsbedrohungen im Zusammenhang mit ASP.NET zu beheben, und hebt die schwerwiegenden Folgen von Authentifizierungsfehlern hervor."
+        "zh": "人工智能在企业中的应用正在迅速发展，组织需要强大的数据架构来支持日常使用和商业价值的实现。",
+        "en": "Artificial intelligence is rapidly advancing in enterprises, and organizations need a strong data fabric to support everyday use and deliver business value.",
+        "de": "Künstliche Intelligenz entwickelt sich schnell in Unternehmen, und Organisationen benötigen ein starkes Datengewebe, um die alltägliche Nutzung zu unterstützen und geschäftlichen Nutzen zu liefern."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-04-22",
-      "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/"
+      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "教皇利奥访问赤道几内亚监狱",
-        "en": "Pope Leo visits prison in Equatorial Guinea",
-        "de": "Papst Leo besucht Gefängnis in Äquatorialguinea"
+        "zh": "美国将一些大麻产品重新分类为较不危险的药物",
+        "en": "US reclassifies some marijuana products as less dangerous drug",
+        "de": "Die USA klassifizieren einige Marihuana-Produkte als weniger gefährliche Droge um"
       },
       "summary": {
-        "zh": "教皇利奥十四世在非洲之行的最后一天访问了赤道几内亚的一所监狱，表达了对囚犯的关心。",
-        "en": "Pope Leo XIV visited a prison in Equatorial Guinea on the last day of his Africa tour, expressing concern for the inmates.",
-        "de": "Papst Leo XIV besuchte am letzten Tag seiner Afrikareise ein Gefängnis in Äquatorialguinea und äußerte seine Besorgnis über die Insassen."
+        "zh": "美国重新分类某些大麻产品，标志着对重刑惩罚的转变，反映出广泛的合法化努力。",
+        "en": "The US has reclassified certain marijuana products, marking a shift away from heavy penalization and reflecting widespread legalization efforts.",
+        "de": "Die USA haben einige Marihuana-Produkte neu klassifiziert, was einen Wandel von strengen Strafen markiert und weitreichende Legalisierungsbemühungen widerspiegelt."
       },
       "source": "Al Jazeera",
       "date": "2026-04-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/pope-leo-visits-prison-in-equatorial-guinea?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/23/us-reclassifies-some-marijuana-products-as-less-dangerous-drug?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国海军首席离职，立即生效",
-        "en": "US Navy chief leaving post 'effective immediately', Pentagon says",
-        "de": "US-Marinechef verlässt Posten 'mit sofortiger Wirkung', sagt das Pentagon"
+        "zh": "墨西哥倾向于“首领战略”，但代价高昂",
+        "en": "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
+        "de": "Kartelle köpfen? Mexiko setzt auf die 'Kingpin-Strategie', aber zu einem Preis"
       },
       "summary": {
-        "zh": "美国海军秘书约翰·菲伦的离职标志着近期高层军事领导人的又一次更替，反映了行政部门的变化。",
-        "en": "The departure of US Navy Secretary John Phelan marks another change in high-ranking military leadership in recent months, reflecting shifts within the administration.",
-        "de": "Der Rücktritt von US-Marinechef John Phelan markiert einen weiteren Wechsel in der hochrangigen militärischen Führung in den letzten Monaten und spiegelt die Veränderungen innerhalb der Verwaltung wider."
+        "zh": "在美国的压力下，墨西哥总统授权军事行动逮捕贩毒集团领导人，代价高昂。",
+        "en": "Under pressure from the US, Mexico's president has authorized military operations to arrest cartel leaders, which comes at a high cost.",
+        "de": "Unter Druck der USA hat die mexikanische Präsidentin militärische Operationen zur Festnahme von Drogenkartellführern genehmigt, was hohe Kosten verursacht."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-04-23",
-      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列在南黎巴嫩的针对性袭击中杀死记者",
-        "en": "Israel kills journalist and wounds another in south Lebanon targeted attack",
-        "de": "Israel tötet Journalisten und verletzt einen weiteren bei gezieltem Angriff im Südlibanon"
+        "zh": "美国-以色列对伊朗的战争将使3000万人重新陷入贫困，联合国警告",
+        "en": "US-Israeli war on Iran will push 30 million back into poverty, UN warns",
+        "de": "Der US-israelische Krieg gegen den Iran wird 30 Millionen Menschen zurück in die Armut drängen, warnt die UN"
       },
       "summary": {
-        "zh": "以色列在南黎巴嫩进行的袭击中杀死了记者阿马尔·哈利尔，并伤害了另一名记者，引发国际关注。",
-        "en": "Israel's attack in southern Lebanon resulted in the death of journalist Amal Khalil and injured another journalist, raising international concern.",
-        "de": "Der Angriff Israels im Südlibanon führte zum Tod des Journalisten Amal Khalil und verletzte einen weiteren Journalisten, was internationale Besorgnis auslöste."
+        "zh": "联合国开发计划署负责人警告，由于霍尔木兹海峡的封闭，燃料和化肥供应的中断将影响作物产量。",
+        "en": "The UNDP chief warns that disruptions to fuel and fertilizer supplies due to the closure of the Strait of Hormuz will impact crop yields, pushing 30 million back into poverty.",
+        "de": "Der Leiter des UNDP warnt, dass Störungen der Brennstoff- und Düngemittelversorgung aufgrund der Schließung der Straße von Hormuz die Ernteerträge beeinträchtigen und 30 Millionen Menschen zurück in die Armut drängen werden."
       },
       "source": "Al Jazeera",
       "date": "2026-04-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/23/us-israeli-war-on-iran-will-push-30-million-back-into-poverty-un-warns?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "FICO的股票因房利美和房地美给信用评分公司带来新打击而下跌",
-        "en": "FICO’s stock falls as Fannie and Freddie deal the credit-score company a new blow",
-        "de": "FICOs Aktien fallen, da Fannie und Freddie dem Kreditbewertungsunternehmen einen neuen Schlag versetzen"
+        "zh": "这些图表显示伊朗经济正在自由落体",
+        "en": "These charts show how Iran's economy is in freefall",
+        "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
       },
       "summary": {
-        "zh": "由于政府支持的房利美和房地美采用了一种竞争性信用评分类型，FICO的股票遭受了重创。",
-        "en": "FICO's stock took a hit as government-backed entities Fannie Mae and Freddie Mac embraced a rival type of credit score.",
-        "de": "FICOs Aktien wurden getroffen, als die staatlich unterstützten Unternehmen Fannie Mae und Freddie Mac eine rivalisierende Art von Kreditbewertung übernahmen."
+        "zh": "伊朗经济在战争前就已脆弱，现在由于冲突而急剧下滑，给政权和公民带来了严峻现实。",
+        "en": "Iran's economy, already vulnerable before the war, is now in freefall due to the conflict, presenting a brutal reality for the regime and its citizens.",
+        "de": "Die iranische Wirtschaft, die bereits vor dem Krieg anfällig war, befindet sich nun aufgrund des Konflikts im freien Fall und stellt eine brutale Realität für das Regime und seine Bürger dar."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC",
       "date": "2026-04-23",
-      "url": "https://www.marketwatch.com/story/ficoss-stock-falls-as-fannie-and-freddie-deal-the-credit-score-company-a-new-blow-7269c2ab?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/04/23/iran-economy-war-charts-rial-oil-strait-hormuz-blockade.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "为什么ServiceNow的股票在财报后下滑",
-        "en": "Why ServiceNow’s stock is sliding in the wake of earnings",
-        "de": "Warum die Aktien von ServiceNow nach den Ergebnissen fallen"
+        "zh": "特朗普延长伊朗停火——但市场焦点已转移",
+        "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
+        "de": "Trump verlängert den Iran-Waffenstillstand - aber der Markt hat sich bereits woanders hingewandt"
       },
       "summary": {
-        "zh": "投资者对ServiceNow的利润预测中的多个因素表示担忧，导致其股票在财报发布后下滑。",
-        "en": "Investors have expressed concerns over various elements of ServiceNow's margin forecast, leading to a decline in its stock following earnings release.",
-        "de": "Investoren äußerten Bedenken hinsichtlich verschiedener Elemente der Gewinnprognose von ServiceNow, was zu einem Rückgang der Aktien nach der Ergebnisveröffentlichung führte."
+        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场对进一步谈判的前景仍不确定，焦点已转向其他领域。",
+        "en": "Despite Trump's extension of the ceasefire with Iran, the market remains uncertain about further negotiations, with focus shifting elsewhere.",
+        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran bleibt der Markt hinsichtlich weiterer Verhandlungen unsicher, während der Fokus sich woanders hin verschiebt."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-04-23",
-      "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories"
+      "source": "CNBC",
+      "date": "2026-04-22",
+      "url": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "IBM的股票因软件收入不佳而下跌",
-        "en": "IBM’s stock falls as software revenue underwhelms",
-        "de": "IBMs Aktien fallen, da die Softwareeinnahmen enttäuschen"
+        "zh": "‘战场上的新牌’：美国和伊朗在和平谈判中加剧言辞",
+        "en": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+        "de": "‘Neue Karten auf dem Schlachtfeld’: USA und Iran verschärfen die Rhetorik, während Friedensgespräche ins Stocken geraten"
       },
       "summary": {
-        "zh": "由于投资者对IBM的软件和咨询业务的表现感到担忧，IBM的股票遭遇下跌。",
-        "en": "IBM's stock fell as investors expressed concerns over the performance of its software and consulting businesses.",
-        "de": "Die Aktien von IBM fielen, da Investoren Bedenken hinsichtlich der Leistung seiner Software- und Beratungsunternehmen äußerten."
+        "zh": "美国和伊朗在和平谈判停滞不前的情况下，双方加大了言辞的激烈程度，分析师表示美国谈判代表可能处于劣势。",
+        "en": "With peace talks stalled, the US and Iran have ramped up their rhetoric, with analysts suggesting that American negotiators may be outmatched at the negotiating table.",
+        "de": "Da die Friedensgespräche ins Stocken geraten sind, haben die USA und der Iran ihre Rhetorik verschärft, wobei Analysten darauf hinweisen, dass die amerikanischen Verhandler am Verhandlungstisch möglicherweise unterlegen sind."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-04-23",
-      "url": "https://www.marketwatch.com/story/ibms-stock-falls-as-software-revenue-underwhelms-61ae8276?mod=mw_rss_topstories"
+      "source": "CNBC",
+      "date": "2026-04-21",
+      "url": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html"
     }
   ]
 }
