@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-22T17:30:00.198211+00:00",
+  "generatedAt": "2026-04-23T06:25:20.613454+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：介绍当前人工智能领域的10件重要事情",
+        "zh": "下载：介绍当前人工智能中10个重要事项",
         "en": "The Download: introducing the 10 Things That Matter in AI Right Now",
         "de": "Der Download: Einführung der 10 Dinge, die jetzt in der KI wichtig sind"
       },
       "summary": {
-        "zh": "今天的下载提供了关于人工智能领域的最新动态，包括当前最重要的十个议题。",
-        "en": "Today's Download provides the latest updates in the field of artificial intelligence, highlighting the ten most important topics currently.",
-        "de": "Der heutige Download bietet die neuesten Updates im Bereich der künstlichen Intelligenz und hebt die zehn wichtigsten Themen hervor."
+        "zh": "本期《下载》提供了当前人工智能领域的十个重要事项，涵盖了技术进展和应用趋势。",
+        "en": "This edition of The Download highlights ten important matters in the field of artificial intelligence, covering technological advancements and application trends.",
+        "de": "Diese Ausgabe des Downloads hebt zehn wichtige Aspekte im Bereich der künstlichen Intelligenz hervor, die technologische Fortschritte und Anwendungstrends abdecken."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-22",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "人工智能需要强大的数据架构以提供商业价值",
+        "zh": "人工智能需要强大的数据架构来提供商业价值",
         "en": "AI needs a strong data fabric to deliver business value",
-        "de": "KI benötigt eine starke Datenstruktur, um Geschäftswert zu liefern"
+        "de": "KI benötigt ein starkes Datengewebe, um Geschäftswert zu liefern"
       },
       "summary": {
-        "zh": "人工智能正在迅速进入企业应用，组织正在部署各种智能助手和代理，需要强大的数据架构来实现其商业价值。",
-        "en": "Artificial intelligence is rapidly moving into enterprise applications, with organizations deploying various copilots and agents, necessitating a strong data fabric to realize its business value.",
-        "de": "Künstliche Intelligenz bewegt sich schnell in Unternehmensanwendungen, wobei Organisationen verschiedene Co-Piloten und Agenten einsetzen, was eine starke Datenstruktur erforderlich macht, um ihren Geschäftswert zu realisieren."
+        "zh": "随着人工智能在企业中的快速发展，组织需要建立强大的数据架构，以支持日常使用和商业价值的实现。",
+        "en": "As artificial intelligence rapidly evolves in enterprises, organizations need to establish a strong data fabric to support everyday use and deliver business value.",
+        "de": "Da sich die künstliche Intelligenz in Unternehmen schnell entwickelt, müssen Organisationen ein starkes Datengewebe aufbauen, um die tägliche Nutzung zu unterstützen und Geschäftswert zu liefern."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-22",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "与流行迷信相反，AES 128在后量子世界中仍然有效",
-        "en": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-        "de": "Entgegen der weit verbreiteten Aberglauben ist AES 128 in einer post-quanten Welt völlig in Ordnung"
+        "zh": "微软为macOS和Linux ASP.NET威胁发布紧急更新",
+        "en": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+        "de": "Microsoft gibt Notfallupdate für macOS und Linux ASP.NET-Bedrohung heraus"
       },
       "summary": {
-        "zh": "关于AES 128的误解正在阻碍量子准备的进展，最新研究表明它在后量子环境中依然有效。",
-        "en": "Misconceptions about AES 128 are hindering progress in quantum readiness, with recent studies indicating it remains effective in a post-quantum environment.",
-        "de": "Missverständnisse über AES 128 behindern den Fortschritt in der Quantenbereitschaft, während aktuelle Studien darauf hinweisen, dass es in einer post-quanten Umgebung weiterhin wirksam bleibt."
+        "zh": "微软发布了针对macOS和Linux的紧急更新，以应对ASP.NET的安全威胁，强调了身份验证失败可能导致的严重后果。",
+        "en": "Microsoft has released an emergency update for macOS and Linux to address security threats related to ASP.NET, highlighting the severe consequences of authentication failures.",
+        "de": "Microsoft hat ein Notfallupdate für macOS und Linux veröffentlicht, um Sicherheitsbedrohungen im Zusammenhang mit ASP.NET zu beheben, und hebt die schwerwiegenden Folgen von Authentifizierungsfehlern hervor."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-04-21",
-      "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/"
+      "date": "2026-04-22",
+      "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "切尔西在英超俱乐部仅三个月后解雇罗森尼奥",
-        "en": "Chelsea sack Rosenior after only three months at Premier League club",
-        "de": "Chelsea entlässt Rosenior nach nur drei Monaten im Premier-League-Club"
+        "zh": "教皇利奥访问赤道几内亚监狱",
+        "en": "Pope Leo visits prison in Equatorial Guinea",
+        "de": "Papst Leo besucht Gefängnis in Äquatorialguinea"
       },
       "summary": {
-        "zh": "切尔西在仅任职三个月后解雇了主教练利亚姆·罗森尼奥，球队在此期间连续五场失利。",
-        "en": "Chelsea has sacked head coach Liam Rosenior after just three months in charge, during which the team suffered five consecutive losses.",
-        "de": "Chelsea hat Cheftrainer Liam Rosenior nach nur drei Monaten im Amt entlassen, in denen das Team fünf aufeinanderfolgende Niederlagen erlitt."
+        "zh": "教皇利奥十四世在非洲之行的最后一天访问了赤道几内亚的一所监狱，表达了对囚犯的关心。",
+        "en": "Pope Leo XIV visited a prison in Equatorial Guinea on the last day of his Africa tour, expressing concern for the inmates.",
+        "de": "Papst Leo XIV besuchte am letzten Tag seiner Afrikareise ein Gefängnis in Äquatorialguinea und äußerte seine Besorgnis über die Insassen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-22",
-      "url": "https://www.aljazeera.com/sports/2026/4/22/chelsea-sack-rosenior-after-only-3-months-at-premier-league-club?traffic_source=rss"
+      "date": "2026-04-23",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/pope-leo-visits-prison-in-equatorial-guinea?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗表示已“完全准备好”参加世界杯",
-        "en": "Iran says ‘fully prepared’ for football team’s World Cup participation",
-        "de": "Iran sagt, dass es 'vollständig vorbereitet' ist für die Teilnahme seiner Fußballmannschaft an der Weltmeisterschaft"
+        "zh": "美国海军首席离职，立即生效",
+        "en": "US Navy chief leaving post 'effective immediately', Pentagon says",
+        "de": "US-Marinechef verlässt Posten 'mit sofortiger Wirkung', sagt das Pentagon"
       },
       "summary": {
-        "zh": "伊朗政府表示，已为其足球队参加由美国共同主办的世界杯做好了所有必要的准备。",
-        "en": "The Iranian government has stated that it is fully prepared for its football team's participation in the World Cup co-hosted by the US.",
-        "de": "Die iranische Regierung hat erklärt, dass sie vollständig auf die Teilnahme ihrer Fußballmannschaft an der von den USA mitveranstalteten Weltmeisterschaft vorbereitet ist."
+        "zh": "美国海军秘书约翰·菲伦的离职标志着近期高层军事领导人的又一次更替，反映了行政部门的变化。",
+        "en": "The departure of US Navy Secretary John Phelan marks another change in high-ranking military leadership in recent months, reflecting shifts within the administration.",
+        "de": "Der Rücktritt von US-Marinechef John Phelan markiert einen weiteren Wechsel in der hochrangigen militärischen Führung in den letzten Monaten und spiegelt die Veränderungen innerhalb der Verwaltung wider."
       },
-      "source": "Al Jazeera",
-      "date": "2026-04-22",
-      "url": "https://www.aljazeera.com/news/2026/4/22/iran-says-fully-prepared-for-football-teams-world-cup-participation?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-04-23",
+      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰重启俄罗斯石油输往欧洲，解冻900亿欧元的欧盟贷款",
-        "en": "Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan",
-        "de": "Ukraine startet russisches Öl nach Europa wieder, was ein 90-Milliarden-Euro-EU-Darlehen freigibt"
+        "zh": "以色列在南黎巴嫩的针对性袭击中杀死记者",
+        "en": "Israel kills journalist and wounds another in south Lebanon targeted attack",
+        "de": "Israel tötet Journalisten und verletzt einen weiteren bei gezieltem Angriff im Südlibanon"
       },
       "summary": {
-        "zh": "乌克兰恢复对欧洲的俄罗斯石油供应，促使匈牙利解除对欧盟900亿欧元贷款的否决。",
-        "en": "Ukraine has resumed Russian oil supplies to Europe, enabling Hungary to lift its veto on a 90-billion-euro EU loan.",
-        "de": "Die Ukraine hat die russischen Öllieferungen nach Europa wieder aufgenommen, was Ungarn ermöglicht, sein Veto gegen ein 90-Milliarden-Euro-EU-Darlehen aufzuheben."
+        "zh": "以色列在南黎巴嫩进行的袭击中杀死了记者阿马尔·哈利尔，并伤害了另一名记者，引发国际关注。",
+        "en": "Israel's attack in southern Lebanon resulted in the death of journalist Amal Khalil and injured another journalist, raising international concern.",
+        "de": "Der Angriff Israels im Südlibanon führte zum Tod des Journalisten Amal Khalil und verletzte einen weiteren Journalisten, was internationale Besorgnis auslöste."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-22",
-      "url": "https://www.aljazeera.com/news/2026/4/22/ukraine-restarts-russian-oil-flows-to-europe-unblocking-90bn-eu-loan?traffic_source=rss"
+      "date": "2026-04-23",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/israel-kills-journalist-and-wounds-another-in-south-lebanon-targeted-attack?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普延长伊朗停火——但市场焦点已转向其他地方",
-        "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Feuerpause – aber der Markt hat sich bereits woanders hin bewegt"
+        "zh": "FICO的股票因房利美和房地美给信用评分公司带来新打击而下跌",
+        "en": "FICO’s stock falls as Fannie and Freddie deal the credit-score company a new blow",
+        "de": "FICOs Aktien fallen, da Fannie und Freddie dem Kreditbewertungsunternehmen einen neuen Schlag versetzen"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转向其他问题，未来谈判的前景仍不确定。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has shifted to other issues, with uncertain prospects for future negotiations.",
-        "de": "Trotz Trumps Verlängerung der Feuerpause mit dem Iran hat sich der Markt auf andere Themen konzentriert, wobei die Aussichten für zukünftige Verhandlungen ungewiss bleiben."
+        "zh": "由于政府支持的房利美和房地美采用了一种竞争性信用评分类型，FICO的股票遭受了重创。",
+        "en": "FICO's stock took a hit as government-backed entities Fannie Mae and Freddie Mac embraced a rival type of credit score.",
+        "de": "FICOs Aktien wurden getroffen, als die staatlich unterstützten Unternehmen Fannie Mae und Freddie Mac eine rivalisierende Art von Kreditbewertung übernahmen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-22",
-      "url": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-23",
+      "url": "https://www.marketwatch.com/story/ficoss-stock-falls-as-fannie-and-freddie-deal-the-credit-score-company-a-new-blow-7269c2ab?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "关税退款将于周一开始。这些零售商将获得巨额补偿",
-        "en": "Tariff refunds begin on Monday. These retailers are due big paydays",
-        "de": "Zollrückerstattungen beginnen am Montag. Diese Einzelhändler stehen vor großen Auszahlungen"
+        "zh": "为什么ServiceNow的股票在财报后下滑",
+        "en": "Why ServiceNow’s stock is sliding in the wake of earnings",
+        "de": "Warum die Aktien von ServiceNow nach den Ergebnissen fallen"
       },
       "summary": {
-        "zh": "美国进口商如沃尔玛和塔吉特将在周一开始申请数十亿的关税退款，预计将获得巨额补偿。",
-        "en": "U.S. importers like Walmart and Target will begin filing for billions in tariff refunds starting Monday, expecting substantial payouts.",
-        "de": "US-Importeure wie Walmart und Target werden ab Montag mit der Beantragung von Milliarden an Zollrückerstattungen beginnen und erwarten erhebliche Auszahlungen."
+        "zh": "投资者对ServiceNow的利润预测中的多个因素表示担忧，导致其股票在财报发布后下滑。",
+        "en": "Investors have expressed concerns over various elements of ServiceNow's margin forecast, leading to a decline in its stock following earnings release.",
+        "de": "Investoren äußerten Bedenken hinsichtlich verschiedener Elemente der Gewinnprognose von ServiceNow, was zu einem Rückgang der Aktien nach der Ergebnisveröffentlichung führte."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-21",
-      "url": "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-23",
+      "url": "https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗在霍尔木兹海峡袭击油轮，油价回升至每桶100美元以上",
-        "en": "Iran attacks oil tankers in Hormuz, sending oil back above $100 a barrel",
-        "de": "Iran greift Öltanker im Hormuz an und treibt den Ölpreis wieder über 100 Dollar pro Barrel"
+        "zh": "IBM的股票因软件收入不佳而下跌",
+        "en": "IBM’s stock falls as software revenue underwhelms",
+        "de": "IBMs Aktien fallen, da die Softwareeinnahmen enttäuschen"
       },
       "summary": {
-        "zh": "伊朗对霍尔木兹海峡的油轮发起攻击，导致油价再次上涨，超过每桶100美元。",
-        "en": "Iran's attacks on oil tankers in the Strait of Hormuz have led to a resurgence in oil prices, pushing them back above $100 a barrel.",
-        "de": "Die Angriffe Irans auf Öltanker im Hormuz haben zu einem Anstieg der Ölpreise geführt, die wieder über 100 Dollar pro Barrel liegen."
+        "zh": "由于投资者对IBM的软件和咨询业务的表现感到担忧，IBM的股票遭遇下跌。",
+        "en": "IBM's stock fell as investors expressed concerns over the performance of its software and consulting businesses.",
+        "de": "Die Aktien von IBM fielen, da Investoren Bedenken hinsichtlich der Leistung seiner Software- und Beratungsunternehmen äußerten."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-04-22",
-      "url": "https://www.marketwatch.com/story/global-oil-climbs-back-to-100-a-barrel-after-iran-flexes-its-power-over-oil-tankers-in-hormuz-9de1dd30?mod=mw_rss_topstories"
+      "date": "2026-04-23",
+      "url": "https://www.marketwatch.com/story/ibms-stock-falls-as-software-revenue-underwhelms-61ae8276?mod=mw_rss_topstories"
     }
   ]
 }
