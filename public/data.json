@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T17:51:37.729427+00:00",
+  "generatedAt": "2026-04-24T06:27:09.498001+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Einführung in die Naturausgabe"
       },
       "summary": {
-        "zh": "今天的下载版介绍了技术世界的最新动态，特别是关于自然问题的讨论。",
-        "en": "Today's edition of The Download highlights the latest happenings in the tech world, particularly focusing on the Nature issue.",
-        "de": "Die heutige Ausgabe des Downloads hebt die neuesten Entwicklungen in der Technologiewelt hervor, insbesondere im Hinblick auf die Naturausgabe."
+        "zh": "今天的《下载》提供了关于技术世界的最新动态，特别关注自然问题的相关讨论。",
+        "en": "Today's edition of The Download provides the latest updates from the world of technology, with a particular focus on discussions related to the Nature issue.",
+        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technikwelt, mit besonderem Fokus auf Diskussionen zu den Naturfragen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-23",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "核聚变电力会变便宜吗？别指望了。",
+        "zh": "核聚变能源会变便宜吗？别指望它。",
         "en": "Will fusion power get cheap? Don’t count on it.",
         "de": "Wird Fusionsenergie billig werden? Zählen Sie nicht darauf."
       },
       "summary": {
-        "zh": "核聚变电力可能在未来提供稳定的零排放电源，但新研究表明，企业在建设和运营工厂方面面临重大挑战。",
-        "en": "Fusion power could potentially provide a steady, zero-emissions energy source in the future, but a new study indicates that companies face significant challenges in building and operating plants.",
-        "de": "Fusionsenergie könnte in Zukunft eine stabile, emissionsfreie Energiequelle bieten, aber eine neue Studie zeigt, dass Unternehmen vor erheblichen Herausforderungen beim Bau und Betrieb von Anlagen stehen."
+        "zh": "核聚变能源有潜力成为未来稳定的零排放电力来源，但新研究表明，建造和运行核聚变电厂的成本可能仍然很高。",
+        "en": "Fusion power has the potential to become a stable, zero-emissions source of electricity in the future, but new research suggests that the costs of building and operating fusion plants may still be high.",
+        "de": "Fusionsenergie hat das Potenzial, in Zukunft eine stabile, emissionsfreie Stromquelle zu werden, aber neue Forschungen deuten darauf hin, dass die Kosten für den Bau und Betrieb von Fusionsanlagen weiterhin hoch sein könnten."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-23",
@@ -41,9 +41,9 @@
         "de": "KI benötigt ein starkes Datengewebe, um geschäftlichen Nutzen zu liefern"
       },
       "summary": {
-        "zh": "人工智能在企业中的应用正在迅速发展，组织需要强大的数据架构来支持日常使用和商业价值的实现。",
-        "en": "Artificial intelligence is rapidly advancing in enterprises, and organizations need a strong data fabric to support everyday use and deliver business value.",
-        "de": "Künstliche Intelligenz entwickelt sich schnell in Unternehmen, und Organisationen benötigen ein starkes Datengewebe, um die alltägliche Nutzung zu unterstützen und geschäftlichen Nutzen zu liefern."
+        "zh": "人工智能在企业中迅速发展，组织正在部署助手和代理，以实现日常使用，但需要强大的数据架构来支持这些应用。",
+        "en": "Artificial intelligence is rapidly advancing in enterprises, with organizations deploying copilots and agents for everyday use, but a strong data fabric is needed to support these applications.",
+        "de": "Künstliche Intelligenz entwickelt sich in Unternehmen schnell weiter, wobei Organisationen Co-Piloten und Agenten für den täglichen Gebrauch einsetzen, aber ein starkes Datengewebe erforderlich ist, um diese Anwendungen zu unterstützen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-22",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国将一些大麻产品重新分类为较不危险的药物",
-        "en": "US reclassifies some marijuana products as less dangerous drug",
-        "de": "Die USA klassifizieren einige Marihuana-Produkte als weniger gefährliche Droge um"
+        "zh": "伊朗战争：特朗普延长停火后的第56天发生了什么？",
+        "en": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
+        "de": "Iran-Krieg: Was passiert am 56. Tag, nachdem Trump den Waffenstillstand verlängert hat?"
       },
       "summary": {
-        "zh": "美国重新分类某些大麻产品，标志着对重刑惩罚的转变，反映出广泛的合法化努力。",
-        "en": "The US has reclassified certain marijuana products, marking a shift away from heavy penalization and reflecting widespread legalization efforts.",
-        "de": "Die USA haben einige Marihuana-Produkte neu klassifiziert, was einen Wandel von strengen Strafen markiert und weitreichende Legalisierungsbemühungen widerspiegelt."
+        "zh": "以色列与黎巴嫩的停火在白宫与以色列和黎巴嫩特使的谈判后延长了三周，局势依然紧张。",
+        "en": "The ceasefire between Israel and Lebanon has been extended by three weeks following White House talks with Israeli and Lebanese envoys, with tensions remaining high.",
+        "de": "Der Waffenstillstand zwischen Israel und Libanon wurde nach Gesprächen im Weißen Haus mit israelischen und libanesischen Gesandten um drei Wochen verlängert, wobei die Spannungen hoch bleiben."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-23",
-      "url": "https://www.aljazeera.com/news/2026/4/23/us-reclassifies-some-marijuana-products-as-less-dangerous-drug?traffic_source=rss"
+      "date": "2026-04-24",
+      "url": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "墨西哥倾向于“首领战略”，但代价高昂",
-        "en": "Decapitating cartels? Mexico leans into ‘kingpin strategy’ but at a cost",
-        "de": "Kartelle köpfen? Mexiko setzt auf die 'Kingpin-Strategie', aber zu einem Preis"
+        "zh": "美国教授因在支持巴勒斯坦抗议中被捕而起诉大学",
+        "en": "US professors sue university over arrest during pro-Palestine protest",
+        "de": "US-Professoren verklagen Universität wegen Festnahme während Pro-Palästina-Protest"
       },
       "summary": {
-        "zh": "在美国的压力下，墨西哥总统授权军事行动逮捕贩毒集团领导人，代价高昂。",
-        "en": "Under pressure from the US, Mexico's president has authorized military operations to arrest cartel leaders, which comes at a high cost.",
-        "de": "Unter Druck der USA hat die mexikanische Präsidentin militärische Operationen zur Festnahme von Drogenkartellführern genehmigt, was hohe Kosten verursacht."
+        "zh": "哲学教授诺埃尔·麦卡菲指控大学在对抗议活动的镇压中未能保护学生和员工，提起诉讼。",
+        "en": "Philosophy professor Noelle McAfee alleges that the university failed to protect students and staff during the crackdown on protests and has filed a lawsuit.",
+        "de": "Philosophieprofessorin Noelle McAfee behauptet, dass die Universität versäumt hat, Studenten und Mitarbeiter während der Niederschlagung von Protesten zu schützen, und hat Klage erhoben."
       },
       "source": "Al Jazeera",
       "date": "2026-04-23",
-      "url": "https://www.aljazeera.com/features/longform/2026/4/23/decapitating-cartels-mexico-leans-into-kingpin-strategy-but-at-a-cost?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国-以色列对伊朗的战争将使3000万人重新陷入贫困，联合国警告",
-        "en": "US-Israeli war on Iran will push 30 million back into poverty, UN warns",
-        "de": "Der US-israelische Krieg gegen den Iran wird 30 Millionen Menschen zurück in die Armut drängen, warnt die UN"
+        "zh": "特朗普告诉BBC国王的访问可能“绝对”有助于修复与英国的关系",
+        "en": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+        "de": "Trump sagt der BBC, dass der Besuch des Königs 'absolut' helfen könnte, die Beziehungen zum Vereinigten Königreich zu reparieren"
       },
       "summary": {
-        "zh": "联合国开发计划署负责人警告，由于霍尔木兹海峡的封闭，燃料和化肥供应的中断将影响作物产量。",
-        "en": "The UNDP chief warns that disruptions to fuel and fertilizer supplies due to the closure of the Strait of Hormuz will impact crop yields, pushing 30 million back into poverty.",
-        "de": "Der Leiter des UNDP warnt, dass Störungen der Brennstoff- und Düngemittelversorgung aufgrund der Schließung der Straße von Hormuz die Ernteerträge beeinträchtigen und 30 Millionen Menschen zurück in die Armut drängen werden."
+        "zh": "特朗普在接受BBC采访时讨论了国王即将到来的访问及其与英国首相的关系，表示此行可能有助于改善双边关系。",
+        "en": "In a phone interview with the BBC, Trump discussed the upcoming visit of the King and his relationship with the UK Prime Minister, stating that the visit could help improve bilateral relations.",
+        "de": "In einem Telefoninterview mit der BBC sprach Trump über den bevorstehenden Besuch des Königs und seine Beziehung zum britischen Premierminister und erklärte, dass der Besuch helfen könnte, die bilateralen Beziehungen zu verbessern."
       },
-      "source": "Al Jazeera",
-      "date": "2026-04-23",
-      "url": "https://www.aljazeera.com/news/2026/4/23/us-israeli-war-on-iran-will-push-30-million-back-into-poverty-un-warns?traffic_source=rss"
+      "source": "BBC News",
+      "date": "2026-04-24",
+      "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
@@ -109,9 +109,9 @@
         "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
       },
       "summary": {
-        "zh": "伊朗经济在战争前就已脆弱，现在由于冲突而急剧下滑，给政权和公民带来了严峻现实。",
-        "en": "Iran's economy, already vulnerable before the war, is now in freefall due to the conflict, presenting a brutal reality for the regime and its citizens.",
-        "de": "Die iranische Wirtschaft, die bereits vor dem Krieg anfällig war, befindet sich nun aufgrund des Konflikts im freien Fall und stellt eine brutale Realität für das Regime und seine Bürger dar."
+        "zh": "伊朗的经济在战争前就已经脆弱，现在由于冲突的加剧，经济状况变得更加严峻，图表显示出其急剧下滑的趋势。",
+        "en": "Iran's economy was already vulnerable before the war, and now, due to the escalation of conflict, the economic situation has worsened significantly, as shown by the charts indicating a sharp decline.",
+        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig, und jetzt, aufgrund der Eskalation des Konflikts, hat sich die wirtschaftliche Lage erheblich verschlechtert, wie die Diagramme zeigen, die einen starken Rückgang anzeigen."
       },
       "source": "CNBC",
       "date": "2026-04-23",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普延长伊朗停火——但市场焦点已转移",
+        "zh": "特朗普延长伊朗停火——但市场焦点已转向其他地方",
         "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Waffenstillstand - aber der Markt hat sich bereits woanders hingewandt"
+        "de": "Trump verlängert den Waffenstillstand mit dem Iran – aber der Markt hat sich bereits woanders hinbewegt"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场对进一步谈判的前景仍不确定，焦点已转向其他领域。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, the market remains uncertain about further negotiations, with focus shifting elsewhere.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran bleibt der Markt hinsichtlich weiterer Verhandlungen unsicher, während der Fokus sich woanders hin verschiebt."
+        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转移，投资者对未来谈判的前景感到不确定。",
+        "en": "Despite Trump's extension of the ceasefire with Iran, market attention has shifted, with investors feeling uncertain about the prospects for future negotiations.",
+        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich die Marktaufmerksamkeit verschoben, da die Investoren sich über die Aussichten für zukünftige Verhandlungen unsicher fühlen."
       },
       "source": "CNBC",
       "date": "2026-04-22",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "‘战场上的新牌’：美国和伊朗在和平谈判中加剧言辞",
-        "en": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
-        "de": "‘Neue Karten auf dem Schlachtfeld’: USA und Iran verschärfen die Rhetorik, während Friedensgespräche ins Stocken geraten"
+        "zh": "特朗普在市场上的影响力超越了几十年来的任何总统",
+        "en": "Trump is swaying the market like no president has in decades, analysis shows",
+        "de": "Trump beeinflusst den Markt wie kein Präsident seit Jahrzehnten, zeigt eine Analyse"
       },
       "summary": {
-        "zh": "美国和伊朗在和平谈判停滞不前的情况下，双方加大了言辞的激烈程度，分析师表示美国谈判代表可能处于劣势。",
-        "en": "With peace talks stalled, the US and Iran have ramped up their rhetoric, with analysts suggesting that American negotiators may be outmatched at the negotiating table.",
-        "de": "Da die Friedensgespräche ins Stocken geraten sind, haben die USA und der Iran ihre Rhetorik verschärft, wobei Analysten darauf hinweisen, dass die amerikanischen Verhandler am Verhandlungstisch möglicherweise unterlegen sind."
+        "zh": "分析显示，特朗普在其第二任期内对股市的影响力显著，成为市场波动的主要驱动力。",
+        "en": "Analysis shows that Trump has had a significant influence on the stock market during his second term, becoming a major driver of market volatility.",
+        "de": "Analysen zeigen, dass Trump während seiner zweiten Amtszeit einen erheblichen Einfluss auf den Aktienmarkt hatte und zu einem wichtigen Treiber der Marktvolatilität geworden ist."
       },
-      "source": "CNBC",
-      "date": "2026-04-21",
-      "url": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html"
+      "source": "MarketWatch",
+      "date": "2026-04-23",
+      "url": "https://www.marketwatch.com/story/trump-is-swaying-the-market-like-no-president-has-in-decades-analysis-shows-879be0bc?mod=mw_rss_topstories"
     }
   ]
 }
