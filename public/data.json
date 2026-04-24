@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-04-24T06:27:09.498001+00:00",
+  "generatedAt": "2026-04-24T17:28:02.617550+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：介绍自然问题",
-        "en": "The Download: introducing the Nature issue",
-        "de": "Der Download: Einführung in die Naturausgabe"
+        "zh": "下载：超级诈骗和研究AI医疗保健",
+        "en": "The Download: supercharged scams and studying AI healthcare",
+        "de": "Der Download: supergeladene Betrügereien und das Studium der KI-Gesundheitsversorgung"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于技术世界的最新动态，特别关注自然问题的相关讨论。",
-        "en": "Today's edition of The Download provides the latest updates from the world of technology, with a particular focus on discussions related to the Nature issue.",
-        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technikwelt, mit besonderem Fokus auf Diskussionen zu den Naturfragen."
+        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括超级诈骗的兴起和AI在医疗保健中的应用研究。",
+        "en": "Today's edition of The Download provides the latest updates from the world of technology, including the rise of supercharged scams and research into AI applications in healthcare.",
+        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich des Anstiegs von supergeladenen Betrügereien und der Forschung zu KI-Anwendungen im Gesundheitswesen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-23",
-      "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/"
+      "date": "2026-04-24",
+      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "核聚变能源会变便宜吗？别指望它。",
-        "en": "Will fusion power get cheap? Don’t count on it.",
-        "de": "Wird Fusionsenergie billig werden? Zählen Sie nicht darauf."
+        "zh": "医疗保健AI已经到来。我们不知道它是否真的对患者有帮助。",
+        "en": "Health-care AI is here. We don’t know if it actually helps patients.",
+        "de": "Die KI im Gesundheitswesen ist da. Wir wissen nicht, ob sie den Patienten tatsächlich hilft."
       },
       "summary": {
-        "zh": "核聚变能源有潜力成为未来稳定的零排放电力来源，但新研究表明，建造和运行核聚变电厂的成本可能仍然很高。",
-        "en": "Fusion power has the potential to become a stable, zero-emissions source of electricity in the future, but new research suggests that the costs of building and operating fusion plants may still be high.",
-        "de": "Fusionsenergie hat das Potenzial, in Zukunft eine stabile, emissionsfreie Stromquelle zu werden, aber neue Forschungen deuten darauf hin, dass die Kosten für den Bau und Betrieb von Fusionsanlagen weiterhin hoch sein könnten."
+        "zh": "尽管AI在医院的使用日益普遍，但其对患者的实际帮助仍然不确定，医生们正在使用AI来辅助记录。",
+        "en": "While AI is increasingly used in hospitals, its actual benefit to patients remains uncertain, with doctors using AI to assist in note-taking.",
+        "de": "Obwohl KI zunehmend in Krankenhäusern eingesetzt wird, bleibt ihr tatsächlicher Nutzen für Patienten ungewiss, da Ärzte KI zur Unterstützung bei der Notiznahme verwenden."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-23",
-      "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/"
+      "date": "2026-04-24",
+      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "人工智能需要强大的数据架构以提供商业价值",
+        "zh": "AI需要强大的数据结构来提供商业价值",
         "en": "AI needs a strong data fabric to deliver business value",
-        "de": "KI benötigt ein starkes Datengewebe, um geschäftlichen Nutzen zu liefern"
+        "de": "KI benötigt eine starke Datenstruktur, um Geschäftswert zu liefern"
       },
       "summary": {
-        "zh": "人工智能在企业中迅速发展，组织正在部署助手和代理，以实现日常使用，但需要强大的数据架构来支持这些应用。",
-        "en": "Artificial intelligence is rapidly advancing in enterprises, with organizations deploying copilots and agents for everyday use, but a strong data fabric is needed to support these applications.",
-        "de": "Künstliche Intelligenz entwickelt sich in Unternehmen schnell weiter, wobei Organisationen Co-Piloten und Agenten für den täglichen Gebrauch einsetzen, aber ein starkes Datengewebe erforderlich ist, um diese Anwendungen zu unterstützen."
+        "zh": "随着人工智能在企业中的快速发展，组织需要强大的数据结构来支持日常使用和商业价值的实现。",
+        "en": "As artificial intelligence rapidly advances in enterprises, organizations need a strong data fabric to support daily use and deliver business value.",
+        "de": "Da die künstliche Intelligenz in Unternehmen schnell voranschreitet, benötigen Organisationen eine starke Datenstruktur, um die tägliche Nutzung zu unterstützen und Geschäftswert zu liefern."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-22",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗战争：特朗普延长停火后的第56天发生了什么？",
-        "en": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
-        "de": "Iran-Krieg: Was passiert am 56. Tag, nachdem Trump den Waffenstillstand verlängert hat?"
+        "zh": "俄罗斯石油出口下滑，乌克兰打击港口和炼油厂",
+        "en": "Russian oil exports slump as Ukraine hammers ports and refineries",
+        "de": "Russische Ölexporte sinken, während die Ukraine Häfen und Raffinerien angreift"
       },
       "summary": {
-        "zh": "以色列与黎巴嫩的停火在白宫与以色列和黎巴嫩特使的谈判后延长了三周，局势依然紧张。",
-        "en": "The ceasefire between Israel and Lebanon has been extended by three weeks following White House talks with Israeli and Lebanese envoys, with tensions remaining high.",
-        "de": "Der Waffenstillstand zwischen Israel und Libanon wurde nach Gesprächen im Weißen Haus mit israelischen und libanesischen Gesandten um drei Wochen verlängert, wobei die Spannungen hoch bleiben."
+        "zh": "尽管美国的制裁豁免，俄罗斯的石油出口可能降至2023年以来的最低水平，原因是乌克兰对其港口和炼油厂的攻击。",
+        "en": "Despite a U.S. sanctions waiver, Russian oil exports could fall to their lowest levels since 2023 due to Ukraine's attacks on its ports and refineries.",
+        "de": "Trotz einer US-Sanktionserlaubnis könnten die russischen Ölexporte aufgrund der Angriffe der Ukraine auf seine Häfen und Raffinerien auf den niedrigsten Stand seit 2023 fallen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-24",
-      "url": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国教授因在支持巴勒斯坦抗议中被捕而起诉大学",
-        "en": "US professors sue university over arrest during pro-Palestine protest",
-        "de": "US-Professoren verklagen Universität wegen Festnahme während Pro-Palästina-Protest"
+        "zh": "美国司法部撤销对美联储主席杰罗姆·鲍威尔的刑事调查",
+        "en": "US Justice Department drops criminal probe of Fed chair Jerome Powell",
+        "de": "US-Justizministerium stellt strafrechtliche Untersuchung von Fed-Vorsitzendem Jerome Powell ein"
       },
       "summary": {
-        "zh": "哲学教授诺埃尔·麦卡菲指控大学在对抗议活动的镇压中未能保护学生和员工，提起诉讼。",
-        "en": "Philosophy professor Noelle McAfee alleges that the university failed to protect students and staff during the crackdown on protests and has filed a lawsuit.",
-        "de": "Philosophieprofessorin Noelle McAfee behauptet, dass die Universität versäumt hat, Studenten und Mitarbeiter während der Niederschlagung von Protesten zu schützen, und hat Klage erhoben."
+        "zh": "美国司法部的这一宣布预计将为其继任者凯文·沃什的确认铺平道路。",
+        "en": "The announcement from the U.S. Justice Department is expected to clear the way for the confirmation of his successor, Kevin Warsh.",
+        "de": "Die Ankündigung des US-Justizministeriums wird voraussichtlich den Weg für die Bestätigung seines Nachfolgers Kevin Warsh ebnen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-23",
-      "url": "https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss"
+      "date": "2026-04-24",
+      "url": "https://www.aljazeera.com/economy/2026/4/24/us-justice-department-drops-criminal-probe-of-fed-chair-jerome-powell?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普告诉BBC国王的访问可能“绝对”有助于修复与英国的关系",
-        "en": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-        "de": "Trump sagt der BBC, dass der Besuch des Königs 'absolut' helfen könnte, die Beziehungen zum Vereinigten Königreich zu reparieren"
+        "zh": "美国在中东首次拥有三艘航空母舰，自2003年以来首次",
+        "en": "US has three aircraft carriers in the Middle East for first time since 2003",
+        "de": "Die USA haben zum ersten Mal seit 2003 drei Flugzeugträger im Nahen Osten"
       },
       "summary": {
-        "zh": "特朗普在接受BBC采访时讨论了国王即将到来的访问及其与英国首相的关系，表示此行可能有助于改善双边关系。",
-        "en": "In a phone interview with the BBC, Trump discussed the upcoming visit of the King and his relationship with the UK Prime Minister, stating that the visit could help improve bilateral relations.",
-        "de": "In einem Telefoninterview mit der BBC sprach Trump über den bevorstehenden Besuch des Königs und seine Beziehung zum britischen Premierminister und erklärte, dass der Besuch helfen könnte, die bilateralen Beziehungen zu verbessern."
+        "zh": "随着紧张局势加剧，美国军方表示已将34艘船只重新部署，作为对伊朗港口封锁的一部分。",
+        "en": "As tensions escalate, the U.S. military states it has redirected 34 vessels as part of a blockade on Iran's ports.",
+        "de": "Mit zunehmenden Spannungen erklärt das US-Militär, dass es 34 Schiffe umgeleitet hat, als Teil einer Blockade der iranischen Häfen."
       },
-      "source": "BBC News",
+      "source": "Al Jazeera",
       "date": "2026-04-24",
-      "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -109,9 +109,9 @@
         "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
       },
       "summary": {
-        "zh": "伊朗的经济在战争前就已经脆弱，现在由于冲突的加剧，经济状况变得更加严峻，图表显示出其急剧下滑的趋势。",
-        "en": "Iran's economy was already vulnerable before the war, and now, due to the escalation of conflict, the economic situation has worsened significantly, as shown by the charts indicating a sharp decline.",
-        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig, und jetzt, aufgrund der Eskalation des Konflikts, hat sich die wirtschaftliche Lage erheblich verschlechtert, wie die Diagramme zeigen, die einen starken Rückgang anzeigen."
+        "zh": "德黑兰的强硬言辞掩盖了该政权及其公民面临的残酷现实：在战争之前，伊朗经济就已经脆弱，现在更是岌岌可危。",
+        "en": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
+        "de": "Die harte Rhetorik Teherans verdeckt eine brutale Realität, mit der das Regime und die iranischen Bürger konfrontiert sind: Ihre Wirtschaft, die bereits vor dem Krieg anfällig war, ist jetzt am Boden."
       },
       "source": "CNBC",
       "date": "2026-04-23",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普延长伊朗停火——但市场焦点已转向其他地方",
+        "zh": "特朗普延长伊朗停火——但市场的关注已经转移",
         "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Waffenstillstand mit dem Iran – aber der Markt hat sich bereits woanders hinbewegt"
+        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hinbewegt"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转移，投资者对未来谈判的前景感到不确定。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, market attention has shifted, with investors feeling uncertain about the prospects for future negotiations.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich die Marktaufmerksamkeit verschoben, da die Investoren sich über die Aussichten für zukünftige Verhandlungen unsicher fühlen."
+        "zh": "尽管特朗普延长了停火协议，但市场对进一步谈判的前景仍然不确定，德黑兰和华盛顿在停火状态上发出了相互矛盾的信号。",
+        "en": "Despite Trump's extension of the ceasefire, market prospects for further negotiations remain uncertain, with Tehran and Washington sending conflicting signals about the ceasefire's status.",
+        "de": "Trotz Trumps Verlängerung des Waffenstillstands bleiben die Marktchancen für weitere Verhandlungen ungewiss, da Teheran und Washington widersprüchliche Signale über den Status des Waffenstillstands senden."
       },
       "source": "CNBC",
       "date": "2026-04-22",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普在市场上的影响力超越了几十年来的任何总统",
-        "en": "Trump is swaying the market like no president has in decades, analysis shows",
-        "de": "Trump beeinflusst den Markt wie kein Präsident seit Jahrzehnten, zeigt eine Analyse"
+        "zh": "特斯拉正走向“失控、不可持续”的支出道路，分析师警告",
+        "en": "Tesla is headed down a path of ‘runaway, unsustainable’ spending, analysts warn",
+        "de": "Tesla steuert auf einen Weg des 'ausufernden, nicht nachhaltigen' Ausgebens zu, warnen Analysten"
       },
       "summary": {
-        "zh": "分析显示，特朗普在其第二任期内对股市的影响力显著，成为市场波动的主要驱动力。",
-        "en": "Analysis shows that Trump has had a significant influence on the stock market during his second term, becoming a major driver of market volatility.",
-        "de": "Analysen zeigen, dass Trump während seiner zweiten Amtszeit einen erheblichen Einfluss auf den Aktienmarkt hatte und zu einem wichtigen Treiber der Marktvolatilität geworden ist."
+        "zh": "分析师警告称，特斯拉计划在2026年支出“超过”250亿美元，远超其以往任何一年。",
+        "en": "Analysts warn that Tesla plans to spend 'in excess' of $25 billion in 2026, far more than it has ever spent in a single year.",
+        "de": "Analysten warnen, dass Tesla plant, im Jahr 2026 'über' 25 Milliarden Dollar auszugeben, was weit mehr ist als in jedem anderen Jahr."
       },
       "source": "MarketWatch",
-      "date": "2026-04-23",
-      "url": "https://www.marketwatch.com/story/trump-is-swaying-the-market-like-no-president-has-in-decades-analysis-shows-879be0bc?mod=mw_rss_topstories"
+      "date": "2026-04-24",
+      "url": "https://www.marketwatch.com/story/tesla-is-headed-down-a-path-of-runaway-unsustainable-spending-analysts-warn-60f16c6c?mod=mw_rss_topstories"
     }
   ]
 }
