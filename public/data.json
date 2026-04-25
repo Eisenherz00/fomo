@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-04-24T17:28:02.617550+00:00",
+  "generatedAt": "2026-04-25T06:08:13.192313+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：超级诈骗和研究AI医疗保健",
-        "en": "The Download: supercharged scams and studying AI healthcare",
-        "de": "Der Download: supergeladene Betrügereien und das Studium der KI-Gesundheitsversorgung"
+        "zh": "DeepSeek的新模型为何重要的三个原因",
+        "en": "Three reasons why DeepSeek’s new model matters",
+        "de": "Drei Gründe, warum DeepSeeks neues Modell wichtig ist"
       },
       "summary": {
-        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括超级诈骗的兴起和AI在医疗保健中的应用研究。",
-        "en": "Today's edition of The Download provides the latest updates from the world of technology, including the rise of supercharged scams and research into AI applications in healthcare.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich des Anstiegs von supergeladenen Betrügereien und der Forschung zu KI-Anwendungen im Gesundheitswesen."
+        "zh": "中国人工智能公司DeepSeek于周五发布了其期待已久的新旗舰模型V4的预览。该模型能够处理更长的提示，这标志着AI技术的重大进步。",
+        "en": "Chinese AI firm DeepSeek released a preview of its long-awaited new flagship model V4 on Friday. Notably, the model can process much longer prompts, marking a significant advancement in AI technology.",
+        "de": "Das chinesische KI-Unternehmen DeepSeek hat am Freitag eine Vorschau auf sein lang erwartetes neues Flaggschiffmodell V4 veröffentlicht. Bemerkenswert ist, dass das Modell viel längere Eingaben verarbeiten kann, was einen bedeutenden Fortschritt in der KI-Technologie darstellt."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-24",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/"
+      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "医疗保健AI已经到来。我们不知道它是否真的对患者有帮助。",
+        "zh": "医疗保健AI已经到来。我们不知道它是否真的帮助患者。",
         "en": "Health-care AI is here. We don’t know if it actually helps patients.",
-        "de": "Die KI im Gesundheitswesen ist da. Wir wissen nicht, ob sie den Patienten tatsächlich hilft."
+        "de": "Gesundheitswesen-KI ist da. Wir wissen nicht, ob sie den Patienten tatsächlich hilft."
       },
       "summary": {
-        "zh": "尽管AI在医院的使用日益普遍，但其对患者的实际帮助仍然不确定，医生们正在使用AI来辅助记录。",
-        "en": "While AI is increasingly used in hospitals, its actual benefit to patients remains uncertain, with doctors using AI to assist in note-taking.",
-        "de": "Obwohl KI zunehmend in Krankenhäusern eingesetzt wird, bleibt ihr tatsächlicher Nutzen für Patienten ungewiss, da Ärzte KI zur Unterstützung bei der Notiznahme verwenden."
+        "zh": "人工智能在医院的应用越来越普遍，但其对患者的实际帮助仍然不确定。医生正在使用AI来协助记录，但效果尚待验证。",
+        "en": "AI is increasingly being used in hospitals, but its actual benefits to patients remain uncertain. Doctors are using AI to assist with note-taking, but the effectiveness is yet to be validated.",
+        "de": "KI wird zunehmend in Krankenhäusern eingesetzt, aber ihre tatsächlichen Vorteile für Patienten bleiben ungewiss. Ärzte verwenden KI zur Unterstützung bei der Notizenaufnahme, aber die Wirksamkeit muss noch validiert werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-24",
@@ -36,118 +36,117 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI需要强大的数据结构来提供商业价值",
-        "en": "AI needs a strong data fabric to deliver business value",
-        "de": "KI benötigt eine starke Datenstruktur, um Geschäftswert zu liefern"
+        "zh": "超级充电诈骗和研究AI医疗保健：下载",
+        "en": "The Download: supercharged scams and studying AI healthcare",
+        "de": "Der Download: Supercharged-Betrügereien und das Studium der KI-Gesundheitsversorgung"
       },
       "summary": {
-        "zh": "随着人工智能在企业中的快速发展，组织需要强大的数据结构来支持日常使用和商业价值的实现。",
-        "en": "As artificial intelligence rapidly advances in enterprises, organizations need a strong data fabric to support daily use and deliver business value.",
-        "de": "Da die künstliche Intelligenz in Unternehmen schnell voranschreitet, benötigen Organisationen eine starke Datenstruktur, um die tägliche Nutzung zu unterstützen und Geschäftswert zu liefern."
+        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括超级充电的诈骗和AI在医疗保健中的应用研究。",
+        "en": "Today's edition of The Download provides the latest updates from the tech world, including supercharged scams and research into AI applications in healthcare.",
+        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technikwelt, einschließlich aufgeladenen Betrügereien und Forschungen zu KI-Anwendungen im Gesundheitswesen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-22",
-      "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/"
+      "date": "2026-04-24",
+      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯石油出口下滑，乌克兰打击港口和炼油厂",
-        "en": "Russian oil exports slump as Ukraine hammers ports and refineries",
-        "de": "Russische Ölexporte sinken, während die Ukraine Häfen und Raffinerien angreift"
+        "zh": "以色列在加沙升级攻击，造成12人死亡",
+        "en": "Israel escalates attacks in Gaza, killing 12 people",
+        "de": "Israel eskaliert Angriffe in Gaza und tötet 12 Menschen"
       },
       "summary": {
-        "zh": "尽管美国的制裁豁免，俄罗斯的石油出口可能降至2023年以来的最低水平，原因是乌克兰对其港口和炼油厂的攻击。",
-        "en": "Despite a U.S. sanctions waiver, Russian oil exports could fall to their lowest levels since 2023 due to Ukraine's attacks on its ports and refineries.",
-        "de": "Trotz einer US-Sanktionserlaubnis könnten die russischen Ölexporte aufgrund der Angriffe der Ukraine auf seine Häfen und Raffinerien auf den niedrigsten Stand seit 2023 fallen."
+        "zh": "以色列军队在加沙的多次攻击中造成12名巴勒斯坦人死亡，其中包括六名警察。这一升级引发了国际社会的广泛关注。",
+        "en": "Israeli forces have killed 12 Palestinians, including six police officers, in multiple attacks across Gaza. This escalation has drawn significant international attention.",
+        "de": "Israels Streitkräfte haben in mehreren Angriffen in Gaza 12 Palästinenser, darunter sechs Polizisten, getötet. Diese Eskalation hat erhebliche internationale Aufmerksamkeit erregt."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-24",
-      "url": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss"
+      "date": "2026-04-25",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/israel-escalates-attacks-in-gaza-killing-12-people?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国司法部撤销对美联储主席杰罗姆·鲍威尔的刑事调查",
-        "en": "US Justice Department drops criminal probe of Fed chair Jerome Powell",
-        "de": "US-Justizministerium stellt strafrechtliche Untersuchung von Fed-Vorsitzendem Jerome Powell ein"
+        "zh": "没有主权的选举：巴勒斯坦地方选举真正代表什么",
+        "en": "Elections without sovereignty: What Palestine’s local vote really represent",
+        "de": "Wahlen ohne Souveränität: Was die lokalen Wahlen in Palästina wirklich darstellen"
       },
       "summary": {
-        "zh": "美国司法部的这一宣布预计将为其继任者凯文·沃什的确认铺平道路。",
-        "en": "The announcement from the U.S. Justice Department is expected to clear the way for the confirmation of his successor, Kevin Warsh.",
-        "de": "Die Ankündigung des US-Justizministeriums wird voraussichtlich den Weg für die Bestätigung seines Nachfolgers Kevin Warsh ebnen."
+        "zh": "巴勒斯坦的地方选举提供了参与但缺乏权力的机会，揭示了占领如何塑造和限制巴勒斯坦的政治生活。",
+        "en": "The local elections in Palestine offer participation without power, revealing how occupation shapes and limits Palestinian political life.",
+        "de": "Die Kommunalwahlen in Palästina bieten eine Teilnahme ohne Macht und zeigen, wie die Besatzung das politische Leben der Palästinenser prägt und einschränkt."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-24",
-      "url": "https://www.aljazeera.com/economy/2026/4/24/us-justice-department-drops-criminal-probe-of-fed-chair-jerome-powell?traffic_source=rss"
+      "date": "2026-04-25",
+      "url": "https://www.aljazeera.com/opinions/2026/4/25/elections-without-sovereignty-what-palestines-local-vote-really-represent?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国在中东首次拥有三艘航空母舰，自2003年以来首次",
-        "en": "US has three aircraft carriers in the Middle East for first time since 2003",
-        "de": "Die USA haben zum ersten Mal seit 2003 drei Flugzeugträger im Nahen Osten"
+        "zh": "伊朗与美国在伊斯兰堡的利益",
+        "en": "What’s at stake for Iran and the US in Islamabad?",
+        "de": "Was steht für den Iran und die USA in Islamabad auf dem Spiel?"
       },
       "summary": {
-        "zh": "随着紧张局势加剧，美国军方表示已将34艘船只重新部署，作为对伊朗港口封锁的一部分。",
-        "en": "As tensions escalate, the U.S. military states it has redirected 34 vessels as part of a blockade on Iran's ports.",
-        "de": "Mit zunehmenden Spannungen erklärt das US-Militär, dass es 34 Schiffe umgeleitet hat, als Teil einer Blockade der iranischen Häfen."
+        "zh": "伊朗外长正在伊斯兰堡与美国代表会面，双方的会谈可能对地区局势产生重要影响。",
+        "en": "Iran's foreign minister is meeting with US envoys in Islamabad, with discussions that could have significant implications for regional dynamics.",
+        "de": "Der iranische Außenminister trifft sich in Islamabad mit US-Vertretern, wobei die Gespräche erhebliche Auswirkungen auf die regionalen Dynamiken haben könnten."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-24",
-      "url": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss"
+      "date": "2026-04-25",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "这些图表显示伊朗经济正在自由落体",
-        "en": "These charts show how Iran's economy is in freefall",
-        "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
+        "zh": "美联储主席鲍威尔面临重大决定",
+        "en": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
+        "de": "Bleibt er oder geht er? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Chef Powell vor einer großen Entscheidung"
       },
       "summary": {
-        "zh": "德黑兰的强硬言辞掩盖了该政权及其公民面临的残酷现实：在战争之前，伊朗经济就已经脆弱，现在更是岌岌可危。",
-        "en": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
-        "de": "Die harte Rhetorik Teherans verdeckt eine brutale Realität, mit der das Regime und die iranischen Bürger konfrontiert sind: Ihre Wirtschaft, die bereits vor dem Krieg anfällig war, ist jetzt am Boden."
+        "zh": "美联储主席鲍威尔在刑事调查结束后面临重要决策，这一决定可能对当前的政策制定产生重要影响。",
+        "en": "Fed Chair Powell faces a significant decision following the conclusion of a criminal probe, a choice that could have important ramifications for current policymaking.",
+        "de": "Fed-Chef Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung, die erhebliche Auswirkungen auf die aktuelle Politikgestaltung haben könnte."
+      },
+      "source": "CNBC",
+      "date": "2026-04-24",
+      "url": "https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "伊朗经济崩溃的图表",
+        "en": "These charts show how Iran's economy is in freefall"
+      },
+      "summary": {
+        "zh": "伊朗的经济在战争前就已经脆弱，如今在冲突中更加恶化。最新数据显示，伊朗的经济正处于崩溃状态。",
+        "en": "Iran's economy was vulnerable even before the war, and the current conflict has exacerbated the situation. Recent data shows that Iran's economy is in freefall.",
+        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig, und der aktuelle Konflikt hat die Situation verschärft. Neueste Daten zeigen, dass die iranische Wirtschaft im freien Fall ist."
       },
       "source": "CNBC",
       "date": "2026-04-23",
       "url": "https://www.cnbc.com/2026/04/23/iran-economy-war-charts-rial-oil-strait-hormuz-blockade.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "特朗普延长伊朗停火——但市场的关注已经转移",
-        "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hinbewegt"
-      },
-      "summary": {
-        "zh": "尽管特朗普延长了停火协议，但市场对进一步谈判的前景仍然不确定，德黑兰和华盛顿在停火状态上发出了相互矛盾的信号。",
-        "en": "Despite Trump's extension of the ceasefire, market prospects for further negotiations remain uncertain, with Tehran and Washington sending conflicting signals about the ceasefire's status.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands bleiben die Marktchancen für weitere Verhandlungen ungewiss, da Teheran und Washington widersprüchliche Signale über den Status des Waffenstillstands senden."
-      },
-      "source": "CNBC",
-      "date": "2026-04-22",
-      "url": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "特斯拉正走向“失控、不可持续”的支出道路，分析师警告",
-        "en": "Tesla is headed down a path of ‘runaway, unsustainable’ spending, analysts warn",
-        "de": "Tesla steuert auf einen Weg des 'ausufernden, nicht nachhaltigen' Ausgebens zu, warnen Analysten"
+        "zh": "英特尔股票创近四十年来最佳表现",
+        "en": "Intel’s stock extends its spectacular run by posting its best day in nearly four decades",
+        "de": "Die Aktie von Intel setzt ihren spektakulären Lauf fort und verzeichnet den besten Tag seit fast vier Jahrzehnten"
       },
       "summary": {
-        "zh": "分析师警告称，特斯拉计划在2026年支出“超过”250亿美元，远超其以往任何一年。",
-        "en": "Analysts warn that Tesla plans to spend 'in excess' of $25 billion in 2026, far more than it has ever spent in a single year.",
-        "de": "Analysten warnen, dass Tesla plant, im Jahr 2026 'über' 25 Milliarden Dollar auszugeben, was weit mehr ist als in jedem anderen Jahr."
+        "zh": "英特尔的股票在近四十年来表现最佳，市场对其财务前景的讨论引发了广泛关注。",
+        "en": "Intel's stock has posted its best performance in nearly four decades, sparking widespread discussion about its financial prospects.",
+        "de": "Die Aktie von Intel hat die beste Leistung seit fast vier Jahrzehnten erzielt, was eine breite Diskussion über ihre finanziellen Aussichten ausgelöst hat."
       },
       "source": "MarketWatch",
       "date": "2026-04-24",
-      "url": "https://www.marketwatch.com/story/tesla-is-headed-down-a-path-of-runaway-unsustainable-spending-analysts-warn-60f16c6c?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories"
     }
   ]
 }
