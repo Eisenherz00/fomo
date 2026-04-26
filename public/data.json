@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-25T17:06:06.858489+00:00",
+  "generatedAt": "2026-04-26T06:24:41.718934+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "DeepSeek新模型重要性的三大理由",
+        "zh": "DeepSeek新模型的重要性有三点原因",
         "en": "Three reasons why DeepSeek’s new model matters",
         "de": "Drei Gründe, warum das neue Modell von DeepSeek wichtig ist"
       },
       "summary": {
-        "zh": "中国人工智能公司DeepSeek于4月24日发布了其备受期待的新旗舰模型V4。该模型能够处理更长的提示，这可能会对AI应用产生深远影响。",
-        "en": "Chinese AI firm DeepSeek released its long-awaited new flagship model V4 on April 24. Notably, the model can process much longer prompts, which could have significant implications for AI applications.",
-        "de": "Die chinesische KI-Firma DeepSeek hat am 24. April ihr mit Spannung erwartetes neues Flaggschiffmodell V4 vorgestellt. Bemerkenswert ist, dass das Modell viel längere Eingabeaufforderungen verarbeiten kann, was erhebliche Auswirkungen auf KI-Anwendungen haben könnte."
+        "zh": "中国人工智能公司DeepSeek发布了其期待已久的新旗舰模型V4，该模型能够处理更长的提示，这标志着人工智能技术的重大进步。",
+        "en": "Chinese AI firm DeepSeek has released a preview of its long-awaited new flagship model V4, which notably can process much longer prompts, marking a significant advancement in AI technology.",
+        "de": "Das chinesische KI-Unternehmen DeepSeek hat eine Vorschau auf sein mit Spannung erwartetes neues Flaggschiffmodell V4 veröffentlicht, das bemerkenswerterweise viel längere Eingaben verarbeiten kann, was einen bedeutenden Fortschritt in der KI-Technologie darstellt."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-24",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "医疗保健AI已经到来。我们不知道它是否真的对患者有帮助。",
+        "zh": "医疗保健AI已经到来。我们不知道它是否真的帮助患者。",
         "en": "Health-care AI is here. We don’t know if it actually helps patients.",
-        "de": "Gesundheits-AI ist da. Wir wissen nicht, ob sie den Patienten tatsächlich hilft."
+        "de": "Gesundheits-IA ist da. Wir wissen nicht, ob sie den Patienten tatsächlich hilft."
       },
       "summary": {
-        "zh": "随着AI在医院中的广泛应用，医生们开始使用AI来辅助记录。尽管AI的使用日益普及，但其对患者的实际帮助仍然存在争议。",
-        "en": "As AI becomes increasingly prevalent in hospitals, doctors are using it to assist with note-taking. However, there remains debate about its actual benefits for patients.",
-        "de": "Da KI in Krankenhäusern zunehmend verbreitet ist, nutzen Ärzte sie zur Unterstützung bei der Notizenaufnahme. Es besteht jedoch weiterhin Uneinigkeit über die tatsächlichen Vorteile für die Patienten."
+        "zh": "尽管人工智能在医院的使用日益普遍，但目前尚不清楚其对患者的实际帮助程度，医生们正在利用AI来辅助记录和决策。",
+        "en": "Despite the increasing use of AI in hospitals, it remains unclear how much it actually helps patients, as doctors are utilizing AI for assistance in note-taking and decision-making.",
+        "de": "Trotz der zunehmenden Nutzung von KI in Krankenhäusern bleibt unklar, wie sehr sie den Patienten tatsächlich hilft, da Ärzte KI zur Unterstützung bei der Notizaufnahme und Entscheidungsfindung nutzen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-24",
@@ -41,9 +41,9 @@
         "de": "Der Download: verstärkte Betrügereien und das Studium der KI-Gesundheitsversorgung"
       },
       "summary": {
-        "zh": "本期下载新闻简报讨论了AI在医疗保健中的应用及其潜在的诈骗风险。随着技术的发展，诈骗手段也在不断升级。",
-        "en": "This edition of The Download discusses the applications of AI in healthcare and its potential scam risks. As technology evolves, so do the methods of deception.",
-        "de": "Diese Ausgabe des Downloads behandelt die Anwendungen von KI im Gesundheitswesen und die potenziellen Betrugsrisiken. Mit der Weiterentwicklung der Technologie entwickeln sich auch die Methoden der Täuschung weiter."
+        "zh": "本期下载介绍了技术世界的最新动态，包括超级诈骗的增加和AI在医疗保健中的应用研究。",
+        "en": "This edition of The Download covers the latest happenings in the tech world, including the rise of supercharged scams and research into AI applications in healthcare.",
+        "de": "Diese Ausgabe des Downloads behandelt die neuesten Entwicklungen in der Technikwelt, einschließlich des Anstiegs von verstärkten Betrügereien und der Forschung zu KI-Anwendungen im Gesundheitswesen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-24",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国允许委内瑞拉政府支付马杜罗的律师费用",
-        "en": "US to allow Venezuelan government to cover Maduro’s lawyer fees",
-        "de": "USA erlaubt der venezolanischen Regierung, die Anwaltskosten von Maduro zu übernehmen"
+        "zh": "特朗普确认白宫记者晚会上有警察被枪击事件",
+        "en": "Trump confirms officer shot at White House Correspondents’ gala",
+        "de": "Trump bestätigt, dass ein Beamter beim Gala der Korrespondenten im Weißen Haus erschossen wurde"
       },
       "summary": {
-        "zh": "美国决定允许委内瑞拉政府为马杜罗的律师费用提供资金，此举是在马杜罗声称其权利受到侵犯后作出的。",
-        "en": "The US has decided to allow the Venezuelan government to fund Maduro's lawyer fees, a move made after Maduro claimed his rights were violated.",
-        "de": "Die USA haben beschlossen, der venezolanischen Regierung zu erlauben, die Anwaltskosten von Maduro zu finanzieren, eine Entscheidung, die getroffen wurde, nachdem Maduro behauptet hatte, seine Rechte seien verletzt worden."
+        "zh": "美国总统特朗普确认在白宫记者晚会上发生了一起枪击事件，称试图冲入晚会的枪手是“一个病态的人”。",
+        "en": "US President Donald Trump confirmed that a shooting incident occurred at the White House Correspondents’ gala, referring to the shooter who attempted to rush the event as 'a sick person.'",
+        "de": "US-Präsident Donald Trump bestätigte, dass es bei der Gala der Korrespondenten im Weißen Haus zu einem Schusswechsel kam und bezeichnete den Schützen, der versuchte, die Veranstaltung zu stürmen, als 'eine kranke Person.'"
       },
       "source": "Al Jazeera",
-      "date": "2026-04-25",
-      "url": "https://www.aljazeera.com/news/2026/4/25/us-to-allow-venezuelan-government-to-cover-maduros-lawyer-fees?traffic_source=rss"
+      "date": "2026-04-26",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/trump-confirms-officer-shot-at-white-house-correspondents-gala?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普在白宫记者晚宴上首次出席",
-        "en": "After years of avoidance, Trump to attend first White House press dinner",
-        "de": "Nach Jahren der Vermeidung wird Trump an seinem ersten Abendessen der White-House-Presse teilnehmen"
+        "zh": "特朗普在白宫记者晚会上未受伤",
+        "en": "Trump unhurt after shots fired at White House correspondents’ dinner",
+        "de": "Trump unverletzt nach Schüssen bei Gala der Korrespondenten im Weißen Haus"
       },
       "summary": {
-        "zh": "特朗普将在多年回避后首次出席白宫记者晚宴，专业组织呼吁与会者在这一年度活动中“强烈发声”。",
-        "en": "Trump will attend his first White House press dinner after years of avoidance, with professional organizations urging attendees to 'speak forcefully' at the annual event.",
-        "de": "Trump wird nach Jahren der Vermeidung an seinem ersten Abendessen der White-House-Presse teilnehmen, wobei Berufsverbände die Teilnehmer auffordern, bei der jährlichen Veranstaltung 'kraftvoll zu sprechen'."
+        "zh": "特朗普在白宫记者晚会上未受伤，尽管外部发生了枪击事件，第一夫人梅拉尼娅·特朗普和副总统JD·范斯也在安全状态中。",
+        "en": "Trump was unharmed during the White House Correspondents’ dinner despite shots being fired outside, with First Lady Melania Trump and Vice President JD Vance also reported to be safe.",
+        "de": "Trump blieb während des Gala der Korrespondenten im Weißen Haus unverletzt, obwohl draußen Schüsse abgegeben wurden, und auch die First Lady Melania Trump und Vizepräsident JD Vance wurden als sicher gemeldet."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-25",
-      "url": "https://www.aljazeera.com/news/2026/4/25/after-years-of-avoidance-trump-to-attend-first-white-house-press-dinner?traffic_source=rss"
+      "date": "2026-04-26",
+      "url": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列袭击造成黎巴嫩南部四人死亡",
-        "en": "Israeli attacks kill four in southern Lebanon",
-        "de": "Israelische Angriffe töten vier im Süden Libanons"
+        "zh": "视频：哥伦比亚指责叛逃的FARC叛乱分子制造致命公交炸弹",
+        "en": "Video: Colombia blames dissident FARC rebel for deadly bus bomb",
+        "de": "Video: Kolumbien macht abtrünnigen FARC-Rebellen für tödliche Busbombe verantwortlich"
       },
       "summary": {
-        "zh": "以色列对黎巴嫩南部的袭击导致四人死亡，国家媒体报道了对一辆卡车和一辆摩托车的袭击事件。",
-        "en": "Israeli attacks in southern Lebanon resulted in four deaths, with state media reporting strikes on a truck and a motorcycle.",
-        "de": "Israelische Angriffe im Süden Libanons führten zu vier Toten, wobei die staatlichen Medien von Angriffen auf einen Lastwagen und ein Motorrad berichteten."
+        "zh": "哥伦比亚当局指责叛逃的FARC叛乱分子制造了一起致命的公交炸弹袭击，造成至少14人死亡。",
+        "en": "Colombian authorities have blamed dissident FARC rebels for a deadly bus bombing that killed at least 14 people.",
+        "de": "Die kolumbianischen Behörden machen abtrünnige FARC-Rebellen für einen tödlichen Busbombenanschlag verantwortlich, bei dem mindestens 14 Menschen getötet wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-25",
-      "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss"
+      "date": "2026-04-26",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/video-colombia-blames-dissident-farc-rebel-for-deadly-bus-bomb?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "他会留下还是离开？随着刑事调查结束，美联储主席鲍威尔面临重大决定",
+        "zh": "美联储主席鲍威尔面临重大决定",
         "en": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
-        "de": "Wird er bleiben oder gehen? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Chef Powell vor einer großen Entscheidung"
+        "de": "Bleibt er oder geht er? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Chef Powell vor einer großen Entscheidung"
       },
       "summary": {
-        "zh": "美联储主席鲍威尔在刑事调查结束后面临重要决策，这一决定可能会对政策制定产生重要影响。",
-        "en": "Fed Chair Powell faces a significant decision following the conclusion of a criminal probe, a choice that could have important ramifications for policymaking.",
-        "de": "Fed-Chef Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung, die erhebliche Auswirkungen auf die Politikgestaltung haben könnte."
+        "zh": "美联储主席鲍威尔在刑事调查结束后面临重大决策，这一决定可能对政策制定产生重要影响。",
+        "en": "Fed Chair Powell faces a significant decision following the conclusion of a criminal probe, which could have important ramifications for policymaking.",
+        "de": "Der Fed-Vorsitzende Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung, die erhebliche Auswirkungen auf die Politikgestaltung haben könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-24",
@@ -125,9 +125,9 @@
         "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
       },
       "summary": {
-        "zh": "伊朗经济在战争前就已脆弱，现在由于局势恶化而面临更大的挑战，这些图表展示了其经济的急剧下滑。",
-        "en": "Iran's economy was already vulnerable before the war, and now faces even greater challenges due to the deteriorating situation, as shown in these charts.",
-        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig und sieht sich nun aufgrund der sich verschlechternden Situation noch größeren Herausforderungen gegenüber, wie diese Diagramme zeigen."
+        "zh": "伊朗的经济在战争前就已经脆弱，现在由于冲突而急剧恶化，图表显示了这一严峻的现实。",
+        "en": "Iran's economy was already vulnerable before the war, and it has sharply deteriorated due to the ongoing conflict, as illustrated by the charts.",
+        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig, und sie hat sich aufgrund des anhaltenden Konflikts stark verschlechtert, wie die Diagramme zeigen."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-23",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普延长伊朗停火——但市场焦点已转移",
+        "zh": "特朗普延长伊朗停火——但市场焦点已转向其他地方",
         "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hinbewegt"
+        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hin bewegt"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转移，未来的谈判前景仍不确定。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has shifted elsewhere, with uncertain prospects for future negotiations.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt woanders hinbewegt, während die Aussichten für zukünftige Verhandlungen ungewiss bleiben."
+        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转向其他问题，未来的谈判前景仍不确定。",
+        "en": "Despite Trump extending the ceasefire with Iran, market focus has shifted to other issues, with uncertain prospects for future negotiations.",
+        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt auf andere Themen konzentriert, wobei die Aussichten für zukünftige Verhandlungen ungewiss sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-22",
