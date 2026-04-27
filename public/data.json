@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T17:06:57.329572+00:00",
+  "generatedAt": "2026-04-27T07:16:46.051757+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Drei Gründe, warum das neue Modell von DeepSeek wichtig ist"
       },
       "summary": {
-        "zh": "中国人工智能公司DeepSeek于周五发布了其期待已久的新旗舰模型V4，该模型能够处理更长的提示。这一进展可能会对AI的应用和发展产生深远影响。",
-        "en": "Chinese AI firm DeepSeek released a preview of its long-awaited new flagship model V4 on Friday, which can process much longer prompts. This advancement could have significant implications for the application and development of AI.",
-        "de": "Das chinesische KI-Unternehmen DeepSeek hat am Freitag eine Vorschau auf sein mit Spannung erwartetes neues Flaggschiffmodell V4 veröffentlicht, das viel längere Eingabeaufforderungen verarbeiten kann. Dieser Fortschritt könnte erhebliche Auswirkungen auf die Anwendung und Entwicklung von KI haben."
+        "zh": "中国人工智能公司DeepSeek于周五发布了其期待已久的新旗舰模型V4。该模型能够处理更长的提示，这一特性使其在市场上具有重要意义。",
+        "en": "Chinese AI firm DeepSeek released a preview of its long-awaited new flagship model V4 on Friday. Notably, the model can process much longer prompts, which makes it significant in the market.",
+        "de": "Das chinesische KI-Unternehmen DeepSeek hat am Freitag eine Vorschau auf sein lang erwartetes neues Flaggschiffmodell V4 veröffentlicht. Bemerkenswert ist, dass das Modell viel längere Eingabeaufforderungen verarbeiten kann, was es auf dem Markt bedeutend macht."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-24",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "医疗保健AI已经到来。我们不知道它是否真的对患者有帮助。",
+        "zh": "医疗保健人工智能已经到来。我们不知道它是否真的对患者有帮助。",
         "en": "Health-care AI is here. We don’t know if it actually helps patients.",
-        "de": "Gesundheitswesen-KI ist hier. Wir wissen nicht, ob sie den Patienten tatsächlich hilft."
+        "de": "Gesundheits-KI ist da. Wir wissen nicht, ob sie Patienten tatsächlich hilft."
       },
       "summary": {
-        "zh": "AI在医院的应用日益普遍，医生们开始使用AI来辅助记录和决策。然而，关于其对患者的实际帮助仍然存在不确定性。",
-        "en": "AI is increasingly being used in hospitals, with doctors utilizing it for note-taking and decision-making. However, there remains uncertainty regarding its actual benefits for patients.",
-        "de": "KI wird zunehmend in Krankenhäusern eingesetzt, wobei Ärzte sie zur Notizenaufnahme und Entscheidungsfindung nutzen. Es bleibt jedoch unklar, welche tatsächlichen Vorteile sie für Patienten bringt."
+        "zh": "人工智能在医院的应用越来越普遍，但其对患者的实际帮助仍然不确定。医生们正在利用AI来辅助记录，但效果尚待验证。",
+        "en": "AI is increasingly being used in hospitals, but its actual benefits for patients remain uncertain. Doctors are utilizing AI to assist with note-taking, but the effectiveness is yet to be validated.",
+        "de": "KI wird zunehmend in Krankenhäusern eingesetzt, aber ihre tatsächlichen Vorteile für Patienten bleiben ungewiss. Ärzte nutzen KI zur Unterstützung bei der Notizenaufnahme, aber die Wirksamkeit muss noch validiert werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-24",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "超级诈骗和研究AI医疗保健：下载",
+        "zh": "超级充电骗局和研究人工智能医疗保健：下载",
         "en": "The Download: supercharged scams and studying AI healthcare",
-        "de": "Der Download: Supercharged-Betrügereien und das Studium von KI im Gesundheitswesen"
+        "de": "Der Download: Supercharged-Betrügereien und das Studium der KI-Gesundheitsversorgung"
       },
       "summary": {
-        "zh": "本期《下载》新闻简报涵盖了技术领域的最新动态，包括AI在医疗保健中的应用和针对用户的诈骗活动的升级。",
-        "en": "This edition of The Download newsletter covers the latest happenings in the tech world, including the application of AI in healthcare and the escalation of scams targeting users.",
-        "de": "Diese Ausgabe des Download-Newsletters behandelt die neuesten Entwicklungen in der Technikwelt, einschließlich der Anwendung von KI im Gesundheitswesen und der Eskalation von Betrügereien, die auf Benutzer abzielen."
+        "zh": "今天的下载版提供了关于技术世界的最新动态，包括超级充电的骗局和对AI在医疗保健中应用的研究。",
+        "en": "Today's edition of The Download provides the latest updates from the tech world, including supercharged scams and studies on the application of AI in healthcare.",
+        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technikwelt, einschließlich aufgeladenen Betrügereien und Studien zur Anwendung von KI im Gesundheitswesen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-24",
@@ -54,46 +54,46 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列为何加大对加沙的攻击：战争状态",
-        "en": "‘State of war’: Why Israel has escalated attacks in Gaza",
-        "de": "„Kriegszustand“: Warum Israel die Angriffe im Gazastreifen eskaliert hat"
+        "zh": "支持巴勒斯坦的团体因袭击Elbit工厂在德国受审",
+        "en": "Pro-Palestine group accused of raiding Elbit factory face trial in Germany",
+        "de": "Pro-Palästina-Gruppe, die beschuldigt wird, Elbit-Werk überfallen zu haben, steht in Deutschland vor Gericht"
       },
       "summary": {
-        "zh": "以色列加大了对加沙的攻击力度，并扩大了对该地区的控制，忽视了新成立的美国支持的技术管理当局。这一局势的升级引发了国际社会的关注。",
-        "en": "Israel has intensified its attacks and expanded control in the Gaza Strip, sidelining the newly established US-backed technocratic administration. This escalation has drawn international attention.",
-        "de": "Israel hat seine Angriffe intensiviert und die Kontrolle im Gazastreifen ausgeweitet, während die neu gegründete von den USA unterstützte technokratische Verwaltung ignoriert wird. Diese Eskalation hat internationale Aufmerksamkeit erregt."
+        "zh": "五名被称为“乌尔姆五人”的欧洲活动家因袭击与以色列最大武器制造商有关的工厂而在德国受审。",
+        "en": "Five European activists known as the 'Ulm Five' are facing trial in Germany for allegedly raiding a site linked to Israel's largest weapons manufacturer.",
+        "de": "Fünf europäische Aktivisten, bekannt als die 'Ulm Five', stehen in Deutschland vor Gericht, weil sie angeblich eine Stätte überfallen haben, die mit dem größten Waffenhersteller Israels verbunden ist."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-26",
-      "url": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss"
+      "date": "2026-04-27",
+      "url": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国-伊朗冲突：伊斯兰堡谈判停滞的最新消息",
-        "en": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
-        "de": "US-Iran-Konflikt: Was gibt es Neues, während die Gespräche in Islamabad ins Stocken geraten?"
+        "zh": "台湾法院在台积电商业机密案件中判处监禁",
+        "en": "Taiwan court hands down jail terms in TSMC trade secrets case",
+        "de": "Taiwanesisches Gericht verhängt Haftstrafen im Fall von TSMC-Handelsgeheimnissen"
       },
       "summary": {
-        "zh": "华盛顿和德黑兰在伊斯兰堡的谈判中坚持各自立场，调解人希望在美国与以色列对伊朗的战争中实现外交突破。",
-        "en": "Washington and Tehran are sticking to their positions in the stalled talks in Islamabad, as mediators hope for a diplomatic breakthrough amid the US-Israel war on Iran.",
-        "de": "Washington und Teheran halten in den ins Stocken geratenen Gesprächen in Islamabad an ihren Positionen fest, während Mediatoren auf einen diplomatischen Durchbruch im US-Israel-Krieg gegen den Iran hoffen."
+        "zh": "一名前东京电子员工被判处10年监禁，其他四名被告的刑期在10个月到6年之间。",
+        "en": "A former Tokyo Electron employee has been sentenced to 10 years in prison, while four other defendants received sentences ranging from 10 months to 6 years.",
+        "de": "Ein ehemaliger Mitarbeiter von Tokyo Electron wurde zu 10 Jahren Gefängnis verurteilt, während vier andere Angeklagte Strafen zwischen 10 Monaten und 6 Jahren erhielten."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-26",
-      "url": "https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss"
+      "date": "2026-04-27",
+      "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列总理命令军队“积极攻击”黎巴嫩的真主党",
+        "zh": "以色列总理命令军队“强力攻击”黎巴嫩的真主党",
         "en": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
-        "de": "Netanjahu befiehlt der Armee, die Hisbollah im Libanon „energisch anzugreifen“"
+        "de": "Netanjahu befiehlt der Armee, die Hisbollah im Libanon 'energisch anzugreifen'"
       },
       "summary": {
-        "zh": "以色列总理内塔尼亚胡下令军队对黎巴嫩的真主党进行“积极攻击”，尽管停火已延长三周。这一决定可能会进一步加剧地区紧张局势。",
-        "en": "Israeli Prime Minister Netanyahu has ordered the army to 'vigorously attack' Hezbollah in Lebanon, despite a ceasefire being extended by three weeks. This decision may further escalate regional tensions.",
-        "de": "Der israelische Premierminister Netanjahu hat die Armee befohlen, die Hisbollah im Libanon „energisch anzugreifen“, obwohl ein Waffenstillstand um drei Wochen verlängert wurde. Diese Entscheidung könnte die regionalen Spannungen weiter verschärfen."
+        "zh": "以色列总理的指令是在黎巴嫩的停火延长三周后发布的，此前该地区发生了六人死亡的袭击事件。",
+        "en": "The Israeli Prime Minister's directive comes after a ceasefire was extended by three weeks, following an incident in which six people were killed by strikes in Lebanon.",
+        "de": "Die Anweisung des israelischen Premierministers erfolgt nach einer dreimonatigen Verlängerung des Waffenstillstands, nachdem bei einem Vorfall in Libanon sechs Menschen durch Angriffe getötet wurden."
       },
       "source": "BBC News – World",
       "date": "2026-04-26",
@@ -104,14 +104,14 @@
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储主席鲍威尔面临重大决定：他会留下还是离开？",
+        "zh": "美联储主席鲍威尔面临重大决策，刑事调查结束",
         "en": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
-        "de": "Wird er bleiben oder wird er gehen? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Vorsitzender Powell vor einer großen Entscheidung"
+        "de": "Bleibt er oder geht er? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Vorsitzender Powell vor einer großen Entscheidung"
       },
       "summary": {
-        "zh": "美联储主席鲍威尔在刑事调查结束后面临重大的职业选择，这一决定可能会对政策制定产生重要影响。",
-        "en": "Fed Chair Powell faces a significant career decision following the conclusion of a criminal probe, which could have important ramifications for policymaking.",
-        "de": "Fed-Vorsitzender Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer bedeutenden beruflichen Entscheidung, die wichtige Auswirkungen auf die Politikgestaltung haben könnte."
+        "zh": "美联储主席鲍威尔在刑事调查结束后面临重大决策，这一决定可能对政策制定产生重要影响。",
+        "en": "Fed Chair Powell faces a significant decision following the conclusion of a criminal probe, which could have important ramifications for policymaking.",
+        "de": "Der Fed-Vorsitzende Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung, die erhebliche Auswirkungen auf die Politikgestaltung haben könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-24",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "这些图表显示伊朗经济正在自由落体",
+        "zh": "这些图表显示伊朗经济正在崩溃",
         "en": "These charts show how Iran's economy is in freefall",
         "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
       },
       "summary": {
-        "zh": "伊朗经济在战争前就已脆弱，现在由于冲突的加剧而急剧恶化。图表显示了伊朗货币和石油的崩溃情况。",
-        "en": "Iran's economy was already vulnerable before the war and has sharply deteriorated due to escalating conflicts. Charts illustrate the collapse of Iran's currency and oil.",
-        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig und hat sich aufgrund der eskalierenden Konflikte stark verschlechtert. Diagramme veranschaulichen den Zusammenbruch der iranischen Währung und des Öls."
+        "zh": "伊朗的经济在战争前就已经脆弱，现在由于冲突而更加恶化，面临严峻挑战。",
+        "en": "Iran's economy was vulnerable even before the war, and it has worsened significantly due to the ongoing conflict, facing severe challenges.",
+        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig, und sie hat sich aufgrund des anhaltenden Konflikts erheblich verschlechtert und steht vor schweren Herausforderungen."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-23",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普延长伊朗停火——但市场焦点已转向其他地方",
+        "zh": "特朗普延长伊朗停火——但市场焦点已转移",
         "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits auf andere Themen konzentriert"
+        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Marktblick hat sich bereits woandershin verschoben"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已转向其他问题，显示出对未来谈判的不确定性。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, market attention has shifted to other issues, reflecting uncertainty about future negotiations.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich die Marktaufmerksamkeit auf andere Themen verlagert, was die Unsicherheit über zukünftige Verhandlungen widerspiegelt."
+        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转移，未来的谈判前景仍不确定。",
+        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has already shifted elsewhere, with uncertain prospects for future negotiations.",
+        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Marktblick bereits woandershin verschoben, während die Aussichten für zukünftige Verhandlungen ungewiss bleiben."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-22",
