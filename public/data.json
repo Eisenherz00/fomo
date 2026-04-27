@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-04-27T07:16:46.051757+00:00",
+  "generatedAt": "2026-04-27T17:47:11.523208+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "DeepSeek的新模型为何重要的三个原因",
-        "en": "Three reasons why DeepSeek’s new model matters",
-        "de": "Drei Gründe, warum das neue Modell von DeepSeek wichtig ist"
+        "zh": "从炒作到盈利之间的缺失步骤",
+        "en": "The missing step between hype and profit",
+        "de": "Der fehlende Schritt zwischen Hype und Gewinn"
       },
       "summary": {
-        "zh": "中国人工智能公司DeepSeek于周五发布了其期待已久的新旗舰模型V4。该模型能够处理更长的提示，这一特性使其在市场上具有重要意义。",
-        "en": "Chinese AI firm DeepSeek released a preview of its long-awaited new flagship model V4 on Friday. Notably, the model can process much longer prompts, which makes it significant in the market.",
-        "de": "Das chinesische KI-Unternehmen DeepSeek hat am Freitag eine Vorschau auf sein lang erwartetes neues Flaggschiffmodell V4 veröffentlicht. Bemerkenswert ist, dass das Modell viel längere Eingabeaufforderungen verarbeiten kann, was es auf dem Markt bedeutend macht."
+        "zh": "人工智能的炒作与实际盈利之间存在一个关键的缺失步骤。企业在追求技术应用时，常常面临重重障碍。",
+        "en": "There is a critical missing step between the hype surrounding artificial intelligence and actual profitability. Companies often face significant obstacles in pursuing technology adoption.",
+        "de": "Es gibt einen entscheidenden fehlenden Schritt zwischen dem Hype um künstliche Intelligenz und der tatsächlichen Rentabilität. Unternehmen sehen sich oft erheblichen Hindernissen gegenüber, wenn sie die Technologieanwendung anstreben."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-24",
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
+      "date": "2026-04-27",
+      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "医疗保健人工智能已经到来。我们不知道它是否真的对患者有帮助。",
-        "en": "Health-care AI is here. We don’t know if it actually helps patients.",
-        "de": "Gesundheits-KI ist da. Wir wissen nicht, ob sie Patienten tatsächlich hilft."
+        "zh": "重建人工智能的数据堆栈",
+        "en": "Rebuilding the data stack for AI",
+        "de": "Den Datenstapel für KI neu aufbauen"
       },
       "summary": {
-        "zh": "人工智能在医院的应用越来越普遍，但其对患者的实际帮助仍然不确定。医生们正在利用AI来辅助记录，但效果尚待验证。",
-        "en": "AI is increasingly being used in hospitals, but its actual benefits for patients remain uncertain. Doctors are utilizing AI to assist with note-taking, but the effectiveness is yet to be validated.",
-        "de": "KI wird zunehmend in Krankenhäusern eingesetzt, aber ihre tatsächlichen Vorteile für Patienten bleiben ungewiss. Ärzte nutzen KI zur Unterstützung bei der Notizenaufnahme, aber die Wirksamkeit muss noch validiert werden."
+        "zh": "尽管人工智能在企业中占据重要地位，但许多企业发现，真正的障碍在于数据基础设施的不足。",
+        "en": "Despite the significant presence of artificial intelligence in enterprises, many are finding that the real obstacle lies in inadequate data infrastructure.",
+        "de": "Trotz der bedeutenden Präsenz von künstlicher Intelligenz in Unternehmen stellen viele fest, dass das eigentliche Hindernis in unzureichender Dateninfrastruktur liegt."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-24",
-      "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/"
+      "date": "2026-04-27",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "超级充电骗局和研究人工智能医疗保健：下载",
-        "en": "The Download: supercharged scams and studying AI healthcare",
-        "de": "Der Download: Supercharged-Betrügereien und das Studium der KI-Gesundheitsversorgung"
+        "zh": "下载：DeepSeek的最新AI突破，以及构建世界模型的竞赛",
+        "en": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+        "de": "Der Download: DeepSeeks neuester KI-Durchbruch und das Rennen um den Bau von Weltmodellen"
       },
       "summary": {
-        "zh": "今天的下载版提供了关于技术世界的最新动态，包括超级充电的骗局和对AI在医疗保健中应用的研究。",
-        "en": "Today's edition of The Download provides the latest updates from the tech world, including supercharged scams and studies on the application of AI in healthcare.",
-        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technikwelt, einschließlich aufgeladenen Betrügereien und Studien zur Anwendung von KI im Gesundheitswesen."
+        "zh": "DeepSeek最近在人工智能领域取得了重要突破，推动了构建世界模型的竞赛。该技术的进展可能会对未来的AI应用产生深远影响。",
+        "en": "DeepSeek has recently made significant breakthroughs in the field of artificial intelligence, advancing the race to build world models. The progress of this technology could have far-reaching implications for future AI applications.",
+        "de": "DeepSeek hat kürzlich bedeutende Durchbrüche im Bereich der künstlichen Intelligenz erzielt und das Rennen um den Bau von Weltmodellen vorangetrieben. Der Fortschritt dieser Technologie könnte weitreichende Auswirkungen auf zukünftige KI-Anwendungen haben."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-24",
-      "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/"
+      "date": "2026-04-27",
+      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "支持巴勒斯坦的团体因袭击Elbit工厂在德国受审",
-        "en": "Pro-Palestine group accused of raiding Elbit factory face trial in Germany",
-        "de": "Pro-Palästina-Gruppe, die beschuldigt wird, Elbit-Werk überfallen zu haben, steht in Deutschland vor Gericht"
+        "zh": "枪手绑架23名尼日利亚孤儿院儿童",
+        "en": "Gunmen kidnap 23 children from Nigerian orphanage",
+        "de": "Bewaffnete entführen 23 Kinder aus einem nigerianischen Waisenhaus"
       },
       "summary": {
-        "zh": "五名被称为“乌尔姆五人”的欧洲活动家因袭击与以色列最大武器制造商有关的工厂而在德国受审。",
-        "en": "Five European activists known as the 'Ulm Five' are facing trial in Germany for allegedly raiding a site linked to Israel's largest weapons manufacturer.",
-        "de": "Fünf europäische Aktivisten, bekannt als die 'Ulm Five', stehen in Deutschland vor Gericht, weil sie angeblich eine Stätte überfallen haben, die mit dem größten Waffenhersteller Israels verbunden ist."
+        "zh": "尼日利亚的绑架事件频繁，23名儿童在孤儿院被枪手绑架。此类事件已成为当地帮派和武装团体快速获利的常见手段。",
+        "en": "Kidnapping incidents are frequent in Nigeria, with 23 children abducted from an orphanage by gunmen. Such events have become a common means for local gangs and armed groups to make quick money.",
+        "de": "Entführungen sind in Nigeria häufig, wobei 23 Kinder von Bewaffneten aus einem Waisenhaus entführt wurden. Solche Vorfälle sind ein gängiges Mittel für lokale Banden und bewaffnete Gruppen, um schnell Geld zu verdienen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-27",
-      "url": "https://www.aljazeera.com/news/2026/4/27/germany-activists-elbit-raid?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/27/gunmen-kidnap-23-pupils-from-nigerian-orphanage?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "台湾法院在台积电商业机密案件中判处监禁",
-        "en": "Taiwan court hands down jail terms in TSMC trade secrets case",
-        "de": "Taiwanesisches Gericht verhängt Haftstrafen im Fall von TSMC-Handelsgeheimnissen"
+        "zh": "梅拉尼娅·特朗普抨击基梅尔，呼吁ABC对喜剧演员采取立场",
+        "en": "Melania Trump blasts Kimmel, calls on ABC to ‘take stand’ against comedian",
+        "de": "Melania Trump kritisiert Kimmel und fordert ABC auf, gegen den Komiker Stellung zu beziehen"
       },
       "summary": {
-        "zh": "一名前东京电子员工被判处10年监禁，其他四名被告的刑期在10个月到6年之间。",
-        "en": "A former Tokyo Electron employee has been sentenced to 10 years in prison, while four other defendants received sentences ranging from 10 months to 6 years.",
-        "de": "Ein ehemaliger Mitarbeiter von Tokyo Electron wurde zu 10 Jahren Gefängnis verurteilt, während vier andere Angeklagte Strafen zwischen 10 Monaten und 6 Jahren erhielten."
+        "zh": "梅拉尼娅·特朗普指责吉米·基梅尔助长政治动荡，并呼吁ABC网络对其‘仇恨’言论采取行动。",
+        "en": "Melania Trump accuses Jimmy Kimmel of fueling political turmoil and calls on the ABC network to take action against his 'hateful' rhetoric.",
+        "de": "Melania Trump beschuldigt Jimmy Kimmel, politische Unruhen zu schüren, und fordert das ABC-Netzwerk auf, gegen seine 'hasserfüllte' Rhetorik vorzugehen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-27",
-      "url": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/27/melania-trump-blasts-kimmel-calls-on-abc-to-take-stand-against-comedian?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列总理命令军队“强力攻击”黎巴嫩的真主党",
-        "en": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
-        "de": "Netanjahu befiehlt der Armee, die Hisbollah im Libanon 'energisch anzugreifen'"
+        "zh": "分析：本内特-拉皮德联盟试图推翻以色列的内塔尼亚胡",
+        "en": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
+        "de": "Analyse: Bennett-Lapid-Allianz versucht, Israels Netanyahu zu stürzen"
       },
       "summary": {
-        "zh": "以色列总理的指令是在黎巴嫩的停火延长三周后发布的，此前该地区发生了六人死亡的袭击事件。",
-        "en": "The Israeli Prime Minister's directive comes after a ceasefire was extended by three weeks, following an incident in which six people were killed by strikes in Lebanon.",
-        "de": "Die Anweisung des israelischen Premierministers erfolgt nach einer dreimonatigen Verlängerung des Waffenstillstands, nachdem bei einem Vorfall in Libanon sechs Menschen durch Angriffe getötet wurden."
+        "zh": "本内特与拉皮德再次联手，试图推翻内塔尼亚胡的政权。分析人士警告，这一联盟对巴勒斯坦人可能影响不大。",
+        "en": "Bennett and Lapid join forces again in an attempt to unseat Netanyahu. Analysts warn that this alliance may have little impact on Palestinians.",
+        "de": "Bennett und Lapid schließen sich erneut zusammen, um Netanyahu zu stürzen. Analysten warnen, dass diese Allianz möglicherweise wenig Einfluss auf die Palästinenser haben wird."
       },
-      "source": "BBC News – World",
-      "date": "2026-04-26",
-      "url": "https://www.bbc.com/news/articles/c5yv1nvd4gjo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-04-27",
+      "url": "https://www.aljazeera.com/news/2026/4/27/analysis-bennett-lapid-alliance-attempt-to-unseat-israels-netanyahu?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储主席鲍威尔面临重大决策，刑事调查结束",
+        "zh": "他会留下还是离开？随着刑事调查结束，美联储主席鲍威尔面临重大决定",
         "en": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
-        "de": "Bleibt er oder geht er? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Vorsitzender Powell vor einer großen Entscheidung"
+        "de": "Wird er bleiben oder gehen? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Chef Powell vor einer großen Entscheidung"
       },
       "summary": {
-        "zh": "美联储主席鲍威尔在刑事调查结束后面临重大决策，这一决定可能对政策制定产生重要影响。",
-        "en": "Fed Chair Powell faces a significant decision following the conclusion of a criminal probe, which could have important ramifications for policymaking.",
-        "de": "Der Fed-Vorsitzende Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung, die erhebliche Auswirkungen auf die Politikgestaltung haben könnte."
+        "zh": "美联储主席鲍威尔在刑事调查结束后，面临着可能影响政策制定的重要决定。这一决定将在经济敏感时期产生重大影响。",
+        "en": "Fed Chair Powell faces a significant decision that could impact policymaking following the conclusion of a criminal investigation. This decision will have major implications during a sensitive economic period.",
+        "de": "Fed-Chef Powell steht vor einer wichtigen Entscheidung, die die Politikgestaltung nach Abschluss einer strafrechtlichen Untersuchung beeinflussen könnte. Diese Entscheidung wird während einer sensiblen wirtschaftlichen Phase erhebliche Auswirkungen haben."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-24",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "这些图表显示伊朗经济正在崩溃",
+        "zh": "这些图表显示伊朗经济正在自由落体",
         "en": "These charts show how Iran's economy is in freefall",
         "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
       },
       "summary": {
-        "zh": "伊朗的经济在战争前就已经脆弱，现在由于冲突而更加恶化，面临严峻挑战。",
-        "en": "Iran's economy was vulnerable even before the war, and it has worsened significantly due to the ongoing conflict, facing severe challenges.",
-        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig, und sie hat sich aufgrund des anhaltenden Konflikts erheblich verschlechtert und steht vor schweren Herausforderungen."
+        "zh": "伊朗经济在战争前就已脆弱，如今因冲突而急剧下滑。图表揭示了该国面临的严峻现实。",
+        "en": "Iran's economy was already vulnerable before the war, and it is now plummeting due to the conflict. Charts reveal the harsh realities facing the country.",
+        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig und fällt nun aufgrund des Konflikts dramatisch. Diagramme zeigen die harten Realitäten, mit denen das Land konfrontiert ist."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-23",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普延长伊朗停火——但市场焦点已转移",
+        "zh": "特朗普延长伊朗停火——但市场焦点已转向其他地方",
         "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Marktblick hat sich bereits woandershin verschoben"
+        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hingewandt"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转移，未来的谈判前景仍不确定。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has already shifted elsewhere, with uncertain prospects for future negotiations.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Marktblick bereits woandershin verschoben, während die Aussichten für zukünftige Verhandlungen ungewiss bleiben."
+        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已转向其他问题，未来的谈判前景仍不确定。",
+        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has shifted to other issues, and the prospects for future negotiations remain uncertain.",
+        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt auf andere Themen verlagert, und die Aussichten für zukünftige Verhandlungen bleiben ungewiss."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-22",
