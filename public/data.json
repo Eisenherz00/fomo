@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-04-27T17:47:11.523208+00:00",
+  "generatedAt": "2026-04-28T07:14:15.889170+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "从炒作到盈利之间的缺失步骤",
+        "zh": "埃隆·马斯克和山姆·奥特曼因OpenAI的未来而上法庭",
+        "en": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+        "de": "Elon Musk und Sam Altman gehen wegen der Zukunft von OpenAI vor Gericht"
+      },
+      "summary": {
+        "zh": "埃隆·马斯克与OpenAI首席执行官山姆·奥特曼之间的法律争端即将进入审判阶段，此案可能会对OpenAI的未来产生深远影响。",
+        "en": "Elon Musk and OpenAI CEO Sam Altman are heading to trial this week, marking a significant legal feud that could have major implications for the future of OpenAI.",
+        "de": "Elon Musk und OpenAI-CEO Sam Altman stehen diese Woche vor Gericht, was einen bedeutenden Rechtsstreit markiert, der erhebliche Auswirkungen auf die Zukunft von OpenAI haben könnte."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-04-27",
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "从炒作到利润之间缺失的一步",
         "en": "The missing step between hype and profit",
         "de": "Der fehlende Schritt zwischen Hype und Gewinn"
       },
       "summary": {
-        "zh": "人工智能的炒作与实际盈利之间存在一个关键的缺失步骤。企业在追求技术应用时，常常面临重重障碍。",
-        "en": "There is a critical missing step between the hype surrounding artificial intelligence and actual profitability. Companies often face significant obstacles in pursuing technology adoption.",
-        "de": "Es gibt einen entscheidenden fehlenden Schritt zwischen dem Hype um künstliche Intelligenz und der tatsächlichen Rentabilität. Unternehmen sehen sich oft erheblichen Hindernissen gegenüber, wenn sie die Technologieanwendung anstreben."
+        "zh": "在人工智能领域，企业面临着从炒作到实际盈利之间的挑战，许多公司仍在寻找有效的转型路径。",
+        "en": "In the AI sector, companies are grappling with the challenge of transitioning from hype to actual profitability, with many still searching for effective pathways.",
+        "de": "Im KI-Sektor kämpfen Unternehmen mit der Herausforderung, vom Hype zur tatsächlichen Rentabilität überzugehen, wobei viele noch nach effektiven Wegen suchen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-27",
       "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
         "zh": "重建人工智能的数据堆栈",
         "en": "Rebuilding the data stack for AI",
         "de": "Den Datenstapel für KI neu aufbauen"
       },
       "summary": {
-        "zh": "尽管人工智能在企业中占据重要地位，但许多企业发现，真正的障碍在于数据基础设施的不足。",
-        "en": "Despite the significant presence of artificial intelligence in enterprises, many are finding that the real obstacle lies in inadequate data infrastructure.",
-        "de": "Trotz der bedeutenden Präsenz von künstlicher Intelligenz in Unternehmen stellen viele fest, dass das eigentliche Hindernis in unzureichender Dateninfrastruktur liegt."
+        "zh": "尽管人工智能在企业中越来越受重视，但许多公司发现，真正的障碍在于数据基础设施的不足。",
+        "en": "While AI is gaining prominence in enterprises, many companies find that the real obstacle lies in inadequate data infrastructure.",
+        "de": "Obwohl KI in Unternehmen an Bedeutung gewinnt, stellen viele fest, dass das eigentliche Hindernis in unzureichender Dateninfrastruktur liegt."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-27",
       "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "下载：DeepSeek的最新AI突破，以及构建世界模型的竞赛",
-        "en": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
-        "de": "Der Download: DeepSeeks neuester KI-Durchbruch und das Rennen um den Bau von Weltmodellen"
-      },
-      "summary": {
-        "zh": "DeepSeek最近在人工智能领域取得了重要突破，推动了构建世界模型的竞赛。该技术的进展可能会对未来的AI应用产生深远影响。",
-        "en": "DeepSeek has recently made significant breakthroughs in the field of artificial intelligence, advancing the race to build world models. The progress of this technology could have far-reaching implications for future AI applications.",
-        "de": "DeepSeek hat kürzlich bedeutende Durchbrüche im Bereich der künstlichen Intelligenz erzielt und das Rennen um den Bau von Weltmodellen vorangetrieben. Der Fortschritt dieser Technologie könnte weitreichende Auswirkungen auf zukünftige KI-Anwendungen haben."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-04-27",
-      "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "枪手绑架23名尼日利亚孤儿院儿童",
-        "en": "Gunmen kidnap 23 children from Nigerian orphanage",
-        "de": "Bewaffnete entführen 23 Kinder aus einem nigerianischen Waisenhaus"
+        "zh": "特朗普政府解雇美国国家科学委员会所有成员",
+        "en": "Trump administration fires all members of US National Science Board",
+        "de": "Trump-Administration feuert alle Mitglieder des US National Science Board"
       },
       "summary": {
-        "zh": "尼日利亚的绑架事件频繁，23名儿童在孤儿院被枪手绑架。此类事件已成为当地帮派和武装团体快速获利的常见手段。",
-        "en": "Kidnapping incidents are frequent in Nigeria, with 23 children abducted from an orphanage by gunmen. Such events have become a common means for local gangs and armed groups to make quick money.",
-        "de": "Entführungen sind in Nigeria häufig, wobei 23 Kinder von Bewaffneten aus einem Waisenhaus entführt wurden. Solche Vorfälle sind ein gängiges Mittel für lokale Banden und bewaffnete Gruppen, um schnell Geld zu verdienen."
+        "zh": "特朗普政府解雇了美国国家科学委员会的所有成员，此举引发了民主党人的强烈反对，认为这是对联邦政府的根本重组。",
+        "en": "The Trump administration has fired all members of the US National Science Board, a move that has drawn sharp criticism from Democrats who view it as a radical restructuring of the federal government.",
+        "de": "Die Trump-Administration hat alle Mitglieder des US National Science Board entlassen, ein Schritt, der scharfe Kritik von den Demokraten hervorruft, die ihn als radikale Umstrukturierung der Bundesregierung ansehen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-27",
-      "url": "https://www.aljazeera.com/news/2026/4/27/gunmen-kidnap-23-pupils-from-nigerian-orphanage?traffic_source=rss"
+      "date": "2026-04-28",
+      "url": "https://www.aljazeera.com/economy/2026/4/28/trump-administration-fires-all-members-of-us-national-science-board?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "梅拉尼娅·特朗普抨击基梅尔，呼吁ABC对喜剧演员采取立场",
-        "en": "Melania Trump blasts Kimmel, calls on ABC to ‘take stand’ against comedian",
-        "de": "Melania Trump kritisiert Kimmel und fordert ABC auf, gegen den Komiker Stellung zu beziehen"
+        "zh": "哥伦比亚高速公路爆炸至少造成20人死亡",
+        "en": "At least 20 killed in Colombia highway blast",
+        "de": "Mindestens 20 Tote bei Autobombenanschlag in Kolumbien"
       },
       "summary": {
-        "zh": "梅拉尼娅·特朗普指责吉米·基梅尔助长政治动荡，并呼吁ABC网络对其‘仇恨’言论采取行动。",
-        "en": "Melania Trump accuses Jimmy Kimmel of fueling political turmoil and calls on the ABC network to take action against his 'hateful' rhetoric.",
-        "de": "Melania Trump beschuldigt Jimmy Kimmel, politische Unruhen zu schüren, und fordert das ABC-Netzwerk auf, gegen seine 'hasserfüllte' Rhetorik vorzugehen."
+        "zh": "哥伦比亚总统古斯塔沃·佩特罗指责一名前FARC战士领导的“毒贩恐怖组织”对这起爆炸负责。",
+        "en": "Colombian President Gustavo Petro has blamed a 'narco-terrorist group', led by a former FARC fighter, for the highway blast that killed at least 20 people.",
+        "de": "Der kolumbianische Präsident Gustavo Petro hat eine von einem ehemaligen FARC-Kämpfer geführte 'narco-terroristische Gruppe' für die Autobombenexplosion verantwortlich gemacht, bei der mindestens 20 Menschen getötet wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-27",
-      "url": "https://www.aljazeera.com/news/2026/4/27/melania-trump-blasts-kimmel-calls-on-abc-to-take-stand-against-comedian?traffic_source=rss"
+      "date": "2026-04-28",
+      "url": "https://www.aljazeera.com/news/2026/4/28/at-least-20-killed-in-colombia-highway-blast?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "分析：本内特-拉皮德联盟试图推翻以色列的内塔尼亚胡",
-        "en": "Analysis: Bennett-Lapid alliance attempt to unseat Israel’s Netanyahu",
-        "de": "Analyse: Bennett-Lapid-Allianz versucht, Israels Netanyahu zu stürzen"
+        "zh": "新西兰间谍飞机报告可能违反北朝鲜制裁",
+        "en": "New Zealand spy plane reports possible North Korea sanctions breach at sea",
+        "de": "Neuseeländisches Spionageflugzeug berichtet über möglichen Verstoß gegen Nordkorea-Sanktionen auf See"
       },
       "summary": {
-        "zh": "本内特与拉皮德再次联手，试图推翻内塔尼亚胡的政权。分析人士警告，这一联盟对巴勒斯坦人可能影响不大。",
-        "en": "Bennett and Lapid join forces again in an attempt to unseat Netanyahu. Analysts warn that this alliance may have little impact on Palestinians.",
-        "de": "Bennett und Lapid schließen sich erneut zusammen, um Netanyahu zu stürzen. Analysten warnen, dass diese Allianz möglicherweise wenig Einfluss auf die Palästinenser haben wird."
+        "zh": "新西兰国防军表示，一艘北朝鲜船只在海上被观察到可能进行非法货物转移，可能违反国际制裁。",
+        "en": "New Zealand's Defence Force has reported observing a North Korean ship potentially engaging in the transfer of illicit goods at sea, possibly breaching international sanctions.",
+        "de": "Die neuseeländischen Streitkräfte haben berichtet, dass sie ein nordkoreanisches Schiff beobachtet haben, das möglicherweise an der Übertragung illegaler Waren auf See beteiligt war, was möglicherweise gegen internationale Sanktionen verstößt."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-27",
-      "url": "https://www.aljazeera.com/news/2026/4/27/analysis-bennett-lapid-alliance-attempt-to-unseat-israels-netanyahu?traffic_source=rss"
+      "date": "2026-04-28",
+      "url": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "他会留下还是离开？随着刑事调查结束，美联储主席鲍威尔面临重大决定",
+        "zh": "美联储主席鲍威尔面临重大决定",
         "en": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
-        "de": "Wird er bleiben oder gehen? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Chef Powell vor einer großen Entscheidung"
+        "de": "Bleibt er oder geht er? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Chef Powell vor einer großen Entscheidung"
       },
       "summary": {
-        "zh": "美联储主席鲍威尔在刑事调查结束后，面临着可能影响政策制定的重要决定。这一决定将在经济敏感时期产生重大影响。",
-        "en": "Fed Chair Powell faces a significant decision that could impact policymaking following the conclusion of a criminal investigation. This decision will have major implications during a sensitive economic period.",
-        "de": "Fed-Chef Powell steht vor einer wichtigen Entscheidung, die die Politikgestaltung nach Abschluss einer strafrechtlichen Untersuchung beeinflussen könnte. Diese Entscheidung wird während einer sensiblen wirtschaftlichen Phase erhebliche Auswirkungen haben."
+        "zh": "美联储主席鲍威尔在刑事调查结束后，面临是否继续担任职务的重大决定，这一决定可能对政策制定产生重要影响。",
+        "en": "Fed Chair Powell faces a significant decision about whether to remain in his position following the conclusion of a criminal probe, a choice that could have important ramifications for policymaking.",
+        "de": "Fed-Chef Powell steht vor einer wichtigen Entscheidung, ob er nach Abschluss einer strafrechtlichen Untersuchung in seinem Amt bleiben soll, eine Wahl, die erhebliche Auswirkungen auf die Politikgestaltung haben könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-24",
@@ -125,9 +125,9 @@
         "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
       },
       "summary": {
-        "zh": "伊朗经济在战争前就已脆弱，如今因冲突而急剧下滑。图表揭示了该国面临的严峻现实。",
-        "en": "Iran's economy was already vulnerable before the war, and it is now plummeting due to the conflict. Charts reveal the harsh realities facing the country.",
-        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig und fällt nun aufgrund des Konflikts dramatisch. Diagramme zeigen die harten Realitäten, mit denen das Land konfrontiert ist."
+        "zh": "伊朗经济在战争和制裁的影响下急剧下滑，图表显示其脆弱的经济状况。",
+        "en": "Iran's economy is plummeting under the effects of war and sanctions, with charts illustrating its vulnerable economic condition.",
+        "de": "Die iranische Wirtschaft stürzt unter den Auswirkungen von Krieg und Sanktionen ab, wobei Diagramme ihren anfälligen wirtschaftlichen Zustand veranschaulichen."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-23",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普延长伊朗停火——但市场焦点已转向其他地方",
+        "zh": "特朗普延长伊朗停火——但市场焦点已转移",
         "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hingewandt"
+        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hinbewegt"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已转向其他问题，未来的谈判前景仍不确定。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has shifted to other issues, and the prospects for future negotiations remain uncertain.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt auf andere Themen verlagert, und die Aussichten für zukünftige Verhandlungen bleiben ungewiss."
+        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场对进一步谈判的前景仍然不确定，焦点已转移。",
+        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has shifted elsewhere amid uncertainty regarding the prospects for further negotiations.",
+        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt angesichts der Unsicherheiten über die Aussichten für weitere Verhandlungen woanders hinbewegt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-22",
