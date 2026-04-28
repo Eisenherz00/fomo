@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-04-28T07:14:15.889170+00:00",
+  "generatedAt": "2026-04-28T17:59:32.409682+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "埃隆·马斯克和山姆·奥特曼因OpenAI的未来而上法庭",
+        "zh": "下载：马斯克和阿尔特曼的法律对决，以及人工智能的盈利问题",
+        "en": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+        "de": "Der Download: Musks und Altmans rechtlicher Showdown und das Gewinnproblem der KI"
+      },
+      "summary": {
+        "zh": "马斯克与OpenAI首席执行官阿尔特曼之间的法律纠纷即将进入法庭审理，这场官司可能会对OpenAI的未来产生重大影响。同时，人工智能行业面临盈利问题。",
+        "en": "Musk's legal feud with OpenAI CEO Altman is heading to trial, which could have significant implications for OpenAI's future. Meanwhile, the AI industry is grappling with profitability issues.",
+        "de": "Der rechtliche Streit zwischen Musk und OpenAI-CEO Altman geht vor Gericht, was erhebliche Auswirkungen auf die Zukunft von OpenAI haben könnte. Gleichzeitig kämpft die KI-Branche mit Gewinnproblemen."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-04-28",
+      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "马斯克和阿尔特曼将就OpenAI的未来上法庭",
         "en": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
         "de": "Elon Musk und Sam Altman gehen wegen der Zukunft von OpenAI vor Gericht"
       },
       "summary": {
-        "zh": "埃隆·马斯克与OpenAI首席执行官山姆·奥特曼之间的法律争端即将进入审判阶段，此案可能会对OpenAI的未来产生深远影响。",
-        "en": "Elon Musk and OpenAI CEO Sam Altman are heading to trial this week, marking a significant legal feud that could have major implications for the future of OpenAI.",
-        "de": "Elon Musk und OpenAI-CEO Sam Altman stehen diese Woche vor Gericht, was einen bedeutenden Rechtsstreit markiert, der erhebliche Auswirkungen auf die Zukunft von OpenAI haben könnte."
+        "zh": "在经历多年的法律争执后，马斯克和OpenAI首席执行官阿尔特曼将在北加州的法庭上对峙，这一案件可能会对OpenAI的未来产生深远影响。",
+        "en": "After years of legal disputes, Musk and OpenAI CEO Altman are set to face off in court in Northern California, a case that could have far-reaching implications for OpenAI's future.",
+        "de": "Nach jahrelangen rechtlichen Auseinandersetzungen werden Musk und OpenAI-CEO Altman vor Gericht in Nordkalifornien gegeneinander antreten, ein Fall, der weitreichende Auswirkungen auf die Zukunft von OpenAI haben könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-27",
       "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "从炒作到利润之间缺失的一步",
+        "zh": "从炒作到盈利之间缺失的步骤",
         "en": "The missing step between hype and profit",
         "de": "Der fehlende Schritt zwischen Hype und Gewinn"
       },
       "summary": {
-        "zh": "在人工智能领域，企业面临着从炒作到实际盈利之间的挑战，许多公司仍在寻找有效的转型路径。",
-        "en": "In the AI sector, companies are grappling with the challenge of transitioning from hype to actual profitability, with many still searching for effective pathways.",
-        "de": "Im KI-Sektor kämpfen Unternehmen mit der Herausforderung, vom Hype zur tatsächlichen Rentabilität überzugehen, wobei viele noch nach effektiven Wegen suchen."
+        "zh": "尽管人工智能技术备受关注，但很多企业发现，实现有意义的采用面临着重大的障碍，尤其是在盈利方面。",
+        "en": "Despite the hype surrounding AI technology, many enterprises are finding significant obstacles to meaningful adoption, particularly regarding profitability.",
+        "de": "Trotz des Hypes um KI-Technologie sehen sich viele Unternehmen erheblichen Hindernissen bei der sinnvollen Einführung gegenüber, insbesondere in Bezug auf die Rentabilität."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-27",
       "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "重建人工智能的数据堆栈",
-        "en": "Rebuilding the data stack for AI",
-        "de": "Den Datenstapel für KI neu aufbauen"
-      },
-      "summary": {
-        "zh": "尽管人工智能在企业中越来越受重视，但许多公司发现，真正的障碍在于数据基础设施的不足。",
-        "en": "While AI is gaining prominence in enterprises, many companies find that the real obstacle lies in inadequate data infrastructure.",
-        "de": "Obwohl KI in Unternehmen an Bedeutung gewinnt, stellen viele fest, dass das eigentliche Hindernis in unzureichender Dateninfrastruktur liegt."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-04-27",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普政府解雇美国国家科学委员会所有成员",
-        "en": "Trump administration fires all members of US National Science Board",
-        "de": "Trump-Administration feuert alle Mitglieder des US National Science Board"
+        "zh": "波斯尼亚签署与特朗普相关的管道协议以减少对俄罗斯天然气的依赖",
+        "en": "Bosnia signs up to Trump-linked pipeline to reduce Russian gas dependence",
+        "de": "Bosnien unterzeichnet Pipeline-Abkommen mit Trump-Bezug zur Verringerung der Abhängigkeit von russischem Gas"
       },
       "summary": {
-        "zh": "特朗普政府解雇了美国国家科学委员会的所有成员，此举引发了民主党人的强烈反对，认为这是对联邦政府的根本重组。",
-        "en": "The Trump administration has fired all members of the US National Science Board, a move that has drawn sharp criticism from Democrats who view it as a radical restructuring of the federal government.",
-        "de": "Die Trump-Administration hat alle Mitglieder des US National Science Board entlassen, ein Schritt, der scharfe Kritik von den Demokraten hervorruft, die ihn als radikale Umstrukturierung der Bundesregierung ansehen."
+        "zh": "波斯尼亚与克罗地亚之间的管道协议旨在减少对俄罗斯天然气的依赖，但欧盟警告此举可能会危及波斯尼亚加入欧盟的计划。",
+        "en": "Bosnia's pipeline deal with Croatia aims to reduce dependence on Russian gas, but the EU warns that it could jeopardize Bosnia's bid to join the bloc.",
+        "de": "Das Pipeline-Abkommen Bosniens mit Kroatien zielt darauf ab, die Abhängigkeit von russischem Gas zu verringern, aber die EU warnt, dass dies Bosniens Bestrebungen, der EU beizutreten, gefährden könnte."
       },
       "source": "Al Jazeera",
       "date": "2026-04-28",
-      "url": "https://www.aljazeera.com/economy/2026/4/28/trump-administration-fires-all-members-of-us-national-science-board?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/28/bosnia-signs-up-to-trump-linked-pipeline-to-reduce-russian-gas-dependence?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "哥伦比亚高速公路爆炸至少造成20人死亡",
-        "en": "At least 20 killed in Colombia highway blast",
-        "de": "Mindestens 20 Tote bei Autobombenanschlag in Kolumbien"
+        "zh": "乌克兰无人机第三次袭击俄罗斯图阿普斯炼油厂",
+        "en": "Ukrainian drones strike Russia’s Tuapse refinery for third time",
+        "de": "Ukrainische Drohnen greifen Russlands Tuapse-Raffinerie zum dritten Mal an"
       },
       "summary": {
-        "zh": "哥伦比亚总统古斯塔沃·佩特罗指责一名前FARC战士领导的“毒贩恐怖组织”对这起爆炸负责。",
-        "en": "Colombian President Gustavo Petro has blamed a 'narco-terrorist group', led by a former FARC fighter, for the highway blast that killed at least 20 people.",
-        "de": "Der kolumbianische Präsident Gustavo Petro hat eine von einem ehemaligen FARC-Kämpfer geführte 'narco-terroristische Gruppe' für die Autobombenexplosion verantwortlich gemacht, bei der mindestens 20 Menschen getötet wurden."
+        "zh": "乌克兰针对俄罗斯图阿普斯港口城市的主要石油炼油厂进行了第三次无人机袭击，显示出冲突的持续升级。",
+        "en": "Ukraine has targeted a major oil refinery in the Russian port city of Tuapse for the third time, indicating a continued escalation of the conflict.",
+        "de": "Die Ukraine hat zum dritten Mal eine große Ölraffinerie in der russischen Hafenstadt Tuapse angegriffen, was auf eine anhaltende Eskalation des Konflikts hinweist."
       },
       "source": "Al Jazeera",
       "date": "2026-04-28",
-      "url": "https://www.aljazeera.com/news/2026/4/28/at-least-20-killed-in-colombia-highway-blast?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/ukrainian-drones-strike-russias-tuapse-refinery-for-third-time?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "新西兰间谍飞机报告可能违反北朝鲜制裁",
-        "en": "New Zealand spy plane reports possible North Korea sanctions breach at sea",
-        "de": "Neuseeländisches Spionageflugzeug berichtet über möglichen Verstoß gegen Nordkorea-Sanktionen auf See"
+        "zh": "阿联酋在对伊朗的战争中退出石油输出国组织",
+        "en": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
+        "de": "VAE verlassen OPEC in Schlag gegen das Öl-Kartell im Krieg gegen den Iran"
       },
       "summary": {
-        "zh": "新西兰国防军表示，一艘北朝鲜船只在海上被观察到可能进行非法货物转移，可能违反国际制裁。",
-        "en": "New Zealand's Defence Force has reported observing a North Korean ship potentially engaging in the transfer of illicit goods at sea, possibly breaching international sanctions.",
-        "de": "Die neuseeländischen Streitkräfte haben berichtet, dass sie ein nordkoreanisches Schiff beobachtet haben, das möglicherweise an der Übertragung illegaler Waren auf See beteiligt war, was möglicherweise gegen internationale Sanktionen verstößt."
+        "zh": "阿联酋宣布退出OPEC和OPEC+，这一决定可能会对全球石油市场产生重大影响。",
+        "en": "The UAE has announced its withdrawal from OPEC and OPEC+, a decision that could have significant implications for the global oil market.",
+        "de": "Die VAE haben ihren Austritt aus OPEC und OPEC+ angekündigt, eine Entscheidung, die erhebliche Auswirkungen auf den globalen Ölmarkt haben könnte."
       },
       "source": "Al Jazeera",
       "date": "2026-04-28",
-      "url": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储主席鲍威尔面临重大决定",
+        "zh": "美联储主席鲍威尔面临重大决定，刑事调查已结束",
         "en": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
         "de": "Bleibt er oder geht er? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Chef Powell vor einer großen Entscheidung"
       },
       "summary": {
-        "zh": "美联储主席鲍威尔在刑事调查结束后，面临是否继续担任职务的重大决定，这一决定可能对政策制定产生重要影响。",
-        "en": "Fed Chair Powell faces a significant decision about whether to remain in his position following the conclusion of a criminal probe, a choice that could have important ramifications for policymaking.",
-        "de": "Fed-Chef Powell steht vor einer wichtigen Entscheidung, ob er nach Abschluss einer strafrechtlichen Untersuchung in seinem Amt bleiben soll, eine Wahl, die erhebliche Auswirkungen auf die Politikgestaltung haben könnte."
+        "zh": "美联储主席鲍威尔在刑事调查结束后面临重大决策，这一决定可能对政策制定产生重要影响。",
+        "en": "Fed Chair Powell faces a significant decision following the conclusion of a criminal probe, a choice that could have important ramifications for policymaking.",
+        "de": "Fed-Chef Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung, die erhebliche Auswirkungen auf die Politikgestaltung haben könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-24",
@@ -125,9 +125,9 @@
         "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
       },
       "summary": {
-        "zh": "伊朗经济在战争和制裁的影响下急剧下滑，图表显示其脆弱的经济状况。",
-        "en": "Iran's economy is plummeting under the effects of war and sanctions, with charts illustrating its vulnerable economic condition.",
-        "de": "Die iranische Wirtschaft stürzt unter den Auswirkungen von Krieg und Sanktionen ab, wobei Diagramme ihren anfälligen wirtschaftlichen Zustand veranschaulichen."
+        "zh": "伊朗的经济在战争前就已经脆弱，现在因冲突而急剧恶化，给该国及其公民带来了严峻的现实。",
+        "en": "Iran's economy was already vulnerable before the war, and it has sharply deteriorated due to the conflict, presenting a brutal reality for the regime and its citizens.",
+        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig, und sie hat sich aufgrund des Konflikts stark verschlechtert, was eine brutale Realität für das Regime und seine Bürger darstellt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-23",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普延长伊朗停火——但市场焦点已转移",
+        "zh": "特朗普延长伊朗停火——但市场的关注已转向其他地方",
         "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hinbewegt"
+        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hingewandt"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场对进一步谈判的前景仍然不确定，焦点已转移。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has shifted elsewhere amid uncertainty regarding the prospects for further negotiations.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt angesichts der Unsicherheiten über die Aussichten für weitere Verhandlungen woanders hinbewegt."
+        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注已经转向其他问题，未来的谈判前景仍不明朗。",
+        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has already shifted to other issues, with uncertain prospects for future negotiations.",
+        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt bereits anderen Themen zugewandt, mit ungewissen Aussichten für zukünftige Verhandlungen."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-22",
