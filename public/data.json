@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-28T17:59:32.409682+00:00",
+  "generatedAt": "2026-04-29T07:05:31.877722+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：马斯克和阿尔特曼的法律对决，以及人工智能的盈利问题",
+        "zh": "下载：马斯克与奥特曼的法律对决，以及人工智能的利润问题",
         "en": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
-        "de": "Der Download: Musks und Altmans rechtlicher Showdown und das Gewinnproblem der KI"
+        "de": "Der Download: Musk und Altmans rechtlicher Showdown und das Gewinnproblem der KI"
       },
       "summary": {
-        "zh": "马斯克与OpenAI首席执行官阿尔特曼之间的法律纠纷即将进入法庭审理，这场官司可能会对OpenAI的未来产生重大影响。同时，人工智能行业面临盈利问题。",
-        "en": "Musk's legal feud with OpenAI CEO Altman is heading to trial, which could have significant implications for OpenAI's future. Meanwhile, the AI industry is grappling with profitability issues.",
-        "de": "Der rechtliche Streit zwischen Musk und OpenAI-CEO Altman geht vor Gericht, was erhebliche Auswirkungen auf die Zukunft von OpenAI haben könnte. Gleichzeitig kämpft die KI-Branche mit Gewinnproblemen."
+        "zh": "马斯克与OpenAI首席执行官奥特曼的法律纠纷即将进入审判阶段，可能会对OpenAI的未来产生重大影响。同时，人工智能行业面临盈利能力的挑战。",
+        "en": "Musk's legal dispute with OpenAI CEO Altman is set to go to trial, potentially impacting the future of OpenAI. Meanwhile, the AI industry faces challenges regarding profitability.",
+        "de": "Der rechtliche Streit zwischen Musk und OpenAI-CEO Altman steht vor Gericht und könnte die Zukunft von OpenAI beeinflussen. Gleichzeitig sieht sich die KI-Branche Herausforderungen in Bezug auf die Rentabilität gegenüber."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-28",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "马斯克和阿尔特曼将就OpenAI的未来上法庭",
+        "zh": "马斯克与奥特曼将因OpenAI的未来上法庭",
         "en": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
         "de": "Elon Musk und Sam Altman gehen wegen der Zukunft von OpenAI vor Gericht"
       },
       "summary": {
-        "zh": "在经历多年的法律争执后，马斯克和OpenAI首席执行官阿尔特曼将在北加州的法庭上对峙，这一案件可能会对OpenAI的未来产生深远影响。",
-        "en": "After years of legal disputes, Musk and OpenAI CEO Altman are set to face off in court in Northern California, a case that could have far-reaching implications for OpenAI's future.",
-        "de": "Nach jahrelangen rechtlichen Auseinandersetzungen werden Musk und OpenAI-CEO Altman vor Gericht in Nordkalifornien gegeneinander antreten, ein Fall, der weitreichende Auswirkungen auf die Zukunft von OpenAI haben könnte."
+        "zh": "马斯克与OpenAI首席执行官奥特曼的法律纠纷即将在加州北部开庭，案件可能对OpenAI的未来产生深远的影响。",
+        "en": "Musk and OpenAI CEO Altman's legal feud is set to go to trial in Northern California, with the case potentially having far-reaching implications for OpenAI's future.",
+        "de": "Der rechtliche Streit zwischen Musk und OpenAI-CEO Altman wird in Nordkalifornien vor Gericht gebracht, wobei der Fall weitreichende Auswirkungen auf die Zukunft von OpenAI haben könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-27",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "从炒作到盈利之间缺失的步骤",
+        "zh": "从炒作到利润之间的缺失步骤",
         "en": "The missing step between hype and profit",
         "de": "Der fehlende Schritt zwischen Hype und Gewinn"
       },
       "summary": {
-        "zh": "尽管人工智能技术备受关注，但很多企业发现，实现有意义的采用面临着重大的障碍，尤其是在盈利方面。",
-        "en": "Despite the hype surrounding AI technology, many enterprises are finding significant obstacles to meaningful adoption, particularly regarding profitability.",
-        "de": "Trotz des Hypes um KI-Technologie sehen sich viele Unternehmen erheblichen Hindernissen bei der sinnvollen Einführung gegenüber, insbesondere in Bezug auf die Rentabilität."
+        "zh": "在人工智能领域，企业面临着从炒作到实现盈利的重大挑战。许多公司在采用AI技术时遇到数据堆栈重建的障碍。",
+        "en": "In the AI sector, companies face significant challenges in moving from hype to profitability. Many are encountering obstacles in rebuilding their data stacks for AI adoption.",
+        "de": "Im KI-Sektor stehen Unternehmen vor erheblichen Herausforderungen, um vom Hype zur Rentabilität zu gelangen. Viele stoßen auf Hindernisse beim Wiederaufbau ihrer Datenstapel für die KI-Einführung."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-27",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "波斯尼亚签署与特朗普相关的管道协议以减少对俄罗斯天然气的依赖",
-        "en": "Bosnia signs up to Trump-linked pipeline to reduce Russian gas dependence",
-        "de": "Bosnien unterzeichnet Pipeline-Abkommen mit Trump-Bezug zur Verringerung der Abhängigkeit von russischem Gas"
+        "zh": "欧洲被评为最新气候变化报告中“升温最快的大陆”",
+        "en": "Europe named ‘fastest-warming continent’ in latest climate change report",
+        "de": "Europa als 'schnellst wärmerer Kontinent' im neuesten Klimawandelbericht benannt"
       },
       "summary": {
-        "zh": "波斯尼亚与克罗地亚之间的管道协议旨在减少对俄罗斯天然气的依赖，但欧盟警告此举可能会危及波斯尼亚加入欧盟的计划。",
-        "en": "Bosnia's pipeline deal with Croatia aims to reduce dependence on Russian gas, but the EU warns that it could jeopardize Bosnia's bid to join the bloc.",
-        "de": "Das Pipeline-Abkommen Bosniens mit Kroatien zielt darauf ab, die Abhängigkeit von russischem Gas zu verringern, aber die EU warnt, dass dies Bosniens Bestrebungen, der EU beizutreten, gefährden könnte."
+        "zh": "联合国机构报告称，欧洲正面临着气候变化的严重影响，包括热浪、野火和冰盖缩小等现象。",
+        "en": "A UN body reports that Europe is facing severe impacts from climate change, including heatwaves, wildfires, and shrinking ice cover.",
+        "de": "Ein UN-Gremium berichtet, dass Europa unter den schweren Auswirkungen des Klimawandels leidet, einschließlich Hitzewellen, Waldbränden und schrumpfendem Eis."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-28",
-      "url": "https://www.aljazeera.com/news/2026/4/28/bosnia-signs-up-to-trump-linked-pipeline-to-reduce-russian-gas-dependence?traffic_source=rss"
+      "date": "2026-04-29",
+      "url": "https://www.aljazeera.com/news/2026/4/29/europe-named-fastest-warming-continent-in-latest-climate-change-report?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乌克兰无人机第三次袭击俄罗斯图阿普斯炼油厂",
-        "en": "Ukrainian drones strike Russia’s Tuapse refinery for third time",
-        "de": "Ukrainische Drohnen greifen Russlands Tuapse-Raffinerie zum dritten Mal an"
+        "zh": "白宫称赞“两个国王”，查尔斯国王发表尖锐言论",
+        "en": "White House hails ‘two kings’ as King Charles delivers pointed remarks",
+        "de": "Das Weiße Haus lobt 'zwei Könige', während König Charles pointierte Bemerkungen macht"
       },
       "summary": {
-        "zh": "乌克兰针对俄罗斯图阿普斯港口城市的主要石油炼油厂进行了第三次无人机袭击，显示出冲突的持续升级。",
-        "en": "Ukraine has targeted a major oil refinery in the Russian port city of Tuapse for the third time, indicating a continued escalation of the conflict.",
-        "de": "Die Ukraine hat zum dritten Mal eine große Ölraffinerie in der russischen Hafenstadt Tuapse angegriffen, was auf eine anhaltende Eskalation des Konflikts hinweist."
+        "zh": "查尔斯三世国王在白宫的国宴上称赞美英关系，强调两国之间的紧密联系。",
+        "en": "King Charles III praised US-UK ties at a state dinner in the White House, emphasizing the close relationship between the two nations.",
+        "de": "König Charles III. lobte die Beziehungen zwischen den USA und Großbritannien bei einem Staatsdinner im Weißen Haus und betonte die enge Verbindung zwischen den beiden Ländern."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/ukrainian-drones-strike-russias-tuapse-refinery-for-third-time?traffic_source=rss"
+      "date": "2026-04-29",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/white-house-hails-two-kings-as-king-charles-delivers-pointed-remarks?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "阿联酋在对伊朗的战争中退出石油输出国组织",
-        "en": "UAE leaves OPEC in blow to oil cartel amid war on Iran",
-        "de": "VAE verlassen OPEC in Schlag gegen das Öl-Kartell im Krieg gegen den Iran"
+        "zh": "美国参议院阻止特朗普对古巴使用军队的提议",
+        "en": "US Senate blocks bid to stop Trump using military against Cuba",
+        "de": "Der US-Senat blockiert den Versuch, Trump daran zu hindern, das Militär gegen Kuba einzusetzen"
       },
       "summary": {
-        "zh": "阿联酋宣布退出OPEC和OPEC+，这一决定可能会对全球石油市场产生重大影响。",
-        "en": "The UAE has announced its withdrawal from OPEC and OPEC+, a decision that could have significant implications for the global oil market.",
-        "de": "Die VAE haben ihren Austritt aus OPEC und OPEC+ angekündigt, eine Entscheidung, die erhebliche Auswirkungen auf den globalen Ölmarkt haben könnte."
+        "zh": "美国参议院阻止了一项提案，旨在限制特朗普总统在古巴使用军队的权力，参议员表示此举可能被视为对美国的战争行为。",
+        "en": "The US Senate blocked a proposal aimed at limiting President Trump's authority to use military force in Cuba, with senators arguing that such actions could be seen as acts of war against the US.",
+        "de": "Der US-Senat blockierte einen Vorschlag, der darauf abzielte, Präsident Trumps Befugnis zur Anwendung militärischer Gewalt in Kuba einzuschränken, wobei Senatoren argumentierten, dass solche Aktionen als Kriegsakte gegen die USA angesehen werden könnten."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/uae-leaves-opec-in-blow-to-oil-cartel-amid-war-on-iran?traffic_source=rss"
+      "date": "2026-04-29",
+      "url": "https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储主席鲍威尔面临重大决定，刑事调查已结束",
-        "en": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision",
-        "de": "Bleibt er oder geht er? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Chef Powell vor einer großen Entscheidung"
-      },
-      "summary": {
-        "zh": "美联储主席鲍威尔在刑事调查结束后面临重大决策，这一决定可能对政策制定产生重要影响。",
-        "en": "Fed Chair Powell faces a significant decision following the conclusion of a criminal probe, a choice that could have important ramifications for policymaking.",
-        "de": "Fed-Chef Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung, die erhebliche Auswirkungen auf die Politikgestaltung haben könnte."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-24",
-      "url": "https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "这些图表显示伊朗经济正在自由落体",
-        "en": "These charts show how Iran's economy is in freefall",
-        "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist"
-      },
-      "summary": {
-        "zh": "伊朗的经济在战争前就已经脆弱，现在因冲突而急剧恶化，给该国及其公民带来了严峻的现实。",
-        "en": "Iran's economy was already vulnerable before the war, and it has sharply deteriorated due to the conflict, presenting a brutal reality for the regime and its citizens.",
-        "de": "Die iranische Wirtschaft war bereits vor dem Krieg anfällig, und sie hat sich aufgrund des Konflikts stark verschlechtert, was eine brutale Realität für das Regime und seine Bürger darstellt."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-23",
-      "url": "https://www.cnbc.com/2026/04/23/iran-economy-war-charts-rial-oil-strait-hormuz-blockade.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "特朗普延长伊朗停火——但市场的关注已转向其他地方",
+        "zh": "特朗普延长对伊朗的停火——但市场焦点已转移",
         "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hingewandt"
+        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hinbewegt"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注已经转向其他问题，未来的谈判前景仍不明朗。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has already shifted to other issues, with uncertain prospects for future negotiations.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt bereits anderen Themen zugewandt, mit ungewissen Aussichten für zukünftige Verhandlungen."
+        "zh": "特朗普总统延长了对伊朗的停火协议，但市场的关注点已经转向其他问题，显示出对未来谈判的不确定性。",
+        "en": "President Trump has extended the ceasefire with Iran, but market focus has shifted to other issues, reflecting uncertainty about future negotiations.",
+        "de": "Präsident Trump hat den Waffenstillstand mit dem Iran verlängert, aber der Markt hat sich auf andere Themen verlagert, was die Unsicherheit über zukünftige Verhandlungen widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-22",
       "url": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "星巴克因年轻和低收入客户的回归而复苏",
+        "en": "Starbucks is seeing a resurgence, thanks to younger and lower-income customers",
+        "de": "Starbucks erlebt eine Wiederbelebung, dank jüngerer und einkommensschwächerer Kunden"
+      },
+      "summary": {
+        "zh": "星巴克因年轻和低收入客户的回归而提高了销售预期，超出了华尔街的预期。",
+        "en": "Starbucks has raised its sales outlook due to a resurgence of younger and lower-income customers, exceeding Wall Street expectations.",
+        "de": "Starbucks hat seine Verkaufsprognose aufgrund einer Wiederbelebung jüngerer und einkommensschwächerer Kunden angehoben und die Erwartungen der Wall Street übertroffen."
+      },
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-29",
+      "url": "https://www.marketwatch.com/story/starbucks-is-getting-customers-back-into-its-stores-faster-than-expected-f4ee80ab?mod=mw_rss_topstories"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "阿联酋将退出欧佩克，但在增加石油生产时仍需谨慎",
+        "en": "U.A.E. is leaving OPEC but will still need to exercise caution as it increases oil production",
+        "de": "V.A.E. verlässt OPEC, muss jedoch bei der Erhöhung der Ölproduktion weiterhin Vorsicht walten lassen"
+      },
+      "summary": {
+        "zh": "阿联酋决定在本周末退出石油输出国组织，但在增加石油生产时仍需谨慎，以避免市场波动。",
+        "en": "The U.A.E. has decided to leave OPEC this weekend but will need to exercise caution in increasing oil production to avoid market volatility.",
+        "de": "Die V.A.E. haben beschlossen, an diesem Wochenende OPEC zu verlassen, müssen jedoch bei der Erhöhung der Ölproduktion vorsichtig sein, um Marktschwankungen zu vermeiden."
+      },
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-29",
+      "url": "https://www.marketwatch.com/story/u-a-e-is-leaving-opec-but-will-still-need-to-exercise-caution-as-it-increases-oil-production-0979cd87?mod=mw_rss_topstories"
     }
   ]
 }
