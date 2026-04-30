@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-04-30T07:11:13.512136+00:00",
+  "generatedAt": "2026-04-30T17:49:17.484983+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：存储核废料和编排代理：这是今天的下载，我们的工作日通讯，提供有关技术世界的最新动态。",
-        "en": "The Download: storing nuclear waste and orchestrating agents: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: Speicherung von Atommüll und Orchestrierung von Agenten: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Einblick in die Welt der Technologie bietet."
+        "zh": "这家初创公司的新机制可解释性工具让你调试LLM",
+        "en": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+        "de": "Dieses neue mechanistische Interpretationswerkzeug eines Startups ermöglicht es Ihnen, LLMs zu debuggen"
       },
       "summary": {
-        "zh": "今天的下载涵盖了核废料存储和代理编排的最新动态，反映了技术领域的最新趋势和挑战。",
-        "en": "Today's Download covers the latest developments in nuclear waste storage and agent orchestration, reflecting the latest trends and challenges in the tech field.",
-        "de": "Der heutige Download behandelt die neuesten Entwicklungen in der Speicherung von Atommüll und der Orchestrierung von Agenten und spiegelt die neuesten Trends und Herausforderungen im Technologiebereich wider."
+        "zh": "位于旧金山的初创公司Goodfire推出了一种名为Silico的新工具，使研究人员和工程师能够深入了解AI模型并进行调试。",
+        "en": "San Francisco-based startup Goodfire has released a new tool called Silico that allows researchers and engineers to peer inside an AI model and debug it.",
+        "de": "Das in San Francisco ansässige Startup Goodfire hat ein neues Tool namens Silico veröffentlicht, mit dem Forscher und Ingenieure in ein KI-Modell blicken und es debuggen können."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-29",
-      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/"
+      "date": "2026-04-30",
+      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "是时候为核废料制定计划了：今天，核能在美国政治光谱中享有罕见的支持时刻。",
-        "en": "It’s time to make a plan for nuclear waste: Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US.",
-        "de": "Es ist an der Zeit, einen Plan für Atommüll zu erstellen: Heute genießt die Kernenergie einen seltenen Moment der Unterstützung im politischen Spektrum der USA."
+        "zh": "马斯克和阿尔特曼的法律对决，以及人工智能的盈利问题",
+        "en": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+        "de": "Der Download: Musks und Altmans rechtlicher Showdown und das Gewinnproblem der KI"
       },
       "summary": {
-        "zh": "随着核能在美国的支持增加，制定核废料管理计划变得至关重要，以应对未来的挑战和风险。",
-        "en": "As support for nuclear energy increases in the US, creating a nuclear waste management plan becomes crucial to address future challenges and risks.",
-        "de": "Da die Unterstützung für Kernenergie in den USA zunimmt, wird die Erstellung eines Plans zur Verwaltung von Atommüll entscheidend, um zukünftigen Herausforderungen und Risiken zu begegnen."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-04-29",
-      "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "马斯克和阿尔特曼的法律对决，以及人工智能的盈利问题：这是今天的下载，我们的工作日通讯，提供有关技术世界的最新动态。",
-        "en": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: Musks und Altmans rechtlicher Showdown und das Gewinnproblem der KI: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Einblick in die Welt der Technologie bietet."
-      },
-      "summary": {
-        "zh": "今天的下载讨论了马斯克与阿尔特曼之间的法律争端，以及人工智能在盈利能力方面面临的挑战。",
-        "en": "Today's Download discusses the legal dispute between Musk and Altman, as well as the challenges AI faces in terms of profitability.",
-        "de": "Der heutige Download behandelt den Rechtsstreit zwischen Musk und Altman sowie die Herausforderungen, denen sich die KI in Bezug auf die Rentabilität gegenübersieht."
+        "zh": "在这期《下载》中，讨论了马斯克与阿尔特曼之间的法律纠纷以及人工智能领域面临的盈利挑战。",
+        "en": "This edition of The Download discusses the legal feud between Musk and Altman, as well as the profit challenges faced in the AI sector.",
+        "de": "In dieser Ausgabe des Downloads wird der rechtliche Streit zwischen Musk und Altman sowie die Gewinnherausforderungen im KI-Sektor erörtert."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-28",
       "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "重建人工智能的数据架构",
+        "en": "Rebuilding the data stack for AI",
+        "de": "Den Datenstapel für KI neu aufbauen"
+      },
+      "summary": {
+        "zh": "尽管人工智能在企业董事会的议程中占据主导地位，但许多企业发现，实现有意义的采用的最大障碍是数据架构的重建。",
+        "en": "While artificial intelligence dominates corporate boardroom agendas, many enterprises find that the biggest obstacle to meaningful adoption is the rebuilding of the data stack.",
+        "de": "Obwohl künstliche Intelligenz die Tagesordnung in den Vorstandsetagen dominiert, stellen viele Unternehmen fest, dass der größte Hindernis für eine sinnvolle Einführung der Wiederaufbau des Datenstapels ist."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-04-27",
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国-伊朗战争会变成长期的“冷冻”冲突吗？：在缺乏永久协议的情况下，美国与伊朗之间的战争正变成一场消耗战，尽管代价巨大。",
-        "en": "Could the US-Iran war become a protracted ‘frozen’ conflict?: In the absence of a permanent deal, the war between the US and Iran is becoming one of attrition despite huge costs.",
-        "de": "Könnte der US-Iran-Krieg zu einem langwierigen 'eingefrorenen' Konflikt werden?: In Ermangelung eines dauerhaften Abkommens wird der Krieg zwischen den USA und dem Iran trotz hoher Kosten zu einem Abnutzungskrieg."
+        "zh": "以色列人权组织向最高法院申请释放14名加沙医生",
+        "en": "Israel rights group petitions top court to order release of 14 Gaza doctors",
+        "de": "Israelische Menschenrechtsgruppe petitioniert beim Obersten Gerichtshof zur Anordnung der Freilassung von 14 Gaza-Ärzten"
       },
       "summary": {
-        "zh": "在没有达成持久协议的情况下，美国与伊朗之间的冲突可能会持续并加剧，双方都面临巨大的经济和人道主义成本。",
-        "en": "Without a lasting agreement, the conflict between the US and Iran may continue and escalate, with both sides facing significant economic and humanitarian costs.",
-        "de": "Ohne eine dauerhafte Vereinbarung könnte der Konflikt zwischen den USA und dem Iran anhalten und eskalieren, wobei beide Seiten erheblichen wirtschaftlichen und humanitären Kosten gegenüberstehen."
+        "zh": "以色列人权组织“以色列人权医生”指控当局妨碍加沙医疗系统的恢复，并向最高法院申请释放被拘留的14名医生。",
+        "en": "The Physicians for Human Rights-Israel accuses authorities of hindering the rehabilitation of Gaza's healthcare system and petitions the top court for the release of 14 detained doctors.",
+        "de": "Die Ärzte für Menschenrechte-Israel beschuldigen die Behörden, die Rehabilitation des Gesundheitswesens in Gaza zu behindern, und bitten das Oberste Gericht um die Freilassung von 14 festgenommenen Ärzten."
       },
       "source": "Al Jazeera",
       "date": "2026-04-30",
-      "url": "https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗官员因在加拿大遭到不当对待而缺席国际足联大会：伊朗的梅赫迪·塔吉领导的代表团因“移民官员不可接受的行为”在多伦多机场折返。",
-        "en": "Iranian officials to miss FIFA Congress over alleged mistreatment in Canada: Iran's Mehdi Taj-led delegation turns back at Toronto airport due to 'unacceptable behaviour of immigration officials'.",
-        "de": "Iranische Beamte verpassen den FIFA-Kongress wegen angeblicher Misshandlung in Kanada: Die von Mehdi Taj geleitete Delegation Irans kehrt am Flughafen Toronto aufgrund des 'unacceptable behavior of immigration officials' um."
+        "zh": "特朗普再次抨击德国的梅尔茨，伊朗战争的裂痕加深",
+        "en": "Trump slams Germany’s Merz again as rift over Iran war widens",
+        "de": "Trump kritisiert erneut Deutschlands Merz, während sich die Kluft über den Iran-Krieg vertieft"
       },
       "summary": {
-        "zh": "伊朗代表团因在加拿大机场遭遇不当对待而未能参加国际足联大会，这一事件引发了对移民官员行为的广泛关注。",
-        "en": "The Iranian delegation missed the FIFA Congress due to alleged mistreatment at a Canadian airport, raising widespread concerns about the behavior of immigration officials.",
-        "de": "Die iranische Delegation verpasste den FIFA-Kongress aufgrund angeblicher Misshandlungen an einem kanadischen Flughafen, was weit verbreitete Bedenken hinsichtlich des Verhaltens der Einwanderungsbeamten aufwarf."
+        "zh": "特朗普表示，德国总理应专注于欧洲事务，而不是伊朗问题，德国则表示准备减少驻德美军。",
+        "en": "Trump states that the German chancellor should focus on European affairs rather than Iran, while Berlin says it is 'prepared' for fewer US troops.",
+        "de": "Trump erklärt, dass der deutsche Kanzler sich auf europäische Angelegenheiten und nicht auf den Iran konzentrieren sollte, während Berlin sagt, es sei 'bereit' für weniger US-Truppen."
       },
       "source": "Al Jazeera",
       "date": "2026-04-30",
-      "url": "https://www.aljazeera.com/sports/2026/4/30/iran-football-officials-to-miss-fifa-congress-over-mistreatment-in-canada?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/4/30/trump-slams-germanys-merz-again-as-rift-over-iran-war-widens?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "新西兰法院拒绝清真寺大屠杀枪手上诉：布伦顿·塔兰特在2019年基督城的两座清真寺枪杀了51名穆斯林朝圣者，包括儿童。",
-        "en": "New Zealand court denies bid by mosque mass shooter to appeal conviction: Brenton Tarrant shot dead 51 Muslim worshippers, including children, at two Christchurch mosques in 2019.",
-        "de": "Neuseeländisches Gericht lehnt Antrag des Moschee-Massenschützen auf Berufung ab: Brenton Tarrant erschoss 51 muslimische Gläubige, darunter Kinder, in zwei Moscheen in Christchurch im Jahr 2019."
+        "zh": "叛军如何联手动摇马里和克里姆林宫的控制",
+        "en": "How rebels teamed up to shake Mali and the Kremlin’s grip",
+        "de": "Wie Rebellen sich zusammenschlossen, um Mali und den Griff des Kremls zu erschüttern"
       },
       "summary": {
-        "zh": "新西兰法院驳回了布伦顿·塔兰特的上诉请求，他因在2019年清真寺大屠杀中杀害51人而被定罪。",
-        "en": "A New Zealand court has denied Brenton Tarrant's appeal request, who was convicted for killing 51 people in the 2019 mosque shootings.",
-        "de": "Ein neuseeländisches Gericht hat den Berufungsantrag von Brenton Tarrant abgelehnt, der wegen des Mordes an 51 Personen bei den Moscheeschießereien von 2019 verurteilt wurde."
+        "zh": "马里发生爆炸事件，JNIM和图阿雷格叛军发起全国性攻击，导致马里国防部长遇害，分析人士探讨为何此时发生此事件。",
+        "en": "Explosions rocked Mali as JNIM and Tuareg rebels launched nationwide attacks, killing Mali’s defense minister. Analysts explore why this is happening now.",
+        "de": "Explosionen erschütterten Mali, als JNIM und Tuareg-Rebellen landesweite Angriffe starteten, bei denen der Verteidigungsminister Malis getötet wurde. Analysten untersuchen, warum dies jetzt geschieht."
       },
       "source": "Al Jazeera",
       "date": "2026-04-30",
-      "url": "https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/30/how-rebels-teamed-up-to-shake-mali-and-the-kremlins-grip?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "欧洲的利率会在本周上升吗？中央银行面临滞胀威胁：欧洲央行和英格兰银行预计本月将保持利率不变。",
-        "en": "Will rates go higher in Europe this week? Central banks confront stagflation threat: The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month.",
-        "de": "Werden die Zinsen in dieser Woche in Europa steigen? Zentralbanken stehen vor der Bedrohung durch Stagflation: Die Europäische Zentralbank und die Bank von England werden voraussichtlich in diesem Monat an ihren Zinssätzen festhalten."
+        "zh": "核心通胀率在3月份达到3.2%，第一季度增长令人失望",
+        "en": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
+        "de": "Die Kerninflationsrate erreichte im März 3,2%, während das Wachstum im ersten Quartal mit 2% enttäuschte"
       },
       "summary": {
-        "zh": "欧洲央行和英格兰银行预计将维持当前利率，以应对滞胀的威胁，市场对此保持关注。",
-        "en": "The European Central Bank and Bank of England are expected to maintain current interest rates in response to stagflation threats, with the market closely monitoring the situation.",
-        "de": "Die Europäische Zentralbank und die Bank von England werden voraussichtlich die aktuellen Zinssätze beibehalten, um auf die Bedrohung durch Stagflation zu reagieren, wobei der Markt die Situation genau beobachtet."
+        "zh": "由于伊朗战争导致油价飙升，消费者在3月份面临不断上涨的价格，给美联储带来了新的挑战。",
+        "en": "Consumers faced escalating prices in March as the Iran war sent oil soaring, creating new challenges for the Fed.",
+        "de": "Die Verbraucher sahen sich im März steigenden Preisen gegenüber, da der Iran-Krieg die Ölpreise in die Höhe trieb und neue Herausforderungen für die Fed schuf."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-29",
-      "url": "https://www.cnbc.com/2026/04/29/europes-central-banks-in-wait-and-see-mode-on-interest-rates.html"
+      "date": "2026-04-30",
+      "url": "https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "随着刑事调查结束，美联储主席鲍威尔面临重大决定：这一决定可能对政策制定产生重要影响。",
-        "en": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision: The decision could have important ramifications for policymaking at an especially delicate time.",
-        "de": "Wird er bleiben oder gehen? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Vorsitzender Powell vor einer großen Entscheidung: Diese Entscheidung könnte wichtige Auswirkungen auf die Politikgestaltung zu einem besonders heiklen Zeitpunkt haben."
+        "zh": "欧洲本周利率会提高吗？中央银行面临滞胀威胁",
+        "en": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
+        "de": "Werden die Zinsen diese Woche in Europa steigen? Zentralbanken stehen vor der Bedrohung der Stagflation"
       },
       "summary": {
-        "zh": "美联储主席鲍威尔在刑事调查结束后面临是否继续任职的重大决定，这可能会影响未来的货币政策。",
-        "en": "Fed Chair Powell faces a significant decision on whether to continue his role following the conclusion of a criminal investigation, which could impact future monetary policy.",
-        "de": "Fed-Vorsitzender Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung, ob er seine Rolle fortsetzen soll, was Auswirkungen auf die zukünftige Geldpolitik haben könnte."
+        "zh": "欧洲中央银行和英格兰银行预计本月将保持利率不变，以应对滞胀威胁。",
+        "en": "The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month amid stagflation threats.",
+        "de": "Die Europäische Zentralbank und die Bank von England werden voraussichtlich in diesem Monat an ihren Zinssätzen festhalten, um der Bedrohung durch Stagflation zu begegnen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-24",
-      "url": "https://www.cnbc.com/2026/04/24/will-he-stay-or-will-he-go-with-criminal-probe-over-fed-chair-powell-faces-big-decision.html"
+      "date": "2026-04-30",
+      "url": "https://www.cnbc.com/2026/04/29/europes-central-banks-in-wait-and-see-mode-on-interest-rates.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "尽管面临经济放缓，福特的利润仍在增长：福特获得了可观的关税退款，并提高了年度展望。",
-        "en": "Ford’s profit jumps as carmaker powers through an EV slowdown: Ford gets hefty tariff refund and raises outlook for the year.",
-        "de": "Fords Gewinn springt, während der Automobilhersteller durch eine EV-Verlangsamung steuert: Ford erhält eine beträchtliche Zollrückerstattung und hebt die Prognose für das Jahr an."
+        "zh": "特朗普延长伊朗停火——但市场焦点已转移",
+        "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
+        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hinbewegt"
       },
       "summary": {
-        "zh": "福特汽车公司在电动车放缓的情况下，凭借可观的关税退款和乐观的年度展望，利润实现了显著增长。",
-        "en": "Ford has seen a significant profit increase despite an EV slowdown, driven by a hefty tariff refund and an optimistic outlook for the year.",
-        "de": "Ford hat trotz einer Verlangsamung bei Elektrofahrzeugen einen signifikanten Gewinnanstieg verzeichnet, der durch eine beträchtliche Zollrückerstattung und eine optimistische Prognose für das Jahr angetrieben wird."
+        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转移，前景仍然不确定。",
+        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has already shifted elsewhere, with uncertain prospects ahead.",
+        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt bereits woanders hinbewegt, während die Aussichten ungewiss bleiben."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-04-30",
-      "url": "https://www.marketwatch.com/story/fords-profit-jumps-as-automaker-powers-through-an-ev-slowdown-9f799848?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-04-22",
+      "url": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html"
     }
   ]
 }
