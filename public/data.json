@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-29T17:55:13.698532+00:00",
+  "generatedAt": "2026-04-30T07:11:13.512136+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：存储核废料和协调代理：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
+        "zh": "下载：存储核废料和编排代理：这是今天的下载，我们的工作日通讯，提供有关技术世界的最新动态。",
         "en": "The Download: storing nuclear waste and orchestrating agents: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: Speicherung von Atommüll und Orchestrierung von Agenten: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der eine tägliche Dosis dessen bietet, was in der Welt der Technologie vor sich geht."
+        "de": "Der Download: Speicherung von Atommüll und Orchestrierung von Agenten: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Einblick in die Welt der Technologie bietet."
       },
       "summary": {
-        "zh": "今天的下载涵盖了核废料存储和人工智能代理的协调，强调了这些技术在当今社会中的重要性。",
-        "en": "Today's Download covers the storage of nuclear waste and the orchestration of AI agents, highlighting the significance of these technologies in contemporary society.",
-        "de": "Der heutige Download behandelt die Speicherung von Atommüll und die Orchestrierung von KI-Agenten und hebt die Bedeutung dieser Technologien in der heutigen Gesellschaft hervor."
+        "zh": "今天的下载涵盖了核废料存储和代理编排的最新动态，反映了技术领域的最新趋势和挑战。",
+        "en": "Today's Download covers the latest developments in nuclear waste storage and agent orchestration, reflecting the latest trends and challenges in the tech field.",
+        "de": "Der heutige Download behandelt die neuesten Entwicklungen in der Speicherung von Atommüll und der Orchestrierung von Agenten und spiegelt die neuesten Trends und Herausforderungen im Technologiebereich wider."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-29",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "是时候制定核废料计划了：今天，核能在美国各政治派别中享有罕见的支持。",
+        "zh": "是时候为核废料制定计划了：今天，核能在美国政治光谱中享有罕见的支持时刻。",
         "en": "It’s time to make a plan for nuclear waste: Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US.",
-        "de": "Es ist an der Zeit, einen Plan für Atommüll zu erstellen: Heute genießt die Kernenergie einen seltenen Moment der Unterstützung über das politische Spektrum in den USA."
+        "de": "Es ist an der Zeit, einen Plan für Atommüll zu erstellen: Heute genießt die Kernenergie einen seltenen Moment der Unterstützung im politischen Spektrum der USA."
       },
       "summary": {
-        "zh": "随着核能在美国获得广泛支持，制定有效的核废料管理计划显得尤为重要，以确保安全和可持续性。",
-        "en": "As nuclear energy gains widespread support in the US, developing an effective nuclear waste management plan becomes crucial for safety and sustainability.",
-        "de": "Da die Kernenergie in den USA breite Unterstützung erhält, wird die Entwicklung eines effektiven Plans zur Entsorgung von Atommüll entscheidend für Sicherheit und Nachhaltigkeit."
+        "zh": "随着核能在美国的支持增加，制定核废料管理计划变得至关重要，以应对未来的挑战和风险。",
+        "en": "As support for nuclear energy increases in the US, creating a nuclear waste management plan becomes crucial to address future challenges and risks.",
+        "de": "Da die Unterstützung für Kernenergie in den USA zunimmt, wird die Erstellung eines Plans zur Verwaltung von Atommüll entscheidend, um zukünftigen Herausforderungen und Risiken zu begegnen."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-29",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "马斯克和阿尔特曼的法律对决，以及人工智能的利润问题：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
+        "zh": "马斯克和阿尔特曼的法律对决，以及人工智能的盈利问题：这是今天的下载，我们的工作日通讯，提供有关技术世界的最新动态。",
         "en": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: Musk und Altmans rechtlicher Showdown und das Gewinnproblem der KI: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der eine tägliche Dosis dessen bietet, was in der Welt der Technologie vor sich geht."
+        "de": "Der Download: Musks und Altmans rechtlicher Showdown und das Gewinnproblem der KI: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich einen Einblick in die Welt der Technologie bietet."
       },
       "summary": {
-        "zh": "今天的下载探讨了马斯克与阿尔特曼之间的法律争端，以及人工智能在实现盈利方面面临的挑战。",
-        "en": "Today's Download discusses the legal dispute between Musk and Altman, as well as the challenges AI faces in achieving profitability.",
-        "de": "Der heutige Download behandelt den Rechtsstreit zwischen Musk und Altman sowie die Herausforderungen, denen sich die KI bei der Erzielung von Rentabilität gegenübersieht."
+        "zh": "今天的下载讨论了马斯克与阿尔特曼之间的法律争端，以及人工智能在盈利能力方面面临的挑战。",
+        "en": "Today's Download discusses the legal dispute between Musk and Altman, as well as the challenges AI faces in terms of profitability.",
+        "de": "Der heutige Download behandelt den Rechtsstreit zwischen Musk und Altman sowie die Herausforderungen, denen sich die KI in Bezug auf die Rentabilität gegenübersieht."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-28",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "家庭起诉OpenAI，指控聊天机器人助长了加拿大校园枪击事件：原告指控OpenAI未能向当局报告威胁迹象，导致2月发生校园枪击事件。",
-        "en": "Families sue OpenAI, alleging chatbot aided in Canadian school shooting: Plaintiffs accuse OpenAI of not alerting authorities to signs of a threat, leading to a school shooting in February.",
-        "de": "Familien verklagen OpenAI und behaupten, der Chatbot habe bei einem Schulschießen in Kanada geholfen: Die Kläger beschuldigen OpenAI, die Behörden nicht auf Anzeichen einer Bedrohung hingewiesen zu haben, was zu einem Schulschießen im Februar führte."
+        "zh": "美国-伊朗战争会变成长期的“冷冻”冲突吗？：在缺乏永久协议的情况下，美国与伊朗之间的战争正变成一场消耗战，尽管代价巨大。",
+        "en": "Could the US-Iran war become a protracted ‘frozen’ conflict?: In the absence of a permanent deal, the war between the US and Iran is becoming one of attrition despite huge costs.",
+        "de": "Könnte der US-Iran-Krieg zu einem langwierigen 'eingefrorenen' Konflikt werden?: In Ermangelung eines dauerhaften Abkommens wird der Krieg zwischen den USA und dem Iran trotz hoher Kosten zu einem Abnutzungskrieg."
       },
       "summary": {
-        "zh": "几户家庭对OpenAI提起诉讼，声称其聊天机器人未能警告有关当局，导致一起校园枪击事件的发生。",
-        "en": "Several families have filed a lawsuit against OpenAI, claiming that its chatbot failed to alert authorities, resulting in a school shooting incident.",
-        "de": "Mehrere Familien haben eine Klage gegen OpenAI eingereicht und behauptet, dass der Chatbot die Behörden nicht gewarnt hat, was zu einem Vorfall mit einem Schulschießen führte."
+        "zh": "在没有达成持久协议的情况下，美国与伊朗之间的冲突可能会持续并加剧，双方都面临巨大的经济和人道主义成本。",
+        "en": "Without a lasting agreement, the conflict between the US and Iran may continue and escalate, with both sides facing significant economic and humanitarian costs.",
+        "de": "Ohne eine dauerhafte Vereinbarung könnte der Konflikt zwischen den USA und dem Iran anhalten und eskalieren, wobei beide Seiten erheblichen wirtschaftlichen und humanitären Kosten gegenüberstehen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-29",
-      "url": "https://www.aljazeera.com/economy/2026/4/29/families-sue-openai-alleging-chatbot-aided-in-canadian-school-shooting?traffic_source=rss"
+      "date": "2026-04-30",
+      "url": "https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "七起诉讼针对OpenAI，由加拿大大规模枪击事件受害者家庭提起：这些诉讼在加利福尼亚州提起，指控OpenAI和萨姆·阿尔特曼因未能标记嫌疑人的ChatGPT账户而疏忽。",
-        "en": "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims: The lawsuits, filed in California, accuse OpenAI and Sam Altman of negligence and abetting a mass shooting by failing to flag the suspect's ChatGPT account.",
-        "de": "Sieben Klagen gegen OpenAI von Familien der Opfer eines Massenschießens in Kanada: Die in Kalifornien eingereichten Klagen beschuldigen OpenAI und Sam Altman der Fahrlässigkeit und der Beihilfe zu einem Massenschießen, weil sie das ChatGPT-Konto des Verdächtigen nicht markiert haben."
+        "zh": "伊朗官员因在加拿大遭到不当对待而缺席国际足联大会：伊朗的梅赫迪·塔吉领导的代表团因“移民官员不可接受的行为”在多伦多机场折返。",
+        "en": "Iranian officials to miss FIFA Congress over alleged mistreatment in Canada: Iran's Mehdi Taj-led delegation turns back at Toronto airport due to 'unacceptable behaviour of immigration officials'.",
+        "de": "Iranische Beamte verpassen den FIFA-Kongress wegen angeblicher Misshandlung in Kanada: Die von Mehdi Taj geleitete Delegation Irans kehrt am Flughafen Toronto aufgrund des 'unacceptable behavior of immigration officials' um."
       },
       "summary": {
-        "zh": "这些诉讼指控OpenAI未能采取适当措施，导致一起严重的校园暴力事件，家庭寻求法律责任。",
-        "en": "The lawsuits allege that OpenAI failed to take appropriate measures, leading to a serious incident of school violence, with families seeking legal accountability.",
-        "de": "Die Klagen behaupten, dass OpenAI nicht die erforderlichen Maßnahmen ergriffen hat, was zu einem schweren Vorfall von Schulgewalt führte, wobei die Familien rechtliche Verantwortung fordern."
+        "zh": "伊朗代表团因在加拿大机场遭遇不当对待而未能参加国际足联大会，这一事件引发了对移民官员行为的广泛关注。",
+        "en": "The Iranian delegation missed the FIFA Congress due to alleged mistreatment at a Canadian airport, raising widespread concerns about the behavior of immigration officials.",
+        "de": "Die iranische Delegation verpasste den FIFA-Kongress aufgrund angeblicher Misshandlungen an einem kanadischen Flughafen, was weit verbreitete Bedenken hinsichtlich des Verhaltens der Einwanderungsbeamten aufwarf."
       },
-      "source": "BBC News – World",
-      "date": "2026-04-29",
-      "url": "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-04-30",
+      "url": "https://www.aljazeera.com/sports/2026/4/30/iran-football-officials-to-miss-fifa-congress-over-mistreatment-in-canada?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "马达加斯加拘留法国前军人，因涉嫌破坏阴谋：法国国籍的盖·巴雷特与马达加斯加军官一起被拘留，因涉嫌阴谋破坏马达加斯加。",
-        "en": "Madagascar detains French ex-serviceman over alleged destabilisation plot: French national Guy Baret is detained alongside Malagasy army officer over alleged conspiracy to destabilise Madagascar.",
-        "de": "Madagaskar nimmt französischen Ex-Soldaten wegen angeblicher Destabilisierungspläne fest: Der französische Staatsbürger Guy Baret wurde zusammen mit einem malagasy Offizier wegen angeblicher Verschwörung zur Destabilisierung Madagaskars festgenommen."
+        "zh": "新西兰法院拒绝清真寺大屠杀枪手上诉：布伦顿·塔兰特在2019年基督城的两座清真寺枪杀了51名穆斯林朝圣者，包括儿童。",
+        "en": "New Zealand court denies bid by mosque mass shooter to appeal conviction: Brenton Tarrant shot dead 51 Muslim worshippers, including children, at two Christchurch mosques in 2019.",
+        "de": "Neuseeländisches Gericht lehnt Antrag des Moschee-Massenschützen auf Berufung ab: Brenton Tarrant erschoss 51 muslimische Gläubige, darunter Kinder, in zwei Moscheen in Christchurch im Jahr 2019."
       },
       "summary": {
-        "zh": "马达加斯加当局逮捕了一名法国前军人，指控其参与破坏国家稳定的阴谋，事件引发国际关注。",
-        "en": "Madagascar authorities have arrested a French ex-serviceman, accusing him of involvement in a conspiracy to undermine national stability, drawing international attention.",
-        "de": "Die madagassischen Behörden haben einen französischen Ex-Soldaten festgenommen und ihm vorgeworfen, an einer Verschwörung zur Untergrabung der nationalen Stabilität beteiligt zu sein, was internationale Aufmerksamkeit auf sich zieht."
+        "zh": "新西兰法院驳回了布伦顿·塔兰特的上诉请求，他因在2019年清真寺大屠杀中杀害51人而被定罪。",
+        "en": "A New Zealand court has denied Brenton Tarrant's appeal request, who was convicted for killing 51 people in the 2019 mosque shootings.",
+        "de": "Ein neuseeländisches Gericht hat den Berufungsantrag von Brenton Tarrant abgelehnt, der wegen des Mordes an 51 Personen bei den Moscheeschießereien von 2019 verurteilt wurde."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-29",
-      "url": "https://www.aljazeera.com/news/2026/4/29/madagascar-detains-french-ex-serviceman-over-alleged-destabilisation-plot?traffic_source=rss"
+      "date": "2026-04-30",
+      "url": "https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "欧洲的利率会在本周上升吗？中央银行面临滞胀威胁：欧洲中央银行和英格兰银行预计本月将保持利率不变。",
+        "zh": "欧洲的利率会在本周上升吗？中央银行面临滞胀威胁：欧洲央行和英格兰银行预计本月将保持利率不变。",
         "en": "Will rates go higher in Europe this week? Central banks confront stagflation threat: The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month.",
-        "de": "Werden die Zinsen diese Woche in Europa steigen? Zentralbanken stehen vor der Bedrohung der Stagflation: Die Europäische Zentralbank und die Bank von England werden voraussichtlich ruhig bleiben und die Zinsen in diesem Monat unverändert lassen."
+        "de": "Werden die Zinsen in dieser Woche in Europa steigen? Zentralbanken stehen vor der Bedrohung durch Stagflation: Die Europäische Zentralbank und die Bank von England werden voraussichtlich in diesem Monat an ihren Zinssätzen festhalten."
       },
       "summary": {
-        "zh": "欧洲中央银行和英格兰银行预计将维持当前利率，以应对滞胀的威胁，市场对此保持关注。",
-        "en": "The European Central Bank and Bank of England are expected to maintain current interest rates in response to the threat of stagflation, with markets closely monitoring the situation.",
-        "de": "Die Europäische Zentralbank und die Bank von England werden voraussichtlich die aktuellen Zinssätze beibehalten, um der Bedrohung durch Stagflation zu begegnen, wobei die Märkte die Situation genau beobachten."
+        "zh": "欧洲央行和英格兰银行预计将维持当前利率，以应对滞胀的威胁，市场对此保持关注。",
+        "en": "The European Central Bank and Bank of England are expected to maintain current interest rates in response to stagflation threats, with the market closely monitoring the situation.",
+        "de": "Die Europäische Zentralbank und die Bank von England werden voraussichtlich die aktuellen Zinssätze beibehalten, um auf die Bedrohung durch Stagflation zu reagieren, wobei der Markt die Situation genau beobachtet."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-29",
@@ -120,13 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "在刑事调查结束后，鲍威尔面临重大决定：这一决定可能对政策制定产生重要影响。",
-        "en": "Wird er bleiben oder wird er gehen? Nach dem Ende der strafrechtlichen Ermittlungen steht Fed-Vorsitzender Powell vor einer großen Entscheidung: Diese Entscheidung könnte wichtige Auswirkungen auf die Politikgestaltung in einer besonders heiklen Zeit haben."
+        "zh": "随着刑事调查结束，美联储主席鲍威尔面临重大决定：这一决定可能对政策制定产生重要影响。",
+        "en": "Will he stay or will he go? With criminal probe over, Fed Chair Powell faces big decision: The decision could have important ramifications for policymaking at an especially delicate time.",
+        "de": "Wird er bleiben oder gehen? Nach Abschluss der strafrechtlichen Ermittlungen steht Fed-Vorsitzender Powell vor einer großen Entscheidung: Diese Entscheidung könnte wichtige Auswirkungen auf die Politikgestaltung zu einem besonders heiklen Zeitpunkt haben."
       },
       "summary": {
-        "zh": "美联储主席鲍威尔在刑事调查结束后面临是否继续任职的重大决定，这一决定可能影响未来的货币政策。",
-        "en": "Fed Chair Powell faces a significant decision regarding his future after the conclusion of a criminal investigation, which could impact future monetary policy.",
-        "de": "Fed-Vorsitzender Powell steht nach dem Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung über seine Zukunft, die die zukünftige Geldpolitik beeinflussen könnte."
+        "zh": "美联储主席鲍威尔在刑事调查结束后面临是否继续任职的重大决定，这可能会影响未来的货币政策。",
+        "en": "Fed Chair Powell faces a significant decision on whether to continue his role following the conclusion of a criminal investigation, which could impact future monetary policy.",
+        "de": "Fed-Vorsitzender Powell steht nach Abschluss einer strafrechtlichen Untersuchung vor einer wichtigen Entscheidung, ob er seine Rolle fortsetzen soll, was Auswirkungen auf die zukünftige Geldpolitik haben könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-24",
@@ -135,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗经济崩溃的图表：德黑兰的强硬言辞掩盖了该政权及其公民面临的残酷现实：其经济在战争前就已脆弱，现在更是岌岌可危。",
-        "en": "These charts show how Iran's economy is in freefall: Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatters.",
-        "de": "Diese Diagramme zeigen, wie die iranische Wirtschaft im freien Fall ist: Die harte Rhetorik Teherans verschleiert eine brutale Realität, mit der das Regime und die iranischen Bürger konfrontiert sind: Ihre Wirtschaft, die bereits vor dem Krieg anfällig war, ist jetzt in Trümmern."
+        "zh": "尽管面临经济放缓，福特的利润仍在增长：福特获得了可观的关税退款，并提高了年度展望。",
+        "en": "Ford’s profit jumps as carmaker powers through an EV slowdown: Ford gets hefty tariff refund and raises outlook for the year.",
+        "de": "Fords Gewinn springt, während der Automobilhersteller durch eine EV-Verlangsamung steuert: Ford erhält eine beträchtliche Zollrückerstattung und hebt die Prognose für das Jahr an."
       },
       "summary": {
-        "zh": "伊朗经济在战争期间遭受重创，数据显示其经济状况急剧恶化，给民众带来严峻挑战。",
-        "en": "Iran's economy has been severely impacted during the war, with data showing a dramatic deterioration in economic conditions, posing serious challenges for its citizens.",
-        "de": "Die iranische Wirtschaft wurde während des Krieges stark getroffen, wobei Daten eine dramatische Verschlechterung der wirtschaftlichen Bedingungen zeigen, die die Bürger vor ernsthafte Herausforderungen stellen."
+        "zh": "福特汽车公司在电动车放缓的情况下，凭借可观的关税退款和乐观的年度展望，利润实现了显著增长。",
+        "en": "Ford has seen a significant profit increase despite an EV slowdown, driven by a hefty tariff refund and an optimistic outlook for the year.",
+        "de": "Ford hat trotz einer Verlangsamung bei Elektrofahrzeugen einen signifikanten Gewinnanstieg verzeichnet, der durch eine beträchtliche Zollrückerstattung und eine optimistische Prognose für das Jahr angetrieben wird."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-23",
-      "url": "https://www.cnbc.com/2026/04/23/iran-economy-war-charts-rial-oil-strait-hormuz-blockade.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-30",
+      "url": "https://www.marketwatch.com/story/fords-profit-jumps-as-automaker-powers-through-an-ev-slowdown-9f799848?mod=mw_rss_topstories"
     }
   ]
 }
