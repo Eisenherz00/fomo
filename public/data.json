@@ -1,116 +1,132 @@
 {
-  "generatedAt": "2026-04-30T17:49:17.484983+00:00",
+  "generatedAt": "2026-05-01T07:14:32.971173+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "这家初创公司的新机制可解释性工具让你调试LLM",
-        "en": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-        "de": "Dieses neue mechanistische Interpretationswerkzeug eines Startups ermöglicht es Ihnen, LLMs zu debuggen"
+        "zh": "独家电子书：深入探讨提出无脑人类克隆的隐秘初创公司",
+        "en": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+        "de": "Exklusives eBook: Inside das geheime Startup, das hirnlose menschliche Klone vorgeschlagen hat"
       },
       "summary": {
-        "zh": "位于旧金山的初创公司Goodfire推出了一种名为Silico的新工具，使研究人员和工程师能够深入了解AI模型并进行调试。",
-        "en": "San Francisco-based startup Goodfire has released a new tool called Silico that allows researchers and engineers to peer inside an AI model and debug it.",
-        "de": "Das in San Francisco ansässige Startup Goodfire hat ein neues Tool namens Silico veröffentlicht, mit dem Forscher und Ingenieure in ein KI-Modell blicken und es debuggen können."
+        "zh": "这本仅限订阅者的电子书探讨了R3 Bio，一家提出惊人计划的小型初创公司，旨在实现永生。",
+        "en": "This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling plan to achieve immortality.",
+        "de": "Dieses exklusive eBook für Abonnenten untersucht R3 Bio, ein kleines Startup, das einen erstaunlichen Plan zur Erreichung der Unsterblichkeit vorgeschlagen hat."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-04-30",
+      "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "这家初创公司的新机制可解释工具让你调试LLM",
+        "en": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+        "de": "Das neue mechanistische Interpretationswerkzeug dieses Startups ermöglicht es Ihnen, LLMs zu debuggen"
+      },
+      "summary": {
+        "zh": "位于旧金山的初创公司Goodfire刚刚发布了一种名为Silico的新工具，允许研究人员和工程师深入了解AI模型并进行调整。",
+        "en": "The San Francisco-based startup Goodfire just released a new tool, called Silico, that allows researchers and engineers to peer inside an AI model and make adjustments.",
+        "de": "Das in San Francisco ansässige Startup Goodfire hat gerade ein neues Tool namens Silico veröffentlicht, mit dem Forscher und Ingenieure in ein KI-Modell schauen und Anpassungen vornehmen können."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-30",
       "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "马斯克和阿尔特曼的法律对决，以及人工智能的盈利问题",
-        "en": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
-        "de": "Der Download: Musks und Altmans rechtlicher Showdown und das Gewinnproblem der KI"
-      },
-      "summary": {
-        "zh": "在这期《下载》中，讨论了马斯克与阿尔特曼之间的法律纠纷以及人工智能领域面临的盈利挑战。",
-        "en": "This edition of The Download discusses the legal feud between Musk and Altman, as well as the profit challenges faced in the AI sector.",
-        "de": "In dieser Ausgabe des Downloads wird der rechtliche Streit zwischen Musk und Altman sowie die Gewinnherausforderungen im KI-Sektor erörtert."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-04-28",
-      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "重建人工智能的数据架构",
-        "en": "Rebuilding the data stack for AI",
-        "de": "Den Datenstapel für KI neu aufbauen"
+        "zh": "下载：北极的未来和类人数据",
+        "en": "The Download: the North Pole’s future and humanoid data",
+        "de": "Der Download: Die Zukunft des Nordpols und humanoide Daten"
       },
       "summary": {
-        "zh": "尽管人工智能在企业董事会的议程中占据主导地位，但许多企业发现，实现有意义的采用的最大障碍是数据架构的重建。",
-        "en": "While artificial intelligence dominates corporate boardroom agendas, many enterprises find that the biggest obstacle to meaningful adoption is the rebuilding of the data stack.",
-        "de": "Obwohl künstliche Intelligenz die Tagesordnung in den Vorstandsetagen dominiert, stellen viele Unternehmen fest, dass der größte Hindernis für eine sinnvolle Einführung der Wiederaufbau des Datenstapels ist."
+        "zh": "这是今天的《下载》版，我们的工作日通讯，提供有关技术世界的每日动态。",
+        "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+        "de": "Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich über das Geschehen in der Technikwelt informiert."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-27",
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/"
+      "date": "2026-04-30",
+      "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列人权组织向最高法院申请释放14名加沙医生",
-        "en": "Israel rights group petitions top court to order release of 14 Gaza doctors",
-        "de": "Israelische Menschenrechtsgruppe petitioniert beim Obersten Gerichtshof zur Anordnung der Freilassung von 14 Gaza-Ärzten"
+        "zh": "俄罗斯在乌克兰各地猛烈轰炸目标",
+        "en": "Russia hammers targets across Ukraine overnight",
+        "de": "Russland bombardiert über Nacht Ziele in der Ukraine"
       },
       "summary": {
-        "zh": "以色列人权组织“以色列人权医生”指控当局妨碍加沙医疗系统的恢复，并向最高法院申请释放被拘留的14名医生。",
-        "en": "The Physicians for Human Rights-Israel accuses authorities of hindering the rehabilitation of Gaza's healthcare system and petitions the top court for the release of 14 detained doctors.",
-        "de": "Die Ärzte für Menschenrechte-Israel beschuldigen die Behörden, die Rehabilitation des Gesundheitswesens in Gaza zu behindern, und bitten das Oberste Gericht um die Freilassung von 14 festgenommenen Ärzten."
+        "zh": "俄罗斯对黑海沿岸和乌克兰中部的城镇发动攻击，造成一人死亡，数人受伤。",
+        "en": "Russia launched attacks on towns along the Black Sea and in central Ukraine, killing one and injuring several.",
+        "de": "Russland hat Angriffe auf Städte an der Schwarzmeerküste und in der zentralen Ukraine gestartet, wobei ein Mensch getötet und mehrere verletzt wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-30",
-      "url": "https://www.aljazeera.com/news/2026/4/30/israel-rights-group-petitions-top-court-to-order-release-of-14-gaza-doctors?traffic_source=rss"
+      "date": "2026-05-01",
+      "url": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普再次抨击德国的梅尔茨，伊朗战争的裂痕加深",
-        "en": "Trump slams Germany’s Merz again as rift over Iran war widens",
-        "de": "Trump kritisiert erneut Deutschlands Merz, während sich die Kluft über den Iran-Krieg vertieft"
+        "zh": "乌克兰的机器人士兵对未来战争意味着什么？",
+        "en": "What do Ukraine’s robot soldiers mean for the future of warfare?",
+        "de": "Was bedeuten die Robotersoldaten der Ukraine für die Zukunft der Kriegsführung?"
       },
       "summary": {
-        "zh": "特朗普表示，德国总理应专注于欧洲事务，而不是伊朗问题，德国则表示准备减少驻德美军。",
-        "en": "Trump states that the German chancellor should focus on European affairs rather than Iran, while Berlin says it is 'prepared' for fewer US troops.",
-        "de": "Trump erklärt, dass der deutsche Kanzler sich auf europäische Angelegenheiten und nicht auf den Iran konzentrieren sollte, während Berlin sagt, es sei 'bereit' für weniger US-Truppen."
+        "zh": "遥控武器已经使用了一段时间，但人工智能现在正处于做出战场决策的边缘。",
+        "en": "Remote-controlled weapons have been used for some time, but AI is now on the cusp of making battlefield decisions.",
+        "de": "Fernsteuerbare Waffen werden schon seit einiger Zeit eingesetzt, aber KI steht nun kurz davor, Entscheidungen auf dem Schlachtfeld zu treffen."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-30",
-      "url": "https://www.aljazeera.com/news/2026/4/30/trump-slams-germanys-merz-again-as-rift-over-iran-war-widens?traffic_source=rss"
+      "date": "2026-05-01",
+      "url": "https://www.aljazeera.com/news/2026/5/1/what-do-ukraines-robot-soldiers-mean-for-the-future-of-warfare?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "叛军如何联手动摇马里和克里姆林宫的控制",
-        "en": "How rebels teamed up to shake Mali and the Kremlin’s grip",
-        "de": "Wie Rebellen sich zusammenschlossen, um Mali und den Griff des Kremls zu erschüttern"
+        "zh": "伊朗战争：特朗普暗示可能的攻击的第63天发生了什么",
+        "en": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
+        "de": "Iran-Krieg: Was am Tag 63 passiert, während Trump mögliche Angriffe signalisiert"
       },
       "summary": {
-        "zh": "马里发生爆炸事件，JNIM和图阿雷格叛军发起全国性攻击，导致马里国防部长遇害，分析人士探讨为何此时发生此事件。",
-        "en": "Explosions rocked Mali as JNIM and Tuareg rebels launched nationwide attacks, killing Mali’s defense minister. Analysts explore why this is happening now.",
-        "de": "Explosionen erschütterten Mali, als JNIM und Tuareg-Rebellen landesweite Angriffe starteten, bei denen der Verteidigungsminister Malis getötet wurde. Analysten untersuchen, warum dies jetzt geschieht."
+        "zh": "伊朗总统称美国的封锁是“不可容忍的”，特朗普表示战争可能会恢复。",
+        "en": "Iran’s president calls the US siege 'intolerable' as Donald Trump says war may resume.",
+        "de": "Der Präsident Irans bezeichnet die US-Blockade als 'unerträglich', während Donald Trump sagt, der Krieg könnte wieder aufgenommen werden."
       },
       "source": "Al Jazeera",
-      "date": "2026-04-30",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/30/how-rebels-teamed-up-to-shake-mali-and-the-kremlins-grip?traffic_source=rss"
+      "date": "2026-05-01",
+      "url": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "核心通胀率在3月份达到3.2%，第一季度增长令人失望",
+        "zh": "美联储内部：鲍威尔发誓他不会成为“影子主席”，但与沃什的冲突难以避免",
+        "en": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+        "de": "Inside the Fed: Powell verspricht, er werde kein 'Schattenvorsitzender' sein, aber ein Konflikt mit Warsh wird schwer zu vermeiden sein"
+      },
+      "summary": {
+        "zh": "当美联储再次召开会议时，这将是近80年来首次现任和前任主席共同进行业务。",
+        "en": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
+        "de": "Wenn die Fed sich wieder versammelt, wird es das erste Mal seit fast 80 Jahren sein, dass ein amtierender und ein ehemaliger Vorsitzender gemeinsam Geschäfte führen."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-04-30",
+      "url": "https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "核心通胀率在3月达到3.2%，第一季度增长令人失望为2%",
         "en": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
         "de": "Die Kerninflationsrate erreichte im März 3,2%, während das Wachstum im ersten Quartal mit 2% enttäuschte"
       },
       "summary": {
-        "zh": "由于伊朗战争导致油价飙升，消费者在3月份面临不断上涨的价格，给美联储带来了新的挑战。",
-        "en": "Consumers faced escalating prices in March as the Iran war sent oil soaring, creating new challenges for the Fed.",
+        "zh": "消费者在3月面临不断上升的价格，因为伊朗战争导致油价飙升，并给美联储带来了新的挑战。",
+        "en": "Consumers faced escalating prices in March as the Iran war sent oil soaring and created a new level of challenges for the Fed.",
         "de": "Die Verbraucher sahen sich im März steigenden Preisen gegenüber, da der Iran-Krieg die Ölpreise in die Höhe trieb und neue Herausforderungen für die Fed schuf."
       },
       "source": "CNBC – Markets",
@@ -118,36 +134,20 @@
       "url": "https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "欧洲本周利率会提高吗？中央银行面临滞胀威胁",
-        "en": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
-        "de": "Werden die Zinsen diese Woche in Europa steigen? Zentralbanken stehen vor der Bedrohung der Stagflation"
-      },
-      "summary": {
-        "zh": "欧洲中央银行和英格兰银行预计本月将保持利率不变，以应对滞胀威胁。",
-        "en": "The European Central Bank and Bank of England are expected to hold their nerve and stand pat on rates this month amid stagflation threats.",
-        "de": "Die Europäische Zentralbank und die Bank von England werden voraussichtlich in diesem Monat an ihren Zinssätzen festhalten, um der Bedrohung durch Stagflation zu begegnen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-30",
-      "url": "https://www.cnbc.com/2026/04/29/europes-central-banks-in-wait-and-see-mode-on-interest-rates.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普延长伊朗停火——但市场焦点已转移",
-        "en": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
-        "de": "Trump verlängert den Iran-Waffenstillstand – aber der Markt hat sich bereits woanders hinbewegt"
+        "zh": "Alphabet在市值上达到里程碑，接近英伟达",
+        "en": "Alphabet hits a milestone as it closes in on Nvidia",
+        "de": "Alphabet erreicht einen Meilenstein, während es Nvidia näher kommt"
       },
       "summary": {
-        "zh": "尽管特朗普延长了与伊朗的停火协议，但市场的关注点已经转移，前景仍然不确定。",
-        "en": "Despite Trump's extension of the ceasefire with Iran, market focus has already shifted elsewhere, with uncertain prospects ahead.",
-        "de": "Trotz Trumps Verlängerung des Waffenstillstands mit dem Iran hat sich der Markt bereits woanders hinbewegt, während die Aussichten ungewiss bleiben."
+        "zh": "Alphabet在云计算和人工智能的推动下，市值增加了创纪录的4210亿美元，推动股价飙升。",
+        "en": "Alphabet added a record $421 billion to its market cap as massive cloud growth and AI momentum sent shares soaring.",
+        "de": "Alphabet hat seiner Marktkapitalisierung einen Rekord von 421 Milliarden US-Dollar hinzugefügt, da das massive Wachstum im Cloud-Bereich und der Schwung der KI die Aktien in die Höhe trieben."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-04-22",
-      "url": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-04-30",
+      "url": "https://www.marketwatch.com/story/alphabet-hits-a-milestone-as-it-closes-in-on-nvidia-00622b31?mod=mw_rss_topstories"
     }
   ]
 }
