@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-01T07:14:32.971173+00:00",
+  "generatedAt": "2026-05-01T17:31:37.399880+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "独家电子书：深入探讨提出无脑人类克隆的隐秘初创公司",
-        "en": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-        "de": "Exklusives eBook: Inside das geheime Startup, das hirnlose menschliche Klone vorgeschlagen hat"
+        "zh": "AI时代的网络安全危机：网络安全在AI进入之前就已承受压力。",
+        "en": "Cyber-Insecurity in the AI Era: Cybersecurity was already under strain before AI entered the stack.",
+        "de": "Cyber-Insecurity in der KI-Ära: Die Cybersicherheit war bereits unter Druck, bevor KI in das System eintrat."
       },
       "summary": {
-        "zh": "这本仅限订阅者的电子书探讨了R3 Bio，一家提出惊人计划的小型初创公司，旨在实现永生。",
-        "en": "This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling plan to achieve immortality.",
-        "de": "Dieses exklusive eBook für Abonnenten untersucht R3 Bio, ein kleines Startup, das einen erstaunlichen Plan zur Erreichung der Unsterblichkeit vorgeschlagen hat."
+        "zh": "AI的引入使网络安全面临更大的挑战，攻击面扩大并增加了复杂性，暴露了传统安全措施的局限性。",
+        "en": "The introduction of AI has posed greater challenges to cybersecurity, expanding the attack surface and increasing complexity, exposing the limitations of traditional security measures.",
+        "de": "Die Einführung von KI hat größere Herausforderungen für die Cybersicherheit mit sich gebracht, indem sie die Angriffsfläche vergrößert und die Komplexität erhöht hat, was die Grenzen traditioneller Sicherheitsmaßnahmen offenbart."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-30",
-      "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/"
+      "date": "2026-05-01",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "这家初创公司的新机制可解释工具让你调试LLM",
-        "en": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-        "de": "Das neue mechanistische Interpretationswerkzeug dieses Startups ermöglicht es Ihnen, LLMs zu debuggen"
+        "zh": "将AI实施规模化与主权化：公司正在控制自己的数据以定制AI以满足其需求。",
+        "en": "Operationalizing AI for Scale and Sovereignty: Companies are taking control of their own data to tailor AI for their needs.",
+        "de": "Operationalisierung von KI für Skalierung und Souveränität: Unternehmen übernehmen die Kontrolle über ihre eigenen Daten, um KI auf ihre Bedürfnisse zuzuschneiden."
       },
       "summary": {
-        "zh": "位于旧金山的初创公司Goodfire刚刚发布了一种名为Silico的新工具，允许研究人员和工程师深入了解AI模型并进行调整。",
-        "en": "The San Francisco-based startup Goodfire just released a new tool, called Silico, that allows researchers and engineers to peer inside an AI model and make adjustments.",
-        "de": "Das in San Francisco ansässige Startup Goodfire hat gerade ein neues Tool namens Silico veröffentlicht, mit dem Forscher und Ingenieure in ein KI-Modell schauen und Anpassungen vornehmen können."
+        "zh": "公司正在努力平衡数据所有权与安全、可信的数据流，以实现AI的规模化和主权化。",
+        "en": "Companies are striving to balance data ownership with the safe, trusted flow of information to achieve scale and sovereignty in AI.",
+        "de": "Unternehmen bemühen sich, das Eigentum an Daten mit dem sicheren, vertrauenswürdigen Fluss von Informationen in Einklang zu bringen, um Skalierung und Souveränität in der KI zu erreichen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-04-30",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/"
+      "date": "2026-05-01",
+      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：北极的未来和类人数据",
-        "en": "The Download: the North Pole’s future and humanoid data",
-        "de": "Der Download: Die Zukunft des Nordpols und humanoide Daten"
+        "zh": "这家初创公司的新机制可解释性工具让你调试LLM：Goodfire发布了一种新工具，允许研究人员和工程师深入了解AI模型。",
+        "en": "This startup’s new mechanistic interpretability tool lets you debug LLMs: Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust it.",
+        "de": "Das neue mechanistische Interpretierbarkeitstool dieses Startups ermöglicht es Ihnen, LLMs zu debuggen: Goodfire hat gerade ein neues Tool namens Silico veröffentlicht, mit dem Forscher und Ingenieure in ein KI-Modell blicken und es anpassen können."
       },
       "summary": {
-        "zh": "这是今天的《下载》版，我们的工作日通讯，提供有关技术世界的每日动态。",
-        "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich über das Geschehen in der Technikwelt informiert."
+        "zh": "Goodfire的新工具Silico为研究人员和工程师提供了调试大型语言模型的能力，增强了对AI模型内部机制的理解。",
+        "en": "Goodfire's new tool Silico provides researchers and engineers with the ability to debug large language models, enhancing understanding of the internal mechanisms of AI models.",
+        "de": "Das neue Tool Silico von Goodfire bietet Forschern und Ingenieuren die Möglichkeit, große Sprachmodelle zu debuggen und das Verständnis der internen Mechanismen von KI-Modellen zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-04-30",
-      "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/"
+      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯在乌克兰各地猛烈轰炸目标",
-        "en": "Russia hammers targets across Ukraine overnight",
-        "de": "Russland bombardiert über Nacht Ziele in der Ukraine"
+        "zh": "美国警告船运公司不要支付霍尔木兹海峡的通行费和“捐款”。",
+        "en": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’.",
+        "de": "Die USA warnen Reeder davor, Gebühren und 'Spenden' für die Straße von Hormuz zu zahlen."
       },
       "summary": {
-        "zh": "俄罗斯对黑海沿岸和乌克兰中部的城镇发动攻击，造成一人死亡，数人受伤。",
-        "en": "Russia launched attacks on towns along the Black Sea and in central Ukraine, killing one and injuring several.",
-        "de": "Russland hat Angriffe auf Städte an der Schwarzmeerküste und in der zentralen Ukraine gestartet, wobei ein Mensch getötet und mehrere verletzt wurden."
+        "zh": "美国对船运公司发出新警告，称支付霍尔木兹海峡的通行费可能会引发不必要的风险，正值伊朗媒体报道德黑兰向美国提出新的和平提议之际。",
+        "en": "The US has issued a new warning to shippers, stating that paying tolls for the Strait of Hormuz could pose unnecessary risks, coinciding with Iranian media reports of Tehran presenting a new peace proposal to the US.",
+        "de": "Die USA haben den Reedereien eine neue Warnung ausgesprochen, dass die Zahlung von Gebühren für die Straße von Hormuz unnötige Risiken darstellen könnte, zeitgleich mit Berichten iranischer Medien über einen neuen Friedensvorschlag Teherans an die USA."
       },
       "source": "Al Jazeera",
       "date": "2026-05-01",
-      "url": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乌克兰的机器人士兵对未来战争意味着什么？",
-        "en": "What do Ukraine’s robot soldiers mean for the future of warfare?",
-        "de": "Was bedeuten die Robotersoldaten der Ukraine für die Zukunft der Kriegsführung?"
+        "zh": "五角大楼宣布与七家AI公司达成机密系统协议。",
+        "en": "Pentagon announces deal with seven AI companies for classified systems.",
+        "de": "Das Pentagon gibt eine Vereinbarung mit sieben KI-Unternehmen für geheime Systeme bekannt."
       },
       "summary": {
-        "zh": "遥控武器已经使用了一段时间，但人工智能现在正处于做出战场决策的边缘。",
-        "en": "Remote-controlled weapons have been used for some time, but AI is now on the cusp of making battlefield decisions.",
-        "de": "Fernsteuerbare Waffen werden schon seit einiger Zeit eingesetzt, aber KI steht nun kurz davor, Entscheidungen auf dem Schlachtfeld zu treffen."
+        "zh": "五角大楼与七家人工智能公司达成协议，旨在将AI技术整合到机密系统中，此举引发了对其在伊朗战争中的使用的担忧。",
+        "en": "The Pentagon has reached an agreement with seven AI companies to integrate AI technology into classified systems, raising concerns about its use in the Iran war.",
+        "de": "Das Pentagon hat eine Vereinbarung mit sieben KI-Unternehmen getroffen, um KI-Technologie in geheime Systeme zu integrieren, was Bedenken hinsichtlich ihrer Verwendung im Iran-Krieg aufwirft."
       },
       "source": "Al Jazeera",
       "date": "2026-05-01",
-      "url": "https://www.aljazeera.com/news/2026/5/1/what-do-ukraines-robot-soldiers-mean-for-the-future-of-warfare?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗战争：特朗普暗示可能的攻击的第63天发生了什么",
-        "en": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
-        "de": "Iran-Krieg: Was am Tag 63 passiert, während Trump mögliche Angriffe signalisiert"
+        "zh": "土耳其警方在五一游行中发射催泪弹，逮捕数百人。",
+        "en": "Turkish police fire tear gas, arrest hundreds at May Day rally.",
+        "de": "Die türkische Polizei setzt Tränengas ein und nimmt Hunderte bei der Maifeier fest."
       },
       "summary": {
-        "zh": "伊朗总统称美国的封锁是“不可容忍的”，特朗普表示战争可能会恢复。",
-        "en": "Iran’s president calls the US siege 'intolerable' as Donald Trump says war may resume.",
-        "de": "Der Präsident Irans bezeichnet die US-Blockade als 'unerträglich', während Donald Trump sagt, der Krieg könnte wieder aufgenommen werden."
+        "zh": "在伊斯坦布尔的五一游行中，土耳其当局对示威者进行了暴力镇压，使用催泪弹并逮捕了数百人。",
+        "en": "Turkish authorities violently cracked down on demonstrators during the May Day rally in Istanbul, using tear gas and arresting hundreds.",
+        "de": "Die türkischen Behörden gingen während der Maifeier in Istanbul gewaltsam gegen Demonstranten vor, setzten Tränengas ein und nahmen Hunderte fest."
       },
       "source": "Al Jazeera",
       "date": "2026-05-01",
-      "url": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储内部：鲍威尔发誓他不会成为“影子主席”，但与沃什的冲突难以避免",
-        "en": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
-        "de": "Inside the Fed: Powell verspricht, er werde kein 'Schattenvorsitzender' sein, aber ein Konflikt mit Warsh wird schwer zu vermeiden sein"
+        "zh": "特朗普的“解放日”关税冲击后，英国对美国的出口骤降25%。",
+        "en": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz.",
+        "de": "Die britischen Exporte in die USA stürzen nach Trumps 'Befreiungstag'-Zolloffensive um 25 % ab."
       },
       "summary": {
-        "zh": "当美联储再次召开会议时，这将是近80年来首次现任和前任主席共同进行业务。",
-        "en": "When the Fed gathers again, it will mark the first time a sitting and former chair conduct business together in nearly 80 years.",
-        "de": "Wenn die Fed sich wieder versammelt, wird es das erste Mal seit fast 80 Jahren sein, dass ein amtierender und ein ehemaliger Vorsitzender gemeinsam Geschäfte führen."
+        "zh": "英国与美国的贸易逆差加剧，因特朗普实施的关税政策导致出口大幅下降。",
+        "en": "The UK is experiencing a growing trade deficit with the US as Trump's tariff policies have led to a significant drop in exports.",
+        "de": "Das Vereinigte Königreich verzeichnet ein wachsendes Handelsdefizit mit den USA, da Trumps Zollpolitik zu einem erheblichen Rückgang der Exporte geführt hat."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-30",
-      "url": "https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html"
+      "date": "2026-05-01",
+      "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "核心通胀率在3月达到3.2%，第一季度增长令人失望为2%",
-        "en": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
-        "de": "Die Kerninflationsrate erreichte im März 3,2%, während das Wachstum im ersten Quartal mit 2% enttäuschte"
+        "zh": "美联储持不同意见者解释“否”投票，称他们不同意暗示下一步将降息。",
+        "en": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut.",
+        "de": "Fed-Dissidenten erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis auf eine mögliche Zinssenkung nicht einverstanden."
       },
       "summary": {
-        "zh": "消费者在3月面临不断上升的价格，因为伊朗战争导致油价飙升，并给美联储带来了新的挑战。",
-        "en": "Consumers faced escalating prices in March as the Iran war sent oil soaring and created a new level of challenges for the Fed.",
-        "de": "Die Verbraucher sahen sich im März steigenden Preisen gegenüber, da der Iran-Krieg die Ölpreise in die Höhe trieb und neue Herausforderungen für die Fed schuf."
+        "zh": "美联储的持不同意见者解释了他们的投票，表示不赞同暗示未来的利率调整将是降息。",
+        "en": "Dissenters within the Federal Reserve explained their votes, stating they disagreed with the suggestion that the next interest rate move would be a cut.",
+        "de": "Dissidenten innerhalb der Federal Reserve erklärten ihre Stimmen und sagten, sie seien mit dem Hinweis, dass die nächste Zinssatzänderung eine Senkung sein würde, nicht einverstanden."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-30",
-      "url": "https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html"
+      "date": "2026-05-01",
+      "url": "https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "Alphabet在市值上达到里程碑，接近英伟达",
-        "en": "Alphabet hits a milestone as it closes in on Nvidia",
-        "de": "Alphabet erreicht einen Meilenstein, während es Nvidia näher kommt"
+        "zh": "核心通胀率在三月份达到3.2%，第一季度增长令人失望。",
+        "en": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%.",
+        "de": "Die Kerninflationsrate erreichte im März 3,2 %, während das Wachstum im ersten Quartal enttäuschte und bei 2 % lag."
       },
       "summary": {
-        "zh": "Alphabet在云计算和人工智能的推动下，市值增加了创纪录的4210亿美元，推动股价飙升。",
-        "en": "Alphabet added a record $421 billion to its market cap as massive cloud growth and AI momentum sent shares soaring.",
-        "de": "Alphabet hat seiner Marktkapitalisierung einen Rekord von 421 Milliarden US-Dollar hinzugefügt, da das massive Wachstum im Cloud-Bereich und der Schwung der KI die Aktien in die Höhe trieben."
+        "zh": "由于伊朗战争导致油价飙升，消费者在三月份面临不断上升的价格，第一季度的经济增长也未能达到预期。",
+        "en": "Consumers faced rising prices in March due to soaring oil prices from the Iran war, and first-quarter economic growth also fell short of expectations.",
+        "de": "Die Verbraucher sahen sich im März aufgrund der steigenden Ölpreise durch den Iran-Krieg mit steigenden Preisen konfrontiert, und das Wirtschaftswachstum im ersten Quartal blieb ebenfalls hinter den Erwartungen zurück."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC – Markets",
       "date": "2026-04-30",
-      "url": "https://www.marketwatch.com/story/alphabet-hits-a-milestone-as-it-closes-in-on-nvidia-00622b31?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html"
     }
   ]
 }
