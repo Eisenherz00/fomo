@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-02T06:26:10.056935+00:00",
+  "generatedAt": "2026-05-02T17:10:35.571571+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "马斯克与阿尔特曼的第一周：埃隆·马斯克称自己被欺骗，警告人工智能可能会杀死我们，并承认xAI提炼了OpenAI的模型",
+        "zh": "马斯克与奥特曼的第一周：埃隆·马斯克表示自己被欺骗，警告人工智能可能会杀死我们，并承认xAI提炼了OpenAI的模型",
         "en": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-        "de": "Musk gegen Altman Woche 1: Elon Musk sagt, er sei hereingelegt worden, warnt, dass KI uns alle töten könnte, und gibt zu, dass xAI die Modelle von OpenAI destilliert"
+        "de": "Musk gegen Altman Woche 1: Elon Musk sagt, er sei betrogen worden, warnt, dass KI uns alle töten könnte, und gibt zu, dass xAI die Modelle von OpenAI destilliert"
       },
       "summary": {
-        "zh": "在与OpenAI的标志性审判的第一周，埃隆·马斯克在法庭上表示他被欺骗，并警告人工智能可能带来的致命风险。他还承认，xAI提炼了OpenAI的模型。",
-        "en": "In the first week of the landmark trial against OpenAI, Elon Musk testified that he was duped and warned of the potential lethal risks posed by AI. He also admitted that xAI distills OpenAI's models.",
-        "de": "In der ersten Woche des wegweisenden Prozesses gegen OpenAI sagte Elon Musk aus, dass er hereingelegt worden sei, und warnte vor den potenziell tödlichen Risiken, die von KI ausgehen. Er gab auch zu, dass xAI die Modelle von OpenAI destilliert."
+        "zh": "在马斯克与OpenAI的标志性审判的第一周，马斯克在法庭上表示自己被欺骗，并警告人工智能可能带来的致命风险。他还承认，xAI提炼了OpenAI的模型。",
+        "en": "In the first week of the landmark trial between Musk and OpenAI, Musk testified that he was duped and warned of the potential deadly risks posed by AI. He also admitted that xAI distills OpenAI's models.",
+        "de": "In der ersten Woche des wegweisenden Prozesses zwischen Musk und OpenAI sagte Musk aus, dass er betrogen worden sei, und warnte vor den potenziellen tödlichen Risiken, die von KI ausgehen. Er gab auch zu, dass xAI die Modelle von OpenAI destilliert."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-01",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "人工智能时代的网络安全隐患：网络安全在人工智能进入之前已经面临压力",
+        "zh": "人工智能时代的网络安全危机：网络安全在人工智能进入之前已经面临压力",
         "en": "Cyber-Insecurity in the AI Era: Cybersecurity was already under strain before AI entered the stack.",
-        "de": "Cyber-Insecurity in der KI-Ära: Die Cybersicherheit war bereits unter Druck, bevor KI in das System eintrat."
+        "de": "Cyber-Insecurity im KI-Zeitalter: Die Cybersicherheit war bereits unter Druck, bevor KI in den Stack eintrat."
       },
       "summary": {
-        "zh": "随着人工智能的普及，网络安全面临着更大的挑战。新的复杂性和攻击面扩展使得传统安全措施的局限性愈加明显。",
-        "en": "As AI becomes more prevalent, cybersecurity faces greater challenges. The new complexities and expanded attack surfaces highlight the limitations of traditional security measures.",
-        "de": "Mit der zunehmenden Verbreitung von KI sieht sich die Cybersicherheit größeren Herausforderungen gegenüber. Die neuen Komplexitäten und erweiterten Angriffsflächen verdeutlichen die Grenzen traditioneller Sicherheitsmaßnahmen."
+        "zh": "随着人工智能的普及，网络安全面临新的挑战。AI的引入扩大了攻击面，增加了复杂性，暴露了传统安全措施的局限性。",
+        "en": "As AI becomes more prevalent, cybersecurity faces new challenges. The introduction of AI expands the attack surface and adds complexity, exposing the limitations of traditional security measures.",
+        "de": "Mit der zunehmenden Verbreitung von KI steht die Cybersicherheit vor neuen Herausforderungen. Die Einführung von KI erweitert die Angriffsfläche und erhöht die Komplexität, wodurch die Grenzen traditioneller Sicherheitsmaßnahmen offengelegt werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-01",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "为规模和主权操作人工智能：公司正在控制自己的数据以定制人工智能",
+        "zh": "为规模和主权将人工智能转化为实际应用：公司正在控制自己的数据以定制人工智能",
         "en": "Operationalizing AI for Scale and Sovereignty: Companies are taking control of their own data to tailor AI for their needs.",
-        "de": "Operationalisierung von KI für Skalierung und Souveränität: Unternehmen übernehmen die Kontrolle über ihre eigenen Daten, um KI auf ihre Bedürfnisse zuzuschneiden."
+        "de": "Operationalisierung von KI für Skalierung und Souveränität: Unternehmen übernehmen die Kontrolle über ihre eigenen Daten, um KI an ihre Bedürfnisse anzupassen."
       },
       "summary": {
-        "zh": "公司正在努力掌控自己的数据，以便根据自身需求定制人工智能。然而，如何在拥有数据的同时确保安全和信任流动是一个挑战。",
-        "en": "Companies are striving to take control of their data to customize AI according to their needs. However, balancing ownership with the safe and trusted flow of data poses a challenge.",
-        "de": "Unternehmen bemühen sich, die Kontrolle über ihre Daten zu übernehmen, um KI nach ihren Bedürfnissen anzupassen. Das Gleichgewicht zwischen Eigentum und dem sicheren, vertrauenswürdigen Fluss von Daten stellt jedoch eine Herausforderung dar."
+        "zh": "公司正在努力控制自己的数据，以便根据自身需求定制人工智能。然而，如何在拥有数据与确保安全、可信的流动之间取得平衡仍然是一个挑战。",
+        "en": "Companies are striving to control their own data to tailor AI to their needs. However, balancing data ownership with the safe and trusted flow of information remains a challenge.",
+        "de": "Unternehmen bemühen sich, die Kontrolle über ihre eigenen Daten zu übernehmen, um KI an ihre Bedürfnisse anzupassen. Die Balance zwischen Datenbesitz und dem sicheren, vertrauenswürdigen Fluss von Informationen bleibt jedoch eine Herausforderung."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-01",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国驻英国大使馆警告公民，威胁等级提高至“严重”",
-        "en": "US embassy warns citizens in UK as threat level raised to ‘severe’",
-        "de": "US-Botschaft warnt Bürger im Vereinigten Königreich, da die Bedrohungsstufe auf 'ernst' erhöht wurde"
+        "zh": "墨西哥锡那罗亚州州长因美国毒品贩运指控辞职",
+        "en": "Mexico’s Sinaloa state governor resigns amid US drug trafficking charges",
+        "de": "Mexikos Gouverneur des Bundesstaates Sinaloa tritt wegen US-Drogenhandelsvorwürfen zurück"
       },
       "summary": {
-        "zh": "美国驻英国大使馆已向公民发出警告，建议避免学校、教堂和旅游景点，并改变旅行路线，因为威胁等级已提高至“严重”。",
-        "en": "The US embassy in the UK has issued a warning to citizens, advising them to avoid schools, churches, and tourist locations, and to vary their travel routes as the threat level has been raised to 'severe'.",
-        "de": "Die US-Botschaft im Vereinigten Königreich hat eine Warnung an die Bürger herausgegeben und geraten, Schulen, Kirchen und Touristenorte zu meiden und ihre Reiserouten zu variieren, da die Bedrohungsstufe auf 'ernst' erhöht wurde."
+        "zh": "锡那罗亚州州长鲁本·罗查·莫亚因美国毒品贩运指控辞职，他再次否认了保护贩毒集团的指控，表示将暂时休假以为自己辩护。",
+        "en": "Sinaloa state governor Ruben Rocha Moya has resigned amid US drug trafficking charges, denying allegations that he shielded cartels and stating he is taking a 'temporary leave' to defend himself.",
+        "de": "Der Gouverneur des Bundesstaates Sinaloa, Ruben Rocha Moya, ist wegen US-Drogenhandelsvorwürfen zurückgetreten, bestreitet die Vorwürfe, dass er Kartelle geschützt habe, und erklärt, dass er eine 'vorübergehende Auszeit' nimmt, um sich zu verteidigen."
       },
       "source": "Al Jazeera",
       "date": "2026-05-02",
-      "url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/2/mexicos-sinaloa-state-governor-resigns-amid-us-drug-trafficking-charges?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普称美国军队“像海盗”一样夺取伊朗石油",
-        "en": "Trump says US forces are ‘like pirates’ taking Iranian oil",
-        "de": "Trump sagt, US-Truppen seien 'wie Piraten', die iranisches Öl rauben"
+        "zh": "以色列的“两级”警务与巴勒斯坦城镇的犯罪流行",
+        "en": "Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns",
+        "de": "Israels 'zwei Klassen'-Polizei und die Kriminalitäts-Epidemie in palästinensischen Städten"
       },
       "summary": {
-        "zh": "特朗普表示，美国军队在霍尔木兹海峡附近“像海盗”一样夺取伊朗的船只和货物，这一言论引发了广泛关注。",
-        "en": "Trump stated that US forces are 'like pirates' taking over Iranian ships and cargo near the Strait of Hormuz, a remark that has drawn widespread attention.",
-        "de": "Trump erklärte, die US-Truppen seien 'wie Piraten', die iranische Schiffe und Fracht in der Nähe der Straße von Hormuz übernehmen, eine Bemerkung, die große Aufmerksamkeit auf sich gezogen hat."
+        "zh": "以色列在巴勒斯坦地区的犯罪率飙升，引发对国家合谋和忽视的指控。警方的双重执法标准受到广泛批评。",
+        "en": "Crime rates in Palestinian areas of Israel have soared, fueling allegations of state complicity and neglect. The dual policing standards have drawn widespread criticism.",
+        "de": "Die Kriminalitätsraten in palästinensischen Gebieten Israels sind gestiegen, was Vorwürfe über staatliche Komplizenschaft und Vernachlässigung anheizt. Die doppelten Polizeistandards sind weitreichend kritisiert worden."
       },
       "source": "Al Jazeera",
       "date": "2026-05-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "古巴政府严厉谴责特朗普的新制裁，称其为对古巴人民的“集体惩罚”",
-        "en": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
-        "de": "Havanna verurteilt neue Trump-Sanktionen als 'kollektive Bestrafung' des kubanischen Volkes"
+        "zh": "美国威胁对支付伊朗通行费的航运公司实施制裁",
+        "en": "US threatens shipping firms with sanctions if they pay Iran tolls",
+        "de": "Die USA drohen Schifffahrtsunternehmen mit Sanktionen, wenn sie Iran Gebühren zahlen"
       },
       "summary": {
-        "zh": "古巴政府对特朗普最近实施的新制裁表示强烈反对，称其为对古巴人民的“集体惩罚”。",
-        "en": "The Cuban government has firmly rejected the recent sanctions imposed by President Trump, labeling them as 'collective punishment' of the Cuban people.",
-        "de": "Die kubanische Regierung hat die kürzlich von Präsident Trump verhängten Sanktionen entschieden zurückgewiesen und sie als 'kollektive Bestrafung' des kubanischen Volkes bezeichnet."
+        "zh": "美国政府警告航运公司，如果他们向伊朗支付通行费，将面临制裁。这一警告是在特朗普总统对伊朗最新和平提议表示不满后发布的。",
+        "en": "The US government has warned shipping firms that they will face sanctions if they pay tolls to Iran. This warning comes after President Trump expressed dissatisfaction with Iran's latest peace proposal.",
+        "de": "Die US-Regierung hat Schifffahrtsunternehmen gewarnt, dass sie mit Sanktionen rechnen müssen, wenn sie Gebühren an den Iran zahlen. Diese Warnung erfolgt, nachdem Präsident Trump seine Unzufriedenheit mit dem neuesten Friedensvorschlag des Iran geäußert hat."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-05-02",
-      "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
@@ -106,12 +106,12 @@
       "title": {
         "zh": "英国对美国的出口在特朗普的“解放日”关税冲击后暴跌25%",
         "en": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
-        "de": "Die Exporte des Vereinigten Königreichs in die USA stürzen nach Trumps 'Befreiungstag'-Zollblitz um 25% ab"
+        "de": "Die britischen Exporte in die USA stürzen nach Trumps 'Befreiungstag'-Zollblitz um 25% ab"
       },
       "summary": {
-        "zh": "由于特朗普实施的关税，英国对美国的出口在“解放日”后暴跌25%，导致英国与其最大贸易伙伴的贸易逆差加大。",
-        "en": "Due to tariffs imposed by Trump, UK exports to the US plunged by 25% after 'liberation day', resulting in a widening trade deficit with its largest trading partner.",
-        "de": "Aufgrund der von Trump verhängten Zölle stürzten die Exporte des Vereinigten Königreichs in die USA nach dem 'Befreiungstag' um 25% ab, was zu einem wachsenden Handelsdefizit mit seinem größten Handelspartner führte."
+        "zh": "由于特朗普实施的关税政策，英国对美国的出口大幅下降，导致与美国的贸易逆差加剧。",
+        "en": "UK exports to the US have plummeted due to tariffs imposed by Trump, leading to a worsening trade deficit with its largest trading partner.",
+        "de": "Die britischen Exporte in die USA sind aufgrund von von Trump verhängten Zöllen stark gesunken, was zu einem sich verschärfenden Handelsdefizit mit dem größten Handelspartner führt."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美联储反对者解释“否”投票，称他们不同意暗示下一步将是降息",
+        "zh": "美联储异议者解释“否决”投票，称他们不同意暗示下一步将降息",
         "en": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
-        "de": "Fed-Abweichler erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis, dass der nächste Schritt eine Senkung sein würde, nicht einverstanden"
+        "de": "Fed-Dissidenten erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis auf eine mögliche Zinssenkung nicht einverstanden"
       },
       "summary": {
-        "zh": "美联储的反对者解释了他们的“否”投票，表示不同意暗示下一步将是降息，这引发了市场对未来货币政策的关注。",
-        "en": "Fed dissenters explained their 'no' votes, stating they disagreed with the implication that the next move would be a cut, raising market concerns about future monetary policy.",
-        "de": "Die Fed-Abweichler erklärten ihre 'Nein'-Stimmen und gaben an, dass sie mit der Andeutung, dass der nächste Schritt eine Senkung sein würde, nicht einverstanden seien, was Bedenken auf dem Markt hinsichtlich der zukünftigen Geldpolitik aufwarf."
+        "zh": "美联储的异议者解释了他们的“否决”投票，表示他们不同意暗示下一步将降息的做法，这可能影响市场预期。",
+        "en": "Fed dissenters explained their 'no' votes, stating they disagreed with signaling that the next move would be a rate cut, which could impact market expectations.",
+        "de": "Fed-Dissidenten erklärten ihre 'Nein'-Stimmen und sagten, sie seien mit dem Hinweis auf eine mögliche Zinssenkung nicht einverstanden, was die Markterwartungen beeinflussen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美联储主席鲍威尔承诺不做“影子主席”，但与沃什的冲突难以避免",
+        "zh": "美联储主席鲍威尔承诺不会成为“影子主席”",
         "en": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
         "de": "Inside the Fed: Powell verspricht, er werde kein 'Schattenvorsitzender' sein, aber ein Konflikt mit Warsh wird schwer zu vermeiden sein"
       },
       "summary": {
-        "zh": "美联储主席鲍威尔承诺将不做“影子主席”，但预计与前主席沃什之间的冲突在即，可能对货币政策产生重要影响。",
-        "en": "Fed Chair Powell has pledged not to be a 'shadow chair', but a clash with former chair Warsh is expected, which could have significant implications for monetary policy.",
-        "de": "Der Fed-Vorsitzende Powell hat versprochen, kein 'Schattenvorsitzender' zu sein, aber ein Konflikt mit dem ehemaligen Vorsitzenden Warsh wird erwartet, was erhebliche Auswirkungen auf die Geldpolitik haben könnte."
+        "zh": "美联储主席鲍威尔表示，他不会成为“影子主席”，但与前主席沃什的冲突在即将召开的会议上难以避免，这可能对政策制定产生重要影响。",
+        "en": "Fed Chair Powell stated he will not be a 'shadow chair,' but a clash with former Chair Warsh will be hard to avoid at the upcoming meeting, potentially impacting policy-making.",
+        "de": "Fed-Vorsitzender Powell erklärte, er werde kein 'Schattenvorsitzender' sein, aber ein Konflikt mit dem ehemaligen Vorsitzenden Warsh wird bei der bevorstehenden Sitzung schwer zu vermeiden sein, was möglicherweise Auswirkungen auf die Politikgestaltung hat."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
