@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-05-01T17:31:37.399880+00:00",
+  "generatedAt": "2026-05-02T06:26:10.056935+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "AI时代的网络安全危机：网络安全在AI进入之前就已承受压力。",
+        "zh": "马斯克与阿尔特曼的第一周：埃隆·马斯克称自己被欺骗，警告人工智能可能会杀死我们，并承认xAI提炼了OpenAI的模型",
+        "en": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+        "de": "Musk gegen Altman Woche 1: Elon Musk sagt, er sei hereingelegt worden, warnt, dass KI uns alle töten könnte, und gibt zu, dass xAI die Modelle von OpenAI destilliert"
+      },
+      "summary": {
+        "zh": "在与OpenAI的标志性审判的第一周，埃隆·马斯克在法庭上表示他被欺骗，并警告人工智能可能带来的致命风险。他还承认，xAI提炼了OpenAI的模型。",
+        "en": "In the first week of the landmark trial against OpenAI, Elon Musk testified that he was duped and warned of the potential lethal risks posed by AI. He also admitted that xAI distills OpenAI's models.",
+        "de": "In der ersten Woche des wegweisenden Prozesses gegen OpenAI sagte Elon Musk aus, dass er hereingelegt worden sei, und warnte vor den potenziell tödlichen Risiken, die von KI ausgehen. Er gab auch zu, dass xAI die Modelle von OpenAI destilliert."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-05-01",
+      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "人工智能时代的网络安全隐患：网络安全在人工智能进入之前已经面临压力",
         "en": "Cyber-Insecurity in the AI Era: Cybersecurity was already under strain before AI entered the stack.",
         "de": "Cyber-Insecurity in der KI-Ära: Die Cybersicherheit war bereits unter Druck, bevor KI in das System eintrat."
       },
       "summary": {
-        "zh": "AI的引入使网络安全面临更大的挑战，攻击面扩大并增加了复杂性，暴露了传统安全措施的局限性。",
-        "en": "The introduction of AI has posed greater challenges to cybersecurity, expanding the attack surface and increasing complexity, exposing the limitations of traditional security measures.",
-        "de": "Die Einführung von KI hat größere Herausforderungen für die Cybersicherheit mit sich gebracht, indem sie die Angriffsfläche vergrößert und die Komplexität erhöht hat, was die Grenzen traditioneller Sicherheitsmaßnahmen offenbart."
+        "zh": "随着人工智能的普及，网络安全面临着更大的挑战。新的复杂性和攻击面扩展使得传统安全措施的局限性愈加明显。",
+        "en": "As AI becomes more prevalent, cybersecurity faces greater challenges. The new complexities and expanded attack surfaces highlight the limitations of traditional security measures.",
+        "de": "Mit der zunehmenden Verbreitung von KI sieht sich die Cybersicherheit größeren Herausforderungen gegenüber. Die neuen Komplexitäten und erweiterten Angriffsflächen verdeutlichen die Grenzen traditioneller Sicherheitsmaßnahmen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-01",
       "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "将AI实施规模化与主权化：公司正在控制自己的数据以定制AI以满足其需求。",
+        "zh": "为规模和主权操作人工智能：公司正在控制自己的数据以定制人工智能",
         "en": "Operationalizing AI for Scale and Sovereignty: Companies are taking control of their own data to tailor AI for their needs.",
         "de": "Operationalisierung von KI für Skalierung und Souveränität: Unternehmen übernehmen die Kontrolle über ihre eigenen Daten, um KI auf ihre Bedürfnisse zuzuschneiden."
       },
       "summary": {
-        "zh": "公司正在努力平衡数据所有权与安全、可信的数据流，以实现AI的规模化和主权化。",
-        "en": "Companies are striving to balance data ownership with the safe, trusted flow of information to achieve scale and sovereignty in AI.",
-        "de": "Unternehmen bemühen sich, das Eigentum an Daten mit dem sicheren, vertrauenswürdigen Fluss von Informationen in Einklang zu bringen, um Skalierung und Souveränität in der KI zu erreichen."
+        "zh": "公司正在努力掌控自己的数据，以便根据自身需求定制人工智能。然而，如何在拥有数据的同时确保安全和信任流动是一个挑战。",
+        "en": "Companies are striving to take control of their data to customize AI according to their needs. However, balancing ownership with the safe and trusted flow of data poses a challenge.",
+        "de": "Unternehmen bemühen sich, die Kontrolle über ihre Daten zu übernehmen, um KI nach ihren Bedürfnissen anzupassen. Das Gleichgewicht zwischen Eigentum und dem sicheren, vertrauenswürdigen Fluss von Daten stellt jedoch eine Herausforderung dar."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-01",
       "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "这家初创公司的新机制可解释性工具让你调试LLM：Goodfire发布了一种新工具，允许研究人员和工程师深入了解AI模型。",
-        "en": "This startup’s new mechanistic interpretability tool lets you debug LLMs: Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust it.",
-        "de": "Das neue mechanistische Interpretierbarkeitstool dieses Startups ermöglicht es Ihnen, LLMs zu debuggen: Goodfire hat gerade ein neues Tool namens Silico veröffentlicht, mit dem Forscher und Ingenieure in ein KI-Modell blicken und es anpassen können."
-      },
-      "summary": {
-        "zh": "Goodfire的新工具Silico为研究人员和工程师提供了调试大型语言模型的能力，增强了对AI模型内部机制的理解。",
-        "en": "Goodfire's new tool Silico provides researchers and engineers with the ability to debug large language models, enhancing understanding of the internal mechanisms of AI models.",
-        "de": "Das neue Tool Silico von Goodfire bietet Forschern und Ingenieuren die Möglichkeit, große Sprachmodelle zu debuggen und das Verständnis der internen Mechanismen von KI-Modellen zu verbessern."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-04-30",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国警告船运公司不要支付霍尔木兹海峡的通行费和“捐款”。",
-        "en": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’.",
-        "de": "Die USA warnen Reeder davor, Gebühren und 'Spenden' für die Straße von Hormuz zu zahlen."
+        "zh": "美国驻英国大使馆警告公民，威胁等级提高至“严重”",
+        "en": "US embassy warns citizens in UK as threat level raised to ‘severe’",
+        "de": "US-Botschaft warnt Bürger im Vereinigten Königreich, da die Bedrohungsstufe auf 'ernst' erhöht wurde"
       },
       "summary": {
-        "zh": "美国对船运公司发出新警告，称支付霍尔木兹海峡的通行费可能会引发不必要的风险，正值伊朗媒体报道德黑兰向美国提出新的和平提议之际。",
-        "en": "The US has issued a new warning to shippers, stating that paying tolls for the Strait of Hormuz could pose unnecessary risks, coinciding with Iranian media reports of Tehran presenting a new peace proposal to the US.",
-        "de": "Die USA haben den Reedereien eine neue Warnung ausgesprochen, dass die Zahlung von Gebühren für die Straße von Hormuz unnötige Risiken darstellen könnte, zeitgleich mit Berichten iranischer Medien über einen neuen Friedensvorschlag Teherans an die USA."
+        "zh": "美国驻英国大使馆已向公民发出警告，建议避免学校、教堂和旅游景点，并改变旅行路线，因为威胁等级已提高至“严重”。",
+        "en": "The US embassy in the UK has issued a warning to citizens, advising them to avoid schools, churches, and tourist locations, and to vary their travel routes as the threat level has been raised to 'severe'.",
+        "de": "Die US-Botschaft im Vereinigten Königreich hat eine Warnung an die Bürger herausgegeben und geraten, Schulen, Kirchen und Touristenorte zu meiden und ihre Reiserouten zu variieren, da die Bedrohungsstufe auf 'ernst' erhöht wurde."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-01",
-      "url": "https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations?traffic_source=rss"
+      "date": "2026-05-02",
+      "url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "五角大楼宣布与七家AI公司达成机密系统协议。",
-        "en": "Pentagon announces deal with seven AI companies for classified systems.",
-        "de": "Das Pentagon gibt eine Vereinbarung mit sieben KI-Unternehmen für geheime Systeme bekannt."
+        "zh": "特朗普称美国军队“像海盗”一样夺取伊朗石油",
+        "en": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+        "de": "Trump sagt, US-Truppen seien 'wie Piraten', die iranisches Öl rauben"
       },
       "summary": {
-        "zh": "五角大楼与七家人工智能公司达成协议，旨在将AI技术整合到机密系统中，此举引发了对其在伊朗战争中的使用的担忧。",
-        "en": "The Pentagon has reached an agreement with seven AI companies to integrate AI technology into classified systems, raising concerns about its use in the Iran war.",
-        "de": "Das Pentagon hat eine Vereinbarung mit sieben KI-Unternehmen getroffen, um KI-Technologie in geheime Systeme zu integrieren, was Bedenken hinsichtlich ihrer Verwendung im Iran-Krieg aufwirft."
+        "zh": "特朗普表示，美国军队在霍尔木兹海峡附近“像海盗”一样夺取伊朗的船只和货物，这一言论引发了广泛关注。",
+        "en": "Trump stated that US forces are 'like pirates' taking over Iranian ships and cargo near the Strait of Hormuz, a remark that has drawn widespread attention.",
+        "de": "Trump erklärte, die US-Truppen seien 'wie Piraten', die iranische Schiffe und Fracht in der Nähe der Straße von Hormuz übernehmen, eine Bemerkung, die große Aufmerksamkeit auf sich gezogen hat."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-01",
-      "url": "https://www.aljazeera.com/news/2026/5/1/pentagon-announces-deal-with-seven-ai-companies-for-classified-systems?traffic_source=rss"
+      "date": "2026-05-02",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "土耳其警方在五一游行中发射催泪弹，逮捕数百人。",
-        "en": "Turkish police fire tear gas, arrest hundreds at May Day rally.",
-        "de": "Die türkische Polizei setzt Tränengas ein und nimmt Hunderte bei der Maifeier fest."
+        "zh": "古巴政府严厉谴责特朗普的新制裁，称其为对古巴人民的“集体惩罚”",
+        "en": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+        "de": "Havanna verurteilt neue Trump-Sanktionen als 'kollektive Bestrafung' des kubanischen Volkes"
       },
       "summary": {
-        "zh": "在伊斯坦布尔的五一游行中，土耳其当局对示威者进行了暴力镇压，使用催泪弹并逮捕了数百人。",
-        "en": "Turkish authorities violently cracked down on demonstrators during the May Day rally in Istanbul, using tear gas and arresting hundreds.",
-        "de": "Die türkischen Behörden gingen während der Maifeier in Istanbul gewaltsam gegen Demonstranten vor, setzten Tränengas ein und nahmen Hunderte fest."
+        "zh": "古巴政府对特朗普最近实施的新制裁表示强烈反对，称其为对古巴人民的“集体惩罚”。",
+        "en": "The Cuban government has firmly rejected the recent sanctions imposed by President Trump, labeling them as 'collective punishment' of the Cuban people.",
+        "de": "Die kubanische Regierung hat die kürzlich von Präsident Trump verhängten Sanktionen entschieden zurückgewiesen und sie als 'kollektive Bestrafung' des kubanischen Volkes bezeichnet."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-01",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss"
+      "date": "2026-05-02",
+      "url": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普的“解放日”关税冲击后，英国对美国的出口骤降25%。",
-        "en": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz.",
-        "de": "Die britischen Exporte in die USA stürzen nach Trumps 'Befreiungstag'-Zolloffensive um 25 % ab."
+        "zh": "英国对美国的出口在特朗普的“解放日”关税冲击后暴跌25%",
+        "en": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
+        "de": "Die Exporte des Vereinigten Königreichs in die USA stürzen nach Trumps 'Befreiungstag'-Zollblitz um 25% ab"
       },
       "summary": {
-        "zh": "英国与美国的贸易逆差加剧，因特朗普实施的关税政策导致出口大幅下降。",
-        "en": "The UK is experiencing a growing trade deficit with the US as Trump's tariff policies have led to a significant drop in exports.",
-        "de": "Das Vereinigte Königreich verzeichnet ein wachsendes Handelsdefizit mit den USA, da Trumps Zollpolitik zu einem erheblichen Rückgang der Exporte geführt hat."
+        "zh": "由于特朗普实施的关税，英国对美国的出口在“解放日”后暴跌25%，导致英国与其最大贸易伙伴的贸易逆差加大。",
+        "en": "Due to tariffs imposed by Trump, UK exports to the US plunged by 25% after 'liberation day', resulting in a widening trade deficit with its largest trading partner.",
+        "de": "Aufgrund der von Trump verhängten Zölle stürzten die Exporte des Vereinigten Königreichs in die USA nach dem 'Befreiungstag' um 25% ab, was zu einem wachsenden Handelsdefizit mit seinem größten Handelspartner führte."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美联储持不同意见者解释“否”投票，称他们不同意暗示下一步将降息。",
-        "en": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut.",
-        "de": "Fed-Dissidenten erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis auf eine mögliche Zinssenkung nicht einverstanden."
+        "zh": "美联储反对者解释“否”投票，称他们不同意暗示下一步将是降息",
+        "en": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
+        "de": "Fed-Abweichler erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis, dass der nächste Schritt eine Senkung sein würde, nicht einverstanden"
       },
       "summary": {
-        "zh": "美联储的持不同意见者解释了他们的投票，表示不赞同暗示未来的利率调整将是降息。",
-        "en": "Dissenters within the Federal Reserve explained their votes, stating they disagreed with the suggestion that the next interest rate move would be a cut.",
-        "de": "Dissidenten innerhalb der Federal Reserve erklärten ihre Stimmen und sagten, sie seien mit dem Hinweis, dass die nächste Zinssatzänderung eine Senkung sein würde, nicht einverstanden."
+        "zh": "美联储的反对者解释了他们的“否”投票，表示不同意暗示下一步将是降息，这引发了市场对未来货币政策的关注。",
+        "en": "Fed dissenters explained their 'no' votes, stating they disagreed with the implication that the next move would be a cut, raising market concerns about future monetary policy.",
+        "de": "Die Fed-Abweichler erklärten ihre 'Nein'-Stimmen und gaben an, dass sie mit der Andeutung, dass der nächste Schritt eine Senkung sein würde, nicht einverstanden seien, was Bedenken auf dem Markt hinsichtlich der zukünftigen Geldpolitik aufwarf."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "核心通胀率在三月份达到3.2%，第一季度增长令人失望。",
-        "en": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%.",
-        "de": "Die Kerninflationsrate erreichte im März 3,2 %, während das Wachstum im ersten Quartal enttäuschte und bei 2 % lag."
+        "zh": "美联储主席鲍威尔承诺不做“影子主席”，但与沃什的冲突难以避免",
+        "en": "Inside the Fed: Powell vows he won't be a 'shadow chair,' but a Warsh clash will be tough to avoid",
+        "de": "Inside the Fed: Powell verspricht, er werde kein 'Schattenvorsitzender' sein, aber ein Konflikt mit Warsh wird schwer zu vermeiden sein"
       },
       "summary": {
-        "zh": "由于伊朗战争导致油价飙升，消费者在三月份面临不断上升的价格，第一季度的经济增长也未能达到预期。",
-        "en": "Consumers faced rising prices in March due to soaring oil prices from the Iran war, and first-quarter economic growth also fell short of expectations.",
-        "de": "Die Verbraucher sahen sich im März aufgrund der steigenden Ölpreise durch den Iran-Krieg mit steigenden Preisen konfrontiert, und das Wirtschaftswachstum im ersten Quartal blieb ebenfalls hinter den Erwartungen zurück."
+        "zh": "美联储主席鲍威尔承诺将不做“影子主席”，但预计与前主席沃什之间的冲突在即，可能对货币政策产生重要影响。",
+        "en": "Fed Chair Powell has pledged not to be a 'shadow chair', but a clash with former chair Warsh is expected, which could have significant implications for monetary policy.",
+        "de": "Der Fed-Vorsitzende Powell hat versprochen, kein 'Schattenvorsitzender' zu sein, aber ein Konflikt mit dem ehemaligen Vorsitzenden Warsh wird erwartet, was erhebliche Auswirkungen auf die Geldpolitik haben könnte."
       },
       "source": "CNBC – Markets",
-      "date": "2026-04-30",
-      "url": "https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html"
+      "date": "2026-05-01",
+      "url": "https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html"
     }
   ]
 }
