@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T17:12:03.034915+00:00",
+  "generatedAt": "2026-05-04T07:37:00.409201+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Musk gegen Altman Woche 1: Elon Musk sagt, er sei hereingelegt worden, warnt, dass KI uns alle töten könnte, und gibt zu, dass xAI die Modelle von OpenAI destilliert"
       },
       "summary": {
-        "zh": "在埃隆·马斯克与OpenAI之间的 landmark 诉讼的第一周，马斯克在法庭上表示自己被欺骗，并警告人工智能可能会带来致命威胁。他还承认，xAI实际上是对OpenAI模型的提炼。",
-        "en": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk testified that he was duped and warned that AI could pose a lethal threat. He also admitted that xAI distills OpenAI's models.",
-        "de": "In der ersten Woche des wegweisenden Prozesses zwischen Elon Musk und OpenAI sagte Musk aus, dass er hereingelegt wurde, und warnte, dass KI eine tödliche Bedrohung darstellen könnte. Er gab auch zu, dass xAI die Modelle von OpenAI destilliert."
+        "zh": "在马斯克与OpenAI的 landmark 诉讼的第一周，马斯克在法庭上表示自己被欺骗，并警告人工智能可能带来的致命威胁。他还承认，xAI提炼了OpenAI的模型。",
+        "en": "In the first week of the landmark trial between Musk and OpenAI, Musk testified that he was duped and warned of the potential lethal threats posed by AI. He also admitted that xAI distills OpenAI's models.",
+        "de": "In der ersten Woche des wegweisenden Prozesses zwischen Musk und OpenAI sagte Musk aus, dass er hereingelegt wurde, und warnte vor den potenziellen tödlichen Bedrohungen durch KI. Er gab auch zu, dass xAI die Modelle von OpenAI destilliert."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-01",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "人工智能时代的网络安全危机：网络安全在人工智能进入之前已经承受压力",
+        "zh": "人工智能时代的网络安全危机：网络安全在人工智能进入之前就已承受压力",
         "en": "Cyber-Insecurity in the AI Era: Cybersecurity was already under strain before AI entered the stack.",
         "de": "Cyber-Insecurity in der KI-Ära: Die Cybersicherheit war bereits unter Druck, bevor KI in den Stack eintrat."
       },
       "summary": {
-        "zh": "随着人工智能的扩展，网络安全面临着新的复杂性和攻击面。文章探讨了传统网络安全措施在面对这些新挑战时的局限性。",
-        "en": "As AI expands, cybersecurity faces new complexities and attack surfaces. The article discusses the limitations of traditional cybersecurity measures in addressing these new challenges.",
-        "de": "Mit der Ausweitung der KI sieht sich die Cybersicherheit neuen Komplexitäten und Angriffsflächen gegenüber. Der Artikel erörtert die Grenzen traditioneller Cybersicherheitsmaßnahmen bei der Bewältigung dieser neuen Herausforderungen."
+        "zh": "随着人工智能的扩展，网络安全面临着新的复杂性和攻击面。文章探讨了传统网络安全措施的局限性。",
+        "en": "As AI expands, cybersecurity faces new complexities and attack surfaces. The article discusses the limitations of traditional cybersecurity measures.",
+        "de": "Mit der Ausweitung der KI sieht sich die Cybersicherheit neuen Komplexitäten und Angriffsflächen gegenüber. Der Artikel erörtert die Grenzen traditioneller Cybersicherheitsmaßnahmen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-01",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "为规模和主权操作人工智能：公司正在控制自己的数据以定制人工智能",
+        "zh": "为规模和主权而操作人工智能：公司正在掌控自己的数据，以量身定制人工智能",
         "en": "Operationalizing AI for Scale and Sovereignty: Companies are taking control of their own data to tailor AI for their needs.",
-        "de": "Operationalisierung von KI für Skalierung und Souveränität: Unternehmen übernehmen die Kontrolle über ihre eigenen Daten, um KI nach ihren Bedürfnissen anzupassen."
+        "de": "Operationalisierung von KI für Skalierung und Souveränität: Unternehmen übernehmen die Kontrolle über ihre eigenen Daten, um KI an ihre Bedürfnisse anzupassen."
       },
       "summary": {
-        "zh": "公司正在努力控制自己的数据，以便根据自身需求定制人工智能。然而，如何在拥有数据的同时确保安全和信任流动仍然是一个挑战。",
-        "en": "Companies are striving to control their data to tailor AI to their needs. However, balancing ownership with the safe and trusted flow of information remains a challenge.",
-        "de": "Unternehmen bemühen sich, ihre Daten zu kontrollieren, um KI nach ihren Bedürfnissen anzupassen. Das Gleichgewicht zwischen Eigentum und dem sicheren, vertrauenswürdigen Fluss von Informationen bleibt jedoch eine Herausforderung."
+        "zh": "公司们正在努力掌控自己的数据，以便根据自身需求量身定制人工智能。然而，如何在拥有和安全、可信的数据流之间取得平衡仍然是一个挑战。",
+        "en": "Companies are striving to take control of their data to tailor AI to their needs. However, balancing ownership with the safe, trusted flow of data remains a challenge.",
+        "de": "Unternehmen bemühen sich, die Kontrolle über ihre Daten zu übernehmen, um KI an ihre Bedürfnisse anzupassen. Das Gleichgewicht zwischen Eigentum und dem sicheren, vertrauenswürdigen Fluss von Daten bleibt jedoch eine Herausforderung."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-01",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国与拉丁美洲：Varsha Gandikota和Susana Muhamad",
-        "en": "The US vs Latin America: Varsha Gandikota and Susana Muhamad",
-        "de": "Die USA gegen Lateinamerika: Varsha Gandikota und Susana Muhamad"
+        "zh": "前纽约市市长朱利安尼住院，情况危急",
+        "en": "Former NYC Mayor Giuliani hospitalised in ‘critical condition’",
+        "de": "Ehemaliger NYC-Bürgermeister Giuliani in kritischem Zustand ins Krankenhaus eingeliefert"
       },
       "summary": {
-        "zh": "在这段对话中，Gandikota询问Muhamad，军事工业机器对全球南方的主权意味着什么。两位专家探讨了美国在拉丁美洲的影响。",
-        "en": "In this conversation, Gandikota asks Muhamad what the military-industrial machine means for the sovereignty of the Global South. The two experts discuss the U.S. influence in Latin America.",
-        "de": "In diesem Gespräch fragt Gandikota Muhamad, was die militärisch-industrielle Maschine für die Souveränität des Globalen Südens bedeutet. Die beiden Experten diskutieren den Einfluss der USA in Lateinamerika."
+        "zh": "朱利安尼的发言人表示，他目前处于“危急但稳定”的状态。特朗普称他为“真正的战士”。",
+        "en": "Giuliani's spokesman stated that he is currently in 'critical but stable' condition. Trump referred to him as a 'true warrior.'",
+        "de": "Giulianis Sprecher erklärte, dass er sich derzeit in einem 'kritischen, aber stabilen' Zustand befindet. Trump bezeichnete ihn als 'wahren Krieger'."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-03",
-      "url": "https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss"
+      "date": "2026-05-04",
+      "url": "https://www.aljazeera.com/news/2026/5/4/former-nyc-mayor-giuliani-hospitalised-in-critical-condition-spokesman?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列威胁恢复对加沙的战争以迫使解除武装",
-        "en": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
-        "de": "Israel droht mit Wiederaufnahme des Gaza-Kriegs, um die Entwaffnung zu erzwingen, während der 'Waffenstillstand' bröckelt"
+        "zh": "日本首相称伊朗战争石油危机对亚太地区影响巨大",
+        "en": "Japan PM says Iran war oil crisis having ‘enormous impact’ in Asia Pacific",
+        "de": "Japans PM sagt, die Ölkrise des Iran-Kriegs habe 'enorme Auswirkungen' im asiatisch-pazifischen Raum"
       },
       "summary": {
-        "zh": "随着停火协议的破裂，巴勒斯坦各派拒绝了美国支持的将援助与武器交出联系的计划，要求明确的政治前景。",
-        "en": "As the truce frays, Palestinian factions reject U.S.-backed plans linking aid to disarmament, demanding a clear political path forward.",
-        "de": "Während der Waffenstillstand bröckelt, lehnen palästinensische Fraktionen die von den USA unterstützten Pläne ab, die Hilfe an die Entwaffnung zu koppeln, und fordern einen klaren politischen Weg nach vorn."
+        "zh": "日本首相在访问澳大利亚期间表示，伊朗战争的石油危机对亚太地区产生了巨大的影响，并签署了能源供应协议。",
+        "en": "During a visit to Australia, the Japanese PM stated that the oil crisis from the Iran war is having a significant impact on the Asia Pacific and signed agreements on energy supplies.",
+        "de": "Während eines Besuchs in Australien erklärte der japanische PM, dass die Ölkrise des Iran-Kriegs erhebliche Auswirkungen auf den asiatisch-pazifischen Raum hat, und unterzeichnete Vereinbarungen über die Energieversorgung."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-03",
-      "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss"
+      "date": "2026-05-04",
+      "url": "https://www.aljazeera.com/news/2026/5/4/japan-pm-says-iran-war-oil-crisis-having-enormous-impact-in-asia-pacific?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "泽连斯基对俄罗斯或西方没有牌可打",
-        "en": "Zelenskyy has no cards to play against Russia or the West",
-        "de": "Zelenskyy hat keine Karten gegen Russland oder den Westen zu spielen"
+        "zh": "特朗普表示美国将开始护航霍尔木兹海的船只",
+        "en": "Trump says US to begin escorting ships in Strait of Hormuz",
+        "de": "Trump sagt, die USA werden beginnen, Schiffe im Persischen Golf zu eskortieren"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基似乎无法为乌克兰人民争取到任何补偿以换取痛苦的和平。",
-        "en": "Ukrainian President Zelenskyy appears unable to secure any gains for the Ukrainian people in exchange for a painful peace.",
-        "de": "Der ukrainische Präsident Zelenskyy scheint nicht in der Lage zu sein, für das ukrainische Volk irgendwelche Gewinne im Austausch für einen schmerzhaften Frieden zu sichern."
+        "zh": "特朗普宣布美国将开展海军任务，以护送在霍尔木兹海滞留的船只。",
+        "en": "Trump announced a naval mission to escort stranded ships in the Strait of Hormuz.",
+        "de": "Trump kündigte eine Marineoperation an, um gestrandet Schiffe im Persischen Golf zu eskortieren."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-03",
-      "url": "https://www.aljazeera.com/opinions/2026/5/3/zelenskyy-has-no-cards-to-play-against-russia-or-the-west?traffic_source=rss"
+      "date": "2026-05-04",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -106,12 +106,12 @@
       "title": {
         "zh": "英国对美国的出口在特朗普的“解放日”关税冲击后暴跌25%",
         "en": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
-        "de": "UK-Exporte in die USA stürzen nach Trumps 'Befreiungstag'-Zollblitz um 25% ab"
+        "de": "Die britischen Exporte in die USA stürzen nach Trumps 'Befreiungstag'-Zolloffensive um 25% ab"
       },
       "summary": {
-        "zh": "在特朗普实施的关税政策后，英国对美国的出口大幅下降，导致与美国的贸易逆差加大。",
-        "en": "Following Trump's tariff policies, UK exports to the U.S. have significantly declined, resulting in a growing trade deficit with its largest trading partner.",
-        "de": "Nach den Zollpolitiken von Trump sind die Exporte des Vereinigten Königreichs in die USA erheblich gesunken, was zu einem wachsenden Handelsdefizit mit dem größten Handelspartner geführt hat."
+        "zh": "英国目前与其最大贸易伙伴之间出现了贸易逆差，主要由于特朗普实施的关税政策。",
+        "en": "The UK is now running a trade deficit with its largest trading partner, primarily due to the tariffs imposed by Trump.",
+        "de": "Das Vereinigte Königreich hat jetzt ein Handelsdefizit mit seinem größten Handelspartner, hauptsächlich aufgrund der von Trump verhängten Zölle."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美联储反对者解释“否”票，称他们不同意暗示下一步将是降息",
+        "zh": "美联储异议者解释“否”票，称他们不同意暗示下一步将降息",
         "en": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
         "de": "Fed-Abweichler erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis auf eine mögliche Zinssenkung nicht einverstanden"
       },
       "summary": {
-        "zh": "美联储的部分官员对会议后的声明表示反对，认为不应暗示下一步将是降息。",
-        "en": "Some Federal Reserve officials opposed the post-meeting statement, arguing that it was inappropriate to signal that the next move would be a cut.",
-        "de": "Einige Mitglieder der Federal Reserve lehnten die Erklärung nach der Sitzung ab und argumentierten, dass es unangemessen sei, anzudeuten, dass der nächste Schritt eine Zinssenkung sein würde."
+        "zh": "美联储官员表示，他们不同意在会议后声明中暗示下一步可能降息的做法。",
+        "en": "Federal Reserve officials expressed disagreement with hinting at a potential rate cut in the post-meeting statement.",
+        "de": "Beamte der Federal Reserve äußerten ihre Uneinigkeit darüber, im Nachgang der Sitzung auf eine mögliche Zinssenkung hinzuweisen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "核心通胀率在3月份达到3.2%，第一季度增长令人失望",
+        "zh": "核心通胀率在3月达到3.2%，第一季度增长令人失望",
         "en": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
-        "de": "Kerninflationsrate erreicht im März 3,2%, während das Wachstum im ersten Quartal enttäuschend bei 2% lag"
+        "de": "Die Kerninflationsrate erreichte im März 3,2%, während das Wachstum im ersten Quartal mit 2% enttäuschte"
       },
       "summary": {
-        "zh": "由于伊朗战争导致油价飙升，消费者在3月份面临不断上升的价格，第一季度的经济增长也令人失望。",
-        "en": "Consumers faced escalating prices in March due to soaring oil prices from the Iran war, and first-quarter economic growth was disappointing.",
-        "de": "Die Verbraucher sahen sich im März aufgrund der steigenden Ölpreise durch den Iran-Krieg mit steigenden Preisen konfrontiert, und das Wirtschaftswachstum im ersten Quartal war enttäuschend."
+        "zh": "消费者在3月份面临不断上升的价格，主要是由于伊朗战争导致的油价飙升。",
+        "en": "Consumers faced escalating prices in March, primarily due to soaring oil prices resulting from the Iran war.",
+        "de": "Die Verbraucher sahen sich im März steigenden Preisen gegenüber, hauptsächlich aufgrund der steigenden Ölpreise infolge des Iran-Kriegs."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-30",
