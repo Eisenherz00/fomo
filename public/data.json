@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T17:57:00.821384+00:00",
+  "generatedAt": "2026-05-05T06:35:38.950049+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,13 +9,13 @@
         "de": "Woche eins des Prozesses Musk gegen Altman: Wie es im Raum war"
       },
       "summary": {
-        "zh": "在马斯克与奥特曼的审判第一周，马斯克在法庭上表示自己被欺骗，并警告AI可能会导致人类灭绝，同时承认xAI提炼了OpenAI的模型。",
-        "en": "In the first week of the trial between Musk and Altman, Musk claimed he was duped, warned that AI could kill us all, and admitted that xAI distills OpenAI's models.",
-        "de": "In der ersten Woche des Prozesses zwischen Musk und Altman behauptete Musk, er sei betrogen worden, warnte, dass KI uns alle töten könnte, und gestand ein, dass xAI die Modelle von OpenAI destilliert."
+        "zh": "马斯克在与奥特曼的审判中首次出庭，声称自己被欺骗，并警告AI可能会造成致命后果。审判的第一周揭示了AI行业的紧张局势。",
+        "en": "In the first week of the trial between Musk and Altman, Musk claimed he was duped and warned that AI could lead to fatal consequences. The first week of the trial reveals tensions within the AI industry.",
+        "de": "In der ersten Woche des Prozesses zwischen Musk und Altman behauptete Musk, er sei betrogen worden, und warnte, dass KI fatale Folgen haben könnte. Die erste Woche des Prozesses zeigt Spannungen in der KI-Branche."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-01",
-      "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
+      "date": "2026-05-04",
+      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
     },
     {
       "id": "ai-2",
@@ -25,9 +25,9 @@
         "de": "Maßgeschneiderte KI-Lösungen für die Bedürfnisse des Gesundheitswesens"
       },
       "summary": {
-        "zh": "AI市场充满了巨大的转型承诺，医疗保健是这些承诺的主要目标，面临着财务压力。",
-        "en": "The AI market is full of big promises of transformation, with health care being a prime target, beset by financial pressures.",
-        "de": "Der KI-Markt ist voller großer Versprechen der Transformation, wobei das Gesundheitswesen ein Hauptziel ist, das mit finanziellen Druck konfrontiert ist."
+        "zh": "AI市场充满了巨大的转型承诺，医疗保健是这些承诺的主要目标，面临着财务压力的挑战。",
+        "en": "The AI market is full of grand transformation promises, with health care being a prime target facing financial pressures.",
+        "de": "Der KI-Markt ist voller großer Transformationsversprechen, wobei das Gesundheitswesen ein Hauptziel ist, das mit finanziellen Druck konfrontiert ist."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-04",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI时代的网络安全不安全",
+        "zh": "AI时代的网络安全危机",
         "en": "Cyber-Insecurity in the AI Era",
         "de": "Cyber-Insecurity im KI-Zeitalter"
       },
       "summary": {
-        "zh": "在AI进入网络安全领域之前，网络安全已经面临压力。现在，随着AI扩展攻击面并增加新复杂性，传统系统的局限性愈发明显。",
-        "en": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy systems are becoming more apparent.",
-        "de": "Die Cybersicherheit war bereits unter Druck, bevor KI in den Stack eintrat. Jetzt, da KI die Angriffsfläche erweitert und neue Komplexität hinzufügt, werden die Grenzen der Legacy-Systeme immer deutlicher."
+        "zh": "AI的出现加剧了网络安全的压力，增加了攻击面和复杂性，揭示了传统安全措施的局限性。",
+        "en": "The emergence of AI has intensified pressures on cybersecurity, expanding the attack surface and complexity, revealing the limitations of legacy security measures.",
+        "de": "Das Aufkommen von KI hat den Druck auf die Cybersicherheit verstärkt, die Angriffsfläche und Komplexität erweitert und die Grenzen traditioneller Sicherheitsmaßnahmen aufgezeigt."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-01",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国最高法院暂时解除对堕胎药邮寄禁令",
-        "en": "US Supreme Court temporarily lifts ban on abortion pill mail delivery",
-        "de": "US-Oberster Gerichtshof hebt vorübergehend das Verbot der Zustellung von Abtreibungspillen auf"
+        "zh": "伊朗称美国军方在对客船的攻击中杀死五名平民",
+        "en": "Iran says US military killed five civilians in attacks on passenger boats",
+        "de": "Iran sagt, dass das US-Militär fünf Zivilisten bei Angriffen auf Passagerschiffe getötet hat"
       },
       "summary": {
-        "zh": "美国最高法院恢复了对米非司酮的远程医疗访问，至少为期一周，法律挑战仍在进行中。",
-        "en": "The US Supreme Court has restored telehealth access to mifepristone for at least one week as legal challenges to the medication continue.",
-        "de": "Der US-Oberste Gerichtshof hat den Telemedizin-Zugang zu Mifepriston für mindestens eine Woche wiederhergestellt, während rechtliche Herausforderungen gegen das Medikament weiterlaufen."
+        "zh": "伊朗指责美国军方在霍尔木兹海峡对两艘客船发动攻击，造成五名平民死亡。此事件加剧了地区紧张局势。",
+        "en": "Iran accuses the US military of attacking two passenger boats in the Strait of Hormuz, resulting in the deaths of five civilians. This incident escalates regional tensions.",
+        "de": "Iran beschuldigt das US-Militär, zwei Passagierschiffe im Persischen Golf angegriffen zu haben, was zum Tod von fünf Zivilisten führte. Dieser Vorfall eskaliert die regionalen Spannungen."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-04",
-      "url": "https://www.aljazeera.com/news/2026/5/4/us-supreme-court-temporarily-lifts-ban-on-abortion-pill-mail-delivery?traffic_source=rss"
+      "date": "2026-05-05",
+      "url": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "尼泊尔就长期边界争端向印度提出抗议",
-        "en": "Nepal lodges protest against India over long-running border dispute",
-        "de": "Nepal erhebt Protest gegen Indien wegen eines langjährigen Grenzstreits"
+        "zh": "‘危险升级’：世界谴责伊朗对阿联酋的攻击",
+        "en": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
+        "de": "‘Gefährliche Eskalation’: Welt verurteilt Iran nach Angriffen auf die VAE"
       },
       "summary": {
-        "zh": "尼泊尔在印度和中国同意恢复通过有争议的喜马拉雅山口的宗教朝圣后提出抗议。",
-        "en": "Nepal has protested after India and China agreed to resume a religious pilgrimage through a contested Himalayan pass.",
-        "de": "Nepal hat Protest eingelegt, nachdem Indien und China zugestimmt haben, eine religiöse Pilgerreise durch einen umstrittenen Himalaya-Pass wieder aufzunehmen."
+        "zh": "沙特阿拉伯、卡塔尔、科威特和巴林谴责伊朗的袭击，德国、英国和加拿大敦促伊朗重返谈判桌。",
+        "en": "Saudi Arabia, Qatar, Kuwait, and Bahrain condemn Iran's attacks, while Germany, the UK, and Canada urge Iran to return to the negotiating table.",
+        "de": "Saudi-Arabien, Katar, Kuwait und Bahrain verurteilen die Angriffe Irans, während Deutschland, das Vereinigte Königreich und Kanada Iran auffordern, an den Verhandlungstisch zurückzukehren."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-04",
-      "url": "https://www.aljazeera.com/news/2026/5/4/nepal-lodges-protest-against-india-over-long-running-border-dispute?traffic_source=rss"
+      "date": "2026-05-05",
+      "url": "https://www.aljazeera.com/news/2026/5/5/dangerous-escalation-world-condemns-iran-after-attacks-on-uae?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国官员称中国在资助伊朗，敦促北京帮助开放霍尔木兹海峡",
-        "en": "US official says China is ‘funding’ Iran, urges Beijing to help open Hormuz",
-        "de": "US-Beamter sagt, China finanziere Iran und fordert Peking auf, zu helfen, den Hormus zu öffnen"
+        "zh": "油价因霍尔木兹海峡暴力升级而飙升",
+        "en": "Oil prices surge as violence flares in Strait of Hormuz",
+        "de": "Ölpreise steigen, während die Gewalt im Persischen Golf aufflammt"
       },
       "summary": {
-        "zh": "美国官员斯科特·贝森特表示，美国对霍尔木兹海峡拥有绝对控制权，但呼吁中国在外交上采取行动以重新开放海峡。",
-        "en": "US official Scott Bessent stated that the US has 'absolute control' of Hormuz but called on China to step up with diplomacy to reopen the strait.",
-        "de": "Der US-Beamte Scott Bessent erklärte, dass die USA 'absolute Kontrolle' über den Hormus haben, forderte jedoch China auf, mit Diplomatie zu handeln, um die Straße wieder zu öffnen."
+        "zh": "随着霍尔木兹海峡的紧张局势加剧，布伦特原油价格上涨近6%。市场对冲突升级的担忧加剧。",
+        "en": "As tensions escalate in the Strait of Hormuz, Brent crude prices rise nearly 6%. Concerns over escalating conflict intensify in the market.",
+        "de": "Mit der Eskalation der Spannungen im Persischen Golf steigen die Brent-Rohölpreise um fast 6 %. Die Sorgen über eine eskalierende Konfliktsituation nehmen auf dem Markt zu."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-04",
-      "url": "https://www.aljazeera.com/news/2026/5/4/us-official-says-china-is-funding-iran-urges-beijing-to-help-open-hormuz?traffic_source=rss"
+      "date": "2026-05-05",
+      "url": "https://www.aljazeera.com/economy/2026/5/5/oil-prices-surge-as-violence-flares-in-strait-of-hormuz?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普的“解放日”关税冲击后，英国对美国的出口暴跌25%",
+        "zh": "英国对美国的出口在特朗普的‘解放日’关税冲击后暴跌25%",
         "en": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
-        "de": "UK-Exporte in die USA stürzen nach Trumps 'Befreiungstag'-Zollblitz um 25% ab"
+        "de": "Die Exporte des Vereinigten Königreichs in die USA sinken um 25 % nach Trumps 'Befreiungstag'-Zollblitz"
       },
       "summary": {
-        "zh": "由于特朗普的关税政策，英国对美国的出口大幅下降，导致与其最大贸易伙伴的贸易逆差。",
-        "en": "UK exports to the US have plummeted due to Trump's tariff policies, resulting in a trade deficit with its largest trading partner.",
-        "de": "Die Exporte des Vereinigten Königreichs in die USA sind aufgrund von Trumps Zollpolitik stark gefallen, was zu einem Handelsdefizit mit dem größten Handelspartner geführt hat."
+        "zh": "在特朗普实施的关税政策后，英国对美国的出口大幅下降，导致与美国的贸易逆差。",
+        "en": "Following Trump's tariff policies, UK exports to the US have significantly declined, resulting in a trade deficit with its largest trading partner.",
+        "de": "Nach den Zollpolitiken von Trump sind die Exporte des Vereinigten Königreichs in die USA erheblich gesunken, was zu einem Handelsdefizit mit dem größten Handelspartner geführt hat."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美联储持不同政见者解释“否”投票，称他们不同意暗示下一个举措将是降息",
+        "zh": "美联储异议者解释‘否’投票，称他们不同意暗示下一步将是降息",
         "en": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
-        "de": "Fed-Dissidenten erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis, dass der nächste Schritt eine Senkung sein würde, nicht einverstanden"
+        "de": "Fed-Dissidenten erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis auf eine mögliche Zinssenkung nicht einverstanden"
       },
       "summary": {
-        "zh": "美联储的持不同政见者解释了他们的“否”投票，认为不应暗示下一个举措将是降息。",
-        "en": "Fed dissenters explained their 'no' votes, arguing that it was inappropriate to hint that the next move would be a cut.",
-        "de": "Die Dissidenten der Fed erklärten ihre 'Nein'-Stimmen und argumentierten, dass es unangemessen sei, anzudeuten, dass der nächste Schritt eine Senkung sein würde."
+        "zh": "美联储的异议者对投票结果进行了说明，表示他们不同意暗示下一步将是降息的做法。",
+        "en": "Dissenters within the Federal Reserve explained their votes, stating they disagreed with the indication that the next move would be a rate cut.",
+        "de": "Dissidenten innerhalb der Federal Reserve erklärten ihre Stimmen und gaben an, dass sie mit dem Hinweis, dass der nächste Schritt eine Zinssenkung sein würde, nicht einverstanden waren."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "核心通胀率在3月份达到3.2%，第一季度增长令人失望",
-        "en": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
-        "de": "Kerninflationsrate erreichte im März 3,2%, da das Wachstum im ersten Quartal mit 2% enttäuschte"
+        "zh": "美联储主席鲍威尔誓言不会成为‘影子主席’",
+        "en": "Inside the Fed: Powell vows he won't be a 'shadow chair'",
+        "de": "Inside the Fed: Powell schwört, er wird kein 'Schattenvorsitzender' sein"
       },
       "summary": {
-        "zh": "由于伊朗战争导致油价飙升，消费者在3月份面临不断上升的价格，第一季度的增长仅为2%。",
-        "en": "Consumers faced escalating prices in March as the Iran war sent oil soaring, with first-quarter growth disappointing at 2%.",
-        "de": "Die Verbraucher sahen sich im März steigenden Preisen gegenüber, da der Iran-Krieg die Ölpreise in die Höhe trieb, während das Wachstum im ersten Quartal mit 2% enttäuschte."
+        "zh": "美联储主席鲍威尔表示，他不会成为‘影子主席’，并强调即将到来的会议将是他与前主席之间的首次合作。",
+        "en": "Federal Reserve Chair Powell stated he will not be a 'shadow chair' and emphasized that the upcoming meeting will mark the first collaboration between him and a former chair.",
+        "de": "Der Vorsitzende der Federal Reserve, Powell, erklärte, dass er kein 'Schattenvorsitzender' sein werde, und betonte, dass die bevorstehende Sitzung die erste Zusammenarbeit zwischen ihm und einem ehemaligen Vorsitzenden markieren wird."
       },
       "source": "CNBC – Markets",
       "date": "2026-04-30",
-      "url": "https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html"
+      "url": "https://www.cnbc.com/2026/04/30/inside-the-fed-powell-and-warsh-set-to-clash.html"
     }
   ]
 }
