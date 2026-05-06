@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-06T07:17:19.126103+00:00",
+  "generatedAt": "2026-05-06T17:56:52.947469+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：穆斯克与阿尔特曼审判内幕，以及民主的人工智能",
-        "en": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-        "de": "Der Download: Einblick in den Musk gegen Altman-Prozess und KI für die Demokratie"
+        "zh": "下载：海底科学和军事聊天机器人",
+        "en": "The Download: seafloor science and military chatbots",
+        "de": "Der Download: Meeresbodenwissenschaft und militärische Chatbots"
       },
       "summary": {
-        "zh": "今天的下载提供了关于穆斯克与阿尔特曼审判的最新动态，以及人工智能在民主中的潜在应用。此事件吸引了广泛关注，涉及技术与伦理的交汇点。",
-        "en": "Today's Download provides updates on the Musk v. Altman trial and the potential applications of AI in democracy. This event has garnered widespread attention, touching on the intersection of technology and ethics.",
-        "de": "Der heutige Download bietet Updates zum Prozess Musk gegen Altman und zu den potenziellen Anwendungen von KI in der Demokratie. Dieses Ereignis hat große Aufmerksamkeit erregt und berührt den Schnittpunkt von Technologie und Ethik."
+        "zh": "今天的下载提供了关于海底科学和军事聊天机器人的最新动态。",
+        "en": "Today's Download provides the latest updates on seafloor science and military chatbots.",
+        "de": "Der heutige Download bietet die neuesten Updates zur Meeresbodenwissenschaft und militärischen Chatbots."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-05-06",
+      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "下载：马斯克与奥特曼的审判内幕，以及民主的人工智能",
+        "en": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+        "de": "Der Download: Einblick in den Prozess Musk gegen Altman und KI für die Demokratie"
+      },
+      "summary": {
+        "zh": "今天的下载深入探讨了马斯克与奥特曼的审判及人工智能在民主中的作用。",
+        "en": "Today's Download delves into the Musk v. Altman trial and the role of AI in democracy.",
+        "de": "Der heutige Download beleuchtet den Prozess Musk gegen Altman und die Rolle der KI in der Demokratie."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-05",
       "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "使用人工智能加强民主的蓝图",
+        "zh": "为加强民主而使用人工智能的蓝图",
         "en": "A blueprint for using AI to strengthen democracy",
         "de": "Ein Plan zur Nutzung von KI zur Stärkung der Demokratie"
       },
       "summary": {
-        "zh": "这篇文章探讨了如何利用人工智能技术来增强民主治理的能力，强调信息流动的变化对社会治理的影响。",
-        "en": "This article explores how AI technology can be leveraged to enhance democratic governance, emphasizing the impact of changes in information flow on societal governance.",
-        "de": "Dieser Artikel untersucht, wie KI-Technologie genutzt werden kann, um die demokratische Regierungsführung zu verbessern, und betont die Auswirkungen von Veränderungen im Informationsfluss auf die gesellschaftliche Regierungsführung."
+        "zh": "这篇文章探讨了如何利用人工智能来增强民主制度的蓝图。",
+        "en": "This article explores a blueprint for leveraging AI to enhance democratic systems.",
+        "de": "Dieser Artikel untersucht einen Plan zur Nutzung von KI zur Stärkung demokratischer Systeme."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-05",
       "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "穆斯克与阿尔特曼审判第一周：房间里的情况",
-        "en": "Week one of the Musk v. Altman trial: What it was like in the room",
-        "de": "Woche eins des Prozesses Musk gegen Altman: Wie es im Raum war"
-      },
-      "summary": {
-        "zh": "第一周的审判揭示了穆斯克与阿尔特曼之间的紧张局势，涉及对人工智能的未来和道德责任的辩论。",
-        "en": "The first week of the trial revealed the tensions between Musk and Altman, involving debates over the future of AI and ethical responsibilities.",
-        "de": "Die erste Woche des Prozesses offenbarte die Spannungen zwischen Musk und Altman und beinhaltete Debatten über die Zukunft der KI und ethische Verantwortlichkeiten."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-05-04",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "加沙地区，最简单的婚礼几乎无法负担",
-        "en": "In Gaza, the simplest of weddings are barely affordable",
-        "de": "In Gaza sind die einfachsten Hochzeiten kaum bezahlbar"
+        "zh": "联合国要求以色列立即释放船队活动人士",
+        "en": "UN demands Israel immediately releases flotilla activists",
+        "de": "UN fordert Israel auf, Flottilenaktivisten sofort freizulassen"
       },
       "summary": {
-        "zh": "由于战争、流离失所和价格飙升，加沙地区的婚礼变得愈发艰难，许多新人只能在帐篷中举行简单的婚礼。",
-        "en": "Due to war, displacement, and soaring prices, weddings in Gaza have become increasingly difficult, with many couples forced to hold simple ceremonies in tents.",
-        "de": "Wegen des Krieges, der Vertreibung und der steigenden Preise sind Hochzeiten in Gaza zunehmend schwierig geworden, wobei viele Paare gezwungen sind, einfache Zeremonien in Zelten abzuhalten."
+        "zh": "联合国呼吁以色列立即释放两名被拘留的活动人士，他们在前往加沙的船队中被捕。",
+        "en": "The United Nations has called on Israel to immediately release two activists detained on a flotilla bound for Gaza.",
+        "de": "Die Vereinten Nationen haben Israel aufgefordert, zwei Aktivisten, die auf einer nach Gaza fahrenden Flottille festgenommen wurden, sofort freizulassen."
       },
       "source": "Al Jazeera",
       "date": "2026-05-06",
-      "url": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列总统赫尔佐格的中美洲之行：你需要知道的",
-        "en": "What to know about Israeli President Herzog’s trip to Central America?",
-        "de": "Was Sie über den Besuch des israelischen Präsidenten Herzog in Mittelamerika wissen sollten?"
+        "zh": "印度允许巴基斯坦运动员参加多边体育赛事",
+        "en": "It’s not cricket: Pakistan athletes allowed in India for multilateral sport",
+        "de": "Es ist kein Cricket: Pakistanische Athleten dürfen für multinationale Sportveranstaltungen nach Indien"
       },
       "summary": {
-        "zh": "以色列外交部表示，赫尔佐格的为期四天的访问将加深与巴拿马和哥斯达黎加的伙伴关系。",
-        "en": "The Israeli Foreign Ministry states that Herzog's four-day visit will deepen ties with partners in Panama and Costa Rica.",
-        "de": "Das israelische Außenministerium erklärt, dass Herzogs viertägiger Besuch die Beziehungen zu Partnern in Panama und Costa Rica vertiefen wird."
+        "zh": "印度政府允许巴基斯坦运动员参加多边体育赛事，但仍然禁止双边赛事如板球。",
+        "en": "India's government will allow Pakistani athletes to visit for multilateral sports but maintains a ban on bilateral events like cricket.",
+        "de": "Die indische Regierung wird pakistanischen Athleten die Einreise zu multinationalen Sportveranstaltungen erlauben, hält jedoch ein Verbot für bilaterale Veranstaltungen wie Cricket aufrecht."
       },
       "source": "Al Jazeera",
       "date": "2026-05-06",
-      "url": "https://www.aljazeera.com/news/2026/5/6/what-to-know-about-israeli-president-herzogs-trip-to-central-america?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普在鲁比奥访问梵蒂冈前重启与教皇的争执",
-        "en": "US president Trump restarts Pope feud ahead of Rubio visit to Vatican",
-        "de": "US-Präsident Trump beginnt den Streit mit dem Papst vor Rubios Besuch im Vatikan neu"
+        "zh": "印度西孟加拉邦选举后暴力事件造成四人死亡",
+        "en": "Four killed in post-election violence in India’s West Bengal",
+        "de": "Vier Tote bei Wahlunruhen in Westbengalen, Indien"
       },
       "summary": {
-        "zh": "特朗普再次公开攻击教皇，声称教皇支持伊朗获得核武器，这一言论在鲁比奥访问梵蒂冈前引发了争议。",
-        "en": "Trump has reignited his public attacks on the Pope, claiming that the Pope supports Iran obtaining nuclear weapons, sparking controversy ahead of Rubio's visit to the Vatican.",
-        "de": "Trump hat seine öffentlichen Angriffe auf den Papst neu entfacht und behauptet, der Papst unterstütze den Erwerb von Atomwaffen durch den Iran, was vor Rubios Besuch im Vatikan Kontroversen auslöste."
+        "zh": "在莫迪的印度人民党首次赢得该州选举后，西孟加拉邦发生了暴力事件，造成四人死亡。",
+        "en": "Unrest grips West Bengal after Modi's Hindu nationalist BJP wins the state election for the first time, resulting in four deaths.",
+        "de": "Unruhen ergreifen Westbengalen, nachdem Modis hindu-nationalistische BJP die Landtagswahl zum ersten Mal gewonnen hat, was zu vier Todesfällen führt."
       },
       "source": "Al Jazeera",
       "date": "2026-05-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "铝价飙升。公司如何应对成本",
-        "en": "Aluminum prices are surging. Here's how companies are handling the costs",
-        "de": "Die Aluminiumpreise steigen. So gehen Unternehmen mit den Kosten um"
+        "zh": "纽约联邦储备银行研究显示，飙升的油价对低收入家庭的影响更大",
+        "en": "Surging gas prices are hitting lower-income households harder, New York Fed study shows",
+        "de": "Steigende Benzinpreise belasten einkommensschwache Haushalte stärker, zeigt eine Studie der New Yorker Fed"
       },
       "summary": {
-        "zh": "由于伊朗战争以来铝价的飙升，美国一些大型公司面临成本压力，正在采取措施应对这一挑战。",
-        "en": "Due to the surge in aluminum prices since the start of the Iran war, some of America's largest companies are facing cost pressures and are taking measures to address this challenge.",
-        "de": "Aufgrund des Anstiegs der Aluminiumpreise seit Beginn des Iran-Kriegs sehen sich einige der größten Unternehmen Amerikas mit Kostenproblemen konfrontiert und ergreifen Maßnahmen, um diese Herausforderung zu bewältigen."
+        "zh": "研究表明，低收入消费者因油价上涨而减少消费，这对他们的生活造成了更大影响。",
+        "en": "The study shows that lower-income consumers are compensating for higher gas prices by buying less, significantly impacting their lives.",
+        "de": "Die Studie zeigt, dass einkommensschwache Verbraucher aufgrund steigender Benzinpreise weniger kaufen, was sich erheblich auf ihr Leben auswirkt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-05",
-      "url": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html"
+      "date": "2026-05-06",
+      "url": "https://www.cnbc.com/2026/05/06/surging-gas-prices-are-hurting-lower-income-households-harder-study-shows.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普的“解放日”关税冲击后，英国对美国的出口暴跌25%",
-        "en": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
-        "de": "Die britischen Exporte in die USA stürzen nach Trumps 'Befreiungstag'-Zollblitz um 25% ab"
+        "zh": "私营部门在四月增加了109,000个职位，超出预期",
+        "en": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
+        "de": "Die Beschäftigung im privaten Sektor stieg im April um 109.000, über den Erwartungen, sagt ADP"
       },
       "summary": {
-        "zh": "由于特朗普实施的关税政策，英国对美国的出口大幅下降，导致与美国的贸易逆差加大。",
-        "en": "Due to the tariff policies implemented by Trump, UK exports to the U.S. have significantly decreased, resulting in a widening trade deficit with its largest trading partner.",
-        "de": "Aufgrund der von Trump umgesetzten Zollpolitik sind die britischen Exporte in die USA erheblich gesunken, was zu einem wachsenden Handelsdefizit mit dem größten Handelspartner geführt hat."
+        "zh": "ADP报告显示，四月份私营部门新增职位超出预期，表明劳动力市场稳定，降低了美联储降息的压力。",
+        "en": "The ADP report indicates that private sector job growth in April exceeded expectations, suggesting a stable labor market and less pressure on the Fed to lower interest rates.",
+        "de": "Der ADP-Bericht zeigt, dass das Beschäftigungswachstum im privaten Sektor im April die Erwartungen übertroffen hat, was auf einen stabilen Arbeitsmarkt hinweist und den Druck auf die Fed verringert, die Zinssätze zu senken."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-01",
-      "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html"
+      "date": "2026-05-06",
+      "url": "https://www.cnbc.com/2026/05/06/private-payrolls-rose-by-109000-in-april-topping-expectations-adp-says.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美联储异议者解释“否”票，称不同意暗示下一步将降息",
-        "en": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
-        "de": "Fed-Dissidenten erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis, dass der nächste Schritt eine Senkung sein würde, nicht einverstanden"
+        "zh": "铝价飙升。以下是公司如何应对成本",
+        "en": "Aluminum prices are surging. Here's how companies are handling the costs",
+        "de": "Die Aluminiumpreise steigen. So gehen Unternehmen mit den Kosten um"
       },
       "summary": {
-        "zh": "美联储内部的异议者解释了他们的“否”票，表示不同意暗示未来可能降息的信号，这引发了市场的关注。",
-        "en": "Dissenters within the Federal Reserve explained their 'no' votes, stating they disagreed with signaling a potential rate cut in the future, which has drawn market attention.",
-        "de": "Dissidenten innerhalb der Federal Reserve erklärten ihre 'Nein'-Stimmen und gaben an, dass sie mit dem Hinweis auf eine mögliche Zinssenkung in der Zukunft nicht einverstanden waren, was die Aufmerksamkeit des Marktes auf sich zog."
+        "zh": "铝价自伊朗战争开始以来飙升，给美国一些大型公司带来了成本压力。",
+        "en": "Aluminum prices have surged since the start of the Iran war, creating cost pressures for some of America's largest companies.",
+        "de": "Die Aluminiumpreise sind seit Beginn des Iran-Kriegs gestiegen, was zu Kostenbelastungen für einige der größten Unternehmen Amerikas führt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-01",
-      "url": "https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html"
+      "date": "2026-05-05",
+      "url": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html"
     }
   ]
 }
