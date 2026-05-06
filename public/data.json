@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-05T17:57:02.491640+00:00",
+  "generatedAt": "2026-05-06T07:17:19.126103+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：穆斯克与奥特曼审判内幕，以及民主的人工智能",
+        "zh": "下载：穆斯克与阿尔特曼审判内幕，以及民主的人工智能",
         "en": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-        "de": "Der Download: Einblick in den Prozess Musk gegen Altman und KI für die Demokratie"
+        "de": "Der Download: Einblick in den Musk gegen Altman-Prozess und KI für die Demokratie"
       },
       "summary": {
-        "zh": "本期《下载》提供了关于穆斯克与奥特曼审判的最新动态，以及人工智能在民主中的应用前景。",
-        "en": "This edition of The Download provides the latest updates on the Musk v. Altman trial and the potential applications of AI in democracy.",
-        "de": "Diese Ausgabe von The Download bietet die neuesten Informationen zum Prozess Musk gegen Altman und den potenziellen Anwendungen von KI in der Demokratie."
+        "zh": "今天的下载提供了关于穆斯克与阿尔特曼审判的最新动态，以及人工智能在民主中的潜在应用。此事件吸引了广泛关注，涉及技术与伦理的交汇点。",
+        "en": "Today's Download provides updates on the Musk v. Altman trial and the potential applications of AI in democracy. This event has garnered widespread attention, touching on the intersection of technology and ethics.",
+        "de": "Der heutige Download bietet Updates zum Prozess Musk gegen Altman und zu den potenziellen Anwendungen von KI in der Demokratie. Dieses Ereignis hat große Aufmerksamkeit erregt und berührt den Schnittpunkt von Technologie und Ethik."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-05",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "利用人工智能加强民主的蓝图",
+        "zh": "使用人工智能加强民主的蓝图",
         "en": "A blueprint for using AI to strengthen democracy",
         "de": "Ein Plan zur Nutzung von KI zur Stärkung der Demokratie"
       },
       "summary": {
-        "zh": "每隔几个世纪，信息传播方式的变化重塑了社会的治理方式。人工智能被视为推动民主进程的关键工具。",
-        "en": "Every few centuries, changes in how information is disseminated reshape how societies govern themselves. AI is seen as a key tool in advancing democratic processes.",
-        "de": "Alle paar Jahrhunderte verändern sich die Methoden der Informationsverbreitung und prägen die Art und Weise, wie Gesellschaften sich selbst regieren. KI wird als Schlüsselwerkzeug zur Förderung demokratischer Prozesse angesehen."
+        "zh": "这篇文章探讨了如何利用人工智能技术来增强民主治理的能力，强调信息流动的变化对社会治理的影响。",
+        "en": "This article explores how AI technology can be leveraged to enhance democratic governance, emphasizing the impact of changes in information flow on societal governance.",
+        "de": "Dieser Artikel untersucht, wie KI-Technologie genutzt werden kann, um die demokratische Regierungsführung zu verbessern, und betont die Auswirkungen von Veränderungen im Informationsfluss auf die gesellschaftliche Regierungsführung."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-05",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "穆斯克与奥特曼审判第一周：房间内的情况",
+        "zh": "穆斯克与阿尔特曼审判第一周：房间里的情况",
         "en": "Week one of the Musk v. Altman trial: What it was like in the room",
         "de": "Woche eins des Prozesses Musk gegen Altman: Wie es im Raum war"
       },
       "summary": {
-        "zh": "在穆斯克与奥特曼的审判第一周，穆斯克在法庭上作证，提出了对OpenAI的批评，并警告人工智能可能带来的风险。",
-        "en": "In the first week of the Musk v. Altman trial, Musk testified in court, criticizing OpenAI and warning of the potential risks posed by AI.",
-        "de": "In der ersten Woche des Prozesses Musk gegen Altman sagte Musk vor Gericht aus, kritisierte OpenAI und warnte vor den potenziellen Risiken, die von KI ausgehen."
+        "zh": "第一周的审判揭示了穆斯克与阿尔特曼之间的紧张局势，涉及对人工智能的未来和道德责任的辩论。",
+        "en": "The first week of the trial revealed the tensions between Musk and Altman, involving debates over the future of AI and ethical responsibilities.",
+        "de": "Die erste Woche des Prozesses offenbarte die Spannungen zwischen Musk und Altman und beinhaltete Debatten über die Zukunft der KI und ethische Verantwortlichkeiten."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-04",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "英国定罪四名巴勒斯坦行动组织活动分子，因闯入以色列公司",
-        "en": "UK convicts four Palestine Action activists over break-in at Israeli firm",
-        "de": "Vereinigtes Königreich verurteilt vier Aktivisten von Palestine Action wegen Einbruchs in israelisches Unternehmen"
+        "zh": "加沙地区，最简单的婚礼几乎无法负担",
+        "en": "In Gaza, the simplest of weddings are barely affordable",
+        "de": "In Gaza sind die einfachsten Hochzeiten kaum bezahlbar"
       },
       "summary": {
-        "zh": "四名巴勒斯坦行动组织的成员因闯入以色列公司而被定罪，此事件发生在以色列与加沙的战争期间。",
-        "en": "Four members of the Palestine Action group have been convicted for breaking into an Israeli firm, an incident that occurred during Israel's war on Gaza.",
-        "de": "Vier Mitglieder der Gruppe Palestine Action wurden wegen des Einbruchs in ein israelisches Unternehmen verurteilt, ein Vorfall, der während Israels Krieg gegen Gaza stattfand."
+        "zh": "由于战争、流离失所和价格飙升，加沙地区的婚礼变得愈发艰难，许多新人只能在帐篷中举行简单的婚礼。",
+        "en": "Due to war, displacement, and soaring prices, weddings in Gaza have become increasingly difficult, with many couples forced to hold simple ceremonies in tents.",
+        "de": "Wegen des Krieges, der Vertreibung und der steigenden Preise sind Hochzeiten in Gaza zunehmend schwierig geworden, wobei viele Paare gezwungen sind, einfache Zeremonien in Zelten abzuhalten."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-05",
-      "url": "https://www.aljazeera.com/news/2026/5/5/uk-convicts-four-palestine-action-activists-over-break-in-at-israeli-firm?traffic_source=rss"
+      "date": "2026-05-06",
+      "url": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "微软、谷歌和xAI向美国提供人工智能模型以进行安全测试",
-        "en": "Microsoft, Google, xAI give US access to AI models for security testing",
-        "de": "Microsoft, Google und xAI gewähren den USA Zugang zu KI-Modellen für Sicherheitstests"
+        "zh": "以色列总统赫尔佐格的中美洲之行：你需要知道的",
+        "en": "What to know about Israeli President Herzog’s trip to Central America?",
+        "de": "Was Sie über den Besuch des israelischen Präsidenten Herzog in Mittelamerika wissen sollten?"
       },
       "summary": {
-        "zh": "微软、谷歌和xAI与美国达成协议，允许其访问人工智能模型以进行安全测试，此协议是在五家科技巨头与五角大楼达成合作后签署的。",
-        "en": "Microsoft, Google, and xAI have reached an agreement with the US to grant access to AI models for security testing, following a collaboration with seven tech giants and the Pentagon.",
-        "de": "Microsoft, Google und xAI haben eine Vereinbarung mit den USA getroffen, um den Zugang zu KI-Modellen für Sicherheitstests zu gewähren, nachdem eine Zusammenarbeit mit sieben Technologieriesen und dem Pentagon zustande gekommen ist."
+        "zh": "以色列外交部表示，赫尔佐格的为期四天的访问将加深与巴拿马和哥斯达黎加的伙伴关系。",
+        "en": "The Israeli Foreign Ministry states that Herzog's four-day visit will deepen ties with partners in Panama and Costa Rica.",
+        "de": "Das israelische Außenministerium erklärt, dass Herzogs viertägiger Besuch die Beziehungen zu Partnern in Panama und Costa Rica vertiefen wird."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-05",
-      "url": "https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing?traffic_source=rss"
+      "date": "2026-05-06",
+      "url": "https://www.aljazeera.com/news/2026/5/6/what-to-know-about-israeli-president-herzogs-trip-to-central-america?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰和俄罗斯在胜利日“停火”前互相发起无人机袭击",
-        "en": "Ukraine, Russia exchange drone strikes ahead of V-Day ‘ceasefire’",
-        "de": "Ukraine und Russland tauschen Drohnenangriffe vor dem 'Waffenstillstand' am V-Day aus"
+        "zh": "特朗普在鲁比奥访问梵蒂冈前重启与教皇的争执",
+        "en": "US president Trump restarts Pope feud ahead of Rubio visit to Vatican",
+        "de": "US-Präsident Trump beginnt den Streit mit dem Papst vor Rubios Besuch im Vatikan neu"
       },
       "summary": {
-        "zh": "乌克兰对莫斯科的多个目标进行了无人机袭击，俄罗斯则对乌克兰的天然气生产设施进行了反击，双方在胜利日停火前的紧张局势加剧。",
-        "en": "Ukraine has launched drone strikes on multiple sites in Moscow, while Russia has retaliated against a Ukrainian gas production facility, escalating tensions ahead of a proposed ceasefire on Victory Day.",
-        "de": "Die Ukraine hat Drohnenangriffe auf mehrere Standorte in Moskau gestartet, während Russland auf eine ukrainische Gasproduktionsanlage reagiert hat, was die Spannungen vor einem vorgeschlagenen Waffenstillstand am Tag des Sieges verschärft."
+        "zh": "特朗普再次公开攻击教皇，声称教皇支持伊朗获得核武器，这一言论在鲁比奥访问梵蒂冈前引发了争议。",
+        "en": "Trump has reignited his public attacks on the Pope, claiming that the Pope supports Iran obtaining nuclear weapons, sparking controversy ahead of Rubio's visit to the Vatican.",
+        "de": "Trump hat seine öffentlichen Angriffe auf den Papst neu entfacht und behauptet, der Papst unterstütze den Erwerb von Atomwaffen durch den Iran, was vor Rubios Besuch im Vatikan Kontroversen auslöste."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/ukraine-russia-exchange-drone-strikes-ahead-of-v-day?traffic_source=rss"
+      "date": "2026-05-06",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英美贸易逆差加剧，英国对美国出口暴跌25%",
-        "en": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
-        "de": "UK-Exporte in die USA stürzen nach Trumps 'Befreiungstag'-Zöllen um 25% ab"
+        "zh": "铝价飙升。公司如何应对成本",
+        "en": "Aluminum prices are surging. Here's how companies are handling the costs",
+        "de": "Die Aluminiumpreise steigen. So gehen Unternehmen mit den Kosten um"
       },
       "summary": {
-        "zh": "由于特朗普实施的关税政策，英国对美国的出口大幅下降，导致与美国的贸易逆差加剧。",
-        "en": "UK exports to the US have significantly declined due to tariffs imposed by Trump, leading to an increased trade deficit with its largest trading partner.",
-        "de": "Die Exporte des Vereinigten Königreichs in die USA sind aufgrund der von Trump verhängten Zölle erheblich gesunken, was zu einem erhöhten Handelsdefizit mit dem größten Handelspartner führt."
+        "zh": "由于伊朗战争以来铝价的飙升，美国一些大型公司面临成本压力，正在采取措施应对这一挑战。",
+        "en": "Due to the surge in aluminum prices since the start of the Iran war, some of America's largest companies are facing cost pressures and are taking measures to address this challenge.",
+        "de": "Aufgrund des Anstiegs der Aluminiumpreise seit Beginn des Iran-Kriegs sehen sich einige der größten Unternehmen Amerikas mit Kostenproblemen konfrontiert und ergreifen Maßnahmen, um diese Herausforderung zu bewältigen."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-05-05",
+      "url": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "特朗普的“解放日”关税冲击后，英国对美国的出口暴跌25%",
+        "en": "UK exports to U.S. plunge by 25% after Trump's 'liberation day' tariffs blitz",
+        "de": "Die britischen Exporte in die USA stürzen nach Trumps 'Befreiungstag'-Zollblitz um 25% ab"
+      },
+      "summary": {
+        "zh": "由于特朗普实施的关税政策，英国对美国的出口大幅下降，导致与美国的贸易逆差加大。",
+        "en": "Due to the tariff policies implemented by Trump, UK exports to the U.S. have significantly decreased, resulting in a widening trade deficit with its largest trading partner.",
+        "de": "Aufgrund der von Trump umgesetzten Zollpolitik sind die britischen Exporte in die USA erheblich gesunken, was zu einem wachsenden Handelsdefizit mit dem größten Handelspartner geführt hat."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
       "url": "https://www.cnbc.com/2026/05/01/uk-exports-us-fall-25-trump-tariffs-liberation-day.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "美联储反对者解释“否”票，称不应暗示下一步将降息",
+        "zh": "美联储异议者解释“否”票，称不同意暗示下一步将降息",
         "en": "Fed dissenters explain 'no' votes, saying they disagreed with hinting next move would be a cut",
-        "de": "Fed-Abweichler erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis auf eine mögliche Zinssenkung nicht einverstanden"
+        "de": "Fed-Dissidenten erklären 'Nein'-Stimmen und sagen, sie seien mit dem Hinweis, dass der nächste Schritt eine Senkung sein würde, nicht einverstanden"
       },
       "summary": {
-        "zh": "美联储的反对者解释了他们的“否”票，认为不应暗示下一步的政策将是降息。",
-        "en": "Dissenters within the Federal Reserve explain their 'no' votes, arguing that it was inappropriate to signal that the next policy move would be a rate cut.",
-        "de": "Abweichler innerhalb der Federal Reserve erklären ihre 'Nein'-Stimmen und argumentieren, dass es unangemessen war, darauf hinzuweisen, dass der nächste politische Schritt eine Zinssenkung sein würde."
+        "zh": "美联储内部的异议者解释了他们的“否”票，表示不同意暗示未来可能降息的信号，这引发了市场的关注。",
+        "en": "Dissenters within the Federal Reserve explained their 'no' votes, stating they disagreed with signaling a potential rate cut in the future, which has drawn market attention.",
+        "de": "Dissidenten innerhalb der Federal Reserve erklärten ihre 'Nein'-Stimmen und gaben an, dass sie mit dem Hinweis auf eine mögliche Zinssenkung in der Zukunft nicht einverstanden waren, was die Aufmerksamkeit des Marktes auf sich zog."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-01",
       "url": "https://www.cnbc.com/2026/05/01/fed-dissenters-explain-no-votes-saying-they-disagreed-with-hinting-next-move-would-be-a-cut.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "英央行和欧洲央行本月将维持利率不变",
-        "en": "Will rates go higher in Europe this week? Central banks confront stagflation threat",
-        "de": "Werden die Zinsen in Europa diese Woche steigen? Zentralbanken stehen vor der Bedrohung der Stagflation"
-      },
-      "summary": {
-        "zh": "预计欧洲央行和英格兰银行本月将保持利率不变，以应对经济放缓和通货膨胀的双重挑战。",
-        "en": "The European Central Bank and the Bank of England are expected to maintain interest rates this month in response to the dual challenges of economic slowdown and inflation.",
-        "de": "Die Europäische Zentralbank und die Bank von England werden voraussichtlich diesen Monat die Zinssätze beibehalten, um den doppelten Herausforderungen der wirtschaftlichen Verlangsamung und der Inflation zu begegnen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-04-30",
-      "url": "https://www.cnbc.com/2026/04/29/europes-central-banks-in-wait-and-see-mode-on-interest-rates.html"
     }
   ]
 }
