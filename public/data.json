@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T17:56:52.947469+00:00",
+  "generatedAt": "2026-05-07T07:25:50.593266+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Meeresbodenwissenschaft und militärische Chatbots"
       },
       "summary": {
-        "zh": "今天的下载提供了关于海底科学和军事聊天机器人的最新动态。",
-        "en": "Today's Download provides the latest updates on seafloor science and military chatbots.",
-        "de": "Der heutige Download bietet die neuesten Updates zur Meeresbodenwissenschaft und militärischen Chatbots."
+        "zh": "今天的《下载》提供了关于海底科学和军事聊天机器人的最新动态。技术的进步正在改变我们对海洋的理解和军事应用。",
+        "en": "Today's edition of The Download covers the latest in seafloor science and military chatbots. Advances in technology are changing our understanding of the ocean and military applications.",
+        "de": "Die heutige Ausgabe des Downloads behandelt die neuesten Entwicklungen in der Meeresbodenwissenschaft und militärischen Chatbots. Technologische Fortschritte verändern unser Verständnis des Ozeans und militärischer Anwendungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-06",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：马斯克与奥特曼的审判内幕，以及民主的人工智能",
+        "zh": "下载：马斯克与阿尔特曼的审判内幕，以及民主的人工智能",
         "en": "The Download: inside the Musk v. Altman trial, and AI for democracy",
         "de": "Der Download: Einblick in den Prozess Musk gegen Altman und KI für die Demokratie"
       },
       "summary": {
-        "zh": "今天的下载深入探讨了马斯克与奥特曼的审判及人工智能在民主中的作用。",
-        "en": "Today's Download delves into the Musk v. Altman trial and the role of AI in democracy.",
-        "de": "Der heutige Download beleuchtet den Prozess Musk gegen Altman und die Rolle der KI in der Demokratie."
+        "zh": "本期《下载》深入探讨了马斯克与阿尔特曼的审判及人工智能在民主中的作用。此案可能对未来的AI监管产生深远影响。",
+        "en": "This edition of The Download provides an in-depth look at the Musk v. Altman trial and the role of AI in democracy. The case could have far-reaching implications for future AI regulation.",
+        "de": "Diese Ausgabe des Downloads bietet einen tiefen Einblick in den Prozess Musk gegen Altman und die Rolle von KI in der Demokratie. Der Fall könnte weitreichende Auswirkungen auf die zukünftige KI-Regulierung haben."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-05",
@@ -41,9 +41,9 @@
         "de": "Ein Plan zur Nutzung von KI zur Stärkung der Demokratie"
       },
       "summary": {
-        "zh": "这篇文章探讨了如何利用人工智能来增强民主制度的蓝图。",
-        "en": "This article explores a blueprint for leveraging AI to enhance democratic systems.",
-        "de": "Dieser Artikel untersucht einen Plan zur Nutzung von KI zur Stärkung demokratischer Systeme."
+        "zh": "这篇文章探讨了如何利用人工智能来增强民主制度。历史上信息传播的变化对社会治理产生了深远的影响。",
+        "en": "This article explores how to leverage artificial intelligence to enhance democratic systems. Historically, changes in information dissemination have profoundly impacted societal governance.",
+        "de": "Dieser Artikel untersucht, wie künstliche Intelligenz zur Stärkung demokratischer Systeme genutzt werden kann. Historisch gesehen haben Veränderungen in der Informationsverbreitung tiefgreifende Auswirkungen auf die gesellschaftliche Governance gehabt."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-05",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "联合国要求以色列立即释放船队活动人士",
-        "en": "UN demands Israel immediately releases flotilla activists",
-        "de": "UN fordert Israel auf, Flottilenaktivisten sofort freizulassen"
+        "zh": "以色列对加沙的攻击造成一人死亡，哈马斯的阿尔哈亚之子受伤",
+        "en": "Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya",
+        "de": "Israelischer Angriff auf Gaza tötet eine Person, verwundet den Sohn von Hamass' al-Hayya"
       },
       "summary": {
-        "zh": "联合国呼吁以色列立即释放两名被拘留的活动人士，他们在前往加沙的船队中被捕。",
-        "en": "The United Nations has called on Israel to immediately release two activists detained on a flotilla bound for Gaza.",
-        "de": "Die Vereinten Nationen haben Israel aufgefordert, zwei Aktivisten, die auf einer nach Gaza fahrenden Flottille festgenommen wurden, sofort freizulassen."
+        "zh": "以色列对加沙的攻击导致一人死亡，哈马斯高级官员阿尔哈亚的儿子重伤。此事件加剧了地区紧张局势。",
+        "en": "An Israeli attack on Gaza has resulted in one death and serious injuries to the son of Hamas official al-Hayya. This incident escalates tensions in the region.",
+        "de": "Ein israelischer Angriff auf Gaza hat einen Tod und schwere Verletzungen des Sohnes des Hamas-Beamten al-Hayya zur Folge. Dieses Ereignis eskaliert die Spannungen in der Region."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/un-demands-israel-immediately-releases-flotilla-activists?traffic_source=rss"
+      "date": "2026-05-07",
+      "url": "https://www.aljazeera.com/news/2026/5/7/israeli-attack-on-gaza-kills-one-person-wounds-son-of-hamass-al-hayya?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "印度允许巴基斯坦运动员参加多边体育赛事",
-        "en": "It’s not cricket: Pakistan athletes allowed in India for multilateral sport",
-        "de": "Es ist kein Cricket: Pakistanische Athleten dürfen für multinationale Sportveranstaltungen nach Indien"
+        "zh": "法国为所有学生提供一欧元餐",
+        "en": "France introduces one-euro canteen meals for all students",
+        "de": "Frankreich führt Ein-Euro-Mahlzeiten für alle Studenten ein"
       },
       "summary": {
-        "zh": "印度政府允许巴基斯坦运动员参加多边体育赛事，但仍然禁止双边赛事如板球。",
-        "en": "India's government will allow Pakistani athletes to visit for multilateral sports but maintains a ban on bilateral events like cricket.",
-        "de": "Die indische Regierung wird pakistanischen Athleten die Einreise zu multinationalen Sportveranstaltungen erlauben, hält jedoch ein Verbot für bilaterale Veranstaltungen wie Cricket aufrecht."
+        "zh": "法国大学现在为所有学生提供一欧元的餐食，无论其收入如何。这一政策旨在减轻学生的经济负担。",
+        "en": "French universities are now offering one-euro meals to all students, regardless of income. This policy aims to alleviate the financial burden on students.",
+        "de": "Französische Universitäten bieten nun allen Studenten Ein-Euro-Mahlzeiten an, unabhängig vom Einkommen. Diese Politik zielt darauf ab, die finanzielle Belastung der Studenten zu verringern."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-06",
-      "url": "https://www.aljazeera.com/sports/2026/5/6/its-not-cricket-pakistan-athletes-allowed-in-india-for-multilateral-sport?traffic_source=rss"
+      "date": "2026-05-07",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/france-introduces-one%e2%80%91euro-canteen-meals-for-all-students?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "印度西孟加拉邦选举后暴力事件造成四人死亡",
-        "en": "Four killed in post-election violence in India’s West Bengal",
-        "de": "Vier Tote bei Wahlunruhen in Westbengalen, Indien"
+        "zh": "波利维亚警方对抗议教师发射催泪弹",
+        "en": "Bolivian police fire tear gas at protesting teachers",
+        "de": "Bolivianische Polizei setzt Tränengas gegen protestierende Lehrer ein"
       },
       "summary": {
-        "zh": "在莫迪的印度人民党首次赢得该州选举后，西孟加拉邦发生了暴力事件，造成四人死亡。",
-        "en": "Unrest grips West Bengal after Modi's Hindu nationalist BJP wins the state election for the first time, resulting in four deaths.",
-        "de": "Unruhen ergreifen Westbengalen, nachdem Modis hindu-nationalistische BJP die Landtagswahl zum ersten Mal gewonnen hat, was zu vier Todesfällen führt."
+        "zh": "波利维亚警方在拉巴斯对抗议的教师发射催泪弹，三组不同的抗议者聚集在一起反对政府。这一事件引发了公众的关注。",
+        "en": "Bolivian police fired tear gas at protesting teachers in La Paz, as three separate groups rallied against the government. This incident has drawn public attention.",
+        "de": "Die bolivianische Polizei setzte in La Paz Tränengas gegen protestierende Lehrer ein, während drei verschiedene Gruppen gegen die Regierung demonstrierten. Dieses Ereignis hat öffentliche Aufmerksamkeit erregt."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-06",
-      "url": "https://www.aljazeera.com/news/2026/5/6/four-killed-in-post-election-violence-in-indias-west-bengal?traffic_source=rss"
+      "date": "2026-05-07",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/bolivian-police-fire-tear-gas-at-protesting-teachers?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "纽约联邦储备银行研究显示，飙升的油价对低收入家庭的影响更大",
+        "zh": "纽约联储研究显示，飙升的油价对低收入家庭影响更大",
         "en": "Surging gas prices are hitting lower-income households harder, New York Fed study shows",
-        "de": "Steigende Benzinpreise belasten einkommensschwache Haushalte stärker, zeigt eine Studie der New Yorker Fed"
+        "de": "Steigende Gaspreise treffen einkommensschwache Haushalte härter, zeigt eine Studie der New Yorker Fed"
       },
       "summary": {
-        "zh": "研究表明，低收入消费者因油价上涨而减少消费，这对他们的生活造成了更大影响。",
-        "en": "The study shows that lower-income consumers are compensating for higher gas prices by buying less, significantly impacting their lives.",
-        "de": "Die Studie zeigt, dass einkommensschwache Verbraucher aufgrund steigender Benzinpreise weniger kaufen, was sich erheblich auf ihr Leben auswirkt."
+        "zh": "纽约联邦储备银行的研究表明，油价飙升对低收入家庭的影响更为严重。低收入消费者通过减少消费来应对更高的油价。",
+        "en": "A study by the New York Federal Reserve shows that surging gas prices are hitting lower-income households harder. Lower-income consumers are compensating for higher gas prices by buying less.",
+        "de": "Eine Studie der New Yorker Federal Reserve zeigt, dass steigende Gaspreise einkommensschwache Haushalte härter treffen. Haushalte mit niedrigem Einkommen kompensieren die höheren Gaspreise, indem sie weniger kaufen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-06",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "私营部门在四月增加了109,000个职位，超出预期",
+        "zh": "私营部门4月新增109,000个职位，超出预期",
         "en": "Private payrolls rose by 109,000 in April, topping expectations, ADP says",
-        "de": "Die Beschäftigung im privaten Sektor stieg im April um 109.000, über den Erwartungen, sagt ADP"
+        "de": "Private Beschäftigung stieg im April um 109.000, über den Erwartungen, sagt ADP"
       },
       "summary": {
-        "zh": "ADP报告显示，四月份私营部门新增职位超出预期，表明劳动力市场稳定，降低了美联储降息的压力。",
-        "en": "The ADP report indicates that private sector job growth in April exceeded expectations, suggesting a stable labor market and less pressure on the Fed to lower interest rates.",
-        "de": "Der ADP-Bericht zeigt, dass das Beschäftigungswachstum im privaten Sektor im April die Erwartungen übertroffen hat, was auf einen stabilen Arbeitsmarkt hinweist und den Druck auf die Fed verringert, die Zinssätze zu senken."
+        "zh": "ADP报告显示，4月份私营部门新增109,000个职位，超出预期。这一数据为稳定的劳动力市场提供了更多证据。",
+        "en": "ADP reports that private payrolls rose by 109,000 in April, topping expectations. This data provides more evidence of a stable labor market.",
+        "de": "ADP berichtet, dass die private Beschäftigung im April um 109.000 gestiegen ist, was die Erwartungen übertroffen hat. Diese Daten liefern weitere Beweise für einen stabilen Arbeitsmarkt."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-06",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "铝价飙升。以下是公司如何应对成本",
+        "zh": "铝价飙升，企业如何应对成本",
         "en": "Aluminum prices are surging. Here's how companies are handling the costs",
-        "de": "Die Aluminiumpreise steigen. So gehen Unternehmen mit den Kosten um"
+        "de": "Aluminiumpreise steigen stark. So gehen Unternehmen mit den Kosten um"
       },
       "summary": {
-        "zh": "铝价自伊朗战争开始以来飙升，给美国一些大型公司带来了成本压力。",
-        "en": "Aluminum prices have surged since the start of the Iran war, creating cost pressures for some of America's largest companies.",
-        "de": "Die Aluminiumpreise sind seit Beginn des Iran-Kriegs gestiegen, was zu Kostenbelastungen für einige der größten Unternehmen Amerikas führt."
+        "zh": "铝价自伊朗战争开始以来飙升，这给一些美国大型企业带来了成本压力。企业正在寻找应对策略以减轻影响。",
+        "en": "Aluminum prices have surged since the start of the Iran war, creating cost pressures for some of America's largest companies. Companies are seeking strategies to mitigate the impact.",
+        "de": "Die Aluminiumpreise sind seit Beginn des Iran-Kriegs stark gestiegen, was zu Kostenbelastungen für einige der größten Unternehmen Amerikas führt. Unternehmen suchen nach Strategien, um die Auswirkungen zu mildern."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-05",
