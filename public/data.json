@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-08T06:17:13.957841+00:00",
+  "generatedAt": "2026-05-08T17:48:42.625956+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：重塑IVF的技术和阳台太阳能的崛起",
-        "en": "The Download: the tech reshaping IVF and the rise of balcony solar",
-        "de": "Der Download: Die Technologie, die IVF umgestaltet und der Aufstieg der Balkon-Solarenergie"
+        "zh": "关于邮轮汉坦病毒爆发的你需要知道的事情：MIT科技评论解释",
+        "en": "Here’s what you need to know about the cruise ship hantavirus outbreak: MIT Technology Review Explains",
+        "de": "Hier ist, was Sie über den Hantavirus-Ausbruch auf dem Kreuzfahrtschiff wissen müssen: MIT Technology Review erklärt"
       },
       "summary": {
-        "zh": "今天的下载介绍了重塑体外受精（IVF）技术的最新进展，以及阳台太阳能在美国的崛起。许多州正在考虑立法，允许人们安装插电式太阳能系统。",
-        "en": "Today's Download covers the latest advancements in technology reshaping in vitro fertilization (IVF) and the rise of balcony solar in the U.S., with many states considering legislation to allow plug-in solar systems.",
-        "de": "Der heutige Download behandelt die neuesten Fortschritte in der Technologie, die die In-vitro-Fertilisation (IVF) umgestaltet, und den Aufstieg der Balkon-Solarenergie in den USA, wobei viele Bundesstaaten eine Gesetzgebung in Erwägung ziehen, die die Installation von Plug-in-Solarsystemen erlaubt."
+        "zh": "MIT科技评论对邮轮汉坦病毒爆发进行了详细分析，强调了疫情的影响和应对措施。该病毒的传播引发了全球关注，尤其是在与健康和安全相关的领域。",
+        "en": "MIT Technology Review provides a detailed analysis of the cruise ship hantavirus outbreak, highlighting its impact and response measures. The virus's spread has garnered global attention, particularly in health and safety sectors.",
+        "de": "Die MIT Technology Review bietet eine detaillierte Analyse des Hantavirus-Ausbruchs auf dem Kreuzfahrtschiff und hebt dessen Auswirkungen sowie Reaktionsmaßnahmen hervor. Die Verbreitung des Virus hat weltweit Aufmerksamkeit erregt, insbesondere im Gesundheits- und Sicherheitssektor."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-07",
-      "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/"
+      "date": "2026-05-08",
+      "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "Mozilla表示，Mythos发现的271个漏洞几乎没有误报",
-        "en": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
-        "de": "Mozilla sagt, dass 271 von Mythos gefundene Schwachstellen 'fast keine Fehlalarme' haben"
+        "zh": "下载：AI疲惫和生育技术：今天的下载",
+        "en": "The Download: AI malaise and babymaking tech",
+        "de": "Der Download: AI-Malaise und Babymaking-Technologie"
       },
       "summary": {
-        "zh": "Mozilla宣布其Firefox浏览器的安全性得到了提升，Mythos发现的271个漏洞几乎没有误报。这标志着AI辅助漏洞发现的有效性。",
-        "en": "Mozilla announced that the security of its Firefox browser has been enhanced, with 271 vulnerabilities found by Mythos having almost no false positives, marking the effectiveness of AI-assisted bug discovery.",
-        "de": "Mozilla gab bekannt, dass die Sicherheit seines Firefox-Browsers verbessert wurde, da 271 von Mythos gefundene Schwachstellen fast keine Fehlalarme aufweisen, was die Effektivität der KI-unterstützten Fehlersuche unterstreicht."
+        "zh": "今天的下载关注AI的疲惫感以及生育技术的进步，探讨了这些技术如何影响现代家庭的形成。文章提供了对当前技术趋势的深入见解。",
+        "en": "Today's Download focuses on the malaise surrounding AI and advancements in reproductive technology, exploring how these technologies impact modern family formation. The article provides in-depth insights into current technological trends.",
+        "de": "Der heutige Download konzentriert sich auf die Malaise rund um KI und Fortschritte in der Reproduktionstechnologie und untersucht, wie diese Technologien die moderne Familienbildung beeinflussen. Der Artikel bietet tiefgehende Einblicke in aktuelle Technologietrends."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-05-07",
-      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
+      "source": "MIT Technology Review",
+      "date": "2026-05-08",
+      "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "为医疗保健需求量身定制AI解决方案",
-        "en": "Tailoring AI solutions for health care needs",
-        "de": "Maßgeschneiderte KI-Lösungen für die Bedürfnisse des Gesundheitswesens"
+        "zh": "技术如何改变生育方式",
+        "en": "Here’s how technology transformed babymaking",
+        "de": "So hat Technologie die Fortpflanzung verändert"
       },
       "summary": {
-        "zh": "AI市场充满了对医疗保健领域的巨大变革的承诺，医疗保健正面临财务压力。定制化的AI解决方案被视为应对这些挑战的关键。",
-        "en": "The AI market is filled with promises of significant transformation in healthcare, which is facing financial pressures. Customized AI solutions are seen as key to addressing these challenges.",
-        "de": "Der KI-Markt ist voller Versprechungen für eine bedeutende Transformation im Gesundheitswesen, das unter finanziellen Druck steht. Maßgeschneiderte KI-Lösungen werden als Schlüssel zur Bewältigung dieser Herausforderungen angesehen."
+        "zh": "这篇文章探讨了技术如何改变生育方式，特别是试管婴儿技术的影响。科学家的开创性工作使得生育过程变得更加可控和高效。",
+        "en": "This article explores how technology has transformed the process of babymaking, particularly the impact of IVF technology. Pioneering work by scientists has made the reproductive process more controllable and efficient.",
+        "de": "Dieser Artikel untersucht, wie Technologie den Fortpflanzungsprozess verändert hat, insbesondere die Auswirkungen der IVF-Technologie. Pionierarbeit von Wissenschaftlern hat den Fortpflanzungsprozess kontrollierbarer und effizienter gemacht."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-04",
-      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/"
+      "date": "2026-05-08",
+      "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "前囚犯回忆以色列拘留中心的虐待",
-        "en": "Ex-prisoners recount abuse in Israeli detention centres",
-        "de": "Ehemalige Gefangene berichten von Misshandlungen in israelischen Haftzentren"
+        "zh": "奥林匹克水球辞职称缺乏尊重和轻视行为",
+        "en": "Olympic water polo resignations cite lack of respect, belittling behaviour",
+        "de": "Olympische Wasserball-Rücktritte wegen mangelnden Respekts und herabwürdigendem Verhalten"
       },
       "summary": {
-        "zh": "前巴勒斯坦囚犯讲述了他们在以色列拘留中心遭受的虐待和性暴力。这些证词引发了对以色列拘留政策的广泛关注。",
-        "en": "Former Palestinian detainees recount the abuse and sexual violence they faced in Israeli detention centers. These testimonies have sparked widespread concern over Israeli detention policies.",
-        "de": "Ehemalige palästinensische Häftlinge berichten von den Misshandlungen und sexuellen Übergriffen, die sie in israelischen Haftzentren erlitten haben. Diese Zeugenaussagen haben weitreichende Besorgnis über die israelischen Haftpraktiken ausgelöst."
+        "zh": "奥林匹克和欧洲水球冠军的多名成员因对塞尔维亚首席教练的不尊重行为集体辞职，表达了对其努力的不满。",
+        "en": "Several members of the Olympic and European water polo champions have collectively resigned due to disrespectful behavior from the Serbian chief coach, expressing dissatisfaction with their efforts.",
+        "de": "Mehrere Mitglieder der olympischen und europäischen Wasserballmeister haben aufgrund respektlosem Verhaltens des serbischen Cheftrainers kollektiv zurückgetreten und ihre Unzufriedenheit mit ihren Bemühungen zum Ausdruck gebracht."
       },
       "source": "Al Jazeera",
       "date": "2026-05-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/ex-prisoners-recount-abuse-in-israeli-detention-centres?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/5/8/olympic-waterpolo-coach-players-resign-over-belittling-and-lack-of-respect?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普表示停火仍然有效，但伊朗“最好尽快签署协议”",
-        "en": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
-        "de": "Trump sagt, dass der Waffenstillstand noch in Kraft ist, aber Iran 'schnell einen Vertrag unterschreiben sollte'"
+        "zh": "以色列对南黎巴嫩的袭击造成十多人死亡",
+        "en": "More than a dozen reported killed in Israeli attacks on south Lebanon",
+        "de": "Mehr als ein Dutzend Tote bei israelischen Angriffen auf den Süden Libanons gemeldet"
       },
       "summary": {
-        "zh": "美国总统特朗普表示，尽管霍尔木兹海峡发生冲突，停火仍然有效。他呼吁伊朗尽快签署协议，以避免进一步的紧张局势。",
-        "en": "U.S. President Trump stated that the ceasefire remains in effect despite clashes in the Strait of Hormuz. He urged Iran to sign an agreement quickly to avoid further tensions.",
-        "de": "US-Präsident Trump erklärte, dass der Waffenstillstand trotz der Zusammenstöße in der Straße von Hormuz weiterhin in Kraft ist. Er forderte Iran auf, schnell einen Vertrag zu unterzeichnen, um weitere Spannungen zu vermeiden."
+        "zh": "以色列对南黎巴嫩的空袭加剧，导致十多人死亡，此次袭击发生在预计下周在华盛顿举行的新一轮谈判之前。",
+        "en": "Israeli airstrikes on southern Lebanon have escalated, resulting in the deaths of more than a dozen people, occurring ahead of a new round of talks expected next week in Washington, DC.",
+        "de": "Die israelischen Luftangriffe auf den Süden Libanons haben sich verschärft und mehr als ein Dutzend Menschenleben gefordert, bevor eine neue Verhandlungsrunde in Washington, DC, erwartet wird."
       },
       "source": "Al Jazeera",
       "date": "2026-05-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "田纳西州批准拆分多数黑人区的地图",
-        "en": "Tennessee approves map dismantling majority-Black district",
-        "de": "Tennessee genehmigt Karte zur Zerschlagung des mehrheitlich schwarzen Bezirks"
+        "zh": "伊朗指责美国进行“鲁莽的军事冒险”",
+        "en": "Iran accuses US of 'reckless military adventure'",
+        "de": "Iran beschuldigt die USA einer 'reckless military adventure'"
       },
       "summary": {
-        "zh": "田纳西州通过了一项新国会地图，拆分了一个以孟菲斯为中心的多数黑人区。这一决定引发了对种族代表性和选区划分的争议。",
-        "en": "Tennessee has approved a new congressional map that dismantles a majority-Black district centered around Memphis. This decision has sparked controversy over racial representation and districting.",
-        "de": "Tennessee hat eine neue Kongresskarte genehmigt, die einen mehrheitlich schwarzen Bezirk rund um Memphis zerschlägt. Diese Entscheidung hat Kontroversen über die rassische Vertretung und die Wahlkreisaufteilung ausgelöst."
+        "zh": "伊朗外交官阿巴斯·阿拉赫奇指责美国在有外交解决方案的情况下进行军事攻击，称其为鲁莽的冒险行为。",
+        "en": "Iranian diplomat Abbas Araghchi accuses the US of conducting military attacks whenever a diplomatic solution is on the table, labeling it a reckless adventure.",
+        "de": "Der iranische Diplomat Abbas Araghchi beschuldigt die USA, militärische Angriffe durchzuführen, wann immer eine diplomatische Lösung auf dem Tisch liegt, und bezeichnet dies als rücksichtsvolles Abenteuer."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-05-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/tennessee-approves-map-dismantling-majority-black-district?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "油价在美国和伊朗交火后上涨；股指期货在法院驳回特朗普关税后保持平静",
-        "en": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs",
-        "de": "Öl-Futures steigen nach dem Feuerwechsel zwischen den USA und Iran; Aktienfutures ruhig nach der Ablehnung von Trumps Zöllen durch das Gericht"
+        "zh": "消费者信心在5月跌至新低，因油价飙升影响前景",
+        "en": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
+        "de": "Das Verbrauchervertrauen fällt im Mai auf einen neuen Rekordtiefstand, da steigende Benzinpreise die Aussichten belasten"
       },
       "summary": {
-        "zh": "在美国和伊朗交火后，油价上涨，而股指期货在法院驳回特朗普的关税后保持平静。这一局势对市场情绪产生了影响。",
-        "en": "Oil prices rose following the exchange of fire between the U.S. and Iran, while stock index futures remained quiet after a court rejected Trump's tariffs. This situation has impacted market sentiment.",
-        "de": "Die Ölpreise stiegen nach dem Feuerwechsel zwischen den USA und Iran, während die Aktienindex-Futures ruhig blieben, nachdem ein Gericht Trumps Zölle abgelehnt hatte. Diese Situation hat die Marktstimmung beeinflusst."
+        "zh": "由于伊朗战争导致油价飙升，消费者信心在5月初跌至新低。这一趋势可能会对经济复苏产生负面影响。",
+        "en": "Consumer sentiment has fallen to a new low in early May due to surging gas prices caused by the Iran war. This trend may negatively impact economic recovery.",
+        "de": "Das Verbrauchervertrauen ist Anfang Mai aufgrund der steigenden Benzinpreise, die durch den Iran-Krieg verursacht wurden, auf ein neues Tief gefallen. Dieser Trend könnte sich negativ auf die wirtschaftliche Erholung auswirken."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC",
       "date": "2026-05-08",
-      "url": "https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "Cloudflare将裁员20%，大举押注于AI。投资者并不买账。",
-        "en": "Cloudflare to cut 20% of staff in a big bet on AI. Investors aren’t sold.",
-        "de": "Cloudflare wird 20 % der Mitarbeiter entlassen, um stark auf KI zu setzen. Investoren sind nicht überzeugt."
+        "zh": "美国非农就业人数增长超出预期，但报告中有多个经济警示信号",
+        "en": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
+        "de": "Die US-Nonfarm-Payrolls steigen stärker als erwartet, aber der Bericht weist mehrere Warnsignale für die Wirtschaft auf"
       },
       "summary": {
-        "zh": "Cloudflare宣布将裁员20%，以大举押注于人工智能，但投资者对此反应冷淡，导致公司股价下跌。",
-        "en": "Cloudflare announced it will cut 20% of its staff to make a significant bet on AI, but investors reacted lukewarmly, resulting in a drop in the company's stock price.",
-        "de": "Cloudflare gab bekannt, dass es 20 % seiner Mitarbeiter entlassen wird, um stark auf KI zu setzen, aber die Investoren reagierten verhalten, was zu einem Rückgang des Aktienkurses des Unternehmens führte."
+        "zh": "美国非农就业人数在4月增长超过预期，但报告中显示出经济面临多重挑战的警示信号。这可能影响美联储的货币政策。",
+        "en": "U.S. nonfarm payrolls increased more than expected in April, but the report highlighted several warning signs for the economy. This could influence the Federal Reserve's monetary policy.",
+        "de": "Die US-Nonfarm-Payrolls stiegen im April stärker als erwartet, aber der Bericht hob mehrere Warnsignale für die Wirtschaft hervor. Dies könnte die Geldpolitik der Federal Reserve beeinflussen."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC",
       "date": "2026-05-08",
-      "url": "https://www.marketwatch.com/story/cloudflare-to-cut-20-of-staff-in-a-big-bet-on-ai-investors-arent-sold-501d4aa3?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "Iren的股票飙升，因Nvidia的重大投资掩盖了收入短缺",
-        "en": "Iren’s stock soars as a major Nvidia investment overshadows revenue shortfall",
-        "de": "Irens Aktien steigen, da eine große Nvidia-Investition die Umsatzlücke überdeckt"
+        "zh": "铝价飙升。公司如何应对成本",
+        "en": "Aluminum prices are surging. Here's how companies are handling the costs",
+        "de": "Die Aluminiumpreise steigen. So gehen Unternehmen mit den Kosten um"
       },
       "summary": {
-        "zh": "Iren的股票因Nvidia的重大投资而飙升，尽管公司面临收入短缺。这一投资被视为其未来增长的关键。",
-        "en": "Iren's stock soared due to a major investment from Nvidia, despite the company facing a revenue shortfall. This investment is seen as crucial for its future growth.",
-        "de": "Irens Aktien stiegen aufgrund einer großen Investition von Nvidia, obwohl das Unternehmen mit einem Umsatzrückgang konfrontiert ist. Diese Investition wird als entscheidend für das zukünftige Wachstum angesehen."
+        "zh": "铝价自伊朗战争开始以来持续上涨，给美国一些大型公司带来了成本压力。企业正在采取措施应对这一挑战。",
+        "en": "Aluminum prices have been rising steadily since the onset of the Iran war, creating cost pressures for some of America's largest companies. Businesses are taking measures to address this challenge.",
+        "de": "Die Aluminiumpreise steigen seit Beginn des Iran-Kriegs stetig an und verursachen Kostendruck für einige der größten Unternehmen Amerikas. Unternehmen ergreifen Maßnahmen, um diese Herausforderung zu bewältigen."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-05-08",
-      "url": "https://www.marketwatch.com/story/irens-stock-soars-as-a-major-nvidia-investment-overshadows-revenue-shortfall-c286cdb8?mod=mw_rss_topstories"
+      "source": "CNBC",
+      "date": "2026-05-05",
+      "url": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html"
     }
   ]
 }
