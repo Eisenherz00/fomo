@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T18:00:51.564823+00:00",
+  "generatedAt": "2026-05-08T06:17:13.957841+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Die Technologie, die IVF umgestaltet und der Aufstieg der Balkon-Solarenergie"
       },
       "summary": {
-        "zh": "今天的《下载》提供了有关技术领域的最新动态，包括重塑体外受精（IVF）的新技术和阳台太阳能的崛起。",
-        "en": "Today's edition of The Download provides insights into the latest developments in technology, including new technologies reshaping in vitro fertilization (IVF) and the rise of balcony solar energy.",
-        "de": "Die heutige Ausgabe von The Download bietet Einblicke in die neuesten Entwicklungen in der Technologie, einschließlich neuer Technologien, die die In-vitro-Fertilisation (IVF) umgestalten, und dem Aufstieg der Balkon-Solarenergie."
+        "zh": "今天的下载介绍了重塑体外受精（IVF）技术的最新进展，以及阳台太阳能在美国的崛起。许多州正在考虑立法，允许人们安装插电式太阳能系统。",
+        "en": "Today's Download covers the latest advancements in technology reshaping in vitro fertilization (IVF) and the rise of balcony solar in the U.S., with many states considering legislation to allow plug-in solar systems.",
+        "de": "Der heutige Download behandelt die neuesten Fortschritte in der Technologie, die die In-vitro-Fertilisation (IVF) umgestaltet, und den Aufstieg der Balkon-Solarenergie in den USA, wobei viele Bundesstaaten eine Gesetzgebung in Erwägung ziehen, die die Installation von Plug-in-Solarsystemen erlaubt."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-07",
@@ -20,134 +20,134 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "美国阳台太阳能热潮即将来临",
-        "en": "The balcony solar boom is coming to the US",
-        "de": "Der Balkon-Solarboom kommt in die USA"
+        "zh": "Mozilla表示，Mythos发现的271个漏洞几乎没有误报",
+        "en": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
+        "de": "Mozilla sagt, dass 271 von Mythos gefundene Schwachstellen 'fast keine Fehlalarme' haben"
       },
       "summary": {
-        "zh": "美国多个州正在考虑立法，允许人们安装插电式太阳能系统，通常被称为阳台太阳能，这一趋势正在迅速发展。",
-        "en": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often referred to as balcony solar, marking a rapid growth in this trend.",
-        "de": "Zahlreiche US-Bundesstaaten ziehen Gesetze in Betracht, die es den Menschen ermöglichen, Plug-in-Solarsysteme zu installieren, die oft als Balkon-Solar bezeichnet werden, was ein schnelles Wachstum dieses Trends markiert."
+        "zh": "Mozilla宣布其Firefox浏览器的安全性得到了提升，Mythos发现的271个漏洞几乎没有误报。这标志着AI辅助漏洞发现的有效性。",
+        "en": "Mozilla announced that the security of its Firefox browser has been enhanced, with 271 vulnerabilities found by Mythos having almost no false positives, marking the effectiveness of AI-assisted bug discovery.",
+        "de": "Mozilla gab bekannt, dass die Sicherheit seines Firefox-Browsers verbessert wurde, da 271 von Mythos gefundene Schwachstellen fast keine Fehlalarme aufweisen, was die Effektivität der KI-unterstützten Fehlersuche unterstreicht."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-05-07",
-      "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/"
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "IVF的未来：下一步是什么",
-        "en": "What’s next for IVF",
-        "de": "Was kommt als Nächstes für IVF"
+        "zh": "为医疗保健需求量身定制AI解决方案",
+        "en": "Tailoring AI solutions for health care needs",
+        "de": "Maßgeschneiderte KI-Lösungen für die Bedürfnisse des Gesundheitswesens"
       },
       "summary": {
-        "zh": "MIT科技评论的《下一步》系列探讨了影响IVF的趋势和技术，展望其未来发展。",
-        "en": "MIT Technology Review's What’s Next series explores trends and technologies impacting IVF, looking ahead to its future developments.",
-        "de": "Die Reihe „Was kommt als Nächstes“ der MIT Technology Review untersucht Trends und Technologien, die IVF beeinflussen, und blickt auf zukünftige Entwicklungen."
+        "zh": "AI市场充满了对医疗保健领域的巨大变革的承诺，医疗保健正面临财务压力。定制化的AI解决方案被视为应对这些挑战的关键。",
+        "en": "The AI market is filled with promises of significant transformation in healthcare, which is facing financial pressures. Customized AI solutions are seen as key to addressing these challenges.",
+        "de": "Der KI-Markt ist voller Versprechungen für eine bedeutende Transformation im Gesundheitswesen, das unter finanziellen Druck steht. Maßgeschneiderte KI-Lösungen werden als Schlüssel zur Bewältigung dieser Herausforderungen angesehen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-07",
-      "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/"
+      "date": "2026-05-04",
+      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国为何制裁伊拉克副油长帮助伊朗？",
-        "en": "Why has the US sanctioned Iraq’s deputy oil minister for helping Iran?",
-        "de": "Warum hat die USA den irakischen stellvertretenden Ölminister wegen Hilfe für den Iran sanktioniert?"
+        "zh": "前囚犯回忆以色列拘留中心的虐待",
+        "en": "Ex-prisoners recount abuse in Israeli detention centres",
+        "de": "Ehemalige Gefangene berichten von Misshandlungen in israelischen Haftzentren"
       },
       "summary": {
-        "zh": "美国指控伊拉克副油长阿里·马里杰·阿尔·巴哈德利帮助伊朗规避制裁并通过伊拉克出口石油。",
-        "en": "The US accuses Iraq's deputy oil minister Ali Maarij al-Bahadly of helping Iran evade sanctions and export oil through Iraq.",
-        "de": "Die USA beschuldigen den irakischen stellvertretenden Ölminister Ali Maarij al-Bahadly, dem Iran zu helfen, Sanktionen zu umgehen und Öl über den Irak zu exportieren."
+        "zh": "前巴勒斯坦囚犯讲述了他们在以色列拘留中心遭受的虐待和性暴力。这些证词引发了对以色列拘留政策的广泛关注。",
+        "en": "Former Palestinian detainees recount the abuse and sexual violence they faced in Israeli detention centers. These testimonies have sparked widespread concern over Israeli detention policies.",
+        "de": "Ehemalige palästinensische Häftlinge berichten von den Misshandlungen und sexuellen Übergriffen, die sie in israelischen Haftzentren erlitten haben. Diese Zeugenaussagen haben weitreichende Besorgnis über die israelischen Haftpraktiken ausgelöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-07",
-      "url": "https://www.aljazeera.com/news/2026/5/7/why-has-the-us-sanctioned-iraqs-deputy-oil-minister-for-helping-iran?traffic_source=rss"
+      "date": "2026-05-08",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/ex-prisoners-recount-abuse-in-israeli-detention-centres?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普呼吁对民主党高层哈基姆·杰弗里斯提起“煽动”指控",
-        "en": "Trump calls for ‘incitement’ charges against top Democrat Hakeem Jeffries",
-        "de": "Trump fordert 'Anstiftung'-Anklagen gegen den führenden Demokraten Hakeem Jeffries"
+        "zh": "特朗普表示停火仍然有效，但伊朗“最好尽快签署协议”",
+        "en": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
+        "de": "Trump sagt, dass der Waffenstillstand noch in Kraft ist, aber Iran 'schnell einen Vertrag unterschreiben sollte'"
       },
       "summary": {
-        "zh": "美国总统特朗普表示，众议院少数党领袖应因其关于选举地图的“最大战争”言论而被起诉。",
-        "en": "US President Trump states that the House minority leader should be indicted over his remarks about 'maximum warfare' related to election maps.",
-        "de": "US-Präsident Trump erklärt, dass der Minderheitsführer des Hauses wegen seiner Bemerkungen über 'maximale Kriegsführung' in Bezug auf Wahlkarten angeklagt werden sollte."
+        "zh": "美国总统特朗普表示，尽管霍尔木兹海峡发生冲突，停火仍然有效。他呼吁伊朗尽快签署协议，以避免进一步的紧张局势。",
+        "en": "U.S. President Trump stated that the ceasefire remains in effect despite clashes in the Strait of Hormuz. He urged Iran to sign an agreement quickly to avoid further tensions.",
+        "de": "US-Präsident Trump erklärte, dass der Waffenstillstand trotz der Zusammenstöße in der Straße von Hormuz weiterhin in Kraft ist. Er forderte Iran auf, schnell einen Vertrag zu unterzeichnen, um weitere Spannungen zu vermeiden."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-07",
-      "url": "https://www.aljazeera.com/news/2026/5/7/trump-calls-for-incitement-charges-against-top-democrat-hakeem-jeffries?traffic_source=rss"
+      "date": "2026-05-08",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "世卫组织确认与邮轮有关的五例汉坦病毒病例",
-        "en": "WHO confirms five cases of hantavirus linked to cruise ship",
-        "de": "WHO bestätigt fünf Fälle von Hantavirus, die mit einem Kreuzfahrtschiff verbunden sind"
+        "zh": "田纳西州批准拆分多数黑人区的地图",
+        "en": "Tennessee approves map dismantling majority-Black district",
+        "de": "Tennessee genehmigt Karte zur Zerschlagung des mehrheitlich schwarzen Bezirks"
       },
       "summary": {
-        "zh": "世卫组织确认与邮轮有关的五例汉坦病毒病例，这些病毒由啮齿动物传播，可能导致严重疾病。",
-        "en": "The WHO confirms five cases of hantavirus linked to a cruise ship, with hantaviruses being a group of viruses carried by rodents that can cause severe disease in humans.",
-        "de": "Die WHO bestätigt fünf Fälle von Hantavirus, die mit einem Kreuzfahrtschiff verbunden sind, wobei Hantaviren eine Gruppe von Viren sind, die von Nagetieren übertragen werden und beim Menschen schwere Krankheiten verursachen können."
+        "zh": "田纳西州通过了一项新国会地图，拆分了一个以孟菲斯为中心的多数黑人区。这一决定引发了对种族代表性和选区划分的争议。",
+        "en": "Tennessee has approved a new congressional map that dismantles a majority-Black district centered around Memphis. This decision has sparked controversy over racial representation and districting.",
+        "de": "Tennessee hat eine neue Kongresskarte genehmigt, die einen mehrheitlich schwarzen Bezirk rund um Memphis zerschlägt. Diese Entscheidung hat Kontroversen über die rassische Vertretung und die Wahlkreisaufteilung ausgelöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-07",
-      "url": "https://www.aljazeera.com/news/2026/5/7/who-confirms-five-cases-of-hantavirus-linked-to-cruise-ship?traffic_source=rss"
+      "date": "2026-05-08",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/tennessee-approves-map-dismantling-majority-black-district?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "周五四月就业报告发布前的预期",
-        "en": "Here's what to expect from Friday's release of the April jobs report",
-        "de": "Das ist zu erwarten von der Veröffentlichung des Arbeitsberichts für April am Freitag"
+        "zh": "油价在美国和伊朗交火后上涨；股指期货在法院驳回特朗普关税后保持平静",
+        "en": "Oil futures rise after U.S., Iran trade fire; stock futures quiet after court rejects Trump’s tariffs",
+        "de": "Öl-Futures steigen nach dem Feuerwechsel zwischen den USA und Iran; Aktienfutures ruhig nach der Ablehnung von Trumps Zöllen durch das Gericht"
       },
       "summary": {
-        "zh": "尽管面临多重挑战，劳动力市场总体稳定且韧性十足，预计周五将发布的四月就业报告将显示出这一点。",
-        "en": "Despite facing multiple challenges, the labor market remains generally stable and resilient, which is expected to be reflected in Friday's upcoming April jobs report.",
-        "de": "Trotz mehrerer Herausforderungen bleibt der Arbeitsmarkt insgesamt stabil und widerstandsfähig, was voraussichtlich im kommenden Arbeitsbericht für April am Freitag zum Ausdruck kommen wird."
+        "zh": "在美国和伊朗交火后，油价上涨，而股指期货在法院驳回特朗普的关税后保持平静。这一局势对市场情绪产生了影响。",
+        "en": "Oil prices rose following the exchange of fire between the U.S. and Iran, while stock index futures remained quiet after a court rejected Trump's tariffs. This situation has impacted market sentiment.",
+        "de": "Die Ölpreise stiegen nach dem Feuerwechsel zwischen den USA und Iran, während die Aktienindex-Futures ruhig blieben, nachdem ein Gericht Trumps Zölle abgelehnt hatte. Diese Situation hat die Marktstimmung beeinflusst."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-07",
-      "url": "https://www.cnbc.com/2026/05/07/heres-what-to-expect-from-fridays-release-of-the-april-jobs-report.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-08",
+      "url": "https://www.marketwatch.com/story/oil-futures-rise-after-u-s-iran-trade-fire-stock-futures-quiet-after-court-rejects-trumps-tariffs-4ee86b13?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "保罗·图多·琼斯表示，华尔什不可能让美联储降息",
-        "en": "There's 'no chance' Warsh will be able to get the Fed to cut rates, Paul Tudor Jones says",
-        "de": "Paul Tudor Jones sagt, dass es 'keine Chance' gibt, dass Warsh die Fed dazu bringen kann, die Zinsen zu senken"
+        "zh": "Cloudflare将裁员20%，大举押注于AI。投资者并不买账。",
+        "en": "Cloudflare to cut 20% of staff in a big bet on AI. Investors aren’t sold.",
+        "de": "Cloudflare wird 20 % der Mitarbeiter entlassen, um stark auf KI zu setzen. Investoren sind nicht überzeugt."
       },
       "summary": {
-        "zh": "保罗·图多·琼斯在一次采访中表示，他认为华尔什不会降息。",
-        "en": "Paul Tudor Jones stated during an interview that he believes Warsh will not be able to cut rates.",
-        "de": "Paul Tudor Jones erklärte in einem Interview, dass er glaubt, dass Warsh die Zinsen nicht senken kann."
+        "zh": "Cloudflare宣布将裁员20%，以大举押注于人工智能，但投资者对此反应冷淡，导致公司股价下跌。",
+        "en": "Cloudflare announced it will cut 20% of its staff to make a significant bet on AI, but investors reacted lukewarmly, resulting in a drop in the company's stock price.",
+        "de": "Cloudflare gab bekannt, dass es 20 % seiner Mitarbeiter entlassen wird, um stark auf KI zu setzen, aber die Investoren reagierten verhalten, was zu einem Rückgang des Aktienkurses des Unternehmens führte."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-07",
-      "url": "https://www.cnbc.com/2026/05/07/theres-no-chance-warsh-will-be-able-to-get-the-fed-to-cut-rates-paul-tudor-jones-says.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-08",
+      "url": "https://www.marketwatch.com/story/cloudflare-to-cut-20-of-staff-in-a-big-bet-on-ai-investors-arent-sold-501d4aa3?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "纽约联储研究显示，激增的油价对低收入家庭影响更大",
-        "en": "Surging gas prices are hitting lower-income households harder, New York Fed study shows",
-        "de": "Steigende Gaspreise treffen einkommensschwache Haushalte härter, zeigt eine Studie der New Yorker Fed"
+        "zh": "Iren的股票飙升，因Nvidia的重大投资掩盖了收入短缺",
+        "en": "Iren’s stock soars as a major Nvidia investment overshadows revenue shortfall",
+        "de": "Irens Aktien steigen, da eine große Nvidia-Investition die Umsatzlücke überdeckt"
       },
       "summary": {
-        "zh": "纽约联储的研究显示，低收入消费者因油价上涨而减少消费，这对他们的经济状况造成了更大压力。",
-        "en": "A study by the New York Fed shows that lower-income consumers are reducing their spending due to rising gas prices, putting greater pressure on their economic situation.",
-        "de": "Eine Studie der New Yorker Fed zeigt, dass einkommensschwache Verbraucher aufgrund steigender Gaspreise ihre Ausgaben reduzieren, was größeren Druck auf ihre wirtschaftliche Situation ausübt."
+        "zh": "Iren的股票因Nvidia的重大投资而飙升，尽管公司面临收入短缺。这一投资被视为其未来增长的关键。",
+        "en": "Iren's stock soared due to a major investment from Nvidia, despite the company facing a revenue shortfall. This investment is seen as crucial for its future growth.",
+        "de": "Irens Aktien stiegen aufgrund einer großen Investition von Nvidia, obwohl das Unternehmen mit einem Umsatzrückgang konfrontiert ist. Diese Investition wird als entscheidend für das zukünftige Wachstum angesehen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-06",
-      "url": "https://www.cnbc.com/2026/05/06/surging-gas-prices-are-hurting-lower-income-households-harder-study-shows.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-08",
+      "url": "https://www.marketwatch.com/story/irens-stock-soars-as-a-major-nvidia-investment-overshadows-revenue-shortfall-c286cdb8?mod=mw_rss_topstories"
     }
   ]
 }
