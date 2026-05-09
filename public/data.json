@@ -1,102 +1,102 @@
 {
-  "generatedAt": "2026-05-08T17:48:42.625956+00:00",
+  "generatedAt": "2026-05-09T06:34:05.232885+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "关于邮轮汉坦病毒爆发的你需要知道的事情：MIT科技评论解释",
-        "en": "Here’s what you need to know about the cruise ship hantavirus outbreak: MIT Technology Review Explains",
-        "de": "Hier ist, was Sie über den Hantavirus-Ausbruch auf dem Kreuzfahrtschiff wissen müssen: MIT Technology Review erklärt"
+        "zh": "马斯克与奥特曼的第二周：OpenAI反击，Shivon Zilis透露马斯克试图挖角山姆·奥特曼",
+        "en": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+        "de": "Musk gegen Altman Woche 2: OpenAI schlägt zurück, und Shivon Zilis enthüllt, dass Musk versuchte, Sam Altman abzuwerben"
       },
       "summary": {
-        "zh": "MIT科技评论对邮轮汉坦病毒爆发进行了详细分析，强调了疫情的影响和应对措施。该病毒的传播引发了全球关注，尤其是在与健康和安全相关的领域。",
-        "en": "MIT Technology Review provides a detailed analysis of the cruise ship hantavirus outbreak, highlighting its impact and response measures. The virus's spread has garnered global attention, particularly in health and safety sectors.",
-        "de": "Die MIT Technology Review bietet eine detaillierte Analyse des Hantavirus-Ausbruchs auf dem Kreuzfahrtschiff und hebt dessen Auswirkungen sowie Reaktionsmaßnahmen hervor. Die Verbreitung des Virus hat weltweit Aufmerksamkeit erregt, insbesondere im Gesundheits- und Sicherheitssektor."
+        "zh": "在马斯克与OpenAI之间的标志性审判的第二周，马斯克提起诉讼的动机受到审查。上周，马斯克的行为引发了广泛的关注。",
+        "en": "In the second week of the landmark trial between Musk and OpenAI, Musk's motivations for bringing the suit were scrutinized. Last week, Musk's actions drew significant attention.",
+        "de": "In der zweiten Woche des wegweisenden Prozesses zwischen Musk und OpenAI wurden Musks Motive für die Erhebung der Klage untersucht. In der letzten Woche erregten Musks Handlungen erhebliches Aufsehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-08",
-      "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/"
+      "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：AI疲惫和生育技术：今天的下载",
-        "en": "The Download: AI malaise and babymaking tech",
-        "de": "Der Download: AI-Malaise und Babymaking-Technologie"
+        "zh": "混乱爆发，网络攻击干扰学习平台Canvas，期末考试被推迟",
+        "en": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+        "de": "Chaos bricht aus, als ein Cyberangriff die Lernplattform Canvas während der Prüfungen stört"
       },
       "summary": {
-        "zh": "今天的下载关注AI的疲惫感以及生育技术的进步，探讨了这些技术如何影响现代家庭的形成。文章提供了对当前技术趋势的深入见解。",
-        "en": "Today's Download focuses on the malaise surrounding AI and advancements in reproductive technology, exploring how these technologies impact modern family formation. The article provides in-depth insights into current technological trends.",
-        "de": "Der heutige Download konzentriert sich auf die Malaise rund um KI und Fortschritte in der Reproduktionstechnologie und untersucht, wie diese Technologien die moderne Familienbildung beeinflussen. Der Artikel bietet tiefgehende Einblicke in aktuelle Technologietrends."
+        "zh": "全国范围内，学校和大学因网络攻击而推迟期末考试。Canvas平台的中断导致了广泛的混乱。",
+        "en": "Across the country, schools and colleges postponed year-end tests due to a cyberattack. The disruption of the Canvas platform caused widespread chaos.",
+        "de": "Im ganzen Land verschoben Schulen und Hochschulen aufgrund eines Cyberangriffs die Abschlussprüfungen. Die Störung der Canvas-Plattform führte zu weitreichendem Chaos."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-05-08",
-      "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/"
+      "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "技术如何改变生育方式",
-        "en": "Here’s how technology transformed babymaking",
-        "de": "So hat Technologie die Fortpflanzung verändert"
+        "zh": "Mozilla表示，Mythos发现的271个漏洞几乎没有假阳性",
+        "en": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
+        "de": "Mozilla sagt, dass 271 von Mythos gefundene Sicherheitsanfälligkeiten 'fast keine falsch positiven Ergebnisse' haben"
       },
       "summary": {
-        "zh": "这篇文章探讨了技术如何改变生育方式，特别是试管婴儿技术的影响。科学家的开创性工作使得生育过程变得更加可控和高效。",
-        "en": "This article explores how technology has transformed the process of babymaking, particularly the impact of IVF technology. Pioneering work by scientists has made the reproductive process more controllable and efficient.",
-        "de": "Dieser Artikel untersucht, wie Technologie den Fortpflanzungsprozess verändert hat, insbesondere die Auswirkungen der IVF-Technologie. Pionierarbeit von Wissenschaftlern hat den Fortpflanzungsprozess kontrollierbarer und effizienter gemacht."
+        "zh": "Firefox的开发者表示，他们对AI辅助的漏洞发现技术完全信任。Mythos的发现被认为是高效的。",
+        "en": "The developer of Firefox states that it has 'completely bought in' on AI-assisted bug discovery. The findings from Mythos are regarded as efficient.",
+        "de": "Der Entwickler von Firefox erklärt, dass er sich vollständig auf die KI-gestützte Fehlerentdeckung eingelassen hat. Die Ergebnisse von Mythos werden als effizient angesehen."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-05-08",
-      "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/"
+      "source": "Ars Technica – AI",
+      "date": "2026-05-07",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "奥林匹克水球辞职称缺乏尊重和轻视行为",
-        "en": "Olympic water polo resignations cite lack of respect, belittling behaviour",
-        "de": "Olympische Wasserball-Rücktritte wegen mangelnden Respekts und herabwürdigendem Verhalten"
+        "zh": "特朗普表示俄罗斯和乌克兰将观察三天停火",
+        "en": "Trump says Russia and Ukraine to observe three-day ceasefire",
+        "de": "Trump sagt, Russland und die Ukraine werden einen dreitägigen Waffenstillstand beobachten"
       },
       "summary": {
-        "zh": "奥林匹克和欧洲水球冠军的多名成员因对塞尔维亚首席教练的不尊重行为集体辞职，表达了对其努力的不满。",
-        "en": "Several members of the Olympic and European water polo champions have collectively resigned due to disrespectful behavior from the Serbian chief coach, expressing dissatisfaction with their efforts.",
-        "de": "Mehrere Mitglieder der olympischen und europäischen Wasserballmeister haben aufgrund respektlosem Verhaltens des serbischen Cheftrainers kollektiv zurückgetreten und ihre Unzufriedenheit mit ihren Bemühungen zum Ausdruck gebracht."
+        "zh": "特朗普宣布，俄罗斯和乌克兰将在庆祝苏联战胜纳粹德国的活动期间观察三天的停火。双方互相指责违反停火协议。",
+        "en": "Trump announced that Russia and Ukraine will observe a three-day ceasefire during the celebrations of the Soviet Union's victory over Nazi Germany. Both sides accused each other of violating ceasefire agreements.",
+        "de": "Trump kündigte an, dass Russland und die Ukraine während der Feierlichkeiten zum Sieg der Sowjetunion über Nazi-Deutschland einen dreitägigen Waffenstillstand einhalten werden. Beide Seiten beschuldigten sich gegenseitig, die Waffenstillstandsvereinbarungen verletzt zu haben."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-05-08",
-      "url": "https://www.aljazeera.com/sports/2026/5/8/olympic-waterpolo-coach-players-resign-over-belittling-and-lack-of-respect?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列对南黎巴嫩的袭击造成十多人死亡",
-        "en": "More than a dozen reported killed in Israeli attacks on south Lebanon",
-        "de": "Mehr als ein Dutzend Tote bei israelischen Angriffen auf den Süden Libanons gemeldet"
+        "zh": "美国预计德黑兰对和平协议的回应；霍尔木兹海发生“冲突”",
+        "en": "Iran war live: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
+        "de": "Iran-Krieg live: Die USA erwarten Teherans Antwort auf den Friedensvertrag; 'Zusammenstöße' im Hormus"
       },
       "summary": {
-        "zh": "以色列对南黎巴嫩的空袭加剧，导致十多人死亡，此次袭击发生在预计下周在华盛顿举行的新一轮谈判之前。",
-        "en": "Israeli airstrikes on southern Lebanon have escalated, resulting in the deaths of more than a dozen people, occurring ahead of a new round of talks expected next week in Washington, DC.",
-        "de": "Die israelischen Luftangriffe auf den Süden Libanons haben sich verschärft und mehr als ein Dutzend Menschenleben gefordert, bevor eine neue Verhandlungsrunde in Washington, DC, erwartet wird."
+        "zh": "美国预计德黑兰将对和平协议作出回应，同时霍尔木兹海发生冲突。以色列在南黎巴嫩造成31人死亡。",
+        "en": "The US expects Tehran to respond to the peace deal while clashes occur in the Strait of Hormuz. Israel killed 31 people in southern Lebanon.",
+        "de": "Die USA erwarten, dass Teheran auf den Friedensvertrag reagiert, während es im Hormus zu Zusammenstößen kommt. Israel tötete 31 Menschen im Süden Libanons."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-08",
-      "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon?traffic_source=rss"
+      "date": "2026-05-09",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗指责美国进行“鲁莽的军事冒险”",
+        "zh": "美国指责伊朗进行“鲁莽的军事冒险”",
         "en": "Iran accuses US of 'reckless military adventure'",
-        "de": "Iran beschuldigt die USA einer 'reckless military adventure'"
+        "de": "Iran beschuldigt die USA eines 'reckless military adventure'"
       },
       "summary": {
-        "zh": "伊朗外交官阿巴斯·阿拉赫奇指责美国在有外交解决方案的情况下进行军事攻击，称其为鲁莽的冒险行为。",
-        "en": "Iranian diplomat Abbas Araghchi accuses the US of conducting military attacks whenever a diplomatic solution is on the table, labeling it a reckless adventure.",
-        "de": "Der iranische Diplomat Abbas Araghchi beschuldigt die USA, militärische Angriffe durchzuführen, wann immer eine diplomatische Lösung auf dem Tisch liegt, und bezeichnet dies als rücksichtsvolles Abenteuer."
+        "zh": "伊朗官员阿巴斯·阿拉赫奇表示，美国的攻击每次在外交解决方案桌面上出现时都会发生。",
+        "en": "Iranian official Abbas Araghchi stated that US attacks occur every time a diplomatic solution is on the table.",
+        "de": "Der iranische Beamte Abbas Araghchi erklärte, dass US-Angriffe immer dann stattfinden, wenn eine diplomatische Lösung auf dem Tisch liegt."
       },
-      "source": "BBC News",
-      "date": "2026-05-08",
+      "source": "BBC News – World",
+      "date": "2026-05-09",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss"
     }
   ],
@@ -104,50 +104,50 @@
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者信心在5月跌至新低，因油价飙升影响前景",
-        "en": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
-        "de": "Das Verbrauchervertrauen fällt im Mai auf einen neuen Rekordtiefstand, da steigende Benzinpreise die Aussichten belasten"
+        "zh": "美联储迅速失去降息的理由",
+        "en": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+        "de": "Die Federal Reserve läuft schnell die Gründe aus, um die Zinssätze zu senken"
       },
       "summary": {
-        "zh": "由于伊朗战争导致油价飙升，消费者信心在5月初跌至新低。这一趋势可能会对经济复苏产生负面影响。",
-        "en": "Consumer sentiment has fallen to a new low in early May due to surging gas prices caused by the Iran war. This trend may negatively impact economic recovery.",
-        "de": "Das Verbrauchervertrauen ist Anfang Mai aufgrund der steigenden Benzinpreise, die durch den Iran-Krieg verursacht wurden, auf ein neues Tief gefallen. Dieser Trend könnte sich negativ auf die wirtschaftliche Erholung auswirken."
+        "zh": "最新的就业报告显示，美联储面临的主要担忧是生活成本日益难以承受，降息的理由正在减少。",
+        "en": "The latest jobs report indicates that the Federal Reserve's primary concern is the increasingly hard-to-bear cost of living, reducing the reasons for rate cuts.",
+        "de": "Der neueste Arbeitsbericht zeigt, dass die Hauptsorge der Federal Reserve die zunehmend schwer tragbaren Lebenshaltungskosten sind, was die Gründe für Zinssenkungen verringert."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-05-08",
-      "url": "https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html"
+      "url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国非农就业人数增长超出预期，但报告中有多个经济警示信号",
-        "en": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
-        "de": "Die US-Nonfarm-Payrolls steigen stärker als erwartet, aber der Bericht weist mehrere Warnsignale für die Wirtschaft auf"
+        "zh": "消费者信心在5月降至新低，飙升的油价影响前景",
+        "en": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
+        "de": "Das Verbrauchervertrauen fällt im Mai auf einen neuen Rekordtiefstand, da die steigenden Benzinpreise die Aussichten belasten"
       },
       "summary": {
-        "zh": "美国非农就业人数在4月增长超过预期，但报告中显示出经济面临多重挑战的警示信号。这可能影响美联储的货币政策。",
-        "en": "U.S. nonfarm payrolls increased more than expected in April, but the report highlighted several warning signs for the economy. This could influence the Federal Reserve's monetary policy.",
-        "de": "Die US-Nonfarm-Payrolls stiegen im April stärker als erwartet, aber der Bericht hob mehrere Warnsignale für die Wirtschaft hervor. Dies könnte die Geldpolitik der Federal Reserve beeinflussen."
+        "zh": "由于伊朗战争导致油价飙升，消费者信心在5月初降至新低，影响了经济前景。",
+        "en": "Due to surging gas prices from the Iran war, consumer sentiment fell to a new low in early May, impacting economic outlook.",
+        "de": "Aufgrund der steigenden Benzinpreise durch den Iran-Krieg fiel das Verbrauchervertrauen Anfang Mai auf ein neues Tief, was die wirtschaftlichen Aussichten beeinträchtigt."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-05-08",
-      "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html"
+      "url": "https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "铝价飙升。公司如何应对成本",
-        "en": "Aluminum prices are surging. Here's how companies are handling the costs",
-        "de": "Die Aluminiumpreise steigen. So gehen Unternehmen mit den Kosten um"
+        "zh": "美国非农就业人数意外大幅增长，但报告中有几个经济红旗",
+        "en": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
+        "de": "Die US-Löhne steigen unerwartet stark, aber der Bericht hatte mehrere rote Flaggen für die Wirtschaft"
       },
       "summary": {
-        "zh": "铝价自伊朗战争开始以来持续上涨，给美国一些大型公司带来了成本压力。企业正在采取措施应对这一挑战。",
-        "en": "Aluminum prices have been rising steadily since the onset of the Iran war, creating cost pressures for some of America's largest companies. Businesses are taking measures to address this challenge.",
-        "de": "Die Aluminiumpreise steigen seit Beginn des Iran-Kriegs stetig an und verursachen Kostendruck für einige der größten Unternehmen Amerikas. Unternehmen ergreifen Maßnahmen, um diese Herausforderung zu bewältigen."
+        "zh": "美国非农就业人数在4月意外增长，但报告中显示出经济的几个红旗，表明经济可能面临挑战。",
+        "en": "U.S. nonfarm payrolls unexpectedly increased in April, but the report showed several red flags indicating potential challenges for the economy.",
+        "de": "Die US-Nichtlandwirtschaftsgehälter stiegen im April unerwartet, aber der Bericht zeigte mehrere rote Flaggen, die auf potenzielle Herausforderungen für die Wirtschaft hinweisen."
       },
-      "source": "CNBC",
-      "date": "2026-05-05",
-      "url": "https://www.cnbc.com/2026/05/05/aluminum-prices-hormuz-ford-molson-coors.html"
+      "source": "CNBC – Markets",
+      "date": "2026-05-08",
+      "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html"
     }
   ]
 }
