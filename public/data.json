@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-09T17:26:35.099388+00:00",
+  "generatedAt": "2026-05-10T07:13:55.503982+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "马斯克与奥特曼的第二周：OpenAI反击，Shivon Zilis透露马斯克试图挖走萨姆·奥特曼",
+        "zh": "马斯克与奥特曼的第二周：OpenAI反击，Shivon Zilis透露马斯克试图挖角山姆·阿尔特曼",
         "en": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
         "de": "Musk gegen Altman Woche 2: OpenAI schlägt zurück, und Shivon Zilis enthüllt, dass Musk versuchte, Sam Altman abzuwerben"
       },
       "summary": {
-        "zh": "在马斯克与OpenAI之间的标志性审判的第二周，马斯克提起诉讼的动机受到审查。上周，马斯克的行为引发了广泛的关注。",
-        "en": "In the second week of the landmark trial between Musk and OpenAI, Musk's motivations for bringing the suit were scrutinized. Last week, Musk's actions drew widespread attention.",
-        "de": "In der zweiten Woche des wegweisenden Prozesses zwischen Musk und OpenAI wurden Musks Motive für die Klage untersucht. In der letzten Woche erregten Musks Handlungen breite Aufmerksamkeit."
+        "zh": "在马斯克与OpenAI之间的标志性诉讼的第二周，马斯克提起诉讼的动机受到审查。上周，OpenAI对马斯克的指控进行了反击。",
+        "en": "In the second week of the landmark trial between Musk and OpenAI, Musk's motivations for bringing the suit were under scrutiny. Last week, OpenAI fired back at Musk's allegations.",
+        "de": "In der zweiten Woche des wegweisenden Prozesses zwischen Musk und OpenAI wurde Musks Motivation für die Klage untersucht. In der letzten Woche hat OpenAI Musks Vorwürfe zurückgewiesen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-08",
@@ -20,98 +20,98 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "Mozilla表示，Mythos发现的271个漏洞几乎没有假阳性",
-        "en": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
-        "de": "Mozilla sagt, dass 271 von Mythos gefundene Schwachstellen 'fast keine falsch positiven Ergebnisse' haben"
-      },
-      "summary": {
-        "zh": "Mozilla宣布，Mythos发现的271个漏洞几乎没有假阳性，这表明其在AI辅助漏洞发现方面的有效性。",
-        "en": "Mozilla announced that the 271 vulnerabilities found by Mythos have almost no false positives, indicating its effectiveness in AI-assisted bug discovery.",
-        "de": "Mozilla gab bekannt, dass die 271 von Mythos gefundenen Schwachstellen fast keine falsch positiven Ergebnisse aufweisen, was auf die Wirksamkeit der KI-unterstützten Fehlersuche hinweist."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-05-07",
-      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "网络攻击在期末考试期间干扰学习平台Canvas",
+        "zh": "混乱爆发，网络攻击干扰学习平台Canvas，期末考试被推迟",
         "en": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
         "de": "Chaos bricht aus, als ein Cyberangriff die Lernplattform Canvas während der Abschlussprüfungen stört"
       },
       "summary": {
-        "zh": "全国范围内，学校和大学因网络攻击而推迟年终考试，Canvas学习平台受到严重干扰。",
-        "en": "Across the country, schools and colleges postponed year-end tests due to a cyberattack that severely disrupted the Canvas learning platform.",
-        "de": "Im ganzen Land verschoben Schulen und Hochschulen aufgrund eines Cyberangriffs, der die Lernplattform Canvas schwer störte, die Jahresendprüfungen."
+        "zh": "全国范围内，学校和大学因网络攻击而推迟年终考试。Canvas学习平台受到严重干扰，导致学生面临不确定性。",
+        "en": "Across the country, schools and colleges postponed year-end tests due to a cyberattack. The Canvas learning platform was severely disrupted, causing uncertainty for students.",
+        "de": "Im ganzen Land verschoben Schulen und Hochschulen aufgrund eines Cyberangriffs die Jahresendprüfungen. Die Lernplattform Canvas wurde schwer gestört, was zu Unsicherheiten für die Schüler führte."
       },
       "source": "Ars Technica – AI",
       "date": "2026-05-08",
       "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "Mozilla表示，Mythos发现的271个漏洞几乎没有误报",
+        "en": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
+        "de": "Mozilla sagt, dass 271 von Mythos gefundene Sicherheitsanfälligkeiten 'fast keine Fehlalarme' haben"
+      },
+      "summary": {
+        "zh": "Firefox的开发者表示，他们在AI辅助的漏洞发现上“完全投入”。这表明AI在安全领域的应用越来越受到重视。",
+        "en": "The developer of Firefox stated that it has 'completely bought in' on AI-assisted bug discovery. This indicates a growing emphasis on the application of AI in security.",
+        "de": "Der Entwickler von Firefox erklärte, dass er sich 'vollständig' auf die KI-unterstützte Fehlerentdeckung eingelassen hat. Dies zeigt eine wachsende Betonung der Anwendung von KI im Sicherheitsbereich."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-05-07",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列在黎巴嫩的攻击造成至少19人死亡",
-        "en": "Israeli attacks across Lebanon kill at least 19",
-        "de": "Israelische Angriffe im Libanon fordern mindestens 19 Todesopfer"
+        "zh": "受汉坦病毒疫情影响的邮轮抵达特内里费",
+        "en": "Cruise ship hit by hantavirus outbreak arrives in Tenerife",
+        "de": "Von einem Hantavirus-Ausbruch betroffene Kreuzfahrt schiff kommt in Teneriffa an"
       },
       "summary": {
-        "zh": "尽管有美国斡旋的停火协议，以色列的攻击仍在继续，预计下周将进行新一轮谈判。",
-        "en": "Despite a US-brokered ceasefire, Israeli attacks continue, with a new round of talks expected next week.",
-        "de": "Trotz eines von den USA vermittelten Waffenstillstands gehen die israelischen Angriffe weiter, und nächste Woche wird eine neue Verhandlungsrunde erwartet."
+        "zh": "受汉坦病毒疫情影响的邮轮抵达特内里费，医务人员正等待乘客的到来。汉坦病毒通常由啮齿动物传播，但在极少数情况下可以人传人。",
+        "en": "The cruise ship affected by the hantavirus outbreak has arrived in Tenerife, where medical personnel are awaiting the passengers. Hantavirus is usually spread by rodents but can, in rare cases, be transmitted person to person.",
+        "de": "Das von einem Hantavirus-Ausbruch betroffene Kreuzfahrtschiff ist in Teneriffa angekommen, wo medizinisches Personal auf die Passagiere wartet. Hantavirus wird normalerweise von Nagetieren übertragen, kann aber in seltenen Fällen auch von Mensch zu Mensch übertragen werden."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-09",
-      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19?traffic_source=rss"
+      "date": "2026-05-10",
+      "url": "https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "彼得·马加尔就职，标志着欧尔班时代的正式结束",
-        "en": "Péter Magyar Takes Office, Marking the Official End of the Orbán Era",
-        "de": "Péter Magyar tritt sein Amt an und markiert das offizielle Ende der Orbán-Ära"
+        "zh": "普京表示俄罗斯对乌克兰的战争“即将结束”",
+        "en": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
+        "de": "Putin deutet an, dass Russlands Krieg gegen die Ukraine 'zu Ende kommt'"
       },
       "summary": {
-        "zh": "彼得·马加尔正式宣誓就职，几乎一个月前击败维克多·欧尔班，成为匈牙利新总理。",
-        "en": "Péter Magyar has officially been sworn in as Hungary’s new prime minister, almost a month after defeating Viktor Orban.",
-        "de": "Péter Magyar wurde offiziell als neuer Ministerpräsident Ungarns vereidigt, fast einen Monat nachdem er Viktor Orbán besiegt hatte."
+        "zh": "俄罗斯总统普京表示，他认为与乌克兰的冲突“即将结束”，并表示愿意在第三国会见泽连斯基以达成长期和平协议。",
+        "en": "Russian President Putin suggested that he believes the conflict with Ukraine is 'coming to an end' and expressed willingness to meet Zelenskyy in a third country if a long-term peace deal is reached.",
+        "de": "Der russische Präsident Putin deutete an, dass er glaubt, der Konflikt mit der Ukraine 'zu Ende kommt', und äußerte die Bereitschaft, Zelenskyj in einem dritten Land zu treffen, wenn ein langfristiger Friedensvertrag erreicht wird."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/peter-magyar-takes-office-marking-the-official-end-of-the-orban-era-2?traffic_source=rss"
+      "date": "2026-05-10",
+      "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗在美国谈判中强调霍尔木兹的重要性，称其“如同原子弹”",
-        "en": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
-        "de": "‘Auf dem Niveau einer Atombombe’: Iran hebt die Bedeutung des Hormuz hervor, während die Gespräche mit den USA laufen"
+        "zh": "马克龙访问东非，推动重新定义法国在非洲的角色",
+        "en": "Macron tours East Africa amid push to redefine France’s role in Africa",
+        "de": "Macron besucht Ostafrika im Bestreben, Frankreichs Rolle in Afrika neu zu definieren"
       },
       "summary": {
-        "zh": "伊朗政治家表示，霍尔木兹海峡的能力可以通过单一决策影响整个全球经济。",
-        "en": "Iranian politicians state that the Strait of Hormuz represents a capability that can affect the entire global economy with a single decision.",
-        "de": "Iranische Politiker erklären, dass die Straße von Hormus eine Fähigkeit darstellt, die die gesamte Weltwirtschaft mit einer einzigen Entscheidung beeinflussen kann."
+        "zh": "法国总统马克龙在东非进行访问，旨在修复经济和安全关系，同时应对非洲日益增长的反法情绪。",
+        "en": "French President Macron is touring East Africa to repair economic and security ties while countering rising anti-French sentiment across the continent.",
+        "de": "Der französische Präsident Macron besucht Ostafrika, um wirtschaftliche und sicherheitspolitische Beziehungen zu reparieren und gleichzeitig der wachsenden anti-französischen Stimmung auf dem Kontinent entgegenzuwirken."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-09",
-      "url": "https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss"
+      "date": "2026-05-10",
+      "url": "https://www.aljazeera.com/news/2026/5/10/macron-tours-east-africa-amid-push-to-redefine-frances-role-in-africa?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储迅速耗尽降息理由",
+        "zh": "美联储迅速失去降息理由",
         "en": "The Federal Reserve is quickly running out of reasons to cut interest rates",
         "de": "Die Federal Reserve läuft schnell die Gründe aus, um die Zinssätze zu senken"
       },
       "summary": {
-        "zh": "周五的就业报告显示，中央银行面临的主要担忧是生活成本日益难以承受。",
-        "en": "Friday's jobs report indicated that the central bank's primary concern is the increasingly hard-to-bear cost of living.",
-        "de": "Der Arbeitsbericht vom Freitag deutete darauf hin, dass die Hauptsorge der Zentralbank die zunehmend schwer tragbare Lebenshaltungskosten sind."
+        "zh": "最新的就业报告显示，美联储面临的更大担忧是生活成本日益难以承受，这使得降息的理由迅速减少。",
+        "en": "The latest jobs report indicates that the Federal Reserve's larger concern is the increasingly unbearable cost of living, which is quickly diminishing the reasons for cutting interest rates.",
+        "de": "Der neueste Arbeitsbericht zeigt, dass die größere Sorge der Federal Reserve die zunehmend unerträglichen Lebenshaltungskosten sind, was die Gründe für eine Zinssenkung schnell verringert."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-08",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者信心在5月跌至新低",
+        "zh": "消费者信心在5月降至新低，油价飙升影响前景",
         "en": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
         "de": "Das Verbrauchervertrauen fällt im Mai auf einen neuen Rekordtiefstand, da steigende Benzinpreise die Aussichten belasten"
       },
       "summary": {
-        "zh": "由于伊朗战争导致的汽油价格飙升，消费者信心在5月初达到了新低。",
-        "en": "Surging gas prices due to the Iran war sent consumer sentiment to a new low in early May.",
-        "de": "Steigende Benzinpreise aufgrund des Iran-Kriegs haben das Verbrauchervertrauen Anfang Mai auf ein Rekordtief gesenkt."
+        "zh": "由于伊朗战争导致油价飙升，消费者信心在5月初降至新低。这一趋势可能对经济复苏产生负面影响。",
+        "en": "Due to surging gas prices from the Iran war, consumer sentiment has fallen to a new low in early May. This trend may negatively impact economic recovery.",
+        "de": "Aufgrund der steigenden Benzinpreise durch den Iran-Krieg ist das Verbrauchervertrauen Anfang Mai auf ein neues Tief gefallen. Dieser Trend könnte sich negativ auf die wirtschaftliche Erholung auswirken."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-08",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国非农就业人数超出预期",
+        "zh": "美国就业人数意外增长，但报告中有多个经济红旗",
         "en": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
-        "de": "Die US-Löhne steigen stärker als erwartet, aber der Bericht hatte mehrere Warnsignale für die Wirtschaft"
+        "de": "Die US-Löhne steigen unerwartet, aber der Bericht hatte mehrere Warnsignale für die Wirtschaft"
       },
       "summary": {
-        "zh": "非农就业人数预计在4月份增加55,000，但报告中出现了多个经济警示信号。",
-        "en": "Nonfarm payrolls were expected to increase by 55,000 in April, but the report had several red flags for the economy.",
-        "de": "Die Nonfarm-Löhne sollten im April um 55.000 steigen, aber der Bericht wies mehrere Warnsignale für die Wirtschaft auf."
+        "zh": "美国非农就业人数意外增加，但报告中出现了多个经济红旗，表明经济可能面临挑战。",
+        "en": "U.S. nonfarm payrolls unexpectedly increased, but the report contained several red flags indicating potential challenges for the economy.",
+        "de": "Die US-Nichtlandwirtschaftsgehälter stiegen unerwartet, aber der Bericht enthielt mehrere Warnsignale, die auf potenzielle Herausforderungen für die Wirtschaft hinweisen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-08",
