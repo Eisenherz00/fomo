@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-10T17:27:52.542251+00:00",
+  "generatedAt": "2026-05-11T08:01:53.035946+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "马斯克与奥特曼的第二周：OpenAI反击，Shivon Zilis透露马斯克试图挖走萨姆·阿尔特曼",
+        "zh": "马斯克与奥特曼的第二周：OpenAI反击，Shivon Zilis透露马斯克试图挖走萨姆·奥特曼",
         "en": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-        "de": "Musk gegen Altman Woche 2: OpenAI kontert, und Shivon Zilis enthüllt, dass Musk versucht hat, Sam Altman abzuwerben"
+        "de": "Musk gegen Altman Woche 2: OpenAI kontert, und Shivon Zilis enthüllt, dass Musk versuchte, Sam Altman abzuwerben"
       },
       "summary": {
-        "zh": "在马斯克与OpenAI的 landmark 诉讼的第二周，马斯克提起诉讼的动机受到审查。上周，马斯克试图挖走萨姆·阿尔特曼的消息被揭露。",
-        "en": "In the second week of the landmark trial between Musk and OpenAI, Musk's motivations for bringing the suit were scrutinized. Last week, it was revealed that Musk attempted to poach Sam Altman.",
-        "de": "In der zweiten Woche des wegweisenden Prozesses zwischen Musk und OpenAI wurden Musks Motive für die Klage untersucht. In der letzten Woche wurde bekannt, dass Musk versuchte, Sam Altman abzuwerben."
+        "zh": "在马斯克与OpenAI的 landmark 诉讼第二周，马斯克提起诉讼的动机受到审查。Shivon Zilis透露，马斯克曾试图挖走萨姆·奥特曼。",
+        "en": "In the second week of the landmark lawsuit between Musk and OpenAI, Musk's motivations for bringing the suit were scrutinized. Shivon Zilis revealed that Musk attempted to poach Sam Altman.",
+        "de": "In der zweiten Woche des wegweisenden Prozesses zwischen Musk und OpenAI wurde Musk's Motivation für die Klage untersucht. Shivon Zilis enthüllte, dass Musk versuchte, Sam Altman abzuwerben."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-08",
@@ -20,134 +20,134 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "Mozilla表示 Mythos 发现的 271 个漏洞几乎没有假阳性",
-        "en": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
-        "de": "Mozilla sagt, dass 271 von Mythos gefundene Schwachstellen 'fast keine falsch positiven Ergebnisse' haben"
-      },
-      "summary": {
-        "zh": "Firefox 的开发者表示，他们对 AI 辅助漏洞发现完全投入。此举标志着在网络安全领域的重大进展。",
-        "en": "The developer of Firefox states that it has fully committed to AI-assisted bug discovery. This marks a significant advancement in the field of cybersecurity.",
-        "de": "Der Entwickler von Firefox erklärt, dass er sich vollständig auf die KI-gestützte Fehlerentdeckung eingelassen hat. Dies stellt einen bedeutenden Fortschritt im Bereich der Cybersicherheit dar."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-05-07",
-      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "混乱爆发，网络攻击干扰学习平台 Canvas，期末考试被推迟",
+        "zh": "混乱爆发，网络攻击干扰学习平台Canvas，期末考试被推迟",
         "en": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
         "de": "Chaos bricht aus, als ein Cyberangriff die Lernplattform Canvas während der Abschlussprüfungen stört"
       },
       "summary": {
-        "zh": "全国范围内，学校和大学因网络攻击而推迟年终考试。此事件引发了对教育技术安全性的担忧。",
-        "en": "Across the country, schools and colleges postponed year-end tests due to a cyberattack. This incident raised concerns about the security of educational technology.",
-        "de": "Im ganzen Land verschoben Schulen und Hochschulen aufgrund eines Cyberangriffs die Jahresendprüfungen. Dieser Vorfall weckte Bedenken hinsichtlich der Sicherheit von Bildungstechnologien."
+        "zh": "全国范围内，学校和大学因网络攻击而推迟期末考试。Canvas学习平台遭到攻击，导致学生无法正常学习。",
+        "en": "Across the country, schools and colleges postponed year-end tests due to a cyberattack. The Canvas learning platform was disrupted, preventing students from studying effectively.",
+        "de": "Im ganzen Land verschoben Schulen und Hochschulen aufgrund eines Cyberangriffs die Abschlussprüfungen. Die Lernplattform Canvas wurde gestört, was die Studierenden daran hinderte, effektiv zu lernen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-05-08",
       "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "Mozilla表示，Mythos发现的271个漏洞几乎没有假阳性",
+        "en": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
+        "de": "Mozilla sagt, dass 271 von Mythos gefundene Sicherheitsanfälligkeiten 'fast keine falsch positiven Ergebnisse' haben"
+      },
+      "summary": {
+        "zh": "Firefox的开发者表示，他们已经完全投入到AI辅助的漏洞发现中，Mythos发现的271个漏洞几乎没有假阳性。",
+        "en": "The developer of Firefox stated that it has fully committed to AI-assisted bug discovery, with the 271 vulnerabilities found by Mythos having 'almost no false positives'.",
+        "de": "Der Entwickler von Firefox erklärte, dass er sich voll und ganz der KI-unterstützten Fehlersuche verschrieben hat, wobei die 271 von Mythos gefundenen Sicherheitsanfälligkeiten 'fast keine falsch positiven Ergebnisse' aufweisen."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-05-07",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "食品通胀重创战乱中的伊朗家庭",
-        "en": "Food inflation hammers households in war-hit Iran",
-        "de": "Lebensmittelinflation trifft Haushalte im kriegsgeplagten Iran hart"
+        "zh": "英国的基尔·斯塔默面临在工党选举失败后的挑战",
+        "en": "UK’s Keir Starmer faces likely challenge following Labour’s election defeat",
+        "de": "Der britische Keir Starmer steht nach der Wahlniederlage der Labour-Partei vor einer wahrscheinlichen Herausforderung"
       },
       "summary": {
-        "zh": "由于通货膨胀飙升和货币贬值，伊朗家庭面临急剧上涨的食品价格，情况因美国实施的海上封锁而进一步恶化。",
-        "en": "Iranians are facing skyrocketing food prices as inflation soars and the currency plunges, exacerbated by a US-enforced naval blockade.",
-        "de": "Die Iraner sehen sich mit rasant steigenden Lebensmittelpreisen konfrontiert, da die Inflation in die Höhe schnellt und die Währung fällt, was durch eine von den USA durchgesetzte Seeblockade verschärft wird."
+        "zh": "英国首相基尔·斯塔默将在周一发表演讲，试图说服公众相信他的领导能力，因工党在选举中遭遇失败。",
+        "en": "UK Prime Minister Keir Starmer is set to give a speech on Monday in a bid to convince the public of his leadership following the Labour Party's election defeat.",
+        "de": "Der britische Premierminister Keir Starmer wird am Montag eine Rede halten, um die Öffentlichkeit von seiner Führungskompetenz nach der Wahlniederlage der Labour-Partei zu überzeugen."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-10",
-      "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran?traffic_source=rss"
+      "date": "2026-05-11",
+      "url": "https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "普京暗示结束俄罗斯在乌克兰的战争，但为什么现在？",
-        "en": "Putin hints at ending Russia’s war in Ukraine, but why now?",
-        "de": "Putin deutet an, den Krieg Russlands in der Ukraine zu beenden, aber warum jetzt?"
+        "zh": "菲律宾国会准备弹劾副总统萨拉·杜特尔特",
+        "en": "Philippine Congress poised to impeach Vice President Sara Duterte",
+        "de": "Der philippinische Kongress steht kurz vor der Amtsenthebung von Vizepräsidentin Sara Duterte"
       },
       "summary": {
-        "zh": "在美国支持的停火背景下，普京表示和平谈判可能会取得进展，但更广泛的谈判仍然停滞不前。",
-        "en": "Amid a US-backed ceasefire, Putin signals that peace talks could progress, but broader negotiations remain stalled.",
-        "de": "Vor dem Hintergrund eines von den USA unterstützten Waffenstillstands deutet Putin an, dass Friedensgespräche Fortschritte machen könnten, aber umfassendere Verhandlungen bleiben ins Stocken geraten."
+        "zh": "菲律宾国会准备对副总统萨拉·杜特尔特提出弹劾投诉，要求将其免职并禁止其担任任何政府职务。",
+        "en": "The Philippine Congress is poised to file an impeachment complaint against Vice President Sara Duterte, seeking her removal from office and perpetual disqualification from any government position.",
+        "de": "Der philippinische Kongress steht kurz davor, eine Amtsenthebungsklage gegen Vizepräsidentin Sara Duterte einzureichen, um ihre Absetzung und die dauerhafte Unfähigkeit zu erwirken, ein Regierungsamt zu bekleiden."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-10",
-      "url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now?traffic_source=rss"
+      "date": "2026-05-11",
+      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-congress-poised-to-impeach-vice-president-sara-duterte?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗通过巴基斯坦向美国停火提案发送回应",
-        "en": "Iran sends response to US ceasefire proposal via Pakistan",
-        "de": "Iran sendet Antwort auf den US-Waffenstillstands Vorschlag über Pakistan"
+        "zh": "特朗普称伊朗的回应“完全不可接受”",
+        "en": "Trump calls Iran response “totally unacceptable”",
+        "de": "Trump bezeichnet Irans Antwort als 'völlig inakzeptabel'"
       },
       "summary": {
-        "zh": "德黑兰表示，谈判应集中在结束敌对行动和确保未来攻击的保证上。",
-        "en": "Tehran has stated that negotiations should focus on ending hostilities and securing guarantees against future attacks.",
-        "de": "Teheran hat erklärt, dass sich die Verhandlungen auf die Beendigung der Feindseligkeiten und die Sicherstellung von Garantien gegen zukünftige Angriffe konzentrieren sollten."
+        "zh": "特朗普拒绝了伊朗对美国和平提案的回应，称其“完全不可接受”，这引发了新的紧张局势。",
+        "en": "Trump rejected Iran's response to the U.S. peace proposal, calling it 'totally unacceptable', escalating tensions in the region.",
+        "de": "Trump wies Irans Antwort auf den US-Friedensvorschlag als 'völlig inakzeptabel' zurück und eskalierte damit die Spannungen in der Region."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss"
+      "date": "2026-05-11",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/aje-onl-nf_tv-pkg_trump-rejects-iran-response-110526?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "零售商正在招聘狂潮，但消费者发出警告信号",
-        "en": "Retailers are on a hiring spree. But consumers are sending warning signs",
-        "de": "Einzelhändler sind auf einer Einstellungstour. Aber die Verbraucher senden Warnsignale"
+        "zh": "伊朗表示不会屈服，特朗普拒绝和平反提案，延长中东冲突",
+        "en": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict",
+        "de": "Iran sagt, es wird 'niemals kapitulieren', während Trump das Friedensgegenangebot ablehnt und den Konflikt im Nahen Osten verlängert"
       },
       "summary": {
-        "zh": "零售业在四月份新增近22,000个职位，占总就业增长的五分之一。然而，消费者的警告信号可能暗示经济放缓。",
-        "en": "Retail trades added nearly 22,000 jobs in April, accounting for about one-fifth of total job growth. However, consumer warning signs may indicate an economic slowdown.",
-        "de": "Der Einzelhandel hat im April fast 22.000 Arbeitsplätze geschaffen, was etwa ein Fünftel des gesamten Beschäftigungswachstums ausmacht. Allerdings könnten Warnsignale der Verbraucher auf eine wirtschaftliche Abkühlung hindeuten."
+        "zh": "特朗普拒绝了伊朗的和平反提案，导致中东冲突的延续。美国试图施压中国对德黑兰施加影响，但中国的意愿尚不明确。",
+        "en": "Trump's rejection of Iran's peace counteroffer prolongs the Middle East conflict. The U.S. has sought to pressure China to influence Tehran, though China's willingness to act remains unclear.",
+        "de": "Trumps Ablehnung von Irans Friedensgegenangebot verlängert den Konflikt im Nahen Osten. Die USA haben versucht, China unter Druck zu setzen, um Teheran zu beeinflussen, aber Chinas Bereitschaft zu handeln bleibt unklar."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-10",
-      "url": "https://www.cnbc.com/2026/05/10/retailer-hiring-consumer-warning-jobs-report.html"
+      "date": "2026-05-11",
+      "url": "https://www.cnbc.com/2026/05/11/iran-war-trump-negotiation-hormuz-nuclear-talks.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美联储迅速耗尽降息理由",
-        "en": "The Federal Reserve is quickly running out of reasons to cut interest rates",
-        "de": "Die Federal Reserve läuft schnell die Gründe aus, um die Zinssätze zu senken"
+        "zh": "从新加坡到布鲁塞尔，世界领导人远观特朗普-习峰会",
+        "en": "From Singapore to Brussels, world leaders eye Trump-Xi summit from afar",
+        "de": "Von Singapur bis Brüssel beobachten die Weltführer den Trump-Xi-Gipfel aus der Ferne"
       },
       "summary": {
-        "zh": "周五的就业报告显示，生活成本日益难以承受，成为美联储的主要担忧。",
-        "en": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
-        "de": "Der Arbeitsbericht vom Freitag lieferte Beweise dafür, dass die größere Sorge der Zentralbank die Lebenshaltungskosten sind, die zunehmend schwer zu tragen sind."
+        "zh": "全球领导人关注特朗普与习近平的峰会，期待其对国际关系的潜在影响。",
+        "en": "World leaders are watching the Trump-Xi summit closely, anticipating its potential impact on international relations.",
+        "de": "Weltführer beobachten den Trump-Xi-Gipfel genau und erwarten seine potenziellen Auswirkungen auf die internationalen Beziehungen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-08",
-      "url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html"
+      "date": "2026-05-11",
+      "url": "https://www.cnbc.com/2026/05/11/trump-xi-summit-beijing-global-leaders-iran-war-taiwan-strait-of-hormuz-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "消费者信心在5月创下新低，因油价飙升影响前景",
-        "en": "Consumer sentiment falls to fresh record low in May as surging gas prices hit outlook",
-        "de": "Das Verbrauchervertrauen fällt im Mai auf ein neues Rekordtief, da die steigenden Benzinpreise die Aussichten belasten"
+        "zh": "零售商正在招聘热潮中，但消费者发出警告信号",
+        "en": "Retailers are on a hiring spree. But consumers are sending warning signs",
+        "de": "Einzelhändler sind auf Einstellungstour. Doch die Verbraucher senden Warnsignale"
       },
       "summary": {
-        "zh": "由于伊朗战争导致油价飙升，消费者信心在5月初降至新低。这可能对经济复苏构成威胁。",
-        "en": "Surging gas prices due to the Iran war sent consumer sentiment to a new low in early May. This could pose a threat to economic recovery.",
-        "de": "Steigende Benzinpreise aufgrund des Iran-Kriegs haben das Verbrauchervertrauen Anfang Mai auf ein neues Tief gesenkt. Dies könnte eine Bedrohung für die wirtschaftliche Erholung darstellen."
+        "zh": "尽管零售行业在4月份增加了近22,000个职位，但消费者的警告信号表明经济可能面临挑战。",
+        "en": "Retailers added nearly 22,000 jobs in April, but consumer warning signs indicate potential challenges for the economy.",
+        "de": "Einzelhändler haben im April fast 22.000 Arbeitsplätze geschaffen, aber Warnsignale der Verbraucher deuten auf potenzielle Herausforderungen für die Wirtschaft hin."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-08",
-      "url": "https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html"
+      "date": "2026-05-10",
+      "url": "https://www.cnbc.com/2026/05/10/retailer-hiring-consumer-warning-jobs-report.html"
     }
   ]
 }
