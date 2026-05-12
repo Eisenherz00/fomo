@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-12T07:24:10.196334+00:00",
+  "generatedAt": "2026-05-12T18:20:48.130136+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "诺贝尔获奖经济学家认为值得关注的三件AI事情",
-        "en": "Three things in AI to watch, according to a Nobel-winning economist",
-        "de": "Drei Dinge in der KI, die man im Auge behalten sollte, laut einem Nobelpreisträger"
+        "zh": "世界模型：当前人工智能中10个重要事项",
+        "en": "World Models: 10 Things That Matter in AI Right Now",
+        "de": "Weltmodelle: 10 Dinge, die jetzt in der KI wichtig sind"
       },
       "summary": {
-        "zh": "一位诺贝尔获奖经济学家指出，未来AI领域值得关注的三大趋势，包括技术的进步和应用的广泛性。",
-        "en": "A Nobel-winning economist highlights three major trends in AI to watch, including advancements in technology and the broadening of applications.",
-        "de": "Ein Nobelpreisträger hebt drei wichtige Trends in der KI hervor, die man im Auge behalten sollte, darunter technologische Fortschritte und die Ausweitung der Anwendungen."
+        "zh": "世界模型最近被列入当前人工智能中10个重要事项之一。执行编辑Niall Firth解释了这一新兴领域的重要性。",
+        "en": "World models recently made our list of 10 Things That Matter in AI Right Now. Executive editor Niall Firth explains the importance of this emerging area.",
+        "de": "Weltmodelle wurden kürzlich in unsere Liste der 10 Dinge aufgenommen, die jetzt in der KI wichtig sind. Chefredakteur Niall Firth erklärt die Bedeutung dieses aufstrebenden Bereichs."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-11",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
+      "date": "2026-05-12",
+      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "通过客户反向工程促进突破性AI创新",
-        "en": "Fostering breakthrough AI innovation through customer-back engineering",
-        "de": "Durch kundenorientierte Ingenieurskunst bahnbrechende KI-Innovationen fördern"
+        "zh": "下载：诺贝尔奖得主谈人工智能，以及修复一切的理由",
+        "en": "The Download: a Nobel winner on AI, and the case for fixing everything",
+        "de": "Der Download: Ein Nobelpreisträger über KI und das Plädoyer für die Behebung aller Probleme"
       },
       "summary": {
-        "zh": "尽管数字化已持续多年，组织从数字投资中获得的价值仍不到三分之一，麦肯锡的研究指出了客户反向工程的重要性。",
-        "en": "Despite years of digitization, organizations capture less than one-third of the expected value from digital investments, highlighting the importance of customer-back engineering according to McKinsey research.",
-        "de": "Trotz jahrelanger Digitalisierung erfassen Organisationen weniger als ein Drittel des erwarteten Wertes aus digitalen Investitionen, was die Bedeutung der kundenorientierten Ingenieurskunst laut McKinsey-Forschung hervorhebt."
+        "zh": "今天的下载版提供了关于技术世界的最新动态，包括诺贝尔奖得主对人工智能的看法，以及修复一切的必要性。",
+        "en": "Today's edition of The Download provides insights into the world of technology, including a Nobel winner's perspective on AI and the necessity of fixing everything.",
+        "de": "Die heutige Ausgabe von The Download bietet Einblicke in die Welt der Technologie, einschließlich der Perspektive eines Nobelpreisträgers zur KI und der Notwendigkeit, alles zu reparieren."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-11",
-      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/"
+      "date": "2026-05-12",
+      "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "在金融领域实施先进的AI技术",
-        "en": "Implementing advanced AI technologies in finance",
-        "de": "Implementierung fortschrittlicher KI-Technologien im Finanzwesen"
+        "zh": "诺贝尔经济学家：关注人工智能的三件事",
+        "en": "Three things in AI to watch, according to a Nobel-winning economist",
+        "de": "Drei Dinge in der KI, die man im Auge behalten sollte, laut einem Nobelpreisträger"
       },
       "summary": {
-        "zh": "在金融部门，AI的引入并非简单的升级，而是作为一种静默的变革力量出现，改变了传统的精确和控制方式。",
-        "en": "In finance departments, the introduction of AI has emerged not as a simple upgrade but as a quiet force of transformation, altering traditional precision and control.",
-        "de": "In den Finanzabteilungen hat sich die Einführung von KI nicht als einfache Aufrüstung, sondern als stille Kraft der Transformation herausgestellt, die die traditionelle Präzision und Kontrolle verändert."
+        "zh": "根据一位诺贝尔经济学家的观点，当前人工智能领域有三件重要事情值得关注。这些观察可能会影响未来的发展方向。",
+        "en": "According to a Nobel-winning economist, there are three important things to watch in the current AI landscape. These observations may influence future directions.",
+        "de": "Laut einem Nobelpreisträger gibt es drei wichtige Dinge, die man in der aktuellen KI-Landschaft im Auge behalten sollte. Diese Beobachtungen könnten zukünftige Entwicklungen beeinflussen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-11",
-      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/"
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "为什么以色列被允许参加欧洲歌唱大赛？",
-        "en": "Why is Israel allowed to take part in the Eurovision song contest?",
-        "de": "Warum darf Israel am Eurovision Song Contest teilnehmen?"
+        "zh": "美国面临因伊朗战争推动能源价格和通货膨胀上升的成本",
+        "en": "US faces rising costs with Iran war driving energy prices, inflation higher",
+        "de": "Die USA sieht sich steigenden Kosten gegenüber, da der Iran-Krieg die Energiepreise und die Inflation in die Höhe treibt"
       },
       "summary": {
-        "zh": "在即将于5月16日举行的第70届欧洲歌唱大赛上，五个国家因以色列在加沙的战争而抵制该活动。",
-        "en": "Five countries are boycotting the 70th edition of Eurovision on May 16 in protest over Israel's genocidal war on Gaza.",
-        "de": "Fünf Länder boykottieren die 70. Ausgabe des Eurovision Song Contests am 16. Mai als Protest gegen Israels völkermörderischen Krieg in Gaza."
+        "zh": "由于能源成本飙升，美国消费者价格在四月份大幅上涨，汽油价格较去年上涨近30%。",
+        "en": "Consumer prices spiked in April due to soaring energy costs, with petrol prices up nearly 30 percent since last year.",
+        "de": "Die Verbraucherpreise stiegen im April aufgrund der stark steigenden Energiekosten, wobei die Benzinpreise seit dem letzten Jahr um fast 30 Prozent gestiegen sind."
       },
       "source": "Al Jazeera",
       "date": "2026-05-12",
-      "url": "https://www.aljazeera.com/news/2026/5/12/why-is-israel-allowed-to-take-part-in-the-eurovision-song-contest?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗战争：德黑兰准备“进攻”的第74天发生了什么",
-        "en": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
-        "de": "Iran-Krieg: Was am 74. Tag passiert, während Teheran bereit für 'Aggression' sagt"
+        "zh": "美国民主党在加沙的斗争及其对2028年选举的影响",
+        "en": "Inside US Democrats’ Gaza fight – and what it means for 2028 elections",
+        "de": "Einblick in den Gaza-Kampf der US-Demokraten – und was das für die Wahlen 2028 bedeutet"
       },
       "summary": {
-        "zh": "美国与伊朗的紧张关系依然高涨，德黑兰警告不要进行“侵略”，特朗普表示停火处于“生命维持”状态。",
-        "en": "US-Iran tensions remain high as Tehran warns against 'aggression' and Trump says the ceasefire is on 'life support'.",
-        "de": "Die Spannungen zwischen den USA und dem Iran bleiben hoch, während Teheran vor 'Aggression' warnt und Trump sagt, der Waffenstillstand sei auf 'lebenswichtige Unterstützung' angewiesen."
+        "zh": "美国民主党在以色列问题上出现分歧，支持以色列的立场不再是不可触碰的。这可能是该党转折点的标志。",
+        "en": "The US Democrats are divided on the issue of Israel, with support for Israel no longer being untouchable. This could signify a turning point for the party.",
+        "de": "Die US-Demokraten sind in der Frage Israels gespalten, wobei die Unterstützung für Israel nicht mehr als unantastbar gilt. Dies könnte einen Wendepunkt für die Partei darstellen."
       },
       "source": "Al Jazeera",
       "date": "2026-05-12",
-      "url": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/12/aje-onl-tt_usa_palandthedemocrats_av_v3-110526?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "马来西亚在船只倾覆后救起23名移民，14人仍失踪",
-        "en": "Malaysia rescues 23 migrants after boat capsizes, 14 still missing",
-        "de": "Malaysia rettet 23 Migranten nach dem Kentern eines Bootes, 14 weiterhin vermisst"
+        "zh": "以色列的战争正在创造一代失去的黎巴嫩学生",
+        "en": "Israel’s war creating a ‘lost generation’ of Lebanese students",
+        "de": "Der Krieg Israels schafft eine 'verlorene Generation' libanesischer Schüler"
       },
       "summary": {
-        "zh": "马来西亚当局在庞各岛附近部署船只、直升机和监视飞机，寻找失踪的移民。",
-        "en": "Authorities deploy boats, helicopters, and surveillance aircraft to search for missing migrants off Pangkor Island.",
-        "de": "Die Behörden setzen Boote, Hubschrauber und Überwachungsflugzeuge ein, um nach vermissten Migranten vor der Insel Pangkor zu suchen."
+        "zh": "以色列对黎巴嫩的战争导致数十万人流离失所，成为该国教育系统面临的最新危机。",
+        "en": "Israel's war on Lebanon has displaced hundreds of thousands, and is the latest crisis facing the country's education system.",
+        "de": "Der Krieg Israels gegen den Libanon hat Hunderttausende vertrieben und ist die neueste Krise, mit der das Bildungssystem des Landes konfrontiert ist."
       },
       "source": "Al Jazeera",
       "date": "2026-05-12",
-      "url": "https://www.aljazeera.com/news/2026/5/12/malaysia-rescues-23-migrants-after-boat-capsizes-14-still-missing?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗表示将“永不屈服”，特朗普拒绝和平反提案，延长中东冲突",
-        "en": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict",
-        "de": "Iran sagt, es wird sich 'niemals beugen', während Trump das Friedensangebot ablehnt und den Konflikt im Nahen Osten verlängert"
+        "zh": "市场因热通胀报告提高了美联储加息的可能性",
+        "en": "Markets raise chances for a Fed rate hike following hot inflation report",
+        "de": "Märkte erhöhen die Chancen auf eine Zinserhöhung der Fed nach heißem Inflationsbericht"
       },
       "summary": {
-        "zh": "特朗普拒绝了伊朗的和平反提案，导致中东冲突进一步升级，影响全球市场情绪。",
-        "en": "Trump's rejection of Iran's peace counteroffer escalates the Middle East conflict, impacting global market sentiment.",
-        "de": "Trumps Ablehnung des Friedensangebots des Iran eskaliert den Konflikt im Nahen Osten und beeinflusst die globale Marktstimmung."
+        "zh": "由于热通胀报告，市场几乎排除了在2027年底之前降息的任何可能性。",
+        "en": "Market pricing took virtually any chance of a cut off the table between now and the end of 2027.",
+        "de": "Die Marktpreise haben praktisch jede Chance auf eine Zinssenkung bis Ende 2027 ausgeschlossen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-11",
-      "url": "https://www.cnbc.com/2026/05/11/iran-war-trump-negotiation-hormuz-nuclear-talks.html"
+      "date": "2026-05-12",
+      "url": "https://www.cnbc.com/2026/05/12/markets-raise-chances-for-a-fed-rate-hike-following-hot-inflation-report.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "零售商正在疯狂招聘，但消费者发出警告信号",
-        "en": "Retailers are on a hiring spree. But consumers are sending warning signs",
-        "de": "Einzelhändler sind auf Einstellungstour. Aber Verbraucher senden Warnsignale"
+        "zh": "消费者价格在四月份同比上涨3.8%，为2023年5月以来的最高水平",
+        "en": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
+        "de": "Die Verbraucherpreise stiegen im April um 3,8 % im Jahresvergleich, den höchsten Stand seit Mai 2023"
       },
       "summary": {
-        "zh": "尽管零售行业在4月增加了近22,000个工作岗位，但消费者信心的下降可能会影响未来的经济增长。",
-        "en": "Retail trades added nearly 22,000 jobs in April, but declining consumer confidence may impact future economic growth.",
-        "de": "Die Einzelhandelsbranche hat im April fast 22.000 Arbeitsplätze geschaffen, aber der Rückgang des Verbrauchervertrauens könnte das zukünftige Wirtschaftswachstum beeinträchtigen."
+        "zh": "消费者价格指数在四月份的年增长率达到3.8%，高于道琼斯共识预期的3.7%。",
+        "en": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
+        "de": "Der Verbraucherpreisindex sollte laut Dow-Jones-Konsens im April um 3,7 % im Jahresvergleich steigen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-10",
-      "url": "https://www.cnbc.com/2026/05/10/retailer-hiring-consumer-warning-jobs-report.html"
+      "date": "2026-05-12",
+      "url": "https://www.cnbc.com/2026/05/12/cpi-inflation-april-2026-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美联储迅速耗尽降息理由",
-        "en": "The Federal Reserve is quickly running out of reasons to cut interest rates",
-        "de": "Die Federal Reserve geht schnell die Gründe aus, um die Zinssätze zu senken"
+        "zh": "伊朗战争的隐性成本对股市的影响超过通货膨胀",
+        "en": "This hidden cost of the Iran war hits the stock market even harder than inflation",
+        "de": "Diese versteckte Kosten des Iran-Kriegs treffen den Aktienmarkt noch härter als die Inflation"
       },
       "summary": {
-        "zh": "最新的就业报告显示，生活成本的上升成为美联储的主要关注点，可能会影响未来的货币政策。",
-        "en": "The latest jobs report indicates that rising living costs are becoming a primary concern for the Federal Reserve, potentially impacting future monetary policy.",
-        "de": "Der neueste Arbeitsbericht zeigt, dass steigende Lebenshaltungskosten zu einem Hauptanliegen der Federal Reserve werden, was möglicherweise die zukünftige Geldpolitik beeinflusst."
+        "zh": "市场能够应对价格上涨，但压制投资信心的不确定性才是最具破坏性的因素。",
+        "en": "Markets can handle rising prices. What crushes confidence is uncertainty that squelches investment.",
+        "de": "Die Märkte können steigende Preise bewältigen. Was das Vertrauen erdrückt, ist die Unsicherheit, die Investitionen erstickt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-11",
-      "url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-12",
+      "url": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories"
     }
   ]
 }
