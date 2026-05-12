@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-11T18:14:01.797919+00:00",
+  "generatedAt": "2026-05-12T07:24:10.196334+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "根据诺贝尔经济学奖得主的说法，AI领域需要关注的三件事",
+        "zh": "诺贝尔获奖经济学家认为值得关注的三件AI事情",
         "en": "Three things in AI to watch, according to a Nobel-winning economist",
         "de": "Drei Dinge in der KI, die man im Auge behalten sollte, laut einem Nobelpreisträger"
       },
       "summary": {
-        "zh": "诺贝尔经济学奖得主指出，AI领域有三个重要的发展趋势需要关注，这些趋势可能会影响未来的技术和经济格局。",
-        "en": "A Nobel-winning economist highlights three significant trends in AI that could impact the future of technology and the economy.",
-        "de": "Ein Nobelpreisträger hebt drei bedeutende Trends in der KI hervor, die die Zukunft von Technologie und Wirtschaft beeinflussen könnten."
+        "zh": "一位诺贝尔获奖经济学家指出，未来AI领域值得关注的三大趋势，包括技术的进步和应用的广泛性。",
+        "en": "A Nobel-winning economist highlights three major trends in AI to watch, including advancements in technology and the broadening of applications.",
+        "de": "Ein Nobelpreisträger hebt drei wichtige Trends in der KI hervor, die man im Auge behalten sollte, darunter technologische Fortschritte und die Ausweitung der Anwendungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-11",
@@ -25,9 +25,9 @@
         "de": "Durch kundenorientierte Ingenieurskunst bahnbrechende KI-Innovationen fördern"
       },
       "summary": {
-        "zh": "尽管经历了多年的数字化，组织仍未能充分利用数字投资的价值，麦肯锡的研究指出了客户反向工程的重要性。",
-        "en": "Despite years of digitization, organizations have failed to capture the full value of digital investments, highlighting the importance of customer-back engineering according to McKinsey research.",
-        "de": "Trotz jahrelanger Digitalisierung haben Organisationen es versäumt, den vollen Wert digitaler Investitionen zu erfassen, was die Bedeutung der kundenorientierten Ingenieurskunst laut McKinsey-Forschung hervorhebt."
+        "zh": "尽管数字化已持续多年，组织从数字投资中获得的价值仍不到三分之一，麦肯锡的研究指出了客户反向工程的重要性。",
+        "en": "Despite years of digitization, organizations capture less than one-third of the expected value from digital investments, highlighting the importance of customer-back engineering according to McKinsey research.",
+        "de": "Trotz jahrelanger Digitalisierung erfassen Organisationen weniger als ein Drittel des erwarteten Wertes aus digitalen Investitionen, was die Bedeutung der kundenorientierten Ingenieurskunst laut McKinsey-Forschung hervorhebt."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-11",
@@ -41,9 +41,9 @@
         "de": "Implementierung fortschrittlicher KI-Technologien im Finanzwesen"
       },
       "summary": {
-        "zh": "在以精确和控制为特征的金融部门，AI的引入并非简单的升级，而是一场安静的变革。",
-        "en": "In finance departments characterized by precision and control, the introduction of AI has not been a straightforward upgrade but rather a quiet insurgency.",
-        "de": "In Finanzabteilungen, die durch Präzision und Kontrolle geprägt sind, war die Einführung von KI kein einfacher Upgrade, sondern eher eine stille Rebellion."
+        "zh": "在金融部门，AI的引入并非简单的升级，而是作为一种静默的变革力量出现，改变了传统的精确和控制方式。",
+        "en": "In finance departments, the introduction of AI has emerged not as a simple upgrade but as a quiet force of transformation, altering traditional precision and control.",
+        "de": "In den Finanzabteilungen hat sich die Einführung von KI nicht als einfache Aufrüstung, sondern als stille Kraft der Transformation herausgestellt, die die traditionelle Präzision und Kontrolle verändert."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-11",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普表示停火处于“生命支持”状态，拒绝伊朗提议",
-        "en": "Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal",
-        "de": "Trump sagt, der Waffenstillstand sei auf 'lebensunterstützende Maßnahmen' angewiesen, nachdem er Irans Vorschlag abgelehnt hat"
+        "zh": "为什么以色列被允许参加欧洲歌唱大赛？",
+        "en": "Why is Israel allowed to take part in the Eurovision song contest?",
+        "de": "Warum darf Israel am Eurovision Song Contest teilnehmen?"
       },
       "summary": {
-        "zh": "美国总统特朗普在拒绝伊朗最新提议后表示，与伊朗的停火处于“生命支持”状态，双方的协议努力依然未能达成。",
-        "en": "U.S. President Trump stated that the ceasefire with Iran is on 'life support' after rejecting Tehran's latest proposal, with efforts to reach an agreement continuing to fall short.",
-        "de": "US-Präsident Trump erklärte, dass der Waffenstillstand mit dem Iran auf 'lebensunterstützende Maßnahmen' angewiesen sei, nachdem er Teherans neuesten Vorschlag abgelehnt hatte, während die Bemühungen um eine Einigung weiterhin scheitern."
+        "zh": "在即将于5月16日举行的第70届欧洲歌唱大赛上，五个国家因以色列在加沙的战争而抵制该活动。",
+        "en": "Five countries are boycotting the 70th edition of Eurovision on May 16 in protest over Israel's genocidal war on Gaza.",
+        "de": "Fünf Länder boykottieren die 70. Ausgabe des Eurovision Song Contests am 16. Mai als Protest gegen Israels völkermörderischen Krieg in Gaza."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss"
+      "date": "2026-05-12",
+      "url": "https://www.aljazeera.com/news/2026/5/12/why-is-israel-allowed-to-take-part-in-the-eurovision-song-contest?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国和法国撤离者在汉坦病毒袭击的船上检测呈阳性",
-        "en": "US and French evacuees from Hantavirus-hit ship test positive",
-        "de": "US-amerikanische und französische Evakuierte von einem von Hantavirus betroffenen Schiff testen positiv"
+        "zh": "伊朗战争：德黑兰准备“进攻”的第74天发生了什么",
+        "en": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
+        "de": "Iran-Krieg: Was am 74. Tag passiert, während Teheran bereit für 'Aggression' sagt"
       },
       "summary": {
-        "zh": "在撤离汉坦病毒袭击的MV Hondius邮轮后，一名法国女性和两名美国公民的检测结果呈阳性。",
-        "en": "After evacuating from the hantavirus-hit MV Hondius cruise ship, a French woman and two U.S. citizens tested positive.",
-        "de": "Nach der Evakuierung von dem von Hantavirus betroffenen Kreuzfahrtschiff MV Hondius testeten eine Französin und zwei US-Bürger positiv."
+        "zh": "美国与伊朗的紧张关系依然高涨，德黑兰警告不要进行“侵略”，特朗普表示停火处于“生命维持”状态。",
+        "en": "US-Iran tensions remain high as Tehran warns against 'aggression' and Trump says the ceasefire is on 'life support'.",
+        "de": "Die Spannungen zwischen den USA und dem Iran bleiben hoch, während Teheran vor 'Aggression' warnt und Trump sagt, der Waffenstillstand sei auf 'lebenswichtige Unterstützung' angewiesen."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/us-and-french-evacuees-from-hantavirus-hit-ship-test-positive?traffic_source=rss"
+      "date": "2026-05-12",
+      "url": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列袭击导致黎巴嫩南部至少四人死亡",
-        "en": "Israeli attacks kill at least four in southern Lebanon",
-        "de": "Israelische Angriffe töten mindestens vier im Süden Libanons"
+        "zh": "马来西亚在船只倾覆后救起23名移民，14人仍失踪",
+        "en": "Malaysia rescues 23 migrants after boat capsizes, 14 still missing",
+        "de": "Malaysia rettet 23 Migranten nach dem Kentern eines Bootes, 14 weiterhin vermisst"
       },
       "summary": {
-        "zh": "以色列的袭击导致黎巴嫩南部至少四人死亡，紧随其后的是对九个城镇的强迫迁移警告。",
-        "en": "Israeli strikes have resulted in at least four deaths in southern Lebanon, following forced displacement warnings for nine towns.",
-        "de": "Israelische Angriffe haben mindestens vier Todesopfer im Süden Libanons gefordert, gefolgt von Warnungen zur Zwangsumsiedlung für neun Städte."
+        "zh": "马来西亚当局在庞各岛附近部署船只、直升机和监视飞机，寻找失踪的移民。",
+        "en": "Authorities deploy boats, helicopters, and surveillance aircraft to search for missing migrants off Pangkor Island.",
+        "de": "Die Behörden setzen Boote, Hubschrauber und Überwachungsflugzeuge ein, um nach vermissten Migranten vor der Insel Pangkor zu suchen."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-11",
-      "url": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon?traffic_source=rss"
+      "date": "2026-05-12",
+      "url": "https://www.aljazeera.com/news/2026/5/12/malaysia-rescues-23-migrants-after-boat-capsizes-14-still-missing?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗表示永远不会屈服，特朗普拒绝和平反提议，延长中东冲突",
+        "zh": "伊朗表示将“永不屈服”，特朗普拒绝和平反提案，延长中东冲突",
         "en": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict",
-        "de": "Iran sagt, es werde 'niemals nachgeben', während Trump das Friedensangebot ablehnt und den Konflikt im Nahen Osten verlängert"
+        "de": "Iran sagt, es wird sich 'niemals beugen', während Trump das Friedensangebot ablehnt und den Konflikt im Nahen Osten verlängert"
       },
       "summary": {
-        "zh": "特朗普拒绝伊朗的和平反提议，导致中东冲突的延续，华盛顿希望北京施压德黑兰重新开放霍尔木兹海峡。",
-        "en": "Trump's rejection of Iran's peace counteroffer prolongs the Middle East conflict, with Washington seeking to pressure Beijing to urge Tehran to reopen the Strait of Hormuz.",
-        "de": "Trumps Ablehnung von Irans Friedensgegenangebot verlängert den Konflikt im Nahen Osten, während Washington versucht, Peking unter Druck zu setzen, um Teheran zu drängen, die Straße von Hormuz wieder zu öffnen."
+        "zh": "特朗普拒绝了伊朗的和平反提案，导致中东冲突进一步升级，影响全球市场情绪。",
+        "en": "Trump's rejection of Iran's peace counteroffer escalates the Middle East conflict, impacting global market sentiment.",
+        "de": "Trumps Ablehnung des Friedensangebots des Iran eskaliert den Konflikt im Nahen Osten und beeinflusst die globale Marktstimmung."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-11",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "零售商正在招聘热潮，但消费者发出警告信号",
+        "zh": "零售商正在疯狂招聘，但消费者发出警告信号",
         "en": "Retailers are on a hiring spree. But consumers are sending warning signs",
-        "de": "Einzelhändler sind in einer Einstellungsoffensive. Aber die Verbraucher senden Warnsignale"
+        "de": "Einzelhändler sind auf Einstellungstour. Aber Verbraucher senden Warnsignale"
       },
       "summary": {
-        "zh": "尽管零售行业在四月份新增近22,000个工作岗位，但消费者的警告信号表明经济可能面临挑战。",
-        "en": "Retailers added nearly 22,000 jobs in April, but consumer warning signs indicate potential challenges for the economy.",
-        "de": "Einzelhändler haben im April fast 22.000 Arbeitsplätze geschaffen, aber Warnsignale der Verbraucher deuten auf mögliche Herausforderungen für die Wirtschaft hin."
+        "zh": "尽管零售行业在4月增加了近22,000个工作岗位，但消费者信心的下降可能会影响未来的经济增长。",
+        "en": "Retail trades added nearly 22,000 jobs in April, but declining consumer confidence may impact future economic growth.",
+        "de": "Die Einzelhandelsbranche hat im April fast 22.000 Arbeitsplätze geschaffen, aber der Rückgang des Verbrauchervertrauens könnte das zukünftige Wirtschaftswachstum beeinträchtigen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-10",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国就业人数意外增长，但报告中有多个经济红旗",
-        "en": "U.S. payrolls jump more than expected, but the report had several red flags for the economy",
-        "de": "US-Arbeitsplätze steigen unerwartet, aber der Bericht hatte mehrere rote Flaggen für die Wirtschaft"
+        "zh": "美联储迅速耗尽降息理由",
+        "en": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+        "de": "Die Federal Reserve geht schnell die Gründe aus, um die Zinssätze zu senken"
       },
       "summary": {
-        "zh": "尽管非农就业人数在四月份意外增长，但报告中显示出经济面临的多个红旗。",
-        "en": "Despite an unexpected increase in nonfarm payrolls in April, the report revealed several red flags for the economy.",
-        "de": "Trotz eines unerwarteten Anstiegs der Nichtlandwirtschaftlichen Beschäftigung im April zeigte der Bericht mehrere rote Flaggen für die Wirtschaft."
+        "zh": "最新的就业报告显示，生活成本的上升成为美联储的主要关注点，可能会影响未来的货币政策。",
+        "en": "The latest jobs report indicates that rising living costs are becoming a primary concern for the Federal Reserve, potentially impacting future monetary policy.",
+        "de": "Der neueste Arbeitsbericht zeigt, dass steigende Lebenshaltungskosten zu einem Hauptanliegen der Federal Reserve werden, was möglicherweise die zukünftige Geldpolitik beeinflusst."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-08",
-      "url": "https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html"
+      "date": "2026-05-11",
+      "url": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html"
     }
   ]
 }
