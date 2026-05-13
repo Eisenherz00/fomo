@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T18:20:48.130136+00:00",
+  "generatedAt": "2026-05-13T07:37:46.746277+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Weltmodelle: 10 Dinge, die jetzt in der KI wichtig sind"
       },
       "summary": {
-        "zh": "世界模型最近被列入当前人工智能中10个重要事项之一。执行编辑Niall Firth解释了这一新兴领域的重要性。",
-        "en": "World models recently made our list of 10 Things That Matter in AI Right Now. Executive editor Niall Firth explains the importance of this emerging area.",
-        "de": "Weltmodelle wurden kürzlich in unsere Liste der 10 Dinge aufgenommen, die jetzt in der KI wichtig sind. Chefredakteur Niall Firth erklärt die Bedeutung dieses aufstrebenden Bereichs."
+        "zh": "世界模型作为人工智能的一个新兴领域，正在受到越来越多的关注。该文章探讨了这一领域的关键要素及其对未来AI发展的影响。",
+        "en": "World models as an emerging area of AI are gaining increasing attention. The article explores the key elements of this field and its impact on the future of AI development.",
+        "de": "Weltmodelle als aufstrebendes Gebiet der KI gewinnen zunehmend an Aufmerksamkeit. Der Artikel untersucht die Schlüsselfaktoren dieses Bereichs und dessen Einfluss auf die zukünftige Entwicklung der KI."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-12",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：诺贝尔奖得主谈人工智能，以及修复一切的理由",
+        "zh": "下载：诺贝尔获奖者谈人工智能及修复一切的必要性",
         "en": "The Download: a Nobel winner on AI, and the case for fixing everything",
-        "de": "Der Download: Ein Nobelpreisträger über KI und das Plädoyer für die Behebung aller Probleme"
+        "de": "Der Download: Ein Nobelpreisträger über KI und die Notwendigkeit, alles zu reparieren"
       },
       "summary": {
-        "zh": "今天的下载版提供了关于技术世界的最新动态，包括诺贝尔奖得主对人工智能的看法，以及修复一切的必要性。",
-        "en": "Today's edition of The Download provides insights into the world of technology, including a Nobel winner's perspective on AI and the necessity of fixing everything.",
-        "de": "Die heutige Ausgabe von The Download bietet Einblicke in die Welt der Technologie, einschließlich der Perspektive eines Nobelpreisträgers zur KI und der Notwendigkeit, alles zu reparieren."
+        "zh": "本期下载新闻简报中，诺贝尔获奖者讨论了人工智能的影响以及修复现有问题的重要性。文章强调了技术与社会责任之间的联系。",
+        "en": "In this edition of The Download, a Nobel laureate discusses the impact of AI and the importance of addressing existing issues. The article emphasizes the connection between technology and social responsibility.",
+        "de": "In dieser Ausgabe von The Download diskutiert ein Nobelpreisträger die Auswirkungen von KI und die Bedeutung, bestehende Probleme anzugehen. Der Artikel betont die Verbindung zwischen Technologie und sozialer Verantwortung."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-12",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "诺贝尔经济学家：关注人工智能的三件事",
+        "zh": "根据诺贝尔经济学家观察的三件人工智能事宜",
         "en": "Three things in AI to watch, according to a Nobel-winning economist",
-        "de": "Drei Dinge in der KI, die man im Auge behalten sollte, laut einem Nobelpreisträger"
+        "de": "Drei Dinge in der KI, die man beobachten sollte, laut einem Nobelpreisträger"
       },
       "summary": {
-        "zh": "根据一位诺贝尔经济学家的观点，当前人工智能领域有三件重要事情值得关注。这些观察可能会影响未来的发展方向。",
-        "en": "According to a Nobel-winning economist, there are three important things to watch in the current AI landscape. These observations may influence future directions.",
-        "de": "Laut einem Nobelpreisträger gibt es drei wichtige Dinge, die man in der aktuellen KI-Landschaft im Auge behalten sollte. Diese Beobachtungen könnten zukünftige Entwicklungen beeinflussen."
+        "zh": "诺贝尔经济学家分享了他对人工智能领域的观察，指出了三个值得关注的趋势。文章提供了对未来发展的深刻见解。",
+        "en": "A Nobel-winning economist shares his observations on the AI field, highlighting three trends to watch. The article provides profound insights into future developments.",
+        "de": "Ein Nobelpreisträger teilt seine Beobachtungen im Bereich KI und hebt drei Trends hervor, die man beobachten sollte. Der Artikel bietet tiefgreifende Einblicke in zukünftige Entwicklungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-11",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国面临因伊朗战争推动能源价格和通货膨胀上升的成本",
-        "en": "US faces rising costs with Iran war driving energy prices, inflation higher",
-        "de": "Die USA sieht sich steigenden Kosten gegenüber, da der Iran-Krieg die Energiepreise und die Inflation in die Höhe treibt"
+        "zh": "英国首相斯塔默将在承诺继续执政的同时与对手斯特林会面",
+        "en": "UK PM Starmer set to meet rival Streeting amid pledge to carry on governing",
+        "de": "UK-Premierminister Starmer trifft sich mit Rivalen Streeting, während er verspricht, weiter zu regieren"
       },
       "summary": {
-        "zh": "由于能源成本飙升，美国消费者价格在四月份大幅上涨，汽油价格较去年上涨近30%。",
-        "en": "Consumer prices spiked in April due to soaring energy costs, with petrol prices up nearly 30 percent since last year.",
-        "de": "Die Verbraucherpreise stiegen im April aufgrund der stark steigenden Energiekosten, wobei die Benzinpreise seit dem letzten Jahr um fast 30 Prozent gestiegen sind."
+        "zh": "英国首相斯塔默在部长辞职的压力下，计划与对手斯特林会面，以继续推进其执政承诺。此举可能影响政府的稳定性。",
+        "en": "UK Prime Minister Starmer, under pressure from ministerial resignations, plans to meet rival Streeting to continue advancing his governing pledge. This move may affect the stability of the government.",
+        "de": "Der britische Premierminister Starmer plant, sich unter dem Druck von Ministerrücktritten mit seinem Rivalen Streeting zu treffen, um sein Regierungsversprechen weiter voranzutreiben. Dieser Schritt könnte die Stabilität der Regierung beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-12",
-      "url": "https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss"
+      "date": "2026-05-13",
+      "url": "https://www.aljazeera.com/news/2026/5/13/uk-pm-starmer-set-to-meet-rival-streeting-amid-pledge-to-carry-on-governing?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国民主党在加沙的斗争及其对2028年选举的影响",
-        "en": "Inside US Democrats’ Gaza fight – and what it means for 2028 elections",
-        "de": "Einblick in den Gaza-Kampf der US-Demokraten – und was das für die Wahlen 2028 bedeutet"
+        "zh": "特朗普与习近平将在北京会面：塑造中国峰会的关键问题",
+        "en": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
+        "de": "Trump und Xi treffen sich in Peking: Die wichtigsten Themen, die den China-Gipfel prägen"
       },
       "summary": {
-        "zh": "美国民主党在以色列问题上出现分歧，支持以色列的立场不再是不可触碰的。这可能是该党转折点的标志。",
-        "en": "The US Democrats are divided on the issue of Israel, with support for Israel no longer being untouchable. This could signify a turning point for the party.",
-        "de": "Die US-Demokraten sind in der Frage Israels gespalten, wobei die Unterstützung für Israel nicht mehr als unantastbar gilt. Dies könnte einen Wendepunkt für die Partei darstellen."
+        "zh": "特朗普与习近平的会晤将围绕贸易、台湾和伊朗战争等关键问题展开。这次峰会可能会影响美中关系的未来走向。",
+        "en": "Trump's meeting with Xi will focus on key issues such as trade, Taiwan, and the Iran war. This summit could influence the future trajectory of US-China relations.",
+        "de": "Das Treffen von Trump mit Xi wird sich auf wichtige Themen wie Handel, Taiwan und den Iran-Krieg konzentrieren. Dieser Gipfel könnte den zukünftigen Verlauf der US-chinesischen Beziehungen beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-12",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/12/aje-onl-tt_usa_palandthedemocrats_av_v3-110526?traffic_source=rss"
+      "date": "2026-05-13",
+      "url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列的战争正在创造一代失去的黎巴嫩学生",
-        "en": "Israel’s war creating a ‘lost generation’ of Lebanese students",
-        "de": "Der Krieg Israels schafft eine 'verlorene Generation' libanesischer Schüler"
+        "zh": "阿根廷数万人抗议米莱大学削减经费",
+        "en": "Tens of thousands protest in Argentina over Milei university cuts",
+        "de": "Zehntausende protestieren in Argentinien gegen die Universitätskürzungen von Milei"
       },
       "summary": {
-        "zh": "以色列对黎巴嫩的战争导致数十万人流离失所，成为该国教育系统面临的最新危机。",
-        "en": "Israel's war on Lebanon has displaced hundreds of thousands, and is the latest crisis facing the country's education system.",
-        "de": "Der Krieg Israels gegen den Libanon hat Hunderttausende vertrieben und ist die neueste Krise, mit der das Bildungssystem des Landes konfrontiert ist."
+        "zh": "阿根廷民众因米莱政府对大学的经费削减而举行大规模抗议，反映出对教育政策的不满。抗议活动引发了广泛关注。",
+        "en": "Argentinians are holding massive protests against Milei's government cuts to university funding, reflecting dissatisfaction with education policies. The protests have garnered widespread attention.",
+        "de": "Die Argentinier halten massive Proteste gegen die Kürzungen der Universitätsmittel durch die Regierung Milei ab, was Unzufriedenheit mit der Bildungspolitik widerspiegelt. Die Proteste haben breite Aufmerksamkeit erregt."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-12",
-      "url": "https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss"
+      "date": "2026-05-13",
+      "url": "https://www.aljazeera.com/gallery/2026/5/13/tens-of-thousands-protest-in-argentina-over-milei-university-cuts?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "市场因热通胀报告提高了美联储加息的可能性",
+        "zh": "市场因热通胀报告提高美联储加息几率",
         "en": "Markets raise chances for a Fed rate hike following hot inflation report",
-        "de": "Märkte erhöhen die Chancen auf eine Zinserhöhung der Fed nach heißem Inflationsbericht"
+        "de": "Märkte erhöhen die Chancen auf eine Fed-Zinserhöhung nach heißem Inflationsbericht"
       },
       "summary": {
-        "zh": "由于热通胀报告，市场几乎排除了在2027年底之前降息的任何可能性。",
-        "en": "Market pricing took virtually any chance of a cut off the table between now and the end of 2027.",
-        "de": "Die Marktpreise haben praktisch jede Chance auf eine Zinssenkung bis Ende 2027 ausgeschlossen."
+        "zh": "由于最新的通胀报告显示出强劲的通胀压力，市场对美联储加息的预期显著上升。这可能影响未来的货币政策方向。",
+        "en": "Following the latest inflation report indicating strong inflationary pressures, market expectations for a Fed rate hike have significantly increased. This could impact the direction of future monetary policy.",
+        "de": "Nach dem neuesten Inflationsbericht, der starke inflationäre Druck anzeigt, haben die Markterwartungen für eine Zinserhöhung der Fed erheblich zugenommen. Dies könnte die Richtung der zukünftigen Geldpolitik beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-12",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者价格在四月份同比上涨3.8%，为2023年5月以来的最高水平",
+        "zh": "消费者价格在4月份同比上涨3.8%，为2023年5月以来最高",
         "en": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
-        "de": "Die Verbraucherpreise stiegen im April um 3,8 % im Jahresvergleich, den höchsten Stand seit Mai 2023"
+        "de": "Die Verbraucherpreise stiegen im April um 3,8 % im Vergleich zum Vorjahr, das ist der höchste Wert seit Mai 2023"
       },
       "summary": {
-        "zh": "消费者价格指数在四月份的年增长率达到3.8%，高于道琼斯共识预期的3.7%。",
-        "en": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
-        "de": "Der Verbraucherpreisindex sollte laut Dow-Jones-Konsens im April um 3,7 % im Jahresvergleich steigen."
+        "zh": "4月份消费者价格指数同比上涨3.8%，创下自2023年5月以来的最高水平。这一数据可能会影响消费者信心和支出。",
+        "en": "The consumer price index rose 3.8% year-on-year in April, marking the highest level since May 2023. This data could impact consumer confidence and spending.",
+        "de": "Der Verbraucherpreisindex stieg im April im Vergleich zum Vorjahr um 3,8 %, was den höchsten Stand seit Mai 2023 markiert. Diese Daten könnten das Verbrauchervertrauen und die Ausgaben beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-12",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗战争的隐性成本对股市的影响超过通货膨胀",
-        "en": "This hidden cost of the Iran war hits the stock market even harder than inflation",
-        "de": "Diese versteckte Kosten des Iran-Kriegs treffen den Aktienmarkt noch härter als die Inflation"
+        "zh": "伊朗和石油不仅推动通胀，其他领域价格也在加速上涨",
+        "en": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
+        "de": "Es sind nicht nur Iran und Öl, die die Inflation anheizen. Auch in anderen Bereichen steigen die Preise wieder an"
       },
       "summary": {
-        "zh": "市场能够应对价格上涨，但压制投资信心的不确定性才是最具破坏性的因素。",
-        "en": "Markets can handle rising prices. What crushes confidence is uncertainty that squelches investment.",
-        "de": "Die Märkte können steigende Preise bewältigen. Was das Vertrauen erdrückt, ist die Unsicherheit, die Investitionen erstickt."
+        "zh": "除了伊朗和石油外，其他领域的价格也在加速上涨，进一步加剧了通胀压力。文章分析了多个领域的价格动态。",
+        "en": "In addition to Iran and oil, prices in other sectors are also accelerating, further exacerbating inflationary pressures. The article analyzes price dynamics across multiple sectors.",
+        "de": "Neben Iran und Öl steigen auch die Preise in anderen Sektoren, was die inflationären Druck weiter verstärkt. Der Artikel analysiert die Preisdynamik in mehreren Sektoren."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC – Markets",
       "date": "2026-05-12",
-      "url": "https://www.marketwatch.com/story/the-iran-wars-costliest-tax-is-not-inflation-its-uncertainty-d2c8acaa?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html"
     }
   ]
 }
