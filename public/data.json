@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-13T07:37:46.746277+00:00",
+  "generatedAt": "2026-05-13T18:20:51.733195+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "世界模型：当前人工智能中10个重要事项",
-        "en": "World Models: 10 Things That Matter in AI Right Now",
-        "de": "Weltmodelle: 10 Dinge, die jetzt in der KI wichtig sind"
+        "zh": "下载：在轨道上制造药物和NASA的核动力航天器",
+        "en": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+        "de": "Der Download: Medikamente im Orbit herstellen und NASAs nuklearbetriebenes Raumschiff"
       },
       "summary": {
-        "zh": "世界模型作为人工智能的一个新兴领域，正在受到越来越多的关注。该文章探讨了这一领域的关键要素及其对未来AI发展的影响。",
-        "en": "World models as an emerging area of AI are gaining increasing attention. The article explores the key elements of this field and its impact on the future of AI development.",
-        "de": "Weltmodelle als aufstrebendes Gebiet der KI gewinnen zunehmend an Aufmerksamkeit. Der Artikel untersucht die Schlüsselfaktoren dieses Bereichs und dessen Einfluss auf die zukünftige Entwicklung der KI."
+        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括在轨道上制造药物的计划和NASA的核动力航天器的进展。",
+        "en": "Today's edition of The Download provides updates on the technology world, including plans for drug manufacturing in orbit and advancements in NASA's nuclear-powered spacecraft.",
+        "de": "Die heutige Ausgabe des Downloads bietet Neuigkeiten aus der Technikwelt, einschließlich Plänen zur Medikamentenherstellung im Orbit und Fortschritten bei NASAs nuklearbetriebenem Raumschiff."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-12",
-      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/"
+      "date": "2026-05-13",
+      "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：诺贝尔获奖者谈人工智能及修复一切的必要性",
-        "en": "The Download: a Nobel winner on AI, and the case for fixing everything",
-        "de": "Der Download: Ein Nobelpreisträger über KI und die Notwendigkeit, alles zu reparieren"
+        "zh": "在轨道上制造药物的计划正在商业化",
+        "en": "A plan to make drugs in orbit is going commercial",
+        "de": "Ein Plan zur Herstellung von Medikamenten im Orbit wird kommerziell"
       },
       "summary": {
-        "zh": "本期下载新闻简报中，诺贝尔获奖者讨论了人工智能的影响以及修复现有问题的重要性。文章强调了技术与社会责任之间的联系。",
-        "en": "In this edition of The Download, a Nobel laureate discusses the impact of AI and the importance of addressing existing issues. The article emphasizes the connection between technology and social responsibility.",
-        "de": "In dieser Ausgabe von The Download diskutiert ein Nobelpreisträger die Auswirkungen von KI und die Bedeutung, bestehende Probleme anzugehen. Der Artikel betont die Verbindung zwischen Technologie und sozialer Verantwortung."
+        "zh": "Varda Space Industries宣布与制药公司签署协议，计划在太空进行药物实验，标志着其商业化的开始。",
+        "en": "Varda Space Industries has announced a partnership with a pharmaceutical company to conduct drug experiments in space, marking the beginning of its commercialization.",
+        "de": "Varda Space Industries hat eine Partnerschaft mit einem Pharmaunternehmen angekündigt, um Arzneimittelversuche im Weltraum durchzuführen, was den Beginn seiner Kommerzialisierung markiert."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-12",
-      "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/"
+      "date": "2026-05-13",
+      "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "根据诺贝尔经济学家观察的三件人工智能事宜",
-        "en": "Three things in AI to watch, according to a Nobel-winning economist",
-        "de": "Drei Dinge in der KI, die man beobachten sollte, laut einem Nobelpreisträger"
+        "zh": "AI当前重要的10件事",
+        "en": "World Models: 10 Things That Matter in AI Right Now",
+        "de": "Weltmodelle: 10 Dinge, die jetzt in der KI wichtig sind"
       },
       "summary": {
-        "zh": "诺贝尔经济学家分享了他对人工智能领域的观察，指出了三个值得关注的趋势。文章提供了对未来发展的深刻见解。",
-        "en": "A Nobel-winning economist shares his observations on the AI field, highlighting three trends to watch. The article provides profound insights into future developments.",
-        "de": "Ein Nobelpreisträger teilt seine Beobachtungen im Bereich KI und hebt drei Trends hervor, die man beobachten sollte. Der Artikel bietet tiefgreifende Einblicke in zukünftige Entwicklungen."
+        "zh": "本文列出了当前在人工智能领域的重要主题，包括世界模型的崛起及其对未来发展的潜在影响。",
+        "en": "This article outlines important topics in the field of artificial intelligence, including the rise of world models and their potential impact on future developments.",
+        "de": "Dieser Artikel skizziert wichtige Themen im Bereich der künstlichen Intelligenz, einschließlich des Aufstiegs von Weltmodellen und ihrer potenziellen Auswirkungen auf zukünftige Entwicklungen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-11",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
+      "date": "2026-05-12",
+      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "英国首相斯塔默将在承诺继续执政的同时与对手斯特林会面",
-        "en": "UK PM Starmer set to meet rival Streeting amid pledge to carry on governing",
-        "de": "UK-Premierminister Starmer trifft sich mit Rivalen Streeting, während er verspricht, weiter zu regieren"
+        "zh": "马克龙的肯尼亚之行能否恢复法国在非洲的影响力？",
+        "en": "Can Macron’s Kenya visit revive French influence in Africa?",
+        "de": "Kann Macrons Besuch in Kenia den französischen Einfluss in Afrika wiederbeleben?"
       },
       "summary": {
-        "zh": "英国首相斯塔默在部长辞职的压力下，计划与对手斯特林会面，以继续推进其执政承诺。此举可能影响政府的稳定性。",
-        "en": "UK Prime Minister Starmer, under pressure from ministerial resignations, plans to meet rival Streeting to continue advancing his governing pledge. This move may affect the stability of the government.",
-        "de": "Der britische Premierminister Starmer plant, sich unter dem Druck von Ministerrücktritten mit seinem Rivalen Streeting zu treffen, um sein Regierungsversprechen weiter voranzutreiben. Dieser Schritt könnte die Stabilität der Regierung beeinflussen."
+        "zh": "法国在前非洲殖民地的影响力正在减弱，马克龙的肯尼亚之行可能是恢复这种影响力的机会。",
+        "en": "France's influence is waning in its former African colonies, and Macron's visit to Kenya may present an opportunity to revive this influence.",
+        "de": "Der Einfluss Frankreichs in seinen ehemaligen afrikanischen Kolonien schwindet, und Macrons Besuch in Kenia könnte eine Gelegenheit bieten, diesen Einfluss wiederzubeleben."
       },
       "source": "Al Jazeera",
       "date": "2026-05-13",
-      "url": "https://www.aljazeera.com/news/2026/5/13/uk-pm-starmer-set-to-meet-rival-streeting-amid-pledge-to-carry-on-governing?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/5/13/can-macrons-kenya-visit-revive-french-influence-in-africa?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普与习近平将在北京会面：塑造中国峰会的关键问题",
-        "en": "Trump and Xi to meet in Beijing: The key issues shaping the China summit",
-        "de": "Trump und Xi treffen sich in Peking: Die wichtigsten Themen, die den China-Gipfel prägen"
+        "zh": "南卡罗来纳州法院推翻亚历克斯·穆尔道的谋杀定罪",
+        "en": "South Carolina court tosses murder conviction in Alex Murdaugh case",
+        "de": "Gericht in South Carolina hebt Mordverurteilung im Fall Alex Murdaugh auf"
       },
       "summary": {
-        "zh": "特朗普与习近平的会晤将围绕贸易、台湾和伊朗战争等关键问题展开。这次峰会可能会影响美中关系的未来走向。",
-        "en": "Trump's meeting with Xi will focus on key issues such as trade, Taiwan, and the Iran war. This summit could influence the future trajectory of US-China relations.",
-        "de": "Das Treffen von Trump mit Xi wird sich auf wichtige Themen wie Handel, Taiwan und den Iran-Krieg konzentrieren. Dieser Gipfel könnte den zukünftigen Verlauf der US-chinesischen Beziehungen beeinflussen."
+        "zh": "南卡罗来纳州最高法院裁定，亚历克斯·穆尔道因法庭书记员的偏见评论而未能获得公正审判，因此推翻了他的谋杀定罪。",
+        "en": "The South Carolina Supreme Court ruled that Alex Murdaugh was denied a fair trial due to biased comments from a court clerk, thus overturning his murder conviction.",
+        "de": "Der Oberste Gerichtshof von South Carolina entschied, dass Alex Murdaugh aufgrund voreingenommener Kommentare eines Gerichtsschreibers kein faires Verfahren erhalten hatte, und hob somit seine Mordverurteilung auf."
       },
       "source": "Al Jazeera",
       "date": "2026-05-13",
-      "url": "https://www.aljazeera.com/economy/2026/5/13/trump-and-xi-to-meet-in-beijing-the-key-issues-shaping-the-china-summit?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/13/south-carolina-court-tosses-murder-conviction-in-alex-murdaugh-case?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "阿根廷数万人抗议米莱大学削减经费",
-        "en": "Tens of thousands protest in Argentina over Milei university cuts",
-        "de": "Zehntausende protestieren in Argentinien gegen die Universitätskürzungen von Milei"
+        "zh": "特朗普-习近平峰会：中国对伊朗的帮助可能需要美国让步",
+        "en": "Trump-Xi summit: China’s help in Iran may require US concessions",
+        "de": "Trump-Xi-Gipfel: Chinas Hilfe für den Iran könnte US-Zugeständnisse erfordern"
       },
       "summary": {
-        "zh": "阿根廷民众因米莱政府对大学的经费削减而举行大规模抗议，反映出对教育政策的不满。抗议活动引发了广泛关注。",
-        "en": "Argentinians are holding massive protests against Milei's government cuts to university funding, reflecting dissatisfaction with education policies. The protests have garnered widespread attention.",
-        "de": "Die Argentinier halten massive Proteste gegen die Kürzungen der Universitätsmittel durch die Regierung Milei ab, was Unzufriedenheit mit der Bildungspolitik widerspiegelt. Die Proteste haben breite Aufmerksamkeit erregt."
+        "zh": "分析人士认为，如果中国要施压伊朗重新开放霍尔木兹海峡，可能会要求美国在台湾问题上做出让步。",
+        "en": "Analysts suggest that if China is to pressure Iran to reopen the Strait of Hormuz, it may require concessions from the US regarding Taiwan.",
+        "de": "Analysten deuten darauf hin, dass China, um den Iran zu drängen, die Straße von Hormuz wieder zu öffnen, möglicherweise Zugeständnisse der USA in Bezug auf Taiwan verlangen könnte."
       },
       "source": "Al Jazeera",
       "date": "2026-05-13",
-      "url": "https://www.aljazeera.com/gallery/2026/5/13/tens-of-thousands-protest-in-argentina-over-milei-university-cuts?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/13/trump-xi-summit-chinas-help-in-iran-may-require-us-concessions?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "市场因热通胀报告提高美联储加息几率",
-        "en": "Markets raise chances for a Fed rate hike following hot inflation report",
-        "de": "Märkte erhöhen die Chancen auf eine Fed-Zinserhöhung nach heißem Inflationsbericht"
+        "zh": "批发通货膨胀在4月同比上涨6%，为2022年以来最大增幅",
+        "en": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
+        "de": "Großhandelspreisinflation steigt im April um 6 % im Jahresvergleich, größter Anstieg seit 2022"
       },
       "summary": {
-        "zh": "由于最新的通胀报告显示出强劲的通胀压力，市场对美联储加息的预期显著上升。这可能影响未来的货币政策方向。",
-        "en": "Following the latest inflation report indicating strong inflationary pressures, market expectations for a Fed rate hike have significantly increased. This could impact the direction of future monetary policy.",
-        "de": "Nach dem neuesten Inflationsbericht, der starke inflationäre Druck anzeigt, haben die Markterwartungen für eine Zinserhöhung der Fed erheblich zugenommen. Dies könnte die Richtung der zukünftigen Geldpolitik beeinflussen."
+        "zh": "4月份的生产者价格指数同比上涨6%，这是自2022年以来的最大增幅，超出了市场预期。",
+        "en": "The producer price index rose 6% year-on-year in April, marking the largest increase since 2022, exceeding market expectations.",
+        "de": "Der Produzentenpreisindex stieg im April im Jahresvergleich um 6 %, was den größten Anstieg seit 2022 darstellt und die Markterwartungen übertraf."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-05-13",
+      "url": "https://www.cnbc.com/2026/05/13/ppi-inflation-report-april-2026-.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "市场在热通货膨胀报告后提高了美联储加息的可能性",
+        "en": "Markets raise chances for a Fed rate hike following hot inflation report",
+        "de": "Märkte erhöhen die Chancen auf eine Zinserhöhung der Fed nach heißem Inflationsbericht"
+      },
+      "summary": {
+        "zh": "由于通货膨胀报告显示价格持续上涨，市场几乎排除了在2027年之前降息的可能性。",
+        "en": "Following the inflation report indicating rising prices, markets have virtually eliminated the possibility of a rate cut before 2027.",
+        "de": "Nach dem Inflationsbericht, der steigende Preise anzeigt, haben die Märkte die Möglichkeit einer Zinssenkung vor 2027 praktisch ausgeschlossen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-12",
       "url": "https://www.cnbc.com/2026/05/12/markets-raise-chances-for-a-fed-rate-hike-following-hot-inflation-report.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "消费者价格在4月份同比上涨3.8%，为2023年5月以来最高",
+        "zh": "消费者价格在4月同比上涨3.8%，为2023年5月以来最高",
         "en": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
-        "de": "Die Verbraucherpreise stiegen im April um 3,8 % im Vergleich zum Vorjahr, das ist der höchste Wert seit Mai 2023"
+        "de": "Die Verbraucherpreise stiegen im April im Jahresvergleich um 3,8 %, der höchste Wert seit Mai 2023"
       },
       "summary": {
-        "zh": "4月份消费者价格指数同比上涨3.8%，创下自2023年5月以来的最高水平。这一数据可能会影响消费者信心和支出。",
-        "en": "The consumer price index rose 3.8% year-on-year in April, marking the highest level since May 2023. This data could impact consumer confidence and spending.",
-        "de": "Der Verbraucherpreisindex stieg im April im Vergleich zum Vorjahr um 3,8 %, was den höchsten Stand seit Mai 2023 markiert. Diese Daten könnten das Verbrauchervertrauen und die Ausgaben beeinflussen."
+        "zh": "4月份消费者价格指数同比上涨3.8%，超出市场预期，显示出价格压力的持续存在。",
+        "en": "The consumer price index rose 3.8% year-on-year in April, exceeding market expectations and indicating persistent price pressures.",
+        "de": "Der Verbraucherpreisindex stieg im April im Jahresvergleich um 3,8 %, was die Markterwartungen übertraf und auf anhaltenden Preisdruck hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-12",
       "url": "https://www.cnbc.com/2026/05/12/cpi-inflation-april-2026-.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "伊朗和石油不仅推动通胀，其他领域价格也在加速上涨",
-        "en": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
-        "de": "Es sind nicht nur Iran und Öl, die die Inflation anheizen. Auch in anderen Bereichen steigen die Preise wieder an"
-      },
-      "summary": {
-        "zh": "除了伊朗和石油外，其他领域的价格也在加速上涨，进一步加剧了通胀压力。文章分析了多个领域的价格动态。",
-        "en": "In addition to Iran and oil, prices in other sectors are also accelerating, further exacerbating inflationary pressures. The article analyzes price dynamics across multiple sectors.",
-        "de": "Neben Iran und Öl steigen auch die Preise in anderen Sektoren, was die inflationären Druck weiter verstärkt. Der Artikel analysiert die Preisdynamik in mehreren Sektoren."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-05-12",
-      "url": "https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html"
     }
   ]
 }
