@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-14T07:30:56.916436+00:00",
+  "generatedAt": "2026-05-14T18:13:40.458793+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "AI聊天机器人泄露人们的真实电话号码：人们报告称他们的个人联系信息被谷歌AI公开——显然没有简单的方法来防止这种情况。",
-        "en": "AI chatbots are giving out people’s real phone numbers: People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.",
-        "de": "KI-Chatbots geben die echten Telefonnummern der Menschen weiter: Menschen berichten, dass ihre persönlichen Kontaktdaten von Google KI veröffentlicht wurden – und es gibt anscheinend keinen einfachen Weg, dies zu verhindern."
+        "zh": "金融服务中代理AI的数据准备情况",
+        "en": "Data readiness for agentic AI in financial services",
+        "de": "Datenbereitschaft für agentische KI im Finanzdienstleistungssektor"
       },
       "summary": {
-        "zh": "用户报告称，谷歌的AI聊天机器人意外泄露了他们的真实电话号码，且没有有效的防止措施。此事件引发了对AI隐私保护的广泛关注。",
-        "en": "Users report that Google's AI chatbots have inadvertently exposed their real phone numbers, with no effective measures to prevent this. This incident has raised widespread concerns about AI privacy protection.",
-        "de": "Nutzer berichten, dass die KI-Chatbots von Google versehentlich ihre echten Telefonnummern offengelegt haben, ohne dass es wirksame Maßnahmen zur Verhinderung gibt. Dieser Vorfall hat weitreichende Bedenken hinsichtlich des Datenschutzes bei KI ausgelöst."
+        "zh": "金融服务公司在商业AI方面有独特的需求，尤其是在高度监管的环境中。文章探讨了这些公司如何准备数据以适应代理AI的使用。",
+        "en": "Financial services companies have unique needs regarding business AI, particularly in highly regulated environments. The article discusses how these companies are preparing data to accommodate the use of agentic AI.",
+        "de": "Finanzdienstleistungsunternehmen haben besondere Bedürfnisse im Hinblick auf Business-KI, insbesondere in stark regulierten Umgebungen. Der Artikel erörtert, wie diese Unternehmen Daten vorbereiten, um die Nutzung agentischer KI zu ermöglichen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-13",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
+      "date": "2026-05-14",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "计划在轨道上制造药物的商业化：Varda Space Industries，一家初创公司，表示已与制药公司签署协议。",
-        "en": "A plan to make drugs in orbit is going commercial: Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company.",
-        "de": "Ein Plan zur Herstellung von Medikamenten im Orbit wird kommerziell: Varda Space Industries, ein Startup, das seine Fähigkeit zur Durchführung von Arzneimittelversuchen im Weltraum bewirbt, sagt, dass es mit dem Pharmaunternehmen einen Vertrag unterzeichnet hat."
+        "zh": "在自主系统时代建立AI和数据主权",
+        "en": "Establishing AI and data sovereignty in the age of autonomous systems",
+        "de": "Etablierung von KI- und Datenhoheit im Zeitalter autonomer Systeme"
       },
       "summary": {
-        "zh": "Varda Space Industries宣布与制药公司达成协议，计划在轨道上进行药物制造实验。这一创新可能会改变制药行业的未来。",
-        "en": "Varda Space Industries has announced a partnership with a pharmaceutical company to conduct drug manufacturing experiments in orbit. This innovation could transform the future of the pharmaceutical industry.",
-        "de": "Varda Space Industries hat eine Partnerschaft mit einem Pharmaunternehmen angekündigt, um Arzneimittelherstellungsexperimente im Orbit durchzuführen. Diese Innovation könnte die Zukunft der Pharmaindustrie verändern."
+        "zh": "随着生成AI从研究实验室转向实际商业应用，企业在能力与控制之间达成了默契的交易。文章探讨了在这一背景下，如何建立AI和数据的主权。",
+        "en": "As generative AI transitions from research labs to practical business applications, enterprises have made a tacit bargain between capability and control. The article explores how to establish AI and data sovereignty in this context.",
+        "de": "Da generative KI von Forschungslabors in praktische Geschäftsanwendungen übergeht, haben Unternehmen einen stillschweigenden Handel zwischen Fähigkeit und Kontrolle geschlossen. Der Artikel untersucht, wie man in diesem Kontext KI- und Datenhoheit etablieren kann."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-13",
-      "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/"
+      "date": "2026-05-14",
+      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "根据诺贝尔经济学奖得主的观点，关注AI的三件事：这篇文章最初出现在我们的AI周刊《算法》中。",
-        "en": "Three things in AI to watch, according to a Nobel-winning economist: This story originally appeared in The Algorithm, our weekly newsletter on AI.",
-        "de": "Drei Dinge in der KI, die man beachten sollte, laut einem Nobelpreisträger: Diese Geschichte erschien ursprünglich in unserem wöchentlichen Newsletter über KI, The Algorithm."
+        "zh": "AI聊天机器人泄露人们的真实电话号码",
+        "en": "AI chatbots are giving out people’s real phone numbers",
+        "de": "KI-Chatbots geben die echten Telefonnummern der Menschen weiter"
       },
       "summary": {
-        "zh": "诺贝尔经济学奖得主分享了他对AI领域的三项关注点，强调了这些领域的重要性和潜在影响。这些见解为理解AI的未来发展提供了重要视角。",
-        "en": "A Nobel-winning economist shares three key areas of concern in the AI field, highlighting their significance and potential impact. These insights provide an important perspective on the future development of AI.",
-        "de": "Ein Nobelpreisträger teilt drei wichtige Bereiche der Besorgnis im KI-Bereich und hebt deren Bedeutung und potenzielle Auswirkungen hervor. Diese Einblicke bieten eine wichtige Perspektive auf die zukünftige Entwicklung von KI."
+        "zh": "一名Reddit用户报告称，他的手机接连收到陌生人的电话，原因是AI聊天机器人泄露了他的真实电话号码。文章探讨了这一问题的影响。",
+        "en": "A Reddit user reported receiving numerous calls from strangers due to AI chatbots leaking his real phone number. The article discusses the implications of this issue.",
+        "de": "Ein Reddit-Nutzer berichtete, dass er zahlreiche Anrufe von Fremden erhielt, weil KI-Chatbots seine echte Telefonnummer weitergegeben hatten. Der Artikel erörtert die Auswirkungen dieses Problems."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-11",
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
+      "date": "2026-05-13",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗战争第76天：范斯称谈判取得进展；以色列轰炸黎巴嫩",
-        "en": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon.",
-        "de": "Iran-Krieg Tag 76: Vance sagt, dass Fortschritte in den Gesprächen erzielt wurden; Israel bombardiert den Libanon."
+        "zh": "以色列国旗游行重返东耶路撒冷",
+        "en": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
+        "de": "‘Möge dein Dorf brennen’: Israels Flaggenmarsch kehrt nach Ostjerusalem zurück"
       },
       "summary": {
-        "zh": "美国副总统范斯表示与伊朗的谈判取得了进展，同时以色列对黎巴嫩进行了猛烈轰炸。这一局势加剧了中东地区的紧张局势。",
-        "en": "U.S. Vice President Vance stated that progress is being made in talks with Iran, while Israel launched heavy bombardments on Lebanon. This situation escalates tensions in the Middle East.",
-        "de": "Der US-Vizepräsident Vance erklärte, dass Fortschritte in den Gesprächen mit dem Iran erzielt werden, während Israel schwere Bombardements auf den Libanon durchführte. Diese Situation eskaliert die Spannungen im Nahen Osten."
+        "zh": "在以色列国旗游行期间，极右翼以色列人对巴勒斯坦人发起攻击，加剧了耶路撒冷老城的暴力和种族主义情绪。",
+        "en": "During the Israeli Flag March, far-right Israelis attacked Palestinians, intensifying violence and racism in Jerusalem's Old City.",
+        "de": "Während des israelischen Flaggenmarsches griffen rechtsextreme Israelis Palästinenser an und intensivierten die Gewalt und den Rassismus in der Altstadt von Jerusalem."
       },
       "source": "Al Jazeera",
       "date": "2026-05-14",
-      "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普访华与习近平会谈：特朗普访问北京，与习近平举行高层峰会，伊朗、贸易和台湾问题紧张。",
-        "en": "Trump in China for talks with Xi Jinping: Trump visits Beijing for high-stakes summit with Xi as Iran, trade and Taiwan strain US-China ties.",
-        "de": "Trump in China für Gespräche mit Xi Jinping: Trump besucht Peking zu einem hochrangigen Gipfel mit Xi, während Iran, Handel und Taiwan die US-chinesischen Beziehungen belasten."
+        "zh": "伊朗敦促金砖国家谴责美以战争侵略",
+        "en": "Iran urges BRICS nations to condemn US-Israeli war aggression",
+        "de": "Iran fordert BRICS-Staaten auf, die US-israelische Kriegsaggression zu verurteilen"
       },
       "summary": {
-        "zh": "特朗普在中国与习近平举行高层峰会，讨论伊朗、贸易和台湾等问题，这些问题对美中关系造成了压力。此次会谈被视为缓解紧张局势的关键。",
-        "en": "Trump is in China for a high-stakes summit with Xi Jinping, discussing issues such as Iran, trade, and Taiwan, which are straining U.S.-China relations. This meeting is seen as crucial for easing tensions.",
-        "de": "Trump ist in China für einen hochrangigen Gipfel mit Xi Jinping, um Themen wie Iran, Handel und Taiwan zu erörtern, die die US-chinesischen Beziehungen belasten. Dieses Treffen wird als entscheidend für die Entspannung der Spannungen angesehen."
+        "zh": "伊朗外长阿巴斯·阿拉赫奇呼吁金砖国家谴责美国和以色列的战争侵略，并指责阿联酋直接参与对伊朗的军事行动。",
+        "en": "Iran's Foreign Minister Abbas Araghchi urged BRICS nations to condemn US and Israeli war aggression, accusing the UAE of direct involvement in military operations against Iran.",
+        "de": "Irans Außenminister Abbas Araghchi forderte die BRICS-Staaten auf, die Kriegsaggression der USA und Israels zu verurteilen und beschuldigte die VAE der direkten Beteiligung an militärischen Operationen gegen Iran."
       },
       "source": "Al Jazeera",
       "date": "2026-05-14",
-      "url": "https://www.aljazeera.com/gallery/2026/5/14/trump-in-china-for-talks-with-xi-jinping?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "基辅建筑在俄罗斯袭击后倒塌，居民被困：俄罗斯用无人机和导弹袭击乌克兰首都基辅，造成多栋建筑受损。",
-        "en": "Kyiv building collapses after Russian strike, reportedly trapping residents: Russia attacked the Ukrainian capital Kyiv with drones and missiles, damaging several buildings.",
-        "de": "Gebäude in Kiew stürzt nach russischem Angriff ein und soll Bewohner einsperren: Russland griff die ukrainische Hauptstadt Kiew mit Drohnen und Raketen an und beschädigte mehrere Gebäude."
+        "zh": "伊拉克议会批准新政府",
+        "en": "Iraq’s parliament approves new Ali al-Zaidi government",
+        "de": "Iraks Parlament genehmigt neue Regierung von Ali al-Zaidi"
       },
       "summary": {
-        "zh": "俄罗斯对乌克兰首都基辅的无人机和导弹攻击导致一栋建筑倒塌，居民被困在废墟中。救援工作正在进行中。",
-        "en": "A Russian drone and missile attack on the Ukrainian capital Kyiv resulted in a building collapse, reportedly trapping residents in the rubble. Rescue operations are underway.",
-        "de": "Ein russischer Drohnen- und Raketenangriff auf die ukrainische Hauptstadt Kiew führte zum Einsturz eines Gebäudes, wobei Berichten zufolge Bewohner in den Trümmern eingeschlossen wurden. Rettungsarbeiten sind im Gange."
+        "zh": "伊拉克议会批准了新总理阿里·扎伊迪及14名部长的政府，尽管在多个职位上未能达成共识。",
+        "en": "Iraq's parliament approved the new government of Prime Minister Ali al-Zaidi and 14 ministers, although consensus was not reached on several posts.",
+        "de": "Das irakische Parlament genehmigte die neue Regierung von Premierminister Ali al-Zaidi und 14 Ministern, obwohl in mehreren Ämtern kein Konsens erzielt wurde."
       },
       "source": "Al Jazeera",
       "date": "2026-05-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/aje-onl-nf_clip-kyiv-building-collapses-after-strike-140526?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "4月份批发通胀同比上涨6%，为2022年以来最大增幅：生产者价格指数预计在4月份上涨0.5%。",
-        "en": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022: The producer price index was expected to increase 0.5% in April, according to the Dow Jones consensus.",
-        "de": "Die Großhandelspreisinflation steigt im April um 6 % im Jahresvergleich, der größte Anstieg seit 2022: Der Produzentenpreisindex sollte im April um 0,5 % steigen, so der Konsens von Dow Jones."
+        "zh": "Bessent预计未来将出现“实质性去通胀”",
+        "en": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
+        "de": "Bessent sieht 'substantielle Desinflation' voraus, während Warsh die Fed übernimmt"
       },
       "summary": {
-        "zh": "4月份的批发通胀同比上涨6%，超出预期，成为自2022年以来的最大增幅。这一数据可能会影响美联储的货币政策。",
-        "en": "Wholesale inflation surged 6% year-over-year in April, exceeding expectations and marking the largest increase since 2022. This data may influence the Federal Reserve's monetary policy.",
-        "de": "Die Großhandelspreisinflation stieg im April im Jahresvergleich um 6 %, was die Erwartungen übertraf und den größten Anstieg seit 2022 darstellt. Diese Daten könnten die Geldpolitik der Federal Reserve beeinflussen."
+        "zh": "Bessent表示，近期由能源推动的通胀激增可能会逆转，因为美国将继续增加供应。",
+        "en": "Bessent stated that the recent inflation surge driven by energy is likely to reverse as the U.S. continues to pump supply.",
+        "de": "Bessent erklärte, dass der jüngste inflationsbedingte Anstieg, der durch Energie verursacht wurde, wahrscheinlich umkehren wird, da die USA weiterhin Angebot pumpen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-13",
-      "url": "https://www.cnbc.com/2026/05/13/ppi-inflation-report-april-2026-.html"
+      "date": "2026-05-14",
+      "url": "https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "市场在热通胀报告后提高了美联储加息的可能性：市场定价几乎排除了在2027年底之前降息的任何可能性。",
-        "en": "Markets raise chances for a Fed rate hike following hot inflation report: Market pricing took virtually any chance of a cut off the table between now and the end of 2027.",
-        "de": "Die Märkte erhöhen die Chancen auf eine Zinserhöhung der Fed nach dem heißen Inflationsbericht: Die Marktpreise schlossen praktisch jede Möglichkeit einer Senkung bis Ende 2027 aus."
+        "zh": "美国消费者对经济的悲观情绪依然存在",
+        "en": "Americans still feel pessimistic about the economy. When will it get better?",
+        "de": "Amerikaner sind weiterhin pessimistisch gegenüber der Wirtschaft. Wann wird es besser?"
       },
       "summary": {
-        "zh": "在热通胀报告发布后，市场提高了美联储加息的预期，几乎排除了在2027年底之前降息的可能性。这可能会影响未来的经济政策。",
-        "en": "Following the release of a hot inflation report, markets have raised expectations for a Federal Reserve rate hike, virtually ruling out any chance of a cut before the end of 2027. This could impact future economic policies.",
-        "de": "Nach der Veröffentlichung eines heißen Inflationsberichts haben die Märkte die Erwartungen an eine Zinserhöhung der Federal Reserve erhöht und praktisch jede Möglichkeit einer Senkung vor Ende 2027 ausgeschlossen. Dies könnte zukünftige Wirtschaftspolitiken beeinflussen."
+        "zh": "自Covid疫情以来，美国消费者信心持续下降，经济学家认为通胀、战争和特朗普的关税是主要原因。",
+        "en": "Since the Covid pandemic, U.S. consumer sentiment has been on a downward trend, with economists citing inflation, wars, and Trump's tariffs as primary reasons.",
+        "de": "Seit der Covid-Pandemie ist das Verbrauchervertrauen in den USA rückläufig, wobei Ökonomen Inflation, Kriege und Trumps Zölle als Hauptgründe anführen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-12",
-      "url": "https://www.cnbc.com/2026/05/12/markets-raise-chances-for-a-fed-rate-hike-following-hot-inflation-report.html"
+      "date": "2026-05-14",
+      "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "思科将裁员以便更多投资于AI，股票飙升至创纪录水平：思科宣布计划在AI方面进行更多投资，股价飙升。",
-        "en": "Cisco to cut jobs so it can invest more in AI, and the stock rockets toward a record: Cisco’s stock soars into record territory, after the networking giant announced plans to invest more in AI and upbeat earnings report.",
-        "de": "Cisco wird Stellen abbauen, um mehr in KI zu investieren, und die Aktie schießt in Rekordhöhen: Die Aktie von Cisco steigt in Rekordhöhen, nachdem der Netzwerkgigant Pläne angekündigt hat, mehr in KI zu investieren und einen positiven Geschäftsbericht veröffentlicht hat."
+        "zh": "4月份批发通胀同比上涨6%",
+        "en": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
+        "de": "Die Großhandelspreisinflation steigt im April um 6 % im Jahresvergleich, der größte Anstieg seit 2022"
       },
       "summary": {
-        "zh": "思科宣布将裁员以增加对AI的投资，股价因此飙升至创纪录水平。这一举措反映了公司对AI领域的信心。",
-        "en": "Cisco announced job cuts to increase investment in AI, causing its stock to soar to record levels. This move reflects the company's confidence in the AI sector.",
-        "de": "Cisco kündigte Stellenabbau an, um die Investitionen in KI zu erhöhen, was dazu führte, dass die Aktie auf Rekordhöhen stieg. Dieser Schritt spiegelt das Vertrauen des Unternehmens in den KI-Sektor wider."
+        "zh": "4月份的生产者价格指数预计将上涨0.5%，但实际涨幅达到了6%，为2022年以来的最大增幅。",
+        "en": "The producer price index was expected to increase by 0.5% in April, but the actual rise reached 6%, marking the largest increase since 2022.",
+        "de": "Der Produzentenpreisindex sollte im April um 0,5 % steigen, tatsächlich betrug der Anstieg jedoch 6 % und stellt den größten Anstieg seit 2022 dar."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-05-14",
-      "url": "https://www.marketwatch.com/story/cisco-to-cut-jobs-so-it-can-invest-more-in-ai-and-the-stock-rockets-toward-a-record-cf9d09a9?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-05-13",
+      "url": "https://www.cnbc.com/2026/05/13/ppi-inflation-report-april-2026-.html"
     }
   ]
 }
