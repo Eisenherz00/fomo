@@ -1,152 +1,152 @@
 {
-  "generatedAt": "2026-05-15T07:42:33.145445+00:00",
+  "generatedAt": "2026-05-15T17:57:19.874472+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "金融服务中代理AI的数据准备情况",
-        "en": "Data readiness for agentic AI in financial services",
-        "de": "Datenbereitschaft für agentische KI im Finanzdienstleistungssektor"
+        "zh": "中国的人工智能短剧工厂和世界卫生组织缺失的健康目标",
+        "en": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+        "de": "Der Download: Chinas KI-Drama-Fabrik und die fehlenden Gesundheitsziele der WHO"
       },
       "summary": {
-        "zh": "金融服务公司在商业AI方面有独特的需求，因为它们在一个高度监管的行业中运营。文章探讨了这些公司在数据准备方面的挑战和机遇。",
-        "en": "Financial services companies have unique needs when it comes to business AI, operating in a highly regulated sector. The article discusses the challenges and opportunities these companies face regarding data readiness.",
-        "de": "Finanzdienstleistungsunternehmen haben einzigartige Bedürfnisse im Bereich der Geschäfts-KI, da sie in einem stark regulierten Sektor tätig sind. Der Artikel behandelt die Herausforderungen und Chancen, mit denen diese Unternehmen in Bezug auf die Datenbereitschaft konfrontiert sind."
+        "zh": "中国的短剧产业正在利用人工智能技术进行内容创作，同时世界卫生组织的健康目标却未能达成，反映出全球健康领域的挑战。",
+        "en": "China's short drama industry is leveraging AI technology for content creation, while the World Health Organization is falling short of its health targets, highlighting challenges in global health.",
+        "de": "Die chinesische Kurzdrama-Industrie nutzt KI-Technologie zur Inhaltserstellung, während die Weltgesundheitsorganisation ihre Gesundheitsziele nicht erreicht, was die Herausforderungen im globalen Gesundheitswesen verdeutlicht."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-14",
-      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
+      "date": "2026-05-15",
+      "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "在自主系统时代建立AI和数据主权",
-        "en": "Establishing AI and data sovereignty in the age of autonomous systems",
-        "de": "Etablierung von KI- und Datenhoheit im Zeitalter autonomer Systeme"
+        "zh": "中国短剧如何成为人工智能内容机器",
+        "en": "How Chinese short dramas became AI content machines",
+        "de": "Wie chinesische Kurzdramen zu KI-Inhaltsmaschinen wurden"
       },
       "summary": {
-        "zh": "随着生成性AI从研究实验室转向实际商业应用，企业在能力与控制之间达成了一种默契的交易。文章分析了这一转变对AI和数据主权的影响。",
-        "en": "As generative AI moves from research labs to real-world business applications, enterprises have made a tacit bargain between capability and control. The article analyzes the implications of this shift for AI and data sovereignty.",
-        "de": "Mit dem Übergang der generativen KI von Forschungslabors zu realen Geschäftsanwendungen haben Unternehmen einen stillschweigenden Handel zwischen Fähigkeit und Kontrolle geschlossen. Der Artikel analysiert die Auswirkungen dieses Wandels auf KI- und Datenhoheit."
+        "zh": "中国短剧通过人工智能技术实现了高效的内容生产，成为了一个新的文化现象，吸引了大量观众和投资。",
+        "en": "Chinese short dramas have achieved efficient content production through AI technology, becoming a new cultural phenomenon that attracts a large audience and investment.",
+        "de": "Chinesische Kurzdramen haben durch KI-Technologie eine effiziente Inhaltsproduktion erreicht und sind zu einem neuen kulturellen Phänomen geworden, das ein großes Publikum und Investitionen anzieht."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-14",
-      "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
+      "date": "2026-05-15",
+      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI聊天机器人泄露用户真实电话号码",
-        "en": "AI chatbots are giving out people’s real phone numbers",
-        "de": "KI-Chatbots geben die echten Telefonnummern der Menschen weiter"
+        "zh": "金融服务中代理人工智能的数据准备",
+        "en": "Data readiness for agentic AI in financial services",
+        "de": "Datenbereitschaft für agentische KI im Finanzdienstleistungssektor"
       },
       "summary": {
-        "zh": "一名Reddit用户报告称，他的电话接到大量陌生人来电，原因是AI聊天机器人泄露了他的真实电话号码。文章探讨了这一问题的影响和潜在后果。",
-        "en": "A Reddit user reported receiving numerous calls from strangers due to AI chatbots leaking his real phone number. The article explores the implications and potential consequences of this issue.",
-        "de": "Ein Reddit-Nutzer berichtete, dass er zahlreiche Anrufe von Fremden erhielt, weil KI-Chatbots seine echte Telefonnummer weitergegeben hatten. Der Artikel untersucht die Auswirkungen und potenziellen Folgen dieses Problems."
+        "zh": "金融服务行业对人工智能的需求日益增长，企业必须确保数据准备充分，以满足监管要求和业务需求。",
+        "en": "The demand for AI in the financial services sector is growing, and companies must ensure data readiness to meet regulatory requirements and business needs.",
+        "de": "Die Nachfrage nach KI im Finanzdienstleistungssektor wächst, und Unternehmen müssen die Datenbereitschaft sicherstellen, um den regulatorischen Anforderungen und Geschäftsbedürfnissen gerecht zu werden."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-13",
-      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
+      "date": "2026-05-14",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普与习近平在北京举行高风险会谈",
-        "en": "Trump and Xi hold high-stakes talks in Beijing",
-        "de": "Trump und Xi führen hochriskante Gespräche in Peking"
+        "zh": "俄罗斯对基辅的轰炸，东乌克兰的进展缓慢",
+        "en": "Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl",
+        "de": "Russland bombardiert Kiew, während sein Vorstoß in der Ostukraine ins Stocken gerät"
       },
       "summary": {
-        "zh": "美国总统特朗普与中国国家主席习近平在北京进行第二天的会谈，讨论了包括经济和安全在内的多项重要议题。",
-        "en": "U.S. President Trump and Chinese President Xi Jinping are meeting for a second day in Beijing to discuss several important issues, including economic and security matters.",
-        "de": "US-Präsident Trump und Chinas Präsident Xi Jinping treffen sich zum zweiten Tag in Peking, um mehrere wichtige Themen, darunter wirtschaftliche und sicherheitspolitische Fragen, zu erörtern."
+        "zh": "乌克兰成功阻止了俄罗斯武器和燃料到达前线，导致俄罗斯在东乌克兰的进展几乎停滞。",
+        "en": "Ukraine has successfully prevented Russian arms and fuel from reaching the front lines, causing Russia's advance in eastern Ukraine to nearly stall.",
+        "de": "Die Ukraine hat erfolgreich verhindert, dass russische Waffen und Treibstoff die Frontlinien erreichen, was dazu führt, dass der russische Vorstoß in der Ostukraine nahezu zum Stillstand kommt."
       },
       "source": "Al Jazeera",
       "date": "2026-05-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-and-xi-hold-high-stakes-talks-in-beijing?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗战争第77天：特朗普与习近平讨论霍尔木兹海",
-        "en": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
-        "de": "Iran-Krieg Tag 77: Trump und Xi diskutieren Hormuz, während Teheran BRICS mobilisiert"
+        "zh": "特朗普警告台湾不要宣布独立",
+        "en": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+        "de": "Trump warnt Taiwan vor der Erklärung der Unabhängigkeit, Stunden nach dem Gipfel mit Chinas Xi"
       },
       "summary": {
-        "zh": "在伊朗战争的第77天，特朗普与习近平讨论霍尔木兹海的安全问题，同时伊朗积极寻求与金砖国家的合作。",
-        "en": "On day 77 of the Iran war, Trump and Xi discussed security issues in the Strait of Hormuz while Iran actively seeks cooperation with BRICS nations.",
-        "de": "Am 77. Tag des Iran-Kriegs diskutierten Trump und Xi Sicherheitsfragen im Persischen Golf, während Iran aktiv nach Kooperationen mit BRICS-Staaten strebt."
+        "zh": "特朗普在与中国国家主席习近平会晤后，警告台湾不要宣布独立，以缓解两岸紧张局势。",
+        "en": "Trump warned Taiwan against declaring independence after meeting with Chinese President Xi, urging for a cooling of tensions across the Taiwan Strait.",
+        "de": "Trump warnte Taiwan vor der Erklärung der Unabhängigkeit nach einem Treffen mit dem chinesischen Präsidenten Xi und forderte eine Entspannung der Spannungen über die Taiwanstraße."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-05-15",
-      "url": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "纳克巴日：78年的种族清洗",
-        "en": "Nakba Day: 78 years of ethnic cleansing",
-        "de": "Nakba-Tag: 78 Jahre ethnische Säuberung"
+        "zh": "以色列在黎巴嫩杀死七人，直接谈判在美国进行",
+        "en": "Israel kills seven in Lebanon as direct talks continue in US for second day",
+        "de": "Israel tötet sieben im Libanon, während direkte Gespräche in den USA am zweiten Tag fortgesetzt werden"
       },
       "summary": {
-        "zh": "5月15日，巴勒斯坦人在历史巴勒斯坦和侨民中纪念1948年的“纳克巴”或“灾难”，呼吁正义和自决权。",
-        "en": "On May 15, Palestinians across historic Palestine and the diaspora commemorate the Nakba or 'catastrophe' of 1948, calling for justice and the right to self-determination.",
-        "de": "Am 15. Mai gedenken die Palästinenser in ganz Palästina und der Diaspora der Nakba oder 'Katastrophe' von 1948 und fordern Gerechtigkeit und das Recht auf Selbstbestimmung."
+        "zh": "以色列在黎巴嫩的攻击造成七人死亡，谈判代表在华盛顿继续进行会谈，以应对以色列的攻击和占领。",
+        "en": "Israeli attacks in Lebanon resulted in seven deaths, as delegations continue negotiations in Washington to address Israeli attacks and occupation.",
+        "de": "Die israelischen Angriffe im Libanon führten zu sieben Todesopfern, während Delegationen in Washington weiterhin Verhandlungen führen, um die israelischen Angriffe und die Besetzung zu behandeln."
       },
       "source": "Al Jazeera",
       "date": "2026-05-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/nakba-day-78-years-of-ethnic-cleansing?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/15/lebanon-talks-israel-attack?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "债券市场认为美联储在通胀问题上滞后",
-        "en": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
-        "de": "Anleihemärkte glauben, dass die Fed bei der Inflation hinterherhinkt, während Warsh übernimmt"
+        "zh": "交易员现在预计美联储下次加息",
+        "en": "Traders now see next Fed interest rate move as a hike following inflation surge",
+        "de": "Händler sehen den nächsten Zinsschritt der Fed nach dem Inflationsanstieg als Erhöhung"
       },
       "summary": {
-        "zh": "债券交易者希望美联储的宽松政策转变为更倾向于收紧的立场，认为当前的通胀形势需要更强有力的应对。",
-        "en": "Bond traders are hoping for a shift in the Fed's easing bias towards a more tightening stance, believing that the current inflation situation requires a stronger response.",
-        "de": "Anleihe-Händler hoffen auf eine Verschiebung der geldpolitischen Ausrichtung der Fed von einer lockeren zu einer strafferen Haltung, da sie glauben, dass die aktuelle Inflationssituation eine stärkere Reaktion erfordert."
+        "zh": "由于通货膨胀激增，交易员预计美联储将在12月加息，这反映出市场对未来经济走势的担忧。",
+        "en": "Traders expect the Federal Reserve to raise interest rates in December following a surge in inflation, reflecting market concerns about future economic trends.",
+        "de": "Händler erwarten, dass die Federal Reserve im Dezember die Zinssätze anhebt, nachdem die Inflation gestiegen ist, was die Sorgen des Marktes über zukünftige wirtschaftliche Trends widerspiegelt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-14",
-      "url": "https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html"
+      "source": "CNBC",
+      "date": "2026-05-15",
+      "url": "https://www.cnbc.com/2026/05/15/traders-now-see-next-fed-interest-rate-move-as-a-hike-following-inflation-surge.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "Bessent预计美联储将出现“实质性去通胀”",
-        "en": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
-        "de": "Bessent sieht 'substantielle Desinflation' voraus, während Warsh die Fed übernimmt"
+        "zh": "通货膨胀率预计在第二季度达到6%",
+        "en": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
+        "de": "Inflationsrate wird voraussichtlich im zweiten Quartal 6% erreichen, sagen führende Wirtschaftsforscher"
       },
       "summary": {
-        "zh": "Bessent表示，近期因能源推动的通胀激增可能会逆转，预计美国将继续保持强劲的经济活动。",
-        "en": "Bessent stated that the recent surge in energy-driven inflation is likely to reverse, anticipating that the U.S. will continue to maintain strong economic activity.",
-        "de": "Bessent erklärte, dass der jüngste Anstieg der durch Energie bedingten Inflation wahrscheinlich umkehren wird, und erwartet, dass die USA weiterhin eine starke wirtschaftliche Aktivität aufrechterhalten werden."
+        "zh": "顶级经济预测者表示，近期的通货膨胀激增可能在未来几个月进一步恶化，预计第二季度通货膨胀率将达到6%。",
+        "en": "Top economic forecasters indicate that the recent surge in inflation may worsen in the coming months, projecting a 6% inflation rate for the second quarter.",
+        "de": "Führende Wirtschaftsforscher geben an, dass der jüngste Anstieg der Inflation in den kommenden Monaten schlimmer werden könnte und prognostizieren eine Inflationsrate von 6% im zweiten Quartal."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-14",
-      "url": "https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html"
+      "source": "CNBC",
+      "date": "2026-05-15",
+      "url": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国消费者对经济的悲观情绪何时会好转？",
+        "zh": "美国消费者对经济仍持悲观态度",
         "en": "Americans still feel pessimistic about the economy. When will it get better?",
-        "de": "Amerikaner sind weiterhin pessimistisch über die Wirtschaft. Wann wird es besser?"
+        "de": "Amerikaner sind weiterhin pessimistisch gegenüber der Wirtschaft. Wann wird es besser?"
       },
       "summary": {
-        "zh": "美国消费者信心自新冠疫情以来持续下降，经济学家认为，通胀、战争和特朗普的关税是造成这种悲观情绪的主要原因。",
-        "en": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic, with economists attributing this pessimism to inflation, wars, and Trump's tariffs.",
-        "de": "Das Verbrauchervertrauen in den USA ist seit der Covid-Pandemie rückläufig, wobei Ökonomen diese Pessimismus auf Inflation, Kriege und Trumps Zölle zurückführen."
+        "zh": "美国消费者信心自新冠疫情以来持续下降，经济学家指出，通货膨胀、战争和特朗普的关税是主要原因。",
+        "en": "U.S. consumer confidence has been on a downward trend since the Covid pandemic, with economists citing inflation, wars, and Trump's tariffs as major factors.",
+        "de": "Das Verbrauchervertrauen in den USA ist seit der Covid-Pandemie rückläufig, wobei Ökonomen Inflation, Kriege und Trumps Zölle als Hauptfaktoren anführen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-14",
+      "source": "CNBC",
+      "date": "2026-05-15",
       "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html"
     }
   ]
