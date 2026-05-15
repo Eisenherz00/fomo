@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T18:13:40.458793+00:00",
+  "generatedAt": "2026-05-15T07:42:33.145445+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Datenbereitschaft für agentische KI im Finanzdienstleistungssektor"
       },
       "summary": {
-        "zh": "金融服务公司在商业AI方面有独特的需求，尤其是在高度监管的环境中。文章探讨了这些公司如何准备数据以适应代理AI的使用。",
-        "en": "Financial services companies have unique needs regarding business AI, particularly in highly regulated environments. The article discusses how these companies are preparing data to accommodate the use of agentic AI.",
-        "de": "Finanzdienstleistungsunternehmen haben besondere Bedürfnisse im Hinblick auf Business-KI, insbesondere in stark regulierten Umgebungen. Der Artikel erörtert, wie diese Unternehmen Daten vorbereiten, um die Nutzung agentischer KI zu ermöglichen."
+        "zh": "金融服务公司在商业AI方面有独特的需求，因为它们在一个高度监管的行业中运营。文章探讨了这些公司在数据准备方面的挑战和机遇。",
+        "en": "Financial services companies have unique needs when it comes to business AI, operating in a highly regulated sector. The article discusses the challenges and opportunities these companies face regarding data readiness.",
+        "de": "Finanzdienstleistungsunternehmen haben einzigartige Bedürfnisse im Bereich der Geschäfts-KI, da sie in einem stark regulierten Sektor tätig sind. Der Artikel behandelt die Herausforderungen und Chancen, mit denen diese Unternehmen in Bezug auf die Datenbereitschaft konfrontiert sind."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-14",
@@ -25,9 +25,9 @@
         "de": "Etablierung von KI- und Datenhoheit im Zeitalter autonomer Systeme"
       },
       "summary": {
-        "zh": "随着生成AI从研究实验室转向实际商业应用，企业在能力与控制之间达成了默契的交易。文章探讨了在这一背景下，如何建立AI和数据的主权。",
-        "en": "As generative AI transitions from research labs to practical business applications, enterprises have made a tacit bargain between capability and control. The article explores how to establish AI and data sovereignty in this context.",
-        "de": "Da generative KI von Forschungslabors in praktische Geschäftsanwendungen übergeht, haben Unternehmen einen stillschweigenden Handel zwischen Fähigkeit und Kontrolle geschlossen. Der Artikel untersucht, wie man in diesem Kontext KI- und Datenhoheit etablieren kann."
+        "zh": "随着生成性AI从研究实验室转向实际商业应用，企业在能力与控制之间达成了一种默契的交易。文章分析了这一转变对AI和数据主权的影响。",
+        "en": "As generative AI moves from research labs to real-world business applications, enterprises have made a tacit bargain between capability and control. The article analyzes the implications of this shift for AI and data sovereignty.",
+        "de": "Mit dem Übergang der generativen KI von Forschungslabors zu realen Geschäftsanwendungen haben Unternehmen einen stillschweigenden Handel zwischen Fähigkeit und Kontrolle geschlossen. Der Artikel analysiert die Auswirkungen dieses Wandels auf KI- und Datenhoheit."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-14",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI聊天机器人泄露人们的真实电话号码",
+        "zh": "AI聊天机器人泄露用户真实电话号码",
         "en": "AI chatbots are giving out people’s real phone numbers",
         "de": "KI-Chatbots geben die echten Telefonnummern der Menschen weiter"
       },
       "summary": {
-        "zh": "一名Reddit用户报告称，他的手机接连收到陌生人的电话，原因是AI聊天机器人泄露了他的真实电话号码。文章探讨了这一问题的影响。",
-        "en": "A Reddit user reported receiving numerous calls from strangers due to AI chatbots leaking his real phone number. The article discusses the implications of this issue.",
-        "de": "Ein Reddit-Nutzer berichtete, dass er zahlreiche Anrufe von Fremden erhielt, weil KI-Chatbots seine echte Telefonnummer weitergegeben hatten. Der Artikel erörtert die Auswirkungen dieses Problems."
+        "zh": "一名Reddit用户报告称，他的电话接到大量陌生人来电，原因是AI聊天机器人泄露了他的真实电话号码。文章探讨了这一问题的影响和潜在后果。",
+        "en": "A Reddit user reported receiving numerous calls from strangers due to AI chatbots leaking his real phone number. The article explores the implications and potential consequences of this issue.",
+        "de": "Ein Reddit-Nutzer berichtete, dass er zahlreiche Anrufe von Fremden erhielt, weil KI-Chatbots seine echte Telefonnummer weitergegeben hatten. Der Artikel untersucht die Auswirkungen und potenziellen Folgen dieses Problems."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-13",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列国旗游行重返东耶路撒冷",
-        "en": "‘May your village burn’: Israeli Flag March returns to East Jerusalem",
-        "de": "‘Möge dein Dorf brennen’: Israels Flaggenmarsch kehrt nach Ostjerusalem zurück"
+        "zh": "特朗普与习近平在北京举行高风险会谈",
+        "en": "Trump and Xi hold high-stakes talks in Beijing",
+        "de": "Trump und Xi führen hochriskante Gespräche in Peking"
       },
       "summary": {
-        "zh": "在以色列国旗游行期间，极右翼以色列人对巴勒斯坦人发起攻击，加剧了耶路撒冷老城的暴力和种族主义情绪。",
-        "en": "During the Israeli Flag March, far-right Israelis attacked Palestinians, intensifying violence and racism in Jerusalem's Old City.",
-        "de": "Während des israelischen Flaggenmarsches griffen rechtsextreme Israelis Palästinenser an und intensivierten die Gewalt und den Rassismus in der Altstadt von Jerusalem."
+        "zh": "美国总统特朗普与中国国家主席习近平在北京进行第二天的会谈，讨论了包括经济和安全在内的多项重要议题。",
+        "en": "U.S. President Trump and Chinese President Xi Jinping are meeting for a second day in Beijing to discuss several important issues, including economic and security matters.",
+        "de": "US-Präsident Trump und Chinas Präsident Xi Jinping treffen sich zum zweiten Tag in Peking, um mehrere wichtige Themen, darunter wirtschaftliche und sicherheitspolitische Fragen, zu erörtern."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-14",
-      "url": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss"
+      "date": "2026-05-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-and-xi-hold-high-stakes-talks-in-beijing?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗敦促金砖国家谴责美以战争侵略",
-        "en": "Iran urges BRICS nations to condemn US-Israeli war aggression",
-        "de": "Iran fordert BRICS-Staaten auf, die US-israelische Kriegsaggression zu verurteilen"
+        "zh": "伊朗战争第77天：特朗普与习近平讨论霍尔木兹海",
+        "en": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
+        "de": "Iran-Krieg Tag 77: Trump und Xi diskutieren Hormuz, während Teheran BRICS mobilisiert"
       },
       "summary": {
-        "zh": "伊朗外长阿巴斯·阿拉赫奇呼吁金砖国家谴责美国和以色列的战争侵略，并指责阿联酋直接参与对伊朗的军事行动。",
-        "en": "Iran's Foreign Minister Abbas Araghchi urged BRICS nations to condemn US and Israeli war aggression, accusing the UAE of direct involvement in military operations against Iran.",
-        "de": "Irans Außenminister Abbas Araghchi forderte die BRICS-Staaten auf, die Kriegsaggression der USA und Israels zu verurteilen und beschuldigte die VAE der direkten Beteiligung an militärischen Operationen gegen Iran."
+        "zh": "在伊朗战争的第77天，特朗普与习近平讨论霍尔木兹海的安全问题，同时伊朗积极寻求与金砖国家的合作。",
+        "en": "On day 77 of the Iran war, Trump and Xi discussed security issues in the Strait of Hormuz while Iran actively seeks cooperation with BRICS nations.",
+        "de": "Am 77. Tag des Iran-Kriegs diskutierten Trump und Xi Sicherheitsfragen im Persischen Golf, während Iran aktiv nach Kooperationen mit BRICS-Staaten strebt."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-14",
-      "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss"
+      "date": "2026-05-15",
+      "url": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊拉克议会批准新政府",
-        "en": "Iraq’s parliament approves new Ali al-Zaidi government",
-        "de": "Iraks Parlament genehmigt neue Regierung von Ali al-Zaidi"
+        "zh": "纳克巴日：78年的种族清洗",
+        "en": "Nakba Day: 78 years of ethnic cleansing",
+        "de": "Nakba-Tag: 78 Jahre ethnische Säuberung"
       },
       "summary": {
-        "zh": "伊拉克议会批准了新总理阿里·扎伊迪及14名部长的政府，尽管在多个职位上未能达成共识。",
-        "en": "Iraq's parliament approved the new government of Prime Minister Ali al-Zaidi and 14 ministers, although consensus was not reached on several posts.",
-        "de": "Das irakische Parlament genehmigte die neue Regierung von Premierminister Ali al-Zaidi und 14 Ministern, obwohl in mehreren Ämtern kein Konsens erzielt wurde."
+        "zh": "5月15日，巴勒斯坦人在历史巴勒斯坦和侨民中纪念1948年的“纳克巴”或“灾难”，呼吁正义和自决权。",
+        "en": "On May 15, Palestinians across historic Palestine and the diaspora commemorate the Nakba or 'catastrophe' of 1948, calling for justice and the right to self-determination.",
+        "de": "Am 15. Mai gedenken die Palästinenser in ganz Palästina und der Diaspora der Nakba oder 'Katastrophe' von 1948 und fordern Gerechtigkeit und das Recht auf Selbstbestimmung."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-14",
-      "url": "https://www.aljazeera.com/news/2026/5/14/iraqs-parliament-approves-new-ali-al-zaidi-government?traffic_source=rss"
+      "date": "2026-05-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/nakba-day-78-years-of-ethnic-cleansing?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "Bessent预计未来将出现“实质性去通胀”",
+        "zh": "债券市场认为美联储在通胀问题上滞后",
+        "en": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
+        "de": "Anleihemärkte glauben, dass die Fed bei der Inflation hinterherhinkt, während Warsh übernimmt"
+      },
+      "summary": {
+        "zh": "债券交易者希望美联储的宽松政策转变为更倾向于收紧的立场，认为当前的通胀形势需要更强有力的应对。",
+        "en": "Bond traders are hoping for a shift in the Fed's easing bias towards a more tightening stance, believing that the current inflation situation requires a stronger response.",
+        "de": "Anleihe-Händler hoffen auf eine Verschiebung der geldpolitischen Ausrichtung der Fed von einer lockeren zu einer strafferen Haltung, da sie glauben, dass die aktuelle Inflationssituation eine stärkere Reaktion erfordert."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-05-14",
+      "url": "https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "Bessent预计美联储将出现“实质性去通胀”",
         "en": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
         "de": "Bessent sieht 'substantielle Desinflation' voraus, während Warsh die Fed übernimmt"
       },
       "summary": {
-        "zh": "Bessent表示，近期由能源推动的通胀激增可能会逆转，因为美国将继续增加供应。",
-        "en": "Bessent stated that the recent inflation surge driven by energy is likely to reverse as the U.S. continues to pump supply.",
-        "de": "Bessent erklärte, dass der jüngste inflationsbedingte Anstieg, der durch Energie verursacht wurde, wahrscheinlich umkehren wird, da die USA weiterhin Angebot pumpen."
+        "zh": "Bessent表示，近期因能源推动的通胀激增可能会逆转，预计美国将继续保持强劲的经济活动。",
+        "en": "Bessent stated that the recent surge in energy-driven inflation is likely to reverse, anticipating that the U.S. will continue to maintain strong economic activity.",
+        "de": "Bessent erklärte, dass der jüngste Anstieg der durch Energie bedingten Inflation wahrscheinlich umkehren wird, und erwartet, dass die USA weiterhin eine starke wirtschaftliche Aktivität aufrechterhalten werden."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-14",
       "url": "https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "美国消费者对经济的悲观情绪依然存在",
+        "zh": "美国消费者对经济的悲观情绪何时会好转？",
         "en": "Americans still feel pessimistic about the economy. When will it get better?",
-        "de": "Amerikaner sind weiterhin pessimistisch gegenüber der Wirtschaft. Wann wird es besser?"
+        "de": "Amerikaner sind weiterhin pessimistisch über die Wirtschaft. Wann wird es besser?"
       },
       "summary": {
-        "zh": "自Covid疫情以来，美国消费者信心持续下降，经济学家认为通胀、战争和特朗普的关税是主要原因。",
-        "en": "Since the Covid pandemic, U.S. consumer sentiment has been on a downward trend, with economists citing inflation, wars, and Trump's tariffs as primary reasons.",
-        "de": "Seit der Covid-Pandemie ist das Verbrauchervertrauen in den USA rückläufig, wobei Ökonomen Inflation, Kriege und Trumps Zölle als Hauptgründe anführen."
+        "zh": "美国消费者信心自新冠疫情以来持续下降，经济学家认为，通胀、战争和特朗普的关税是造成这种悲观情绪的主要原因。",
+        "en": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic, with economists attributing this pessimism to inflation, wars, and Trump's tariffs.",
+        "de": "Das Verbrauchervertrauen in den USA ist seit der Covid-Pandemie rückläufig, wobei Ökonomen diese Pessimismus auf Inflation, Kriege und Trumps Zölle zurückführen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-14",
       "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "4月份批发通胀同比上涨6%",
-        "en": "Wholesale inflation jumps 6% in April on annual basis, biggest increase since 2022",
-        "de": "Die Großhandelspreisinflation steigt im April um 6 % im Jahresvergleich, der größte Anstieg seit 2022"
-      },
-      "summary": {
-        "zh": "4月份的生产者价格指数预计将上涨0.5%，但实际涨幅达到了6%，为2022年以来的最大增幅。",
-        "en": "The producer price index was expected to increase by 0.5% in April, but the actual rise reached 6%, marking the largest increase since 2022.",
-        "de": "Der Produzentenpreisindex sollte im April um 0,5 % steigen, tatsächlich betrug der Anstieg jedoch 6 % und stellt den größten Anstieg seit 2022 dar."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-05-13",
-      "url": "https://www.cnbc.com/2026/05/13/ppi-inflation-report-april-2026-.html"
     }
   ]
 }
