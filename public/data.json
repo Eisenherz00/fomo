@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-05-15T17:57:19.874472+00:00",
+  "generatedAt": "2026-05-16T06:41:37.344535+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "中国的人工智能短剧工厂和世界卫生组织缺失的健康目标",
-        "en": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-        "de": "Der Download: Chinas KI-Drama-Fabrik und die fehlenden Gesundheitsziele der WHO"
+        "zh": "马斯克与奥特曼的第三周：马斯克与奥特曼互相攻击对方的可信度。现在陪审团将选择一方。",
+        "en": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+        "de": "Musk gegen Altman Woche 3: Musk und Altman haben sich gegenseitig über die Glaubwürdigkeit angegriffen. Jetzt wird die Jury eine Seite wählen."
       },
       "summary": {
-        "zh": "中国的短剧产业正在利用人工智能技术进行内容创作，同时世界卫生组织的健康目标却未能达成，反映出全球健康领域的挑战。",
-        "en": "China's short drama industry is leveraging AI technology for content creation, while the World Health Organization is falling short of its health targets, highlighting challenges in global health.",
-        "de": "Die chinesische Kurzdrama-Industrie nutzt KI-Technologie zur Inhaltserstellung, während die Weltgesundheitsorganisation ihre Gesundheitsziele nicht erreicht, was die Herausforderungen im globalen Gesundheitswesen verdeutlicht."
+        "zh": "在马斯克与奥特曼的审判最后一周，律师们就两位科技巨头的可信度展开了激烈辩论。陪审团即将作出决定。",
+        "en": "In the final week of the Musk v. Altman trial, lawyers engaged in heated debates over the credibility of the two tech giants. The jury is set to make a decision.",
+        "de": "In der letzten Woche des Prozesses Musk gegen Altman führten die Anwälte hitzige Debatten über die Glaubwürdigkeit der beiden Technologieriesen. Die Jury steht kurz davor, eine Entscheidung zu treffen."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-05-15",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "中国的人工智能戏剧工厂和世卫组织缺失的健康目标：今天的下载",
+        "en": "The Download: China’s AI drama factory and the WHO’s missing health targets.",
+        "de": "Der Download: Chinas KI-Dramafabrik und die fehlenden Gesundheitsziele der WHO."
+      },
+      "summary": {
+        "zh": "今天的下载新闻简报探讨了中国如何利用人工智能制作短剧，以及世界卫生组织在实现全球健康目标方面面临的挑战。",
+        "en": "Today's edition of The Download newsletter explores how China is leveraging AI to produce short dramas and the challenges faced by the WHO in achieving global health targets.",
+        "de": "Die heutige Ausgabe des Download-Newsletters untersucht, wie China KI nutzt, um Kurzdramen zu produzieren, und die Herausforderungen, denen sich die WHO bei der Erreichung globaler Gesundheitsziele gegenübersieht."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-15",
       "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "中国短剧如何成为人工智能内容机器",
-        "en": "How Chinese short dramas became AI content machines",
-        "de": "Wie chinesische Kurzdramen zu KI-Inhaltsmaschinen wurden"
-      },
-      "summary": {
-        "zh": "中国短剧通过人工智能技术实现了高效的内容生产，成为了一个新的文化现象，吸引了大量观众和投资。",
-        "en": "Chinese short dramas have achieved efficient content production through AI technology, becoming a new cultural phenomenon that attracts a large audience and investment.",
-        "de": "Chinesische Kurzdramen haben durch KI-Technologie eine effiziente Inhaltsproduktion erreicht und sind zu einem neuen kulturellen Phänomen geworden, das ein großes Publikum und Investitionen anzieht."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-05-15",
-      "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "金融服务中代理人工智能的数据准备",
-        "en": "Data readiness for agentic AI in financial services",
-        "de": "Datenbereitschaft für agentische KI im Finanzdienstleistungssektor"
+        "zh": "金融服务中代理人工智能的数据准备情况",
+        "en": "Data readiness for agentic AI in financial services.",
+        "de": "Datenbereitschaft für agentische KI im Finanzdienstleistungssektor."
       },
       "summary": {
-        "zh": "金融服务行业对人工智能的需求日益增长，企业必须确保数据准备充分，以满足监管要求和业务需求。",
-        "en": "The demand for AI in the financial services sector is growing, and companies must ensure data readiness to meet regulatory requirements and business needs.",
-        "de": "Die Nachfrage nach KI im Finanzdienstleistungssektor wächst, und Unternehmen müssen die Datenbereitschaft sicherstellen, um den regulatorischen Anforderungen und Geschäftsbedürfnissen gerecht zu werden."
+        "zh": "金融服务公司在业务人工智能方面有独特需求，尤其是在高度监管的环境中。本文探讨了这些需求如何影响数据准备。",
+        "en": "Financial services companies have unique needs when it comes to business AI, especially in a highly regulated environment. This article discusses how these needs impact data readiness.",
+        "de": "Finanzdienstleistungsunternehmen haben einzigartige Anforderungen an Geschäfts-KI, insbesondere in einem stark regulierten Umfeld. Dieser Artikel erörtert, wie sich diese Anforderungen auf die Datenbereitschaft auswirken."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-14",
@@ -54,99 +54,99 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯对基辅的轰炸，东乌克兰的进展缓慢",
-        "en": "Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl",
-        "de": "Russland bombardiert Kiew, während sein Vorstoß in der Ostukraine ins Stocken gerät"
+        "zh": "罕见埃博拉病毒爆发在刚果民主共和国造成至少65人死亡",
+        "en": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo.",
+        "de": "Ausbruch eines seltenen Ebola-Stamms fordert mindestens 65 Leben in der DR Kongo."
       },
       "summary": {
-        "zh": "乌克兰成功阻止了俄罗斯武器和燃料到达前线，导致俄罗斯在东乌克兰的进展几乎停滞。",
-        "en": "Ukraine has successfully prevented Russian arms and fuel from reaching the front lines, causing Russia's advance in eastern Ukraine to nearly stall.",
-        "de": "Die Ukraine hat erfolgreich verhindert, dass russische Waffen und Treibstoff die Frontlinien erreichen, was dazu führt, dass der russische Vorstoß in der Ostukraine nahezu zum Stillstand kommt."
+        "zh": "在刚果民主共和国的伊图里省，新的埃博拉疫情导致至少65人死亡，246例疑似病例正在调查中。",
+        "en": "In the Ituri province of the Democratic Republic of the Congo, a new Ebola outbreak has resulted in at least 65 deaths, with 246 suspected cases under investigation.",
+        "de": "In der Provinz Ituri der Demokratischen Republik Kongo hat ein neuer Ebola-Ausbruch mindestens 65 Todesfälle verursacht, wobei 246 Verdachtsfälle untersucht werden."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-15",
-      "url": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss"
+      "date": "2026-05-16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/outbreak-of-rare-strain-of-ebola-claims-at-least-65-lives-in-dr-congo?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普警告台湾不要宣布独立",
-        "en": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-        "de": "Trump warnt Taiwan vor der Erklärung der Unabhängigkeit, Stunden nach dem Gipfel mit Chinas Xi"
+        "zh": "以色列对加沙市公寓大楼发动致命空袭",
+        "en": "Israel launches deadly air strikes on Gaza City apartment building.",
+        "de": "Israel startet tödliche Luftangriffe auf ein Wohngebäude in Gaza-Stadt."
       },
       "summary": {
-        "zh": "特朗普在与中国国家主席习近平会晤后，警告台湾不要宣布独立，以缓解两岸紧张局势。",
-        "en": "Trump warned Taiwan against declaring independence after meeting with Chinese President Xi, urging for a cooling of tensions across the Taiwan Strait.",
-        "de": "Trump warnte Taiwan vor der Erklärung der Unabhängigkeit nach einem Treffen mit dem chinesischen Präsidenten Xi und forderte eine Entspannung der Spannungen über die Taiwanstraße."
+        "zh": "以色列空袭加沙市的一栋住宅楼，造成至少七名巴勒斯坦人死亡，冲突持续升级。",
+        "en": "Israeli airstrikes on a residential building in Gaza City have resulted in at least seven Palestinian deaths as the conflict continues to escalate.",
+        "de": "Luftangriffe Israels auf ein Wohngebäude in Gaza-Stadt haben mindestens sieben palästinensische Todesopfer gefordert, während der Konflikt weiter eskaliert."
       },
-      "source": "BBC News",
-      "date": "2026-05-15",
-      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-05-16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列在黎巴嫩杀死七人，直接谈判在美国进行",
-        "en": "Israel kills seven in Lebanon as direct talks continue in US for second day",
-        "de": "Israel tötet sieben im Libanon, während direkte Gespräche in den USA am zweiten Tag fortgesetzt werden"
+        "zh": "特朗普在与中国国家主席习近平会晤后警告台湾不要宣布独立",
+        "en": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi.",
+        "de": "Trump warnt Taiwan davor, Unabhängigkeit zu erklären, Stunden nach dem Gipfeltreffen mit Chinas Xi."
       },
       "summary": {
-        "zh": "以色列在黎巴嫩的攻击造成七人死亡，谈判代表在华盛顿继续进行会谈，以应对以色列的攻击和占领。",
-        "en": "Israeli attacks in Lebanon resulted in seven deaths, as delegations continue negotiations in Washington to address Israeli attacks and occupation.",
-        "de": "Die israelischen Angriffe im Libanon führten zu sieben Todesopfern, während Delegationen in Washington weiterhin Verhandlungen führen, um die israelischen Angriffe und die Besetzung zu behandeln."
+        "zh": "特朗普在与中国国家主席习近平会晤后，呼吁北京和台北缓和在自我管理岛屿上的紧张局势。",
+        "en": "Trump called for Beijing and Taipei to cool tensions over the self-governing island after his summit with China's Xi.",
+        "de": "Trump forderte Beijing und Taipei auf, die Spannungen über die selbstverwaltete Insel nach seinem Gipfeltreffen mit Chinas Xi zu entschärfen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-05-15",
-      "url": "https://www.aljazeera.com/news/2026/5/15/lebanon-talks-israel-attack?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-05-16",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员现在预计美联储下次加息",
-        "en": "Traders now see next Fed interest rate move as a hike following inflation surge",
-        "de": "Händler sehen den nächsten Zinsschritt der Fed nach dem Inflationsanstieg als Erhöhung"
+        "zh": "交易员现在预计美联储下次加息将于通胀激增后进行",
+        "en": "Traders now see next Fed interest rate move as a hike following inflation surge.",
+        "de": "Händler sehen den nächsten Zinsschritt der Fed jetzt als Erhöhung nach dem Anstieg der Inflation."
       },
       "summary": {
-        "zh": "由于通货膨胀激增，交易员预计美联储将在12月加息，这反映出市场对未来经济走势的担忧。",
-        "en": "Traders expect the Federal Reserve to raise interest rates in December following a surge in inflation, reflecting market concerns about future economic trends.",
-        "de": "Händler erwarten, dass die Federal Reserve im Dezember die Zinssätze anhebt, nachdem die Inflation gestiegen ist, was die Sorgen des Marktes über zukünftige wirtschaftliche Trends widerspiegelt."
+        "zh": "由于通胀激增，交易员们预计美联储将在12月进行加息，市场情绪转向紧缩政策。",
+        "en": "Due to the surge in inflation, traders are now anticipating a rate hike from the Fed as early as December, shifting market sentiment towards tightening policies.",
+        "de": "Aufgrund des Anstiegs der Inflation erwarten die Händler nun eine Zinserhöhung der Fed bereits im Dezember, was die Marktentwicklung in Richtung straffender Politiken verschiebt."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-05-15",
       "url": "https://www.cnbc.com/2026/05/15/traders-now-see-next-fed-interest-rate-move-as-a-hike-following-inflation-surge.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "通货膨胀率预计在第二季度达到6%",
-        "en": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say",
-        "de": "Inflationsrate wird voraussichtlich im zweiten Quartal 6% erreichen, sagen führende Wirtschaftsforscher"
+        "zh": "经济预测者称第二季度通胀率预计将达到6%",
+        "en": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say.",
+        "de": "Ökonomen prognostizieren, dass die Inflationsrate im zweiten Quartal 6 % erreichen wird."
       },
       "summary": {
-        "zh": "顶级经济预测者表示，近期的通货膨胀激增可能在未来几个月进一步恶化，预计第二季度通货膨胀率将达到6%。",
+        "zh": "顶级经济预测者表示，近期通胀激增可能在未来几个月进一步恶化，预计第二季度通胀率将达到6%。",
         "en": "Top economic forecasters indicate that the recent surge in inflation may worsen in the coming months, projecting a 6% inflation rate for the second quarter.",
-        "de": "Führende Wirtschaftsforscher geben an, dass der jüngste Anstieg der Inflation in den kommenden Monaten schlimmer werden könnte und prognostizieren eine Inflationsrate von 6% im zweiten Quartal."
+        "de": "Top-Ökonomen weisen darauf hin, dass der jüngste Anstieg der Inflation in den kommenden Monaten schlimmer werden könnte und prognostizieren eine Inflationsrate von 6 % für das zweite Quartal."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-05-15",
       "url": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国消费者对经济仍持悲观态度",
+        "zh": "美国消费者对经济仍感到悲观。何时会好转？",
         "en": "Americans still feel pessimistic about the economy. When will it get better?",
         "de": "Amerikaner sind weiterhin pessimistisch gegenüber der Wirtschaft. Wann wird es besser?"
       },
       "summary": {
-        "zh": "美国消费者信心自新冠疫情以来持续下降，经济学家指出，通货膨胀、战争和特朗普的关税是主要原因。",
-        "en": "U.S. consumer confidence has been on a downward trend since the Covid pandemic, with economists citing inflation, wars, and Trump's tariffs as major factors.",
-        "de": "Das Verbrauchervertrauen in den USA ist seit der Covid-Pandemie rückläufig, wobei Ökonomen Inflation, Kriege und Trumps Zölle als Hauptfaktoren anführen."
+        "zh": "经济学家表示，自新冠疫情以来，美国消费者信心持续下降，通胀、战争和特朗普的关税是主要原因。",
+        "en": "Economists state that U.S. consumer confidence has been on a downward trend since the Covid pandemic, with inflation, wars, and Trump's tariffs being the main causes.",
+        "de": "Ökonomen stellen fest, dass das Vertrauen der US-Verbraucher seit der Covid-Pandemie rückläufig ist, wobei Inflation, Kriege und Trumps Zölle die Hauptursachen sind."
       },
-      "source": "CNBC",
-      "date": "2026-05-15",
+      "source": "CNBC – Markets",
+      "date": "2026-05-14",
       "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html"
     }
   ]
