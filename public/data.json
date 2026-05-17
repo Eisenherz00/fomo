@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-16T17:29:40.505191+00:00",
+  "generatedAt": "2026-05-17T07:22:52.752621+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "马斯克与奥特曼的对决：最终周，律师们对双方的可信度展开激烈辩论。",
+        "zh": "马斯克与奥特曼的第三周：埃隆·马斯克与OpenAI首席执行官山姆·奥特曼互相攻击对方的信誉。现在陪审团将选择一方。",
         "en": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
         "de": "Musk gegen Altman Woche 3: Elon Musk und Sam Altman lieferten sich einen Schlagabtausch über die Glaubwürdigkeit des jeweils anderen. Jetzt wird die Jury eine Seite wählen."
       },
       "summary": {
-        "zh": "在马斯克与奥特曼的审判最后一周，律师们对两位科技巨头的可信度进行了激烈的辩论。陪审团即将做出裁决。",
-        "en": "In the final week of the Musk v. Altman trial, lawyers debated the credibility of the two tech giants. The jury is set to make a decision.",
-        "de": "In der letzten Woche des Prozesses Musk gegen Altman debattierten die Anwälte über die Glaubwürdigkeit der beiden Technologieriesen. Die Jury wird eine Entscheidung treffen."
+        "zh": "在马斯克与奥特曼的审判最后一周，律师们对埃隆·马斯克和OpenAI首席执行官山姆·奥特曼的信誉进行了激烈的辩论。陪审团即将做出决定。",
+        "en": "In the final week of the Musk v. Altman trial, lawyers fiercely debated the credibility of Elon Musk and OpenAI CEO Sam Altman. The jury is set to make a decision.",
+        "de": "In der letzten Woche des Prozesses Musk gegen Altman debattierten die Anwälte heftig über die Glaubwürdigkeit von Elon Musk und OpenAI-CEO Sam Altman. Die Jury wird eine Entscheidung treffen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-15",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "中国的AI短剧工厂与世卫组织的健康目标缺失。",
+        "zh": "中国的AI短剧工厂和世卫组织缺失的健康目标：今天的下载。",
         "en": "The Download: China’s AI drama factory and the WHO’s missing health targets.",
-        "de": "Der Download: Chinas KI-Drama-Fabrik und die fehlenden Gesundheitsziele der WHO."
+        "de": "Der Download: Chinas KI-Dramafabrik und die fehlenden Gesundheitsziele der WHO."
       },
       "summary": {
-        "zh": "本期《下载》报道了中国如何利用AI技术制作短剧，并指出世界卫生组织在全球健康目标方面的缺失。",
-        "en": "This edition of The Download discusses how China is leveraging AI technology to produce short dramas and highlights the World Health Organization's shortcomings in global health targets.",
-        "de": "Diese Ausgabe des Downloads behandelt, wie China KI-Technologie nutzt, um Kurzdramen zu produzieren, und hebt die Mängel der Weltgesundheitsorganisation bei den globalen Gesundheitszielen hervor."
+        "zh": "本期《下载》报道了中国的AI短剧工厂以及世界卫生组织未能实现的健康目标。该新闻通讯提供了全球技术领域的最新动态。",
+        "en": "This edition of The Download covers China's AI drama factory and the World Health Organization's unmet health targets. The newsletter provides the latest updates in the technology sector.",
+        "de": "Diese Ausgabe des Downloads behandelt Chinas KI-Dramafabrik und die unerfüllten Gesundheitsziele der Weltgesundheitsorganisation. Der Newsletter bietet die neuesten Updates im Technologiesektor."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-15",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "金融服务中代理AI的数据准备情况。",
+        "zh": "金融服务中代理AI的数据准备情况：金融服务公司在商业AI方面有独特的需求。",
         "en": "Data readiness for agentic AI in financial services.",
         "de": "Datenbereitschaft für agentische KI im Finanzdienstleistungssektor."
       },
       "summary": {
-        "zh": "金融服务公司在业务AI方面有独特需求，尤其是在高度监管的环境中。文章探讨了数据准备的重要性。",
-        "en": "Financial services companies have unique needs regarding business AI, particularly in a highly regulated environment. The article explores the importance of data readiness.",
-        "de": "Finanzdienstleistungsunternehmen haben besondere Anforderungen an Geschäfts-KI, insbesondere in einem stark regulierten Umfeld. Der Artikel untersucht die Bedeutung der Datenbereitschaft."
+        "zh": "金融服务公司在商业AI方面面临独特的需求，尤其是在高度监管的环境中。本文探讨了如何准备数据以支持代理AI的应用。",
+        "en": "Financial services companies face unique demands in business AI, especially in highly regulated environments. This article explores how to prepare data to support the application of agentic AI.",
+        "de": "Finanzdienstleistungsunternehmen stehen vor einzigartigen Anforderungen an die GeschäftskI, insbesondere in stark regulierten Umgebungen. Dieser Artikel untersucht, wie man Daten vorbereitet, um die Anwendung agentischer KI zu unterstützen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-14",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "阿尔及利亚在霍尔木兹海峡的独家报道：重型船只交通和地区紧张局势上升。",
-        "en": "Al Jazeera’s exclusive report from the Strait of Hormuz: Heavy ship traffic and rising regional tensions over one of the world’s most critical energy routes.",
-        "de": "Al Jazeeras exklusiver Bericht aus der Straße von Hormuz: Hohe Schiffsverkehr und steigende regionale Spannungen über eine der weltweit kritischsten Energie-Routen."
+        "zh": "世卫组织宣布刚果民主共和国和乌干达的埃博拉疫情为全球健康紧急情况。",
+        "en": "WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency.",
+        "de": "WHO erklärt Ebola-Ausbruch in der DR Kongo und Uganda zu einem globalen Gesundheitsnotfall."
       },
       "summary": {
-        "zh": "阿尔及利亚的独家报道揭示了霍尔木兹海峡的重型船只交通和日益紧张的地区局势，这一地区是全球能源运输的关键通道。",
-        "en": "Al Jazeera's exclusive report reveals heavy ship traffic and rising regional tensions in the Strait of Hormuz, a critical route for global energy transport.",
-        "de": "Der exklusive Bericht von Al Jazeera zeigt den hohen Schiffsverkehr und die steigenden regionalen Spannungen in der Straße von Hormuz, einer kritischen Route für den globalen Energietransport."
+        "zh": "世卫组织宣布刚果民主共和国和乌干达的埃博拉疫情为全球健康紧急情况。刚果民主共和国报告了246例病例和80例死亡。",
+        "en": "The WHO has declared the Ebola outbreak in the Democratic Republic of Congo and Uganda a global health emergency. The DRC accounts for 246 cases and 80 deaths.",
+        "de": "Die WHO hat den Ebola-Ausbruch in der Demokratischen Republik Kongo und Uganda zu einem globalen Gesundheitsnotfall erklärt. Die DR Kongo verzeichnet 246 Fälle und 80 Todesfälle."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss"
+      "date": "2026-05-17",
+      "url": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "苏丹军队从RSF手中夺回靠近埃塞俄比亚边界的关键城镇。",
-        "en": "Sudanese army captures key town near Ethiopian border from RSF.",
-        "de": "Sudanesische Armee erobert wichtige Stadt nahe der äthiopischen Grenze von der RSF."
+        "zh": "伊拉克新总理阿里·扎伊迪正式就职。",
+        "en": "Iraq’s new PM Ali al-Zaidi formally takes over.",
+        "de": "Iraks neuer Premierminister Ali al-Zaidi tritt offiziell sein Amt an."
       },
       "summary": {
-        "zh": "苏丹军队宣布重新夺回东南部蓝尼尔州的一座重要城镇，并对RSF造成重大损失。",
-        "en": "The Sudanese army announced it has retaken a vital town in southeastern Blue Nile state and inflicted heavy losses on the RSF.",
-        "de": "Die sudanesische Armee gab bekannt, dass sie eine wichtige Stadt im südöstlichen Bundesstaat Blue Nile zurückerobert hat und der RSF schwere Verluste zugefügt hat."
+        "zh": "伊拉克的新总理阿里·扎伊迪在巴格达正式就职，并承诺进行改革。",
+        "en": "Iraq's new Prime Minister Ali al-Zaidi has formally taken office in Baghdad, pledging reforms.",
+        "de": "Iraks neuer Premierminister Ali al-Zaidi hat offiziell in Bagdad sein Amt angetreten und Reformen versprochen."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-16",
-      "url": "https://www.aljazeera.com/news/2026/5/16/sudanese-army-captures-key-town-near-ethiopian-border-from-rsf?traffic_source=rss"
+      "date": "2026-05-17",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "哈马斯确认以色列袭击中卡萨姆旅领导人被杀。",
-        "en": "Hamas confirms killing of Qassam Brigades leader in Israeli attack.",
-        "de": "Hamas bestätigt die Tötung des Führers der Qassam-Brigaden bei einem israelischen Angriff."
+        "zh": "台湾坚称其独立，特朗普发出警告。",
+        "en": "Taiwan insists it is independent after Trump warning.",
+        "de": "Taiwan besteht auf seiner Unabhängigkeit nach Warnung von Trump."
       },
       "summary": {
-        "zh": "哈马斯确认以色列袭击中，卡萨姆旅领导人伊扎·阿尔丁·哈达德被杀，事件造成其他七人遇难。",
-        "en": "Hamas confirmed that Izz al-Din al-Haddad, the leader of its armed wing, was killed in an Israeli attack that also left seven others dead.",
-        "de": "Hamas bestätigte, dass Izz al-Din al-Haddad, der Führer seines bewaffneten Arms, bei einem israelischen Angriff getötet wurde, bei dem auch sieben andere ums Leben kamen."
+        "zh": "在特朗普警告台湾不要正式宣布独立后，台湾重申其独立地位。此事引发了国际关注。",
+        "en": "Following Trump's warning against a formal declaration of independence, Taiwan has reiterated its independent status. This has drawn international attention.",
+        "de": "Nach Trumps Warnung vor einer formellen Unabhängigkeitserklärung hat Taiwan seinen Status als unabhängig erneut bekräftigt. Dies hat internationale Aufmerksamkeit erregt."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-05-16",
-      "url": "https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员现在预计美联储的下一次加息将是由于通胀激增。",
+        "zh": "交易员现在预计美联储的下一个利率举措将是加息，因通胀激增。",
         "en": "Traders now see next Fed interest rate move as a hike following inflation surge.",
-        "de": "Händler sehen nun den nächsten Zinsschritt der Fed als Erhöhung nach dem Anstieg der Inflation."
+        "de": "Händler erwarten nun, dass der nächste Zinsschritt der Fed eine Erhöhung sein wird, nachdem die Inflation gestiegen ist."
       },
       "summary": {
-        "zh": "由于通货膨胀的激增，交易员们预计美联储将在12月之前加息，这一变化反映了市场对未来货币政策的预期。",
-        "en": "Traders are now anticipating a Fed interest rate hike as soon as December due to the surge in inflation, reflecting market expectations for future monetary policy.",
-        "de": "Händler erwarten nun eine Zinserhöhung der Fed bereits im Dezember aufgrund des Anstiegs der Inflation, was die Markterwartungen für die zukünftige Geldpolitik widerspiegelt."
+        "zh": "由于通胀激增，交易员们预计美联储将在12月之前加息。市场对未来的利率变化表现出强烈的信心。",
+        "en": "Due to the surge in inflation, traders expect the Fed to raise rates as soon as December. The market shows strong confidence in future rate changes.",
+        "de": "Aufgrund des Anstiegs der Inflation erwarten die Händler, dass die Fed die Zinsen bereits im Dezember anhebt. Der Markt zeigt großes Vertrauen in zukünftige Zinssatzänderungen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-15",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "经济预测者表示，第二季度通胀率预计将达到6%。",
+        "zh": "通胀率预计在第二季度达到6%，顶级经济预测者表示。",
         "en": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say.",
-        "de": "Inflationsrate wird im zweiten Quartal voraussichtlich 6 % erreichen, sagen führende Wirtschaftswissenschaftler."
+        "de": "Inflationsrate wird voraussichtlich im zweiten Quartal 6% erreichen, sagen führende Wirtschaftsforscher."
       },
       "summary": {
-        "zh": "根据经济预测者的最新调查，通胀率在未来几个月可能会进一步上升，预计第二季度将达到6%。",
-        "en": "According to the latest survey of economic forecasters, inflation is likely to rise further in the coming months, with projections indicating a 6% rate in the second quarter.",
-        "de": "Laut der neuesten Umfrage von Wirtschaftswissenschaftlern wird die Inflation in den kommenden Monaten voraussichtlich weiter steigen, wobei für das zweite Quartal eine Rate von 6 % prognostiziert wird."
+        "zh": "顶级经济预测者表示，通胀率在未来几个月可能会进一步上升，预计在第二季度将达到6%。",
+        "en": "Top economic forecasters indicate that inflation rates are likely to rise further in the coming months, projecting a 6% rate in the second quarter.",
+        "de": "Führende Wirtschaftsforscher geben an, dass die Inflationsraten in den kommenden Monaten voraussichtlich weiter steigen werden, und prognostizieren eine Rate von 6% im zweiten Quartal."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-15",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "债券市场认为美联储在通胀问题上落后于形势。",
+        "zh": "债券市场认为美联储在通胀方面落后，华尔什接任。",
         "en": "Bond market believes Fed behind the curve on inflation as Warsh takes over.",
         "de": "Der Anleihemarkt glaubt, dass die Fed bei der Inflation hinterherhinkt, während Warsh übernimmt."
       },
       "summary": {
-        "zh": "随着沃什接管美联储，债券交易者认为美联储在应对通胀方面的立场滞后，市场期待政策的转变。",
-        "en": "As Warsh takes over the Fed, bond traders believe the central bank is lagging in its response to inflation, with the market anticipating a shift in policy.",
-        "de": "Während Warsh die Fed übernimmt, glauben Anleihe-Händler, dass die Zentralbank bei ihrer Reaktion auf die Inflation hinterherhinkt, wobei der Markt eine Änderung der Politik erwartet."
+        "zh": "随着华尔什接任，美联储在通胀问题上的应对被认为滞后。债券交易者希望中央银行的政策转向紧缩。",
+        "en": "With Warsh taking over, the Fed's response to inflation is seen as lagging. Bond traders hope for a shift towards tightening monetary policy.",
+        "de": "Mit Warsh an der Spitze wird die Reaktion der Fed auf die Inflation als verzögert angesehen. Anleihe-Händler hoffen auf eine Verschiebung hin zu einer strafferen Geldpolitik."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-14",
