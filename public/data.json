@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-17T17:31:19.078406+00:00",
+  "generatedAt": "2026-05-18T08:32:08.155044+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "马斯克与奥特曼的对决第三周：埃隆·马斯克与OpenAI首席执行官山姆·奥特曼互相攻击对方的可信度。现在陪审团将选择一方。",
+        "zh": "马斯克与奥特曼的第三周：埃隆·马斯克与OpenAI首席执行官山姆·奥特曼就彼此的可信度进行了激烈交锋。现在陪审团将选择一方。",
         "en": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-        "de": "Musk gegen Altman Woche 3: Elon Musk und Sam Altman haben sich gegenseitig über die Glaubwürdigkeit angegriffen. Jetzt wird die Jury eine Seite wählen."
+        "de": "Musk gegen Altman Woche 3: Elon Musk und Sam Altman lieferten sich einen Schlagabtausch über die Glaubwürdigkeit des jeweils anderen. Jetzt wird die Jury eine Seite wählen."
       },
       "summary": {
-        "zh": "在马斯克与奥特曼的审判最后一周，律师们就埃隆·马斯克和OpenAI首席执行官山姆·奥特曼的可信度展开了激烈辩论。陪审团即将做出决定。",
-        "en": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. The jury is set to make a decision.",
-        "de": "In der letzten Woche des Prozesses Musk gegen Altman haben die Anwälte über die Glaubwürdigkeit von Elon Musk und OpenAI-CEO Sam Altman heftig gestritten. Die Jury steht kurz davor, eine Entscheidung zu treffen."
+        "zh": "在马斯克与奥特曼的审判最后一周，律师们就埃隆·马斯克和OpenAI首席执行官山姆·奥特曼的可信度进行了激烈辩论。陪审团将决定谁的立场更具说服力。",
+        "en": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. The jury will decide whose position is more persuasive.",
+        "de": "In der letzten Woche des Prozesses Musk gegen Altman lieferten sich die Anwälte einen Schlagabtausch über die Glaubwürdigkeit von Elon Musk und OpenAI-CEO Sam Altman. Die Jury wird entscheiden, wessen Position überzeugender ist."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-15",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "中国的AI短剧工厂和世卫组织缺失的健康目标：今天的下载版",
+        "zh": "中国的AI短剧工厂和世卫组织缺失的健康目标：今天的下载",
         "en": "The Download: China’s AI drama factory and the WHO’s missing health targets.",
         "de": "Der Download: Chinas KI-Dramafabrik und die fehlenden Gesundheitsziele der WHO."
       },
       "summary": {
-        "zh": "今天的下载版提供了关于中国AI短剧工厂的最新动态，以及世界卫生组织在健康目标方面的缺失情况。",
-        "en": "Today's edition of The Download provides updates on China's AI drama factory and the World Health Organization's missing health targets.",
-        "de": "Die heutige Ausgabe des Downloads bietet Neuigkeiten über Chinas KI-Dramafabrik und die fehlenden Gesundheitsziele der Weltgesundheitsorganisation."
+        "zh": "今天的下载提供了关于中国如何利用人工智能制作短剧的见解，以及世界卫生组织在实现全球健康目标方面的挑战。",
+        "en": "Today's Download provides insights into how China is leveraging AI to produce short dramas and the challenges the World Health Organization faces in achieving global health targets.",
+        "de": "Der heutige Download bietet Einblicke, wie China KI nutzt, um Kurzdramen zu produzieren, und die Herausforderungen, vor denen die Weltgesundheitsorganisation steht, um globale Gesundheitsziele zu erreichen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-15",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "金融服务中代理AI的数据准备：金融服务公司在商业AI方面有独特的需求。",
+        "zh": "金融服务中代理AI的数据准备情况",
         "en": "Data readiness for agentic AI in financial services.",
         "de": "Datenbereitschaft für agentische KI im Finanzdienstleistungssektor."
       },
       "summary": {
-        "zh": "金融服务公司在商业AI方面面临独特的需求，尤其是在高度监管的环境中，数据准备至关重要。",
-        "en": "Financial services companies face unique needs in business AI, particularly in a highly regulated environment where data readiness is crucial.",
-        "de": "Finanzdienstleistungsunternehmen haben einzigartige Anforderungen an die Geschäftskünstliche Intelligenz, insbesondere in einem stark regulierten Umfeld, in dem die Datenbereitschaft entscheidend ist."
+        "zh": "金融服务公司在业务AI方面有独特的需求，尤其是在高度监管的环境中。文章探讨了如何确保数据准备以支持代理AI的有效运作。",
+        "en": "Financial services companies have unique needs regarding business AI, especially in highly regulated environments. The article discusses how to ensure data readiness to support the effective operation of agentic AI.",
+        "de": "Finanzdienstleistungsunternehmen haben besondere Anforderungen an Geschäfts-KI, insbesondere in stark regulierten Umgebungen. Der Artikel erörtert, wie man die Datenbereitschaft sicherstellt, um den effektiven Betrieb von agentischer KI zu unterstützen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-14",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列在加沙杀死的五名社区厨房工人中的三人：自去年所谓的停火以来，以色列在加沙的袭击已导致至少871名巴勒斯坦人死亡。",
-        "en": "Three community kitchen workers among five killed by Israel in Gaza.",
-        "de": "Drei Mitarbeiter einer Gemeinschaftsküche unter den fünf von Israel in Gaza Getöteten."
+        "zh": "马里无人机袭击造成至少10名平民在婚礼上遇难",
+        "en": "Mali drone strikes kill at least 10 civilians at wedding.",
+        "de": "Drohnenangriffe in Mali töten mindestens 10 Zivilisten bei einer Hochzeit."
       },
       "summary": {
-        "zh": "以色列对加沙的袭击导致五人遇难，其中包括三名社区厨房的工人。自去年停火以来，已有871名巴勒斯坦人遇难。",
-        "en": "Israeli attacks on Gaza have resulted in five fatalities, including three community kitchen workers. At least 871 Palestinians have died since the ceasefire began last year.",
-        "de": "Die israelischen Angriffe auf Gaza haben fünf Todesopfer gefordert, darunter drei Mitarbeiter einer Gemeinschaftsküche. Seit Beginn des Waffenstillstands im letzten Jahr sind mindestens 871 Palästinenser gestorben."
+        "zh": "马里军方在上个月遭到与基地组织有关的武装分子和图阿雷格分裂分子的攻击后，进行了无人机袭击，导致至少10名平民在婚礼上遇难。",
+        "en": "Mali's military carried out drone strikes following attacks last month by al-Qaeda-linked fighters and Tuareg separatists, resulting in at least 10 civilian deaths at a wedding.",
+        "de": "Die malische Armee führte Drohnenangriffe durch, nachdem es letzten Monat zu Angriffen von mit al-Qaida verbundenen Kämpfern und Tuareg-Separatisten gekommen war, was zu mindestens 10 zivilen Todesopfern bei einer Hochzeit führte."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-17",
-      "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss"
+      "date": "2026-05-18",
+      "url": "https://www.aljazeera.com/news/2026/5/18/mali-drone-strikes-kill-at-least-10-civilians-at-wedding?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "加拿大外长：美国仍然是可靠的盟友吗？",
-        "en": "Canadian FM: Is the US still a reliable ally?",
-        "de": "Kanadischer Außenminister: Ist die USA noch ein zuverlässiger Verbündeter?"
+        "zh": "伊朗战争第80天：特朗普发出警告；德黑兰准备应对侵略",
+        "en": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression.",
+        "de": "Iran-Krieg Tag 80: Trump warnt; Teheran bereit, Aggressionen zu konfrontieren."
       },
       "summary": {
-        "zh": "加拿大外长安妮塔·阿南德讨论了特朗普、北约、以色列、中国以及加拿大在国际上的角色。",
-        "en": "Canadian Foreign Minister Anita Anand discusses Donald Trump, NATO, Israel, China, and Canada's role in the international arena.",
-        "de": "Die kanadische Außenministerin Anita Anand diskutiert über Donald Trump, die NATO, Israel, China und die Rolle Kanadas auf internationaler Ebene."
+        "zh": "在伊朗战争的第80天，特朗普发出警告，德黑兰表示准备应对任何侵略，尽管以色列在黎巴嫩的攻击仍在继续。",
+        "en": "On day 80 of the Iran war, Trump issues a warning while Tehran states it is ready to confront any aggression, despite ongoing Israeli attacks in Lebanon.",
+        "de": "Am Tag 80 des Iran-Kriegs warnt Trump, während Teheran erklärt, bereit zu sein, jede Aggression zu konfrontieren, trotz anhaltender israelischer Angriffe im Libanon."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-17",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss"
+      "date": "2026-05-18",
+      "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国大学毕业生在经济不确定中面临严峻就业市场：政府削减资金、战争、关税和AI进步加剧了新毕业生寻找稳定工作的竞争。",
-        "en": "US college graduates face harsh job market amid economic uncertainty.",
-        "de": "US-College-Absolventen sehen sich inmitten wirtschaftlicher Unsicherheit einem harten Arbeitsmarkt gegenüber."
+        "zh": "英国面临对斯塔默的慢性政变的领导权停滞",
+        "en": "Britain faces weeks of leadership limbo in slow-motion coup against Starmer.",
+        "de": "Großbritannien steht vor Wochen der Führungsstagnation in einem langsamen Putsch gegen Starmer."
       },
       "summary": {
-        "zh": "美国大学毕业生在经济不确定性加剧的情况下，面临着严峻的就业市场，政府削减资金和AI的进步使得竞争更加激烈。",
-        "en": "US college graduates are facing a tough job market amid increasing economic uncertainty, with government funding cuts and advancements in AI intensifying competition.",
-        "de": "US-College-Absolventen sehen sich inmitten zunehmender wirtschaftlicher Unsicherheit einem harten Arbeitsmarkt gegenüber, da staatliche Mittel gekürzt und Fortschritte in der KI den Wettbewerb verschärfen."
+        "zh": "基尔·斯塔默面临保持权威的挑战，批评者称他是一个“跛脚鸭”领导者，英国政坛的领导权陷入停滞。",
+        "en": "Keir Starmer faces challenges in maintaining authority, with critics labeling him a 'lame-duck' leader as the UK's political leadership remains in limbo.",
+        "de": "Keir Starmer sieht sich Herausforderungen gegenüber, seine Autorität aufrechtzuerhalten, während Kritiker ihn als 'lahmen Führer' bezeichnen, da die politische Führung Großbritanniens in der Schwebe bleibt."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-17",
-      "url": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss"
+      "date": "2026-05-18",
+      "url": "https://www.aljazeera.com/news/2026/5/18/britain-faces-weeks-of-leadership-limbo-in-slow-motion-coup-against-starmer?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "交易员现在将下一个美联储利率举措视为加息，因通胀激增。",
+        "zh": "交易员现在预计美联储的下一步利率举措将是加息，因通胀激增",
         "en": "Traders now see next Fed interest rate move as a hike following inflation surge.",
-        "de": "Händler sehen den nächsten Zinsschritt der Fed nun als Erhöhung nach dem Anstieg der Inflation."
+        "de": "Händler sehen den nächsten Zinsschritt der Fed jetzt als Anhebung nach dem Anstieg der Inflation."
       },
       "summary": {
-        "zh": "由于通胀激增，交易员们预计美联储将于12月加息。市场对未来几个月的加息预期正在上升。",
-        "en": "Traders are now anticipating a Fed rate hike in December due to the surge in inflation. Expectations for rate increases in the coming months are rising.",
-        "de": "Händler erwarten nun aufgrund des Anstiegs der Inflation eine Zinserhöhung der Fed im Dezember. Die Erwartungen an Zinserhöhungen in den kommenden Monaten steigen."
+        "zh": "由于通胀激增，交易员们预计美联储将在12月之前加息。市场对未来利率的预期发生了显著变化。",
+        "en": "Due to the surge in inflation, traders are now expecting the Federal Reserve to raise interest rates as soon as December. Market expectations for future rates have shifted significantly.",
+        "de": "Aufgrund des Anstiegs der Inflation erwarten Händler nun, dass die Federal Reserve die Zinssätze bereits im Dezember anhebt. Die Markterwartungen für zukünftige Zinssätze haben sich erheblich verschoben."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-15",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "通胀率预计在第二季度达到6%，顶级经济预测者表示。",
+        "zh": "通胀率预计在第二季度达到6%，顶级经济预测者表示",
         "en": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say.",
-        "de": "Inflationsrate wird voraussichtlich im zweiten Quartal 6% erreichen, sagen führende Wirtschaftswissenschaftler."
+        "de": "Inflationsrate wird voraussichtlich im zweiten Quartal 6% erreichen, sagen führende Wirtschaftsvorhersager."
       },
       "summary": {
-        "zh": "顶级经济预测者预计，通胀率将在未来几个月进一步上升，可能在第二季度达到6%。",
-        "en": "Top economic forecasters predict that inflation rates will continue to rise, potentially hitting 6% in the second quarter.",
-        "de": "Führende Wirtschaftswissenschaftler prognostizieren, dass die Inflationsraten weiter steigen und im zweiten Quartal 6% erreichen könnten."
+        "zh": "顶级经济预测者预计，通胀率将在接下来的几个月内进一步上升，可能在第二季度达到6%。",
+        "en": "Top economic forecasters predict that inflation rates are likely to rise further in the coming months, potentially hitting 6% in the second quarter.",
+        "de": "Führende Wirtschaftsvorhersager prognostizieren, dass die Inflationsraten in den kommenden Monaten voraussichtlich weiter steigen werden und im zweiten Quartal 6% erreichen könnten."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-15",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国消费者对经济仍感到悲观。什么时候会好转？",
-        "en": "Americans still feel pessimistic about the economy. When will it get better?",
-        "de": "Amerikaner sind weiterhin pessimistisch gegenüber der Wirtschaft. Wann wird es besser?"
+        "zh": "债券市场认为美联储在通胀问题上滞后",
+        "en": "Bond market believes Fed behind the curve on inflation as Warsh takes over.",
+        "de": "Der Anleihemarkt glaubt, dass die Fed bei der Inflation hinterherhinkt, während Warsh übernimmt."
       },
       "summary": {
-        "zh": "美国消费者的信心自新冠疫情以来一直在下降，经济学家指出，通胀、战争和特朗普的关税是造成这种悲观情绪的原因。",
-        "en": "U.S. consumer confidence has been on a downward trend since the Covid pandemic, with economists citing inflation, wars, and Trump's tariffs as contributing factors to this pessimism.",
-        "de": "Das Vertrauen der US-Verbraucher ist seit der Covid-Pandemie rückläufig, wobei Ökonomen Inflation, Kriege und Trumps Zölle als beitragende Faktoren für diesen Pessimismus anführen."
+        "zh": "随着沃什接管，美联储在通胀问题上的立场被认为滞后，债券交易员希望中央银行的宽松政策被收紧。",
+        "en": "As Warsh takes over, the Federal Reserve's stance on inflation is perceived as lagging, with bond traders hoping for a shift from easing to tightening policies.",
+        "de": "Während Warsh übernimmt, wird die Haltung der Federal Reserve zur Inflation als hinterherhinkend wahrgenommen, wobei Anleihe-Händler auf eine Verschiebung von Lockerungs- zu Straffungspolitiken hoffen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-15",
-      "url": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html"
+      "date": "2026-05-14",
+      "url": "https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html"
     }
   ]
 }
