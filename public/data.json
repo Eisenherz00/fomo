@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-05-18T18:16:39.251002+00:00",
+  "generatedAt": "2026-05-19T08:02:25.657703+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "本周谷歌的期待：这篇文章最初出现在我们的AI周刊《算法》中。",
-        "en": "What to expect from Google this week: This story originally appeared in The Algorithm, our weekly newsletter on AI.",
-        "de": "Was diese Woche von Google zu erwarten ist: Diese Geschichte erschien ursprünglich in unserem wöchentlichen Newsletter über KI, The Algorithm."
+        "zh": "这是埃隆·马斯克为什么输掉对OpenAI的诉讼的原因",
+        "en": "Here’s why Elon Musk lost his suit against OpenAI",
+        "de": "Das ist der Grund, warum Elon Musk seine Klage gegen OpenAI verloren hat"
       },
       "summary": {
-        "zh": "谷歌本周将发布一系列新产品和更新，预计将引起广泛关注。此次发布可能会影响其在AI领域的竞争地位。",
-        "en": "Google is set to unveil a series of new products and updates this week, which are expected to attract significant attention. This release could impact its competitive position in the AI sector.",
-        "de": "Google wird diese Woche eine Reihe neuer Produkte und Updates vorstellen, die voraussichtlich große Aufmerksamkeit erregen werden. Diese Veröffentlichung könnte seine Wettbewerbsposition im KI-Sektor beeinflussen."
+        "zh": "陪审团一致裁定马斯克对OpenAI的诉讼已过时，未能在规定时间内提出。此裁决对马斯克来说是一个重大打击。",
+        "en": "The jury unanimously ruled that Musk's lawsuit against OpenAI was filed too late, delivering a major blow to Musk. This verdict bars his claims based on the statute of limitations.",
+        "de": "Die Jury entschied einstimmig, dass Musk seine Klage gegen OpenAI zu spät eingereicht hat, was einen schweren Schlag für Musk darstellt. Dieses Urteil schließt seine Ansprüche aufgrund der Verjährungsfrist aus."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-05-19",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "本周谷歌会有什么期待",
+        "en": "What to expect from Google this week",
+        "de": "Was diese Woche von Google zu erwarten ist"
+      },
+      "summary": {
+        "zh": "谷歌本周将推出一系列新功能和更新，旨在提升用户体验并加强其在AI领域的领导地位。",
+        "en": "Google is set to unveil a series of new features and updates this week aimed at enhancing user experience and reinforcing its leadership in the AI sector.",
+        "de": "Google wird diese Woche eine Reihe neuer Funktionen und Updates vorstellen, die darauf abzielen, die Benutzererfahrung zu verbessern und seine Führungsposition im KI-Sektor zu stärken."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-18",
       "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "安杜里尔与Meta的军事智能眼镜开发之旅：",
-        "en": "Inside Anduril and Meta’s quest to make smart glasses for warfare:",
-        "de": "Inside Anduril und Metas Bestreben, intelligente Brillen für den Krieg zu entwickeln:"
+        "zh": "Inside Anduril和Meta的军事智能眼镜项目",
+        "en": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+        "de": "Inside Anduril und Metas Suche nach der Herstellung von Smart Glasses für den Krieg"
       },
       "summary": {
-        "zh": "安杜里尔与Meta正在合作开发一种用于军事的增强现实头盔，旨在提升战斗人员的作战能力。该项目的细节首次披露。",
-        "en": "Anduril and Meta are collaborating on the development of an augmented reality headset for military use, aimed at enhancing the operational capabilities of combat personnel. Details of the project have been revealed for the first time.",
-        "de": "Anduril und Meta arbeiten zusammen an der Entwicklung eines Augmented-Reality-Headsets für militärische Zwecke, das darauf abzielt, die operativen Fähigkeiten von Kampfpersonal zu verbessern. Die Einzelheiten des Projekts wurden erstmals bekannt gegeben."
+        "zh": "Anduril与Meta合作开发的增强现实头戴设备正在为军事用途进行原型设计，旨在提升战场上的信息获取能力。",
+        "en": "Anduril, in collaboration with Meta, is prototyping an augmented reality headset for military use, aimed at enhancing situational awareness on the battlefield.",
+        "de": "Anduril entwickelt in Zusammenarbeit mit Meta ein Augmented-Reality-Headset für militärische Zwecke, das darauf abzielt, die Situationswahrnehmung auf dem Schlachtfeld zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-18",
       "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "马斯克与奥特曼的第三周：",
-        "en": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility.",
-        "de": "Musk gegen Altman Woche 3: Elon Musk und Sam Altman tauschten Schläge über die Glaubwürdigkeit des jeweils anderen aus."
-      },
-      "summary": {
-        "zh": "在马斯克与奥特曼的审判第三周，双方律师围绕两位科技领袖的可信度展开激烈辩论。陪审团即将作出裁决。",
-        "en": "In the third week of the Musk v. Altman trial, lawyers engaged in intense debates over the credibility of the two tech leaders. The jury is set to make a decision soon.",
-        "de": "In der dritten Woche des Prozesses Musk gegen Altman führten die Anwälte intensive Debatten über die Glaubwürdigkeit der beiden Technologieführer. Die Jury wird bald eine Entscheidung treffen."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-05-15",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普撤回国税局诉讼，设立17亿美元美国反武器化基金：",
-        "en": "Trump drops IRS lawsuit, sets up $1.7bn US anti-weaponisation fund:",
-        "de": "Trump zieht Klage gegen das IRS zurück und richtet einen 1,7 Milliarden Dollar schweren US-Fonds zur Bekämpfung der Waffenisierung ein:"
+        "zh": "黎巴嫩和叙利亚在以色列攻击和地区变革中重塑关系",
+        "en": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
+        "de": "Libanon und Syrien gestalten ihre Beziehungen angesichts israelischer Angriffe und regionaler Veränderungen neu"
       },
       "summary": {
-        "zh": "特朗普宣布撤回对国税局的诉讼，并设立了一个17亿美元的反武器化基金，此举引发了民主党和政府监督团体的广泛反对。",
-        "en": "Trump announced the withdrawal of his lawsuit against the IRS and established a $1.7 billion anti-weaponisation fund, a move that has sparked widespread backlash from Democrats and government watchdog groups.",
-        "de": "Trump kündigte den Rückzug seiner Klage gegen das IRS an und richtete einen 1,7 Milliarden Dollar schweren Fonds zur Bekämpfung der Waffenisierung ein, was zu weitreichender Kritik von Demokraten und Regierungsaufsichtsgruppen führte."
+        "zh": "黎巴嫩和叙利亚在以色列的攻击和地区政治变化的背景下，正专注于主权和合作，逐渐摆脱叙利亚对黎巴嫩的主导地位。",
+        "en": "Lebanon and Syria are focusing on sovereignty and cooperation amid Israeli attacks and regional political changes, moving away from decades of Syrian dominance over Lebanon.",
+        "de": "Libanon und Syrien konzentrieren sich angesichts israelischer Angriffe und regionaler politischer Veränderungen auf Souveränität und Zusammenarbeit und entfernen sich von jahrzehntelanger syrischer Dominanz über den Libanon."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-18",
-      "url": "https://www.aljazeera.com/economy/2026/5/18/trump-drops-irs-lawsuit-sets-up-1-7bn-us-anti-weaponisation-fund?traffic_source=rss"
+      "date": "2026-05-19",
+      "url": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "菲律宾在政治分裂中启动副总统杜特尔特弹劾审判：",
-        "en": "Philippines launches VP Duterte impeachment trial amid political division:",
-        "de": "Die Philippinen starten das Amtsenthebungsverfahren gegen Vizepräsident Duterte inmitten politischer Spaltung:"
+        "zh": "洛杉矶世界杯体育场工人因ICE部署威胁罢工",
+        "en": "Los Angeles World Cup stadium workers threaten strike over ICE deployment",
+        "de": "Arbeiter im Stadion der Weltmeisterschaft in Los Angeles drohen mit Streik wegen der ICE-Einsetzung"
       },
       "summary": {
-        "zh": "菲律宾国会在政治分歧加剧的背景下，启动了副总统杜特尔特的弹劾审判，尽管众议院领导层发生变化。",
-        "en": "The Philippine Congress has launched the impeachment trial of Vice President Duterte amid escalating political divisions, despite changes in House leadership.",
-        "de": "Der philippinische Kongress hat das Amtsenthebungsverfahren gegen Vizepräsident Duterte inmitten zunehmender politischer Spaltungen eingeleitet, trotz Änderungen in der Führung des Hauses."
+        "zh": "洛杉矶世界杯体育场的工人代表当地工会表示，ICE的存在将导致在2026年世界杯期间的恐惧气候。",
+        "en": "Workers at the Los Angeles World Cup stadium, represented by a local union, state that the presence of ICE would create a climate of fear during the FIFA World Cup 2026.",
+        "de": "Arbeiter im Stadion der Weltmeisterschaft in Los Angeles, vertreten durch eine lokale Gewerkschaft, erklären, dass die Präsenz von ICE während der FIFA-Weltmeisterschaft 2026 ein Klima der Angst schaffen würde."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-18",
-      "url": "https://www.aljazeera.com/news/2026/5/18/philippines-launches-vp-duterte-impeachment-trial-amid-political-division?traffic_source=rss"
+      "date": "2026-05-19",
+      "url": "https://www.aljazeera.com/sports/2026/5/19/los-angeles-world-cup-stadium-workers-threaten-strike-over-ice-deployment?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "2026年世界杯：暴力和抗议是否会考验墨西哥的共同主办地地位？",
-        "en": "World Cup 2026: Will violence and protests test Mexico’s cohost status?:",
-        "de": "Weltmeisterschaft 2026: Werden Gewalt und Proteste den Status Mexikos als Mitgastgeber auf die Probe stellen?:"
+        "zh": "伊朗战争第81天：特朗普推迟攻击；德黑兰表示不会“投降”",
+        "en": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+        "de": "Iran-Krieg Tag 81: Trump verzögert den Angriff; Teheran sagt, es werde sich nicht 'unterwerfen'"
       },
       "summary": {
-        "zh": "随着2026年世界杯的临近，墨西哥的安全问题引发了球迷和人权组织的担忧，可能会影响其共同主办地的地位。",
-        "en": "As the 2026 World Cup approaches, safety concerns in Mexico have raised alarms among fans and rights groups, potentially impacting its status as a cohost.",
-        "de": "Mit dem bevorstehenden Beginn der Weltmeisterschaft 2026 haben Sicherheitsbedenken in Mexiko bei Fans und Menschenrechtsgruppen Alarm ausgelöst, was möglicherweise den Status als Mitgastgeber beeinträchtigen könnte."
+        "zh": "特朗普表示在海湾盟友的压力下推迟对伊朗的攻击，重启谈判的势头正在增强。",
+        "en": "Trump stated that he delayed a scheduled attack on Iran due to pressure from Gulf allies, as momentum for renewed talks gains traction.",
+        "de": "Trump erklärte, dass er einen geplanten Angriff auf den Iran aufgrund des Drucks von Golfstaaten verzögert hat, während der Schwung für erneute Gespräche zunimmt."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-18",
-      "url": "https://www.aljazeera.com/sports/2026/5/18/world-cup-2026-will-violence-and-protests-test-mexicos-cohost-status?traffic_source=rss"
+      "date": "2026-05-19",
+      "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "凯文·沃什将在周五宣誓就任美联储主席：",
-        "en": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday:",
-        "de": "Kevin Warsh wird am Freitag zum Vorsitzenden der Federal Reserve vereidigt:"
+        "zh": "凯文·沃什将于周五宣誓就任联邦储备委员会主席",
+        "en": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+        "de": "Kevin Warsh wird am Freitag als Vorsitzender der Federal Reserve vereidigt"
       },
       "summary": {
-        "zh": "特朗普将在白宫仪式上宣誓凯文·沃什担任美联储主席，此次任命可能对未来的货币政策产生重大影响。",
-        "en": "Trump will swear in Kevin Warsh as Federal Reserve chair during a White House ceremony, a move that could have significant implications for future monetary policy.",
-        "de": "Trump wird Kevin Warsh während einer Zeremonie im Weißen Haus zum Vorsitzenden der Federal Reserve vereidigen, eine Maßnahme, die erhebliche Auswirkungen auf die zukünftige Geldpolitik haben könnte."
+        "zh": "特朗普将在白宫举行的仪式上宣誓就任凯文·沃什为联邦储备委员会主席。",
+        "en": "Trump will swear in Kevin Warsh, his hand-picked choice to lead the Federal Reserve, during a White House ceremony.",
+        "de": "Trump wird Kevin Warsh, seine handverlesene Wahl für die Leitung der Federal Reserve, während einer Zeremonie im Weißen Haus vereidigen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-18",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美联储将在七月提高利率以安抚“债券警惕者”，雅尔登表示：",
-        "en": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says:",
-        "de": "Die Fed wird die Zinssätze im Juli erhöhen müssen, um die 'Bond-Wachsamkeit' zu besänftigen, sagt Yardeni:"
+        "zh": "美联储将在7月提高利率以安抚“债券警惕者”，亚尔登表示",
+        "en": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
+        "de": "Die Fed muss die Zinssätze im Juli erhöhen, um 'Bond-Wachhunde' zu besänftigen, sagt Yardeni"
       },
       "summary": {
-        "zh": "雅尔登表示，随着新任主席凯文·沃什的上任，美联储可能需要在七月提高利率，以应对市场对通胀的担忧。",
-        "en": "Yardeni stated that with the incoming chair Kevin Warsh, the Fed may need to raise interest rates in July to address market concerns over inflation.",
-        "de": "Yardeni erklärte, dass die Fed unter dem neuen Vorsitzenden Kevin Warsh möglicherweise im Juli die Zinssätze erhöhen muss, um den Marktbedenken über die Inflation Rechnung zu tragen."
+        "zh": "即将上任的主席凯文·沃什可能需要推动提高利率，以应对债券市场的压力。",
+        "en": "Incoming Chair Kevin Warsh may need to push for higher interest rates in July to address pressure from bond markets.",
+        "de": "Der designierte Vorsitzende Kevin Warsh könnte im Juli höhere Zinssätze fordern müssen, um dem Druck der Anleihemärkte gerecht zu werden."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-18",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "通货膨胀率预计在第二季度达到6%，顶级经济预测者表示：",
-        "en": "Inflation rate projected to hit 6% in the second quarter, top economic forecasters say:",
-        "de": "Die Inflationsrate wird voraussichtlich im zweiten Quartal 6 % erreichen, sagen führende Wirtschaftsforscher:"
+        "zh": "交易员现在预计美联储的下一个利率举措将是加息，因通胀激增",
+        "en": "Traders now see next Fed interest rate move as a hike following inflation surge",
+        "de": "Händler sehen die nächste Zinsschritte der Fed jetzt als Erhöhung nach dem Anstieg der Inflation"
       },
       "summary": {
-        "zh": "顶级经济预测者预计，近期通货膨胀的激增将在未来几个月继续加剧，可能会影响美联储的政策决策。",
-        "en": "Top economic forecasters predict that the recent surge in inflation will continue to worsen over the coming months, potentially impacting the Fed's policy decisions.",
-        "de": "Führende Wirtschaftsforscher prognostizieren, dass der jüngste Anstieg der Inflation in den kommenden Monaten weiter zunehmen wird, was möglicherweise die politischen Entscheidungen der Fed beeinflusst."
+        "zh": "由于通胀激增，交易员们预计美联储将在12月之前采取加息措施。",
+        "en": "Traders are now pricing in an interest rate hike from the Fed as soon as December due to the surge in inflation.",
+        "de": "Händler preisen jetzt eine Zinserhöhung der Fed bereits für Dezember ein, aufgrund des Anstiegs der Inflation."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-18",
-      "url": "https://www.cnbc.com/2026/05/15/inflation-rate-projected-to-hit-6percent-in-the-second-quarter-top-economic-forecasters-say.html"
+      "date": "2026-05-15",
+      "url": "https://www.cnbc.com/2026/05/15/traders-now-see-next-fed-interest-rate-move-as-a-hike-following-inflation-surge.html"
     }
   ]
 }
