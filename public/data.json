@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-19T08:02:25.657703+00:00",
+  "generatedAt": "2026-05-19T18:19:30.559781+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "这是埃隆·马斯克为什么输掉对OpenAI的诉讼的原因",
-        "en": "Here’s why Elon Musk lost his suit against OpenAI",
-        "de": "Das ist der Grund, warum Elon Musk seine Klage gegen OpenAI verloren hat"
+        "zh": "理解现代网络犯罪格局",
+        "en": "Understanding the modern cybercrime landscape",
+        "de": "Das moderne Cybercrime-Landschaft verstehen"
       },
       "summary": {
-        "zh": "陪审团一致裁定马斯克对OpenAI的诉讼已过时，未能在规定时间内提出。此裁决对马斯克来说是一个重大打击。",
-        "en": "The jury unanimously ruled that Musk's lawsuit against OpenAI was filed too late, delivering a major blow to Musk. This verdict bars his claims based on the statute of limitations.",
-        "de": "Die Jury entschied einstimmig, dass Musk seine Klage gegen OpenAI zu spät eingereicht hat, was einen schweren Schlag für Musk darstellt. Dieses Urteil schließt seine Ansprüche aufgrund der Verjährungsfrist aus."
+        "zh": "HPE在2025年观察到网络犯罪者操作方式的显著变化。HPE威胁实验室分析了现实世界的威胁，强调了这些变化。",
+        "en": "HPE observed significant changes in how cybercriminals operate throughout 2025. The HPE Threat Labs analyzed real-world threats, highlighting these changes.",
+        "de": "HPE beobachtete 2025 erhebliche Veränderungen in der Arbeitsweise von Cyberkriminellen. Die HPE Threat Labs analysierten reale Bedrohungen und hoben diese Veränderungen hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-19",
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/"
+      "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "本周谷歌会有什么期待",
-        "en": "What to expect from Google this week",
-        "de": "Was diese Woche von Google zu erwarten ist"
+        "zh": "下载：穆斯克与奥特曼，战争中的智能眼镜，以及谷歌I/O",
+        "en": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+        "de": "Der Download: Musk gegen Altman, Smart Glasses für den Krieg und Google I/O"
       },
       "summary": {
-        "zh": "谷歌本周将推出一系列新功能和更新，旨在提升用户体验并加强其在AI领域的领导地位。",
-        "en": "Google is set to unveil a series of new features and updates this week aimed at enhancing user experience and reinforcing its leadership in the AI sector.",
-        "de": "Google wird diese Woche eine Reihe neuer Funktionen und Updates vorstellen, die darauf abzielen, die Benutzererfahrung zu verbessern und seine Führungsposition im KI-Sektor zu stärken."
+        "zh": "今天的下载版涵盖了穆斯克与奥特曼的法律斗争、军事用途的智能眼镜以及即将举行的谷歌I/O活动。",
+        "en": "Today's edition of The Download covers the legal battle between Musk and Altman, smart glasses for military use, and the upcoming Google I/O event.",
+        "de": "Die heutige Ausgabe von The Download behandelt den Rechtsstreit zwischen Musk und Altman, Smart Glasses für militärische Zwecke und die bevorstehende Google I/O-Veranstaltung."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-18",
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/"
+      "date": "2026-05-19",
+      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "Inside Anduril和Meta的军事智能眼镜项目",
-        "en": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-        "de": "Inside Anduril und Metas Suche nach der Herstellung von Smart Glasses für den Krieg"
+        "zh": "科洛萨尔生物科学公司在3D打印的人工蛋壳中培育小鸡",
+        "en": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
+        "de": "Colossal Biosciences züchtet Hühner in einer 3D-gedruckten künstlichen Eierschale"
       },
       "summary": {
-        "zh": "Anduril与Meta合作开发的增强现实头戴设备正在为军事用途进行原型设计，旨在提升战场上的信息获取能力。",
-        "en": "Anduril, in collaboration with Meta, is prototyping an augmented reality headset for military use, aimed at enhancing situational awareness on the battlefield.",
-        "de": "Anduril entwickelt in Zusammenarbeit mit Meta ein Augmented-Reality-Headset für militärische Zwecke, das darauf abzielt, die Situationswahrnehmung auf dem Schlachtfeld zu verbessern."
+        "zh": "科洛萨尔生物科学公司正在使用透明的3D打印容器培育小鸡，这一过程展示了生物技术的新进展。",
+        "en": "Colossal Biosciences is growing baby chicks in transparent 3D-printed containers, showcasing advancements in biotechnology.",
+        "de": "Colossal Biosciences züchtet Küken in transparenten 3D-gedruckten Behältern und zeigt damit Fortschritte in der Biotechnologie."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-18",
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/"
+      "date": "2026-05-19",
+      "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "黎巴嫩和叙利亚在以色列攻击和地区变革中重塑关系",
-        "en": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
-        "de": "Libanon und Syrien gestalten ihre Beziehungen angesichts israelischer Angriffe und regionaler Veränderungen neu"
+        "zh": "普京抵达中国与中国领导人习近平会谈",
+        "en": "Putin arrives in China for talks with Chinese leader Xi Jinping",
+        "de": "Putin kommt in China an, um mit dem chinesischen Führer Xi Jinping zu sprechen"
       },
       "summary": {
-        "zh": "黎巴嫩和叙利亚在以色列的攻击和地区政治变化的背景下，正专注于主权和合作，逐渐摆脱叙利亚对黎巴嫩的主导地位。",
-        "en": "Lebanon and Syria are focusing on sovereignty and cooperation amid Israeli attacks and regional political changes, moving away from decades of Syrian dominance over Lebanon.",
-        "de": "Libanon und Syrien konzentrieren sich angesichts israelischer Angriffe und regionaler politischer Veränderungen auf Souveränität und Zusammenarbeit und entfernen sich von jahrzehntelanger syrischer Dominanz über den Libanon."
+        "zh": "俄罗斯总统普京抵达北京，与中国领导人习近平进行会谈，讨论双边关系和合作。",
+        "en": "Russian President Putin has arrived in Beijing for talks with Chinese leader Xi Jinping to discuss bilateral relations and cooperation.",
+        "de": "Der russische Präsident Putin ist in Peking angekommen, um mit dem chinesischen Führer Xi Jinping über bilaterale Beziehungen und Zusammenarbeit zu sprechen."
       },
       "source": "Al Jazeera",
       "date": "2026-05-19",
-      "url": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/putin-arrives-in-china-for-talks-with-chinese-leader-xi-jinping?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "洛杉矶世界杯体育场工人因ICE部署威胁罢工",
-        "en": "Los Angeles World Cup stadium workers threaten strike over ICE deployment",
-        "de": "Arbeiter im Stadion der Weltmeisterschaft in Los Angeles drohen mit Streik wegen der ICE-Einsetzung"
+        "zh": "美国对加沙船队组织者实施制裁，伴随以色列镇压行动",
+        "en": "US imposes sanctions on Gaza flotilla organisers amid Israeli crackdown",
+        "de": "Die USA verhängen Sanktionen gegen die Organisatoren der Gaza-Flottille im Zuge der israelischen Razzia"
       },
       "summary": {
-        "zh": "洛杉矶世界杯体育场的工人代表当地工会表示，ICE的存在将导致在2026年世界杯期间的恐惧气候。",
-        "en": "Workers at the Los Angeles World Cup stadium, represented by a local union, state that the presence of ICE would create a climate of fear during the FIFA World Cup 2026.",
-        "de": "Arbeiter im Stadion der Weltmeisterschaft in Los Angeles, vertreten durch eine lokale Gewerkschaft, erklären, dass die Präsenz von ICE während der FIFA-Weltmeisterschaft 2026 ein Klima der Angst schaffen würde."
+        "zh": "美国对加沙船队的组织者实施制裁，权利倡导者指责华盛顿利用“恐怖主义标签”来打压巴勒斯坦活动。",
+        "en": "The US has imposed sanctions on the organizers of the Gaza flotilla, with rights advocates accusing Washington of using the 'terrorism label' to suppress Palestinian activism.",
+        "de": "Die USA haben Sanktionen gegen die Organisatoren der Gaza-Flottille verhängt, während Rechtevertreter Washington beschuldigen, das 'Terrorismuslabel' zu nutzen, um palästinensische Aktivitäten zu unterdrücken."
       },
       "source": "Al Jazeera",
       "date": "2026-05-19",
-      "url": "https://www.aljazeera.com/sports/2026/5/19/los-angeles-world-cup-stadium-workers-threaten-strike-over-ice-deployment?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗战争第81天：特朗普推迟攻击；德黑兰表示不会“投降”",
-        "en": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
-        "de": "Iran-Krieg Tag 81: Trump verzögert den Angriff; Teheran sagt, es werde sich nicht 'unterwerfen'"
+        "zh": "特朗普表示习近平向他保证中国不会向伊朗提供武器",
+        "en": "Trump says Xi assured him China would not send weapons to Iran",
+        "de": "Trump sagt, Xi habe ihm versichert, dass China keine Waffen an den Iran senden würde"
       },
       "summary": {
-        "zh": "特朗普表示在海湾盟友的压力下推迟对伊朗的攻击，重启谈判的势头正在增强。",
-        "en": "Trump stated that he delayed a scheduled attack on Iran due to pressure from Gulf allies, as momentum for renewed talks gains traction.",
-        "de": "Trump erklärte, dass er einen geplanten Angriff auf den Iran aufgrund des Drucks von Golfstaaten verzögert hat, während der Schwung für erneute Gespräche zunimmt."
+        "zh": "美国总统特朗普表示，中国领导人习近平向他保证，中国不会向伊朗提供武器，并表示如果停火进展不大，他可能会再次打击伊朗。",
+        "en": "US President Trump stated that Chinese leader Xi assured him that China would not send weapons to Iran, adding that he might strike Iran again if progress on a ceasefire is not made.",
+        "de": "US-Präsident Trump erklärte, dass der chinesische Führer Xi ihm versichert habe, dass China keine Waffen an den Iran senden würde, und fügte hinzu, dass er den Iran erneut angreifen könnte, wenn keine Fortschritte bei einem Waffenstillstand erzielt werden."
       },
       "source": "Al Jazeera",
       "date": "2026-05-19",
-      "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/19/trump-says-xi-assured-him-china-would-not-send-weapons-to-iran?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "凯文·沃什将于周五宣誓就任联邦储备委员会主席",
-        "en": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
-        "de": "Kevin Warsh wird am Freitag als Vorsitzender der Federal Reserve vereidigt"
+        "zh": "人工智能经济正在重塑美国梦——蓝领工人准备获胜",
+        "en": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
+        "de": "Die KI-Wirtschaft schreibt den amerikanischen Traum neu – und Arbeiter im Niedriglohnsektor sind bereit zu gewinnen"
       },
       "summary": {
-        "zh": "特朗普将在白宫举行的仪式上宣誓就任凯文·沃什为联邦储备委员会主席。",
-        "en": "Trump will swear in Kevin Warsh, his hand-picked choice to lead the Federal Reserve, during a White House ceremony.",
-        "de": "Trump wird Kevin Warsh, seine handverlesene Wahl für die Leitung der Federal Reserve, während einer Zeremonie im Weißen Haus vereidigen."
+        "zh": "人工智能驱动的招聘放缓正在影响一些大学毕业生的入门级工作，而福特和AT&T等公司则加大对技术工人的招聘力度。",
+        "en": "AI-driven hiring slowdowns are affecting some entry-level jobs for college graduates, while companies like Ford and AT&T ramp up recruiting for skilled workers.",
+        "de": "Die durch KI bedingten Einstellungsverzögerungen wirken sich auf einige Einstiegsjobs für Hochschulabsolventen aus, während Unternehmen wie Ford und AT&T die Rekrutierung von Fachkräften verstärken."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-18",
-      "url": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+      "date": "2026-05-19",
+      "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美联储将在7月提高利率以安抚“债券警惕者”，亚尔登表示",
-        "en": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
-        "de": "Die Fed muss die Zinssätze im Juli erhöhen, um 'Bond-Wachhunde' zu besänftigen, sagt Yardeni"
+        "zh": "凯文·沃什将在周五宣誓就任美联储主席",
+        "en": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+        "de": "Kevin Warsh wird am Freitag als Vorsitzender der Federal Reserve vereidigt"
       },
       "summary": {
-        "zh": "即将上任的主席凯文·沃什可能需要推动提高利率，以应对债券市场的压力。",
-        "en": "Incoming Chair Kevin Warsh may need to push for higher interest rates in July to address pressure from bond markets.",
-        "de": "Der designierte Vorsitzende Kevin Warsh könnte im Juli höhere Zinssätze fordern müssen, um dem Druck der Anleihemärkte gerecht zu werden."
+        "zh": "特朗普将在白宫仪式上宣誓凯文·沃什为美联储主席，这是他亲自挑选的候选人。",
+        "en": "Trump will swear in Kevin Warsh as Federal Reserve chair during a White House ceremony, marking his hand-picked choice for the position.",
+        "de": "Trump wird Kevin Warsh während einer Zeremonie im Weißen Haus als Vorsitzenden der Federal Reserve vereidigen, was seine handverlesene Wahl für die Position markiert."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-18",
-      "url": "https://www.cnbc.com/2026/05/18/the-fed-will-have-to-raise-interest-rates-in-july-to-appease-bond-vigilantes-yardeni-says.html"
+      "date": "2026-05-19",
+      "url": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "交易员现在预计美联储的下一个利率举措将是加息，因通胀激增",
-        "en": "Traders now see next Fed interest rate move as a hike following inflation surge",
-        "de": "Händler sehen die nächste Zinsschritte der Fed jetzt als Erhöhung nach dem Anstieg der Inflation"
+        "zh": "特朗普表示他将允许沃什“做他想做的事情”来处理利率",
+        "en": "Trump says he’ll let Warsh ‘do what he wants to do’ with interest rates",
+        "de": "Trump sagt, er werde Warsh 'machen lassen, was er mit den Zinssätzen tun will'"
       },
       "summary": {
-        "zh": "由于通胀激增，交易员们预计美联储将在12月之前采取加息措施。",
-        "en": "Traders are now pricing in an interest rate hike from the Fed as soon as December due to the surge in inflation.",
-        "de": "Händler preisen jetzt eine Zinserhöhung der Fed bereits für Dezember ein, aufgrund des Anstiegs der Inflation."
+        "zh": "特朗普表示，他将给予即将上任的美联储主席凯文·沃什一些灵活性，以便他可以自由处理利率问题。",
+        "en": "Trump stated that he will give incoming Federal Reserve chair Kevin Warsh some flexibility to freely manage interest rates.",
+        "de": "Trump erklärte, dass er dem neuen Vorsitzenden der Federal Reserve, Kevin Warsh, etwas Flexibilität geben werde, um die Zinssätze frei zu verwalten."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-15",
-      "url": "https://www.cnbc.com/2026/05/15/traders-now-see-next-fed-interest-rate-move-as-a-hike-following-inflation-surge.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-19",
+      "url": "https://www.marketwatch.com/story/trump-says-hell-let-warsh-do-what-he-wants-to-do-with-interest-rates-its-a-remark-that-fed-watchers-have-been-bracing-for-2b014504?mod=mw_rss_topstories"
     }
   ]
 }
