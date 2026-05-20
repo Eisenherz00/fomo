@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-05-20T08:01:53.872966+00:00",
+  "generatedAt": "2026-05-20T18:36:43.323286+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "马斯克诉阿特曼案内幕：听听会议或观看下面",
-        "en": "Roundtables: Inside the Musk v. Altman Trial: Listen to the session or watch below",
-        "de": "Rundtischgespräche: Einblick in den Prozess Musk gegen Altman: Hören Sie die Sitzung oder sehen Sie unten zu"
+        "zh": "绿色钢铁初创公司Boston Metal加大对关键金属的投资",
+        "en": "Green steel startup Boston Metal is doubling down on critical metals",
+        "de": "Das grüne Stahl-Startup Boston Metal setzt verstärkt auf kritische Metalle"
       },
       "summary": {
-        "zh": "马斯克在诉讼中败诉，陪审团一致认为他对OpenAI的起诉已过时，未能及时提起诉讼。",
-        "en": "Elon Musk lost his suit against OpenAI, with the jury unanimously finding that he had sued too late.",
-        "de": "Elon Musk verlor seine Klage gegen OpenAI, da die Jury einstimmig entschied, dass er zu spät geklagt hatte."
+        "zh": "初创公司Boston Metal成功筹集7500万美元资金，旨在生产关键金属，推动绿色钢铁的发展。",
+        "en": "Startup Boston Metal has successfully raised $75 million in funding to produce critical metals, advancing the development of green steel.",
+        "de": "Das Startup Boston Metal hat erfolgreich 75 Millionen US-Dollar an Finanzierung gesammelt, um kritische Metalle zu produzieren und die Entwicklung von grünem Stahl voranzutreiben."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-19",
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
+      "date": "2026-05-20",
+      "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "了解现代网络犯罪格局",
-        "en": "Understanding the modern cybercrime landscape",
-        "de": "Verstehen der modernen Cyberkriminalitätslandschaft"
+        "zh": "下载：完全人工鸡蛋和马斯克为何失败",
+        "en": "The Download: fully artificial chicken eggs and why Musk lost",
+        "de": "Der Download: vollsynthetische Hühnereier und warum Musk verloren hat"
       },
       "summary": {
-        "zh": "HPE观察到网络犯罪活动的显著变化，强调了现实世界威胁的分析。",
-        "en": "HPE observed significant changes in cybercriminal activities, highlighting the analysis of real-world threats.",
-        "de": "HPE beobachtete signifikante Veränderungen in den Aktivitäten von Cyberkriminellen und hob die Analyse realer Bedrohungen hervor."
+        "zh": "今天的下载新闻简报涵盖了完全人工鸡蛋的最新进展以及马斯克在与OpenAI的诉讼中失败的原因。",
+        "en": "Today's edition of The Download covers the latest developments in fully artificial chicken eggs and the reasons behind Musk's loss in his lawsuit against OpenAI.",
+        "de": "Die heutige Ausgabe des Downloads behandelt die neuesten Entwicklungen bei vollständig synthetischen Hühnereiern und die Gründe für Musks Niederlage in seiner Klage gegen OpenAI."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-19",
-      "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/"
+      "date": "2026-05-20",
+      "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "Colossal Biosciences在3D打印的人工蛋壳中培育小鸡",
-        "en": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
-        "de": "Colossal Biosciences züchtet Hühner in einer 3D-gedruckten künstlichen Eierschale"
+        "zh": "了解现代网络犯罪格局",
+        "en": "Understanding the modern cybercrime landscape",
+        "de": "Verständnis der modernen Cyberkriminalitätslandschaft"
       },
       "summary": {
-        "zh": "Colossal Biosciences正在使用透明的3D打印容器培育小鸡，展示了生物工程的最新进展。",
-        "en": "Colossal Biosciences is using transparent 3D-printed containers to grow baby chicks, showcasing advancements in bioengineering.",
-        "de": "Colossal Biosciences verwendet transparente 3D-gedruckte Behälter, um Küken zu züchten und zeigt Fortschritte in der Biotechnologie."
+        "zh": "HPE的Threat Labs在2025年观察到网络犯罪者操作方式的显著变化，分析了现实世界中的威胁。",
+        "en": "HPE's Threat Labs observed significant changes in how cybercriminals operate in 2025, analyzing real-world threats.",
+        "de": "Die Threat Labs von HPE beobachteten 2025 signifikante Veränderungen in der Arbeitsweise von Cyberkriminellen und analysierten reale Bedrohungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-19",
-      "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/"
+      "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普与范斯谈伊朗协议时，中国超级油轮驶出霍尔木兹海峡",
-        "en": "Chinese supertankers exit Hormuz as Trump, Vance talk up Iran deal",
-        "de": "Chinesische Supertanker verlassen Hormuz, während Trump und Vance über den Iran-Deal sprechen"
+        "zh": "俄罗斯‘危险’拦截英国间谍飞机",
+        "en": "Russia ‘dangerously’ intercepts British spy plane over Black Sea",
+        "de": "Russland ‚gefährlich‘ britisches Spionageflugzeug über dem Schwarzen Meer ab"
       },
       "summary": {
-        "zh": "在特朗普和范斯谈论伊朗协议时，中国超级油轮离开霍尔木兹海峡，油价因白宫的最新评论而有所缓和。",
-        "en": "Chinese supertankers exit the Hormuz Strait as Trump and Vance discuss the Iran deal, with oil prices easing amid the latest White House comments.",
-        "de": "Chinesische Supertanker verlassen die Straße von Hormuz, während Trump und Vance über den Iran-Deal sprechen, wobei die Ölpreise aufgrund der neuesten Kommentare aus dem Weißen Haus nachgeben."
+        "zh": "俄罗斯国防部表示，上个月一架无武装的Rivet Joint飞机在国际空域被拦截，正在保障北约东部的安全。",
+        "en": "The Russian Ministry of Defense stated that last month an unarmed Rivet Joint plane was intercepted in international airspace while securing NATO's eastern flank.",
+        "de": "Das russische Verteidigungsministerium erklärte, dass letzten Monat ein unbewaffnetes Rivet-Joint-Flugzeug im internationalen Luftraum abgefangen wurde, während es die Ostflanke der NATO sicherte."
       },
       "source": "Al Jazeera",
       "date": "2026-05-20",
-      "url": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗战争第82天：德黑兰警告‘新战线’",
-        "en": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
-        "de": "Iran-Krieg Tag 82: Teheran warnt vor 'neuen Fronten', während Trump eine Frist setzt"
+        "zh": "特朗普政府起诉古巴的劳尔·卡斯特罗",
+        "en": "Trump administration indicts Cuba’s Raul Castro over 1996 plane shootdown",
+        "de": "Die Trump-Administration erhebt Anklage gegen Raúl Castro von Kuba wegen des Flugzeugabschusses von 1996"
       },
       "summary": {
-        "zh": "在特朗普设定最后期限时，伊朗警告称已从过去的冲突中吸取教训，准备应对新的挑战。",
-        "en": "As Trump sets a deadline, Iran warns it has learned from past clashes and is prepared for new challenges.",
-        "de": "Während Trump eine Frist setzt, warnt Iran, dass es aus früheren Konflikten gelernt hat und bereit ist, sich neuen Herausforderungen zu stellen."
+        "zh": "特朗普政府对古巴前领导人劳尔·卡斯特罗提出指控，标志着华盛顿与哈瓦那之间紧张关系的加剧。",
+        "en": "The Trump administration has indicted former Cuban leader Raul Castro, marking a sharp escalation in tensions between Washington and Havana.",
+        "de": "Die Trump-Administration hat den ehemaligen kubanischen Führer Raúl Castro angeklagt, was eine scharfe Eskalation der Spannungen zwischen Washington und Havanna markiert."
       },
       "source": "Al Jazeera",
       "date": "2026-05-20",
-      "url": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/20/trump-administration-indicts-cubas-raul-castro-over-1996-plane-shootdown?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "台湾总统表示未来不会由‘外部势力’决定",
-        "en": "Taiwan’s president says future will not be decided by ‘external forces’",
-        "de": "Taiwans Präsident sagt, die Zukunft werde nicht von 'externen Kräften' entschieden"
+        "zh": "特朗普开玩笑称可能竞选以色列总理",
+        "en": "Trump jokes about running for Israeli prime minister",
+        "de": "Trump macht Witze über eine Kandidatur für das Amt des israelischen Premierministers"
       },
       "summary": {
-        "zh": "台湾总统赖清德表示，台湾的未来应由其人民决定，尽管面临来自中国和美国的压力。",
-        "en": "Taiwan's President Lai states that the future of Taiwan should be determined by its people, despite facing pressures from China and the U.S.",
-        "de": "Taiwans Präsident Lai erklärt, dass die Zukunft Taiwans von seinem Volk bestimmt werden sollte, trotz des Drucks aus China und den USA."
+        "zh": "特朗普开玩笑称他可能会竞选以色列总理，并声称自己在以色列享有“99%”的支持。",
+        "en": "Trump joked that he could run for Israeli prime minister, claiming he enjoys '99%' support in Israel.",
+        "de": "Trump machte Witze darüber, dass er für das Amt des israelischen Premierministers kandidieren könnte, und behauptete, er genieße '99%' Unterstützung in Israel."
       },
       "source": "Al Jazeera",
       "date": "2026-05-20",
-      "url": "https://www.aljazeera.com/news/2026/5/20/taiwans-president-says-future-will-not-be-decided-by-external-forces?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -109,9 +109,9 @@
         "de": "Putin-Xi-Gespräche beleben stillgelegte russische Gaspipeline, während der Iran-Krieg die Energiemärkte erschüttert"
       },
       "summary": {
-        "zh": "普京与习近平的会谈预计将重启停滞的西伯利亚天然气管道项目，因伊朗战争对能源市场造成影响。",
-        "en": "Talks between Putin and Xi are expected to revive the stalled Power of Siberia gas pipeline project, as the Iran war rattles energy markets.",
-        "de": "Die Gespräche zwischen Putin und Xi sollen das stillgelegte Projekt der Gaspipeline Power of Siberia wiederbeleben, während der Iran-Krieg die Energiemärkte erschüttert."
+        "zh": "普京预计将于周三与中国领导人习近平举行会谈，讨论长期停滞的西伯利亚力量2号天然气管道。",
+        "en": "Putin is expected to hold talks with Chinese leader Xi Jinping on Wednesday to discuss the long-stalled Power of Siberia 2 natural gas pipeline.",
+        "de": "Putin wird voraussichtlich am Mittwoch Gespräche mit dem chinesischen Führer Xi Jinping führen, um die lange stillgelegte Gaspipeline Power of Siberia 2 zu besprechen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-20",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "AI经济正在重塑美国梦——蓝领工人准备获胜",
+        "zh": "人工智能经济正在重写美国梦",
         "en": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
         "de": "Die KI-Wirtschaft schreibt den amerikanischen Traum neu – und Arbeiter im Niedriglohnsektor stehen vor dem Gewinn"
       },
       "summary": {
-        "zh": "AI驱动的招聘放缓影响了一些大学毕业生的入门级职位，但蓝领工人可能会从中受益。",
-        "en": "AI-driven hiring slowdowns are impacting some entry-level jobs for college graduates, but blue-collar workers may benefit.",
-        "de": "Die durch KI bedingten Einstellungsverzögerungen wirken sich auf einige Einstiegsjobs für Hochschulabsolventen aus, aber Arbeiter im Niedriglohnsektor könnten profitieren."
+        "zh": "人工智能驱动的招聘放缓影响了一些大学毕业生的入门级职位，但福特和AT&T等公司正在加大对技术工人的招聘力度。",
+        "en": "AI-driven hiring slowdowns are impacting some entry-level jobs for college graduates, but companies like Ford and AT&T are ramping up recruitment for skilled workers.",
+        "de": "Die durch KI bedingten Einstellungsverzögerungen wirken sich auf einige Einstiegsjobs für Hochschulabsolventen aus, aber Unternehmen wie Ford und AT&T erhöhen die Rekrutierung von Fachkräften."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-19",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "凯文·沃什将在周五宣誓就任美联储主席",
-        "en": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
-        "de": "Kevin Warsh wird am Freitag als Vorsitzender der Federal Reserve vereidigt"
+        "zh": "美联储会议记录显示加息的可能性增加",
+        "en": "Fed minutes show increased chances of interest-rate hike",
+        "de": "Protokolle der Fed zeigen erhöhte Chancen auf Zinserhöhungen"
       },
       "summary": {
-        "zh": "特朗普将在白宫仪式上宣誓凯文·沃什为美联储主席，预计将对货币政策产生重大影响。",
-        "en": "Trump will swear in Kevin Warsh as Federal Reserve chair during a White House ceremony, expected to have significant implications for monetary policy.",
-        "de": "Trump wird Kevin Warsh während einer Zeremonie im Weißen Haus als Vorsitzenden der Federal Reserve vereidigen, was erhebliche Auswirkungen auf die Geldpolitik haben wird."
+        "zh": "美联储官员认为，通货膨胀可能会持续更长时间，从而增加了加息的风险。",
+        "en": "Fed officials see a growing risk that inflation would stay higher for longer, increasing the chances of an interest-rate hike.",
+        "de": "Die Fed-Beamten sehen ein wachsendes Risiko, dass die Inflation länger höher bleibt, was die Chancen auf eine Zinserhöhung erhöht."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-19",
-      "url": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-20",
+      "url": "https://www.marketwatch.com/story/fed-minutes-show-increased-chances-of-interest-rate-hike-e808453b?mod=mw_rss_topstories"
     }
   ]
 }
