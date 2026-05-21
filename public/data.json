@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-21T08:08:54.661829+00:00",
+  "generatedAt": "2026-05-21T18:16:38.818578+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "绿色钢铁初创公司Boston Metal加倍押注关键金属",
-        "en": "Green steel startup Boston Metal is doubling down on critical metals",
-        "de": "Das grüne Stahl-Startup Boston Metal setzt verstärkt auf kritische Metalle"
+        "zh": "Anthropic的Code with Claude展示了编码的未来——无论你喜欢与否",
+        "en": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+        "de": "Anthropics Code with Claude zeigte die Zukunft des Codierens – ob es Ihnen gefällt oder nicht"
       },
       "summary": {
-        "zh": "初创公司Boston Metal成功筹集7500万美元资金，以生产关键金属。这一资金将用于扩大其在绿色钢铁领域的业务。",
-        "en": "Startup Boston Metal has successfully raised $75 million in funding to produce critical metals. This funding will be used to expand its operations in the green steel sector.",
-        "de": "Das Startup Boston Metal hat erfolgreich 75 Millionen Dollar an Finanzierung gesammelt, um kritische Metalle zu produzieren. Diese Finanzierung wird zur Erweiterung seiner Aktivitäten im Bereich grüner Stahl verwendet."
+        "zh": "Anthropic在伦敦举办的Code with Claude活动展示了未来编码的潜力，吸引了众多软件开发者的参与。该活动强调了人工智能在软件开发中的重要性和影响。",
+        "en": "Anthropic's Code with Claude event in London showcased the potential of future coding, attracting numerous software developers. The event emphasized the importance and impact of artificial intelligence in software development.",
+        "de": "Die Veranstaltung Code with Claude von Anthropic in London zeigte das Potenzial zukünftiger Programmierung und zog zahlreiche Softwareentwickler an. Die Veranstaltung betonte die Bedeutung und den Einfluss von Künstlicher Intelligenz in der Softwareentwicklung."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-20",
-      "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
+      "date": "2026-05-21",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：完全人工鸡蛋和马斯克为何失败",
-        "en": "The Download: fully artificial chicken eggs and why Musk lost",
-        "de": "Der Download: vollständig künstliche Hühnereier und warum Musk verloren hat"
+        "zh": "美国政府在九家量子计算公司中获得20亿美元股权",
+        "en": "US government takes $2 billion equity stake in nine quantum computing firms",
+        "de": "US-Regierung erwirbt 2 Milliarden Dollar Beteiligung an neun Quantencomputing-Firmen"
       },
       "summary": {
-        "zh": "今天的下载新闻简报涵盖了完全人工鸡蛋的最新进展以及马斯克在与OpenAI的诉讼中失利的原因。",
-        "en": "Today's edition of The Download covers the latest developments in fully artificial chicken eggs and the reasons behind Musk's loss in the lawsuit against OpenAI.",
-        "de": "Die heutige Ausgabe von The Download behandelt die neuesten Entwicklungen bei vollständig künstlichen Hühnereiern und die Gründe für Musks Niederlage im Rechtsstreit gegen OpenAI."
+        "zh": "美国政府通过对九家量子计算公司的投资，显示出对量子技术的重视。这一举措旨在推动国家在这一关键技术领域的竞争力。",
+        "en": "The US government is showing its commitment to quantum technology through investments in nine quantum computing firms. This move aims to enhance the nation's competitiveness in this critical technology sector.",
+        "de": "Die US-Regierung zeigt ihr Engagement für Quanten-Technologie durch Investitionen in neun Quantencomputing-Firmen. Dieser Schritt zielt darauf ab, die Wettbewerbsfähigkeit des Landes in diesem wichtigen Technologiebereich zu stärken."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-05-20",
-      "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/"
+      "source": "Ars Technica – AI",
+      "date": "2026-05-21",
+      "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "理解现代网络犯罪格局",
-        "en": "Understanding the modern cybercrime landscape",
-        "de": "Verstehen der modernen Cyberkriminalitätslandschaft"
+        "zh": "谷歌发布了威胁数百万Chromium用户的漏洞代码",
+        "en": "Google publishes exploit code threatening millions of Chromium users",
+        "de": "Google veröffentlicht Exploit-Code, der Millionen von Chromium-Nutzern bedroht"
       },
       "summary": {
-        "zh": "HPE的Threat Labs分析了2025年网络犯罪的重大变化，强调了网络犯罪分子的操作方式的演变。",
-        "en": "HPE's Threat Labs analyzed significant changes in cybercrime throughout 2025, highlighting the evolution of how cybercriminals operate.",
-        "de": "Die Threat Labs von HPE analysierten bedeutende Veränderungen in der Cyberkriminalität im Jahr 2025 und hoben die Evolution der Arbeitsweise von Cyberkriminellen hervor."
+        "zh": "谷歌在修复之前发布了一个漏洞代码，可能会影响数百万Chromium用户。这一举动引发了广泛的安全担忧。",
+        "en": "Google published an exploit code that could affect millions of Chromium users before a fix was implemented. This action has raised widespread security concerns.",
+        "de": "Google veröffentlichte einen Exploit-Code, der Millionen von Chromium-Nutzern betreffen könnte, bevor ein Fix umgesetzt wurde. Diese Maßnahme hat weitreichende Sicherheitsbedenken ausgelöst."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-05-19",
-      "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/"
+      "source": "Ars Technica – AI",
+      "date": "2026-05-20",
+      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "台湾总统赖清德表示愿意与特朗普对话",
-        "en": "Taiwan’s President Lai says he would be happy to speak with Donald Trump",
-        "de": "Taiwans Präsident Lai sagt, er wäre glücklich, mit Donald Trump zu sprechen"
+        "zh": "英国的净移民人数因政策收紧而减少近50%",
+        "en": "Net migration to the UK falls by nearly 50 percent amid tighter policies",
+        "de": "Die Nettoeinwanderung in das Vereinigte Königreich sinkt um fast 50 Prozent aufgrund strengerer Richtlinien"
       },
       "summary": {
-        "zh": "台湾总统赖清德表示，愿意与美国前总统特朗普进行对话，这是自1979年华盛顿将外交承认从台北转移到北京以来，两国领导人首次公开表态。",
-        "en": "Taiwan's President Lai expressed his willingness to engage in dialogue with former U.S. President Trump, marking the first public statement from both leaders since Washington shifted diplomatic recognition from Taipei to Beijing in 1979.",
-        "de": "Taiwans Präsident Lai äußerte seine Bereitschaft, mit dem ehemaligen US-Präsidenten Trump in den Dialog zu treten, was die erste öffentliche Erklärung beider Führer seit der diplomatischen Anerkennung von Washington, die 1979 von Taipeh nach Peking verlegt wurde, markiert."
+        "zh": "根据英国国家统计局的数据，2025年12月底的净移民人数从331,000降至171,000，显示出政策收紧的直接影响。",
+        "en": "According to the Office for National Statistics, net migration to the UK fell from 331,000 to 171,000 by the end of December 2025, reflecting the direct impact of tighter policies.",
+        "de": "Laut dem Office for National Statistics sank die Nettoeinwanderung in das Vereinigte Königreich bis Ende Dezember 2025 von 331.000 auf 171.000, was die direkten Auswirkungen strengerer Richtlinien widerspiegelt."
       },
       "source": "Al Jazeera",
       "date": "2026-05-21",
-      "url": "https://www.aljazeera.com/news/2026/5/21/taiwans-president-lai-says-he-would-be-happy-to-speak-with-donald-trump?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/21/net-migration-to-the-uk-falls-by-nearly-50-percent-amid-tighter-policies?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国指控古巴的劳尔·卡斯特罗谋杀1996年两架飞机被击落事件",
-        "en": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-        "de": "Die USA beschuldigen Raúl Castro aus Kuba des Mordes an der 1996 erfolgten Abschuss von zwei Flugzeugen"
+        "zh": "联合国最高法院裁定工人罢工权利在关键条约中“受保护”",
+        "en": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
+        "de": "Der höchste UN-Gerichtshof entscheidet, dass das Streikrecht der Arbeiter in einem wichtigen Vertrag 'geschützt' ist"
       },
       "summary": {
-        "zh": "美国对古巴前领导人劳尔·卡斯特罗提出谋杀指控，涉及1996年两架飞机被击落事件。古巴现任总统称这些指控是出于政治动机。",
-        "en": "The U.S. has charged former Cuban leader Raúl Castro with murder related to the downing of two planes in 1996. Cuba's current president claims the charges are politically motivated.",
-        "de": "Die USA haben den ehemaligen kubanischen Führer Raúl Castro wegen Mordes im Zusammenhang mit dem Abschuss von zwei Flugzeugen im Jahr 1996 angeklagt. Der aktuelle Präsident Kubas behauptet, die Anklagen seien politisch motiviert."
+        "zh": "联合国最高法院的非约束性裁决被工人团体视为胜利，预计将影响全球劳工关系。",
+        "en": "The non-binding ruling by the top UN court is seen as a victory for workers' groups and is expected to influence global labor relations.",
+        "de": "Das nicht bindende Urteil des höchsten UN-Gerichtshofs wird als Sieg für Arbeitergruppen angesehen und wird voraussichtlich die globalen Arbeitsbeziehungen beeinflussen."
       },
-      "source": "BBC News",
+      "source": "Al Jazeera",
       "date": "2026-05-21",
-      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗战争第83天：德黑兰“审查”结束冲突的最新美国回应",
-        "en": "Iran war day 83: Tehran ‘reviewing’ latest US response to end conflict",
-        "de": "Iran Krieg Tag 83: Teheran 'prüft' die neueste US-Antwort zur Beendigung des Konflikts"
+        "zh": "特朗普表示他将与台湾领导人交谈：这有何重要性",
+        "en": "Trump says he’ll speak to Taiwan’s leader: Why that is significant",
+        "de": "Trump sagt, er werde mit Taiwans Führer sprechen: Warum das bedeutend ist"
       },
       "summary": {
-        "zh": "在霍尔木兹海峡紧张局势加剧之际，伊朗表示与美国的外交关系仍然开放，并在审查美国的最新回应。",
-        "en": "As tensions in the Strait of Hormuz escalate, Iran states that diplomatic relations with the U.S. remain open while reviewing the latest U.S. response.",
-        "de": "Angesichts der eskalierenden Spannungen im Hormuskanal erklärt Iran, dass die diplomatischen Beziehungen zu den USA offen bleiben, während es die neueste US-Antwort prüft."
+        "zh": "特朗普的言论被分析人士视为美国与台湾关系的潜在变化，但更多被视为他不可预测性的又一例证。",
+        "en": "Trump's remarks are seen by analysts as a potential shift in US-Taiwan relations, but more as another example of his unpredictability.",
+        "de": "Trumps Bemerkungen werden von Analysten als potenzieller Wandel in den US-Taiwan-Beziehungen angesehen, jedoch eher als weiteres Beispiel für seine Unberechenbarkeit."
       },
       "source": "Al Jazeera",
       "date": "2026-05-21",
-      "url": "https://www.aljazeera.com/news/2026/5/21/iran-war-day-83-tehran-reviewing-latest-us-response-to-end-conflict?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/21/trump-says-hell-speak-to-taiwans-leader-why-that-is-significant?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "普京与习的会谈重振停滞的俄罗斯天然气管道",
-        "en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
-        "de": "Putin-Xi-Gespräche beleben stillgelegte russische Erdgas-Pipeline, während der Iran-Krieg die Energiemärkte erschüttert"
+        "zh": "英国-海湾贸易协议是“伟大的成就”，巴林工业部长告诉CNBC",
+        "en": "UK-Gulf trade deal a 'monumental achievement,' Bahrain industry minister tells CNBC",
+        "de": "UK-Gulf-Handelsabkommen ist ein 'monumentaler Erfolg', sagt der Minister für Industrie von Bahrain gegenüber CNBC"
       },
       "summary": {
-        "zh": "普京预计将在周三与中国领导人习近平举行会谈，讨论停滞的西伯利亚力量2号天然气管道，此次会谈在伊朗战争影响能源市场之际进行。",
-        "en": "Putin is expected to hold talks with Chinese leader Xi Jinping on Wednesday to discuss the stalled Power of Siberia 2 natural gas pipeline, with the discussions taking place amid the impact of the Iran war on energy markets.",
-        "de": "Putin wird voraussichtlich am Mittwoch Gespräche mit dem chinesischen Führer Xi Jinping führen, um die stillgelegte Power of Siberia 2 Erdgas-Pipeline zu besprechen, während die Gespräche im Kontext des Einflusses des Iran-Kriegs auf die Energiemärkte stattfinden."
+        "zh": "巴林工业部长称英国与海湾国家的贸易协议为“伟大的成就”，强调了这一协议对双方的双赢局面。",
+        "en": "The Bahraini industry minister described the trade deal between the UK and Gulf states as a 'monumental achievement,' highlighting the win-win situation for both parties.",
+        "de": "Der Minister für Industrie von Bahrain bezeichnete das Handelsabkommen zwischen dem Vereinigten Königreich und den Golfstaaten als 'monumentalen Erfolg' und hob die Win-Win-Situation für beide Parteien hervor."
       },
-      "source": "CNBC",
-      "date": "2026-05-20",
-      "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html"
+      "source": "CNBC – Markets",
+      "date": "2026-05-21",
+      "url": "https://www.cnbc.com/2026/05/21/uk-gcc-trade-deal-bahrain-gulf-investment.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "AI经济正在重写美国梦——蓝领工人准备获胜",
-        "en": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
-        "de": "Die KI-Wirtschaft schreibt den amerikanischen Traum neu – und Arbeiter im Niedriglohnsektor stehen vor dem Gewinn"
+        "zh": "普京-习近平会谈重振停滞的俄罗斯天然气管道",
+        "en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
+        "de": "Putin-Xi-Gespräche beleben stillgelegte russische Gaspipeline, während der Iran-Krieg die Energiemärkte erschüttert"
       },
       "summary": {
-        "zh": "随着AI驱动的招聘放缓影响大学毕业生的入门级工作，福特和AT&T等公司正在加大对技术工人的招聘力度。",
-        "en": "As AI-driven hiring slowdowns affect entry-level jobs for college graduates, companies like Ford and AT&T are ramping up recruitment for skilled trades.",
-        "de": "Während KI-gesteuerte Einstellungsverzögerungen die Einstiegsjobs für Hochschulabsolventen beeinflussen, erhöhen Unternehmen wie Ford und AT&T die Rekrutierung für Fachkräfte."
+        "zh": "普京与习近平的会谈旨在重启停滞的西伯利亚天然气管道，背景是伊朗战争对能源市场的影响。",
+        "en": "Putin's talks with Xi Jinping aim to revive the stalled Power of Siberia gas pipeline amid the impact of the Iran war on energy markets.",
+        "de": "Putins Gespräche mit Xi Jinping zielen darauf ab, die stillgelegte Gaspipeline Power of Siberia wiederzubeleben, während der Iran-Krieg die Energiemärkte beeinflusst."
       },
-      "source": "CNBC",
-      "date": "2026-05-19",
-      "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html"
+      "source": "CNBC – Markets",
+      "date": "2026-05-20",
+      "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美联储将在周五宣誓凯文·沃什为主席",
-        "en": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
-        "de": "Kevin Warsh wird am Freitag als Vorsitzender der Federal Reserve vereidigt"
+        "zh": "AI经济正在重写美国梦——蓝领工人准备受益",
+        "en": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
+        "de": "Die KI-Wirtschaft schreibt den amerikanischen Traum neu – und Arbeiter im Niedriglohnsektor stehen kurz davor, zu gewinnen"
       },
       "summary": {
-        "zh": "特朗普将在白宫仪式上宣誓凯文·沃什为美联储主席，此次任命引发市场对未来货币政策的关注。",
-        "en": "Trump will swear in Kevin Warsh as Federal Reserve chair during a White House ceremony, raising market attention on future monetary policy.",
-        "de": "Trump wird Kevin Warsh während einer Zeremonie im Weißen Haus als Vorsitzenden der Federal Reserve vereidigen, was die Aufmerksamkeit des Marktes auf die zukünftige Geldpolitik lenkt."
+        "zh": "AI驱动的招聘减缓影响了一些大学毕业生的入门级职位，但蓝领工人可能会从中受益，显示出经济转型的潜力。",
+        "en": "AI-driven hiring slowdowns are impacting some entry-level jobs for college graduates, but blue-collar workers may benefit, showcasing the potential of economic transformation.",
+        "de": "Die durch KI bedingten Einstellungsverzögerungen wirken sich auf einige Einstiegsjobs für Hochschulabsolventen aus, aber Arbeiter im Niedriglohnsektor könnten profitieren, was das Potenzial wirtschaftlicher Transformation zeigt."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-05-19",
-      "url": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+      "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html"
     }
   ]
 }
