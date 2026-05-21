@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-20T18:36:43.323286+00:00",
+  "generatedAt": "2026-05-21T08:08:54.661829+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "绿色钢铁初创公司Boston Metal加大对关键金属的投资",
+        "zh": "绿色钢铁初创公司Boston Metal加倍押注关键金属",
         "en": "Green steel startup Boston Metal is doubling down on critical metals",
         "de": "Das grüne Stahl-Startup Boston Metal setzt verstärkt auf kritische Metalle"
       },
       "summary": {
-        "zh": "初创公司Boston Metal成功筹集7500万美元资金，旨在生产关键金属，推动绿色钢铁的发展。",
-        "en": "Startup Boston Metal has successfully raised $75 million in funding to produce critical metals, advancing the development of green steel.",
-        "de": "Das Startup Boston Metal hat erfolgreich 75 Millionen US-Dollar an Finanzierung gesammelt, um kritische Metalle zu produzieren und die Entwicklung von grünem Stahl voranzutreiben."
+        "zh": "初创公司Boston Metal成功筹集7500万美元资金，以生产关键金属。这一资金将用于扩大其在绿色钢铁领域的业务。",
+        "en": "Startup Boston Metal has successfully raised $75 million in funding to produce critical metals. This funding will be used to expand its operations in the green steel sector.",
+        "de": "Das Startup Boston Metal hat erfolgreich 75 Millionen Dollar an Finanzierung gesammelt, um kritische Metalle zu produzieren. Diese Finanzierung wird zur Erweiterung seiner Aktivitäten im Bereich grüner Stahl verwendet."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-20",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "下载：完全人工鸡蛋和马斯克为何失败",
         "en": "The Download: fully artificial chicken eggs and why Musk lost",
-        "de": "Der Download: vollsynthetische Hühnereier und warum Musk verloren hat"
+        "de": "Der Download: vollständig künstliche Hühnereier und warum Musk verloren hat"
       },
       "summary": {
-        "zh": "今天的下载新闻简报涵盖了完全人工鸡蛋的最新进展以及马斯克在与OpenAI的诉讼中失败的原因。",
-        "en": "Today's edition of The Download covers the latest developments in fully artificial chicken eggs and the reasons behind Musk's loss in his lawsuit against OpenAI.",
-        "de": "Die heutige Ausgabe des Downloads behandelt die neuesten Entwicklungen bei vollständig synthetischen Hühnereiern und die Gründe für Musks Niederlage in seiner Klage gegen OpenAI."
+        "zh": "今天的下载新闻简报涵盖了完全人工鸡蛋的最新进展以及马斯克在与OpenAI的诉讼中失利的原因。",
+        "en": "Today's edition of The Download covers the latest developments in fully artificial chicken eggs and the reasons behind Musk's loss in the lawsuit against OpenAI.",
+        "de": "Die heutige Ausgabe von The Download behandelt die neuesten Entwicklungen bei vollständig künstlichen Hühnereiern und die Gründe für Musks Niederlage im Rechtsstreit gegen OpenAI."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-20",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "了解现代网络犯罪格局",
+        "zh": "理解现代网络犯罪格局",
         "en": "Understanding the modern cybercrime landscape",
-        "de": "Verständnis der modernen Cyberkriminalitätslandschaft"
+        "de": "Verstehen der modernen Cyberkriminalitätslandschaft"
       },
       "summary": {
-        "zh": "HPE的Threat Labs在2025年观察到网络犯罪者操作方式的显著变化，分析了现实世界中的威胁。",
-        "en": "HPE's Threat Labs observed significant changes in how cybercriminals operate in 2025, analyzing real-world threats.",
-        "de": "Die Threat Labs von HPE beobachteten 2025 signifikante Veränderungen in der Arbeitsweise von Cyberkriminellen und analysierten reale Bedrohungen."
+        "zh": "HPE的Threat Labs分析了2025年网络犯罪的重大变化，强调了网络犯罪分子的操作方式的演变。",
+        "en": "HPE's Threat Labs analyzed significant changes in cybercrime throughout 2025, highlighting the evolution of how cybercriminals operate.",
+        "de": "Die Threat Labs von HPE analysierten bedeutende Veränderungen in der Cyberkriminalität im Jahr 2025 und hoben die Evolution der Arbeitsweise von Cyberkriminellen hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-19",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯‘危险’拦截英国间谍飞机",
-        "en": "Russia ‘dangerously’ intercepts British spy plane over Black Sea",
-        "de": "Russland ‚gefährlich‘ britisches Spionageflugzeug über dem Schwarzen Meer ab"
+        "zh": "台湾总统赖清德表示愿意与特朗普对话",
+        "en": "Taiwan’s President Lai says he would be happy to speak with Donald Trump",
+        "de": "Taiwans Präsident Lai sagt, er wäre glücklich, mit Donald Trump zu sprechen"
       },
       "summary": {
-        "zh": "俄罗斯国防部表示，上个月一架无武装的Rivet Joint飞机在国际空域被拦截，正在保障北约东部的安全。",
-        "en": "The Russian Ministry of Defense stated that last month an unarmed Rivet Joint plane was intercepted in international airspace while securing NATO's eastern flank.",
-        "de": "Das russische Verteidigungsministerium erklärte, dass letzten Monat ein unbewaffnetes Rivet-Joint-Flugzeug im internationalen Luftraum abgefangen wurde, während es die Ostflanke der NATO sicherte."
+        "zh": "台湾总统赖清德表示，愿意与美国前总统特朗普进行对话，这是自1979年华盛顿将外交承认从台北转移到北京以来，两国领导人首次公开表态。",
+        "en": "Taiwan's President Lai expressed his willingness to engage in dialogue with former U.S. President Trump, marking the first public statement from both leaders since Washington shifted diplomatic recognition from Taipei to Beijing in 1979.",
+        "de": "Taiwans Präsident Lai äußerte seine Bereitschaft, mit dem ehemaligen US-Präsidenten Trump in den Dialog zu treten, was die erste öffentliche Erklärung beider Führer seit der diplomatischen Anerkennung von Washington, die 1979 von Taipeh nach Peking verlegt wurde, markiert."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-20",
-      "url": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry?traffic_source=rss"
+      "date": "2026-05-21",
+      "url": "https://www.aljazeera.com/news/2026/5/21/taiwans-president-lai-says-he-would-be-happy-to-speak-with-donald-trump?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普政府起诉古巴的劳尔·卡斯特罗",
-        "en": "Trump administration indicts Cuba’s Raul Castro over 1996 plane shootdown",
-        "de": "Die Trump-Administration erhebt Anklage gegen Raúl Castro von Kuba wegen des Flugzeugabschusses von 1996"
+        "zh": "美国指控古巴的劳尔·卡斯特罗谋杀1996年两架飞机被击落事件",
+        "en": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+        "de": "Die USA beschuldigen Raúl Castro aus Kuba des Mordes an der 1996 erfolgten Abschuss von zwei Flugzeugen"
       },
       "summary": {
-        "zh": "特朗普政府对古巴前领导人劳尔·卡斯特罗提出指控，标志着华盛顿与哈瓦那之间紧张关系的加剧。",
-        "en": "The Trump administration has indicted former Cuban leader Raul Castro, marking a sharp escalation in tensions between Washington and Havana.",
-        "de": "Die Trump-Administration hat den ehemaligen kubanischen Führer Raúl Castro angeklagt, was eine scharfe Eskalation der Spannungen zwischen Washington und Havanna markiert."
+        "zh": "美国对古巴前领导人劳尔·卡斯特罗提出谋杀指控，涉及1996年两架飞机被击落事件。古巴现任总统称这些指控是出于政治动机。",
+        "en": "The U.S. has charged former Cuban leader Raúl Castro with murder related to the downing of two planes in 1996. Cuba's current president claims the charges are politically motivated.",
+        "de": "Die USA haben den ehemaligen kubanischen Führer Raúl Castro wegen Mordes im Zusammenhang mit dem Abschuss von zwei Flugzeugen im Jahr 1996 angeklagt. Der aktuelle Präsident Kubas behauptet, die Anklagen seien politisch motiviert."
       },
-      "source": "Al Jazeera",
-      "date": "2026-05-20",
-      "url": "https://www.aljazeera.com/news/2026/5/20/trump-administration-indicts-cubas-raul-castro-over-1996-plane-shootdown?traffic_source=rss"
+      "source": "BBC News",
+      "date": "2026-05-21",
+      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普开玩笑称可能竞选以色列总理",
-        "en": "Trump jokes about running for Israeli prime minister",
-        "de": "Trump macht Witze über eine Kandidatur für das Amt des israelischen Premierministers"
+        "zh": "伊朗战争第83天：德黑兰“审查”结束冲突的最新美国回应",
+        "en": "Iran war day 83: Tehran ‘reviewing’ latest US response to end conflict",
+        "de": "Iran Krieg Tag 83: Teheran 'prüft' die neueste US-Antwort zur Beendigung des Konflikts"
       },
       "summary": {
-        "zh": "特朗普开玩笑称他可能会竞选以色列总理，并声称自己在以色列享有“99%”的支持。",
-        "en": "Trump joked that he could run for Israeli prime minister, claiming he enjoys '99%' support in Israel.",
-        "de": "Trump machte Witze darüber, dass er für das Amt des israelischen Premierministers kandidieren könnte, und behauptete, er genieße '99%' Unterstützung in Israel."
+        "zh": "在霍尔木兹海峡紧张局势加剧之际，伊朗表示与美国的外交关系仍然开放，并在审查美国的最新回应。",
+        "en": "As tensions in the Strait of Hormuz escalate, Iran states that diplomatic relations with the U.S. remain open while reviewing the latest U.S. response.",
+        "de": "Angesichts der eskalierenden Spannungen im Hormuskanal erklärt Iran, dass die diplomatischen Beziehungen zu den USA offen bleiben, während es die neueste US-Antwort prüft."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/trump-jokes-about-running-for-israeli-prime-minister?traffic_source=rss"
+      "date": "2026-05-21",
+      "url": "https://www.aljazeera.com/news/2026/5/21/iran-war-day-83-tehran-reviewing-latest-us-response-to-end-conflict?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "普京-习近平会谈重振停滞的俄罗斯天然气管道",
+        "zh": "普京与习的会谈重振停滞的俄罗斯天然气管道",
         "en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
-        "de": "Putin-Xi-Gespräche beleben stillgelegte russische Gaspipeline, während der Iran-Krieg die Energiemärkte erschüttert"
+        "de": "Putin-Xi-Gespräche beleben stillgelegte russische Erdgas-Pipeline, während der Iran-Krieg die Energiemärkte erschüttert"
       },
       "summary": {
-        "zh": "普京预计将于周三与中国领导人习近平举行会谈，讨论长期停滞的西伯利亚力量2号天然气管道。",
-        "en": "Putin is expected to hold talks with Chinese leader Xi Jinping on Wednesday to discuss the long-stalled Power of Siberia 2 natural gas pipeline.",
-        "de": "Putin wird voraussichtlich am Mittwoch Gespräche mit dem chinesischen Führer Xi Jinping führen, um die lange stillgelegte Gaspipeline Power of Siberia 2 zu besprechen."
+        "zh": "普京预计将在周三与中国领导人习近平举行会谈，讨论停滞的西伯利亚力量2号天然气管道，此次会谈在伊朗战争影响能源市场之际进行。",
+        "en": "Putin is expected to hold talks with Chinese leader Xi Jinping on Wednesday to discuss the stalled Power of Siberia 2 natural gas pipeline, with the discussions taking place amid the impact of the Iran war on energy markets.",
+        "de": "Putin wird voraussichtlich am Mittwoch Gespräche mit dem chinesischen Führer Xi Jinping führen, um die stillgelegte Power of Siberia 2 Erdgas-Pipeline zu besprechen, während die Gespräche im Kontext des Einflusses des Iran-Kriegs auf die Energiemärkte stattfinden."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-05-20",
       "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "人工智能经济正在重写美国梦",
+        "zh": "AI经济正在重写美国梦——蓝领工人准备获胜",
         "en": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
         "de": "Die KI-Wirtschaft schreibt den amerikanischen Traum neu – und Arbeiter im Niedriglohnsektor stehen vor dem Gewinn"
       },
       "summary": {
-        "zh": "人工智能驱动的招聘放缓影响了一些大学毕业生的入门级职位，但福特和AT&T等公司正在加大对技术工人的招聘力度。",
-        "en": "AI-driven hiring slowdowns are impacting some entry-level jobs for college graduates, but companies like Ford and AT&T are ramping up recruitment for skilled workers.",
-        "de": "Die durch KI bedingten Einstellungsverzögerungen wirken sich auf einige Einstiegsjobs für Hochschulabsolventen aus, aber Unternehmen wie Ford und AT&T erhöhen die Rekrutierung von Fachkräften."
+        "zh": "随着AI驱动的招聘放缓影响大学毕业生的入门级工作，福特和AT&T等公司正在加大对技术工人的招聘力度。",
+        "en": "As AI-driven hiring slowdowns affect entry-level jobs for college graduates, companies like Ford and AT&T are ramping up recruitment for skilled trades.",
+        "de": "Während KI-gesteuerte Einstellungsverzögerungen die Einstiegsjobs für Hochschulabsolventen beeinflussen, erhöhen Unternehmen wie Ford und AT&T die Rekrutierung für Fachkräfte."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-05-19",
       "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美联储会议记录显示加息的可能性增加",
-        "en": "Fed minutes show increased chances of interest-rate hike",
-        "de": "Protokolle der Fed zeigen erhöhte Chancen auf Zinserhöhungen"
+        "zh": "美联储将在周五宣誓凯文·沃什为主席",
+        "en": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+        "de": "Kevin Warsh wird am Freitag als Vorsitzender der Federal Reserve vereidigt"
       },
       "summary": {
-        "zh": "美联储官员认为，通货膨胀可能会持续更长时间，从而增加了加息的风险。",
-        "en": "Fed officials see a growing risk that inflation would stay higher for longer, increasing the chances of an interest-rate hike.",
-        "de": "Die Fed-Beamten sehen ein wachsendes Risiko, dass die Inflation länger höher bleibt, was die Chancen auf eine Zinserhöhung erhöht."
+        "zh": "特朗普将在白宫仪式上宣誓凯文·沃什为美联储主席，此次任命引发市场对未来货币政策的关注。",
+        "en": "Trump will swear in Kevin Warsh as Federal Reserve chair during a White House ceremony, raising market attention on future monetary policy.",
+        "de": "Trump wird Kevin Warsh während einer Zeremonie im Weißen Haus als Vorsitzenden der Federal Reserve vereidigen, was die Aufmerksamkeit des Marktes auf die zukünftige Geldpolitik lenkt."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-05-20",
-      "url": "https://www.marketwatch.com/story/fed-minutes-show-increased-chances-of-interest-rate-hike-e808453b?mod=mw_rss_topstories"
+      "source": "CNBC",
+      "date": "2026-05-19",
+      "url": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
     }
   ]
 }
