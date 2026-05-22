@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-21T18:16:38.818578+00:00",
+  "generatedAt": "2026-05-22T07:59:16.740115+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "Anthropic的Code with Claude展示了编码的未来——无论你喜欢与否",
-        "en": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-        "de": "Anthropics Code with Claude zeigte die Zukunft des Codierens – ob es Ihnen gefällt oder nicht"
+        "zh": "圆桌会议：人工智能能否学会理解世界？",
+        "en": "Roundtables: Can AI Learn to Understand the World?",
+        "de": "Rundtischgespräche: Kann KI lernen, die Welt zu verstehen?"
       },
       "summary": {
-        "zh": "Anthropic在伦敦举办的Code with Claude活动展示了未来编码的潜力，吸引了众多软件开发者的参与。该活动强调了人工智能在软件开发中的重要性和影响。",
-        "en": "Anthropic's Code with Claude event in London showcased the potential of future coding, attracting numerous software developers. The event emphasized the importance and impact of artificial intelligence in software development.",
-        "de": "Die Veranstaltung Code with Claude von Anthropic in London zeigte das Potenzial zukünftiger Programmierung und zog zahlreiche Softwareentwickler an. Die Veranstaltung betonte die Bedeutung und den Einfluss von Künstlicher Intelligenz in der Softwareentwicklung."
+        "zh": "人工智能公司希望构建能够理解外部世界的系统，以克服大型语言模型的局限性。此次会议探讨了这一目标的可行性。",
+        "en": "AI companies want to build systems that understand the external world and overcome the limitations of LLMs. This session explored the feasibility of this goal.",
+        "de": "KI-Unternehmen möchten Systeme entwickeln, die die externe Welt verstehen und die Einschränkungen von LLMs überwinden. Diese Sitzung untersuchte die Machbarkeit dieses Ziels."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-21",
-      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "美国政府在九家量子计算公司中获得20亿美元股权",
-        "en": "US government takes $2 billion equity stake in nine quantum computing firms",
-        "de": "US-Regierung erwirbt 2 Milliarden Dollar Beteiligung an neun Quantencomputing-Firmen"
+        "zh": "在人工智能时代扩展创造力",
+        "en": "Scaling creativity in the age of AI",
+        "de": "Kreativität im Zeitalter der KI skalieren"
       },
       "summary": {
-        "zh": "美国政府通过对九家量子计算公司的投资，显示出对量子技术的重视。这一举措旨在推动国家在这一关键技术领域的竞争力。",
-        "en": "The US government is showing its commitment to quantum technology through investments in nine quantum computing firms. This move aims to enhance the nation's competitiveness in this critical technology sector.",
-        "de": "Die US-Regierung zeigt ihr Engagement für Quanten-Technologie durch Investitionen in neun Quantencomputing-Firmen. Dieser Schritt zielt darauf ab, die Wettbewerbsfähigkeit des Landes in diesem wichtigen Technologiebereich zu stärken."
+        "zh": "讲故事是人类DNA的核心，技术一直是表达理想、警告、希望和经历的工具。本文探讨了如何在人工智能时代扩展这一创造力。",
+        "en": "Storytelling is core to humanity's DNA, serving as a tool for expressing ideals, warnings, hopes, and experiences. This article explores how to scale this creativity in the age of AI.",
+        "de": "Geschichtenerzählen ist das Herzstück der menschlichen DNA und dient als Werkzeug zur Ausdruck von Idealen, Warnungen, Hoffnungen und Erfahrungen. Dieser Artikel untersucht, wie man diese Kreativität im Zeitalter der KI skalieren kann."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-05-21",
-      "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/"
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "谷歌发布了威胁数百万Chromium用户的漏洞代码",
-        "en": "Google publishes exploit code threatening millions of Chromium users",
-        "de": "Google veröffentlicht Exploit-Code, der Millionen von Chromium-Nutzern bedroht"
+        "zh": "Anthropic的Code with Claude展示了编码的未来——无论你喜欢与否",
+        "en": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+        "de": "Anthropics Code with Claude zeigt die Zukunft des Programmierens – ob es dir gefällt oder nicht"
       },
       "summary": {
-        "zh": "谷歌在修复之前发布了一个漏洞代码，可能会影响数百万Chromium用户。这一举动引发了广泛的安全担忧。",
-        "en": "Google published an exploit code that could affect millions of Chromium users before a fix was implemented. This action has raised widespread security concerns.",
-        "de": "Google veröffentlichte einen Exploit-Code, der Millionen von Chromium-Nutzern betreffen könnte, bevor ein Fix umgesetzt wurde. Diese Maßnahme hat weitreichende Sicherheitsbedenken ausgelöst."
+        "zh": "Anthropic在伦敦举办的Code with Claude活动展示了编码的未来，吸引了众多软件开发者的关注。",
+        "en": "Anthropic's Code with Claude event in London showcased the future of coding, attracting significant attention from software developers.",
+        "de": "Die Veranstaltung Code with Claude von Anthropic in London zeigte die Zukunft des Programmierens und zog erhebliches Interesse von Softwareentwicklern an."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-05-20",
-      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/"
+      "source": "MIT Technology Review",
+      "date": "2026-05-21",
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "英国的净移民人数因政策收紧而减少近50%",
-        "en": "Net migration to the UK falls by nearly 50 percent amid tighter policies",
-        "de": "Die Nettoeinwanderung in das Vereinigte Königreich sinkt um fast 50 Prozent aufgrund strengerer Richtlinien"
+        "zh": "美国提高对古巴的军事行动威胁",
+        "en": "US raises threat of military action against Cuba",
+        "de": "USA erhöht die Bedrohung militärischer Maßnahmen gegen Kuba"
       },
       "summary": {
-        "zh": "根据英国国家统计局的数据，2025年12月底的净移民人数从331,000降至171,000，显示出政策收紧的直接影响。",
-        "en": "According to the Office for National Statistics, net migration to the UK fell from 331,000 to 171,000 by the end of December 2025, reflecting the direct impact of tighter policies.",
-        "de": "Laut dem Office for National Statistics sank die Nettoeinwanderung in das Vereinigte Königreich bis Ende Dezember 2025 von 331.000 auf 171.000, was die direkten Auswirkungen strengerer Richtlinien widerspiegelt."
+        "zh": "美国国务卿马尔科·鲁比奥表示，古巴构成国家安全威胁，暗示可能采取军事行动。",
+        "en": "U.S. Secretary of State Marco Rubio states that Cuba poses a national security threat, hinting at possible military action.",
+        "de": "Der US-Außenminister Marco Rubio erklärt, dass Kuba eine Bedrohung für die nationale Sicherheit darstellt und deutet auf mögliche militärische Maßnahmen hin."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-21",
-      "url": "https://www.aljazeera.com/news/2026/5/21/net-migration-to-the-uk-falls-by-nearly-50-percent-amid-tighter-policies?traffic_source=rss"
+      "date": "2026-05-22",
+      "url": "https://www.aljazeera.com/news/2026/5/22/us-raises-threat-of-military-action-against-cuba?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "联合国最高法院裁定工人罢工权利在关键条约中“受保护”",
-        "en": "Top UN court rules workers’ right to strike ‘protected’ in key treaty",
-        "de": "Der höchste UN-Gerichtshof entscheidet, dass das Streikrecht der Arbeiter in einem wichtigen Vertrag 'geschützt' ist"
+        "zh": "伊朗战争第84天：美国与伊朗谈判进展",
+        "en": "Iran war day 84: US-Iran talks advance amid mediation push",
+        "de": "Iran-Krieg Tag 84: US-Iran-Gespräche schreiten im Rahmen eines Vermittlungsversuchs voran"
       },
       "summary": {
-        "zh": "联合国最高法院的非约束性裁决被工人团体视为胜利，预计将影响全球劳工关系。",
-        "en": "The non-binding ruling by the top UN court is seen as a victory for workers' groups and is expected to influence global labor relations.",
-        "de": "Das nicht bindende Urteil des höchsten UN-Gerichtshofs wird als Sieg für Arbeitergruppen angesehen und wird voraussichtlich die globalen Arbeitsbeziehungen beeinflussen."
+        "zh": "美国与伊朗在调解努力中继续进行谈判，交换草案提案，旨在达成正式协议。",
+        "en": "The U.S. and Iran continue mediated talks, exchanging draft proposals aimed at reaching a formal agreement.",
+        "de": "Die USA und der Iran führen weiterhin vermittelte Gespräche und tauschen Entwurfsvorschläge aus, um eine formelle Vereinbarung zu erreichen."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-21",
-      "url": "https://www.aljazeera.com/news/2026/5/21/top-un-court-rules-workers-right-to-strike-protected-in-key-treaty?traffic_source=rss"
+      "date": "2026-05-22",
+      "url": "https://www.aljazeera.com/news/2026/5/22/iran-war-day-84-us-iran-talks-advance-amid-mediation-push?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普表示他将与台湾领导人交谈：这有何重要性",
-        "en": "Trump says he’ll speak to Taiwan’s leader: Why that is significant",
-        "de": "Trump sagt, er werde mit Taiwans Führer sprechen: Warum das bedeutend ist"
+        "zh": "美国暂停对台湾的140亿美元武器销售",
+        "en": "US pauses $14bn weapons sale to Taiwan due to Iran war",
+        "de": "USA pausiert 14 Milliarden Dollar Waffengeschäft mit Taiwan wegen Iran-Krieg"
       },
       "summary": {
-        "zh": "特朗普的言论被分析人士视为美国与台湾关系的潜在变化，但更多被视为他不可预测性的又一例证。",
-        "en": "Trump's remarks are seen by analysts as a potential shift in US-Taiwan relations, but more as another example of his unpredictability.",
-        "de": "Trumps Bemerkungen werden von Analysten als potenzieller Wandel in den US-Taiwan-Beziehungen angesehen, jedoch eher als weiteres Beispiel für seine Unberechenbarkeit."
+        "zh": "美国海军代理首席官洪·曹在参议院听证会上表示，暂停销售是为了确保在伊朗战争中有足够的弹药。",
+        "en": "U.S. acting navy chief Hung Cao stated during a Senate hearing that the pause in sales is to ensure sufficient munitions for the Iran war.",
+        "de": "Der amtierende US-Marinechef Hung Cao erklärte während einer Senatsanhörung, dass die Pause bei den Verkäufen dazu dient, ausreichend Munition für den Iran-Krieg sicherzustellen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-05-21",
-      "url": "https://www.aljazeera.com/news/2026/5/21/trump-says-hell-speak-to-taiwans-leader-why-that-is-significant?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-05-22",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英国-海湾贸易协议是“伟大的成就”，巴林工业部长告诉CNBC",
-        "en": "UK-Gulf trade deal a 'monumental achievement,' Bahrain industry minister tells CNBC",
-        "de": "UK-Gulf-Handelsabkommen ist ein 'monumentaler Erfolg', sagt der Minister für Industrie von Bahrain gegenüber CNBC"
+        "zh": "‘巴菲特指标’警告市场顶部——8个关键迹象表明股票正在耗尽",
+        "en": "‘Buffett Indicator’ warns of a market top — 8 crucial signs that stocks are running on fumes",
+        "de": "Der 'Buffett-Indikator' warnt vor einem Markthoch – 8 entscheidende Anzeichen, dass Aktien auf dem Zahnfleisch gehen"
       },
       "summary": {
-        "zh": "巴林工业部长称英国与海湾国家的贸易协议为“伟大的成就”，强调了这一协议对双方的双赢局面。",
-        "en": "The Bahraini industry minister described the trade deal between the UK and Gulf states as a 'monumental achievement,' highlighting the win-win situation for both parties.",
-        "de": "Der Minister für Industrie von Bahrain bezeichnete das Handelsabkommen zwischen dem Vereinigten Königreich und den Golfstaaten als 'monumentalen Erfolg' und hob die Win-Win-Situation für beide Parteien hervor."
+        "zh": "市场分析师指出，当前股票市场存在230%的估值差距，表明市场可能接近顶部，风险加大。",
+        "en": "Market analysts point out a 230% valuation gap in the current stock market, indicating that the market may be nearing a top and risks are increasing.",
+        "de": "Marktanalyse zeigt eine Bewertungsdifferenz von 230 % im aktuellen Aktienmarkt, was darauf hindeutet, dass der Markt sich einem Höhepunkt nähert und die Risiken zunehmen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-21",
-      "url": "https://www.cnbc.com/2026/05/21/uk-gcc-trade-deal-bahrain-gulf-investment.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-22",
+      "url": "https://www.marketwatch.com/story/buffett-indicator-warns-of-a-market-top-8-crucial-signs-that-stocks-are-running-on-fumes-12e4b4d8?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "普京-习近平会谈重振停滞的俄罗斯天然气管道",
-        "en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
-        "de": "Putin-Xi-Gespräche beleben stillgelegte russische Gaspipeline, während der Iran-Krieg die Energiemärkte erschüttert"
+        "zh": "股票维持平稳——但波动性浪潮正在形成",
+        "en": "Stocks tread water — but a wave of volatility is building",
+        "de": "Aktien treten auf der Stelle – aber eine Welle der Volatilität baut sich auf"
       },
       "summary": {
-        "zh": "普京与习近平的会谈旨在重启停滞的西伯利亚天然气管道，背景是伊朗战争对能源市场的影响。",
-        "en": "Putin's talks with Xi Jinping aim to revive the stalled Power of Siberia gas pipeline amid the impact of the Iran war on energy markets.",
-        "de": "Putins Gespräche mit Xi Jinping zielen darauf ab, die stillgelegte Gaspipeline Power of Siberia wiederzubeleben, während der Iran-Krieg die Energiemärkte beeinflusst."
+        "zh": "尽管市场在平稳运行，但技术分析显示，S&P 500的卖出信号正在闪烁，暗示未来可能出现波动。",
+        "en": "While the market remains stable, technical analysis shows sell signals flashing for the S&P 500, suggesting potential volatility ahead.",
+        "de": "Obwohl der Markt stabil bleibt, zeigen technische Analysen Verkaufssignale für den S&P 500, was auf mögliche zukünftige Volatilität hindeutet."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-20",
-      "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-22",
+      "url": "https://www.marketwatch.com/story/stocks-tread-water-but-a-wave-of-volatility-is-building-3a337d90?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "AI经济正在重写美国梦——蓝领工人准备受益",
-        "en": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
-        "de": "Die KI-Wirtschaft schreibt den amerikanischen Traum neu – und Arbeiter im Niedriglohnsektor stehen kurz davor, zu gewinnen"
+        "zh": "SpaceX即将发射星舰火箭，面临重大挑战",
+        "en": "SpaceX has a lot riding on its imminent Starship rocket launch",
+        "de": "SpaceX hat viel auf dem Spiel bei seinem bevorstehenden Starship-Raketenstart"
       },
       "summary": {
-        "zh": "AI驱动的招聘减缓影响了一些大学毕业生的入门级职位，但蓝领工人可能会从中受益，显示出经济转型的潜力。",
-        "en": "AI-driven hiring slowdowns are impacting some entry-level jobs for college graduates, but blue-collar workers may benefit, showcasing the potential of economic transformation.",
-        "de": "Die durch KI bedingten Einstellungsverzögerungen wirken sich auf einige Einstiegsjobs für Hochschulabsolventen aus, aber Arbeiter im Niedriglohnsektor könnten profitieren, was das Potenzial wirtschaftlicher Transformation zeigt."
+        "zh": "SpaceX即将进行的星舰火箭发射可能在其即将进行的首次公开募股中发挥重要作用，面临重大挑战。",
+        "en": "The imminent Starship rocket launch by SpaceX could play a crucial role in its upcoming IPO, facing significant challenges.",
+        "de": "Der bevorstehende Starship-Raketenstart von SpaceX könnte eine entscheidende Rolle bei seinem bevorstehenden Börsengang spielen und steht vor erheblichen Herausforderungen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-19",
-      "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-22",
+      "url": "https://www.marketwatch.com/story/spacex-has-a-lot-riding-on-its-imminent-starship-rocket-launch-fd24bf48?mod=mw_rss_topstories"
     }
   ]
 }
