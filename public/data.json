@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-22T18:12:20.145778+00:00",
+  "generatedAt": "2026-05-23T07:16:43.962657+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "下载：编码的未来，“类固醇奥运会”和人工智能驱动的科学",
         "en": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-        "de": "Der Download: Die Zukunft des Codierens, die ‚Steroid-Olympiade‘ und KI-gesteuerte Wissenschaft"
+        "de": "Der Download: Die Zukunft des Codierens, die 'Steroid-Olympiade' und KI-gesteuerte Wissenschaft"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括编码的未来和人工智能在科学中的应用。",
-        "en": "Today's edition of The Download provides the latest updates from the world of technology, including the future of coding and the application of AI in science.",
-        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technikwelt, einschließlich der Zukunft des Codierens und der Anwendung von KI in der Wissenschaft."
+        "zh": "今天的《下载》提供了关于技术领域的最新动态，包括编码的未来、运动员在增强比赛中的表现以及人工智能在科学中的应用。",
+        "en": "Today's edition of The Download covers the latest in technology, including the future of coding, athletes' performances in enhanced competitions, and the application of AI in science.",
+        "de": "Die heutige Ausgabe von The Download behandelt die neuesten Entwicklungen in der Technologie, einschließlich der Zukunft des Codierens, der Leistungen von Athleten in verbesserten Wettbewerben und der Anwendung von KI in der Wissenschaft."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-22",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "谷歌I/O展示了人工智能驱动的科学路径如何转变",
+        "zh": "Google I/O展示了人工智能驱动科学的路径如何转变",
         "en": "Google I/O showed how the path for AI-driven science is shifting",
         "de": "Google I/O zeigte, wie sich der Weg für KI-gesteuerte Wissenschaft verändert"
       },
       "summary": {
-        "zh": "在谷歌I/O的主题演讲中，DeepMind的首席执行官Demis Hassabis强调了人工智能在科学领域的潜力和未来方向。",
-        "en": "During the Google I/O keynote, DeepMind CEO Demis Hassabis emphasized the potential and future direction of AI in the field of science.",
-        "de": "Während der Google I/O-Hauptrede betonte der CEO von DeepMind, Demis Hassabis, das Potenzial und die zukünftige Richtung von KI im Bereich der Wissenschaft."
+        "zh": "在Google I/O的主题演讲中，DeepMind首席执行官Demis Hassabis表示，我们正处于人工智能驱动科学的新纪元的开端。",
+        "en": "During the Google I/O keynote, DeepMind CEO Demis Hassabis stated that we are at the beginning of a new era for AI-driven science.",
+        "de": "Während der Google I/O-Hauptrede erklärte DeepMind-CEO Demis Hassabis, dass wir am Anfang einer neuen Ära für KI-gesteuerte Wissenschaft stehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-22",
@@ -36,82 +36,82 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "黑客组织在前所未有的规模上毒害开源代码",
-        "en": "A hacker group is poisoning open source code at an unprecedented scale",
-        "de": "Eine Hackergruppe vergiftet Open-Source-Code in einem beispiellosen Ausmaß"
+        "zh": "美国政府在九家量子计算公司中获得20亿美元的股权",
+        "en": "US government takes $2 billion equity stake in nine quantum computing firms",
+        "de": "US-Regierung erwirbt 2 Milliarden Dollar Eigenkapitalanteil an neun Quantencomputing-Firmen"
       },
       "summary": {
-        "zh": "黑客组织TeamPCP在GitHub等平台上进行了一系列软件供应链攻击，导致开源代码受到严重影响。",
-        "en": "The hacker group TeamPCP has carried out a spree of software supply chain attacks on platforms like GitHub, severely impacting open source code.",
-        "de": "Die Hackergruppe TeamPCP hat eine Reihe von Software-Lieferkettenangriffen auf Plattformen wie GitHub durchgeführt, die Open-Source-Code schwer beeinträchtigen."
+        "zh": "美国政府在九家量子计算公司中投资了20亿美元，显示出对这一新兴技术领域的重视。",
+        "en": "The US government has invested $2 billion in nine quantum computing firms, highlighting its commitment to this emerging technology sector.",
+        "de": "Die US-Regierung hat 2 Milliarden Dollar in neun Quantencomputing-Firmen investiert, was ihr Engagement für diesen aufstrebenden Technologiesektor unterstreicht."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-05-22",
-      "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/"
+      "date": "2026-05-21",
+      "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "图尔西·加巴德辞去特朗普的美国首席情报官职务",
-        "en": "Tulsi Gabbard resigns as Trump’s top US intelligence official",
-        "de": "Tulsi Gabbard tritt als Trumps oberster US-Geheimdienstbeamter zurück"
+        "zh": "以色列军队袭击加沙中心，尽管有停火协议",
+        "en": "Israeli forces attack central Gaza despite ceasefire agreement",
+        "de": "Israelische Streitkräfte greifen das zentrale Gaza trotz Waffenstillstandsvereinbarung an"
       },
       "summary": {
-        "zh": "图尔西·加巴德辞去了特朗普政府中的首席情报官职务，成为最新一位在政治动荡中离职的高级官员。",
-        "en": "Tulsi Gabbard has resigned from her position as the top US intelligence official in the Trump administration, becoming the latest senior official to leave amid political turmoil.",
-        "de": "Tulsi Gabbard hat ihren Posten als oberster US-Geheimdienstbeamter in der Trump-Administration niedergelegt und ist damit die neueste hochrangige Beamtin, die inmitten politischer Turbulenzen geht."
+        "zh": "以色列军队在加沙的Nuseirat和Bureij难民营发动袭击，导致数十人受伤，尽管双方达成了停火协议。",
+        "en": "Israeli forces launched attacks on the Nuseirat and Bureij refugee camps in Gaza, injuring dozens, despite a ceasefire agreement between the parties.",
+        "de": "Israelische Streitkräfte führten Angriffe auf die Flüchtlingslager Nuseirat und Bureij im Gazastreifen durch, wobei Dutzende verletzt wurden, trotz einer Waffenstillstandsvereinbarung zwischen den Parteien."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-22",
-      "url": "https://www.aljazeera.com/news/2026/5/22/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official?traffic_source=rss"
+      "date": "2026-05-23",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "西方国家警告以色列停止非法定居点扩张和暴力",
-        "en": "Western nations warn Israel to end illegal settlement expansion, violence",
-        "de": "Westliche Nationen warnen Israel, die illegale Siedlungsexpansion und Gewalt zu beenden"
+        "zh": "特朗普发布新一批之前解密的UFO文件",
+        "en": "Trump releases new batch of previously classified UFO files",
+        "de": "Trump veröffentlicht neue Charge zuvor klassifizierter UFO-Dateien"
       },
       "summary": {
-        "zh": "包括英国、德国和法国在内的九个国家警告以色列，称其在被占领的西岸的定居点是对国际法的违反。",
-        "en": "Nine countries, including the UK, Germany, and France, have warned Israel that its settlements in the occupied West Bank constitute a breach of international law.",
-        "de": "Neun Länder, darunter das Vereinigte Königreich, Deutschland und Frankreich, haben Israel gewarnt, dass seine Siedlungen im besetzten Westjordanland einen Verstoß gegen das Völkerrecht darstellen."
+        "zh": "特朗普政府发布了第二批之前解密的UFO目击文件，引发公众对不明飞行物的持续兴趣。",
+        "en": "The Trump administration has released a second batch of previously classified files on UFO sightings, sparking ongoing public interest in unidentified flying objects.",
+        "de": "Die Trump-Administration hat eine zweite Charge zuvor klassifizierter Dateien zu UFO-Sichtungen veröffentlicht, was das anhaltende öffentliche Interesse an unidentifizierten Flugobjekten anheizt."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-22",
-      "url": "https://www.aljazeera.com/news/2026/5/22/western-nations-warn-israel-to-end-illegal-settlement-expansion-violence?traffic_source=rss"
+      "date": "2026-05-23",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/trump-releases-new-batch-of-previously-classified-ufo-files?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "经济信心在伊朗战争中暴跌，美国民调显示",
-        "en": "Economic confidence plummets in US amid Iran war, poll shows",
-        "de": "Das wirtschaftliche Vertrauen in den USA sinkt im Zuge des Iran-Kriegs, zeigt eine Umfrage"
+        "zh": "美国-菲律宾军演引发冲突担忧",
+        "en": "Some fear US-Philippines war games are drawing conflict closer to home",
+        "de": "Einige befürchten, dass die US-Philippinen-Kriegsübungen den Konflikt näher nach Hause bringen"
       },
       "summary": {
-        "zh": "由于油价上涨，新的民意调查显示美国的经济信心降至-45，为2022年以来的最低水平。",
-        "en": "A new survey shows that economic confidence in the US has plummeted to -45, the lowest level since 2022, due to rising petrol prices.",
-        "de": "Eine neue Umfrage zeigt, dass das wirtschaftliche Vertrauen in den USA auf -45 gefallen ist, den niedrigsten Stand seit 2022, bedingt durch steigende Benzinpreise."
+        "zh": "批评人士担心美国与菲律宾的军事合作可能使马尼拉成为潜在目标，增加地区紧张局势。",
+        "en": "Critics are concerned that US-Philippine military cooperation may make Manila a potential target, increasing regional tensions.",
+        "de": "Kritiker befürchten, dass die militärische Zusammenarbeit zwischen den USA und den Philippinen Manila zu einem potenziellen Ziel machen könnte, was die regionalen Spannungen erhöht."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-22",
-      "url": "https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss"
+      "date": "2026-05-23",
+      "url": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者信心在5月份创下新低，伊朗战争引发通胀担忧",
+        "zh": "消费者信心在5月创下新低，伊朗战争加剧通胀担忧",
         "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-        "de": "Das Verbrauchervertrauen erreicht im Mai einen neuen Rekordtiefstand, da der Iran-Krieg Inflationssorgen schürt"
+        "de": "Das Verbrauchervertrauen erreicht im Mai ein neues Rekordtief, da der Iran-Krieg Inflationssorgen schürt"
       },
       "summary": {
-        "zh": "由于美国与伊朗之间的战争和高油价，消费者信心在5月份降至新低，反映出对未来经济的担忧。",
-        "en": "Consumer sentiment has fallen to a fresh record low in May, reflecting concerns about the future economy due to the US-Iran war and high oil prices.",
-        "de": "Das Verbrauchervertrauen ist im Mai auf einen neuen Rekordtiefstand gefallen, was die Sorgen über die zukünftige Wirtschaft aufgrund des Iran-Kriegs und hoher Ölpreise widerspiegelt."
+        "zh": "由于美国与伊朗的战争和油价上涨，消费者信心在5月降至新低，反映出对未来经济的担忧。",
+        "en": "Consumer sentiment has fallen to a record low in May due to the US-Iran war and rising oil prices, reflecting concerns about the future economy.",
+        "de": "Das Verbrauchervertrauen ist im Mai aufgrund des Iran-Kriegs und steigender Ölpreise auf ein Rekordtief gefallen, was Bedenken hinsichtlich der zukünftigen Wirtschaft widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-22",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "普京与习近平会谈重启停滞的俄罗斯天然气管道",
+        "zh": "普京-习近平会谈重振停滞的俄罗斯天然气管道",
         "en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
         "de": "Putin-Xi-Gespräche beleben stillgelegte russische Gaspipeline, während der Iran-Krieg die Energiemärkte erschüttert"
       },
       "summary": {
-        "zh": "普京与中国领导人习近平的会谈将重启停滞的西伯利亚天然气管道，因伊朗战争而动摇的能源市场对此表示关注。",
-        "en": "Talks between Putin and Chinese leader Xi Jinping are set to revive the stalled Power of Siberia gas pipeline, amid concerns in the energy markets due to the Iran war.",
-        "de": "Die Gespräche zwischen Putin und dem chinesischen Führer Xi Jinping sollen die stillgelegte Gaspipeline Power of Siberia wiederbeleben, während die Energiemärkte aufgrund des Iran-Kriegs besorgt sind."
+        "zh": "普京与习近平的会谈旨在重启停滞的西伯利亚天然气管道项目，以应对因伊朗战争引发的能源市场动荡。",
+        "en": "Talks between Putin and Xi aim to revive the stalled Power of Siberia gas pipeline project in response to turmoil in energy markets due to the Iran war.",
+        "de": "Die Gespräche zwischen Putin und Xi zielen darauf ab, das stillgelegte Projekt der Gaspipeline Power of Siberia wiederzubeleben, um auf die Turbulenzen auf den Energiemärkten aufgrund des Iran-Kriegs zu reagieren."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-20",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "凯文·沃什将在周五宣誓就任美联储主席",
-        "en": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
-        "de": "Kevin Warsh wird am Freitag zum Vorsitzenden der Federal Reserve vereidigt"
+        "zh": "IMAX在电影行业衰退中逆势而上，吸引潜在买家",
+        "en": "IMAX has bucked the trend as the movie-theater business fades — here’s why it’s so attractive to would-be buyers",
+        "de": "IMAX hat den Trend umgekehrt, während das Kino-Geschäft schwindet – hier ist der Grund, warum es für potenzielle Käufer so attraktiv ist"
       },
       "summary": {
-        "zh": "特朗普将在白宫仪式上宣誓凯文·沃什担任美联储主席，预计他将在经济政策上面临重大挑战。",
-        "en": "Trump will swear in Kevin Warsh as Federal Reserve chair during a White House ceremony, with significant challenges expected in economic policy ahead.",
-        "de": "Trump wird Kevin Warsh während einer Zeremonie im Weißen Haus zum Vorsitzenden der Federal Reserve vereidigen, wobei erhebliche Herausforderungen in der Wirtschaftspolitik zu erwarten sind."
+        "zh": "尽管电影行业整体衰退，IMAX仍表现出色，吸引了科技公司和主权财富基金的兴趣。",
+        "en": "Despite the overall decline in the movie industry, IMAX has performed well, attracting interest from tech firms and sovereign wealth funds.",
+        "de": "Trotz des allgemeinen Rückgangs in der Filmindustrie hat IMAX gut abgeschnitten und das Interesse von Technologieunternehmen und Staatsfonds geweckt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-19",
-      "url": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-22",
+      "url": "https://www.marketwatch.com/story/imax-has-bucked-the-trend-as-the-movie-theater-business-fades-heres-why-its-so-attractive-to-would-be-buyers-c703b489?mod=mw_rss_topstories"
     }
   ]
 }
