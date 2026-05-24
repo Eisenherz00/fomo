@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-23T17:32:03.153765+00:00",
+  "generatedAt": "2026-05-24T07:37:54.171887+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：编码的未来，“类固醇奥运会”和AI驱动的科学",
+        "zh": "下载：编码的未来，“类固醇奥运会”和人工智能驱动的科学",
         "en": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-        "de": "Der Download: Die Zukunft des Codierens, die ‚Steroid-Olympiade‘ und KI-gesteuerte Wissenschaft"
+        "de": "Der Download: Die Zukunft des Codierens, die 'Steroid-Olympiade' und KI-gesteuerte Wissenschaft"
       },
       "summary": {
-        "zh": "今天的《下载》提供了技术世界的最新动态，包括编码的未来、即将举行的‘类固醇奥运会’以及AI在科学中的应用。",
-        "en": "Today's edition of The Download provides the latest updates from the tech world, including the future of coding, the upcoming 'Steroid Olympics,' and the application of AI in science.",
-        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technikwelt, einschließlich der Zukunft des Codierens, der bevorstehenden ‚Steroid-Olympiade‘ und der Anwendung von KI in der Wissenschaft."
+        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括编码的未来、即将到来的“类固醇奥运会”和人工智能在科学中的应用。",
+        "en": "Today's edition of The Download provides the latest on the world of technology, including the future of coding, the upcoming 'Steroid Olympics,' and the application of AI in science.",
+        "de": "Die heutige Ausgabe von The Download bietet die neuesten Informationen aus der Technikwelt, einschließlich der Zukunft des Codierens, der bevorstehenden 'Steroid-Olympiade' und der Anwendung von KI in der Wissenschaft."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-22",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "谷歌I/O展示了AI驱动科学的路径如何变化",
+        "zh": "谷歌I/O展示了人工智能驱动科学的路径如何转变",
         "en": "Google I/O showed how the path for AI-driven science is shifting",
         "de": "Google I/O zeigte, wie sich der Weg für KI-gesteuerte Wissenschaft verändert"
       },
       "summary": {
-        "zh": "在谷歌I/O的主题演讲中，DeepMind首席执行官Demis Hassabis表示，AI驱动的科学正在经历重要的转变，未来的潜力巨大。",
-        "en": "During the Google I/O keynote, DeepMind CEO Demis Hassabis stated that AI-driven science is undergoing significant changes, with immense potential for the future.",
-        "de": "Während der Google I/O-Hauptrede erklärte DeepMind-CEO Demis Hassabis, dass die KI-gesteuerte Wissenschaft bedeutende Veränderungen durchläuft, mit immensem Potenzial für die Zukunft."
+        "zh": "在谷歌I/O的主题演讲中，DeepMind首席执行官Demis Hassabis表示，我们正处于人工智能驱动科学的初步阶段，未来将会有更多的突破。",
+        "en": "During the Google I/O keynote, DeepMind CEO Demis Hassabis stated that we are currently in the early stages of AI-driven science, with more breakthroughs expected in the future.",
+        "de": "Während der Google I/O-Hauptrede erklärte DeepMind-CEO Demis Hassabis, dass wir uns derzeit in den frühen Phasen der KI-gesteuerten Wissenschaft befinden, mit weiteren Durchbrüchen in der Zukunft."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-22",
@@ -36,114 +36,113 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "美国政府对九家量子计算公司进行20亿美元的股权投资",
-        "en": "US government takes $2 billion equity stake in nine quantum computing firms",
-        "de": "US-Regierung übernimmt 2 Milliarden Dollar Eigenkapitalanteil an neun Quantencomputing-Firmen"
+        "zh": "黑客组织以空前规模毒害开源代码",
+        "en": "A hacker group is poisoning open source code at an unprecedented scale",
+        "de": "Eine Hackergruppe vergiftet Open-Source-Code in einem beispiellosen Ausmaß"
       },
       "summary": {
-        "zh": "美国政府宣布对九家量子计算公司进行20亿美元的股权投资，旨在推动这一前沿科技的发展。",
-        "en": "The US government has announced a $2 billion equity investment in nine quantum computing firms, aimed at advancing this cutting-edge technology.",
-        "de": "Die US-Regierung hat eine Eigenkapitalinvestition von 2 Milliarden Dollar in neun Quantencomputing-Firmen angekündigt, um diese Spitzentechnologie voranzutreiben."
+        "zh": "黑客组织TeamPCP对开源代码发起了一系列攻击，GitHub成为最新的受害者，这一行为在软件供应链中造成了重大影响。",
+        "en": "The hacker group TeamPCP has launched a series of attacks on open source code, with GitHub being the latest victim, causing significant impacts in the software supply chain.",
+        "de": "Die Hackergruppe TeamPCP hat eine Reihe von Angriffen auf Open-Source-Code gestartet, wobei GitHub das neueste Opfer ist, was erhebliche Auswirkungen auf die Software-Lieferkette hat."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-05-21",
-      "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/"
+      "date": "2026-05-22",
+      "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "台湾数千人集会支持国防支出以应对中国紧张局势",
-        "en": "Thousands rally in Taiwan to boost defence spending amid China tensions",
-        "de": "Tausende demonstrieren in Taiwan für höhere Verteidigungsausgaben angesichts der Spannungen mit China"
+        "zh": "美国特勤局致命射杀在白宫检查站开枪的枪手",
+        "en": "US Secret Service fatally shoots gunman who fired at White House checkpoint",
+        "de": "US-Geheimdienst erschießt tödlich einen Schützen, der am Kontrollpunkt des Weißen Hauses feuerte"
       },
       "summary": {
-        "zh": "在台北，数千人集会呼吁增加国防支出，以应对中国的军事威胁，此次集会是在美国暂停对台军售后举行的。",
-        "en": "In Taipei, thousands rallied to call for increased defense spending in response to China's military threats, following the US's pause on arms sales to Taiwan.",
-        "de": "In Taipeh forderten Tausende eine Erhöhung der Verteidigungsausgaben als Reaktion auf die militärischen Bedrohungen Chinas, nachdem die USA die Waffenverkäufe an Taiwan ausgesetzt hatten."
+        "zh": "美国特勤局在白宫检查站回应枪击事件，致命射杀了一名开枪的嫌疑人，同时一名旁观者也受了伤。",
+        "en": "The US Secret Service responded to gunfire at a White House checkpoint, fatally shooting a suspect who opened fire, with a bystander also injured.",
+        "de": "Der US-Geheimdienst reagierte auf Schüsse an einem Kontrollpunkt des Weißen Hauses, indem er einen Verdächtigen, der das Feuer eröffnete, tödlich erschoss, während ein Passant ebenfalls verletzt wurde."
       },
       "source": "Al Jazeera",
       "date": "2026-05-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/thousands-rally-in-taiwan-to-boost-defence-spending-amid-china-tensions?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国国务卿开启印度之行，邀请莫迪白宫会晤",
-        "en": "US Secretary of State kicks off India visit, invites Modi to White House",
-        "de": "US-Außenminister beginnt Indienbesuch und lädt Modi ins Weiße Haus ein"
+        "zh": "伊朗消息来源列出伊朗-美国协议细节",
+        "en": "Iranian sources lay out Iran-US deal details",
+        "de": "Iranische Quellen legen Einzelheiten des Iran-US-Deals dar"
       },
       "summary": {
-        "zh": "美国国务卿在访问印度时，邀请印度总理莫迪前往白宫，讨论美印关系及其他重要议题。",
-        "en": "During his visit to India, the US Secretary of State invited Prime Minister Modi to the White House to discuss US-India relations and other key issues.",
-        "de": "Während seines Besuchs in Indien lud der US-Außenminister Premierminister Modi ins Weiße Haus ein, um über die Beziehungen zwischen den USA und Indien sowie andere wichtige Themen zu sprechen."
+        "zh": "阿尔贾兹拉的Ali Hashem透露了伊朗在与美国潜在和平协议中的立场细节，显示出双方的谈判进展。",
+        "en": "Al Jazeera's Ali Hashem reveals details of Iran's position on the potential peace agreement with the US, indicating progress in negotiations between the two sides.",
+        "de": "Ali Hashem von Al Jazeera enthüllt Einzelheiten zur Position Irans bezüglich des potenziellen Friedensabkommens mit den USA, was auf Fortschritte in den Verhandlungen zwischen beiden Seiten hinweist."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-23",
-      "url": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss"
+      "date": "2026-05-24",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iranian-sources-lay-out-iran-us-deal-details?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列对加沙的夜间袭击造成严重破坏",
-        "en": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
-        "de": "Übernachtete israelische Luftangriffe auf Gaza hinterlassen schwere Zerstörungen"
+        "zh": "菲律宾建筑物倒塌，19人被困",
+        "en": "19 feared trapped after building collapse in Philippines"
       },
       "summary": {
-        "zh": "以色列在加沙的夜间空袭造成了严重的破坏，尽管目前仍在进行停火。",
-        "en": "Israeli overnight airstrikes in Gaza have caused significant destruction, despite an ongoing ceasefire.",
-        "de": "Die nächtlichen israelischen Luftangriffe auf Gaza haben erhebliche Zerstörungen verursacht, trotz eines laufenden Waffenstillstands."
+        "zh": "在菲律宾马尼拉附近，一座未完工的九层建筑倒塌，19名工人被困，救援工作正在进行中。",
+        "en": "An unfinished nine-storey building collapsed near Manila in the Philippines, with 19 workers feared trapped, and rescue operations are underway.",
+        "de": "Ein unfertiges neunstöckiges Gebäude ist in der Nähe von Manila auf den Philippinen eingestürzt, wobei 19 Arbeiter als vermisst gelten, und die Rettungsarbeiten sind im Gange."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss"
+      "date": "2026-05-24",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/19-feared-trapped-after-building-collapse-in-philippines?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国人感受到通货膨胀的压力，假期周末价格上涨",
-        "en": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
-        "de": "Amerikaner spüren den Druck der Inflation zum Feiertagswochenende. Hier steigen die Preise am stärksten"
-      },
-      "summary": {
-        "zh": "随着假期周末的临近，旅行、休闲和食品相关的价格大幅上涨，给美国人带来了经济压力。",
-        "en": "As the holiday weekend approaches, prices related to travel, recreation, and food have surged, putting economic pressure on Americans.",
-        "de": "Mit dem bevorstehenden Feiertagswochenende sind die Preise für Reisen, Freizeit und Lebensmittel gestiegen, was den Amerikanern wirtschaftlichen Druck bereitet."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-05-23",
-      "url": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
         "zh": "消费者信心在5月创下新低，伊朗战争加剧通胀担忧",
         "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-        "de": "Das Verbrauchervertrauen erreicht im Mai einen neuen Rekordtiefstand, da der Iran-Krieg die Inflationssorgen anheizt"
+        "de": "Das Verbrauchervertrauen erreicht im Mai ein neues Rekordtief, da der Iran-Krieg Inflationsängste schürt"
       },
       "summary": {
-        "zh": "由于对伊朗战争和高油价的担忧，消费者信心在5月降至新低，反映出经济的不确定性。",
-        "en": "Consumer sentiment has dropped to a record low in May due to concerns over the Iran war and high oil prices, reflecting economic uncertainty.",
-        "de": "Das Verbrauchervertrauen ist im Mai aufgrund von Bedenken über den Iran-Krieg und hohe Ölpreise auf einen Rekordtiefstand gefallen, was auf wirtschaftliche Unsicherheit hinweist."
+        "zh": "由于美国与伊朗之间的战争和高油价，消费者信心在5月降至新低，反映出人们对未来经济形势的担忧。",
+        "en": "Consumer sentiment has dropped to a new low in May due to the war between the US and Iran and high oil prices, reflecting concerns about the future economic outlook.",
+        "de": "Das Verbrauchervertrauen ist im Mai aufgrund des Krieges zwischen den USA und dem Iran sowie hoher Ölpreise auf ein neues Tief gefallen, was die Sorgen über die zukünftige wirtschaftliche Entwicklung widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-22",
       "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "普京与习近平会谈重振停滞的俄罗斯天然气管道",
-        "en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
-        "de": "Putin-Xi-Gespräche beleben stillgelegte russische Gaspipeline, während der Iran-Krieg die Energiemärkte erschüttert"
+        "zh": "美国人感受到通货膨胀的压力，假期周末价格上涨",
+        "en": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
+        "de": "Amerikaner spüren den Druck der Inflation am Feiertagswochenende. Hier steigen die Preise am meisten"
       },
       "summary": {
-        "zh": "普京与习近平的会谈旨在重振停滞的俄罗斯天然气管道，背景是伊朗战争对能源市场的影响。",
-        "en": "The talks between Putin and Xi aim to revive the stalled Russian gas pipeline against the backdrop of the Iran war's impact on energy markets.",
-        "de": "Die Gespräche zwischen Putin und Xi zielen darauf ab, die stillgelegte russische Gaspipeline vor dem Hintergrund der Auswirkungen des Iran-Kriegs auf die Energiemärkte wiederzubeleben."
+        "zh": "随着假期的临近，旅行、休闲和食品相关的价格大幅上涨，给美国人带来了经济压力。",
+        "en": "As the holiday weekend approaches, prices related to travel, recreation, and food have surged, putting economic pressure on Americans.",
+        "de": "Mit dem bevorstehenden Feiertagswochenende sind die Preise für Reisen, Freizeit und Lebensmittel gestiegen, was den Amerikanern wirtschaftlichen Druck auferlegt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-05-23",
+      "url": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "普京-习近平会谈重振停滞的俄罗斯天然气管道",
+        "en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
+        "de": "Putin-Xi-Gespräche beleben stillgelegte russische Erdgas-Pipeline, während der Iran-Krieg die Energiemärkte erschüttert"
+      },
+      "summary": {
+        "zh": "普京与习近平的会谈旨在重振停滞的俄罗斯天然气管道项目，此时伊朗战争对能源市场造成了冲击。",
+        "en": "Talks between Putin and Xi aim to revive the stalled Russian gas pipeline project as the Iran war impacts energy markets.",
+        "de": "Die Gespräche zwischen Putin und Xi zielen darauf ab, das stillgelegte russische Erdgas-Pipeline-Projekt wiederzubeleben, während der Iran-Krieg die Energiemärkte beeinflusst."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-20",
