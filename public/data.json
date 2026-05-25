@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-25T08:46:16.624999+00:00",
+  "generatedAt": "2026-05-25T18:03:59.705206+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：编码的未来、‘类固醇奥运会’和AI驱动的科学",
+        "zh": "下载：编码的未来，“类固醇奥运会”和人工智能驱动的科学",
         "en": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-        "de": "Der Download: Die Zukunft des Codierens, die ‚Steroid-Olympiade‘ und KI-gesteuerte Wissenschaft"
+        "de": "Der Download: Die Zukunft des Codierens, die 'Steroid-Olympiade' und KI-gesteuerte Wissenschaft"
       },
       "summary": {
-        "zh": "今天的《下载》新闻简报涵盖了技术领域的最新动态，包括编码的未来和AI驱动的科学进展。",
-        "en": "Today's edition of The Download covers the latest developments in technology, including the future of coding and advancements in AI-driven science.",
-        "de": "Die heutige Ausgabe von The Download behandelt die neuesten Entwicklungen in der Technologie, einschließlich der Zukunft des Codierens und Fortschritte in der KI-gesteuerten Wissenschaft."
+        "zh": "今天的《下载》提供了技术领域的最新动态，包括编码的未来、即将到来的“类固醇奥运会”和人工智能在科学中的应用。",
+        "en": "Today's edition of The Download provides insights into the latest in technology, including the future of coding, the upcoming 'Steroid Olympics,' and the application of AI in science.",
+        "de": "Die heutige Ausgabe von The Download bietet Einblicke in die neuesten Entwicklungen in der Technologie, einschließlich der Zukunft des Codierens, der bevorstehenden 'Steroid-Olympiade' und der Anwendung von KI in der Wissenschaft."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-22",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "谷歌I/O展示了AI驱动科学的路径正在转变",
+        "zh": "谷歌I/O展示了人工智能驱动科学的路径如何转变",
         "en": "Google I/O showed how the path for AI-driven science is shifting",
         "de": "Google I/O zeigte, wie sich der Weg für KI-gesteuerte Wissenschaft verändert"
       },
       "summary": {
-        "zh": "在谷歌I/O的主题演讲中，DeepMind首席执行官Demis Hassabis表示，我们正处于AI驱动科学的初步阶段，未来的发展将会改变科学研究的方式。",
-        "en": "During the Google I/O keynote, DeepMind CEO Demis Hassabis stated that we are currently at the foothills of AI-driven science, indicating that future developments will transform scientific research.",
-        "de": "Während der Google I/O-Hauptrede erklärte DeepMind-CEO Demis Hassabis, dass wir uns derzeit am Fuß der KI-gesteuerten Wissenschaft befinden, was darauf hindeutet, dass zukünftige Entwicklungen die wissenschaftliche Forschung transformieren werden."
+        "zh": "在谷歌I/O的主题演讲中，DeepMind首席执行官Demis Hassabis表示，我们正处于人工智能驱动科学的初步阶段，未来将会有更多的创新。",
+        "en": "During the Google I/O keynote, DeepMind CEO Demis Hassabis stated that we are currently at the foothills of AI-driven science, indicating a future filled with innovation.",
+        "de": "Während der Google I/O-Hauptrede erklärte DeepMind-CEO Demis Hassabis, dass wir uns derzeit am Fuß der KI-gesteuerten Wissenschaft befinden, was auf eine Zukunft voller Innovationen hinweist."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-22",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "美国政府对九家量子计算公司进行20亿美元的股权投资",
-        "en": "US government takes $2 billion equity stake in nine quantum computing firms",
-        "de": "US-Regierung erwirbt 2 Milliarden Dollar Eigenkapitalanteil an neun Quantencomputing-Firmen"
+        "zh": "黑客组织以空前规模毒害开源代码",
+        "en": "A hacker group is poisoning open source code at an unprecedented scale",
+        "de": "Eine Hackergruppe vergiftet Open-Source-Code in einem beispiellosen Ausmaß"
       },
       "summary": {
-        "zh": "美国政府对九家量子计算公司进行了20亿美元的股权投资，旨在推动量子技术的发展，受益者包括与特朗普家族有联系的初创公司。",
-        "en": "The US government has made a $2 billion equity investment in nine quantum computing firms to promote the development of quantum technology, with beneficiaries including startups linked to the Trump family.",
-        "de": "Die US-Regierung hat eine Eigenkapitalinvestition von 2 Milliarden Dollar in neun Quantencomputing-Firmen getätigt, um die Entwicklung der Quanten-Technologie voranzutreiben, wobei Begünstigte auch Startups sind, die mit der Trump-Familie verbunden sind."
+        "zh": "黑客组织TeamPCP正在进行一系列软件供应链攻击，GitHub是其最新受害者，这一事件引发了对开源代码安全的广泛关注。",
+        "en": "The hacker group TeamPCP is conducting a spree of software supply chain attacks, with GitHub being the latest victim, raising significant concerns about the security of open source code.",
+        "de": "Die Hackergruppe TeamPCP führt eine Reihe von Angriffen auf die Software-Lieferkette durch, wobei GitHub das neueste Opfer ist, was erhebliche Bedenken hinsichtlich der Sicherheit von Open-Source-Code aufwirft."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-05-21",
-      "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/"
+      "date": "2026-05-22",
+      "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗战争第87天：特朗普表示美国不急于签署协议，打击乐观情绪",
-        "en": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism",
-        "de": "Iran-Krieg Tag 87: Trump sagt, die USA seien nicht in Eile, einen Deal zu unterzeichnen, was den Optimismus dämpft"
+        "zh": "以色列在内塔尼亚胡为选举而拖延停火之际升级对加沙的攻击",
+        "en": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+        "de": "Israel eskaliert Angriffe auf Gaza, während Netanyahu den Waffenstillstand für Wahlen hinauszögert"
       },
       "summary": {
-        "zh": "特朗普表示，美国在与伊朗的谈判中并不急于达成协议，这一表态令外界对达成协议的乐观情绪受到打击。",
-        "en": "Trump stated that the US is not in a rush to reach an agreement with Iran, dampening optimism about the potential for a deal.",
-        "de": "Trump erklärte, dass die USA nicht in Eile sind, ein Abkommen mit dem Iran zu erreichen, was den Optimismus über die Möglichkeit eines Deals dämpft."
+        "zh": "分析人士警告称，内塔尼亚胡正在利用失败的“停火”来延长对加沙的破坏，以便在以色列选举前获得政治利益。",
+        "en": "Analysts warn that Netanyahu is exploiting a failing 'ceasefire' to prolong the destruction of Gaza ahead of Israeli elections for political gain.",
+        "de": "Analysten warnen, dass Netanyahu einen gescheiterten 'Waffenstillstand' ausnutzt, um die Zerstörung Gazas vor den israelischen Wahlen zu verlängern, um politischen Gewinn zu erzielen."
       },
       "source": "Al Jazeera",
       "date": "2026-05-25",
-      "url": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "鲁比奥表示，如果伊朗谈判失败，美国将找到‘另一种方式’",
-        "en": "Rubio says US will find ‘another way’ if Iran talks fail",
-        "de": "Rubio sagt, die USA werden ‚einen anderen Weg‘ finden, wenn die Iran-Gespräche scheitern"
+        "zh": "突尼斯法院对总统批评者索尼娅·达赫曼判处新监禁",
+        "en": "Tunisian court hands presidential critic Sonia Dahmani new jail term",
+        "de": "Tunesischer Gericht verhängt neue Haftstrafe gegen Präsidentschaftskritikerin Sonia Dahmani"
       },
       "summary": {
-        "zh": "鲁比奥表示，如果与伊朗的谈判失败，美国将寻找其他解决方案，并强调当前的协议是一个‘相当稳固’的选择。",
-        "en": "Rubio indicated that the US will seek alternative solutions if talks with Iran fail, emphasizing that the current deal on the table is a 'pretty solid' option.",
-        "de": "Rubio deutete an, dass die USA alternative Lösungen suchen werden, wenn die Gespräche mit dem Iran scheitern, und betonte, dass das derzeitige Angebot eine ‚ziemlich solide‘ Option ist."
+        "zh": "突尼斯总统赛义德对异议的打压加剧，法院再次判处批评者索尼娅·达赫曼监禁，显示出对言论自由的持续打压。",
+        "en": "The Tunisian president Saied's crackdown on dissent intensifies as the court sentences critic Sonia Dahmani to jail again, highlighting ongoing repression of free speech.",
+        "de": "Die Repression gegen abweichende Meinungen unter Präsident Saied in Tunesien intensiviert sich, da das Gericht die Kritikerin Sonia Dahmani erneut ins Gefängnis verurteilt, was die anhaltende Unterdrückung der Meinungsfreiheit verdeutlicht."
       },
       "source": "Al Jazeera",
       "date": "2026-05-25",
-      "url": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/25/tunisian-court-hands-presidential-critic-sonia-dahmani-new-jail-term?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "大型俄罗斯攻击乌克兰造成四人死亡和数十人受伤",
-        "en": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-        "de": "Großangelegte russische Angriffe auf die Ukraine fordern vier Tote und Dutzende Verletzte"
+        "zh": "教皇表示必须“解除”人工智能以防止统治、排斥和死亡",
+        "en": "Pope says AI must be ‘disarmed’ to prevent domination, exclusion, and death",
+        "de": "Der Papst sagt, KI müsse 'entwaffnet' werden, um Dominanz, Ausschluss und Tod zu verhindern"
       },
       "summary": {
-        "zh": "俄罗斯对乌克兰的袭击造成四人死亡，数十人受伤，使用了超音速导弹，进一步加剧了地区紧张局势。",
-        "en": "A large-scale Russian attack on Ukraine has resulted in four deaths and dozens of injuries, utilizing hypersonic missiles and escalating regional tensions.",
-        "de": "Ein großangelegter russischer Angriff auf die Ukraine hat vier Tote und Dutzende Verletzte gefordert, wobei hypersonische Raketen eingesetzt wurden und die regionalen Spannungen weiter eskalierten."
+        "zh": "教皇在其首个通谕中强调，人工智能数据的所有权不应仅仅掌握在私人手中，以防止其对社会的负面影响。",
+        "en": "In his first encyclical, the Pope emphasizes that ownership of AI data should not be left solely in private hands to prevent its negative impact on society.",
+        "de": "In seiner ersten Enzyklika betont der Papst, dass das Eigentum an KI-Daten nicht allein in privaten Händen liegen sollte, um negative Auswirkungen auf die Gesellschaft zu verhindern."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-05-25",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/25/pope-says-ai-must-be-disarmed-to-prevent-domination-exclusion-and-death?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者信心在5月创下新低，伊朗战争引发通胀担忧",
-        "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-        "de": "Das Verbrauchervertrauen erreicht im Mai einen neuen Rekordtiefstand, da der Iran-Krieg Inflationssorgen schürt"
-      },
-      "summary": {
-        "zh": "由于美国与伊朗的战争和油价上涨，消费者信心在5月降至新低，反映出对未来经济形势的担忧。",
-        "en": "Consumer sentiment has fallen to a record low in May due to the US-Iran war and rising oil prices, reflecting concerns about the future economic outlook.",
-        "de": "Das Verbrauchervertrauen ist im Mai aufgrund des Iran-Kriegs und steigender Ölpreise auf einen Rekordtiefstand gefallen, was Bedenken hinsichtlich der zukünftigen wirtschaftlichen Aussichten widerspiegelt."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-05-22",
-      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "美国人感受到通货膨胀的压力，假期周末价格上涨",
+        "zh": "美国人在假期周末感受到通货膨胀的压力。价格上涨最明显的地方在这里",
         "en": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
-        "de": "Amerikaner spüren den Druck der Inflation am Feiertagswochenende. Hier steigen die Preise am meisten"
+        "de": "Amerikaner spüren den Druck der Inflation am Feiertagswochenende. Hier steigen die Preise am stärksten"
       },
       "summary": {
-        "zh": "在假期周末，旅行、娱乐和食品相关的价格大幅上涨，给美国人带来了经济压力。",
-        "en": "During the holiday weekend, prices related to travel, recreation, and food have surged, putting economic pressure on Americans.",
-        "de": "Am Feiertagswochenende sind die Preise für Reisen, Freizeit und Lebensmittel gestiegen, was den Amerikanern wirtschaftlichen Druck auferlegt."
+        "zh": "随着假期的临近，旅行、娱乐和食品相关的价格大幅上涨，给美国人的钱包带来了压力。",
+        "en": "As the holiday approaches, prices related to travel, recreation, and food have surged, putting pressure on Americans' wallets.",
+        "de": "Mit dem bevorstehenden Feiertag sind die Preise für Reisen, Freizeit und Lebensmittel stark gestiegen, was den Geldbeutel der Amerikaner belastet."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-23",
       "url": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "油价因伊朗战争结束协议接近而下跌",
-        "en": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
-        "de": "Ölpreise fallen, da ein Abkommen zur Beendigung des Iran-Kriegs nahe zu sein scheint, obwohl Trump sagt, es gebe keinen Druck"
+        "zh": "消费者信心在5月创下新低，伊朗战争加剧了通胀担忧",
+        "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
+        "de": "Das Verbrauchervertrauen erreicht im Mai ein neues Rekordtief, da der Iran-Krieg die Inflationssorgen anheizt"
       },
       "summary": {
-        "zh": "随着结束伊朗战争的协议似乎即将达成，油价大幅下跌，特朗普表示并不急于签署协议。",
-        "en": "As a deal to end the Iran war appears close to being reached, oil prices have dropped significantly, although Trump stated there is no rush to sign the agreement.",
-        "de": "Da ein Abkommen zur Beendigung des Iran-Kriegs kurz bevorsteht, sind die Ölpreise erheblich gefallen, obwohl Trump erklärte, dass es keinen Druck gibt, das Abkommen zu unterzeichnen."
+        "zh": "由于对美国与伊朗之间战争的担忧以及油价上涨，消费者信心在5月降至新低，反映出经济的不确定性。",
+        "en": "Consumer sentiment has dropped to a new low in May due to concerns over the U.S.-Iran war and rising oil prices, reflecting economic uncertainty.",
+        "de": "Das Verbrauchervertrauen ist im Mai aufgrund von Bedenken über den Iran-Krieg und steigende Ölpreise auf ein neues Tief gefallen, was auf wirtschaftliche Unsicherheit hinweist."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-05-25",
-      "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-05-22",
+      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "普京-习会谈复苏停滞的俄罗斯天然气管道，伊朗战争动摇能源市场",
+        "en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
+        "de": "Putin-Xi-Gespräche beleben stillgelegte russische Gaspipeline, während der Iran-Krieg die Energiemärkte erschüttert"
+      },
+      "summary": {
+        "zh": "普京与习近平的会谈将重启停滞的西伯利亚天然气管道项目，预计将对因伊朗战争而动荡的能源市场产生重大影响。",
+        "en": "Talks between Putin and Xi are set to revive the stalled Power of Siberia gas pipeline project, which is expected to have a significant impact on the energy markets shaken by the Iran war.",
+        "de": "Die Gespräche zwischen Putin und Xi sollen das stillgelegte Projekt der Power of Siberia-Gaspipeline wiederbeleben, was voraussichtlich erhebliche Auswirkungen auf die von dem Iran-Krieg erschütterten Energiemärkte haben wird."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-05-20",
+      "url": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html"
     }
   ]
 }
