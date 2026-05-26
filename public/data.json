@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-25T18:03:59.705206+00:00",
+  "generatedAt": "2026-05-26T08:07:34.546136+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：编码的未来，“类固醇奥运会”和人工智能驱动的科学",
+        "zh": "下载：编码的未来，‘类固醇奥运会’和AI驱动的科学",
         "en": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-        "de": "Der Download: Die Zukunft des Codierens, die 'Steroid-Olympiade' und KI-gesteuerte Wissenschaft"
+        "de": "Der Download: Die Zukunft des Codierens, die ‚Steroid-Olympiade‘ und KI-gesteuerte Wissenschaft"
       },
       "summary": {
-        "zh": "今天的《下载》提供了技术领域的最新动态，包括编码的未来、即将到来的“类固醇奥运会”和人工智能在科学中的应用。",
-        "en": "Today's edition of The Download provides insights into the latest in technology, including the future of coding, the upcoming 'Steroid Olympics,' and the application of AI in science.",
-        "de": "Die heutige Ausgabe von The Download bietet Einblicke in die neuesten Entwicklungen in der Technologie, einschließlich der Zukunft des Codierens, der bevorstehenden 'Steroid-Olympiade' und der Anwendung von KI in der Wissenschaft."
+        "zh": "今天的《下载》提供了技术世界的最新动态，包括编码的未来、‘类固醇奥运会’和AI驱动的科学进展。",
+        "en": "Today's edition of The Download provides the latest updates from the tech world, including the future of coding, the 'Steroid Olympics,' and advancements in AI-driven science.",
+        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technikwelt, einschließlich der Zukunft des Codierens, der ‚Steroid-Olympiade‘ und Fortschritte in der KI-gesteuerten Wissenschaft."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-22",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "谷歌I/O展示了人工智能驱动科学的路径如何转变",
+        "zh": "Google I/O展示了AI驱动科学的路径如何转变",
         "en": "Google I/O showed how the path for AI-driven science is shifting",
         "de": "Google I/O zeigte, wie sich der Weg für KI-gesteuerte Wissenschaft verändert"
       },
       "summary": {
-        "zh": "在谷歌I/O的主题演讲中，DeepMind首席执行官Demis Hassabis表示，我们正处于人工智能驱动科学的初步阶段，未来将会有更多的创新。",
-        "en": "During the Google I/O keynote, DeepMind CEO Demis Hassabis stated that we are currently at the foothills of AI-driven science, indicating a future filled with innovation.",
-        "de": "Während der Google I/O-Hauptrede erklärte DeepMind-CEO Demis Hassabis, dass wir uns derzeit am Fuß der KI-gesteuerten Wissenschaft befinden, was auf eine Zukunft voller Innovationen hinweist."
+        "zh": "在周二的Google I/O主题演讲中，DeepMind首席执行官Demis Hassabis表示，我们正处于AI驱动科学的开端。",
+        "en": "During Tuesday's Google I/O keynote, DeepMind CEO Demis Hassabis stated that we are at the beginning of a new era for AI-driven science.",
+        "de": "Während der Keynote von Google I/O am Dienstag erklärte DeepMind-CEO Demis Hassabis, dass wir am Anfang einer neuen Ära für KI-gesteuerte Wissenschaft stehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-22",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "黑客组织以空前规模毒害开源代码",
+        "zh": "一个黑客组织在前所未有的规模上毒害开源代码",
         "en": "A hacker group is poisoning open source code at an unprecedented scale",
         "de": "Eine Hackergruppe vergiftet Open-Source-Code in einem beispiellosen Ausmaß"
       },
       "summary": {
-        "zh": "黑客组织TeamPCP正在进行一系列软件供应链攻击，GitHub是其最新受害者，这一事件引发了对开源代码安全的广泛关注。",
-        "en": "The hacker group TeamPCP is conducting a spree of software supply chain attacks, with GitHub being the latest victim, raising significant concerns about the security of open source code.",
-        "de": "Die Hackergruppe TeamPCP führt eine Reihe von Angriffen auf die Software-Lieferkette durch, wobei GitHub das neueste Opfer ist, was erhebliche Bedenken hinsichtlich der Sicherheit von Open-Source-Code aufwirft."
+        "zh": "TeamPCP黑客组织对开源代码发起了一系列攻击，GitHub是最新的受害者，显示出软件供应链的脆弱性。",
+        "en": "The hacker group TeamPCP has launched a series of attacks on open source code, with GitHub being the latest victim, highlighting vulnerabilities in the software supply chain.",
+        "de": "Die Hackergruppe TeamPCP hat eine Reihe von Angriffen auf Open-Source-Code gestartet, wobei GitHub das neueste Opfer ist, was die Schwachstellen in der Software-Lieferkette verdeutlicht."
       },
       "source": "Ars Technica – AI",
       "date": "2026-05-22",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列在内塔尼亚胡为选举而拖延停火之际升级对加沙的攻击",
-        "en": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
-        "de": "Israel eskaliert Angriffe auf Gaza, während Netanyahu den Waffenstillstand für Wahlen hinauszögert"
+        "zh": "特朗普吸引中国，四国集团逐渐失去相关性",
+        "en": "As Trump woos China, the Quad grouping drifts towards irrelevance",
+        "de": "Während Trump China umwirbt, driftet die Quad-Gruppe in die Irrelevanz"
       },
       "summary": {
-        "zh": "分析人士警告称，内塔尼亚胡正在利用失败的“停火”来延长对加沙的破坏，以便在以色列选举前获得政治利益。",
-        "en": "Analysts warn that Netanyahu is exploiting a failing 'ceasefire' to prolong the destruction of Gaza ahead of Israeli elections for political gain.",
-        "de": "Analysten warnen, dass Netanyahu einen gescheiterten 'Waffenstillstand' ausnutzt, um die Zerstörung Gazas vor den israelischen Wahlen zu verlängern, um politischen Gewinn zu erzielen."
+        "zh": "分析人士指出，随着华盛顿将军事重点转向其他地区，四国集团在定义其目的方面面临挑战。",
+        "en": "Analysts note that as Washington shifts its military focus away from Asia, the Quad is struggling to define its purpose.",
+        "de": "Analysten stellen fest, dass die Quad-Gruppe Schwierigkeiten hat, ihren Zweck zu definieren, während Washington seinen militärischen Fokus von Asien abzieht."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-25",
-      "url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss"
+      "date": "2026-05-26",
+      "url": "https://www.aljazeera.com/news/2026/5/26/as-trump-woos-china-the-quad-alliance-drifts-toward-irrelevance?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "突尼斯法院对总统批评者索尼娅·达赫曼判处新监禁",
-        "en": "Tunisian court hands presidential critic Sonia Dahmani new jail term",
-        "de": "Tunesischer Gericht verhängt neue Haftstrafe gegen Präsidentschaftskritikerin Sonia Dahmani"
+        "zh": "美国对伊朗的新一轮攻击：目标是导弹基地和船只",
+        "en": "US launches new strikes on Iran, targeting missile sites and boats",
+        "de": "Die USA starten neue Angriffe auf den Iran und zielen auf Raketenstandorte und Boote ab"
       },
       "summary": {
-        "zh": "突尼斯总统赛义德对异议的打压加剧，法院再次判处批评者索尼娅·达赫曼监禁，显示出对言论自由的持续打压。",
-        "en": "The Tunisian president Saied's crackdown on dissent intensifies as the court sentences critic Sonia Dahmani to jail again, highlighting ongoing repression of free speech.",
-        "de": "Die Repression gegen abweichende Meinungen unter Präsident Saied in Tunesien intensiviert sich, da das Gericht die Kritikerin Sonia Dahmani erneut ins Gefängnis verurteilt, was die anhaltende Unterdrückung der Meinungsfreiheit verdeutlicht."
+        "zh": "美国中央司令部表示，这些打击是出于“自卫”，正值伊朗高级谈判代表在卡塔尔进行停火谈判之际。",
+        "en": "The US Central Command states that the strikes were taken in 'self-defense' as senior Iranian negotiators are in Qatar for ceasefire talks.",
+        "de": "Das US-Zentralkommando erklärt, dass die Angriffe in ‚Selbstverteidigung‘ durchgeführt wurden, während sich hochrangige iranische Verhandlungsführer in Katar zu Gesprächen über einen Waffenstillstand befinden."
       },
-      "source": "Al Jazeera",
-      "date": "2026-05-25",
-      "url": "https://www.aljazeera.com/news/2026/5/25/tunisian-court-hands-presidential-critic-sonia-dahmani-new-jail-term?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-05-26",
+      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "教皇表示必须“解除”人工智能以防止统治、排斥和死亡",
-        "en": "Pope says AI must be ‘disarmed’ to prevent domination, exclusion, and death",
-        "de": "Der Papst sagt, KI müsse 'entwaffnet' werden, um Dominanz, Ausschluss und Tod zu verhindern"
+        "zh": "伊朗战争第88天：美国在霍尔木兹海峡附近发动攻击；卡塔尔进行谈判",
+        "en": "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar",
+        "de": "Iran-Krieg Tag 88: US-Angriffe in der Nähe der Straße von Hormuz; Gespräche in Katar im Gange"
       },
       "summary": {
-        "zh": "教皇在其首个通谕中强调，人工智能数据的所有权不应仅仅掌握在私人手中，以防止其对社会的负面影响。",
-        "en": "In his first encyclical, the Pope emphasizes that ownership of AI data should not be left solely in private hands to prevent its negative impact on society.",
-        "de": "In seiner ersten Enzyklika betont der Papst, dass das Eigentum an KI-Daten nicht allein in privaten Händen liegen sollte, um negative Auswirkungen auf die Gesellschaft zu verhindern."
+        "zh": "美国在伊朗南部进行了一系列攻击，同时伊朗代表团在卡塔尔进行停火谈判。",
+        "en": "The US has carried out a series of attacks in southern Iran while an Iranian delegation is in Qatar for ceasefire negotiations.",
+        "de": "Die USA haben eine Reihe von Angriffen im Süden des Iran durchgeführt, während sich eine iranische Delegation in Katar zu Verhandlungen über einen Waffenstillstand befindet."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-25",
-      "url": "https://www.aljazeera.com/news/2026/5/25/pope-says-ai-must-be-disarmed-to-prevent-domination-exclusion-and-death?traffic_source=rss"
+      "date": "2026-05-26",
+      "url": "https://www.aljazeera.com/news/2026/5/26/iran-war-day-88-us-attacks-near-strait-of-hormuz-talks-under-way-in-qatar?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国人在假期周末感受到通货膨胀的压力。价格上涨最明显的地方在这里",
+        "zh": "美国人感受到通货膨胀的压力，假期周末价格上涨",
         "en": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
-        "de": "Amerikaner spüren den Druck der Inflation am Feiertagswochenende. Hier steigen die Preise am stärksten"
+        "de": "Die Amerikaner spüren den Druck der Inflation am Feiertagswochenende. Hier steigen die Preise am meisten"
       },
       "summary": {
-        "zh": "随着假期的临近，旅行、娱乐和食品相关的价格大幅上涨，给美国人的钱包带来了压力。",
-        "en": "As the holiday approaches, prices related to travel, recreation, and food have surged, putting pressure on Americans' wallets.",
-        "de": "Mit dem bevorstehenden Feiertag sind die Preise für Reisen, Freizeit und Lebensmittel stark gestiegen, was den Geldbeutel der Amerikaner belastet."
+        "zh": "与旅行、娱乐和食品相关的价格显著上涨，给美国人带来了经济压力，正值假期周末的开始。",
+        "en": "Prices related to travel, recreation, and food have seen significant increases, putting economic pressure on Americans as the holiday weekend begins.",
+        "de": "Preise für Reisen, Freizeit und Lebensmittel sind erheblich gestiegen, was den Amerikanern wirtschaftlichen Druck zu Beginn des Feiertagswochenendes auferlegt."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-23",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者信心在5月创下新低，伊朗战争加剧了通胀担忧",
+        "zh": "消费者信心在5月创下新低，伊朗战争加剧通货膨胀担忧",
         "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-        "de": "Das Verbrauchervertrauen erreicht im Mai ein neues Rekordtief, da der Iran-Krieg die Inflationssorgen anheizt"
+        "de": "Das Verbrauchervertrauen erreicht im Mai einen neuen Rekordtiefstand, da der Iran-Krieg die Inflationssorgen anheizt"
       },
       "summary": {
-        "zh": "由于对美国与伊朗之间战争的担忧以及油价上涨，消费者信心在5月降至新低，反映出经济的不确定性。",
-        "en": "Consumer sentiment has dropped to a new low in May due to concerns over the U.S.-Iran war and rising oil prices, reflecting economic uncertainty.",
-        "de": "Das Verbrauchervertrauen ist im Mai aufgrund von Bedenken über den Iran-Krieg und steigende Ölpreise auf ein neues Tief gefallen, was auf wirtschaftliche Unsicherheit hinweist."
+        "zh": "由于美国与伊朗之间的战争和高油价，消费者信心在5月跌至新低，反映出对未来经济的担忧。",
+        "en": "Consumer sentiment has fallen to a new low in May due to the U.S.-Iran war and high oil prices, reflecting concerns about the future economy.",
+        "de": "Das Verbrauchervertrauen ist im Mai aufgrund des Iran-Kriegs und hoher Ölpreise auf ein neues Tief gefallen, was Bedenken hinsichtlich der zukünftigen Wirtschaft widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-22",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "普京-习会谈复苏停滞的俄罗斯天然气管道，伊朗战争动摇能源市场",
+        "zh": "普京与习近平会谈重启停滞的俄罗斯天然气管道",
         "en": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
-        "de": "Putin-Xi-Gespräche beleben stillgelegte russische Gaspipeline, während der Iran-Krieg die Energiemärkte erschüttert"
+        "de": "Putin-Xi-Gespräche beleben gestoppte russische Gaspipeline, während der Iran-Krieg die Energiemärkte erschüttert"
       },
       "summary": {
-        "zh": "普京与习近平的会谈将重启停滞的西伯利亚天然气管道项目，预计将对因伊朗战争而动荡的能源市场产生重大影响。",
-        "en": "Talks between Putin and Xi are set to revive the stalled Power of Siberia gas pipeline project, which is expected to have a significant impact on the energy markets shaken by the Iran war.",
-        "de": "Die Gespräche zwischen Putin und Xi sollen das stillgelegte Projekt der Power of Siberia-Gaspipeline wiederbeleben, was voraussichtlich erhebliche Auswirkungen auf die von dem Iran-Krieg erschütterten Energiemärkte haben wird."
+        "zh": "普京与中国领导人习近平的会谈将重启停滞的西伯利亚天然气管道，因伊朗战争扰动了能源市场。",
+        "en": "Talks between Putin and Chinese leader Xi Jinping are set to revive the stalled Power of Siberia gas pipeline as the Iran war shakes energy markets.",
+        "de": "Die Gespräche zwischen Putin und dem chinesischen Führer Xi Jinping sollen die gestoppte Power-of-Siberia-Gaspipeline wiederbeleben, während der Iran-Krieg die Energiemärkte erschüttert."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-20",
