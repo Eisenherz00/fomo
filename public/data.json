@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-05-27T08:27:01.900461+00:00",
+  "generatedAt": "2026-05-27T18:38:48.661516+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "在代理AI时代重新思考组织设计",
-        "en": "Rethinking organizational design in the age of agentic AI",
-        "de": "Neugestaltung des Organisationsdesigns im Zeitalter der agentischen KI"
+        "zh": "下载：跟上人工智能的步伐，以及IVF的未来",
+        "en": "The Download: keeping up with AI, and the future of IVF",
+        "de": "Der Download: Mit KI Schritt halten und die Zukunft der IVF"
       },
       "summary": {
-        "zh": "随着企业级AI代理的快速普及，组织设计的雄心与执行之间出现了脱节。尽管85%的组织正在采用AI，但在实施过程中仍面临挑战。",
-        "en": "As enterprise-level AI agents rapidly gain traction, a disconnect is emerging between ambition and execution in organizational design. Despite 85% of organizations adopting AI, challenges remain in implementation.",
-        "de": "Mit der raschen Verbreitung von KI-Agenten auf Unternehmensebene entsteht eine Diskrepanz zwischen Ambitionen und Umsetzung im Organisationsdesign. Trotz der Tatsache, dass 85 % der Organisationen KI übernehmen, bestehen weiterhin Herausforderungen bei der Umsetzung."
+        "zh": "本期下载提供了关于人工智能和IVF未来的最新动态，强调了技术进步对社会的影响。",
+        "en": "This edition of The Download provides the latest updates on AI and the future of IVF, highlighting the impact of technological advancements on society.",
+        "de": "Diese Ausgabe des Downloads bietet die neuesten Updates zu KI und der Zukunft der IVF und hebt die Auswirkungen technologischer Fortschritte auf die Gesellschaft hervor."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-05-27",
+      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "在代理人工智能时代重新思考组织设计",
+        "en": "Rethinking organizational design in the age of agentic AI",
+        "de": "Die Neugestaltung des organisatorischen Designs im Zeitalter der agentischen KI überdenken"
+      },
+      "summary": {
+        "zh": "随着企业级人工智能代理的快速采用，组织设计面临着从雄心到执行的脱节。",
+        "en": "With the rapid adoption of enterprise-level AI agents, organizational design faces a disconnect between ambition and execution.",
+        "de": "Mit der raschen Einführung von KI-Agenten auf Unternehmensebene steht das organisatorische Design vor einer Diskrepanz zwischen Ambitionen und Umsetzung."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-26",
       "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "对AI工作恐慌的现实检查",
+        "zh": "对人工智能就业恐慌的现实检查",
         "en": "A reality check on the AI jobs hysteria",
-        "de": "Eine Realitätsprüfung der AI-Job-Hysterie"
+        "de": "Eine Bestandsaufnahme der AI-Job-Hysterie"
       },
       "summary": {
-        "zh": "尽管有关于白领工作被AI取代的担忧，实际情况是发达国家的整体就业保持稳定。AI并未导致大规模失业的清晰故事。",
-        "en": "Despite concerns about white-collar jobs being replaced by AI, the reality is that overall employment in developed countries remains stable. There is no clear narrative of mass unemployment due to AI.",
-        "de": "Trotz der Bedenken, dass Büroarbeitsplätze durch KI ersetzt werden, bleibt die Realität, dass die Gesamtbeschäftigung in den entwickelten Ländern stabil bleibt. Es gibt keine klare Erzählung über Massenarbeitslosigkeit durch KI."
+        "zh": "尽管有关于白领工作被人工智能取代的担忧，发达国家的整体就业情况仍然保持稳定。",
+        "en": "Despite concerns about white-collar jobs being replaced by AI, overall employment in developed countries remains stable.",
+        "de": "Trotz der Bedenken, dass weiße Kragenjobs durch KI ersetzt werden, bleibt die Gesamtbeschäftigung in den entwickelten Ländern stabil."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-26",
       "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "数百万AI代理因开源包中的关键漏洞而受到威胁",
-        "en": "Millions of AI agents imperiled by critical vulnerability in open source package",
-        "de": "Millionen von KI-Agenten durch kritische Sicherheitsanfälligkeit in Open-Source-Paket gefährdet"
-      },
-      "summary": {
-        "zh": "在Starlette这个每周下载量达到3.25亿的开源包中发现了一个关键漏洞，数百万AI代理因此面临风险。",
-        "en": "A critical vulnerability was discovered in Starlette, an open-source package with 325 million weekly downloads, putting millions of AI agents at risk.",
-        "de": "Eine kritische Sicherheitsanfälligkeit wurde in Starlette, einem Open-Source-Paket mit 325 Millionen wöchentlichen Downloads, entdeckt, wodurch Millionen von KI-Agenten gefährdet sind."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-05-26",
-      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "教皇呼吁对加沙的援助",
-        "en": "Pope appeals for Gaza aid after being asked about flotilla activists",
-        "de": "Papst appelliert nach Fragen zu Flottilenaktivisten um Hilfe für Gaza"
+        "zh": "印度尼西亚当局打击有争议的巴布亚纪录片",
+        "en": "Indonesian authorities crack down on controversial Papua documentary",
+        "de": "Indonesische Behörden gehen gegen umstrittene Papua-Dokumentation vor"
       },
       "summary": {
-        "zh": "教皇在被问及关于舰队活动家的问题后，呼吁国际社会向加沙提供援助，强调人道主义需求的重要性。",
-        "en": "The Pope called on the international community to provide aid to Gaza after being asked about flotilla activists, emphasizing the importance of humanitarian needs.",
-        "de": "Der Papst rief die internationale Gemeinschaft auf, Gaza Hilfe zu leisten, nachdem er nach Flottilenaktivisten gefragt wurde, und betonte die Bedeutung humanitärer Bedürfnisse."
+        "zh": "印度尼西亚当局关闭了几场关于巴布亚人权侵犯的纪录片放映，反映出对言论自由的限制。",
+        "en": "Indonesian authorities have shut down several screenings of a documentary about alleged human rights abuses in Papua, reflecting restrictions on freedom of expression.",
+        "de": "Die indonesischen Behörden haben mehrere Vorführungen eines Dokumentarfilms über angebliche Menschenrechtsverletzungen in Papua geschlossen, was auf Einschränkungen der Meinungsfreiheit hinweist."
       },
       "source": "Al Jazeera",
       "date": "2026-05-27",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/pope-appeals-for-gaza-aid-after-being-asked-about-flotilla-activists?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/indonesian-authorities-crack-down-on-controversial-papua-documentary?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗战争第89天：黎巴嫩空袭造成31人死亡",
-        "en": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
-        "de": "Iran-Krieg Tag 89: Angriffe im Libanon töten 31, während die Spannungen im Waffenstillstand steigen"
+        "zh": "以色列在加沙城的袭击导致哈马斯军事首领死亡",
+        "en": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+        "de": "Israeliischer Angriff in Gaza-Stadt tötet neuen Chef des militärischen Flügels der Hamas"
       },
       "summary": {
-        "zh": "以色列的空袭导致黎巴嫩31人死亡，随着攻击加剧，停火的紧张局势也在上升。",
-        "en": "Israeli strikes have killed 31 people in Lebanon, as tensions rise around the ceasefire amid intensifying attacks.",
-        "de": "Israelische Angriffe haben 31 Menschen im Libanon getötet, während die Spannungen rund um den Waffenstillstand angesichts intensivierender Angriffe steigen."
+        "zh": "哈马斯表示，新的军事首领穆罕默德·奥德在一次袭击中遇难，事件加剧了以色列与哈马斯之间的紧张关系。",
+        "en": "Hamas reported that its new military leader Mohammed Odeh was killed in an airstrike, escalating tensions between Israel and Hamas.",
+        "de": "Die Hamas berichtete, dass ihr neuer militärischer Führer Mohammed Odeh bei einem Luftangriff getötet wurde, was die Spannungen zwischen Israel und der Hamas verschärft."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-05-27",
-      "url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "数百名儿童在孟加拉国麻疹病例激增中死亡",
-        "en": "Hundreds of children die within months as measles cases soar in Bangladesh",
-        "de": "Hunderte Kinder sterben innerhalb von Monaten, während die Masernfälle in Bangladesch in die Höhe schnellen"
+        "zh": "穆斯林在全球庆祝古尔邦节，牺牲节",
+        "en": "Muslims worldwide celebrate Eid al-Adha, the Festival of Sacrifice",
+        "de": "Muslime weltweit feiern Eid al-Adha, das Fest des Opfers"
       },
       "summary": {
-        "zh": "孟加拉国在短短两个月内记录了超过60,000例疑似麻疹病例，导致数百名儿童死亡。",
-        "en": "Bangladesh has recorded over 60,000 suspected cases of measles in just over two months, resulting in hundreds of child fatalities.",
-        "de": "Bangladesch hat in nur etwas mehr als zwei Monaten über 60.000 Verdachtsfälle von Masern registriert, was zu Hunderten von Kindersterben geführt hat."
+        "zh": "全球穆斯林在朝觐期间庆祝古尔邦节，超过170万朝圣者在沙特阿拉伯寻求精神满足。",
+        "en": "Muslims around the world celebrate Eid al-Adha during Hajj, with over 1.7 million pilgrims seeking spiritual fulfillment in Saudi Arabia.",
+        "de": "Muslime auf der ganzen Welt feiern Eid al-Adha während der Hajj, wobei über 1,7 Millionen Pilger in Saudi-Arabien spirituelle Erfüllung suchen."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-05-27",
-      "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/gallery/2026/5/27/muslims-worldwide-celebrate-eid-al-adha-the-festival-of-sacrifice?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "欧洲央行将采取必要措施遏制通胀",
-        "en": "ECB 'will do what is necessary' to tame inflation, Bank of France governor tells CNBC",
-        "de": "EZB wird 'tun, was notwendig ist', um die Inflation zu zähmen, sagt der Gouverneur der Banque de France gegenüber CNBC"
+        "zh": "美联储将在7月提高利率以安抚“债券警惕者”，雅尔登表示",
+        "en": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
+        "de": "Die Fed wird die Zinssätze im Juli erhöhen müssen, um 'Bond-Vigilantes' zu besänftigen, sagt Yardeni"
       },
       "summary": {
-        "zh": "法国央行行长表示，市场普遍预计欧洲央行将在下次会议上加息，以应对通胀压力。",
-        "en": "The Governor of the Bank of France stated that markets overwhelmingly expect the European Central Bank to raise rates at its next meeting to address inflationary pressures.",
-        "de": "Der Gouverneur der Banque de France erklärte, dass die Märkte überwiegend erwarten, dass die Europäische Zentralbank bei ihrer nächsten Sitzung die Zinsen anhebt, um den Inflationsdruck zu bekämpfen."
+        "zh": "经济学家预测，美联储将在7月的会议上提高利率，以应对市场对通货膨胀的担忧。",
+        "en": "Economists predict that the Federal Reserve will raise interest rates at its July meeting to address market concerns about inflation.",
+        "de": "Ökonomen prognostizieren, dass die Federal Reserve die Zinssätze bei ihrer Sitzung im Juli erhöhen wird, um den Marktsorgen über Inflation zu begegnen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-26",
-      "url": "https://www.cnbc.com/2026/05/26/ecb-villeroy-inflation-iran-war.html"
+      "date": "2026-05-18",
+      "url": "https://www.cnbc.com/2026/05/18/the-fed-will-have-to-raise-interest-rates-in-july-to-appease-bond-vigilantes-yardeni-says.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者信心在5月创下新低",
-        "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-        "de": "Verbrauchervertrauen erreicht im Mai neuen Rekordtiefstand, da der Iran-Krieg Inflationssorgen schürt"
+        "zh": "美国人感受到通货膨胀的压力，假期周末价格上涨",
+        "en": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
+        "de": "Amerikaner spüren den Druck der Inflation am Feiertagswochenende. Hier steigen die Preise am meisten"
       },
       "summary": {
-        "zh": "由于美国与伊朗之间的战争和油价上涨，消费者信心在5月降至新低，反映出对未来经济的担忧。",
-        "en": "Consumer sentiment fell to a fresh record low in May due to the U.S.-Iran war and rising oil prices, reflecting concerns about the future economy.",
-        "de": "Das Verbrauchervertrauen fiel im Mai aufgrund des Iran-Kriegs und steigender Ölpreise auf einen neuen Rekordtiefstand, was Bedenken hinsichtlich der zukünftigen Wirtschaft widerspiegelt."
+        "zh": "随着假期的临近，旅行、娱乐和食品相关的价格大幅上涨，给美国人带来了经济压力。",
+        "en": "As the holiday approaches, prices related to travel, recreation, and food have surged, putting economic pressure on Americans.",
+        "de": "Mit dem bevorstehenden Feiertag sind die Preise für Reisen, Freizeit und Lebensmittel gestiegen, was den Amerikanern wirtschaftlichen Druck auferlegt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-22",
-      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html"
+      "date": "2026-05-23",
+      "url": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "AI经济正在重塑美国梦",
-        "en": "The AI economy is rewriting the American Dream — and blue-collar workers are poised to win",
-        "de": "Die KI-Wirtschaft schreibt den amerikanischen Traum neu – und Arbeiter mit niedrigem Einkommen stehen bereit zu gewinnen"
+        "zh": "Micron投资者如同1987年般欢庆。分析师称该股票仍显便宜。",
+        "en": "Micron investors are partying like it’s 1987. Analysts say the stock still looks pretty cheap.",
+        "de": "Micron-Investoren feiern wie 1987. Analysten sagen, die Aktie sieht immer noch ziemlich günstig aus."
       },
       "summary": {
-        "zh": "AI驱动的招聘放缓正在影响一些大学毕业生的入门级工作，而公司如福特和AT&T则加大对技术工人的招聘力度。",
-        "en": "AI-driven hiring slowdowns are impacting some entry-level jobs for college graduates, while companies like Ford and AT&T ramp up recruitment for skilled trades.",
-        "de": "Die durch KI bedingten Einstellungsverzögerungen wirken sich auf einige Einstiegsjobs für Hochschulabsolventen aus, während Unternehmen wie Ford und AT&T die Rekrutierung für Fachkräfte verstärken."
+        "zh": "Micron的股票在过去一个月表现优异，分析师认为其仍然具有投资价值。",
+        "en": "Micron's stock has performed exceptionally well over the past month, and analysts believe it still holds investment value.",
+        "de": "Die Aktie von Micron hat im vergangenen Monat außergewöhnlich gut abgeschnitten, und Analysten glauben, dass sie weiterhin Investitionswert hat."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-19",
-      "url": "https://www.cnbc.com/2026/05/19/ai-hiring-slowdown-skilled-trade-workers.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-27",
+      "url": "https://www.marketwatch.com/story/micron-investors-are-partying-like-its-1987-and-the-stock-still-looks-pretty-cheap-7060ee53?mod=mw_rss_topstories"
     }
   ]
 }
