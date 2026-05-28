@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T18:38:48.661516+00:00",
+  "generatedAt": "2026-05-28T08:27:42.697331+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Mit KI Schritt halten und die Zukunft der IVF"
       },
       "summary": {
-        "zh": "本期下载提供了关于人工智能和IVF未来的最新动态，强调了技术进步对社会的影响。",
-        "en": "This edition of The Download provides the latest updates on AI and the future of IVF, highlighting the impact of technological advancements on society.",
-        "de": "Diese Ausgabe des Downloads bietet die neuesten Updates zu KI und der Zukunft der IVF und hebt die Auswirkungen technologischer Fortschritte auf die Gesellschaft hervor."
+        "zh": "今天的下载提供了关于技术世界的最新动态，包括人工智能的进展和IVF的未来。",
+        "en": "Today's Download provides the latest updates on the world of technology, including advancements in AI and the future of IVF.",
+        "de": "Der heutige Download bietet die neuesten Updates aus der Technologiewelt, einschließlich Fortschritte in der KI und der Zukunft der IVF."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-27",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "在代理人工智能时代重新思考组织设计",
         "en": "Rethinking organizational design in the age of agentic AI",
-        "de": "Die Neugestaltung des organisatorischen Designs im Zeitalter der agentischen KI überdenken"
+        "de": "Organisationsdesign im Zeitalter der agentischen KI neu überdenken"
       },
       "summary": {
-        "zh": "随着企业级人工智能代理的快速采用，组织设计面临着从雄心到执行的脱节。",
-        "en": "With the rapid adoption of enterprise-level AI agents, organizational design faces a disconnect between ambition and execution.",
-        "de": "Mit der raschen Einführung von KI-Agenten auf Unternehmensebene steht das organisatorische Design vor einer Diskrepanz zwischen Ambitionen und Umsetzung."
+        "zh": "随着企业级AI代理的快速采用，组织设计面临新的挑战，企业在雄心与执行之间出现了脱节。",
+        "en": "With the rapid adoption of enterprise-level AI agents, organizational design faces new challenges, leading to a disconnect between ambition and execution.",
+        "de": "Mit der raschen Einführung von KI-Agenten auf Unternehmensebene stehen Organisationen vor neuen Herausforderungen, was zu einer Diskrepanz zwischen Ambitionen und Umsetzung führt."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-26",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "对人工智能就业恐慌的现实检查",
         "en": "A reality check on the AI jobs hysteria",
-        "de": "Eine Bestandsaufnahme der AI-Job-Hysterie"
+        "de": "Eine Bestandsaufnahme der Hysterie um KI-Jobs"
       },
       "summary": {
-        "zh": "尽管有关于白领工作被人工智能取代的担忧，发达国家的整体就业情况仍然保持稳定。",
-        "en": "Despite concerns about white-collar jobs being replaced by AI, overall employment in developed countries remains stable.",
-        "de": "Trotz der Bedenken, dass weiße Kragenjobs durch KI ersetzt werden, bleibt die Gesamtbeschäftigung in den entwickelten Ländern stabil."
+        "zh": "尽管有关于白领工作消失的担忧，人工智能并未导致大规模失业，发达国家的整体就业仍保持稳定。",
+        "en": "Despite concerns about the disappearance of white-collar jobs, AI has not led to mass unemployment, with overall employment in developed countries remaining stable.",
+        "de": "Trotz der Bedenken über den Verlust von Büroarbeitsplätzen hat KI nicht zu einer Massenarbeitslosigkeit geführt, und die Gesamtbeschäftigung in den entwickelten Ländern bleibt stabil."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-26",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "印度尼西亚当局打击有争议的巴布亚纪录片",
-        "en": "Indonesian authorities crack down on controversial Papua documentary",
-        "de": "Indonesische Behörden gehen gegen umstrittene Papua-Dokumentation vor"
+        "zh": "澳大利亚在从叙利亚返回后指控涉嫌与ISIL有关的女性",
+        "en": "Australia charges alleged ISIL-linked woman after return from Syria",
+        "de": "Australien erhebt Anklage gegen angeblich mit ISIL verbundene Frau nach Rückkehr aus Syrien"
       },
       "summary": {
-        "zh": "印度尼西亚当局关闭了几场关于巴布亚人权侵犯的纪录片放映，反映出对言论自由的限制。",
-        "en": "Indonesian authorities have shut down several screenings of a documentary about alleged human rights abuses in Papua, reflecting restrictions on freedom of expression.",
-        "de": "Die indonesischen Behörden haben mehrere Vorführungen eines Dokumentarfilms über angebliche Menschenrechtsverletzungen in Papua geschlossen, was auf Einschränkungen der Meinungsfreiheit hinweist."
+        "zh": "此案是在多名在叙利亚营地被拘留多年的女性和儿童被遣返后提起的。",
+        "en": "The case follows the repatriation of women and children held for years in Syrian camps without trial.",
+        "de": "Der Fall folgt der Rückführung von Frauen und Kindern, die jahrelang ohne Prozess in syrischen Lagern festgehalten wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-27",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/indonesian-authorities-crack-down-on-controversial-papua-documentary?traffic_source=rss"
+      "date": "2026-05-28",
+      "url": "https://www.aljazeera.com/news/2026/5/28/australia-charges-alleged-isil-linked-woman-after-return-from-syria?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列在加沙城的袭击导致哈马斯军事首领死亡",
-        "en": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-        "de": "Israeliischer Angriff in Gaza-Stadt tötet neuen Chef des militärischen Flügels der Hamas"
+        "zh": "伊朗和美国在特朗普拒绝霍尔木兹协议报告后互相攻击",
+        "en": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
+        "de": "Iran und die USA tauschen Angriffe aus, nachdem Trump den Bericht über das Hormuz-Abkommen zurückweist"
       },
       "summary": {
-        "zh": "哈马斯表示，新的军事首领穆罕默德·奥德在一次袭击中遇难，事件加剧了以色列与哈马斯之间的紧张关系。",
-        "en": "Hamas reported that its new military leader Mohammed Odeh was killed in an airstrike, escalating tensions between Israel and Hamas.",
-        "de": "Die Hamas berichtete, dass ihr neuer militärischer Führer Mohammed Odeh bei einem Luftangriff getötet wurde, was die Spannungen zwischen Israel und der Hamas verschärft."
+        "zh": "伊朗革命卫队表示，它针对美国军队使用的一个基地进行攻击，作为对美国在霍尔木兹海峡附近的攻击的回应。",
+        "en": "The IRGC claims it targeted a base used by US forces in retaliation for US attacks on a site near Bandar Abbas.",
+        "de": "Die IRGC behauptet, sie habe einen von US-Truppen genutzten Stützpunkt als Vergeltung für US-Angriffe auf eine Stätte in der Nähe von Bandar Abbas angegriffen."
       },
-      "source": "BBC News – World",
-      "date": "2026-05-27",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-05-28",
+      "url": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "穆斯林在全球庆祝古尔邦节，牺牲节",
-        "en": "Muslims worldwide celebrate Eid al-Adha, the Festival of Sacrifice",
-        "de": "Muslime weltweit feiern Eid al-Adha, das Fest des Opfers"
+        "zh": "关于伊朗战争的第90天，美国发起新一轮打击",
+        "en": "What’s happening on Iran war day 90 as US launches new strikes",
+        "de": "Was am 90. Tag des Iran-Kriegs passiert, während die USA neue Angriffe starten"
       },
       "summary": {
-        "zh": "全球穆斯林在朝觐期间庆祝古尔邦节，超过170万朝圣者在沙特阿拉伯寻求精神满足。",
-        "en": "Muslims around the world celebrate Eid al-Adha during Hajj, with over 1.7 million pilgrims seeking spiritual fulfillment in Saudi Arabia.",
-        "de": "Muslime auf der ganzen Welt feiern Eid al-Adha während der Hajj, wobei über 1,7 Millionen Pilger in Saudi-Arabien spirituelle Erfüllung suchen."
+        "zh": "美国在霍尔木兹海峡附近发起攻击，伊朗报告没有伤亡或损失。",
+        "en": "The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.",
+        "de": "Die USA führen Angriffe in der Nähe von Bandar Abbas durch, während die Spannungen im Hormus-Strom steigen; Iran meldet keine Opfer oder Schäden."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-27",
-      "url": "https://www.aljazeera.com/gallery/2026/5/27/muslims-worldwide-celebrate-eid-al-adha-the-festival-of-sacrifice?traffic_source=rss"
+      "date": "2026-05-28",
+      "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储将在7月提高利率以安抚“债券警惕者”，雅尔登表示",
-        "en": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
-        "de": "Die Fed wird die Zinssätze im Juli erhöhen müssen, um 'Bond-Vigilantes' zu besänftigen, sagt Yardeni"
+        "zh": "美联储的古尔斯比告诉CNBC，能源通胀比预期更持久",
+        "en": "Energy inflation has been more persistent than expected, Fed's Goolsbee tells CNBC",
+        "de": "Energieinflation war hartnäckiger als erwartet, sagt Goolsbee von der Fed gegenüber CNBC"
       },
       "summary": {
-        "zh": "经济学家预测，美联储将在7月的会议上提高利率，以应对市场对通货膨胀的担忧。",
-        "en": "Economists predict that the Federal Reserve will raise interest rates at its July meeting to address market concerns about inflation.",
-        "de": "Ökonomen prognostizieren, dass die Federal Reserve die Zinssätze bei ihrer Sitzung im Juli erhöhen wird, um den Marktsorgen über Inflation zu begegnen."
+        "zh": "尽管油价因美国与伊朗可能达成和平协议而下跌，但能源价格仍显著高于以前的水平。",
+        "en": "While oil prices have recently fallen on news that a peace deal between the U.S. and Iran could come, prices are still significantly higher than before.",
+        "de": "Obwohl die Ölpreise kürzlich aufgrund der Nachrichten über einen möglichen Friedensvertrag zwischen den USA und dem Iran gefallen sind, sind die Preise immer noch deutlich höher als zuvor."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-18",
-      "url": "https://www.cnbc.com/2026/05/18/the-fed-will-have-to-raise-interest-rates-in-july-to-appease-bond-vigilantes-yardeni-says.html"
+      "date": "2026-05-28",
+      "url": "https://www.cnbc.com/2026/05/28/goolsbee-iran-energy-inflation-asia-stagflation-shock-ai-artificial-intelligence-jobs.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国人感受到通货膨胀的压力，假期周末价格上涨",
-        "en": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
-        "de": "Amerikaner spüren den Druck der Inflation am Feiertagswochenende. Hier steigen die Preise am meisten"
+        "zh": "美联储的卡什卡里告诉CNBC，抗击通胀优先于劳动力市场",
+        "en": "Fed’s Kashkari tells CNBC that inflation fight takes priority as labor market is 'in decent shape'",
+        "de": "Kashkari von der Fed sagt gegenüber CNBC, dass der Kampf gegen die Inflation Vorrang hat, da der Arbeitsmarkt 'in anständiger Verfassung' ist"
       },
       "summary": {
-        "zh": "随着假期的临近，旅行、娱乐和食品相关的价格大幅上涨，给美国人带来了经济压力。",
-        "en": "As the holiday approaches, prices related to travel, recreation, and food have surged, putting economic pressure on Americans.",
-        "de": "Mit dem bevorstehenden Feiertag sind die Preise für Reisen, Freizeit und Lebensmittel gestiegen, was den Amerikanern wirtschaftlichen Druck auferlegt."
+        "zh": "明尼阿波利斯联邦储备银行行长警告说，持续的高通胀可能会在消费者预期中扎根，迫使采取更严格的政策。",
+        "en": "The Minneapolis Fed President warned that persistently high inflation risks becoming embedded in consumer expectations, potentially forcing tougher policies.",
+        "de": "Der Präsident der Minneapolis Fed warnte, dass anhaltend hohe Inflation das Risiko birgt, in den Verbrauchererwartungen verankert zu werden, was möglicherweise strengere Maßnahmen erforderlich macht."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-23",
-      "url": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html"
+      "date": "2026-05-28",
+      "url": "https://www.cnbc.com/2026/05/28/fed-reserve-neel-kashkari-inflation-job-market.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "Micron投资者如同1987年般欢庆。分析师称该股票仍显便宜。",
-        "en": "Micron investors are partying like it’s 1987. Analysts say the stock still looks pretty cheap.",
-        "de": "Micron-Investoren feiern wie 1987. Analysten sagen, die Aktie sieht immer noch ziemlich günstig aus."
+        "zh": "欧洲央行将采取必要措施来遏制通胀，法国央行行长告诉CNBC",
+        "en": "ECB 'will do what is necessary' to tame inflation, Bank of France governor tells CNBC",
+        "de": "Die EZB wird 'tun, was notwendig ist', um die Inflation zu zähmen, sagt der Gouverneur der Banque de France gegenüber CNBC"
       },
       "summary": {
-        "zh": "Micron的股票在过去一个月表现优异，分析师认为其仍然具有投资价值。",
-        "en": "Micron's stock has performed exceptionally well over the past month, and analysts believe it still holds investment value.",
-        "de": "Die Aktie von Micron hat im vergangenen Monat außergewöhnlich gut abgeschnitten, und Analysten glauben, dass sie weiterhin Investitionswert hat."
+        "zh": "市场普遍预计，欧洲央行将在下次会议上加息，以应对通胀压力。",
+        "en": "Markets are overwhelmingly pricing in a rate hike from the central bank at its next meeting to address inflation pressures.",
+        "de": "Die Märkte rechnen überwiegend mit einer Zinserhöhung der Zentralbank bei ihrer nächsten Sitzung, um den Inflationsdruck zu bekämpfen."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-05-27",
-      "url": "https://www.marketwatch.com/story/micron-investors-are-partying-like-its-1987-and-the-stock-still-looks-pretty-cheap-7060ee53?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-05-26",
+      "url": "https://www.cnbc.com/2026/05/26/ecb-villeroy-inflation-iran-war.html"
     }
   ]
 }
