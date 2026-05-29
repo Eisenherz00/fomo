@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-29T08:25:37.842745+00:00",
+  "generatedAt": "2026-05-29T18:46:52.189462+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "如何一种新的提取工艺可以解锁世界的锂：研究人员表示，他们发现了一种新的提取锂的方法，这是一种用于电动汽车和能源的锂离子电池的关键金属。",
-        "en": "How a new extraction process could unlock the world’s lithium: Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy.",
-        "de": "Wie ein neues Extraktionsverfahren das Lithium der Welt freisetzen könnte: Forscher sagen, sie hätten einen neuen Weg gefunden, Lithium zu extrahieren, ein entscheidendes Metall, das in Lithium-Ionen-Batterien verwendet wird, die Elektrofahrzeuge und Energie antreiben."
+        "zh": "如何通过新的提取工艺解锁世界的锂",
+        "en": "How a new extraction process could unlock the world’s lithium",
+        "de": "Wie ein neues Extraktionsverfahren das Lithium der Welt erschließen könnte"
       },
       "summary": {
-        "zh": "研究人员开发了一种新方法来提取锂，这可能会改变电动汽车和可再生能源的未来。该技术有潜力提高锂的可用性，满足日益增长的市场需求。",
-        "en": "Researchers have developed a new method for extracting lithium, which could transform the future of electric vehicles and renewable energy. This technology has the potential to increase the availability of lithium to meet growing market demands.",
-        "de": "Forscher haben eine neue Methode zur Lithium-Extraktion entwickelt, die die Zukunft von Elektrofahrzeugen und erneuerbaren Energien verändern könnte. Diese Technologie hat das Potenzial, die Verfügbarkeit von Lithium zu erhöhen, um den wachsenden Marktanforderungen gerecht zu werden."
+        "zh": "研究人员表示，他们发现了一种新的锂提取方法，这种金属在电动车和能源存储中至关重要。",
+        "en": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in lithium-ion batteries that power electric vehicles and energy storage.",
+        "de": "Forscher berichten, dass sie einen neuen Weg gefunden haben, Lithium zu extrahieren, ein entscheidendes Metall, das in Lithium-Ionen-Batterien verwendet wird, die Elektrofahrzeuge und Energiespeicher antreiben."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-28",
@@ -20,134 +20,134 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "气候科技公司正在上市。接下来会发生什么？：今年，美国有一波显著的能源公司通过首次公开募股上市。",
-        "en": "Climate tech companies are going public. What’s next?: This year, there’s been a wave of notable energy companies going public via IPO in the US.",
-        "de": "Klimatechnologieunternehmen gehen an die Börse. Was kommt als Nächstes?: In diesem Jahr gab es eine Welle bemerkenswerter Energieunternehmen, die in den USA über einen Börsengang an die Börse gingen."
+        "zh": "数百万AI代理因开源软件包中的关键漏洞而处于危险之中",
+        "en": "Millions of AI agents imperiled by critical vulnerability in open source package",
+        "de": "Millionen von KI-Agenten durch kritische Schwachstelle in Open-Source-Paket gefährdet"
       },
       "summary": {
-        "zh": "随着气候科技公司的首次公开募股（IPO）潮涌现，市场对可再生能源和清洁技术的兴趣持续上升。这一趋势可能会影响未来的投资方向和政策制定。",
-        "en": "As climate tech companies go public, interest in renewable energy and clean technologies continues to rise. This trend may influence future investment directions and policy-making.",
-        "de": "Da Klimatechnologieunternehmen an die Börse gehen, steigt das Interesse an erneuerbaren Energien und sauberen Technologien weiter. Dieser Trend könnte zukünftige Investitionsrichtungen und politische Entscheidungen beeinflussen."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-05-28",
-      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "数百万AI代理因开源包中的关键漏洞而面临危险：“BadHost”在Starlette中被发现，这是一个每周下载量达3.25亿的包。",
-        "en": "Millions of AI agents imperiled by critical vulnerability in open source package: 'BadHost' was found in Starlette, a package with 325 million weekly downloads.",
-        "de": "Millionen von KI-Agenten durch kritische Schwachstelle in Open-Source-Paket gefährdet: 'BadHost' wurde in Starlette gefunden, einem Paket mit 325 Millionen wöchentlichen Downloads."
-      },
-      "summary": {
-        "zh": "在一个流行的开源软件包中发现的关键漏洞可能会影响数百万AI代理。开发者和用户被警告尽快采取措施以保护他们的系统。",
-        "en": "A critical vulnerability found in a popular open-source software package could affect millions of AI agents. Developers and users are warned to take immediate action to protect their systems.",
-        "de": "Eine kritische Schwachstelle, die in einem beliebten Open-Source-Softwarepaket gefunden wurde, könnte Millionen von KI-Agenten betreffen. Entwickler und Benutzer werden gewarnt, sofort Maßnahmen zu ergreifen, um ihre Systeme zu schützen."
+        "zh": "在Starlette中发现了“BadHost”漏洞，该软件包每周下载量达到3.25亿次，影响了大量AI代理。",
+        "en": "The 'BadHost' vulnerability found in Starlette, a package with 325 million weekly downloads, poses a significant risk to millions of AI agents.",
+        "de": "Die in Starlette gefundene 'BadHost'-Schwachstelle, ein Paket mit 325 Millionen wöchentlichen Downloads, stellt ein erhebliches Risiko für Millionen von KI-Agenten dar."
       },
       "source": "Ars Technica – AI",
       "date": "2026-05-26",
       "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "对量子计算的美国重大投资可能并不完全合法",
+        "en": "US's big bet on quantum computing may not be entirely legal",
+        "de": "Die große Wette der USA auf Quantencomputing könnte nicht ganz legal sein"
+      },
+      "summary": {
+        "zh": "美国在量子计算领域的投资引发了法律合规性的问题，尤其是在新成立的量子铸造公司方面。",
+        "en": "The U.S. investment in quantum computing raises questions about legal compliance, particularly regarding the newly launched quantum foundry company.",
+        "de": "Die Investition der USA in Quantencomputing wirft Fragen zur rechtlichen Konformität auf, insbesondere in Bezug auf das neu gegründete Quantenfoundry-Unternehmen."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-05-25",
+      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "加沙父母勇敢面对牙科困境：昂贵的治疗还是餐桌上的食物？：许多加沙的巴勒斯坦人放弃昂贵的牙科治疗，损害了他们的健康。",
-        "en": "Gaza parents brave dental dilemma: Costly treatment or food on the table?: Many Palestinians in Gaza are forgoing expensive dental treatment, at a detriment to their health.",
-        "de": "Gaza-Eltern stellen sich der zahnärztlichen Dilemma: Teure Behandlung oder Essen auf dem Tisch?: Viele Palästinenser im Gazastreifen verzichten auf teure zahnärztliche Behandlungen, was ihrer Gesundheit schadet."
+        "zh": "乌克兰的俄罗斯损失率在一年内几乎增加三倍",
+        "en": "Russian rate of losses in Ukraine almost triples in one year",
+        "de": "Die Verluste Russlands in der Ukraine haben sich innerhalb eines Jahres fast verdreifacht"
       },
       "summary": {
-        "zh": "在加沙，许多家庭面临着牙科治疗和基本生活需求之间的艰难选择。由于经济压力，许多人被迫放弃必要的医疗服务。",
-        "en": "In Gaza, many families face a difficult choice between dental treatment and basic living needs. Economic pressures force many to forgo necessary medical services.",
-        "de": "Im Gazastreifen stehen viele Familien vor der schwierigen Wahl zwischen zahnärztlicher Behandlung und grundlegenden Lebensbedürfnissen. Wirtschaftlicher Druck zwingt viele dazu, notwendige medizinische Dienstleistungen aufzugeben."
+        "zh": "2026年，俄罗斯在乌克兰的地面战争评估显示，俄罗斯在领土上处于停滞状态。",
+        "en": "Assessments of Russia's ground war in Ukraine reveal that it is at a standstill in 2026, with the rate of losses nearly tripling.",
+        "de": "Die Bewertungen des russischen Bodenkriegs in der Ukraine zeigen, dass er 2026 zum Stillstand gekommen ist, wobei sich die Verluste fast verdreifacht haben."
       },
       "source": "Al Jazeera",
       "date": "2026-05-29",
-      "url": "https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "北约国家在罗马尼亚无人机坠毁后抨击俄罗斯：这一事件增加了人们对莫斯科对乌克兰的战争可能蔓延到邻近北约国家的担忧。",
-        "en": "NATO states slam Russia after drone crashes in Romania: The incident adds to concern that Moscow's war on Ukraine risks spilling over to entangle neighbouring NATO states.",
-        "de": "NATO-Staaten kritisieren Russland nach dem Absturz einer Drohne in Rumänien: Der Vorfall verstärkt die Besorgnis, dass Moskaus Krieg gegen die Ukraine das Risiko birgt, benachbarte NATO-Staaten zu verwickeln."
+        "zh": "罗马尼亚将在住宅无人机袭击后驱逐俄罗斯领事",
+        "en": "Romania to expel Russian consul after residential drone strike",
+        "de": "Rumänien wird den russischen Konsul nach einem Drohnenangriff auf Wohngebäude ausweisen"
       },
       "summary": {
-        "zh": "北约成员国对俄罗斯在罗马尼亚无人机坠毁事件表示强烈谴责，担心这一事件可能引发更广泛的冲突。各国呼吁加强防御和合作。",
-        "en": "NATO member states have strongly condemned Russia following the drone crash in Romania, fearing that this incident could trigger a wider conflict. Countries are calling for enhanced defense and cooperation.",
-        "de": "NATO-Mitgliedstaaten haben Russland nach dem Drohnenabsturz in Rumänien scharf verurteilt und befürchten, dass dieser Vorfall einen breiteren Konflikt auslösen könnte. Die Länder fordern eine verstärkte Verteidigung und Zusammenarbeit."
+        "zh": "罗马尼亚总统尼库索尔·丹宣布，位于东南部城市康斯坦察的俄罗斯领事将被驱逐。",
+        "en": "Romanian President Nicusor Dan announced that the Russian consul in the southeastern city of Constanta will be expelled following a residential drone strike.",
+        "de": "Der rumänische Präsident Nicusor Dan kündigte an, dass der russische Konsul in der südöstlichen Stadt Constanta nach einem Drohnenangriff auf Wohngebäude ausgewiesen wird."
       },
       "source": "Al Jazeera",
       "date": "2026-05-29",
-      "url": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/romania-to-expel-russian-consul-after-residential-drone-strike?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列总理内塔尼亚胡表示，他已指示以色列国防军将对加沙的控制扩大到70%：以色列的控制扩展将与以色列和哈马斯在2025年10月达成的停火协议的条款相悖。",
-        "en": "Netanyahu says he has directed IDF to increase control of Gaza to 70%: The expansion in control by Israel would contradict the terms of the ceasefire Israel and Hamas agreed to in October 2025.",
-        "de": "Netanjahu sagt, er habe die IDF angewiesen, die Kontrolle über den Gazastreifen auf 70 % zu erhöhen: Die Ausweitung der Kontrolle durch Israel würde den Bedingungen des Waffenstillstands widersprechen, den Israel und Hamas im Oktober 2025 vereinbart haben."
+        "zh": "以色列战斗机袭击南黎巴嫩村庄",
+        "en": "Israeli fighter jets strike village in south Lebanon",
+        "de": "Israelische Kampfflugzeuge greifen ein Dorf im Süden Libanons an"
       },
       "summary": {
-        "zh": "以色列总理内塔尼亚胡宣布将加沙的控制权扩大至70%，这一决定引发了对停火协议的担忧。此举可能导致局势进一步升级。",
-        "en": "Israeli Prime Minister Netanyahu announced an increase in control of Gaza to 70%, raising concerns about the ceasefire agreement. This move could lead to further escalation of the situation.",
-        "de": "Der israelische Premierminister Netanjahu kündigte eine Erhöhung der Kontrolle über den Gazastreifen auf 70 % an, was Bedenken hinsichtlich des Waffenstillstandsabkommens aufwirft. Dieser Schritt könnte zu einer weiteren Eskalation der Situation führen."
+        "zh": "视频显示以色列战斗机袭击了南黎巴嫩的艾因卡纳村的居民建筑。",
+        "en": "Video footage shows Israeli fighter jets striking a residential building in Ain Qana village in southern Lebanon.",
+        "de": "Videoaufnahmen zeigen, wie israelische Kampfflugzeuge ein Wohngebäude im Dorf Ain Qana im Süden Libanons angreifen."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-05-29",
-      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "核心通胀在4月份达到3.3%的年率，符合预期，联邦储备的首选指标显示：4月份的PCE价格指数预计显示所有项目的年通胀率为3.8%，核心为3.3%。",
-        "en": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows: The PCE price index for April was expected to show an annual inflation rate of 3.8% for all items and 3.3% for core.",
-        "de": "Die Kerninflation erreichte im April eine jährliche Rate von 3,3 %, wie erwartet, zeigt das bevorzugte Maß des Fed: Der PCE-Preisindex für April sollte eine jährliche Inflationsrate von 3,8 % für alle Artikel und 3,3 % für den Kern anzeigen."
+        "zh": "伊朗战争成本：美国家庭平均多花450美元在燃料和能源上",
+        "en": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
+        "de": "Kosten des Iran-Kriegs: Durchschnittlicher US-Haushalt zahlt 450 USD mehr für Gas und Energie"
       },
       "summary": {
-        "zh": "4月份的核心通胀率达到3.3%，与预期一致，表明经济保持稳定。分析师关注这一数据对未来货币政策的影响。",
-        "en": "Core inflation in April reached 3.3%, in line with expectations, indicating economic stability. Analysts are monitoring the implications of this data for future monetary policy.",
-        "de": "Die Kerninflation erreichte im April 3,3 %, was den Erwartungen entspricht und auf wirtschaftliche Stabilität hinweist. Analysten beobachten die Auswirkungen dieser Daten auf die zukünftige Geldpolitik."
+        "zh": "能源成本的上升迫使消费者动用储蓄并增加债务以支付开支。",
+        "en": "Higher energy costs can force consumers to raid their savings and lean more into debt to cover expenses.",
+        "de": "Steigende Energiekosten können die Verbraucher zwingen, auf ihre Ersparnisse zurückzugreifen und mehr Schulden aufzunehmen, um ihre Ausgaben zu decken."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-28",
-      "url": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html"
+      "date": "2026-05-29",
+      "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "能源通胀比预期更持久，联邦储备的古尔斯比告诉CNBC：尽管油价因美国和伊朗之间可能达成和平协议的消息而近期下跌，但价格仍显著高于之前的水平。",
-        "en": "Energy inflation has been more persistent than expected, Fed's Goolsbee tells CNBC: While oil prices have recently fallen on news that a peace deal between the U.S. and Iran could come, prices are still significantly higher than before.",
-        "de": "Die Energieinflation war hartnäckiger als erwartet, sagt Goolsbee von der Fed gegenüber CNBC: Während die Ölpreise aufgrund von Nachrichten über einen möglichen Friedensvertrag zwischen den USA und dem Iran kürzlich gefallen sind, liegen die Preise immer noch deutlich höher als zuvor."
+        "zh": "美国消费者信心在5月创下新低，伊朗战争加剧通货膨胀担忧",
+        "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
+        "de": "Das Verbrauchervertrauen erreicht im Mai ein neues Rekordtief, da der Iran-Krieg Inflationssorgen schürt"
       },
       "summary": {
-        "zh": "尽管油价因潜在的和平协议而有所回落，能源通胀依然顽固。经济学家警告说，这可能会对消费者和整体经济产生长期影响。",
-        "en": "Despite a recent drop in oil prices due to potential peace agreements, energy inflation remains stubborn. Economists warn that this could have long-term effects on consumers and the overall economy.",
-        "de": "Trotz eines kürzlichen Rückgangs der Ölpreise aufgrund potenzieller Friedensverträge bleibt die Energieinflation hartnäckig. Ökonomen warnen, dass dies langfristige Auswirkungen auf Verbraucher und die Gesamtwirtschaft haben könnte."
+        "zh": "由于美国-伊朗战争和高油价，消费者信心在5月降至新低。",
+        "en": "Consumer sentiment has tumbled to a fresh record low in May as fears of higher prices grow due to the U.S.-Iran war and elevated oil prices.",
+        "de": "Das Verbrauchervertrauen ist im Mai auf ein neues Rekordtief gefallen, da die Ängste vor höheren Preisen aufgrund des US-Iran-Kriegs und der hohen Ölpreise zunehmen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-28",
-      "url": "https://www.cnbc.com/2026/05/28/goolsbee-iran-energy-inflation-asia-stagflation-shock-ai-artificial-intelligence-jobs.html"
+      "date": "2026-05-22",
+      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "戴尔股票因AI热潮推动大幅盈利超出预期而飙升至另一个历史高点：该公司的AI服务器收入在第一季度增长了757%，而利润超出预期幅度为至少五年来最大。",
-        "en": "Dell stock soars toward another record high as the AI boom drives a big earnings beat: The company’s AI-server revenue was up 757% in the first quarter, while profit beat expectations by the widest margin in at least five years.",
-        "de": "Dell-Aktien steigen auf ein weiteres Rekordhoch, da der KI-Boom zu einem großen Gewinnüberraschung führt: Der Umsatz des Unternehmens mit KI-Servern stieg im ersten Quartal um 757 %, während der Gewinn die Erwartungen um den größten Abstand seit mindestens fünf Jahren übertraf."
+        "zh": "在AI热潮推动下，投资者接下来该怎么办？",
+        "en": "What’s next for investors after the AI rally supercharged stocks in May?",
+        "de": "Was kommt als Nächstes für Investoren, nachdem die KI-Rallye die Aktien im Mai angekurbelt hat?"
       },
       "summary": {
-        "zh": "戴尔的股票因AI热潮而飙升，第一季度的AI服务器收入大幅增长，推动公司盈利超出预期。这一趋势反映了市场对AI技术的强烈需求。",
-        "en": "Dell's stock surged due to the AI boom, with a significant increase in AI server revenue in the first quarter driving profits above expectations. This trend reflects strong market demand for AI technologies.",
-        "de": "Die Dell-Aktien stiegen aufgrund des KI-Booms, wobei der Umsatz mit KI-Servern im ersten Quartal erheblich zunahm und die Gewinne die Erwartungen übertrafen. Dieser Trend spiegelt die starke Marktnachfrage nach KI-Technologien wider."
+        "zh": "随着AI热潮推动股票上涨，投资者在未来的投资策略上需要考虑新的方向。",
+        "en": "As the AI rally has supercharged stocks in May, investors need to consider new directions for their investment strategies moving forward.",
+        "de": "Da die KI-Rallye die Aktien im Mai angekurbelt hat, müssen Investoren neue Richtungen für ihre Anlagestrategien in Betracht ziehen."
       },
       "source": "MarketWatch – Top Stories",
       "date": "2026-05-29",
-      "url": "https://www.marketwatch.com/story/dell-stock-soars-toward-another-record-high-as-the-ai-boom-drives-a-big-earnings-beat-b7c0c203?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/whats-next-for-investors-after-the-ai-rally-supercharged-stocks-in-may-38b0d3aa?mod=mw_rss_topstories"
     }
   ]
 }
