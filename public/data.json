@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-05-28T18:47:42.410921+00:00",
+  "generatedAt": "2026-05-29T08:25:37.842745+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "一种新的提取工艺可能会解锁全球锂资源",
-        "en": "How a new extraction process could unlock the world’s lithium",
-        "de": "Wie ein neuer Extraktionsprozess das Lithium der Welt freisetzen könnte"
+        "zh": "如何一种新的提取工艺可以解锁世界的锂：研究人员表示，他们发现了一种新的提取锂的方法，这是一种用于电动汽车和能源的锂离子电池的关键金属。",
+        "en": "How a new extraction process could unlock the world’s lithium: Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy.",
+        "de": "Wie ein neues Extraktionsverfahren das Lithium der Welt freisetzen könnte: Forscher sagen, sie hätten einen neuen Weg gefunden, Lithium zu extrahieren, ein entscheidendes Metall, das in Lithium-Ionen-Batterien verwendet wird, die Elektrofahrzeuge und Energie antreiben."
       },
       "summary": {
-        "zh": "研究人员表示，他们发现了一种新的锂提取方法，这种金属在电动汽车和能源存储中至关重要。该方法可能会显著提高锂的可用性，满足日益增长的需求。",
-        "en": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in the lithium-ion batteries that power electric vehicles and energy storage. This method could significantly increase the availability of lithium to meet growing demand.",
-        "de": "Forscher berichten, dass sie einen neuen Weg gefunden haben, Lithium zu extrahieren, ein entscheidendes Metall, das in Lithium-Ionen-Batterien verwendet wird, die Elektrofahrzeuge und Energiespeicher antreiben. Diese Methode könnte die Verfügbarkeit von Lithium erheblich erhöhen, um der wachsenden Nachfrage gerecht zu werden."
+        "zh": "研究人员开发了一种新方法来提取锂，这可能会改变电动汽车和可再生能源的未来。该技术有潜力提高锂的可用性，满足日益增长的市场需求。",
+        "en": "Researchers have developed a new method for extracting lithium, which could transform the future of electric vehicles and renewable energy. This technology has the potential to increase the availability of lithium to meet growing market demands.",
+        "de": "Forscher haben eine neue Methode zur Lithium-Extraktion entwickelt, die die Zukunft von Elektrofahrzeugen und erneuerbaren Energien verändern könnte. Diese Technologie hat das Potenzial, die Verfügbarkeit von Lithium zu erhöhen, um den wachsenden Marktanforderungen gerecht zu werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-28",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "气候科技公司正在上市。接下来会发生什么？",
-        "en": "Climate tech companies are going public. What’s next?",
-        "de": "Klimatechnologieunternehmen gehen an die Börse. Was kommt als Nächstes?"
+        "zh": "气候科技公司正在上市。接下来会发生什么？：今年，美国有一波显著的能源公司通过首次公开募股上市。",
+        "en": "Climate tech companies are going public. What’s next?: This year, there’s been a wave of notable energy companies going public via IPO in the US.",
+        "de": "Klimatechnologieunternehmen gehen an die Börse. Was kommt als Nächstes?: In diesem Jahr gab es eine Welle bemerkenswerter Energieunternehmen, die in den USA über einen Börsengang an die Börse gingen."
       },
       "summary": {
-        "zh": "今年，美国有多家知名能源公司通过首次公开募股（IPO）上市。随着气候科技的兴起，市场对这些公司的关注度不断增加。",
-        "en": "This year, there’s been a wave of notable energy companies going public via IPO in the US. Interest in these companies is rising as climate tech gains traction.",
-        "de": "In diesem Jahr gab es eine Welle von bemerkenswerten Energieunternehmen, die in den USA über einen Börsengang (IPO) an die Börse gingen. Das Interesse an diesen Unternehmen wächst, da die Klimatechnologie an Bedeutung gewinnt."
+        "zh": "随着气候科技公司的首次公开募股（IPO）潮涌现，市场对可再生能源和清洁技术的兴趣持续上升。这一趋势可能会影响未来的投资方向和政策制定。",
+        "en": "As climate tech companies go public, interest in renewable energy and clean technologies continues to rise. This trend may influence future investment directions and policy-making.",
+        "de": "Da Klimatechnologieunternehmen an die Börse gehen, steigt das Interesse an erneuerbaren Energien und sauberen Technologien weiter. Dieser Trend könnte zukünftige Investitionsrichtungen und politische Entscheidungen beeinflussen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-28",
@@ -36,82 +36,82 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "关于AI工作的恐慌：现实检查",
-        "en": "A reality check on the AI jobs hysteria",
-        "de": "Eine Realitätssicht auf die AI-Jobs-Hysterie"
+        "zh": "数百万AI代理因开源包中的关键漏洞而面临危险：“BadHost”在Starlette中被发现，这是一个每周下载量达3.25亿的包。",
+        "en": "Millions of AI agents imperiled by critical vulnerability in open source package: 'BadHost' was found in Starlette, a package with 325 million weekly downloads.",
+        "de": "Millionen von KI-Agenten durch kritische Schwachstelle in Open-Source-Paket gefährdet: 'BadHost' wurde in Starlette gefunden, einem Paket mit 325 Millionen wöchentlichen Downloads."
       },
       "summary": {
-        "zh": "尽管有关于AI将取代白领工作的担忧，但最新的数据表明，工作市场并没有如预期般受到严重影响。分析指出，AI的影响可能被夸大了。",
-        "en": "Despite concerns that AI will replace white-collar jobs, the latest data suggests that the job market has not been as severely impacted as expected. Analysts indicate that the effects of AI may be overstated.",
-        "de": "Trotz der Bedenken, dass KI die Büroarbeitsplätze ersetzen wird, deuten die neuesten Daten darauf hin, dass der Arbeitsmarkt nicht so stark betroffen ist, wie erwartet. Analysten weisen darauf hin, dass die Auswirkungen von KI möglicherweise übertrieben sind."
+        "zh": "在一个流行的开源软件包中发现的关键漏洞可能会影响数百万AI代理。开发者和用户被警告尽快采取措施以保护他们的系统。",
+        "en": "A critical vulnerability found in a popular open-source software package could affect millions of AI agents. Developers and users are warned to take immediate action to protect their systems.",
+        "de": "Eine kritische Schwachstelle, die in einem beliebten Open-Source-Softwarepaket gefunden wurde, könnte Millionen von KI-Agenten betreffen. Entwickler und Benutzer werden gewarnt, sofort Maßnahmen zu ergreifen, um ihre Systeme zu schützen."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-05-26",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国武器库存重建可能需要数年时间",
-        "en": "Rebuilding US weapons stockpile may ‘take years’ post-Iran war",
-        "de": "Wiederaufbau des US-Waffenlagers könnte nach dem Iran-Krieg 'Jahre' dauern"
+        "zh": "加沙父母勇敢面对牙科困境：昂贵的治疗还是餐桌上的食物？：许多加沙的巴勒斯坦人放弃昂贵的牙科治疗，损害了他们的健康。",
+        "en": "Gaza parents brave dental dilemma: Costly treatment or food on the table?: Many Palestinians in Gaza are forgoing expensive dental treatment, at a detriment to their health.",
+        "de": "Gaza-Eltern stellen sich der zahnärztlichen Dilemma: Teure Behandlung oder Essen auf dem Tisch?: Viele Palästinenser im Gazastreifen verzichten auf teure zahnärztliche Behandlungen, was ihrer Gesundheit schadet."
       },
       "summary": {
-        "zh": "根据CSIS的报告，恢复战前的美国弹药库存将至少需要两年时间。报告强调了战争对美国军事准备的长期影响。",
-        "en": "According to a CSIS report, restoring pre-war stockpiles of critical US munitions will take at least two years. The report highlights the long-term impact of the war on US military readiness.",
-        "de": "Laut einem Bericht des CSIS wird der Wiederaufbau der vor dem Krieg vorhandenen Bestände an kritischen US-Munitionsbeständen mindestens zwei Jahre in Anspruch nehmen. Der Bericht hebt die langfristigen Auswirkungen des Krieges auf die militärische Einsatzbereitschaft der USA hervor."
+        "zh": "在加沙，许多家庭面临着牙科治疗和基本生活需求之间的艰难选择。由于经济压力，许多人被迫放弃必要的医疗服务。",
+        "en": "In Gaza, many families face a difficult choice between dental treatment and basic living needs. Economic pressures force many to forgo necessary medical services.",
+        "de": "Im Gazastreifen stehen viele Familien vor der schwierigen Wahl zwischen zahnärztlicher Behandlung und grundlegenden Lebensbedürfnissen. Wirtschaftlicher Druck zwingt viele dazu, notwendige medizinische Dienstleistungen aufzugeben."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-28",
-      "url": "https://www.aljazeera.com/news/2026/5/28/us-weapon-stockpile-rebuilding-to-take-years-post-iran-war-says-report?traffic_source=rss"
+      "date": "2026-05-29",
+      "url": "https://www.aljazeera.com/economy/2026/5/29/gaza-parents-brave-dental-dilemma-costly-treatment-or-food-on-the-table?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国和伊朗达成60天停火的谅解备忘录，特朗普的批准待定",
-        "en": "US, Iran reach MoU on 60-day truce, Trump’s approval pending",
-        "de": "USA und Iran erreichen MoU über 60-tägigen Waffenstillstand, Trumps Genehmigung steht aus"
+        "zh": "北约国家在罗马尼亚无人机坠毁后抨击俄罗斯：这一事件增加了人们对莫斯科对乌克兰的战争可能蔓延到邻近北约国家的担忧。",
+        "en": "NATO states slam Russia after drone crashes in Romania: The incident adds to concern that Moscow's war on Ukraine risks spilling over to entangle neighbouring NATO states.",
+        "de": "NATO-Staaten kritisieren Russland nach dem Absturz einer Drohne in Rumänien: Der Vorfall verstärkt die Besorgnis, dass Moskaus Krieg gegen die Ukraine das Risiko birgt, benachbarte NATO-Staaten zu verwickeln."
       },
       "summary": {
-        "zh": "美国和伊朗谈判代表达成了一项关于提议的60天停火延长的谅解备忘录，但仍需唐纳德·特朗普的最终批准。",
-        "en": "US and Iranian negotiators have reached a memorandum of understanding on a proposed 60-day ceasefire extension, but it still requires Donald Trump's final approval.",
-        "de": "US- und iranische Verhandlungsführer haben ein Memorandum of Understanding über eine vorgeschlagene 60-tägige Verlängerung des Waffenstillstands erreicht, das jedoch noch der endgültigen Genehmigung von Donald Trump bedarf."
+        "zh": "北约成员国对俄罗斯在罗马尼亚无人机坠毁事件表示强烈谴责，担心这一事件可能引发更广泛的冲突。各国呼吁加强防御和合作。",
+        "en": "NATO member states have strongly condemned Russia following the drone crash in Romania, fearing that this incident could trigger a wider conflict. Countries are calling for enhanced defense and cooperation.",
+        "de": "NATO-Mitgliedstaaten haben Russland nach dem Drohnenabsturz in Rumänien scharf verurteilt und befürchten, dass dieser Vorfall einen breiteren Konflikt auslösen könnte. Die Länder fordern eine verstärkte Verteidigung und Zusammenarbeit."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/us-iran-reach-mou-on-60-day-truce-trumps-approval-pending?traffic_source=rss"
+      "date": "2026-05-29",
+      "url": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国通货膨胀飙升至三年高点",
-        "en": "US inflation surges to three-year high amid tensions with Iran",
-        "de": "US-Inflation steigt inmitten von Spannungen mit dem Iran auf den höchsten Stand seit drei Jahren"
+        "zh": "以色列总理内塔尼亚胡表示，他已指示以色列国防军将对加沙的控制扩大到70%：以色列的控制扩展将与以色列和哈马斯在2025年10月达成的停火协议的条款相悖。",
+        "en": "Netanyahu says he has directed IDF to increase control of Gaza to 70%: The expansion in control by Israel would contradict the terms of the ceasefire Israel and Hamas agreed to in October 2025.",
+        "de": "Netanjahu sagt, er habe die IDF angewiesen, die Kontrolle über den Gazastreifen auf 70 % zu erhöhen: Die Ausweitung der Kontrolle durch Israel würde den Bedingungen des Waffenstillstands widersprechen, den Israel und Hamas im Oktober 2025 vereinbart haben."
       },
       "summary": {
-        "zh": "由于汽油价格上涨，美国的通货膨胀压力加剧，4月份价格上涨了5.5%。这一现象引发了对经济前景的担忧。",
-        "en": "Heightened petrol prices led to inflationary pressures in the US, with prices jumping 5.5% in April. This phenomenon raises concerns about the economic outlook.",
-        "de": "Steigende Benzinpreise führten zu Inflationsdruck in den USA, wobei die Preise im April um 5,5 % stiegen. Dieses Phänomen wirft Bedenken hinsichtlich der wirtschaftlichen Aussichten auf."
+        "zh": "以色列总理内塔尼亚胡宣布将加沙的控制权扩大至70%，这一决定引发了对停火协议的担忧。此举可能导致局势进一步升级。",
+        "en": "Israeli Prime Minister Netanyahu announced an increase in control of Gaza to 70%, raising concerns about the ceasefire agreement. This move could lead to further escalation of the situation.",
+        "de": "Der israelische Premierminister Netanjahu kündigte eine Erhöhung der Kontrolle über den Gazastreifen auf 70 % an, was Bedenken hinsichtlich des Waffenstillstandsabkommens aufwirft. Dieser Schritt könnte zu einer weiteren Eskalation der Situation führen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-05-28",
-      "url": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-05-29",
+      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "核心通货膨胀在4月份达到3.3%的年率",
-        "en": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
-        "de": "Die Kerninflation erreichte im April eine jährliche Rate von 3,3 %, wie erwartet, zeigt der bevorzugte Maßstab der Fed"
+        "zh": "核心通胀在4月份达到3.3%的年率，符合预期，联邦储备的首选指标显示：4月份的PCE价格指数预计显示所有项目的年通胀率为3.8%，核心为3.3%。",
+        "en": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows: The PCE price index for April was expected to show an annual inflation rate of 3.8% for all items and 3.3% for core.",
+        "de": "Die Kerninflation erreichte im April eine jährliche Rate von 3,3 %, wie erwartet, zeigt das bevorzugte Maß des Fed: Der PCE-Preisindex für April sollte eine jährliche Inflationsrate von 3,8 % für alle Artikel und 3,3 % für den Kern anzeigen."
       },
       "summary": {
-        "zh": "根据美联储的首选指标，4月份的核心通货膨胀年率为3.3%，符合预期。这一数据反映出经济的持续压力。",
-        "en": "According to the Fed’s preferred gauge, core inflation in April hit an annual rate of 3.3%, as expected. This data reflects ongoing pressures in the economy.",
-        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflation im April eine jährliche Rate von 3,3 %, wie erwartet. Diese Daten spiegeln die anhaltenden Druckverhältnisse in der Wirtschaft wider."
+        "zh": "4月份的核心通胀率达到3.3%，与预期一致，表明经济保持稳定。分析师关注这一数据对未来货币政策的影响。",
+        "en": "Core inflation in April reached 3.3%, in line with expectations, indicating economic stability. Analysts are monitoring the implications of this data for future monetary policy.",
+        "de": "Die Kerninflation erreichte im April 3,3 %, was den Erwartungen entspricht und auf wirtschaftliche Stabilität hinweist. Analysten beobachten die Auswirkungen dieser Daten auf die zukünftige Geldpolitik."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-28",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美联储的卡什卡里表示，通货膨胀斗争优先于劳动市场",
-        "en": "Fed’s Kashkari tells CNBC that inflation fight takes priority as labor market is 'in decent shape'",
-        "de": "Feds Kashkari sagt CNBC, dass der Kampf gegen die Inflation Priorität hat, da der Arbeitsmarkt 'in anständiger Verfassung' ist"
+        "zh": "能源通胀比预期更持久，联邦储备的古尔斯比告诉CNBC：尽管油价因美国和伊朗之间可能达成和平协议的消息而近期下跌，但价格仍显著高于之前的水平。",
+        "en": "Energy inflation has been more persistent than expected, Fed's Goolsbee tells CNBC: While oil prices have recently fallen on news that a peace deal between the U.S. and Iran could come, prices are still significantly higher than before.",
+        "de": "Die Energieinflation war hartnäckiger als erwartet, sagt Goolsbee von der Fed gegenüber CNBC: Während die Ölpreise aufgrund von Nachrichten über einen möglichen Friedensvertrag zwischen den USA und dem Iran kürzlich gefallen sind, liegen die Preise immer noch deutlich höher als zuvor."
       },
       "summary": {
-        "zh": "明尼阿波利斯联邦储备银行行长卡什卡里表示，尽管劳动市场状况良好，但抗击通货膨胀仍然是优先事项。这表明美联储可能会采取更强硬的货币政策。",
-        "en": "Minneapolis Fed President Kashkari stated that despite the labor market being in decent shape, fighting inflation remains a priority. This indicates that the Fed may adopt a tougher monetary policy.",
-        "de": "Der Präsident der Minneapolis Fed, Kashkari, erklärte, dass trotz des anständigen Zustands des Arbeitsmarktes der Kampf gegen die Inflation Priorität hat. Dies deutet darauf hin, dass die Fed eine straffere Geldpolitik verfolgen könnte."
+        "zh": "尽管油价因潜在的和平协议而有所回落，能源通胀依然顽固。经济学家警告说，这可能会对消费者和整体经济产生长期影响。",
+        "en": "Despite a recent drop in oil prices due to potential peace agreements, energy inflation remains stubborn. Economists warn that this could have long-term effects on consumers and the overall economy.",
+        "de": "Trotz eines kürzlichen Rückgangs der Ölpreise aufgrund potenzieller Friedensverträge bleibt die Energieinflation hartnäckig. Ökonomen warnen, dass dies langfristige Auswirkungen auf Verbraucher und die Gesamtwirtschaft haben könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-28",
-      "url": "https://www.cnbc.com/2026/05/28/fed-reserve-neel-kashkari-inflation-job-market.html"
+      "url": "https://www.cnbc.com/2026/05/28/goolsbee-iran-energy-inflation-asia-stagflation-shock-ai-artificial-intelligence-jobs.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国消费者信心在5月份创下新低",
-        "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-        "de": "Das Verbrauchervertrauen erreicht im Mai ein neues Rekordtief, da der Iran-Krieg Inflationssorgen schürt"
+        "zh": "戴尔股票因AI热潮推动大幅盈利超出预期而飙升至另一个历史高点：该公司的AI服务器收入在第一季度增长了757%，而利润超出预期幅度为至少五年来最大。",
+        "en": "Dell stock soars toward another record high as the AI boom drives a big earnings beat: The company’s AI-server revenue was up 757% in the first quarter, while profit beat expectations by the widest margin in at least five years.",
+        "de": "Dell-Aktien steigen auf ein weiteres Rekordhoch, da der KI-Boom zu einem großen Gewinnüberraschung führt: Der Umsatz des Unternehmens mit KI-Servern stieg im ersten Quartal um 757 %, während der Gewinn die Erwartungen um den größten Abstand seit mindestens fünf Jahren übertraf."
       },
       "summary": {
-        "zh": "由于对伊朗战争的担忧和高油价的影响，5月份消费者信心降至新低。这一趋势可能对经济复苏产生负面影响。",
-        "en": "Due to concerns over the Iran war and high oil prices, consumer sentiment fell to a new record low in May. This trend may negatively impact economic recovery.",
-        "de": "Wegen der Sorgen über den Iran-Krieg und hohe Ölpreise fiel das Verbrauchervertrauen im Mai auf ein neues Rekordtief. Dieser Trend könnte sich negativ auf die wirtschaftliche Erholung auswirken."
+        "zh": "戴尔的股票因AI热潮而飙升，第一季度的AI服务器收入大幅增长，推动公司盈利超出预期。这一趋势反映了市场对AI技术的强烈需求。",
+        "en": "Dell's stock surged due to the AI boom, with a significant increase in AI server revenue in the first quarter driving profits above expectations. This trend reflects strong market demand for AI technologies.",
+        "de": "Die Dell-Aktien stiegen aufgrund des KI-Booms, wobei der Umsatz mit KI-Servern im ersten Quartal erheblich zunahm und die Gewinne die Erwartungen übertrafen. Dieser Trend spiegelt die starke Marktnachfrage nach KI-Technologien wider."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-22",
-      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-05-29",
+      "url": "https://www.marketwatch.com/story/dell-stock-soars-toward-another-record-high-as-the-ai-boom-drives-a-big-earnings-beat-b7c0c203?mod=mw_rss_topstories"
     }
   ]
 }
