@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-05-29T18:46:52.189462+00:00",
+  "generatedAt": "2026-05-30T07:26:36.194481+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "如何通过新的提取工艺解锁世界的锂",
-        "en": "How a new extraction process could unlock the world’s lithium",
-        "de": "Wie ein neues Extraktionsverfahren das Lithium der Welt erschließen könnte"
+        "zh": "下载：解锁锂和控制埃博拉",
+        "en": "The Download: unlocking lithium and controlling Ebola",
+        "de": "Der Download: Lithium freisetzen und Ebola kontrollieren"
       },
       "summary": {
-        "zh": "研究人员表示，他们发现了一种新的锂提取方法，这种金属在电动车和能源存储中至关重要。",
-        "en": "Researchers say they’ve found a new way to extract lithium, a crucial metal used in lithium-ion batteries that power electric vehicles and energy storage.",
-        "de": "Forscher berichten, dass sie einen neuen Weg gefunden haben, Lithium zu extrahieren, ein entscheidendes Metall, das in Lithium-Ionen-Batterien verwendet wird, die Elektrofahrzeuge und Energiespeicher antreiben."
+        "zh": "本期《下载》提供了有关技术世界的最新动态，包括锂的提取和埃博拉的控制。",
+        "en": "This edition of The Download provides the latest updates from the world of technology, including lithium extraction and Ebola control.",
+        "de": "Diese Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich der Lithiumgewinnung und der Kontrolle von Ebola."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-28",
-      "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/"
+      "date": "2026-05-29",
+      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "数百万AI代理因开源软件包中的关键漏洞而处于危险之中",
-        "en": "Millions of AI agents imperiled by critical vulnerability in open source package",
-        "de": "Millionen von KI-Agenten durch kritische Schwachstelle in Open-Source-Paket gefährdet"
+        "zh": "致命的埃博拉疫情难以控制",
+        "en": "The deadly Ebola outbreak is proving difficult to control",
+        "de": "Der tödliche Ebola-Ausbruch erweist sich als schwer zu kontrollieren"
       },
       "summary": {
-        "zh": "在Starlette中发现了“BadHost”漏洞，该软件包每周下载量达到3.25亿次，影响了大量AI代理。",
-        "en": "The 'BadHost' vulnerability found in Starlette, a package with 325 million weekly downloads, poses a significant risk to millions of AI agents.",
-        "de": "Die in Starlette gefundene 'BadHost'-Schwachstelle, ein Paket mit 325 Millionen wöchentlichen Downloads, stellt ein erhebliches Risiko für Millionen von KI-Agenten dar."
+        "zh": "自5月5日以来，刚果民主共和国伊图里省的四名医务工作者因不明疾病去世，埃博拉疫情的控制面临挑战。",
+        "en": "Since May 5, four healthcare workers in the Ituri Province of the Democratic Republic of the Congo have died from an unknown illness, posing challenges to controlling the Ebola outbreak.",
+        "de": "Seit dem 5. Mai sind vier Gesundheitsarbeiter in der Provinz Ituri der Demokratischen Republik Kongo an einer unbekannten Krankheit gestorben, was die Kontrolle des Ebola-Ausbruchs vor Herausforderungen stellt."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-05-26",
-      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
+      "source": "MIT Technology Review",
+      "date": "2026-05-29",
+      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "对量子计算的美国重大投资可能并不完全合法",
-        "en": "US's big bet on quantum computing may not be entirely legal",
-        "de": "Die große Wette der USA auf Quantencomputing könnte nicht ganz legal sein"
+        "zh": "教皇的《人性之美》为个人应对人工智能时刻提供模板",
+        "en": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+        "de": "Wie die Magnifica Humanitas des Papstes eine Vorlage für Einzelpersonen bietet, um den KI-Moment zu begegnen"
       },
       "summary": {
-        "zh": "美国在量子计算领域的投资引发了法律合规性的问题，尤其是在新成立的量子铸造公司方面。",
-        "en": "The U.S. investment in quantum computing raises questions about legal compliance, particularly regarding the newly launched quantum foundry company.",
-        "de": "Die Investition der USA in Quantencomputing wirft Fragen zur rechtlichen Konformität auf, insbesondere in Bezug auf das neu gegründete Quantenfoundry-Unternehmen."
+        "zh": "教皇利奥十四世的新通谕关于人工智能的声明引发了技术专家和政策制定者的关注，提供了应对人工智能时代的思路。",
+        "en": "Pope Leo XIV's new encyclical on artificial intelligence includes a statement that has garnered attention from technologists and policymakers, providing insights on addressing the AI era.",
+        "de": "Die neue Enzyklika von Papst Leo XIV über künstliche Intelligenz enthält eine Erklärung, die das Interesse von Technikern und politischen Entscheidungsträgern geweckt hat und Einblicke in den Umgang mit der KI-Ära bietet."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-05-25",
-      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/"
+      "source": "MIT Technology Review",
+      "date": "2026-05-29",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "乌克兰的俄罗斯损失率在一年内几乎增加三倍",
-        "en": "Russian rate of losses in Ukraine almost triples in one year",
-        "de": "Die Verluste Russlands in der Ukraine haben sich innerhalb eines Jahres fast verdreifacht"
+        "zh": "讽刺、社交媒体与印度的Z世代反抗",
+        "en": "Satire, social media and India’s Gen Z revolt",
+        "de": "Satire, soziale Medien und Indiens Gen Z-Revolte"
       },
       "summary": {
-        "zh": "2026年，俄罗斯在乌克兰的地面战争评估显示，俄罗斯在领土上处于停滞状态。",
-        "en": "Assessments of Russia's ground war in Ukraine reveal that it is at a standstill in 2026, with the rate of losses nearly tripling.",
-        "de": "Die Bewertungen des russischen Bodenkriegs in der Ukraine zeigen, dass er 2026 zum Stillstand gekommen ist, wobei sich die Verluste fast verdreifacht haben."
+        "zh": "一场讽刺性的在线运动在印度挑战权力和宣传，反映了Z世代对社会问题的关注。",
+        "en": "A satirical online movement in India challenges power and propaganda, reflecting Gen Z's concerns about social issues.",
+        "de": "Eine satirische Online-Bewegung in Indien stellt Macht und Propaganda in Frage und spiegelt die Anliegen der Generation Z zu sozialen Themen wider."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-29",
-      "url": "https://www.aljazeera.com/features/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year?traffic_source=rss"
+      "date": "2026-05-30",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/30/satire-social-media-and-indias-gen-z-revolt?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "罗马尼亚将在住宅无人机袭击后驱逐俄罗斯领事",
-        "en": "Romania to expel Russian consul after residential drone strike",
-        "de": "Rumänien wird den russischen Konsul nach einem Drohnenangriff auf Wohngebäude ausweisen"
+        "zh": "卢旺达-俄罗斯核协议凸显非洲权力平衡的变化",
+        "en": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
+        "de": "Der Rwanda-Russland-Nuklearvertrag unterstreicht das sich verändernde Machtgleichgewicht in Afrika"
       },
       "summary": {
-        "zh": "罗马尼亚总统尼库索尔·丹宣布，位于东南部城市康斯坦察的俄罗斯领事将被驱逐。",
-        "en": "Romanian President Nicusor Dan announced that the Russian consul in the southeastern city of Constanta will be expelled following a residential drone strike.",
-        "de": "Der rumänische Präsident Nicusor Dan kündigte an, dass der russische Konsul in der südöstlichen Stadt Constanta nach einem Drohnenangriff auf Wohngebäude ausgewiesen wird."
+        "zh": "卢旺达与俄罗斯达成核培训和研究协议，推动技术、医疗和外交方面的雄心。",
+        "en": "Rwanda's nuclear training and research agreement with Russia advances its ambitions in technology, healthcare, and diplomacy.",
+        "de": "Der Nukleartrainings- und Forschungsvertrag Ruandas mit Russland fördert seine Ambitionen in den Bereichen Technologie, Gesundheitswesen und Diplomatie."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/romania-to-expel-russian-consul-after-residential-drone-strike?traffic_source=rss"
+      "date": "2026-05-30",
+      "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列战斗机袭击南黎巴嫩村庄",
-        "en": "Israeli fighter jets strike village in south Lebanon",
-        "de": "Israelische Kampfflugzeuge greifen ein Dorf im Süden Libanons an"
+        "zh": "路易斯安那州立法者通过有利于共和党的国会地图",
+        "en": "Louisiana lawmakers pass congressional map favouring Republicans",
+        "de": "Die Gesetzgeber von Louisiana verabschieden einen Kongresswahlkreis, der den Republikanern zugutekommt"
       },
       "summary": {
-        "zh": "视频显示以色列战斗机袭击了南黎巴嫩的艾因卡纳村的居民建筑。",
-        "en": "Video footage shows Israeli fighter jets striking a residential building in Ain Qana village in southern Lebanon.",
-        "de": "Videoaufnahmen zeigen, wie israelische Kampfflugzeuge ein Wohngebäude im Dorf Ain Qana im Süden Libanons angreifen."
+        "zh": "路易斯安那州通过新的国会地图，取消了一个以黑人为主的选区，回应了4月的最高法院裁决。",
+        "en": "Louisiana has approved a new congressional map that eliminates a majority-Black district, responding to an April Supreme Court ruling.",
+        "de": "Louisiana hat eine neue Kongresskarte genehmigt, die einen mehrheitlich schwarzen Bezirk abschafft, als Reaktion auf ein Urteil des Obersten Gerichtshofs im April."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/israeli-fighter-jets-strike-village-in-south-lebanon?traffic_source=rss"
+      "date": "2026-05-30",
+      "url": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗战争成本：美国家庭平均多花450美元在燃料和能源上",
+        "zh": "伊朗战争成本：平均美国家庭在油气和能源上多花450美元",
         "en": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
         "de": "Kosten des Iran-Kriegs: Durchschnittlicher US-Haushalt zahlt 450 USD mehr für Gas und Energie"
       },
       "summary": {
-        "zh": "能源成本的上升迫使消费者动用储蓄并增加债务以支付开支。",
-        "en": "Higher energy costs can force consumers to raid their savings and lean more into debt to cover expenses.",
-        "de": "Steigende Energiekosten können die Verbraucher zwingen, auf ihre Ersparnisse zurückzugreifen und mehr Schulden aufzunehmen, um ihre Ausgaben zu decken."
+        "zh": "由于能源成本上升，消费者可能不得不动用储蓄并更多依赖债务来支付开支。",
+        "en": "Rising energy costs may force consumers to raid their savings and rely more on debt to cover expenses.",
+        "de": "Steigende Energiekosten könnten die Verbraucher zwingen, ihre Ersparnisse anzugreifen und sich stärker auf Schulden zu verlassen, um ihre Ausgaben zu decken."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-29",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国消费者信心在5月创下新低，伊朗战争加剧通货膨胀担忧",
-        "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-        "de": "Das Verbrauchervertrauen erreicht im Mai ein neues Rekordtief, da der Iran-Krieg Inflationssorgen schürt"
+        "zh": "核心通胀在四月达到3.3%的年率，符合预期",
+        "en": "Core inflation hit an annual rate of 3.3% in April, as expected",
+        "de": "Die Kerninflation erreichte im April eine jährliche Rate von 3,3 %, wie erwartet"
       },
       "summary": {
-        "zh": "由于美国-伊朗战争和高油价，消费者信心在5月降至新低。",
-        "en": "Consumer sentiment has tumbled to a fresh record low in May as fears of higher prices grow due to the U.S.-Iran war and elevated oil prices.",
-        "de": "Das Verbrauchervertrauen ist im Mai auf ein neues Rekordtief gefallen, da die Ängste vor höheren Preisen aufgrund des US-Iran-Kriegs und der hohen Ölpreise zunehmen."
+        "zh": "四月的PCE价格指数显示，所有项目的年通胀率预计为3.8%，核心通胀率为3.3%。",
+        "en": "The PCE price index for April was expected to show an annual inflation rate of 3.8% for all items and 3.3% for core.",
+        "de": "Der PCE-Preisindex für April sollte eine jährliche Inflationsrate von 3,8 % für alle Artikel und 3,3 % für den Kern zeigen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-05-22",
-      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html"
+      "date": "2026-05-28",
+      "url": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "在AI热潮推动下，投资者接下来该怎么办？",
-        "en": "What’s next for investors after the AI rally supercharged stocks in May?",
-        "de": "Was kommt als Nächstes für Investoren, nachdem die KI-Rallye die Aktien im Mai angekurbelt hat?"
+        "zh": "消费者信心在五月创下新低，伊朗战争助长通胀担忧",
+        "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
+        "de": "Das Verbrauchervertrauen erreicht im Mai einen neuen Rekordtiefstand, da der Iran-Krieg Inflationssorgen schürt"
       },
       "summary": {
-        "zh": "随着AI热潮推动股票上涨，投资者在未来的投资策略上需要考虑新的方向。",
-        "en": "As the AI rally has supercharged stocks in May, investors need to consider new directions for their investment strategies moving forward.",
-        "de": "Da die KI-Rallye die Aktien im Mai angekurbelt hat, müssen Investoren neue Richtungen für ihre Anlagestrategien in Betracht ziehen."
+        "zh": "由于对美国-伊朗战争和高油价的担忧，消费者信心在五月骤降至新低。",
+        "en": "Consumer sentiment has plummeted to a fresh record low in May due to concerns over the U.S.-Iran war and high oil prices.",
+        "de": "Das Verbrauchervertrauen ist im Mai aufgrund von Bedenken über den Iran-Krieg und hohe Ölpreise auf ein neues Rekordtief gefallen."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-05-29",
-      "url": "https://www.marketwatch.com/story/whats-next-for-investors-after-the-ai-rally-supercharged-stocks-in-may-38b0d3aa?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-05-22",
+      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html"
     }
   ]
 }
