@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T07:26:36.194481+00:00",
+  "generatedAt": "2026-05-30T17:34:19.003120+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Lithium freisetzen und Ebola kontrollieren"
       },
       "summary": {
-        "zh": "本期《下载》提供了有关技术世界的最新动态，包括锂的提取和埃博拉的控制。",
-        "en": "This edition of The Download provides the latest updates from the world of technology, including lithium extraction and Ebola control.",
-        "de": "Diese Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich der Lithiumgewinnung und der Kontrolle von Ebola."
+        "zh": "今天的《下载》提供了有关锂提取和埃博拉控制的最新技术动态。",
+        "en": "Today's edition of The Download provides the latest updates on lithium extraction and controlling Ebola.",
+        "de": "Die heutige Ausgabe von The Download bietet die neuesten Informationen zur Lithiumgewinnung und zur Kontrolle von Ebola."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-29",
@@ -25,9 +25,9 @@
         "de": "Der tödliche Ebola-Ausbruch erweist sich als schwer zu kontrollieren"
       },
       "summary": {
-        "zh": "自5月5日以来，刚果民主共和国伊图里省的四名医务工作者因不明疾病去世，埃博拉疫情的控制面临挑战。",
-        "en": "Since May 5, four healthcare workers in the Ituri Province of the Democratic Republic of the Congo have died from an unknown illness, posing challenges to controlling the Ebola outbreak.",
-        "de": "Seit dem 5. Mai sind vier Gesundheitsarbeiter in der Provinz Ituri der Demokratischen Republik Kongo an einer unbekannten Krankheit gestorben, was die Kontrolle des Ebola-Ausbruchs vor Herausforderungen stellt."
+        "zh": "自5月5日以来，刚果民主共和国伊图里省的四名医务工作者因不明疾病去世，埃博拉疫情的警报已被提升。",
+        "en": "Since May 5, four healthcare workers in Ituri Province of the Democratic Republic of the Congo have died from an unknown illness, raising alarms about the Ebola outbreak.",
+        "de": "Seit dem 5. Mai sind vier Gesundheitsarbeiter in der Provinz Ituri der Demokratischen Republik Kongo an einer unbekannten Krankheit gestorben, was die Alarmglocken über den Ebola-Ausbruch läutet."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-29",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "教皇的《人性之美》为个人应对人工智能时刻提供模板",
+        "zh": "教皇的《人性之美》为个人应对人工智能时刻提供了模板",
         "en": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-        "de": "Wie die Magnifica Humanitas des Papstes eine Vorlage für Einzelpersonen bietet, um den KI-Moment zu begegnen"
+        "de": "Wie die Magnifica Humanitas des Papstes eine Vorlage für Einzelpersonen bietet, um den AI-Moment zu bewältigen"
       },
       "summary": {
-        "zh": "教皇利奥十四世的新通谕关于人工智能的声明引发了技术专家和政策制定者的关注，提供了应对人工智能时代的思路。",
-        "en": "Pope Leo XIV's new encyclical on artificial intelligence includes a statement that has garnered attention from technologists and policymakers, providing insights on addressing the AI era.",
-        "de": "Die neue Enzyklika von Papst Leo XIV über künstliche Intelligenz enthält eine Erklärung, die das Interesse von Technikern und politischen Entscheidungsträgern geweckt hat und Einblicke in den Umgang mit der KI-Ära bietet."
+        "zh": "教皇利奥十四世关于人工智能的新通谕引发了技术专家和政策制定者的关注，强调了个人在应对AI时代的重要性。",
+        "en": "Pope Leo XIV's new encyclical on artificial intelligence has drawn attention from technologists and policymakers, emphasizing the importance of individuals in addressing the AI era.",
+        "de": "Die neue Enzyklika von Papst Leo XIV über künstliche Intelligenz hat das Interesse von Technologen und politischen Entscheidungsträgern geweckt und betont die Bedeutung von Einzelpersonen im Umgang mit der AI-Ära."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-29",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "讽刺、社交媒体与印度的Z世代反抗",
-        "en": "Satire, social media and India’s Gen Z revolt",
-        "de": "Satire, soziale Medien und Indiens Gen Z-Revolte"
+        "zh": "巴勒斯坦医生在以色列对加沙的攻击中遇害，三人受伤",
+        "en": "Palestinian doctor killed, three people injured in Israeli attack on Gaza",
+        "de": "Palästinensischer Arzt getötet, drei Personen bei israelischem Angriff auf Gaza verletzt"
       },
       "summary": {
-        "zh": "一场讽刺性的在线运动在印度挑战权力和宣传，反映了Z世代对社会问题的关注。",
-        "en": "A satirical online movement in India challenges power and propaganda, reflecting Gen Z's concerns about social issues.",
-        "de": "Eine satirische Online-Bewegung in Indien stellt Macht und Propaganda in Frage und spiegelt die Anliegen der Generation Z zu sozialen Themen wider."
+        "zh": "以色列定居者在被占领的西岸袭击了巴勒斯坦的房屋和财产，造成一名医生遇害和三人受伤。",
+        "en": "Israeli settlers attacked Palestinian homes and property across the occupied West Bank, resulting in the death of a doctor and injuries to three others.",
+        "de": "Israelische Siedler griffen palästinensische Häuser und Eigentum im besetzten Westjordanland an, was zum Tod eines Arztes und zu Verletzungen von drei weiteren führte."
       },
       "source": "Al Jazeera",
       "date": "2026-05-30",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/30/satire-social-media-and-indias-gen-z-revolt?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "卢旺达-俄罗斯核协议凸显非洲权力平衡的变化",
-        "en": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
-        "de": "Der Rwanda-Russland-Nuklearvertrag unterstreicht das sich verändernde Machtgleichgewicht in Afrika"
+        "zh": "确认的埃博拉病例在几天内几乎翻倍，世卫组织首席访问刚果民主共和国",
+        "en": "Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo",
+        "de": "Bestätigte Ebola-Fälle verdoppeln sich fast innerhalb von Tagen, während der WHO-Chef die DR Kongo besucht"
       },
       "summary": {
-        "zh": "卢旺达与俄罗斯达成核培训和研究协议，推动技术、医疗和外交方面的雄心。",
-        "en": "Rwanda's nuclear training and research agreement with Russia advances its ambitions in technology, healthcare, and diplomacy.",
-        "de": "Der Nukleartrainings- und Forschungsvertrag Ruandas mit Russland fördert seine Ambitionen in den Bereichen Technologie, Gesundheitswesen und Diplomatie."
+        "zh": "世卫组织的泰德罗斯呼吁社区主导的斗争，因为一种罕见的埃博拉毒株在冲突严重的东刚果迅速传播。",
+        "en": "WHO's Tedros calls for a community-led fight as a rare Ebola strain spreads rapidly through conflict-hit eastern DRC.",
+        "de": "Der WHO-Chef Tedros fordert einen gemeinschaftlich geführten Kampf, während sich ein seltener Ebola-Stamm schnell durch das konfliktgeplagte östliche Kongo ausbreitet."
       },
       "source": "Al Jazeera",
       "date": "2026-05-30",
-      "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/30/confirmed-ebola-cases-nearly-double-in-days-as-who-chief-visits-dr-congo?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "路易斯安那州立法者通过有利于共和党的国会地图",
-        "en": "Louisiana lawmakers pass congressional map favouring Republicans",
-        "de": "Die Gesetzgeber von Louisiana verabschieden einen Kongresswahlkreis, der den Republikanern zugutekommt"
+        "zh": "‘相反的愿景’：关于哥伦比亚总统选举的了解",
+        "en": "‘Opposite visions’: What to know about Colombia’s presidential election",
+        "de": "‘Gegensätzliche Visionen’: Was man über die Präsidentschaftswahlen in Kolumbien wissen sollte"
       },
       "summary": {
-        "zh": "路易斯安那州通过新的国会地图，取消了一个以黑人为主的选区，回应了4月的最高法院裁决。",
-        "en": "Louisiana has approved a new congressional map that eliminates a majority-Black district, responding to an April Supreme Court ruling.",
-        "de": "Louisiana hat eine neue Kongresskarte genehmigt, die einen mehrheitlich schwarzen Bezirk abschafft, als Reaktion auf ein Urteil des Obersten Gerichtshofs im April."
+        "zh": "参议员伊万·塞佩达在首轮选举中领先两位右翼对手，选举主要受到安全问题的主导。",
+        "en": "Senator Ivan Cepeda is leading two right-wing rivals in the first round of an election dominated by security concerns.",
+        "de": "Senator Ivan Cepeda führt in der ersten Runde einer Wahl, die von Sicherheitsbedenken dominiert wird, gegen zwei rechte Rivalen."
       },
       "source": "Al Jazeera",
       "date": "2026-05-30",
-      "url": "https://www.aljazeera.com/news/2026/5/30/louisiana-lawmakers-pass-congressional-map-favouring-republicans?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗战争成本：平均美国家庭在油气和能源上多花450美元",
+        "zh": "伊朗战争成本：美国家庭平均多花450美元在燃气和能源上",
         "en": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
         "de": "Kosten des Iran-Kriegs: Durchschnittlicher US-Haushalt zahlt 450 USD mehr für Gas und Energie"
       },
       "summary": {
-        "zh": "由于能源成本上升，消费者可能不得不动用储蓄并更多依赖债务来支付开支。",
-        "en": "Rising energy costs may force consumers to raid their savings and rely more on debt to cover expenses.",
-        "de": "Steigende Energiekosten könnten die Verbraucher zwingen, ihre Ersparnisse anzugreifen und sich stärker auf Schulden zu verlassen, um ihre Ausgaben zu decken."
+        "zh": "能源成本的上升迫使消费者动用储蓄并更多依赖债务来支付开支。",
+        "en": "Higher energy costs can force consumers to raid their savings and lean more on debt to cover expenses.",
+        "de": "Steigende Energiekosten können Verbraucher dazu zwingen, ihre Ersparnisse anzugreifen und mehr auf Schulden zurückzugreifen, um ihre Ausgaben zu decken."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-29",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "核心通胀在四月达到3.3%的年率，符合预期",
-        "en": "Core inflation hit an annual rate of 3.3% in April, as expected",
-        "de": "Die Kerninflation erreichte im April eine jährliche Rate von 3,3 %, wie erwartet"
+        "zh": "‘双重伤疤’：过去的通货膨胀困扰和伊朗战争中的地缘政治冲击如何影响消费者",
+        "en": "How the ‘double scar’ of past inflation woes and geopolitical shocks amid the Iran war is hitting consumers",
+        "de": "Wie die ‘doppelte Narbe’ vergangener Inflationsprobleme und geopolitischer Schocks im Iran-Krieg die Verbraucher trifft"
       },
       "summary": {
-        "zh": "四月的PCE价格指数显示，所有项目的年通胀率预计为3.8%，核心通胀率为3.3%。",
+        "zh": "心理上的“伤疤”加剧了对滞涨的恐惧，即价格上涨与增长下降同时发生。",
+        "en": "Mental 'scars' reinforce fears of stagflation, when rising prices coincide with declining growth, research finds.",
+        "de": "Psychologische 'Narben' verstärken die Ängste vor Stagflation, wenn steigende Preise mit sinkendem Wachstum zusammenfallen, so die Forschung."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-05-29",
+      "url": "https://www.cnbc.com/2026/05/29/iran-war-inflation-stagflation-eu-ecb-consumer-prices.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "核心通胀在4月份达到3.3%的年率，符合预期",
+        "en": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
+        "de": "Die Kerninflation erreichte im April eine jährliche Rate von 3,3 %, wie erwartet, zeigt der bevorzugte Index der Fed"
+      },
+      "summary": {
+        "zh": "4月份的PCE价格指数预计显示所有项目的年通胀率为3.8%，核心通胀率为3.3%。",
         "en": "The PCE price index for April was expected to show an annual inflation rate of 3.8% for all items and 3.3% for core.",
         "de": "Der PCE-Preisindex für April sollte eine jährliche Inflationsrate von 3,8 % für alle Artikel und 3,3 % für den Kern zeigen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-28",
       "url": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "消费者信心在五月创下新低，伊朗战争助长通胀担忧",
-        "en": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
-        "de": "Das Verbrauchervertrauen erreicht im Mai einen neuen Rekordtiefstand, da der Iran-Krieg Inflationssorgen schürt"
-      },
-      "summary": {
-        "zh": "由于对美国-伊朗战争和高油价的担忧，消费者信心在五月骤降至新低。",
-        "en": "Consumer sentiment has plummeted to a fresh record low in May due to concerns over the U.S.-Iran war and high oil prices.",
-        "de": "Das Verbrauchervertrauen ist im Mai aufgrund von Bedenken über den Iran-Krieg und hohe Ölpreise auf ein neues Rekordtief gefallen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-05-22",
-      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html"
     }
   ]
 }
