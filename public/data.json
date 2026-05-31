@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T07:57:39.073606+00:00",
+  "generatedAt": "2026-05-31T17:34:40.002425+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Lithium freisetzen und Ebola kontrollieren"
       },
       "summary": {
-        "zh": "本期下载提供了有关锂提取和埃博拉控制的最新技术动态。锂是电动车和能源存储中不可或缺的金属，而埃博拉疫情在刚果民主共和国的控制面临挑战。",
-        "en": "This edition of The Download provides the latest technology updates on lithium extraction and Ebola control. Lithium is a crucial metal in electric vehicles and energy storage, while controlling the Ebola outbreak in the Democratic Republic of the Congo remains challenging.",
-        "de": "Diese Ausgabe des Downloads bietet die neuesten Technologieneuigkeiten zur Lithiumgewinnung und zur Kontrolle von Ebola. Lithium ist ein entscheidendes Metall in Elektrofahrzeugen und Energiespeichern, während die Kontrolle des Ebola-Ausbruchs in der Demokratischen Republik Kongo weiterhin eine Herausforderung darstellt."
+        "zh": "今天的《下载》提供了关于技术领域的最新动态，包括锂的提取和埃博拉疫情的控制。",
+        "en": "Today's Download provides the latest updates in the tech field, including lithium extraction and the control of the Ebola outbreak.",
+        "de": "Der heutige Download bietet die neuesten Updates aus dem Technologiebereich, einschließlich der Lithiumextraktion und der Kontrolle des Ebola-Ausbruchs."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-29",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "致命的埃博拉疫情控制困难",
+        "zh": "致命的埃博拉疫情难以控制",
         "en": "The deadly Ebola outbreak is proving difficult to control",
         "de": "Der tödliche Ebola-Ausbruch erweist sich als schwer zu kontrollieren"
       },
       "summary": {
-        "zh": "自5月5日以来，刚果民主共和国伊图里省的四名医护人员因不明疾病去世，埃博拉疫情的控制变得愈发困难。卫生组织正在加紧应对措施。",
-        "en": "Since May 5, four healthcare workers in the Ituri Province of the Democratic Republic of the Congo have died from an unknown illness, making the control of the Ebola outbreak increasingly difficult. Health organizations are ramping up response measures.",
-        "de": "Seit dem 5. Mai sind vier Gesundheitsarbeiter in der Provinz Ituri der Demokratischen Republik Kongo an einer unbekannten Krankheit gestorben, was die Kontrolle des Ebola-Ausbruchs zunehmend erschwert. Gesundheitsorganisationen verstärken ihre Reaktionsmaßnahmen."
+        "zh": "自5月5日以来，刚果民主共和国伊图里省的四名医务人员因不明疾病去世，埃博拉疫情的控制面临挑战。",
+        "en": "Since May 5, four healthcare workers in the Ituri Province of the Democratic Republic of Congo have died from an unknown illness, posing challenges to controlling the Ebola outbreak.",
+        "de": "Seit dem 5. Mai sind vier Gesundheitsarbeiter in der Provinz Ituri der Demokratischen Republik Kongo an einer unbekannten Krankheit gestorben, was die Kontrolle des Ebola-Ausbruchs erschwert."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-29",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "教皇的《人性之美》为个人应对人工智能时刻提供了模板",
+        "zh": "教皇的《人性之伟大》为个人应对人工智能时刻提供了模板",
         "en": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
         "de": "Wie die Magnifica Humanitas des Papstes eine Vorlage für Einzelpersonen bietet, um den KI-Moment zu meistern"
       },
       "summary": {
-        "zh": "教皇利奥十四世的新通谕探讨了人工智能的伦理和社会影响，强调了技术人员和政策制定者需要认真对待的声明。这为个人如何应对人工智能的挑战提供了指导。",
-        "en": "Pope Leo XIV's new encyclical discusses the ethical and social implications of artificial intelligence, highlighting statements that warrant serious attention from technologists and policymakers. It provides guidance on how individuals can address the challenges posed by AI.",
-        "de": "Die neue Enzyklika von Papst Leo XIV. behandelt die ethischen und sozialen Implikationen der künstlichen Intelligenz und hebt Aussagen hervor, die von Technologen und politischen Entscheidungsträgern ernst genommen werden müssen. Sie bietet eine Anleitung, wie Einzelpersonen die Herausforderungen der KI angehen können."
+        "zh": "教皇利奥十四世关于人工智能的新通谕引发了技术专家和政策制定者的关注，强调了个人在应对人工智能时代的重要性。",
+        "en": "Pope Leo XIV's new encyclical on artificial intelligence has drawn attention from technologists and policymakers, emphasizing the importance of individuals in addressing the AI era.",
+        "de": "Die neue Enzyklika von Papst Leo XIV über künstliche Intelligenz hat das Interesse von Technologen und politischen Entscheidungsträgern geweckt und betont die Bedeutung von Einzelpersonen im Umgang mit der KI-Ära."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-29",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "叙利亚国际象棋冠军的孩子们可能已经遇难，官方称",
-        "en": "Missing Syrian chess champion’s children likely dead, authorities say",
-        "de": "Vermisste Kinder der syrischen Schachmeisterin wahrscheinlich tot, sagen die Behörden"
+        "zh": "埃及的选举：政党、联盟和候选人解释",
+        "en": "Ethiopia’s election: Parties, coalitions and candidates explained",
+        "de": "Äthiopiens Wahl: Parteien, Koalitionen und Kandidaten erklärt"
       },
       "summary": {
-        "zh": "叙利亚委员会确认，自2013年在巴沙尔·阿萨德统治下失踪的国际象棋冠军拉尼亚·阿尔-阿巴西的六个孩子可能已经遇难。这一消息引发了广泛关注。",
-        "en": "The Syrian commission has confirmed that the six children of chess champion Rania al-Abbasi, who went missing in 2013 under Bashar al-Assad's rule, are likely dead. This news has garnered widespread attention.",
-        "de": "Die syrische Kommission hat bestätigt, dass die sechs Kinder der Schachmeisterin Rania al-Abbasi, die 2013 unter der Herrschaft von Bashar al-Assad verschwunden sind, wahrscheinlich tot sind. Diese Nachricht hat weitreichende Aufmerksamkeit erregt."
+        "zh": "超过5000万埃及人注册投票，年轻人和女性在选民中占据重要份额，选举即将举行。",
+        "en": "Over 50 million Ethiopians are registered to vote, with youth and women forming a significant share of the electorate as elections approach.",
+        "de": "Über 50 Millionen Äthiopier sind registriert, um zu wählen, wobei Jugendliche und Frauen einen bedeutenden Anteil der Wählerschaft ausmachen, während die Wahlen bevorstehen."
       },
       "source": "Al Jazeera",
       "date": "2026-05-31",
-      "url": "https://www.aljazeera.com/news/2026/5/31/missing-syrian-chess-champions-children-likely-dead-authorities-say?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列北部海滩在真主党袭击期间发生恐慌",
-        "en": "Panic on beach in northern Israel during Hezbollah strikes",
-        "de": "Panik am Strand im Norden Israels während der Hezbollah-Angriffe"
+        "zh": "哥伦比亚人前往投票选举总统古斯塔沃·佩特罗的继任者",
+        "en": "Colombians head to the polls to choose President Gustavo Petro’s successor",
+        "de": "Kolumbianer gehen zu den Wahlen, um den Nachfolger von Präsident Gustavo Petro zu wählen"
       },
       "summary": {
-        "zh": "在以色列北部的纳哈里亚，真主党发射火箭时，海滩上的人们纷纷逃入避难所，场面十分混乱。此事件引发了对安全的担忧。",
-        "en": "In Nahariya, northern Israel, panic ensued as people on the beach ran for shelter during Hezbollah rocket strikes, creating a chaotic scene. This incident has raised concerns about security.",
-        "de": "In Nahariya, im Norden Israels, brach Panik aus, als Menschen am Strand während der Raketenangriffe der Hezbollah in Schutzräume rannten, was eine chaotische Szene schuf. Dieser Vorfall hat Sicherheitsbedenken aufgeworfen."
+        "zh": "此次选举主要是左翼参议员、商人和右翼立法者之间的三方竞争，结果可能影响哥伦比亚的未来。",
+        "en": "The election is largely a three-horse race between a left-wing senator, a businessman, and a right-wing lawmaker, with potential implications for Colombia's future.",
+        "de": "Die Wahl ist größtenteils ein Dreikampf zwischen einem linken Senator, einem Geschäftsmann und einem rechten Gesetzgeber, mit möglichen Auswirkungen auf die Zukunft Kolumbiens."
       },
       "source": "Al Jazeera",
       "date": "2026-05-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/5/31/colombians-head-to-the-polls-to-choose-president-gustavo-petros-successor?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "法国在巴黎庆祝PSG赢得冠军联赛后逮捕数百名骚乱者",
-        "en": "France arrests hundreds of rioters nationwide as PSG win Champions League",
-        "de": "Frankreich nimmt Hunderte von Randalierern landesweit fest, als PSG die Champions League gewinnt"
+        "zh": "以色列在黎巴嫩夺取城堡，扩大地面攻势",
+        "en": "Israel seizes castle in Lebanon as it expands ground offensive",
+        "de": "Israel erobert Schloss im Libanon, während es seine Bodenoffensive ausweitet"
       },
       "summary": {
-        "zh": "法国内政部表示，在巴黎庆祝巴黎圣日耳曼赢得冠军联赛的过程中，全国范围内共逮捕了416人，其中283人在巴黎。这一事件引发了对公共安全的关注。",
-        "en": "The French Ministry of Interior reported that 416 people were arrested nationwide during the celebrations of Paris Saint-Germain's Champions League victory, including 283 in Paris. This incident has raised concerns about public safety.",
-        "de": "Das französische Innenministerium berichtete, dass während der Feierlichkeiten zum Champions-League-Sieg von Paris Saint-Germain landesweit 416 Personen festgenommen wurden, darunter 283 in Paris. Dieser Vorfall hat Bedenken hinsichtlich der öffentlichen Sicherheit aufgeworfen."
+        "zh": "以色列总理本杰明·内塔尼亚胡称，夺取这一战略堡垒是其对真主党军事行动的“决定性转折”。",
+        "en": "Israeli Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a 'decisive shift' in its military campaign against Hezbollah.",
+        "de": "Der israelische Premierminister Benjamin Netanyahu beschreibt die Eroberung der strategischen Festung als einen 'entscheidenden Wendepunkt' in seiner Militärkampagne gegen die Hisbollah."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-05-31",
-      "url": "https://www.aljazeera.com/sports/2026/5/31/france-arrests-hundreds-of-rioters-nationwide-as-psg-win-champions-league?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗战争成本：美国家庭平均多花450美元在燃料和能源上",
+        "zh": "伊朗战争成本：平均美国家庭在燃气和能源上多花450美元",
         "en": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
-        "de": "Kosten des Iran-Kriegs: Durchschnittlicher US-Haushalt zahlt 450 USD mehr für Gas und Energie"
+        "de": "Kosten des Iran-Kriegs: Durchschnittliche US-Haushalte zahlen 450 US-Dollar mehr für Gas und Energie"
       },
       "summary": {
-        "zh": "由于能源成本上升，美国家庭平均每月多花450美元，导致消费者不得不动用储蓄并增加债务以应对开支。这一情况可能影响经济增长。",
-        "en": "Due to rising energy costs, the average U.S. household is paying an additional $450 per month, forcing consumers to tap into savings and increase debt to cover expenses. This situation may impact economic growth.",
-        "de": "Aufgrund steigender Energiekosten zahlt der durchschnittliche US-Haushalt zusätzlich 450 USD pro Monat, was die Verbraucher zwingt, auf Ersparnisse zurückzugreifen und Schulden zu erhöhen, um die Ausgaben zu decken. Diese Situation könnte das Wirtschaftswachstum beeinträchtigen."
+        "zh": "由于能源成本上升，消费者可能不得不动用储蓄并更多依赖债务以应对开支。",
+        "en": "Rising energy costs may force consumers to raid their savings and rely more on debt to cover expenses.",
+        "de": "Steigende Energiekosten könnten Verbraucher dazu zwingen, ihre Ersparnisse anzugreifen und stärker auf Schulden zurückzugreifen, um ihre Ausgaben zu decken."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-29",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "双重伤疤：过去的通货膨胀困扰和伊朗战争的地缘政治冲击影响消费者",
+        "zh": "过去的通货膨胀创伤和伊朗战争带来的地缘冲击对消费者的影响",
         "en": "How the ‘double scar’ of past inflation woes and geopolitical shocks amid the Iran war is hitting consumers",
-        "de": "Wie die ‚doppelte Narbe‘ aus vergangenen Inflationsproblemen und geopolitischen Schocks im Zuge des Iran-Kriegs die Verbraucher trifft"
+        "de": "Wie die 'doppelte Narbe' vergangener Inflationsprobleme und geopolitischer Schocks im Zuge des Iran-Kriegs die Verbraucher trifft"
       },
       "summary": {
-        "zh": "研究发现，过去的通货膨胀问题和当前的地缘政治冲击使消费者感到心理上的“伤疤”，加剧了对滞胀的担忧。这种情况可能影响消费者信心和支出。",
-        "en": "Research indicates that past inflation issues and current geopolitical shocks are creating psychological 'scars' for consumers, exacerbating fears of stagflation. This situation may impact consumer confidence and spending.",
-        "de": "Forschungen zeigen, dass frühere Inflationsprobleme und aktuelle geopolitische Schocks psychologische 'Narben' bei den Verbrauchern hinterlassen, was die Ängste vor Stagflation verstärkt. Diese Situation könnte das Verbrauchervertrauen und die Ausgaben beeinflussen."
+        "zh": "研究发现，心理“伤疤”加剧了对滞涨的恐惧，即价格上涨与经济增长下降同时发生。",
+        "en": "Research finds that mental 'scars' reinforce fears of stagflation, when rising prices coincide with declining growth.",
+        "de": "Forschungen zeigen, dass psychische 'Narben' die Ängste vor Stagflation verstärken, wenn steigende Preise mit sinkendem Wachstum einhergehen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-29",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "核心通胀在4月达到年率3.3%，符合预期",
+        "zh": "核心通货膨胀在4月达到3.3%的年率，符合预期",
         "en": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
-        "de": "Die Kerninflation erreichte im April eine jährliche Rate von 3,3 %, wie erwartet, zeigt der bevorzugte Maßstab der Fed"
+        "de": "Die Kerninflation erreichte im April eine jährliche Rate von 3,3%, wie erwartet, zeigt der bevorzugte Index der Fed"
       },
       "summary": {
-        "zh": "根据美联储的首选指标，4月份的核心通胀年率为3.3%，符合市场预期。这一数据可能影响未来的货币政策决策。",
-        "en": "According to the Fed's preferred gauge, core inflation hit an annual rate of 3.3% in April, as expected. This data may influence future monetary policy decisions.",
-        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflation im April eine jährliche Rate von 3,3 %, wie erwartet. Diese Daten könnten zukünftige geldpolitische Entscheidungen beeinflussen."
+        "zh": "4月份的PCE价格指数预计显示所有项目的年通胀率为3.8%，核心通胀率为3.3%。",
+        "en": "The PCE price index for April was expected to show an annual inflation rate of 3.8% for all items and 3.3% for core.",
+        "de": "Der PCE-Preisindex für April sollte eine jährliche Inflationsrate von 3,8% für alle Artikel und 3,3% für den Kern zeigen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-28",
