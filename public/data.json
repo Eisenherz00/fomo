@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T17:34:40.002425+00:00",
+  "generatedAt": "2026-06-01T09:42:22.276448+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Lithium freisetzen und Ebola kontrollieren"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于技术领域的最新动态，包括锂的提取和埃博拉疫情的控制。",
-        "en": "Today's Download provides the latest updates in the tech field, including lithium extraction and the control of the Ebola outbreak.",
-        "de": "Der heutige Download bietet die neuesten Updates aus dem Technologiebereich, einschließlich der Lithiumextraktion und der Kontrolle des Ebola-Ausbruchs."
+        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括锂提取和埃博拉控制的进展。",
+        "en": "Today's edition of The Download provides updates on the latest in the tech world, including advancements in lithium extraction and Ebola control.",
+        "de": "Die heutige Ausgabe des Downloads bietet Updates zu den neuesten Entwicklungen in der Technikwelt, einschließlich Fortschritten bei der Lithiumextraktion und der Kontrolle von Ebola."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-29",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "致命的埃博拉疫情难以控制",
         "en": "The deadly Ebola outbreak is proving difficult to control",
-        "de": "Der tödliche Ebola-Ausbruch erweist sich als schwer zu kontrollieren"
+        "de": "Der tödliche Ebola-Ausbruch erweist sich als schwer kontrollierbar"
       },
       "summary": {
-        "zh": "自5月5日以来，刚果民主共和国伊图里省的四名医务人员因不明疾病去世，埃博拉疫情的控制面临挑战。",
-        "en": "Since May 5, four healthcare workers in the Ituri Province of the Democratic Republic of Congo have died from an unknown illness, posing challenges to controlling the Ebola outbreak.",
-        "de": "Seit dem 5. Mai sind vier Gesundheitsarbeiter in der Provinz Ituri der Demokratischen Republik Kongo an einer unbekannten Krankheit gestorben, was die Kontrolle des Ebola-Ausbruchs erschwert."
+        "zh": "自5月5日以来，刚果民主共和国伊图里省的四名医护人员因不明疾病去世，埃博拉疫情的控制变得更加困难。",
+        "en": "Since May 5, four healthcare workers in the Ituri Province of the Democratic Republic of the Congo have died from an unknown illness, making the control of the Ebola outbreak increasingly difficult.",
+        "de": "Seit dem 5. Mai sind vier Gesundheitsarbeiter in der Provinz Ituri der Demokratischen Republik Kongo an einer unbekannten Krankheit gestorben, was die Kontrolle des Ebola-Ausbruchs zunehmend erschwert."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-29",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "教皇的《人性之伟大》为个人应对人工智能时刻提供了模板",
+        "zh": "教皇的《人性之美》为个人应对人工智能时刻提供了模板",
         "en": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
         "de": "Wie die Magnifica Humanitas des Papstes eine Vorlage für Einzelpersonen bietet, um den KI-Moment zu meistern"
       },
       "summary": {
-        "zh": "教皇利奥十四世关于人工智能的新通谕引发了技术专家和政策制定者的关注，强调了个人在应对人工智能时代的重要性。",
-        "en": "Pope Leo XIV's new encyclical on artificial intelligence has drawn attention from technologists and policymakers, emphasizing the importance of individuals in addressing the AI era.",
-        "de": "Die neue Enzyklika von Papst Leo XIV über künstliche Intelligenz hat das Interesse von Technologen und politischen Entscheidungsträgern geweckt und betont die Bedeutung von Einzelpersonen im Umgang mit der KI-Ära."
+        "zh": "教皇利奥十四世的新通谕强调了技术人员和政策制定者应关注的关键声明，呼吁个人积极应对人工智能的挑战。",
+        "en": "Pope Leo XIV's new encyclical emphasizes a key statement that warrants attention from technologists and policymakers, urging individuals to actively engage with the challenges posed by AI.",
+        "de": "Die neue Enzyklika von Papst Leo XIV. betont eine wichtige Aussage, die von Technologen und politischen Entscheidungsträgern Beachtung finden sollte, und fordert Einzelpersonen auf, sich aktiv mit den Herausforderungen der KI auseinanderzusetzen."
       },
       "source": "MIT Technology Review",
       "date": "2026-05-29",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "埃及的选举：政党、联盟和候选人解释",
-        "en": "Ethiopia’s election: Parties, coalitions and candidates explained",
-        "de": "Äthiopiens Wahl: Parteien, Koalitionen und Kandidaten erklärt"
+        "zh": "极端正统犹太示威者冲击以色列警察局",
+        "en": "Ultra-Orthodox Jewish demonstrators storm Israeli police station",
+        "de": "Ultraorthodoxe jüdische Demonstranten stürmen israelische Polizeistation"
       },
       "summary": {
-        "zh": "超过5000万埃及人注册投票，年轻人和女性在选民中占据重要份额，选举即将举行。",
-        "en": "Over 50 million Ethiopians are registered to vote, with youth and women forming a significant share of the electorate as elections approach.",
-        "de": "Über 50 Millionen Äthiopier sind registriert, um zu wählen, wobei Jugendliche und Frauen einen bedeutenden Anteil der Wählerschaft ausmachen, während die Wahlen bevorstehen."
+        "zh": "极端正统犹太示威者在以色列的抗议活动中冲击了警察局，显示出对政府政策的不满。",
+        "en": "Ultra-Orthodox Jewish demonstrators stormed a police station in Israel, reflecting their dissatisfaction with government policies.",
+        "de": "Ultraorthodoxe jüdische Demonstranten stürmten eine Polizeistation in Israel, was ihre Unzufriedenheit mit den Regierungsrichtlinien widerspiegelt."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-31",
-      "url": "https://www.aljazeera.com/news/2026/5/31/ethiopias-election-parties-coalitions-and-candidates-explained?traffic_source=rss"
+      "date": "2026-06-01",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "哥伦比亚人前往投票选举总统古斯塔沃·佩特罗的继任者",
-        "en": "Colombians head to the polls to choose President Gustavo Petro’s successor",
-        "de": "Kolumbianer gehen zu den Wahlen, um den Nachfolger von Präsident Gustavo Petro zu wählen"
+        "zh": "伊朗伊斯兰革命卫队在美国袭击后发起报复性打击",
+        "en": "Iran’s IRGC launches retaliatory strike after US attacks",
+        "de": "Irans IRGC startet Vergeltungsschlag nach US-Angriffen"
       },
       "summary": {
-        "zh": "此次选举主要是左翼参议员、商人和右翼立法者之间的三方竞争，结果可能影响哥伦比亚的未来。",
-        "en": "The election is largely a three-horse race between a left-wing senator, a businessman, and a right-wing lawmaker, with potential implications for Colombia's future.",
-        "de": "Die Wahl ist größtenteils ein Dreikampf zwischen einem linken Senator, einem Geschäftsmann und einem rechten Gesetzgeber, mit möglichen Auswirkungen auf die Zukunft Kolumbiens."
+        "zh": "伊朗伊斯兰革命卫队在美国的攻击后发起了报复性打击，科威特报告称其防御系统拦截了导弹和无人机。",
+        "en": "Iran's IRGC launched a retaliatory strike following US attacks, with Kuwait reporting that its defense systems intercepted missiles and drones.",
+        "de": "Die IRGC Irans startete einen Vergeltungsschlag nach US-Angriffen, wobei Kuwait berichtete, dass seine Abwehrsysteme Raketen und Drohnen abfingen."
       },
       "source": "Al Jazeera",
-      "date": "2026-05-31",
-      "url": "https://www.aljazeera.com/news/2026/5/31/colombians-head-to-the-polls-to-choose-president-gustavo-petros-successor?traffic_source=rss"
+      "date": "2026-06-01",
+      "url": "https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列在黎巴嫩夺取城堡，扩大地面攻势",
-        "en": "Israel seizes castle in Lebanon as it expands ground offensive",
-        "de": "Israel erobert Schloss im Libanon, während es seine Bodenoffensive ausweitet"
+        "zh": "华盛顿提出黎巴嫩降级的“路线图”",
+        "en": "Washington proposes ‘roadmap’ for de-escalation in Lebanon",
+        "de": "Washington schlägt einen 'Fahrplan' zur Deeskalation im Libanon vor"
       },
       "summary": {
-        "zh": "以色列总理本杰明·内塔尼亚胡称，夺取这一战略堡垒是其对真主党军事行动的“决定性转折”。",
-        "en": "Israeli Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a 'decisive shift' in its military campaign against Hezbollah.",
-        "de": "Der israelische Premierminister Benjamin Netanyahu beschreibt die Eroberung der strategischen Festung als einen 'entscheidenden Wendepunkt' in seiner Militärkampagne gegen die Hisbollah."
+        "zh": "美国官员提出了一项计划，旨在为黎巴嫩的逐步降级和停止所有敌对行动创造有利环境。",
+        "en": "A US official proposed a plan aimed at creating a conducive environment for gradual de-escalation and cessation of all hostilities in Lebanon.",
+        "de": "Ein US-Beamter schlug einen Plan vor, der darauf abzielt, ein förderliches Umfeld für eine schrittweise Deeskalation und Beendigung aller Feindseligkeiten im Libanon zu schaffen."
       },
-      "source": "BBC News – World",
-      "date": "2026-05-31",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-06-01",
+      "url": "https://www.aljazeera.com/news/2026/6/1/washington-proposes-roadmap-for-de-escalation-in-lebanon-us-official?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗战争成本：平均美国家庭在燃气和能源上多花450美元",
+        "zh": "伊朗战争成本：美国家庭平均多花450美元在燃料和能源上",
         "en": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
-        "de": "Kosten des Iran-Kriegs: Durchschnittliche US-Haushalte zahlen 450 US-Dollar mehr für Gas und Energie"
+        "de": "Kosten des Iran-Kriegs: Durchschnittlicher US-Haushalt zahlt 450 USD mehr für Gas und Energie"
       },
       "summary": {
-        "zh": "由于能源成本上升，消费者可能不得不动用储蓄并更多依赖债务以应对开支。",
-        "en": "Rising energy costs may force consumers to raid their savings and rely more on debt to cover expenses.",
-        "de": "Steigende Energiekosten könnten Verbraucher dazu zwingen, ihre Ersparnisse anzugreifen und stärker auf Schulden zurückzugreifen, um ihre Ausgaben zu decken."
+        "zh": "由于能源成本上升，普通美国家庭在燃料和能源上的支出增加了450美元，这可能迫使消费者动用储蓄并更多依赖债务。",
+        "en": "Due to rising energy costs, the average American household is spending an additional $450 on gas and energy, which may force consumers to tap into savings and rely more on debt.",
+        "de": "Aufgrund steigender Energiekosten gibt der durchschnittliche US-Haushalt zusätzlich 450 USD für Gas und Energie aus, was die Verbraucher zwingen könnte, auf Ersparnisse zurückzugreifen und mehr auf Schulden angewiesen zu sein."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-29",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "过去的通货膨胀创伤和伊朗战争带来的地缘冲击对消费者的影响",
+        "zh": "双重伤疤：过去的通货膨胀问题和伊朗战争中的地缘政治冲击如何影响消费者",
         "en": "How the ‘double scar’ of past inflation woes and geopolitical shocks amid the Iran war is hitting consumers",
-        "de": "Wie die 'doppelte Narbe' vergangener Inflationsprobleme und geopolitischer Schocks im Zuge des Iran-Kriegs die Verbraucher trifft"
+        "de": "Wie die 'doppelte Narbe' der vergangenen Inflationsprobleme und geopolitischen Schocks im Iran-Krieg die Verbraucher trifft"
       },
       "summary": {
-        "zh": "研究发现，心理“伤疤”加剧了对滞涨的恐惧，即价格上涨与经济增长下降同时发生。",
-        "en": "Research finds that mental 'scars' reinforce fears of stagflation, when rising prices coincide with declining growth.",
-        "de": "Forschungen zeigen, dass psychische 'Narben' die Ängste vor Stagflation verstärken, wenn steigende Preise mit sinkendem Wachstum einhergehen."
+        "zh": "研究发现，过去的通货膨胀问题和当前的地缘政治冲击加剧了消费者对滞胀的恐惧。",
+        "en": "Research finds that past inflation woes and current geopolitical shocks are exacerbating consumer fears of stagflation.",
+        "de": "Forschungen zeigen, dass vergangene Inflationsprobleme und aktuelle geopolitische Schocks die Ängste der Verbraucher vor Stagflation verschärfen."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-29",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "核心通货膨胀在4月达到3.3%的年率，符合预期",
-        "en": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows",
-        "de": "Die Kerninflation erreichte im April eine jährliche Rate von 3,3%, wie erwartet, zeigt der bevorzugte Index der Fed"
+        "zh": "美联储的卡什卡里表示，通货膨胀斗争优先于劳动力市场",
+        "en": "Fed’s Kashkari tells CNBC that inflation fight takes priority as labor market is 'in decent shape'",
+        "de": "Kashkari von der Fed sagt CNBC, dass der Kampf gegen die Inflation Priorität hat, da der Arbeitsmarkt 'in anständiger Verfassung' ist"
       },
       "summary": {
-        "zh": "4月份的PCE价格指数预计显示所有项目的年通胀率为3.8%，核心通胀率为3.3%。",
-        "en": "The PCE price index for April was expected to show an annual inflation rate of 3.8% for all items and 3.3% for core.",
-        "de": "Der PCE-Preisindex für April sollte eine jährliche Inflationsrate von 3,8% für alle Artikel und 3,3% für den Kern zeigen."
+        "zh": "明尼阿波利斯联邦储备银行行长警告称，持续的高通货膨胀可能会在消费者预期中根深蒂固，可能迫使采取更严格的政策。",
+        "en": "The Minneapolis Fed President warned that persistently high inflation risks becoming embedded in consumer expectations, potentially forcing tougher policies.",
+        "de": "Der Präsident der Minneapolis Fed warnte, dass anhaltend hohe Inflation das Risiko birgt, in den Verbrauchererwartungen verankert zu werden, was möglicherweise strengere Maßnahmen erforderlich macht."
       },
       "source": "CNBC – Markets",
       "date": "2026-05-28",
-      "url": "https://www.cnbc.com/2026/05/28/core-inflation-hit-an-annual-rate-of-3point3percent-in-april-as-expected-feds-preferred-gauge-shows-.html"
+      "url": "https://www.cnbc.com/2026/05/28/fed-reserve-neel-kashkari-inflation-job-market.html"
     }
   ]
 }
