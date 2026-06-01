@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-01T09:42:22.276448+00:00",
+  "generatedAt": "2026-06-01T20:41:07.996796+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：解锁锂和控制埃博拉",
-        "en": "The Download: unlocking lithium and controlling Ebola",
-        "de": "Der Download: Lithium freisetzen und Ebola kontrollieren"
+        "zh": "中国的脑植入雄心",
+        "en": "China’s brain implant ambitions",
+        "de": "Chinas Ambitionen im Bereich Gehirnimplantate"
       },
       "summary": {
-        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括锂提取和埃博拉控制的进展。",
-        "en": "Today's edition of The Download provides updates on the latest in the tech world, including advancements in lithium extraction and Ebola control.",
-        "de": "Die heutige Ausgabe des Downloads bietet Updates zu den neuesten Entwicklungen in der Technikwelt, einschließlich Fortschritten bei der Lithiumextraktion und der Kontrolle von Ebola."
+        "zh": "中国正在推进脑机接口技术的发展，期望在医疗和技术领域取得突破。",
+        "en": "China is advancing the development of brain-computer interface technology, aiming for breakthroughs in medical and technological fields.",
+        "de": "China treibt die Entwicklung der Gehirn-Computer-Schnittstellentechnologie voran und strebt nach Durchbrüchen in den Bereichen Medizin und Technologie."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-29",
-      "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/"
+      "date": "2026-06-01",
+      "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "致命的埃博拉疫情难以控制",
-        "en": "The deadly Ebola outbreak is proving difficult to control",
-        "de": "Der tödliche Ebola-Ausbruch erweist sich als schwer kontrollierbar"
+        "zh": "中国批准全球首个侵入性脑机芯片——接下来会发生什么",
+        "en": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+        "de": "China hat den weltweit ersten invasiven Gehirn-Computer-Chip genehmigt – was kommt als Nächstes?"
       },
       "summary": {
-        "zh": "自5月5日以来，刚果民主共和国伊图里省的四名医护人员因不明疾病去世，埃博拉疫情的控制变得更加困难。",
-        "en": "Since May 5, four healthcare workers in the Ituri Province of the Democratic Republic of the Congo have died from an unknown illness, making the control of the Ebola outbreak increasingly difficult.",
-        "de": "Seit dem 5. Mai sind vier Gesundheitsarbeiter in der Provinz Ituri der Demokratischen Republik Kongo an einer unbekannten Krankheit gestorben, was die Kontrolle des Ebola-Ausbruchs zunehmend erschwert."
+        "zh": "中国批准了全球首个侵入性脑机芯片，标志着脑机接口技术的重大进展，未来可能会影响医疗和人机交互。",
+        "en": "China has approved the world's first invasive brain-computer chip, marking a significant advancement in brain-computer interface technology, which could impact healthcare and human-computer interaction in the future.",
+        "de": "China hat den weltweit ersten invasiven Gehirn-Computer-Chip genehmigt, was einen bedeutenden Fortschritt in der Technologie der Gehirn-Computer-Schnittstellen darstellt, der die Gesundheitsversorgung und die Mensch-Computer-Interaktion in Zukunft beeinflussen könnte."
       },
       "source": "MIT Technology Review",
-      "date": "2026-05-29",
-      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/"
+      "date": "2026-06-01",
+      "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "教皇的《人性之美》为个人应对人工智能时刻提供了模板",
-        "en": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-        "de": "Wie die Magnifica Humanitas des Papstes eine Vorlage für Einzelpersonen bietet, um den KI-Moment zu meistern"
+        "zh": "数百万AI代理因开源包中的关键漏洞而受到威胁",
+        "en": "Millions of AI agents imperiled by critical vulnerability in open source package",
+        "de": "Millionen von KI-Agenten durch kritische Sicherheitsanfälligkeit in Open-Source-Paket gefährdet"
       },
       "summary": {
-        "zh": "教皇利奥十四世的新通谕强调了技术人员和政策制定者应关注的关键声明，呼吁个人积极应对人工智能的挑战。",
-        "en": "Pope Leo XIV's new encyclical emphasizes a key statement that warrants attention from technologists and policymakers, urging individuals to actively engage with the challenges posed by AI.",
-        "de": "Die neue Enzyklika von Papst Leo XIV. betont eine wichtige Aussage, die von Technologen und politischen Entscheidungsträgern Beachtung finden sollte, und fordert Einzelpersonen auf, sich aktiv mit den Herausforderungen der KI auseinanderzusetzen."
+        "zh": "一个名为“BadHost”的漏洞在一个每周下载量达3.25亿的开源包中被发现，可能对数百万AI代理造成威胁。",
+        "en": "A vulnerability named 'BadHost' was found in an open-source package with 325 million weekly downloads, potentially threatening millions of AI agents.",
+        "de": "Eine Sicherheitsanfälligkeit namens 'BadHost' wurde in einem Open-Source-Paket mit 325 Millionen wöchentlichen Downloads gefunden, was potenziell Millionen von KI-Agenten bedroht."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-05-29",
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
+      "source": "Ars Technica",
+      "date": "2026-05-26",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "极端正统犹太示威者冲击以色列警察局",
-        "en": "Ultra-Orthodox Jewish demonstrators storm Israeli police station",
-        "de": "Ultraorthodoxe jüdische Demonstranten stürmen israelische Polizeistation"
+        "zh": "亚美尼亚总理拒绝俄罗斯要求举行欧盟公投",
+        "en": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
+        "de": "Armeniens Premierminister lehnt Russlands Forderung nach einem EU-Referendum ab, während die Beziehungen sinken"
       },
       "summary": {
-        "zh": "极端正统犹太示威者在以色列的抗议活动中冲击了警察局，显示出对政府政策的不满。",
-        "en": "Ultra-Orthodox Jewish demonstrators stormed a police station in Israel, reflecting their dissatisfaction with government policies.",
-        "de": "Ultraorthodoxe jüdische Demonstranten stürmten eine Polizeistation in Israel, was ihre Unzufriedenheit mit den Regierungsrichtlinien widerspiegelt."
+        "zh": "亚美尼亚总理拒绝了俄罗斯要求进行欧盟公投的要求，显示出亚美尼亚与俄罗斯关系的紧张。",
+        "en": "The Armenian Prime Minister rejected Russia's demand for an EU referendum, highlighting the tense relations between Armenia and Russia.",
+        "de": "Der armenische Premierminister wies Russlands Forderung nach einem EU-Referendum zurück und verdeutlicht damit die angespannten Beziehungen zwischen Armenien und Russland."
       },
       "source": "Al Jazeera",
       "date": "2026-06-01",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗伊斯兰革命卫队在美国袭击后发起报复性打击",
-        "en": "Iran’s IRGC launches retaliatory strike after US attacks",
-        "de": "Irans IRGC startet Vergeltungsschlag nach US-Angriffen"
+        "zh": "特朗普在两党反对声中停止18亿美元“反武器化”基金",
+        "en": "Trump halts $1.8bn ‘anti-weaponisation’ fund amid bipartisan backlash",
+        "de": "Trump stoppt 1,8 Milliarden Dollar 'Anti-Waffen'-Fonds amid bipartisanem Widerstand"
       },
       "summary": {
-        "zh": "伊朗伊斯兰革命卫队在美国的攻击后发起了报复性打击，科威特报告称其防御系统拦截了导弹和无人机。",
-        "en": "Iran's IRGC launched a retaliatory strike following US attacks, with Kuwait reporting that its defense systems intercepted missiles and drones.",
-        "de": "Die IRGC Irans startete einen Vergeltungsschlag nach US-Angriffen, wobei Kuwait berichtete, dass seine Abwehrsysteme Raketen und Drohnen abfingen."
+        "zh": "特朗普在与国会共和党人会晤后，因对其与国税局的和解担忧而停止了18亿美元的“反武器化”基金。",
+        "en": "Trump halted the $1.8 billion 'anti-weaponisation' fund following concerns raised during his meeting with congressional Republicans regarding his settlement with the IRS.",
+        "de": "Trump stoppte den 1,8 Milliarden Dollar schweren 'Anti-Waffen'-Fonds, nachdem während seines Treffens mit den republikanischen Kongressabgeordneten Bedenken bezüglich seines Vergleichs mit dem IRS geäußert wurden."
       },
       "source": "Al Jazeera",
       "date": "2026-06-01",
-      "url": "https://www.aljazeera.com/news/2026/6/1/irans-irgc-launches-retaliatory-strike-after-us-attacks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/1/trump-halts-1-8bn-anti-weaponisation-fund-amid-bipartisan-backlash?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "华盛顿提出黎巴嫩降级的“路线图”",
-        "en": "Washington proposes ‘roadmap’ for de-escalation in Lebanon",
-        "de": "Washington schlägt einen 'Fahrplan' zur Deeskalation im Libanon vor"
+        "zh": "以色列袭击损坏黎巴嫩南部医院",
+        "en": "Israeli strike damages hospital in southern Lebanon",
+        "de": "Israelischer Angriff beschädigt Krankenhaus im Süden Libanons"
       },
       "summary": {
-        "zh": "美国官员提出了一项计划，旨在为黎巴嫩的逐步降级和停止所有敌对行动创造有利环境。",
-        "en": "A US official proposed a plan aimed at creating a conducive environment for gradual de-escalation and cessation of all hostilities in Lebanon.",
-        "de": "Ein US-Beamter schlug einen Plan vor, der darauf abzielt, ein förderliches Umfeld für eine schrittweise Deeskalation und Beendigung aller Feindseligkeiten im Libanon zu schaffen."
+        "zh": "以色列在黎巴嫩南部的袭击导致医院的病房和医疗设备受到严重损坏。",
+        "en": "An Israeli strike in southern Lebanon has severely damaged wards and medical equipment at a hospital.",
+        "de": "Ein israelischer Angriff im Süden Libanons hat die Abteilungen und medizinischen Geräte eines Krankenhauses schwer beschädigt."
       },
       "source": "Al Jazeera",
       "date": "2026-06-01",
-      "url": "https://www.aljazeera.com/news/2026/6/1/washington-proposes-roadmap-for-de-escalation-in-lebanon-us-official?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "伊朗战争成本：美国家庭平均多花450美元在燃料和能源上",
-        "en": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
-        "de": "Kosten des Iran-Kriegs: Durchschnittlicher US-Haushalt zahlt 450 USD mehr für Gas und Energie"
+        "zh": "HPE的股票因收益显示网络业务繁荣而飙升",
+        "en": "HPE’s stock soars toward record gain as earnings show a networking bonanza",
+        "de": "HPE-Aktien steigen in Richtung Rekordgewinne, da die Gewinne einen Networking-Boom zeigen"
       },
       "summary": {
-        "zh": "由于能源成本上升，普通美国家庭在燃料和能源上的支出增加了450美元，这可能迫使消费者动用储蓄并更多依赖债务。",
-        "en": "Due to rising energy costs, the average American household is spending an additional $450 on gas and energy, which may force consumers to tap into savings and rely more on debt.",
-        "de": "Aufgrund steigender Energiekosten gibt der durchschnittliche US-Haushalt zusätzlich 450 USD für Gas und Energie aus, was die Verbraucher zwingen könnte, auf Ersparnisse zurückzugreifen und mehr auf Schulden angewiesen zu sein."
+        "zh": "HPE的股票因其网络收入增长148%而飙升，显示出公司在网络业务方面的强劲表现。",
+        "en": "HPE's stock soared due to a 148% increase in networking revenue, showcasing the company's strong performance in the networking sector.",
+        "de": "Die HPE-Aktien stiegen aufgrund eines Anstiegs der Netzwerkumsätze um 148 %, was die starke Leistung des Unternehmens im Netzwerkbereich zeigt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-29",
-      "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html"
+      "source": "MarketWatch",
+      "date": "2026-06-01",
+      "url": "https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "双重伤疤：过去的通货膨胀问题和伊朗战争中的地缘政治冲击如何影响消费者",
-        "en": "How the ‘double scar’ of past inflation woes and geopolitical shocks amid the Iran war is hitting consumers",
-        "de": "Wie die 'doppelte Narbe' der vergangenen Inflationsprobleme und geopolitischen Schocks im Iran-Krieg die Verbraucher trifft"
+        "zh": "华尔街的红热动量交易仍在获胜",
+        "en": "Wall Street’s red-hot momentum trade is still winning, as strategy delivers best 2-month gain on record",
+        "de": "Die heiße Momentum-Strategie an der Wall Street gewinnt weiterhin, da die Strategie den besten 2-Monats-Gewinn aller Zeiten liefert"
       },
       "summary": {
-        "zh": "研究发现，过去的通货膨胀问题和当前的地缘政治冲击加剧了消费者对滞胀的恐惧。",
-        "en": "Research finds that past inflation woes and current geopolitical shocks are exacerbating consumer fears of stagflation.",
-        "de": "Forschungen zeigen, dass vergangene Inflationsprobleme und aktuelle geopolitische Schocks die Ängste der Verbraucher vor Stagflation verschärfen."
+        "zh": "华尔街的动量交易策略在过去两个月实现了创纪录的收益，主要得益于半导体股票的强劲表现。",
+        "en": "Wall Street's momentum trading strategy has achieved record gains over the past two months, driven largely by strong performance in semiconductor stocks.",
+        "de": "Die Momentum-Handelsstrategie an der Wall Street hat in den letzten zwei Monaten Rekordgewinne erzielt, die hauptsächlich durch die starke Leistung von Halbleiteraktien angetrieben wurden."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-29",
-      "url": "https://www.cnbc.com/2026/05/29/iran-war-inflation-stagflation-eu-ecb-consumer-prices.html"
+      "source": "MarketWatch",
+      "date": "2026-06-01",
+      "url": "https://www.marketwatch.com/story/wall-streets-red-hot-momentum-trade-is-still-winning-as-strategy-delivers-best-2-month-gain-on-record-e3984391?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美联储的卡什卡里表示，通货膨胀斗争优先于劳动力市场",
-        "en": "Fed’s Kashkari tells CNBC that inflation fight takes priority as labor market is 'in decent shape'",
-        "de": "Kashkari von der Fed sagt CNBC, dass der Kampf gegen die Inflation Priorität hat, da der Arbeitsmarkt 'in anständiger Verfassung' ist"
+        "zh": "特朗普是否引发IBM股票反弹？这很复杂",
+        "en": "Did Trump spark an IBM stock rally? It’s complicated.",
+        "de": "Hat Trump eine IBM-Aktienrallye ausgelöst? Es ist kompliziert."
       },
       "summary": {
-        "zh": "明尼阿波利斯联邦储备银行行长警告称，持续的高通货膨胀可能会在消费者预期中根深蒂固，可能迫使采取更严格的政策。",
-        "en": "The Minneapolis Fed President warned that persistently high inflation risks becoming embedded in consumer expectations, potentially forcing tougher policies.",
-        "de": "Der Präsident der Minneapolis Fed warnte, dass anhaltend hohe Inflation das Risiko birgt, in den Verbrauchererwartungen verankert zu werden, was möglicherweise strengere Maßnahmen erforderlich macht."
+        "zh": "IBM的股票在软件行业复苏的背景下出现强劲的上涨，特朗普的影响仍然存在争议。",
+        "en": "IBM's stock has seen strong gains amid a recovery in the software sector, with Trump's influence remaining a topic of debate.",
+        "de": "Die IBM-Aktien haben angesichts einer Erholung im Softwaresektor starke Gewinne erzielt, wobei Trumps Einfluss ein umstrittenes Thema bleibt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-28",
-      "url": "https://www.cnbc.com/2026/05/28/fed-reserve-neel-kashkari-inflation-job-market.html"
+      "source": "MarketWatch",
+      "date": "2026-06-01",
+      "url": "https://www.marketwatch.com/story/did-trump-spark-an-ibm-stock-rally-its-complicated-5421f6ba?mod=mw_rss_topstories"
     }
   ]
 }
