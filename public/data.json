@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-01T20:41:07.996796+00:00",
+  "generatedAt": "2026-06-02T08:53:58.455146+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "中国的脑植入雄心",
-        "en": "China’s brain implant ambitions",
-        "de": "Chinas Ambitionen im Bereich Gehirnimplantate"
+        "zh": "中国的脑植入野心：今天的下载",
+        "en": "The Download: China’s brain implant ambitions",
+        "de": "Der Download: Chinas Ambitionen für Gehirnimplantate"
       },
       "summary": {
-        "zh": "中国正在推进脑机接口技术的发展，期望在医疗和技术领域取得突破。",
-        "en": "China is advancing the development of brain-computer interface technology, aiming for breakthroughs in medical and technological fields.",
-        "de": "China treibt die Entwicklung der Gehirn-Computer-Schnittstellentechnologie voran und strebt nach Durchbrüchen in den Bereichen Medizin und Technologie."
+        "zh": "中国在脑机接口技术方面的进展引起了全球的关注，尤其是其在脑植入技术上的雄心。该技术可能会改变人机交互的方式。",
+        "en": "China's advancements in brain-computer interface technology are drawing global attention, particularly its ambitions in brain implant technology. This technology could transform human-machine interaction.",
+        "de": "Chinas Fortschritte in der Technologie der Gehirn-Computer-Schnittstellen ziehen weltweit Aufmerksamkeit auf sich, insbesondere die Ambitionen im Bereich der Gehirnimplantate. Diese Technologie könnte die Mensch-Maschine-Interaktion verändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-01",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "中国批准全球首个侵入性脑机芯片——接下来会发生什么",
+        "zh": "中国已批准全球首个侵入性脑-计算机芯片——接下来会发生什么",
         "en": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
         "de": "China hat den weltweit ersten invasiven Gehirn-Computer-Chip genehmigt – was kommt als Nächstes?"
       },
       "summary": {
-        "zh": "中国批准了全球首个侵入性脑机芯片，标志着脑机接口技术的重大进展，未来可能会影响医疗和人机交互。",
-        "en": "China has approved the world's first invasive brain-computer chip, marking a significant advancement in brain-computer interface technology, which could impact healthcare and human-computer interaction in the future.",
-        "de": "China hat den weltweit ersten invasiven Gehirn-Computer-Chip genehmigt, was einen bedeutenden Fortschritt in der Technologie der Gehirn-Computer-Schnittstellen darstellt, der die Gesundheitsversorgung und die Mensch-Computer-Interaktion in Zukunft beeinflussen könnte."
+        "zh": "中国批准了全球首个侵入性脑-计算机芯片，这标志着脑机接口技术的重大突破。未来的应用可能会影响医疗和科技领域。",
+        "en": "China has approved the world's first invasive brain-computer chip, marking a significant breakthrough in brain-computer interface technology. Future applications could impact both the medical and tech sectors.",
+        "de": "China hat den weltweit ersten invasiven Gehirn-Computer-Chip genehmigt, was einen bedeutenden Durchbruch in der Technologie der Gehirn-Computer-Schnittstellen darstellt. Zukünftige Anwendungen könnten sowohl den medizinischen als auch den Technologiebereich beeinflussen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-01",
@@ -36,16 +36,16 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "数百万AI代理因开源包中的关键漏洞而受到威胁",
+        "zh": "数百万AI代理因开源软件包中的关键漏洞而受到威胁",
         "en": "Millions of AI agents imperiled by critical vulnerability in open source package",
         "de": "Millionen von KI-Agenten durch kritische Sicherheitsanfälligkeit in Open-Source-Paket gefährdet"
       },
       "summary": {
-        "zh": "一个名为“BadHost”的漏洞在一个每周下载量达3.25亿的开源包中被发现，可能对数百万AI代理造成威胁。",
-        "en": "A vulnerability named 'BadHost' was found in an open-source package with 325 million weekly downloads, potentially threatening millions of AI agents.",
-        "de": "Eine Sicherheitsanfälligkeit namens 'BadHost' wurde in einem Open-Source-Paket mit 325 Millionen wöchentlichen Downloads gefunden, was potenziell Millionen von KI-Agenten bedroht."
+        "zh": "在一个流行的开源软件包中发现了关键漏洞，可能影响到数百万使用该软件的AI代理。开发者被敦促立即采取行动以保护系统安全。",
+        "en": "A critical vulnerability found in a popular open-source package could affect millions of AI agents using the software. Developers are urged to take immediate action to secure their systems.",
+        "de": "Eine kritische Sicherheitsanfälligkeit, die in einem beliebten Open-Source-Paket gefunden wurde, könnte Millionen von KI-Agenten betreffen, die die Software verwenden. Entwickler werden aufgefordert, sofortige Maßnahmen zu ergreifen, um ihre Systeme zu sichern."
       },
-      "source": "Ars Technica",
+      "source": "Ars Technica – AI",
       "date": "2026-05-26",
       "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
     }
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "亚美尼亚总理拒绝俄罗斯要求举行欧盟公投",
-        "en": "Armenian PM rejects Russia’s demand for EU referendum as relations nosedive",
-        "de": "Armeniens Premierminister lehnt Russlands Forderung nach einem EU-Referendum ab, während die Beziehungen sinken"
+        "zh": "俄罗斯对乌克兰的攻击造成至少12人死亡，数十人受伤",
+        "en": "At least 12 people killed, dozens wounded in Russian attacks on Ukraine",
+        "de": "Mindestens 12 Menschen getötet, Dutzende verletzt bei russischen Angriffen auf die Ukraine"
       },
       "summary": {
-        "zh": "亚美尼亚总理拒绝了俄罗斯要求进行欧盟公投的要求，显示出亚美尼亚与俄罗斯关系的紧张。",
-        "en": "The Armenian Prime Minister rejected Russia's demand for an EU referendum, highlighting the tense relations between Armenia and Russia.",
-        "de": "Der armenische Premierminister wies Russlands Forderung nach einem EU-Referendum zurück und verdeutlicht damit die angespannten Beziehungen zwischen Armenien und Russland."
+        "zh": "俄罗斯对乌克兰的袭击造成了至少12人死亡和数十人受伤，显示出冲突的持续升级。乌克兰空军报告称，夜间发射了656架无人机和73枚导弹。",
+        "en": "Russian attacks on Ukraine have resulted in at least 12 deaths and dozens of injuries, highlighting the ongoing escalation of the conflict. Ukraine's air force reported that 656 drones and 73 missiles were launched overnight.",
+        "de": "Die russischen Angriffe auf die Ukraine haben mindestens 12 Todesopfer und Dutzende Verletzte gefordert, was die anhaltende Eskalation des Konflikts verdeutlicht. Die ukrainische Luftwaffe berichtete, dass über Nacht 656 Drohnen und 73 Raketen gestartet wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-01",
-      "url": "https://www.aljazeera.com/news/2026/6/1/armenian-pm-rejects-russias-demand-for-eu-referendum-as-relations-nosedive?traffic_source=rss"
+      "date": "2026-06-02",
+      "url": "https://www.aljazeera.com/news/2026/6/2/at-least-nine-people-killed-dozens-wounded-in-russian-attacks-on-ukraine?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普在两党反对声中停止18亿美元“反武器化”基金",
-        "en": "Trump halts $1.8bn ‘anti-weaponisation’ fund amid bipartisan backlash",
-        "de": "Trump stoppt 1,8 Milliarden Dollar 'Anti-Waffen'-Fonds amid bipartisanem Widerstand"
+        "zh": "丹麦的梅特·弗雷德里克森在数月谈判后组建政府",
+        "en": "Denmark's Mette Frederiksen to form government after months of negotiations",
+        "de": "Dänemarks Mette Frederiksen wird nach monatelangen Verhandlungen eine Regierung bilden"
       },
       "summary": {
-        "zh": "特朗普在与国会共和党人会晤后，因对其与国税局的和解担忧而停止了18亿美元的“反武器化”基金。",
-        "en": "Trump halted the $1.8 billion 'anti-weaponisation' fund following concerns raised during his meeting with congressional Republicans regarding his settlement with the IRS.",
-        "de": "Trump stoppte den 1,8 Milliarden Dollar schweren 'Anti-Waffen'-Fonds, nachdem während seines Treffens mit den republikanischen Kongressabgeordneten Bedenken bezüglich seines Vergleichs mit dem IRS geäußert wurden."
+        "zh": "丹麦社会民主党领导人梅特·弗雷德里克森在经过数月的谈判后，正在组建一个中左派的少数政府。这将是她的第三个总理任期。",
+        "en": "Denmark's Social Democratic Party leader Mette Frederiksen is forming a center-left minority government after months of negotiations. This will mark her third term as prime minister.",
+        "de": "Die Vorsitzende der dänischen Sozialdemokratischen Partei, Mette Frederiksen, bildet nach monatelangen Verhandlungen eine Mitte-Links-Minderheitsregierung. Dies wird ihre dritte Amtszeit als Ministerpräsidentin markieren."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-01",
-      "url": "https://www.aljazeera.com/news/2026/6/1/trump-halts-1-8bn-anti-weaponisation-fund-amid-bipartisan-backlash?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列袭击损坏黎巴嫩南部医院",
-        "en": "Israeli strike damages hospital in southern Lebanon",
-        "de": "Israelischer Angriff beschädigt Krankenhaus im Süden Libanons"
+        "zh": "中国对“幽灵厨房”采取行动以遏制激烈的食品外卖应用",
+        "en": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
+        "de": "China geht gegen 'Geisterküchen' vor, um die gnadenlosen Essensliefer-Apps einzudämmen"
       },
       "summary": {
-        "zh": "以色列在黎巴嫩南部的袭击导致医院的病房和医疗设备受到严重损坏。",
-        "en": "An Israeli strike in southern Lebanon has severely damaged wards and medical equipment at a hospital.",
-        "de": "Ein israelischer Angriff im Süden Libanons hat die Abteilungen und medizinischen Geräte eines Krankenhauses schwer beschädigt."
+        "zh": "中国政府开始打击“幽灵厨房”，这些在线商店实际上并不存在，旨在遏制食品外卖行业的激烈竞争。这一举措旨在保护消费者权益。",
+        "en": "The Chinese government has begun cracking down on 'ghost kitchens,' which are online shops that do not actually exist, in an effort to rein in the cut-throat competition in the food delivery industry. This move aims to protect consumer rights.",
+        "de": "Die chinesische Regierung hat begonnen, gegen 'Geisterküchen' vorzugehen, die Online-Shops sind, die tatsächlich nicht existieren, um die gnadenlose Konkurrenz in der Essenslieferbranche einzudämmen. Dieser Schritt zielt darauf ab, die Verbraucherrechte zu schützen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-01",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/1/israeli-strike-damages-hospital-in-southern-lebanon?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-06-02",
+      "url": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "HPE的股票因收益显示网络业务繁荣而飙升",
-        "en": "HPE’s stock soars toward record gain as earnings show a networking bonanza",
-        "de": "HPE-Aktien steigen in Richtung Rekordgewinne, da die Gewinne einen Networking-Boom zeigen"
+        "zh": "日本新晋顶尖公司因对AI“狂热”的担忧而被下调评级",
+        "en": "Japan’s newly crowned top company gets a downgrade on AI ‘mania’ concerns",
+        "de": "Japans neu gekrönte Top-Firma wird wegen Bedenken hinsichtlich der AI-'Manie' herabgestuft"
       },
       "summary": {
-        "zh": "HPE的股票因其网络收入增长148%而飙升，显示出公司在网络业务方面的强劲表现。",
-        "en": "HPE's stock soared due to a 148% increase in networking revenue, showcasing the company's strong performance in the networking sector.",
-        "de": "Die HPE-Aktien stiegen aufgrund eines Anstiegs der Netzwerkumsätze um 148 %, was die starke Leistung des Unternehmens im Netzwerkbereich zeigt."
+        "zh": "德意志银行分析师因对AI热潮的担忧，将日本新晋顶尖公司软银的评级下调至持有。这反映了市场对AI投资的谨慎态度。",
+        "en": "Deutsche Bank analysts downgraded Japan's newly crowned top company, SoftBank, to hold due to concerns over the AI mania. This reflects a cautious market attitude towards AI investments.",
+        "de": "Analysten der Deutschen Bank haben Japans neu gekrönte Top-Firma, SoftBank, aufgrund von Bedenken hinsichtlich der AI-Manie auf 'Halten' herabgestuft. Dies spiegelt eine vorsichtige Marktstimmung gegenüber AI-Investitionen wider."
       },
-      "source": "MarketWatch",
-      "date": "2026-06-01",
-      "url": "https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-02",
+      "url": "https://www.marketwatch.com/story/japans-newly-crowned-top-company-gets-a-downgrade-on-ai-mania-concerns-c32cf789?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "华尔街的红热动量交易仍在获胜",
-        "en": "Wall Street’s red-hot momentum trade is still winning, as strategy delivers best 2-month gain on record",
-        "de": "Die heiße Momentum-Strategie an der Wall Street gewinnt weiterhin, da die Strategie den besten 2-Monats-Gewinn aller Zeiten liefert"
+        "zh": "Alphabet要求股东承担800亿美元的AI扩张费用",
+        "en": "Alphabet asks shareholders to foot an $80 billion bill for AI expansion",
+        "de": "Alphabet bittet Aktionäre, eine Rechnung über 80 Milliarden US-Dollar für die AI-Expansion zu begleichen"
       },
       "summary": {
-        "zh": "华尔街的动量交易策略在过去两个月实现了创纪录的收益，主要得益于半导体股票的强劲表现。",
-        "en": "Wall Street's momentum trading strategy has achieved record gains over the past two months, driven largely by strong performance in semiconductor stocks.",
-        "de": "Die Momentum-Handelsstrategie an der Wall Street hat in den letzten zwei Monaten Rekordgewinne erzielt, die hauptsächlich durch die starke Leistung von Halbleiteraktien angetrieben wurden."
+        "zh": "Alphabet正在寻求股东支持，承担其80亿美元的AI扩张费用。这一举措表明公司对AI领域的持续投资。",
+        "en": "Alphabet is seeking shareholder support to cover its $80 billion bill for AI expansion. This move indicates the company's ongoing investment in the AI sector.",
+        "de": "Alphabet sucht die Unterstützung der Aktionäre, um die Rechnung über 80 Milliarden US-Dollar für die AI-Expansion zu begleichen. Dieser Schritt zeigt die fortlaufende Investition des Unternehmens im AI-Sektor."
       },
-      "source": "MarketWatch",
-      "date": "2026-06-01",
-      "url": "https://www.marketwatch.com/story/wall-streets-red-hot-momentum-trade-is-still-winning-as-strategy-delivers-best-2-month-gain-on-record-e3984391?mod=mw_rss_topstories"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-02",
+      "url": "https://www.marketwatch.com/story/alphabet-asks-shareholders-to-foot-an-80-billion-bill-for-ai-expansion-de8492fa?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普是否引发IBM股票反弹？这很复杂",
-        "en": "Did Trump spark an IBM stock rally? It’s complicated.",
-        "de": "Hat Trump eine IBM-Aktienrallye ausgelöst? Es ist kompliziert."
+        "zh": "HPE的股票因收益显示网络繁荣而飙升至创纪录的涨幅",
+        "en": "HPE’s stock soars toward record gain as earnings show a networking bonanza",
+        "de": "HPE-Aktien steigen auf Rekordgewinne, da die Einnahmen einen Netzwerk-Boom zeigen"
       },
       "summary": {
-        "zh": "IBM的股票在软件行业复苏的背景下出现强劲的上涨，特朗普的影响仍然存在争议。",
-        "en": "IBM's stock has seen strong gains amid a recovery in the software sector, with Trump's influence remaining a topic of debate.",
-        "de": "Die IBM-Aktien haben angesichts einer Erholung im Softwaresektor starke Gewinne erzielt, wobei Trumps Einfluss ein umstrittenes Thema bleibt."
+        "zh": "Hewlett Packard Enterprise的股票因其收益显示出网络和服务器需求的激增而飙升。AI的建设推动了这一需求。",
+        "en": "Hewlett Packard Enterprise's stock soared due to a surge in demand for networking and servers reflected in its earnings. The AI buildout has driven this demand.",
+        "de": "Die Aktien von Hewlett Packard Enterprise sind aufgrund eines Anstiegs der Nachfrage nach Netzwerken und Servern, der sich in den Einnahmen widerspiegelt, gestiegen. Der Ausbau von AI hat diese Nachfrage angeheizt."
       },
-      "source": "MarketWatch",
-      "date": "2026-06-01",
-      "url": "https://www.marketwatch.com/story/did-trump-spark-an-ibm-stock-rally-its-complicated-5421f6ba?mod=mw_rss_topstories"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-02",
+      "url": "https://www.marketwatch.com/story/hpes-stock-soars-toward-record-gain-as-earnings-show-a-networking-bonanza-2bde2d3a?mod=mw_rss_topstories"
     }
   ]
 }
