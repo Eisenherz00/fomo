@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-02T19:55:05.026697+00:00",
+  "generatedAt": "2026-06-03T09:14:29.435953+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "AI现在可以管理您的行政部门：这是今天的下载，我们的工作日通讯，提供有关技术世界的最新动态。",
+        "zh": "AI现在可以运行您的行政部门：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
         "en": "The Download: AI can run your admin department now: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: KI kann jetzt Ihre Verwaltungsabteilung leiten: Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich über das Geschehen in der Technikwelt informiert."
+        "de": "Der Download: KI kann jetzt Ihre Verwaltungsabteilung leiten: Dies ist die heutige Ausgabe von The Download, unserem wöchentlichen Newsletter, der täglich über das Geschehen in der Technologiewelt informiert."
       },
       "summary": {
-        "zh": "人工智能正在改变小型企业的行政管理方式，提供高效的解决方案以减轻人力资源的负担。",
-        "en": "Artificial intelligence is transforming the way small businesses manage administration, providing efficient solutions to alleviate the burden on human resources.",
-        "de": "Künstliche Intelligenz verändert die Art und Weise, wie kleine Unternehmen die Verwaltung handhaben, und bietet effiziente Lösungen zur Entlastung der Personalressourcen."
+        "zh": "人工智能正在改变小型企业的行政管理方式，提供高效的解决方案以减少人力资源的需求。",
+        "en": "Artificial intelligence is transforming the way small businesses manage administration, offering efficient solutions to reduce the need for human resources.",
+        "de": "Künstliche Intelligenz verändert die Art und Weise, wie kleine Unternehmen die Verwaltung verwalten, und bietet effiziente Lösungen zur Reduzierung des Bedarfs an menschlichen Ressourcen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-02",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "用代理AI人性化全球医疗保健：全球医疗保健部门正承受越来越大的压力。",
+        "zh": "用代理AI重新人性化全球医疗保健：全球医疗保健部门正面临日益加剧的压力。",
         "en": "Rehumanizing global health care with agentic AI: The global health care sector is under increasing strain.",
-        "de": "Die Rehumanisierung der globalen Gesundheitsversorgung mit agentischer KI: Der globale Gesundheitssektor steht unter zunehmendem Druck."
+        "de": "Die Rehumanisierung des globalen Gesundheitswesens mit agentischer KI: Der globale Gesundheitssektor steht unter zunehmendem Druck."
       },
       "summary": {
-        "zh": "代理人工智能的应用可能会改善全球医疗保健的效率和人性化，尤其是在资源紧张的情况下。",
-        "en": "The application of agentic AI could enhance the efficiency and humanization of global health care, particularly in resource-constrained environments.",
-        "de": "Der Einsatz von agentischer KI könnte die Effizienz und Humanisierung der globalen Gesundheitsversorgung verbessern, insbesondere in ressourcenschwachen Umgebungen."
+        "zh": "全球医疗保健面临着投资不足和招聘限制的挑战，代理AI被视为改善医疗服务质量的潜在解决方案。",
+        "en": "The global health care sector faces challenges of underinvestment and recruitment constraints, with agentic AI seen as a potential solution to improve the quality of healthcare services.",
+        "de": "Der globale Gesundheitssektor steht vor Herausforderungen durch Unterinvestitionen und Rekrutierungsbeschränkungen, wobei agentische KI als potenzielle Lösung zur Verbesserung der Qualität der Gesundheitsdienstleistungen angesehen wird."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-02",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "小型企业如何利用AI：这篇文章来自《让AI发挥作用》，MIT技术评论的限量版通讯。",
+        "zh": "小型企业如何利用AI：这篇文章来自《使AI发挥作用》，MIT技术评论的限期通讯。",
         "en": "How small businesses can leverage AI: This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries.",
-        "de": "Wie kleine Unternehmen KI nutzen können: Dieser Artikel stammt aus Making AI Work, dem limitierte Newsletter von MIT Technology Review, der untersucht, wie LLMs in verschiedenen Branchen angewendet werden können."
+        "de": "Wie kleine Unternehmen KI nutzen können: Dieser Artikel stammt aus Making AI Work, dem zeitlich begrenzten Newsletter der MIT Technology Review, der untersucht, wie LLMs in verschiedenen Branchen angewendet werden können."
       },
       "summary": {
-        "zh": "小型企业可以通过采用人工智能技术来提升运营效率和客户服务，进而增强竞争力。",
-        "en": "Small businesses can enhance operational efficiency and customer service by adopting AI technologies, thereby increasing their competitiveness.",
-        "de": "Kleine Unternehmen können ihre Betriebseffizienz und den Kundenservice durch die Einführung von KI-Technologien verbessern und so ihre Wettbewerbsfähigkeit steigern."
+        "zh": "小型企业可以通过采用AI技术来提高效率、降低成本，并改善客户体验，从而在竞争中获得优势。",
+        "en": "Small businesses can gain a competitive edge by adopting AI technologies to improve efficiency, reduce costs, and enhance customer experience.",
+        "de": "Kleine Unternehmen können sich einen Wettbewerbsvorteil verschaffen, indem sie KI-Technologien übernehmen, um die Effizienz zu verbessern, Kosten zu senken und das Kundenerlebnis zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-02",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "西班牙因埃博拉担忧禁止刚果民主共和国世界杯热身赛：西班牙市长因埃博拉担忧禁止刚果民主共和国世界杯热身赛。",
-        "en": "Spain bans DR Congo World Cup warm-up due to Ebola fears: Spanish mayor bans DR Congo pre-World Cup 2026 game in La Linea de la Concepcion due to Ebola fears.",
-        "de": "Spanien verbietet WM-Vorbereitungsspiel der DR Kongo wegen Ebola-Ängsten: Spanischer Bürgermeister verbietet das WM-Vorbereitungsspiel der DR Kongo 2026 in La Linea de la Concepcion wegen Ebola-Ängsten."
+        "zh": "伊朗无人机袭击科威特主要机场，美国对凯什姆岛的空袭后局势持续紧张。",
+        "en": "Iranian drone hits Kuwait’s main airport after US strikes Qeshm Island: Clashes continue as diplomacy between Washington and Tehran shows little progress.",
+        "de": "Iranische Drohne trifft auf den Hauptflughafen von Kuwait, nachdem die USA Qeshm-Insel angegriffen haben: Die Kämpfe dauern an, während die Diplomatie zwischen Washington und Teheran wenig Fortschritte zeigt."
       },
       "summary": {
-        "zh": "由于对埃博拉疫情的担忧，西班牙市长决定禁止刚果民主共和国的世界杯热身赛，以保护公众健康。",
-        "en": "Due to concerns over the Ebola outbreak, the Spanish mayor has decided to ban the DR Congo's World Cup warm-up match to protect public health.",
-        "de": "Aufgrund von Bedenken über den Ebola-Ausbruch hat der spanische Bürgermeister beschlossen, das WM-Vorbereitungsspiel der DR Kongo zu verbieten, um die öffentliche Gesundheit zu schützen."
+        "zh": "随着美国对伊朗的空袭，科威特的主要机场遭到无人机袭击，局势持续紧张，外交努力未能取得进展。",
+        "en": "Following US strikes on Iran, Kuwait's main airport was hit by a drone, escalating tensions as diplomatic efforts show little progress.",
+        "de": "Nach den US-Angriffen auf den Iran wurde der Hauptflughafen von Kuwait von einer Drohne getroffen, was die Spannungen erhöht, während diplomatische Bemühungen wenig Fortschritte zeigen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/sports/2026/6/2/spain-bans-dr-congo-world-cup-warm-up-due-to-ebola-fears?traffic_source=rss"
+      "date": "2026-06-03",
+      "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "巴勒斯坦每周回顾：以色列在加沙杀死数十人，开斋节没有喘息：国际孤立加深，报告称性虐待和加沙领土的扩大占领。",
-        "en": "Palestine weekly wrap: No respite for Eid as Israel kills dozens in Gaza: International isolation has deepened after reports of sexual abuse and the widening seizure of Gaza territory.",
-        "de": "Palästina wöchentlicher Rückblick: Keine Erholung zu Eid, da Israel Dutzende in Gaza tötet: Die internationale Isolation hat sich vertieft nach Berichten über sexuellen Missbrauch und die zunehmende Beschlagnahme von Gaza-Gebiet."
+        "zh": "乌克兰无人机袭击导致俄罗斯控制区7人遇难，局势升级。",
+        "en": "Ukraine drone attack kills 7 in Russian-held territory in new escalation: The Russian-installed head of Donetsk, Denis Pushilin, says a drone hit a bus travelling between Moscow and Simferopol.",
+        "de": "Ukrainischer Drohnenangriff tötet 7 in von Russland gehaltenem Gebiet in neuer Eskalation: Der von Russland eingesetzte Leiter von Donezk, Denis Pushilin, sagt, eine Drohne habe einen Bus getroffen, der zwischen Moskau und Simferopol unterwegs war."
       },
       "summary": {
-        "zh": "以色列在加沙的军事行动导致大量平民伤亡，国际社会对以色列的行为表示愤慨，局势愈发紧张。",
-        "en": "Israel's military actions in Gaza have resulted in numerous civilian casualties, prompting outrage from the international community and escalating tensions.",
-        "de": "Die militärischen Aktionen Israels in Gaza haben zu zahlreichen zivilen Opfern geführt, was Empörung in der internationalen Gemeinschaft auslöste und die Spannungen verschärfte."
+        "zh": "在俄罗斯控制的地区，乌克兰的无人机袭击导致7人遇难，局势再次升级，表明冲突的紧张局势加剧。",
+        "en": "In a Russian-held area, a Ukrainian drone attack resulted in seven deaths, marking a new escalation in the conflict and indicating heightened tensions.",
+        "de": "In einem von Russland kontrollierten Gebiet führte ein ukrainischer Drohnenangriff zu sieben Todesopfern, was eine neue Eskalation des Konflikts markiert und auf erhöhte Spannungen hinweist."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/news/2026/6/2/palestine-weekly-wrap-no-respite-for-eid-as-israel-kills-dozens-in-gaza?traffic_source=rss"
+      "date": "2026-06-03",
+      "url": "https://www.aljazeera.com/news/2026/6/3/ukraine-drone-attack-kills-7-in-russian-held-territory-in-new-escalation?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "黎巴嫩希望华盛顿的关键谈判能阻止以色列入侵：以色列和黎巴嫩在华盛顿的讨论内容是什么。",
-        "en": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion: What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon.",
-        "de": "Libanon hofft, dass entscheidende Gespräche in Washington eine israelische Invasion stoppen werden: Worüber werden Israel und Libanon in Washington diskutieren, während Hezbollah und Israel weiterhin im Süden Libanon kämpfen."
+        "zh": "特朗普政府放弃18亿美元的“反武器化”基金。",
+        "en": "Trump administration drops $1.8bn 'anti-weaponisation' fund: Acting Attorney General Todd Blanche's announcement to abandon the fund comes amid pushback from top Republican lawmakers.",
+        "de": "Die Trump-Administration gibt den 1,8 Milliarden Dollar schweren 'Anti-Waffenisierungs'-Fonds auf: Die Ankündigung von Generalstaatsanwalt Todd Blanche, den Fonds aufzugeben, erfolgt amid Widerstand von führenden republikanischen Gesetzgebern."
       },
       "summary": {
-        "zh": "黎巴嫩希望通过与以色列的谈判能够阻止可能的军事冲突，局势依然紧张。",
-        "en": "Lebanon hopes that negotiations with Israel can prevent potential military conflict, as tensions remain high.",
-        "de": "Libanon hofft, dass Verhandlungen mit Israel einen möglichen militärischen Konflikt verhindern können, während die Spannungen hoch bleiben."
+        "zh": "特朗普政府决定放弃18亿美元的反武器化基金，此举引发了共和党立法者的强烈反对。",
+        "en": "The Trump administration's decision to abandon the $1.8 billion anti-weaponisation fund has sparked strong opposition from Republican lawmakers.",
+        "de": "Die Entscheidung der Trump-Administration, den 1,8 Milliarden Dollar schweren Fonds zur Bekämpfung der Waffenisierung aufzugeben, hat starken Widerstand von republikanischen Gesetzgebern ausgelöst."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-02",
-      "url": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-06-03",
+      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "四月份的职位空缺激增至760万，创近两年来新高：劳工统计局报告称，四月份的可用就业岗位达到760万，比上月激增731,000。",
-        "en": "Job openings in April surged to 7.6 million, the highest in nearly two years: The Bureau of Labor Statistics reported that available employment hit 7.6 million for the month, a surge of 731,000 from the prior month.",
-        "de": "Die Stellenangebote im April stiegen auf 7,6 Millionen, den höchsten Stand seit fast zwei Jahren: Das Bureau of Labor Statistics berichtete, dass die verfügbaren Arbeitsplätze im Monat 7,6 Millionen erreichten, ein Anstieg von 731.000 gegenüber dem Vormonat."
+        "zh": "美国对60个经济体提出新关税，因强迫劳动贸易行为。",
+        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices: USTR has proposed a 10% duty rate for economies that have adopted a full or partial prohibition on forced labor trade, and 12.5% for all other economies.",
+        "de": "Die USA schlagen frische Zölle auf 60 Volkswirtschaften wegen Praktiken des Handels mit Zwangsarbeit vor: USTR hat einen Zollsatz von 10 % für Volkswirtschaften vorgeschlagen, die ein vollständiges oder teilweises Verbot des Handels mit Zwangsarbeit angenommen haben, und 12,5 % für alle anderen Volkswirtschaften."
       },
       "summary": {
-        "zh": "四月份的职位空缺数量大幅增加，表明劳动力市场的复苏和经济活动的增强。",
-        "en": "The significant increase in job openings in April indicates a recovery in the labor market and heightened economic activity.",
-        "de": "Der signifikante Anstieg der Stellenangebote im April deutet auf eine Erholung des Arbeitsmarktes und eine erhöhte wirtschaftliche Aktivität hin."
+        "zh": "美国贸易代表提议对60个经济体征收新关税，以应对强迫劳动贸易行为，这可能会影响国际贸易关系。",
+        "en": "The U.S. Trade Representative has proposed new tariffs on 60 economies to address forced labor trade practices, which could impact international trade relations.",
+        "de": "Der US-Handelsbeauftragte hat neue Zölle auf 60 Volkswirtschaften vorgeschlagen, um Praktiken des Handels mit Zwangsarbeit zu bekämpfen, was die internationalen Handelsbeziehungen beeinflussen könnte."
       },
-      "source": "CNBC",
-      "date": "2026-06-02",
-      "url": "https://www.cnbc.com/2026/06/02/job-openings-april-2026.html"
+      "source": "CNBC – Markets",
+      "date": "2026-06-03",
+      "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "由于伊朗战争推动能源成本上涨，欧元区通胀达到3.2%：该地区的能源成本在五月份以10.9%的年率飙升。",
-        "en": "Inflation hits 3.2% in the euro zone as Iran war pushes energy costs higher: Energy costs in the region surged by an annual rate of 10.9% in May.",
-        "de": "Die Inflation im Euroraum erreicht 3,2%, da der Iran-Krieg die Energiekosten in die Höhe treibt: Die Energiekosten in der Region stiegen im Mai um 10,9% im Jahresvergleich."
+        "zh": "4月份职位空缺激增至760万，为近两年来最高。",
+        "en": "Job openings in April surged to 7.6 million, the highest in nearly two years: The Bureau of Labor Statistics reported that available employment hit 7.6 million for the month, a surge of 731,000 from the prior month.",
+        "de": "Die Stellenangebote im April stiegen auf 7,6 Millionen, den höchsten Stand seit fast zwei Jahren: Das Bureau of Labor Statistics berichtete, dass die verfügbaren Arbeitsplätze im Monat 7,6 Millionen erreichten, ein Anstieg von 731.000 gegenüber dem Vormonat."
       },
       "summary": {
-        "zh": "由于伊朗战争导致能源价格飙升，欧元区的通胀率显著上升，给消费者带来压力。",
-        "en": "The inflation rate in the euro zone has risen significantly due to soaring energy prices caused by the Iran war, putting pressure on consumers.",
-        "de": "Die Inflationsrate im Euroraum ist aufgrund der steigenden Energiepreise, die durch den Iran-Krieg verursacht wurden, erheblich gestiegen und belastet die Verbraucher."
+        "zh": "美国4月份的职位空缺激增至760万，显示出劳动市场的强劲复苏，可能会影响未来的经济政策。",
+        "en": "Job openings in the U.S. surged to 7.6 million in April, indicating a strong recovery in the labor market that may influence future economic policies.",
+        "de": "Die Stellenangebote in den USA stiegen im April auf 7,6 Millionen und zeigen eine starke Erholung des Arbeitsmarktes, die zukünftige Wirtschaftspolitiken beeinflussen könnte."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-06-02",
-      "url": "https://www.cnbc.com/2026/06/02/inflation-euro-zone-iran-energy-costs.html"
+      "url": "https://www.cnbc.com/2026/06/02/job-openings-april-2026.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普签署了一项缩减版的人工智能行政命令。批评者称其几乎毫无意义：特朗普总统周二签署了一项关于人工智能的行政命令，旨在为AI公司建立一个自愿框架。",
-        "en": "Trump signs a scaled-back executive order on AI. Critics say it’s almost meaningless.: President Donald Trump on Tuesday signed an executive order on artificial intelligence that aims to set up a framework for AI companies to voluntarily.",
-        "de": "Trump unterschreibt eine reduzierte Exekutivverordnung zu KI. Kritiker sagen, sie sei fast bedeutungslos: Präsident Donald Trump unterzeichnete am Dienstag eine Exekutivverordnung zur künstlichen Intelligenz, die darauf abzielt, einen Rahmen für KI-Unternehmen zu schaffen."
+        "zh": "标普500指数连续第9天上涨，但“广度悖论”发出罕见警告。",
+        "en": "The S&P 500 climbs for a 9th straight day — but the ‘breadth paradox’ is sending a rare warning: The S&P 500’s latest string of records has come with a catch: Fewer stocks are participating in the rally.",
+        "de": "Der S&P 500 steigt zum 9. Mal in Folge — aber das 'Breiteneparadox' sendet eine seltene Warnung: Die jüngste Reihe von Rekorden des S&P 500 hat einen Haken: Weniger Aktien nehmen an der Rally teil."
       },
       "summary": {
-        "zh": "特朗普签署的人工智能行政命令被批评为缺乏实质性内容，未能有效解决行业面临的关键问题。",
-        "en": "Trump's executive order on artificial intelligence has been criticized for lacking substantive content and failing to effectively address key issues facing the industry.",
-        "de": "Die Exekutivverordnung von Trump zur künstlichen Intelligenz wurde kritisiert, weil sie an substanziellen Inhalten mangelt und es versäumt, wichtige Probleme der Branche effektiv anzugehen."
+        "zh": "尽管标普500指数连续第9天创下新高，但参与上涨的股票数量减少，发出市场潜在不稳定的警告。",
+        "en": "Despite the S&P 500 reaching new highs for the ninth consecutive day, the number of stocks participating in the rally has decreased, signaling potential instability in the market.",
+        "de": "Trotz des S&P 500, der zum neunten Mal in Folge neue Höchststände erreicht, hat die Anzahl der Aktien, die an der Rally teilnehmen, abgenommen, was auf eine potenzielle Instabilität des Marktes hinweist."
       },
-      "source": "MarketWatch",
-      "date": "2026-06-02",
-      "url": "https://www.marketwatch.com/story/trump-signs-an-executive-order-on-ai-after-its-scaled-back-critics-says-its-almost-meaningless-ec1c25b9?mod=mw_rss_topstories"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-03",
+      "url": "https://www.marketwatch.com/story/s-p-500-climbing-for-9th-straight-day-but-breadth-sends-a-rare-warning-1577195d?mod=mw_rss_topstories"
     }
   ]
 }
