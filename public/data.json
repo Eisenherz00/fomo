@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-03T09:14:29.435953+00:00",
+  "generatedAt": "2026-06-03T20:00:04.153189+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "AI现在可以运行您的行政部门：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
-        "en": "The Download: AI can run your admin department now: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: KI kann jetzt Ihre Verwaltungsabteilung leiten: Dies ist die heutige Ausgabe von The Download, unserem wöchentlichen Newsletter, der täglich über das Geschehen in der Technologiewelt informiert."
+        "zh": "虚拟电厂如何为数据中心提供能源：如果你获得报酬以减少电力使用，你会接受吗？如果这样做是为了帮助为当地数据中心供电，这会改变什么吗？",
+        "en": "How virtual power plants could provide energy for data centers: Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center?",
+        "de": "Wie virtuelle Kraftwerke Energie für Rechenzentren bereitstellen könnten: Würden Sie eine Zahlung akzeptieren, um Ihren Stromverbrauch zu reduzieren? Würde es etwas ändern, wenn Sie dies tun würden, um ein lokales Rechenzentrum mit Strom zu versorgen?"
       },
       "summary": {
-        "zh": "人工智能正在改变小型企业的行政管理方式，提供高效的解决方案以减少人力资源的需求。",
-        "en": "Artificial intelligence is transforming the way small businesses manage administration, offering efficient solutions to reduce the need for human resources.",
-        "de": "Künstliche Intelligenz verändert die Art und Weise, wie kleine Unternehmen die Verwaltung verwalten, und bietet effiziente Lösungen zur Reduzierung des Bedarfs an menschlichen Ressourcen."
+        "zh": "虚拟电厂的概念正在被探索，以便为数据中心提供可再生能源。通过减少电力使用，用户可以获得报酬，这在能源管理中可能会带来新的商业模式。",
+        "en": "The concept of virtual power plants is being explored to provide renewable energy for data centers. Users can receive payments for reducing their electricity use, which could introduce new business models in energy management.",
+        "de": "Das Konzept der virtuellen Kraftwerke wird untersucht, um Rechenzentren mit erneuerbarer Energie zu versorgen. Nutzer können Zahlungen für die Reduzierung ihres Stromverbrauchs erhalten, was neue Geschäftsmodelle im Energiemanagement einführen könnte."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-02",
-      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/"
+      "date": "2026-06-03",
+      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "用代理AI重新人性化全球医疗保健：全球医疗保健部门正面临日益加剧的压力。",
-        "en": "Rehumanizing global health care with agentic AI: The global health care sector is under increasing strain.",
-        "de": "Die Rehumanisierung des globalen Gesundheitswesens mit agentischer KI: Der globale Gesundheitssektor steht unter zunehmendem Druck."
+        "zh": "下载：特朗普的新AI命令，以及用于战争的智能眼镜：这是今天的下载，我们的工作日通讯，提供有关技术世界的最新动态。",
+        "en": "The Download: Trump’s new AI order, and smart glasses for warfare: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+        "de": "Der Download: Trumps neuer KI-Befehl und smarte Brillen für den Krieg: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der täglich über die neuesten Entwicklungen in der Technikwelt informiert."
       },
       "summary": {
-        "zh": "全球医疗保健面临着投资不足和招聘限制的挑战，代理AI被视为改善医疗服务质量的潜在解决方案。",
-        "en": "The global health care sector faces challenges of underinvestment and recruitment constraints, with agentic AI seen as a potential solution to improve the quality of healthcare services.",
-        "de": "Der globale Gesundheitssektor steht vor Herausforderungen durch Unterinvestitionen und Rekrutierungsbeschränkungen, wobei agentische KI als potenzielle Lösung zur Verbesserung der Qualität der Gesundheitsdienstleistungen angesehen wird."
+        "zh": "特朗普发布了新的人工智能命令，旨在加强美国在技术领域的领导地位。同时，智能眼镜的军事应用正在被开发，可能会改变战斗方式。",
+        "en": "Trump has issued a new AI order aimed at strengthening the U.S. leadership in technology. Meanwhile, the military application of smart glasses is being developed, which could change the nature of combat.",
+        "de": "Trump hat einen neuen KI-Befehl erlassen, um die Führungsposition der USA im Technologiebereich zu stärken. Gleichzeitig wird die militärische Anwendung von Smart Glasses entwickelt, die die Art des Kampfes verändern könnte."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-02",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/"
+      "date": "2026-06-03",
+      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "小型企业如何利用AI：这篇文章来自《使AI发挥作用》，MIT技术评论的限期通讯。",
-        "en": "How small businesses can leverage AI: This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries.",
-        "de": "Wie kleine Unternehmen KI nutzen können: Dieser Artikel stammt aus Making AI Work, dem zeitlich begrenzten Newsletter der MIT Technology Review, der untersucht, wie LLMs in verschiedenen Branchen angewendet werden können."
+        "zh": "重新人性化全球医疗保健与代理AI：全球医疗保健部门正面临日益加大的压力。",
+        "en": "Rehumanizing global health care with agentic AI: The global health care sector is under increasing strain.",
+        "de": "Die Rehumanisierung der globalen Gesundheitsversorgung mit agentischer KI: Der globale Gesundheitssektor steht unter zunehmendem Druck."
       },
       "summary": {
-        "zh": "小型企业可以通过采用AI技术来提高效率、降低成本，并改善客户体验，从而在竞争中获得优势。",
-        "en": "Small businesses can gain a competitive edge by adopting AI technologies to improve efficiency, reduce costs, and enhance customer experience.",
-        "de": "Kleine Unternehmen können sich einen Wettbewerbsvorteil verschaffen, indem sie KI-Technologien übernehmen, um die Effizienz zu verbessern, Kosten zu senken und das Kundenerlebnis zu verbessern."
+        "zh": "全球医疗保健部门正面临着日益严重的压力，代理AI的引入可能为解决这些挑战提供新的解决方案。通过技术的应用，可以改善患者体验和医疗服务的效率。",
+        "en": "The global health care sector is facing increasing pressure, and the introduction of agentic AI may provide new solutions to these challenges. The application of technology could enhance patient experience and the efficiency of medical services.",
+        "de": "Der globale Gesundheitssektor sieht sich zunehmendem Druck gegenüber, und die Einführung agentischer KI könnte neue Lösungen für diese Herausforderungen bieten. Der Einsatz von Technologie könnte die Patientenerfahrung und die Effizienz medizinischer Dienstleistungen verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-02",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/"
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗无人机袭击科威特主要机场，美国对凯什姆岛的空袭后局势持续紧张。",
-        "en": "Iranian drone hits Kuwait’s main airport after US strikes Qeshm Island: Clashes continue as diplomacy between Washington and Tehran shows little progress.",
-        "de": "Iranische Drohne trifft auf den Hauptflughafen von Kuwait, nachdem die USA Qeshm-Insel angegriffen haben: Die Kämpfe dauern an, während die Diplomatie zwischen Washington und Teheran wenig Fortschritte zeigt."
+        "zh": "以色列在提尔医院附近的空袭使最年轻的患者面临风险：提尔的贾巴尔阿梅尔医院遭到严重损坏，附近建筑物被以色列空袭夷为平地，留下关键医疗设施。",
+        "en": "Israeli strikes near Tyre hospital put youngest patient at risk: Jabal Aamel Hospital in Tyre was heavily damaged after an Israeli strike levelled nearby buildings, leaving key medical facilities.",
+        "de": "Israelische Angriffe in der Nähe des Krankenhauses in Tyre gefährden den jüngsten Patienten: Das Jabal Aamel Krankenhaus in Tyre wurde schwer beschädigt, nachdem ein israelischer Angriff nahegelegene Gebäude zerstört hatte, was wichtige medizinische Einrichtungen hinterließ."
       },
       "summary": {
-        "zh": "随着美国对伊朗的空袭，科威特的主要机场遭到无人机袭击，局势持续紧张，外交努力未能取得进展。",
-        "en": "Following US strikes on Iran, Kuwait's main airport was hit by a drone, escalating tensions as diplomatic efforts show little progress.",
-        "de": "Nach den US-Angriffen auf den Iran wurde der Hauptflughafen von Kuwait von einer Drohne getroffen, was die Spannungen erhöht, während diplomatische Bemühungen wenig Fortschritte zeigen."
+        "zh": "以色列的空袭导致提尔的贾巴尔阿梅尔医院遭到重创，关键医疗设施受到影响，最年轻的患者面临风险。这一事件加剧了该地区的紧张局势。",
+        "en": "Israeli airstrikes have heavily damaged the Jabal Aamel Hospital in Tyre, impacting key medical facilities and putting the youngest patients at risk. This incident escalates tensions in the region.",
+        "de": "Israelische Luftangriffe haben das Jabal Aamel Krankenhaus in Tyre schwer beschädigt, was wichtige medizinische Einrichtungen beeinträchtigt und die jüngsten Patienten gefährdet. Dieser Vorfall eskaliert die Spannungen in der Region."
       },
       "source": "Al Jazeera",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/news/2026/6/3/iranian-drone-hits-kuwaits-main-airport-after-us-strikes-qeshm-island?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乌克兰无人机袭击导致俄罗斯控制区7人遇难，局势升级。",
-        "en": "Ukraine drone attack kills 7 in Russian-held territory in new escalation: The Russian-installed head of Donetsk, Denis Pushilin, says a drone hit a bus travelling between Moscow and Simferopol.",
-        "de": "Ukrainischer Drohnenangriff tötet 7 in von Russland gehaltenem Gebiet in neuer Eskalation: Der von Russland eingesetzte Leiter von Donezk, Denis Pushilin, sagt, eine Drohne habe einen Bus getroffen, der zwischen Moskau und Simferopol unterwegs war."
+        "zh": "在索马里总统统治下，摩加迪沙发生枪击事件：前索马里总理卡伊尔指责政府军在摩加迪沙计划的反政府抗议活动中袭击他。",
+        "en": "Gunfire erupts in Mogadishu before protests against Somali president’s rule: Ex-Somali PM Khaire accuses government forces of attacking him before planned antigovernment protests in Mogadishu.",
+        "de": "Schusswechsel in Mogadischu vor Protesten gegen die Herrschaft des somalischen Präsidenten: Der ehemalige somalische Premierminister Khaire beschuldigt die Regierungstruppen, ihn vor geplanten antigovernmentalen Protesten in Mogadischu angegriffen zu haben."
       },
       "summary": {
-        "zh": "在俄罗斯控制的地区，乌克兰的无人机袭击导致7人遇难，局势再次升级，表明冲突的紧张局势加剧。",
-        "en": "In a Russian-held area, a Ukrainian drone attack resulted in seven deaths, marking a new escalation in the conflict and indicating heightened tensions.",
-        "de": "In einem von Russland kontrollierten Gebiet führte ein ukrainischer Drohnenangriff zu sieben Todesopfern, was eine neue Eskalation des Konflikts markiert und auf erhöhte Spannungen hinweist."
+        "zh": "在摩加迪沙，枪击事件发生在计划的反政府抗议活动之前，前总理卡伊尔指责政府军对他进行攻击。这一事件加剧了索马里的政治紧张局势。",
+        "en": "Gunfire erupted in Mogadishu ahead of planned antigovernment protests, with former PM Khaire accusing government forces of attacking him. This incident heightens the political tensions in Somalia.",
+        "de": "In Mogadischu brach Schusswechsel vor geplanten antigovernmentalen Protesten aus, wobei der ehemalige Premierminister Khaire die Regierungstruppen beschuldigte, ihn angegriffen zu haben. Dieser Vorfall verstärkt die politischen Spannungen in Somalia."
       },
       "source": "Al Jazeera",
       "date": "2026-06-03",
-      "url": "https://www.aljazeera.com/news/2026/6/3/ukraine-drone-attack-kills-7-in-russian-held-territory-in-new-escalation?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普政府放弃18亿美元的“反武器化”基金。",
-        "en": "Trump administration drops $1.8bn 'anti-weaponisation' fund: Acting Attorney General Todd Blanche's announcement to abandon the fund comes amid pushback from top Republican lawmakers.",
-        "de": "Die Trump-Administration gibt den 1,8 Milliarden Dollar schweren 'Anti-Waffenisierungs'-Fonds auf: Die Ankündigung von Generalstaatsanwalt Todd Blanche, den Fonds aufzugeben, erfolgt amid Widerstand von führenden republikanischen Gesetzgebern."
+        "zh": "以色列袭击导致黎巴嫩九人遇难，波及贝鲁特郊区：这些袭击考验了美国调解的协议，以遏制以色列与真主党之间的冲突。",
+        "en": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts: The attacks test a US-mediated deal to curb Israel-Hezbollah attacks, and new Israel-Lebanon talks in Washington.",
+        "de": "Israelische Angriffe töten neun Menschen im Libanon und erreichen die Vororte von Beirut: Die Angriffe testen ein von den USA vermitteltes Abkommen zur Eindämmung der Angriffe zwischen Israel und der Hisbollah sowie neue Gespräche zwischen Israel und dem Libanon in Washington."
       },
       "summary": {
-        "zh": "特朗普政府决定放弃18亿美元的反武器化基金，此举引发了共和党立法者的强烈反对。",
-        "en": "The Trump administration's decision to abandon the $1.8 billion anti-weaponisation fund has sparked strong opposition from Republican lawmakers.",
-        "de": "Die Entscheidung der Trump-Administration, den 1,8 Milliarden Dollar schweren Fonds zur Bekämpfung der Waffenisierung aufzugeben, hat starken Widerstand von republikanischen Gesetzgebern ausgelöst."
+        "zh": "以色列的袭击导致黎巴嫩九人遇难，并波及贝鲁特郊区，这一事件考验了美国调解的协议，旨在遏制以色列与真主党之间的冲突。",
+        "en": "Israeli attacks have resulted in nine deaths in Lebanon, reaching the outskirts of Beirut, testing a US-mediated agreement aimed at curbing Israel-Hezbollah conflicts.",
+        "de": "Israelische Angriffe haben neun Todesopfer im Libanon gefordert und die Vororte von Beirut erreicht, was ein von den USA vermitteltes Abkommen zur Eindämmung der Konflikte zwischen Israel und der Hisbollah auf die Probe stellt."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-06-03",
-      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国对60个经济体提出新关税，因强迫劳动贸易行为。",
-        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices: USTR has proposed a 10% duty rate for economies that have adopted a full or partial prohibition on forced labor trade, and 12.5% for all other economies.",
-        "de": "Die USA schlagen frische Zölle auf 60 Volkswirtschaften wegen Praktiken des Handels mit Zwangsarbeit vor: USTR hat einen Zollsatz von 10 % für Volkswirtschaften vorgeschlagen, die ein vollständiges oder teilweises Verbot des Handels mit Zwangsarbeit angenommen haben, und 12,5 % für alle anderen Volkswirtschaften."
+        "zh": "私人工资在5月份增长了122,000，超出预期，ADP报告称：与之前几个月集中在医疗保健和其他几个行业的就业增长不同，增长更加广泛。",
+        "en": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports: Unlike prior months, where job growth was concentrated in healthcare and a few other sectors, gains were more broad-based.",
+        "de": "Die privaten Löhne stiegen im Mai um 122.000, stärker als erwartet, berichtet ADP: Im Gegensatz zu den Vormonaten, in denen das Beschäftigungswachstum auf das Gesundheitswesen und einige andere Sektoren konzentriert war, waren die Zuwächse breiter gefächert."
       },
       "summary": {
-        "zh": "美国贸易代表提议对60个经济体征收新关税，以应对强迫劳动贸易行为，这可能会影响国际贸易关系。",
-        "en": "The U.S. Trade Representative has proposed new tariffs on 60 economies to address forced labor trade practices, which could impact international trade relations.",
-        "de": "Der US-Handelsbeauftragte hat neue Zölle auf 60 Volkswirtschaften vorgeschlagen, um Praktiken des Handels mit Zwangsarbeit zu bekämpfen, was die internationalen Handelsbeziehungen beeinflussen könnte."
+        "zh": "ADP报告显示，5月份私人工资增长了122,000，超出预期。与之前几个月的趋势不同，增长在多个行业中更加广泛。",
+        "en": "ADP reports that private payrolls grew by 122,000 in May, exceeding expectations. Unlike previous months, the growth was broader across multiple sectors.",
+        "de": "ADP berichtet, dass die privaten Löhne im Mai um 122.000 gestiegen sind, was die Erwartungen übertroffen hat. Im Gegensatz zu den Vormonaten war das Wachstum breiter über mehrere Sektoren verteilt."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-06-03",
-      "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html"
+      "url": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "4月份职位空缺激增至760万，为近两年来最高。",
-        "en": "Job openings in April surged to 7.6 million, the highest in nearly two years: The Bureau of Labor Statistics reported that available employment hit 7.6 million for the month, a surge of 731,000 from the prior month.",
-        "de": "Die Stellenangebote im April stiegen auf 7,6 Millionen, den höchsten Stand seit fast zwei Jahren: Das Bureau of Labor Statistics berichtete, dass die verfügbaren Arbeitsplätze im Monat 7,6 Millionen erreichten, ein Anstieg von 731.000 gegenüber dem Vormonat."
+        "zh": "美国对60个经济体提出新的关税，因强迫劳动贸易行为：USTR提议对已实施部分或全部禁止强迫劳动贸易的经济体征收10%的关税，对所有其他经济体征收12.5%的关税。",
+        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices: USTR has proposed a 10% duty rate for economies that have adopted a full or partial prohibition on forced labor trade, and 12.5% for all other economies.",
+        "de": "Die USA schlagen frische Zölle auf 60 Volkswirtschaften wegen Praktiken des Zwangsarbeitshandels vor: USTR hat einen Zollsatz von 10 % für Volkswirtschaften vorgeschlagen, die ein vollständiges oder teilweises Verbot des Zwangsarbeitshandels eingeführt haben, und 12,5 % für alle anderen Volkswirtschaften."
       },
       "summary": {
-        "zh": "美国4月份的职位空缺激增至760万，显示出劳动市场的强劲复苏，可能会影响未来的经济政策。",
-        "en": "Job openings in the U.S. surged to 7.6 million in April, indicating a strong recovery in the labor market that may influence future economic policies.",
-        "de": "Die Stellenangebote in den USA stiegen im April auf 7,6 Millionen und zeigen eine starke Erholung des Arbeitsmarktes, die zukünftige Wirtschaftspolitiken beeinflussen könnte."
+        "zh": "美国政府提出对60个经济体征收新的关税，理由是强迫劳动贸易行为。此举旨在加强对人权的保护，并可能影响国际贸易关系。",
+        "en": "The U.S. government has proposed new tariffs on 60 economies due to forced labor trade practices. This move aims to strengthen human rights protections and may impact international trade relations.",
+        "de": "Die US-Regierung hat neue Zölle auf 60 Volkswirtschaften wegen Praktiken des Zwangsarbeitshandels vorgeschlagen. Dieser Schritt zielt darauf ab, den Schutz der Menschenrechte zu stärken und könnte die internationalen Handelsbeziehungen beeinflussen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-06-02",
-      "url": "https://www.cnbc.com/2026/06/02/job-openings-april-2026.html"
+      "source": "CNBC",
+      "date": "2026-06-03",
+      "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "标普500指数连续第9天上涨，但“广度悖论”发出罕见警告。",
-        "en": "The S&P 500 climbs for a 9th straight day — but the ‘breadth paradox’ is sending a rare warning: The S&P 500’s latest string of records has come with a catch: Fewer stocks are participating in the rally.",
-        "de": "Der S&P 500 steigt zum 9. Mal in Folge — aber das 'Breiteneparadox' sendet eine seltene Warnung: Die jüngste Reihe von Rekorden des S&P 500 hat einen Haken: Weniger Aktien nehmen an der Rally teil."
+        "zh": "美国与伊朗的攻击加剧，停火协议破裂，和平谈判停滞：伊朗的IRGC据报道否认对科威特机场袭击负责，这是对已经削弱的停火协议的最新打击。",
+        "en": "U.S., Iran intensify attacks as ceasefire frays, peace talks stall: Iran's IRGC reportedly denied responsibility for the Kuwait airport attack, the latest blow to an already weakened ceasefire agreement.",
+        "de": "USA und Iran intensivieren Angriffe, während der Waffenstillstand bröckelt und Friedensgespräche ins Stocken geraten: Irans IRGC hat Berichten zufolge die Verantwortung für den Angriff auf den Flughafen Kuwait bestritten, was einen weiteren Schlag gegen ein bereits geschwächtes Waffenstillstandsabkommen darstellt."
       },
       "summary": {
-        "zh": "尽管标普500指数连续第9天创下新高，但参与上涨的股票数量减少，发出市场潜在不稳定的警告。",
-        "en": "Despite the S&P 500 reaching new highs for the ninth consecutive day, the number of stocks participating in the rally has decreased, signaling potential instability in the market.",
-        "de": "Trotz des S&P 500, der zum neunten Mal in Folge neue Höchststände erreicht, hat die Anzahl der Aktien, die an der Rally teilnehmen, abgenommen, was auf eine potenzielle Instabilität des Marktes hinweist."
+        "zh": "美国与伊朗之间的攻击加剧，停火协议面临崩溃，和平谈判陷入僵局。伊朗的IRGC否认对科威特机场袭击的责任，这使局势更加复杂。",
+        "en": "Attacks between the U.S. and Iran are intensifying, with the ceasefire agreement on the verge of collapse and peace talks stalled. Iran's IRGC denies responsibility for the Kuwait airport attack, complicating the situation further.",
+        "de": "Die Angriffe zwischen den USA und dem Iran intensivieren sich, während das Waffenstillstandsabkommen kurz vor dem Zusammenbruch steht und die Friedensgespräche ins Stocken geraten. Irans IRGC bestreitet die Verantwortung für den Angriff auf den Flughafen Kuwait, was die Situation weiter kompliziert."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC",
       "date": "2026-06-03",
-      "url": "https://www.marketwatch.com/story/s-p-500-climbing-for-9th-straight-day-but-breadth-sends-a-rare-warning-1577195d?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/06/03/us-iran-war-escalates-peace-talks-stalemate-.html"
     }
   ]
 }
