@@ -1,133 +1,133 @@
 {
-  "generatedAt": "2026-06-04T08:39:22.977680+00:00",
+  "generatedAt": "2026-06-04T18:33:09.324360+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "虚拟电厂如何为数据中心提供能源：如果你能获得报酬来减少电力使用，你会接受吗？如果这样做是为了帮助为当地数据中心供电，这会改变什么吗？",
-        "en": "How virtual power plants could provide energy for data centers: Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center?",
-        "de": "Wie virtuelle Kraftwerke Energie für Rechenzentren bereitstellen könnten: Würden Sie eine Zahlung annehmen, um Ihren Stromverbrauch zu reduzieren? Würde es etwas ändern, wenn Sie dies tun würden, um ein lokales Rechenzentrum mit Strom zu versorgen?"
+        "zh": "法庭如何应对AI生成的诉讼潮",
+        "en": "How courts are coping with a flood of AI-generated lawsuits",
+        "de": "Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen"
       },
       "summary": {
-        "zh": "虚拟电厂的概念正在兴起，可能为数据中心提供可持续的能源解决方案。通过减少电力使用，用户可以获得报酬，同时帮助缓解能源需求。",
-        "en": "The concept of virtual power plants is emerging as a potential sustainable energy solution for data centers. By reducing electricity usage, users can receive payments while helping to alleviate energy demand.",
-        "de": "Das Konzept der virtuellen Kraftwerke entwickelt sich zu einer potenziellen nachhaltigen Energiequelle für Rechenzentren. Durch die Reduzierung des Stromverbrauchs können Nutzer Zahlungen erhalten und gleichzeitig zur Entlastung der Energienachfrage beitragen."
+        "zh": "科罗拉多州的联邦法官Maritza Braswell每天都要处理大量由没有法律背景的人撰写的文件，这些文件大多是AI生成的。法庭面临着前所未有的挑战。",
+        "en": "Federal magistrate judge Maritza Braswell in Colorado sifts through stacks of documents written by individuals without legal backgrounds, most of which are AI-generated. The courts are facing unprecedented challenges.",
+        "de": "Die Bundesrichterin Maritza Braswell in Colorado durchforstet Stapel von Dokumenten, die von Personen ohne juristische Ausbildung verfasst wurden, von denen die meisten KI-generiert sind. Die Gerichte stehen vor beispiellosen Herausforderungen."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-06-04",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "虚拟电厂如何为数据中心提供能源",
+        "en": "How virtual power plants could provide energy for data centers",
+        "de": "Wie virtuelle Kraftwerke Energie für Rechenzentren bereitstellen könnten"
+      },
+      "summary": {
+        "zh": "虚拟电厂的概念正在兴起，它们可以通过减少电力使用来为数据中心提供支持。谷歌等公司正在探索这一创新的能源解决方案。",
+        "en": "The concept of virtual power plants is emerging, allowing them to support data centers by reducing electricity usage. Companies like Google are exploring this innovative energy solution.",
+        "de": "Das Konzept der virtuellen Kraftwerke gewinnt an Bedeutung, da sie Rechenzentren unterstützen können, indem sie den Stromverbrauch reduzieren. Unternehmen wie Google erkunden diese innovative Energielösung."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-03",
       "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "下载：特朗普的新AI命令，以及用于战争的智能眼镜：这是今天的下载，我们的工作日通讯，提供有关科技界发生的事情的每日信息。",
-        "en": "The Download: Trump’s new AI order, and smart glasses for warfare: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: Trumps neuer KI-Befehl und smarte Brillen für den Krieg: Dies ist die heutige Ausgabe des Downloads, unseres Wochentags-Newsletters, der täglich Informationen über das Geschehen in der Technologiewelt bietet."
-      },
-      "summary": {
-        "zh": "特朗普发布的新AI命令可能会影响科技行业的发展方向。同时，智能眼镜的军事应用也在不断扩展，显示出技术在战争中的潜在用途。",
-        "en": "Trump's new AI order may influence the direction of the tech industry. Meanwhile, the military applications of smart glasses are expanding, showcasing the potential uses of technology in warfare.",
-        "de": "Trumps neuer KI-Befehl könnte die Richtung der Technologiebranche beeinflussen. Inzwischen erweitern sich die militärischen Anwendungen von smarten Brillen und zeigen die potenziellen Einsatzmöglichkeiten von Technologie im Krieg."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-06-03",
-      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "重新人性化全球医疗保健与代理AI：全球医疗保健部门面临着越来越大的压力。几十年的长期投资不足和招聘限制与之相伴。",
-        "en": "Rehumanizing global health care with agentic AI: The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with",
-        "de": "Die Rehumanisierung der globalen Gesundheitsversorgung mit agentischer KI: Der globale Gesundheitssektor steht unter zunehmendem Druck. Jahrzehntelange chronische Unterinvestitionen und Rekrutierungsbeschränkungen sind damit verbunden."
+        "zh": "数百万AI代理因开源软件包中的关键漏洞而受到威胁",
+        "en": "Millions of AI agents imperiled by critical vulnerability in open source package",
+        "de": "Millionen von KI-Agenten durch kritische Schwachstelle in Open-Source-Paket gefährdet"
       },
       "summary": {
-        "zh": "全球医疗保健部门正面临着前所未有的压力，代理AI的引入可能为解决这些问题提供新的思路。通过技术的应用，医疗服务的可及性和效率有望得到改善。",
-        "en": "The global health care sector is facing unprecedented pressure, and the introduction of agentic AI may offer new solutions to these challenges. The application of technology holds promise for improving accessibility and efficiency in healthcare services.",
-        "de": "Der globale Gesundheitssektor sieht sich ohne Beispiel steigendem Druck gegenüber, und die Einführung agentischer KI könnte neue Lösungen für diese Herausforderungen bieten. Der Einsatz von Technologie verspricht, die Zugänglichkeit und Effizienz im Gesundheitswesen zu verbessern."
+        "zh": "在Starlette这一每周下载量达3.25亿的开源软件包中发现了“BadHost”漏洞，数百万AI代理因此面临安全风险。",
+        "en": "A critical vulnerability known as 'BadHost' was found in Starlette, an open-source package with 325 million weekly downloads, putting millions of AI agents at risk.",
+        "de": "Eine kritische Schwachstelle namens 'BadHost' wurde im Open-Source-Paket Starlette gefunden, das wöchentlich 325 Millionen Downloads verzeichnet, was Millionen von KI-Agenten gefährdet."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-06-02",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/"
+      "source": "Ars Technica – AI",
+      "date": "2026-05-26",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列和黎巴嫩同意有条件停火：通过美国调解的华盛顿谈判达成协议，未包括真主党。",
-        "en": "Israel and Lebanon agree to conditional ceasefire: Deal is made through US-brokered talks in Washington, DC, that did not include Hezbollah.",
-        "de": "Israel und Libanon einigen sich auf einen bedingten Waffenstillstand: Das Abkommen wurde durch von den USA vermittelte Gespräche in Washington, DC, erzielt, an denen die Hisbollah nicht beteiligt war."
+        "zh": "特朗普官员转变为敌人约翰·博尔顿在文件案中接受认罪协议",
+        "en": "Trump official-turned-foe John Bolton accepts plea deal in documents case",
+        "de": "Der ehemalige Trump-Beamte und Gegner John Bolton akzeptiert einen Vergleich im Dokumentenfall"
       },
       "summary": {
-        "zh": "以色列和黎巴嫩在美国的调解下达成了有条件的停火协议。这一协议未包括真主党，显示出地区局势的复杂性。",
-        "en": "Israel and Lebanon have reached a conditional ceasefire agreement mediated by the US. This deal does not include Hezbollah, highlighting the complexities of the regional situation.",
-        "de": "Israel und Libanon haben ein bedingtes Waffenstillstandsabkommen unter US-Vermittlung erreicht. Dieses Abkommen schließt die Hisbollah nicht ein und hebt die Komplexität der regionalen Situation hervor."
+        "zh": "尽管曾担任特朗普的国家安全顾问，约翰·博尔顿现已成为总统的主要批评者，并在文件案中接受了认罪协议。",
+        "en": "Despite serving as Trump's national security adviser, John Bolton has emerged as a top critic of the president and has accepted a plea deal in the documents case.",
+        "de": "Obwohl er als nationaler Sicherheitsberater von Trump diente, ist John Bolton zu einem der Hauptkritiker des Präsidenten geworden und hat im Dokumentenfall einen Vergleich akzeptiert."
       },
       "source": "Al Jazeera",
       "date": "2026-06-04",
-      "url": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/4/trump-official-turned-foe-john-bolton-accepts-plea-deal-in-documents-case?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国众议院对特朗普投下反对票，投票停止对伊朗的战争：在215-208的投票中，四名共和党人加入民主党人通过了这一象征性措施。",
-        "en": "US House delivers rebuke to Trump as it votes to halt Iran war: In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
-        "de": "Das US-Repräsentantenhaus erteilt Trump eine Abfuhr, als es für die Beendigung des Iran-Kriegs stimmt: In der Abstimmung mit 215 zu 208 stimmten vier Republikaner mit den Demokraten für den weitgehend symbolischen Beschluss."
+        "zh": "以色列最高法院裁定必须允许国际红十字会探访监狱中的巴勒斯坦人",
+        "en": "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules",
+        "de": "Israel muss dem IKRK erlauben, Palästinenser in Gefängnissen zu besuchen, entscheidet der Oberste Gerichtshof"
       },
       "summary": {
-        "zh": "美国众议院以215票对208票通过了一项停止对伊朗战争的提案，四名共和党人支持民主党人的立场。这一投票主要是象征性的，反映了对特朗普政策的不满。",
-        "en": "The US House passed a proposal to halt the war in Iran with a vote of 215 to 208, with four Republicans supporting the Democrats' stance. This vote is largely symbolic, reflecting dissatisfaction with Trump's policies.",
-        "de": "Das US-Repräsentantenhaus verabschiedete mit 215 zu 208 Stimmen einen Vorschlag zur Beendigung des Krieges im Iran, wobei vier Republikaner die Position der Demokraten unterstützten. Diese Abstimmung ist weitgehend symbolisch und spiegelt die Unzufriedenheit mit Trumps Politik wider."
+        "zh": "以色列最高法院驳回了政府对囚犯探访的禁令，确认根据国际法红十字会的探访权利。",
+        "en": "Israel's Supreme Court rejected the government's ban on prisoner visits, affirming the Red Cross's right to access under international law.",
+        "de": "Der Oberste Gerichtshof Israels wies das Verbot der Regierung für Gefangenbesuche zurück und bestätigte das Zugangsrecht des Roten Kreuzes nach internationalem Recht."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-06-04",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰无人机袭击圣彼得堡，普京的旗舰经济论坛开幕：几架远程无人机袭击了靠近该市的油库，几天后，弗拉基米尔·普京将发表讲话。",
-        "en": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens: Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
-        "de": "Ukrainische Drohnen greifen St. Petersburg an, während Putins wichtigstes Wirtschaftsforum eröffnet: Mehrere Langstreckendrohnen haben Öllagerstätten in der Nähe der Stadt getroffen, Tage bevor Wladimir Putin die Veranstaltung ansprechen soll."
+        "zh": "特朗普抨击投票限制伊朗战争的共和党人",
+        "en": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
+        "de": "‘Unpatriotisch’: Trump kritisiert Republikaner, die für eine Einschränkung des Iran-Kriegs gestimmt haben"
       },
       "summary": {
-        "zh": "在普京的旗舰经济论坛开幕之际，乌克兰无人机袭击了圣彼得堡的油库。这一事件突显了乌克兰与俄罗斯之间的紧张局势。",
-        "en": "As Putin's flagship economic forum opens, Ukrainian drones have struck oil storage facilities in St. Petersburg. This incident underscores the escalating tensions between Ukraine and Russia.",
-        "de": "Während Putins wichtigstes Wirtschaftsforum eröffnet, haben ukrainische Drohnen Öllagerstätten in St. Petersburg angegriffen. Dieses Ereignis unterstreicht die eskalierenden Spannungen zwischen der Ukraine und Russland."
+        "zh": "特朗普对国会众议院通过限制对伊朗军事行动的决议的共和党人表示愤怒，称其为“不爱国”。",
+        "en": "Trump expressed anger towards Republicans who voted for a resolution in the House to limit military action against Iran, calling them 'unpatriotic.'",
+        "de": "Trump äußerte seinen Unmut über Republikaner, die für eine Resolution im Repräsentantenhaus stimmten, um militärische Maßnahmen gegen den Iran einzuschränken, und nannte sie 'unpatriotisch'."
       },
-      "source": "BBC News – World",
-      "date": "2026-06-03",
-      "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-06-04",
+      "url": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国5月私人就业人数增长12.2万，强于预期，ADP报告：与前几个月不同，工作增长分布更为广泛。",
-        "en": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports: Unlike prior months, where job growth was concentrated in healthcare and a few other sectors, gains were more broad-based.",
-        "de": "Die privaten Löhne stiegen im Mai um 122.000, stärker als erwartet, berichtet ADP: Im Gegensatz zu den Vormonaten, in denen das Beschäftigungswachstum auf das Gesundheitswesen und einige andere Sektoren konzentriert war, waren die Zuwächse breiter gefächert."
+        "zh": "美国长期失业人数激增，工人和经济面临隐性成本",
+        "en": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy",
+        "de": "Langzeitarbeitslosigkeit in den USA steigt stark an. Es gibt versteckte Kosten für Arbeitnehmer und die Wirtschaft"
       },
       "summary": {
-        "zh": "根据ADP的报告，5月份美国私人就业人数增长了12.2万，超出预期。这一增长比以往几个月更为广泛，显示出经济复苏的迹象。",
-        "en": "According to ADP, private payrolls in the US grew by 122,000 in May, exceeding expectations. This growth is more widespread than in previous months, indicating signs of economic recovery.",
-        "de": "Laut ADP stiegen die privaten Löhne in den USA im Mai um 122.000, was die Erwartungen übertraf. Dieses Wachstum ist breiter gefächert als in den Vormonaten und deutet auf Anzeichen einer wirtschaftlichen Erholung hin."
+        "zh": "美国的长期失业人数正在激增，这对工人和经济造成了持续的财务、情感和家庭健康影响，即使在重新进入劳动力市场后也会持续。",
+        "en": "Long-term unemployment is surging in the U.S., leading to lasting financial, emotional, and family health impacts on workers that persist even after reentering the workforce.",
+        "de": "Die Langzeitarbeitslosigkeit in den USA steigt stark an, was zu anhaltenden finanziellen, emotionalen und familiären Gesundheitsauswirkungen auf die Arbeitnehmer führt, die auch nach der Rückkehr in den Arbeitsmarkt bestehen bleiben."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-03",
-      "url": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html"
+      "date": "2026-06-04",
+      "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国提议对60个经济体征收新关税，因强迫劳动贸易行为：USTR提议对已完全或部分禁止强迫劳动贸易的经济体征收10%的关税，对所有其他经济体征收12.5%的关税。",
-        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices: USTR has proposed a 10% duty rate for economies that have adopted a full or partial prohibition on forced labor trade, and 12.5% for all other economies.",
-        "de": "Die USA schlagen frische Zölle auf 60 Volkswirtschaften wegen Praktiken des Handels mit Zwangsarbeit vor: USTR hat einen Zollsatz von 10 % für Volkswirtschaften vorgeschlagen, die ein vollständiges oder teilweises Verbot des Handels mit Zwangsarbeit angenommen haben, und 12,5 % für alle anderen Volkswirtschaften."
+        "zh": "美国提议对60个经济体施加新的关税以应对强迫劳动贸易行为",
+        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
+        "de": "Die USA schlagen neue Zölle auf 60 Volkswirtschaften wegen Zwangsarbeitspraktiken vor"
       },
       "summary": {
-        "zh": "美国政府提议对60个经济体实施新关税，以应对强迫劳动贸易行为。这一措施旨在促进全球贸易的公平性。",
-        "en": "The US government has proposed new tariffs on 60 economies to address forced labor trade practices. This measure aims to promote fairness in global trade.",
-        "de": "Die US-Regierung hat neue Zölle auf 60 Volkswirtschaften vorgeschlagen, um Praktiken des Handels mit Zwangsarbeit zu bekämpfen. Diese Maßnahme soll die Fairness im globalen Handel fördern."
+        "zh": "美国贸易代表提出对60个经济体征收10%的关税，以应对强迫劳动贸易行为，其他经济体则面临12.5%的关税。",
+        "en": "The U.S. Trade Representative has proposed a 10% tariff on 60 economies over forced labor trade practices, with a 12.5% tariff for other economies.",
+        "de": "Der Handelsbeauftragte der USA hat einen 10%igen Zoll auf 60 Volkswirtschaften wegen Zwangsarbeitspraktiken vorgeschlagen, während andere Volkswirtschaften mit einem Zoll von 12,5% konfrontiert werden."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-04",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国、伊朗攻击加剧，停火破裂，和平谈判停滞：伊朗的IRGC据报否认对科威特机场袭击负责，这是对已经削弱的停火协议的最新打击。",
-        "en": "U.S., Iran intensify attacks as ceasefire frays, peace talks stall: Iran's IRGC reportedly denied responsibility for the Kuwait airport attack, the latest blow to an already weakened ceasefire agreement.",
-        "de": "USA und Iran intensivieren Angriffe, während der Waffenstillstand bröckelt und die Friedensgespräche ins Stocken geraten: Irans IRGC hat Berichten zufolge die Verantwortung für den Angriff auf den Flughafen Kuwait bestritten, was einen weiteren Schlag gegen das bereits geschwächte Waffenstillstandsabkommen darstellt."
+        "zh": "美国家庭因伊朗战争支付的能源费用平均增加450美元",
+        "en": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
+        "de": "Kosten des Iran-Kriegs: Durchschnittliche US-Haushalte zahlen 450 USD mehr für Gas und Energie"
       },
       "summary": {
-        "zh": "美国和伊朗之间的攻击正在加剧，停火协议面临崩溃，和平谈判陷入僵局。伊朗革命卫队否认对科威特机场袭击的责任，这进一步加剧了局势的紧张。",
-        "en": "Attacks between the US and Iran are intensifying, with the ceasefire agreement on the brink of collapse and peace talks stalled. Iran's IRGC denies responsibility for the Kuwait airport attack, further escalating tensions.",
-        "de": "Die Angriffe zwischen den USA und dem Iran intensivieren sich, während das Waffenstillstandsabkommen am Rande des Zusammenbruchs steht und die Friedensgespräche ins Stocken geraten. Irans IRGC bestreitet die Verantwortung für den Angriff auf den Flughafen Kuwait und eskaliert damit die Spannungen weiter."
+        "zh": "由于能源成本上升，美国家庭在气体和能源上的支出平均增加了450美元，这迫使消费者动用储蓄并更多依赖债务来支付开支。",
+        "en": "Due to rising energy costs, the average U.S. household is paying $450 more for gas and energy, forcing consumers to tap into savings and rely more on debt to cover expenses.",
+        "de": "Aufgrund steigender Energiekosten zahlt der durchschnittliche US-Haushalt 450 USD mehr für Gas und Energie, was die Verbraucher zwingt, auf Ersparnisse zurückzugreifen und mehr Schulden zur Deckung der Ausgaben zu machen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-03",
-      "url": "https://www.cnbc.com/2026/06/03/us-iran-war-escalates-peace-talks-stalemate-.html"
+      "date": "2026-05-29",
+      "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html"
     }
   ]
 }
