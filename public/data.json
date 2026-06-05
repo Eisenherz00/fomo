@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-04T18:33:09.324360+00:00",
+  "generatedAt": "2026-06-05T08:30:30.007040+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "法庭如何应对AI生成的诉讼潮",
+        "zh": "法庭如何应对大量AI生成的诉讼",
         "en": "How courts are coping with a flood of AI-generated lawsuits",
         "de": "Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen"
       },
       "summary": {
-        "zh": "科罗拉多州的联邦法官Maritza Braswell每天都要处理大量由没有法律背景的人撰写的文件，这些文件大多是AI生成的。法庭面临着前所未有的挑战。",
-        "en": "Federal magistrate judge Maritza Braswell in Colorado sifts through stacks of documents written by individuals without legal backgrounds, most of which are AI-generated. The courts are facing unprecedented challenges.",
-        "de": "Die Bundesrichterin Maritza Braswell in Colorado durchforstet Stapel von Dokumenten, die von Personen ohne juristische Ausbildung verfasst wurden, von denen die meisten KI-generiert sind. Die Gerichte stehen vor beispiellosen Herausforderungen."
+        "zh": "科罗拉多州的联邦法官Maritza Braswell每天都在处理大量由没有法律背景的人撰写的文件，这些文件大多数是由AI生成的。法庭面临着如何有效管理这些诉讼的挑战。",
+        "en": "Federal magistrate judge Maritza Braswell in Colorado sifts through stacks of documents daily, most of which are AI-generated and written by individuals without legal backgrounds. Courts are facing challenges in effectively managing these lawsuits.",
+        "de": "Die Bundesrichterin Maritza Braswell in Colorado durchforstet täglich Stapel von Dokumenten, von denen die meisten KI-generiert und von Personen ohne juristischen Hintergrund verfasst sind. Die Gerichte stehen vor der Herausforderung, diese Klagen effektiv zu verwalten."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-04",
@@ -25,9 +25,9 @@
         "de": "Wie virtuelle Kraftwerke Energie für Rechenzentren bereitstellen könnten"
       },
       "summary": {
-        "zh": "虚拟电厂的概念正在兴起，它们可以通过减少电力使用来为数据中心提供支持。谷歌等公司正在探索这一创新的能源解决方案。",
-        "en": "The concept of virtual power plants is emerging, allowing them to support data centers by reducing electricity usage. Companies like Google are exploring this innovative energy solution.",
-        "de": "Das Konzept der virtuellen Kraftwerke gewinnt an Bedeutung, da sie Rechenzentren unterstützen können, indem sie den Stromverbrauch reduzieren. Unternehmen wie Google erkunden diese innovative Energielösung."
+        "zh": "虚拟电厂的概念正在兴起，允许用户通过减少电力使用来为本地数据中心提供能源。这种模式可能会改变能源消费的方式。",
+        "en": "The concept of virtual power plants is emerging, allowing users to provide energy for local data centers by reducing their electricity usage. This model could change the way energy consumption is approached.",
+        "de": "Das Konzept der virtuellen Kraftwerke gewinnt an Bedeutung, da es Benutzern ermöglicht, Energie für lokale Rechenzentren bereitzustellen, indem sie ihren Stromverbrauch reduzieren. Dieses Modell könnte die Art und Weise, wie Energieverbrauch angegangen wird, verändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-03",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "数百万AI代理因开源软件包中的关键漏洞而受到威胁",
-        "en": "Millions of AI agents imperiled by critical vulnerability in open source package",
-        "de": "Millionen von KI-Agenten durch kritische Schwachstelle in Open-Source-Paket gefährdet"
+        "zh": "Dashlane解释攻击者如何下载加密密码库",
+        "en": "Dashlane explains how attackers managed to download encrypted password vaults",
+        "de": "Dashlane erklärt, wie Angreifer es geschafft haben, verschlüsselte Passworttresore herunterzuladen"
       },
       "summary": {
-        "zh": "在Starlette这一每周下载量达3.25亿的开源软件包中发现了“BadHost”漏洞，数百万AI代理因此面临安全风险。",
-        "en": "A critical vulnerability known as 'BadHost' was found in Starlette, an open-source package with 325 million weekly downloads, putting millions of AI agents at risk.",
-        "de": "Eine kritische Schwachstelle namens 'BadHost' wurde im Open-Source-Paket Starlette gefunden, das wöchentlich 325 Millionen Downloads verzeichnet, was Millionen von KI-Agenten gefährdet."
+        "zh": "Dashlane揭示了攻击者通过针对大量用户来增加成功机会的策略，导致加密密码库的下载。安全性问题引发了广泛关注。",
+        "en": "Dashlane reveals that attackers increased their chances of success by targeting large numbers of users, leading to the download of encrypted password vaults. This security issue has raised widespread concern.",
+        "de": "Dashlane offenbart, dass Angreifer ihre Erfolgschancen erhöhten, indem sie eine große Anzahl von Benutzern ins Visier nahmen, was zum Herunterladen von verschlüsselten Passworttresoren führte. Dieses Sicherheitsproblem hat weitreichende Besorgnis ausgelöst."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-05-26",
-      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
+      "source": "Ars Technica",
+      "date": "2026-06-04",
+      "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普官员转变为敌人约翰·博尔顿在文件案中接受认罪协议",
-        "en": "Trump official-turned-foe John Bolton accepts plea deal in documents case",
-        "de": "Der ehemalige Trump-Beamte und Gegner John Bolton akzeptiert einen Vergleich im Dokumentenfall"
+        "zh": "联合国特使呼吁特朗普停止以色列吞并",
+        "en": "UN envoys call on Trump to stop Israeli annexation",
+        "de": "UN-Vertreter fordern Trump auf, die israelische Annexion zu stoppen"
       },
       "summary": {
-        "zh": "尽管曾担任特朗普的国家安全顾问，约翰·博尔顿现已成为总统的主要批评者，并在文件案中接受了认罪协议。",
-        "en": "Despite serving as Trump's national security adviser, John Bolton has emerged as a top critic of the president and has accepted a plea deal in the documents case.",
-        "de": "Obwohl er als nationaler Sicherheitsberater von Trump diente, ist John Bolton zu einem der Hauptkritiker des Präsidenten geworden und hat im Dokumentenfall einen Vergleich akzeptiert."
+        "zh": "联合国特使呼吁特朗普政府采取行动，阻止以色列的吞并计划。此举引发了国际社会的关注和讨论。",
+        "en": "UN envoys are urging the Trump administration to take action to halt Israel's annexation plans. This move has drawn attention and discussion from the international community.",
+        "de": "UN-Vertreter fordern die Trump-Administration auf, Maßnahmen zu ergreifen, um die Annexion Israels zu stoppen. Dieser Schritt hat die Aufmerksamkeit und Diskussion der internationalen Gemeinschaft auf sich gezogen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-04",
-      "url": "https://www.aljazeera.com/news/2026/6/4/trump-official-turned-foe-john-bolton-accepts-plea-deal-in-documents-case?traffic_source=rss"
+      "date": "2026-06-05",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/un-envoys-call-on-trump-to-stop-israeli-annexation?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列最高法院裁定必须允许国际红十字会探访监狱中的巴勒斯坦人",
-        "en": "Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules",
-        "de": "Israel muss dem IKRK erlauben, Palästinenser in Gefängnissen zu besuchen, entscheidet der Oberste Gerichtshof"
+        "zh": "习近平前往朝鲜以巩固关系",
+        "en": "China’s Xi headed to North Korea in bid to shore up ties",
+        "de": "Chinas Xi reist nach Nordkorea, um die Beziehungen zu festigen"
       },
       "summary": {
-        "zh": "以色列最高法院驳回了政府对囚犯探访的禁令，确认根据国际法红十字会的探访权利。",
-        "en": "Israel's Supreme Court rejected the government's ban on prisoner visits, affirming the Red Cross's right to access under international law.",
-        "de": "Der Oberste Gerichtshof Israels wies das Verbot der Regierung für Gefangenbesuche zurück und bestätigte das Zugangsrecht des Roten Kreuzes nach internationalem Recht."
+        "zh": "习近平将于6月8日至9日访问朝鲜，这是他七年来首次访问，旨在加强与平壤的关系，同时应对与俄罗斯的关系日益紧密。",
+        "en": "Xi Jinping is set to visit North Korea from June 8-9, marking his first visit in seven years, aimed at strengthening ties with Pyongyang while addressing increasingly close relations with Russia.",
+        "de": "Xi Jinping wird vom 8. bis 9. Juni Nordkorea besuchen, was seinen ersten Besuch seit sieben Jahren markiert, um die Beziehungen zu Pjöngjang zu stärken und gleichzeitig den zunehmend engen Kontakt zu Russland zu berücksichtigen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-04",
-      "url": "https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss"
+      "date": "2026-06-05",
+      "url": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普抨击投票限制伊朗战争的共和党人",
-        "en": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
-        "de": "‘Unpatriotisch’: Trump kritisiert Republikaner, die für eine Einschränkung des Iran-Kriegs gestimmt haben"
+        "zh": "泽连斯基在公开信中提议与普京面对面会谈",
+        "en": "Zelensky proposes face-to-face talks in open letter to Putin",
+        "de": "Selensky schlägt in offenem Brief an Putin persönliche Gespräche vor"
       },
       "summary": {
-        "zh": "特朗普对国会众议院通过限制对伊朗军事行动的决议的共和党人表示愤怒，称其为“不爱国”。",
-        "en": "Trump expressed anger towards Republicans who voted for a resolution in the House to limit military action against Iran, calling them 'unpatriotic.'",
-        "de": "Trump äußerte seinen Unmut über Republikaner, die für eine Resolution im Repräsentantenhaus stimmten, um militärische Maßnahmen gegen den Iran einzuschränken, und nannte sie 'unpatriotisch'."
+        "zh": "乌克兰总统泽连斯基在给普京的公开信中表示，只有两国之间的直接接触才能结束战争。美国则将注意力集中在伊朗问题上。",
+        "en": "Ukrainian President Zelensky stated in an open letter to Putin that only direct engagement between the two countries could end the war, while the U.S. focuses on the issue of Iran.",
+        "de": "Der ukrainische Präsident Selensky erklärte in einem offenen Brief an Putin, dass nur ein direkter Kontakt zwischen den beiden Ländern den Krieg beenden könnte, während sich die USA auf das Thema Iran konzentrieren."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-04",
-      "url": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss"
+      "source": "BBC News",
+      "date": "2026-06-05",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
+        "zh": "5月就业报告将于周五发布。以下是预期：",
+        "en": "The May jobs report will be released Friday. Here's what to expect:",
+        "de": "Der Arbeitsmarktbericht für Mai wird am Freitag veröffentlicht. Das ist zu erwarten:"
+      },
+      "summary": {
+        "zh": "预计5月的就业报告将显示出强劲的就业增长，但也可能面临现实检验。经济学家对未来的就业市场持谨慎态度。",
+        "en": "The May jobs report is expected to show strong job growth, but it may also face a reality check. Economists are cautious about the future job market.",
+        "de": "Der Arbeitsmarktbericht für Mai wird voraussichtlich ein starkes Beschäftigungswachstum zeigen, könnte jedoch auch einer Realitätstest unterzogen werden. Ökonomen sind vorsichtig in Bezug auf den zukünftigen Arbeitsmarkt."
+      },
+      "source": "CNBC",
+      "date": "2026-06-04",
+      "url": "https://www.cnbc.com/2026/06/04/the-may-jobs-report-will-be-released-friday-heres-what-to-expect.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
         "zh": "美国长期失业人数激增，工人和经济面临隐性成本",
         "en": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy",
         "de": "Langzeitarbeitslosigkeit in den USA steigt stark an. Es gibt versteckte Kosten für Arbeitnehmer und die Wirtschaft"
       },
       "summary": {
-        "zh": "美国的长期失业人数正在激增，这对工人和经济造成了持续的财务、情感和家庭健康影响，即使在重新进入劳动力市场后也会持续。",
-        "en": "Long-term unemployment is surging in the U.S., leading to lasting financial, emotional, and family health impacts on workers that persist even after reentering the workforce.",
-        "de": "Die Langzeitarbeitslosigkeit in den USA steigt stark an, was zu anhaltenden finanziellen, emotionalen und familiären Gesundheitsauswirkungen auf die Arbeitnehmer führt, die auch nach der Rückkehr in den Arbeitsmarkt bestehen bleiben."
+        "zh": "美国的长期失业人数正在激增，这对工人和经济造成了隐性成本，影响了财务、情感和家庭健康。",
+        "en": "Long-term unemployment in the U.S. is surging, creating hidden costs for workers and the economy that affect financial, emotional, and family health.",
+        "de": "Die Langzeitarbeitslosigkeit in den USA steigt stark an und verursacht versteckte Kosten für Arbeitnehmer und die Wirtschaft, die die finanzielle, emotionale und familiäre Gesundheit beeinträchtigen."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-06-04",
       "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "美国提议对60个经济体施加新的关税以应对强迫劳动贸易行为",
-        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
-        "de": "Die USA schlagen neue Zölle auf 60 Volkswirtschaften wegen Zwangsarbeitspraktiken vor"
-      },
-      "summary": {
-        "zh": "美国贸易代表提出对60个经济体征收10%的关税，以应对强迫劳动贸易行为，其他经济体则面临12.5%的关税。",
-        "en": "The U.S. Trade Representative has proposed a 10% tariff on 60 economies over forced labor trade practices, with a 12.5% tariff for other economies.",
-        "de": "Der Handelsbeauftragte der USA hat einen 10%igen Zoll auf 60 Volkswirtschaften wegen Zwangsarbeitspraktiken vorgeschlagen, während andere Volkswirtschaften mit einem Zoll von 12,5% konfrontiert werden."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-06-04",
-      "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "美国家庭因伊朗战争支付的能源费用平均增加450美元",
-        "en": "Iran war cost: Average U.S. household paying $450 more on gas and energy",
-        "de": "Kosten des Iran-Kriegs: Durchschnittliche US-Haushalte zahlen 450 USD mehr für Gas und Energie"
+        "zh": "5月私人薪资增长12.2万，超出预期",
+        "en": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports",
+        "de": "Die privaten Löhne stiegen im Mai um 122.000, stärker als erwartet, berichtet ADP"
       },
       "summary": {
-        "zh": "由于能源成本上升，美国家庭在气体和能源上的支出平均增加了450美元，这迫使消费者动用储蓄并更多依赖债务来支付开支。",
-        "en": "Due to rising energy costs, the average U.S. household is paying $450 more for gas and energy, forcing consumers to tap into savings and rely more on debt to cover expenses.",
-        "de": "Aufgrund steigender Energiekosten zahlt der durchschnittliche US-Haushalt 450 USD mehr für Gas und Energie, was die Verbraucher zwingt, auf Ersparnisse zurückzugreifen und mehr Schulden zur Deckung der Ausgaben zu machen."
+        "zh": "ADP报告显示，5月份私人部门的薪资增长超出预期，新增122,000个职位，表明就业市场的复苏势头。",
+        "en": "ADP reports that private payrolls grew by 122,000 in May, exceeding expectations, indicating a recovery momentum in the job market.",
+        "de": "ADP berichtet, dass die privaten Löhne im Mai um 122.000 gestiegen sind, was die Erwartungen übertrifft und auf einen Erholungsdrang auf dem Arbeitsmarkt hinweist."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-05-29",
-      "url": "https://www.cnbc.com/2026/05/29/energy-costs-inflation-iran-war-trump.html"
+      "source": "CNBC",
+      "date": "2026-06-03",
+      "url": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html"
     }
   ]
 }
