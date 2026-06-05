@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-06-05T08:30:30.007040+00:00",
+  "generatedAt": "2026-06-05T18:18:04.679504+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "法庭如何应对大量AI生成的诉讼",
-        "en": "How courts are coping with a flood of AI-generated lawsuits",
-        "de": "Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen"
+        "zh": "下载：超越神话的AI黑客，以及聊天机器人对我们大脑的影响",
+        "en": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+        "de": "Der Download: KI-Hacking jenseits von Mythos und die Auswirkungen von Chatbots auf unser Gehirn"
       },
       "summary": {
-        "zh": "科罗拉多州的联邦法官Maritza Braswell每天都在处理大量由没有法律背景的人撰写的文件，这些文件大多数是由AI生成的。法庭面临着如何有效管理这些诉讼的挑战。",
-        "en": "Federal magistrate judge Maritza Braswell in Colorado sifts through stacks of documents daily, most of which are AI-generated and written by individuals without legal backgrounds. Courts are facing challenges in effectively managing these lawsuits.",
-        "de": "Die Bundesrichterin Maritza Braswell in Colorado durchforstet täglich Stapel von Dokumenten, von denen die meisten KI-generiert und von Personen ohne juristischen Hintergrund verfasst sind. Die Gerichte stehen vor der Herausforderung, diese Klagen effektiv zu verwalten."
+        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括AI黑客和聊天机器人对人类大脑的影响。",
+        "en": "Today's edition of The Download provides the latest updates from the world of technology, including AI hacking and the impact of chatbots on the human brain.",
+        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technikwelt, einschließlich KI-Hacking und der Auswirkungen von Chatbots auf das menschliche Gehirn."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-04",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+      "date": "2026-06-05",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "虚拟电厂如何为数据中心提供能源",
-        "en": "How virtual power plants could provide energy for data centers",
-        "de": "Wie virtuelle Kraftwerke Energie für Rechenzentren bereitstellen könnten"
+        "zh": "AI聊天机器人是否让我们失去对大脑的控制？",
+        "en": "Are AI chatbots making us lose control of our brains?",
+        "de": "Lassen uns KI-Chatbots die Kontrolle über unser Gehirn verlieren?"
       },
       "summary": {
-        "zh": "虚拟电厂的概念正在兴起，允许用户通过减少电力使用来为本地数据中心提供能源。这种模式可能会改变能源消费的方式。",
-        "en": "The concept of virtual power plants is emerging, allowing users to provide energy for local data centers by reducing their electricity usage. This model could change the way energy consumption is approached.",
-        "de": "Das Konzept der virtuellen Kraftwerke gewinnt an Bedeutung, da es Benutzern ermöglicht, Energie für lokale Rechenzentren bereitzustellen, indem sie ihren Stromverbrauch reduzieren. Dieses Modell könnte die Art und Weise, wie Energieverbrauch angegangen wird, verändern."
+        "zh": "在SXSW伦敦会议上，讨论了AI聊天机器人对人类思维的潜在影响，提出了对其控制能力的担忧。",
+        "en": "At the SXSW London conference, discussions highlighted the potential impact of AI chatbots on human cognition, raising concerns about our control over them.",
+        "de": "Auf der SXSW London-Konferenz wurden Diskussionen über die potenziellen Auswirkungen von KI-Chatbots auf das menschliche Denken geführt, wobei Bedenken hinsichtlich unserer Kontrolle über sie geäußert wurden."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-03",
-      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/"
+      "date": "2026-06-05",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "Dashlane解释攻击者如何下载加密密码库",
-        "en": "Dashlane explains how attackers managed to download encrypted password vaults",
-        "de": "Dashlane erklärt, wie Angreifer es geschafft haben, verschlüsselte Passworttresore herunterzuladen"
+        "zh": "Meta黑客事件显示AI安全不仅仅是神话",
+        "en": "The Meta hack shows there’s more to AI security than Mythos",
+        "de": "Der Meta-Hack zeigt, dass es bei der KI-Sicherheit mehr als nur Mythos gibt"
       },
       "summary": {
-        "zh": "Dashlane揭示了攻击者通过针对大量用户来增加成功机会的策略，导致加密密码库的下载。安全性问题引发了广泛关注。",
-        "en": "Dashlane reveals that attackers increased their chances of success by targeting large numbers of users, leading to the download of encrypted password vaults. This security issue has raised widespread concern.",
-        "de": "Dashlane offenbart, dass Angreifer ihre Erfolgschancen erhöhten, indem sie eine große Anzahl von Benutzern ins Visier nahmen, was zum Herunterladen von verschlüsselten Passworttresoren führte. Dieses Sicherheitsproblem hat weitreichende Besorgnis ausgelöst."
+        "zh": "Meta的AI客户支持代理被黑客利用，导致Instagram账户被盗，此事件突显了AI安全的重要性。",
+        "en": "The Meta AI customer support agent was exploited by hackers to steal Instagram accounts, highlighting the importance of AI security.",
+        "de": "Der KI-Kundenservice-Agent von Meta wurde von Hackern ausgenutzt, um Instagram-Konten zu stehlen, was die Bedeutung der KI-Sicherheit unterstreicht."
       },
-      "source": "Ars Technica",
-      "date": "2026-06-04",
-      "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/"
+      "source": "MIT Technology Review",
+      "date": "2026-06-05",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "联合国特使呼吁特朗普停止以色列吞并",
-        "en": "UN envoys call on Trump to stop Israeli annexation",
-        "de": "UN-Vertreter fordern Trump auf, die israelische Annexion zu stoppen"
+        "zh": "特朗普政府取消风能项目导致商业动荡",
+        "en": "Trump admin’s cancellation of wind energy projects causes business turmoil",
+        "de": "Die Stornierung von Windenergieprojekten durch die Trump-Administration verursacht Geschäftsturbulenzen"
       },
       "summary": {
-        "zh": "联合国特使呼吁特朗普政府采取行动，阻止以色列的吞并计划。此举引发了国际社会的关注和讨论。",
-        "en": "UN envoys are urging the Trump administration to take action to halt Israel's annexation plans. This move has drawn attention and discussion from the international community.",
-        "de": "UN-Vertreter fordern die Trump-Administration auf, Maßnahmen zu ergreifen, um die Annexion Israels zu stoppen. Dieser Schritt hat die Aufmerksamkeit und Diskussion der internationalen Gemeinschaft auf sich gezogen."
+        "zh": "七个东北州对美国政府提起诉讼，因其支付TotalEnergies退出海上风能项目，导致商业环境动荡。",
+        "en": "Seven northeastern states have sued the U.S. government for paying TotalEnergies to withdraw from offshore wind projects, causing turmoil in the business environment.",
+        "de": "Sieben Bundesstaaten im Nordosten haben die US-Regierung verklagt, weil sie TotalEnergies bezahlt hat, um sich von Offshore-Windprojekten zurückzuziehen, was zu Turbulenzen im Geschäftsumfeld führt."
       },
       "source": "Al Jazeera",
       "date": "2026-06-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/un-envoys-call-on-trump-to-stop-israeli-annexation?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/6/5/trump-admins-cancellation-of-wind-energy-projects-causes-business-turmoil?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "习近平前往朝鲜以巩固关系",
-        "en": "China’s Xi headed to North Korea in bid to shore up ties",
-        "de": "Chinas Xi reist nach Nordkorea, um die Beziehungen zu festigen"
+        "zh": "俄罗斯普京表示目前与乌克兰泽连斯基会晤没有意义",
+        "en": "Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now",
+        "de": "Russlands Putin sagt, dass es derzeit keinen Sinn macht, sich mit der Ukraine zu treffen"
       },
       "summary": {
-        "zh": "习近平将于6月8日至9日访问朝鲜，这是他七年来首次访问，旨在加强与平壤的关系，同时应对与俄罗斯的关系日益紧密。",
-        "en": "Xi Jinping is set to visit North Korea from June 8-9, marking his first visit in seven years, aimed at strengthening ties with Pyongyang while addressing increasingly close relations with Russia.",
-        "de": "Xi Jinping wird vom 8. bis 9. Juni Nordkorea besuchen, was seinen ersten Besuch seit sieben Jahren markiert, um die Beziehungen zu Pjöngjang zu stärken und gleichzeitig den zunehmend engen Kontakt zu Russland zu berücksichtigen."
+        "zh": "普京表示，军事行动只有在莫斯科实现其目标后才会停止，目前与乌克兰总统泽连斯基会晤没有意义。",
+        "en": "Putin stated that military action would only cease once Moscow achieves its goals, deeming a meeting with Ukrainian President Zelenskyy pointless for now.",
+        "de": "Putin erklärte, dass militärische Aktionen nur eingestellt werden, wenn Moskau seine Ziele erreicht, und hielt ein Treffen mit dem ukrainischen Präsidenten Selenskyj derzeit für sinnlos."
       },
       "source": "Al Jazeera",
       "date": "2026-06-05",
-      "url": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "泽连斯基在公开信中提议与普京面对面会谈",
-        "en": "Zelensky proposes face-to-face talks in open letter to Putin",
-        "de": "Selensky schlägt in offenem Brief an Putin persönliche Gespräche vor"
+        "zh": "乌克兰和俄罗斯各交换185名战俘",
+        "en": "Ukraine and Russia exchange 185 prisoners of war each",
+        "de": "Ukraine und Russland tauschen jeweils 185 Kriegsgefangene aus"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基在给普京的公开信中表示，只有两国之间的直接接触才能结束战争。美国则将注意力集中在伊朗问题上。",
-        "en": "Ukrainian President Zelensky stated in an open letter to Putin that only direct engagement between the two countries could end the war, while the U.S. focuses on the issue of Iran.",
-        "de": "Der ukrainische Präsident Selensky erklärte in einem offenen Brief an Putin, dass nur ein direkter Kontakt zwischen den beiden Ländern den Krieg beenden könnte, während sich die USA auf das Thema Iran konzentrieren."
+        "zh": "乌克兰和俄罗斯各自释放185名战俘，此次交换据称是由阿联酋调解的重大事件。",
+        "en": "Ukraine and Russia have each released 185 prisoners of war in a significant exchange, reportedly mediated by the UAE.",
+        "de": "Die Ukraine und Russland haben jeweils 185 Kriegsgefangene in einem bedeutenden Austausch freigelassen, der Berichten zufolge von den VAE vermittelt wurde."
       },
-      "source": "BBC News",
+      "source": "Al Jazeera",
       "date": "2026-06-05",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukraine-and-russia-exchange-185-prisoners-of-war-each?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -109,11 +109,11 @@
         "de": "Der Arbeitsmarktbericht für Mai wird am Freitag veröffentlicht. Das ist zu erwarten:"
       },
       "summary": {
-        "zh": "预计5月的就业报告将显示出强劲的就业增长，但也可能面临现实检验。经济学家对未来的就业市场持谨慎态度。",
-        "en": "The May jobs report is expected to show strong job growth, but it may also face a reality check. Economists are cautious about the future job market.",
-        "de": "Der Arbeitsmarktbericht für Mai wird voraussichtlich ein starkes Beschäftigungswachstum zeigen, könnte jedoch auch einer Realitätstest unterzogen werden. Ökonomen sind vorsichtig in Bezug auf den zukünftigen Arbeitsmarkt."
+        "zh": "预计今年就业增长强劲的开局可能会面临现实考验，投资者需关注即将发布的就业报告。",
+        "en": "The strong start to job creation this year may face a reality check, and investors should pay attention to the upcoming jobs report.",
+        "de": "Der starke Start der Beschäftigung in diesem Jahr könnte auf eine Realitätstoilette stoßen, und die Anleger sollten auf den bevorstehenden Arbeitsmarktbericht achten."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-06-04",
       "url": "https://www.cnbc.com/2026/06/04/the-may-jobs-report-will-be-released-friday-heres-what-to-expect.html"
     },
@@ -125,29 +125,29 @@
         "de": "Langzeitarbeitslosigkeit in den USA steigt stark an. Es gibt versteckte Kosten für Arbeitnehmer und die Wirtschaft"
       },
       "summary": {
-        "zh": "美国的长期失业人数正在激增，这对工人和经济造成了隐性成本，影响了财务、情感和家庭健康。",
-        "en": "Long-term unemployment in the U.S. is surging, creating hidden costs for workers and the economy that affect financial, emotional, and family health.",
-        "de": "Die Langzeitarbeitslosigkeit in den USA steigt stark an und verursacht versteckte Kosten für Arbeitnehmer und die Wirtschaft, die die finanzielle, emotionale und familiäre Gesundheit beeinträchtigen."
+        "zh": "长期失业的激增对工人和经济产生了深远的影响，可能会在重新进入劳动力市场后仍然存在影响。",
+        "en": "The surge in long-term unemployment is having profound effects on workers and the economy, with impacts that may linger even after reentry into the workforce.",
+        "de": "Der Anstieg der Langzeitarbeitslosigkeit hat tiefgreifende Auswirkungen auf Arbeitnehmer und die Wirtschaft, wobei die Auswirkungen auch nach dem Wiedereinstieg in den Arbeitsmarkt bestehen bleiben können."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-06-04",
       "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "5月私人薪资增长12.2万，超出预期",
-        "en": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports",
-        "de": "Die privaten Löhne stiegen im Mai um 122.000, stärker als erwartet, berichtet ADP"
+        "zh": "美国提议对60个经济体征收新关税，因强迫劳动贸易行为",
+        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
+        "de": "Die USA schlagen neue Zölle auf 60 Volkswirtschaften wegen Zwangsarbeitspraktiken vor"
       },
       "summary": {
-        "zh": "ADP报告显示，5月份私人部门的薪资增长超出预期，新增122,000个职位，表明就业市场的复苏势头。",
-        "en": "ADP reports that private payrolls grew by 122,000 in May, exceeding expectations, indicating a recovery momentum in the job market.",
-        "de": "ADP berichtet, dass die privaten Löhne im Mai um 122.000 gestiegen sind, was die Erwartungen übertrifft und auf einen Erholungsdrang auf dem Arbeitsmarkt hinweist."
+        "zh": "美国贸易代表提议对采取部分或全面禁止强迫劳动贸易的经济体征收10%的关税，其他经济体则为12.5%。",
+        "en": "The U.S. Trade Representative has proposed a 10% tariff on economies that have adopted a full or partial prohibition on forced labor trade, with a 12.5% tariff for all other economies.",
+        "de": "Der US-Handelsbeauftragte hat einen Zoll von 10 % auf Volkswirtschaften vorgeschlagen, die ein vollständiges oder teilweises Verbot des Handels mit Zwangsarbeit angenommen haben, und einen Zoll von 12,5 % für alle anderen Volkswirtschaften."
       },
-      "source": "CNBC",
-      "date": "2026-06-03",
-      "url": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html"
+      "source": "CNBC – Markets",
+      "date": "2026-06-04",
+      "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html"
     }
   ]
 }
