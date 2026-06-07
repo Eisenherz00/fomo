@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-06T17:38:22.446428+00:00",
+  "generatedAt": "2026-06-07T08:07:23.255457+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：超越神话的人工智能黑客和聊天机器人对我们大脑的影响",
+        "zh": "下载：超越神话的AI黑客和聊天机器人的影响",
         "en": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
         "de": "Der Download: KI-Hacking jenseits von Mythos und die Auswirkungen von Chatbots auf unser Gehirn"
       },
       "summary": {
-        "zh": "今天的《下载》报道了人工智能黑客的最新动态，以及聊天机器人如何影响我们的思维方式。",
-        "en": "Today's edition of The Download covers the latest developments in AI hacking and how chatbots are impacting our thought processes.",
-        "de": "Die heutige Ausgabe des Downloads behandelt die neuesten Entwicklungen im Bereich KI-Hacking und wie Chatbots unsere Denkprozesse beeinflussen."
+        "zh": "今天的下载提供了有关技术世界的最新动态，包括AI黑客和聊天机器人的影响。",
+        "en": "Today's Download provides the latest updates from the world of technology, including AI hacking and the impact of chatbots.",
+        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich KI-Hacking und der Auswirkungen von Chatbots."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-05",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "人工智能聊天机器人是否让我们失去对大脑的控制？",
+        "zh": "AI聊天机器人是否使我们失去对大脑的控制？",
         "en": "Are AI chatbots making us lose control of our brains?",
-        "de": "Lassen uns KI-Chatbots die Kontrolle über unser Gehirn verlieren?"
+        "de": "Führen KI-Chatbots dazu, dass wir die Kontrolle über unser Gehirn verlieren?"
       },
       "summary": {
-        "zh": "在SXSW伦敦会议上，讨论了人工智能聊天机器人对人类思维的潜在影响，专家们对此表示担忧。",
-        "en": "At the SXSW London conference, discussions highlighted concerns about the potential impact of AI chatbots on human cognition.",
-        "de": "Auf der SXSW London-Konferenz wurden Bedenken über die potenziellen Auswirkungen von KI-Chatbots auf die menschliche Kognition geäußert."
+        "zh": "在SXSW伦敦上，讨论了AI的影响，特别是聊天机器人如何影响我们的思维方式。",
+        "en": "At SXSW London, discussions focused on the impact of AI, particularly how chatbots affect our thinking.",
+        "de": "Auf dem SXSW in London konzentrierten sich die Diskussionen auf die Auswirkungen von KI, insbesondere darauf, wie Chatbots unser Denken beeinflussen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-05",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "Meta黑客事件显示人工智能安全不仅仅是神话",
+        "zh": "Meta黑客事件显示AI安全性超越神话",
         "en": "The Meta hack shows there’s more to AI security than Mythos",
-        "de": "Der Meta-Hack zeigt, dass es bei der KI-Sicherheit mehr gibt als nur Mythos"
+        "de": "Der Meta-Hack zeigt, dass es bei der KI-Sicherheit mehr als nur Mythos gibt"
       },
       "summary": {
-        "zh": "Meta的人工智能客户支持代理被黑客利用，盗取Instagram账户，揭示了AI安全的复杂性。",
-        "en": "The hack of Meta's AI customer support agent was exploited to steal Instagram accounts, revealing the complexities of AI security.",
-        "de": "Der Hack des KI-Kundenservice-Agenten von Meta wurde ausgenutzt, um Instagram-Konten zu stehlen, was die Komplexität der KI-Sicherheit aufzeigt."
+        "zh": "Meta的AI客服代理被攻击者利用，显示出AI安全性面临的实际威胁。",
+        "en": "Meta's AI customer support agent was exploited by attackers, highlighting the real threats facing AI security.",
+        "de": "Der KI-Kundenservice-Agent von Meta wurde von Angreifern ausgenutzt, was die realen Bedrohungen für die KI-Sicherheit verdeutlicht."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-05",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "战争100天，特朗普未能团结美国支持伊朗",
-        "en": "100 days into the war on Iran, Trump fails to rally US support",
-        "de": "100 Tage nach dem Krieg gegen den Iran kann Trump die US-Unterstützung nicht mobilisieren"
+        "zh": "伊朗战争第100天：美国和伊朗再次交火，紧张局势升级",
+        "en": "Iran war day 100: US, Iran trade attacks again, raising tensions",
+        "de": "Iran-Krieg Tag 100: USA und Iran tauschen erneut Angriffe aus, Spannungen steigen"
       },
       "summary": {
-        "zh": "分析人士表示，战争的不受欢迎可能会影响美国对冲突的态度，并在选举中对共和党造成伤害。",
-        "en": "Analysts suggest that the unpopularity of the war may affect the U.S. approach to the conflict and hurt Republicans in the elections.",
-        "de": "Analysten deuten darauf hin, dass die Unbeliebtheit des Krieges die US-Haltung zum Konflikt beeinflussen und den Republikanern bei den Wahlen schaden könnte."
+        "zh": "美国在霍尔木兹海峡击落伊朗无人机，导致紧张局势升级。",
+        "en": "The US shot down Iranian drones over the Strait of Hormuz, escalating tensions.",
+        "de": "Die USA schossen iranische Drohnen über der Straße von Hormuz ab, was die Spannungen verschärfte."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-06",
-      "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support?traffic_source=rss"
+      "date": "2026-06-07",
+      "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国和伊朗在海湾地区进行交火，停火协议面临考验",
-        "en": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-        "de": "USA und Iran tauschen Angriffe im Golf aus, neuester Test des Waffenstillstands"
+        "zh": "中国国家主席习近平为何现在访问朝鲜？",
+        "en": "Why is Chinese President Xi Jinping visiting North Korea now?",
+        "de": "Warum besucht Chinas Präsident Xi Jinping jetzt Nordkorea?"
       },
       "summary": {
-        "zh": "美国军方对伊朗的无人机和雷达目标进行了打击，伊朗则声称已针对美国在科威特和巴林的基地。",
-        "en": "The U.S. military struck Iranian drones and radar sites, while Tehran claimed to have targeted U.S. bases in Kuwait and Bahrain.",
-        "de": "Die US-Militärkräfte griffen iranische Drohnen und Radarstandorte an, während Teheran behauptete, US-Basen in Kuwait und Bahrain angegriffen zu haben."
+        "zh": "习近平在七年后首次访问平壤，背景是重要的军事发展。",
+        "en": "Xi Jinping is making his first visit to Pyongyang in seven years amid significant military developments.",
+        "de": "Xi Jinping besucht zum ersten Mal seit sieben Jahren Pjöngjang, während bedeutende militärische Entwicklungen stattfinden."
       },
-      "source": "BBC News – World",
-      "date": "2026-06-06",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-06-07",
+      "url": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "亚美尼亚为选举做好准备，俄罗斯加大对亲西方政府的压力",
-        "en": "Armenia braces for election as Russia piles pressure on pro-West government",
-        "de": "Armenien bereitet sich auf die Wahl vor, während Russland Druck auf die pro-westliche Regierung ausübt"
+        "zh": "关于美国和伊朗达成协议的次数有多少？",
+        "en": "How many times were the US and Iran on the verge of a deal?",
+        "de": "Wie oft standen die USA und der Iran kurz vor einem Deal?"
       },
       "summary": {
-        "zh": "现任总理尼科尔·帕希尼扬寻求连任，尽管国内支持率下降。",
-        "en": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
-        "de": "Der amtierende Premierminister Nikol Pashinyan strebt trotz sinkender Unterstützung im Inland eine dritte Amtszeit an."
+        "zh": "在美国-以色列对伊朗战争的第100天，回顾了达成协议的次数。",
+        "en": "On the 100th day of the US-Israel war on Iran, we review the number of times a deal seemed close.",
+        "de": "Am 100. Tag des US-Israel-Kriegs gegen den Iran werfen wir einen Blick darauf, wie oft ein Deal nahe schien."
       },
-      "source": "BBC News – World",
-      "date": "2026-06-06",
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-06-07",
+      "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "5月就业报告将于周五发布。以下是我们的预期：",
-        "en": "The May jobs report will be released Friday. Here's what to expect",
-        "de": "Der Arbeitsmarktbericht für Mai wird am Freitag veröffentlicht. Das ist zu erwarten"
+        "zh": "5月就业报告将于周五发布。我们可以期待什么？",
+        "en": "The May jobs report will be released Friday. Here's what to expect:",
+        "de": "Der Arbeitsbericht für Mai wird am Freitag veröffentlicht. Das ist zu erwarten:"
       },
       "summary": {
-        "zh": "今年就业增长的强劲开局可能会面临现实的考验，分析师对即将发布的报告表示关注。",
-        "en": "The strong start to job growth this year may face a reality check, as analysts express concern over the upcoming report.",
-        "de": "Der starke Start des Beschäftigungswachstums in diesem Jahr könnte auf eine Realitätstoilette stoßen, da Analysten Bedenken hinsichtlich des bevorstehenden Berichts äußern."
+        "zh": "今年初就业创造的强劲开局可能会面临现实的考验。",
+        "en": "The strong start to job creation this year may face a reality check.",
+        "de": "Der starke Start in die Beschäftigung in diesem Jahr könnte auf eine Realitätstoilette stoßen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-04",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国长期失业人数激增，工人和经济面临隐性成本",
-        "en": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy",
-        "de": "Langzeitarbeitslosigkeit in den USA nimmt zu. Es gibt versteckte Kosten für Arbeiter und die Wirtschaft"
+        "zh": "美国长期失业人数激增。对工人和经济的隐性成本：",
+        "en": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy:",
+        "de": "Langzeitarbeitslosigkeit in den USA steigt. Es gibt versteckte Kosten für Arbeitnehmer und die Wirtschaft:"
       },
       "summary": {
-        "zh": "长期失业对工人和经济的财务、情感和家庭健康产生了持续影响，即使在重新进入劳动力市场后也会持续。",
-        "en": "Long-term unemployment can have ramifications on financial, emotional, and family health that linger even after reentry into the workforce.",
-        "de": "Langzeitarbeitslosigkeit kann Auswirkungen auf die finanzielle, emotionale und familiäre Gesundheit haben, die auch nach dem Wiedereinstieg in die Arbeitswelt anhalten."
+        "zh": "长期失业对工人和经济的财务、情感和家庭健康产生深远影响。",
+        "en": "Long-term unemployment has profound impacts on financial, emotional, and family health for workers and the economy.",
+        "de": "Langzeitarbeitslosigkeit hat tiefgreifende Auswirkungen auf die finanzielle, emotionale und familiäre Gesundheit von Arbeitnehmern und der Wirtschaft."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-04",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "私营部门5月新增122,000个职位，超出预期",
-        "en": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports",
-        "de": "Die privaten Löhne stiegen im Mai um 122.000, stärker als erwartet, berichtet ADP"
+        "zh": "私营部门5月新增122,000个职位，超出预期，ADP报告称：",
+        "en": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports:",
+        "de": "Die privaten Löhne stiegen im Mai um 122.000, stärker als erwartet, berichtet ADP:"
       },
       "summary": {
-        "zh": "与之前几个月集中在医疗保健等少数几个行业的就业增长不同，5月的增长更加广泛。",
-        "en": "Unlike prior months, where job growth was concentrated in healthcare and a few other sectors, gains were more broad-based in May.",
-        "de": "Im Gegensatz zu den Vormonaten, in denen das Beschäftigungswachstum auf das Gesundheitswesen und einige andere Sektoren konzentriert war, war der Anstieg im Mai breiter gefächert."
+        "zh": "与之前几个月相比，5月的职位增长更加广泛，超出预期。",
+        "en": "Job growth in May was more broad-based than in previous months, exceeding expectations.",
+        "de": "Das Beschäftigungswachstum im Mai war breiter gefächert als in den Vormonaten und übertraf die Erwartungen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-03",
