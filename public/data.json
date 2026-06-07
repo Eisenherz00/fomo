@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-07T08:07:23.255457+00:00",
+  "generatedAt": "2026-06-07T17:44:45.883184+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：超越神话的AI黑客和聊天机器人的影响",
+        "zh": "下载：超越神话的AI黑客，以及聊天机器人对我们大脑的影响",
         "en": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
         "de": "Der Download: KI-Hacking jenseits von Mythos und die Auswirkungen von Chatbots auf unser Gehirn"
       },
       "summary": {
-        "zh": "今天的下载提供了有关技术世界的最新动态，包括AI黑客和聊天机器人的影响。",
-        "en": "Today's Download provides the latest updates from the world of technology, including AI hacking and the impact of chatbots.",
-        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich KI-Hacking und der Auswirkungen von Chatbots."
+        "zh": "本期《下载》探讨了AI黑客活动的最新动态以及聊天机器人对人类思维的潜在影响。",
+        "en": "This edition of The Download explores the latest developments in AI hacking and the potential impacts of chatbots on human cognition.",
+        "de": "In dieser Ausgabe des Downloads werden die neuesten Entwicklungen im Bereich KI-Hacking und die potenziellen Auswirkungen von Chatbots auf das menschliche Denken untersucht."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-05",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "AI聊天机器人是否使我们失去对大脑的控制？",
+        "zh": "AI聊天机器人是否让我们失去对大脑的控制？",
         "en": "Are AI chatbots making us lose control of our brains?",
-        "de": "Führen KI-Chatbots dazu, dass wir die Kontrolle über unser Gehirn verlieren?"
+        "de": "Machen KI-Chatbots, dass wir die Kontrolle über unser Gehirn verlieren?"
       },
       "summary": {
-        "zh": "在SXSW伦敦上，讨论了AI的影响，特别是聊天机器人如何影响我们的思维方式。",
-        "en": "At SXSW London, discussions focused on the impact of AI, particularly how chatbots affect our thinking.",
-        "de": "Auf dem SXSW in London konzentrierten sich die Diskussionen auf die Auswirkungen von KI, insbesondere darauf, wie Chatbots unser Denken beeinflussen."
+        "zh": "在SXSW伦敦会议上，讨论了AI聊天机器人对人类思维的影响，专家们提出了对其潜在风险的担忧。",
+        "en": "At the SXSW London conference, discussions centered around the impact of AI chatbots on human cognition, with experts raising concerns about potential risks.",
+        "de": "Auf der SXSW London-Konferenz standen die Auswirkungen von KI-Chatbots auf das menschliche Denken im Mittelpunkt, wobei Experten Bedenken hinsichtlich potenzieller Risiken äußerten."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-05",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "Meta黑客事件显示AI安全性超越神话",
+        "zh": "Meta黑客事件表明AI安全性超出神话",
         "en": "The Meta hack shows there’s more to AI security than Mythos",
-        "de": "Der Meta-Hack zeigt, dass es bei der KI-Sicherheit mehr als nur Mythos gibt"
+        "de": "Der Meta-Hack zeigt, dass es bei der KI-Sicherheit mehr gibt als Mythos"
       },
       "summary": {
-        "zh": "Meta的AI客服代理被攻击者利用，显示出AI安全性面临的实际威胁。",
-        "en": "Meta's AI customer support agent was exploited by attackers, highlighting the real threats facing AI security.",
-        "de": "Der KI-Kundenservice-Agent von Meta wurde von Angreifern ausgenutzt, was die realen Bedrohungen für die KI-Sicherheit verdeutlicht."
+        "zh": "Meta的AI客服代理被黑客利用以窃取Instagram账户，此事件突显了AI安全性的重要性。",
+        "en": "The use of Meta's AI customer support agent by hackers to steal Instagram accounts highlights the critical importance of AI security.",
+        "de": "Die Nutzung des KI-Kundenservice-Agenten von Meta durch Hacker zum Stehlen von Instagram-Konten hebt die entscheidende Bedeutung der KI-Sicherheit hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-05",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗战争第100天：美国和伊朗再次交火，紧张局势升级",
-        "en": "Iran war day 100: US, Iran trade attacks again, raising tensions",
-        "de": "Iran-Krieg Tag 100: USA und Iran tauschen erneut Angriffe aus, Spannungen steigen"
+        "zh": "玻利维亚立法机构通过允许对抗议者使用军队的法律",
+        "en": "Bolivia’s legislature passes law allowing use of troops against protesters",
+        "de": "Das bolivianische Parlament verabschiedet ein Gesetz, das den Einsatz von Truppen gegen Demonstranten erlaubt"
       },
       "summary": {
-        "zh": "美国在霍尔木兹海峡击落伊朗无人机，导致紧张局势升级。",
-        "en": "The US shot down Iranian drones over the Strait of Hormuz, escalating tensions.",
-        "de": "Die USA schossen iranische Drohnen über der Straße von Hormuz ab, was die Spannungen verschärfte."
+        "zh": "新法律赋予总统使用军队清除抗议者设立的路障的权力，此举引发了对政府镇压抗议活动的担忧。",
+        "en": "The new law grants the president the power to use military forces to clear roadblocks set up by protesters, raising concerns about government repression of demonstrations.",
+        "de": "Das neue Gesetz ermächtigt den Präsidenten, Militärkräfte einzusetzen, um Straßensperren von Demonstranten zu räumen, was Bedenken hinsichtlich der staatlichen Repression von Demonstrationen aufwirft."
       },
       "source": "Al Jazeera",
       "date": "2026-06-07",
-      "url": "https://www.aljazeera.com/news/2026/6/7/iran-war-day-100-us-iran-trade-attacks-again-raising-tensions?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "中国国家主席习近平为何现在访问朝鲜？",
-        "en": "Why is Chinese President Xi Jinping visiting North Korea now?",
-        "de": "Warum besucht Chinas Präsident Xi Jinping jetzt Nordkorea?"
+        "zh": "尼日利亚军队从博科哈拉姆手中解救360名人质",
+        "en": "Nigerian forces rescue 360 captives from Boko Haram",
+        "de": "Nigerianische Streitkräfte retten 360 Geiseln aus den Händen von Boko Haram"
       },
       "summary": {
-        "zh": "习近平在七年后首次访问平壤，背景是重要的军事发展。",
-        "en": "Xi Jinping is making his first visit to Pyongyang in seven years amid significant military developments.",
-        "de": "Xi Jinping besucht zum ersten Mal seit sieben Jahren Pjöngjang, während bedeutende militärische Entwicklungen stattfinden."
+        "zh": "尼日利亚军队成功解救360名人质，包括妇女和儿童，此次行动是在博科哈拉姆的山地藏身处进行的。",
+        "en": "Nigerian forces successfully rescued 360 captives, including women and children, in an operation against Boko Haram's mountain hideout.",
+        "de": "Nigerianische Streitkräfte haben 360 Geiseln, darunter Frauen und Kinder, in einer Operation gegen das Bergversteck von Boko Haram erfolgreich gerettet."
       },
       "source": "Al Jazeera",
       "date": "2026-06-07",
-      "url": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/nigerian-forces-rescue-360-captives-from-boko-haram?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "关于美国和伊朗达成协议的次数有多少？",
-        "en": "How many times were the US and Iran on the verge of a deal?",
-        "de": "Wie oft standen die USA und der Iran kurz vor einem Deal?"
+        "zh": "特朗普表示在达成停火协议前不会解冻伊朗资产",
+        "en": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+        "de": "Trump sagt, dass er iranische Vermögenswerte nicht vor dem Erreichen eines Waffenstillstands freigeben wird"
       },
       "summary": {
-        "zh": "在美国-以色列对伊朗战争的第100天，回顾了达成协议的次数。",
-        "en": "On the 100th day of the US-Israel war on Iran, we review the number of times a deal seemed close.",
-        "de": "Am 100. Tag des US-Israel-Kriegs gegen den Iran werfen wir einen Blick darauf, wie oft ein Deal nahe schien."
+        "zh": "特朗普表示，伊朗官员暗示释放资金将建立达成持久协议所需的信任，但他拒绝在停火协议达成前解冻资产。",
+        "en": "Trump stated that Iranian officials indicated that the release of funds would build the trust needed to reach a lasting deal, but he refused to unfreeze assets before a ceasefire agreement is reached.",
+        "de": "Trump erklärte, dass iranische Beamte angedeutet hätten, die Freigabe von Geldern würde das Vertrauen schaffen, das für einen dauerhaften Deal erforderlich ist, aber er weigerte sich, Vermögenswerte vor dem Erreichen eines Waffenstillstands freizugeben."
       },
       "source": "Al Jazeera",
       "date": "2026-06-07",
-      "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "5月就业报告将于周五发布。我们可以期待什么？",
+        "zh": "5月就业报告将于周五发布。以下是预期：",
         "en": "The May jobs report will be released Friday. Here's what to expect:",
         "de": "Der Arbeitsbericht für Mai wird am Freitag veröffentlicht. Das ist zu erwarten:"
       },
       "summary": {
-        "zh": "今年初就业创造的强劲开局可能会面临现实的考验。",
-        "en": "The strong start to job creation this year may face a reality check.",
-        "de": "Der starke Start in die Beschäftigung in diesem Jahr könnte auf eine Realitätstoilette stoßen."
+        "zh": "预计5月的就业报告将显示出强于预期的就业增长，但市场对这一数据的反应可能会有所不同。",
+        "en": "The May jobs report is expected to show stronger-than-expected job growth, but market reactions to this data may vary.",
+        "de": "Der Arbeitsbericht für Mai wird voraussichtlich ein stärker als erwartetes Beschäftigungswachstum zeigen, aber die Marktreaktionen auf diese Daten könnten unterschiedlich ausfallen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-04",
@@ -122,12 +122,12 @@
       "title": {
         "zh": "美国长期失业人数激增。对工人和经济的隐性成本：",
         "en": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy:",
-        "de": "Langzeitarbeitslosigkeit in den USA steigt. Es gibt versteckte Kosten für Arbeitnehmer und die Wirtschaft:"
+        "de": "Langzeitarbeitslosigkeit in den USA steigt stark an. Es gibt versteckte Kosten für Arbeitnehmer und die Wirtschaft:"
       },
       "summary": {
-        "zh": "长期失业对工人和经济的财务、情感和家庭健康产生深远影响。",
-        "en": "Long-term unemployment has profound impacts on financial, emotional, and family health for workers and the economy.",
-        "de": "Langzeitarbeitslosigkeit hat tiefgreifende Auswirkungen auf die finanzielle, emotionale und familiäre Gesundheit von Arbeitnehmern und der Wirtschaft."
+        "zh": "长期失业的增加对工人和经济造成了深远的影响，可能会在未来的经济复苏中产生隐性成本。",
+        "en": "The rise in long-term unemployment is having profound effects on workers and the economy, potentially leading to hidden costs in future economic recovery.",
+        "de": "Der Anstieg der Langzeitarbeitslosigkeit hat tiefgreifende Auswirkungen auf Arbeitnehmer und die Wirtschaft und könnte in der zukünftigen wirtschaftlichen Erholung zu versteckten Kosten führen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-04",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "私营部门5月新增122,000个职位，超出预期，ADP报告称：",
-        "en": "Private payrolls grew by 122,000 in May, stronger than expected, ADP reports:",
-        "de": "Die privaten Löhne stiegen im Mai um 122.000, stärker als erwartet, berichtet ADP:"
+        "zh": "美国提议对60个经济体征收新关税，因强迫劳动贸易行为：",
+        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices:",
+        "de": "Die USA schlagen neue Zölle auf 60 Volkswirtschaften wegen Praktiken im Handel mit Zwangsarbeit vor:"
       },
       "summary": {
-        "zh": "与之前几个月相比，5月的职位增长更加广泛，超出预期。",
-        "en": "Job growth in May was more broad-based than in previous months, exceeding expectations.",
-        "de": "Das Beschäftigungswachstum im Mai war breiter gefächert als in den Vormonaten und übertraf die Erwartungen."
+        "zh": "美国贸易代表提议对采用强迫劳动贸易的经济体征收10%的关税，此举可能会影响国际贸易关系。",
+        "en": "The U.S. Trade Representative proposed a 10% tariff on economies that engage in forced labor trade practices, a move that could impact international trade relations.",
+        "de": "Der US-Handelsbeauftragte schlug einen Zoll von 10 % auf Volkswirtschaften vor, die Praktiken im Handel mit Zwangsarbeit anwenden, eine Maßnahme, die die internationalen Handelsbeziehungen beeinträchtigen könnte."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-03",
-      "url": "https://www.cnbc.com/2026/06/03/adp-jobs-report-may-2026-payrolls-increase-by-122000.html"
+      "date": "2026-06-04",
+      "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html"
     }
   ]
 }
