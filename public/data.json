@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-08T09:12:41.555532+00:00",
+  "generatedAt": "2026-06-08T18:41:18.946949+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么今年的世界杯足球可能飞得不远",
-        "en": "Why this year’s World Cup ball may not fly as far",
-        "de": "Warum der Fußball der diesjährigen Weltmeisterschaft möglicherweise nicht so weit fliegt"
+        "zh": "下载：世界杯足球的飞行方式和OpenAI的“超级应用”",
+        "en": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+        "de": "Der Download: wie der WM-Ball fliegen wird und OpenAIs „Super-App“"
       },
       "summary": {
-        "zh": "今年的世界杯将在美国、加拿大和墨西哥举行，参赛队伍数量创历史新高。新设计的足球可能会影响其飞行距离。",
-        "en": "This year's World Cup will be held in the US, Canada, and Mexico, hosting a record number of teams. The newly designed ball may affect its flight distance.",
-        "de": "Die diesjährige Weltmeisterschaft findet in den USA, Kanada und Mexiko statt und beherbergt eine Rekordzahl von Teams. Der neu gestaltete Ball könnte seine Flugdistanz beeinflussen."
+        "zh": "本期下载提供了有关世界杯足球的飞行方式和OpenAI新推出的“超级应用”的最新信息。",
+        "en": "This edition of The Download provides the latest information on how the World Cup ball will fly and OpenAI's newly launched 'super app'.",
+        "de": "Diese Ausgabe des Downloads bietet die neuesten Informationen darüber, wie der WM-Ball fliegen wird und über OpenAIs neu eingeführte „Super-App“."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-08",
-      "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/"
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
     },
     {
       "id": "ai-2",
-      "title": {
-        "zh": "AI聊天机器人是否让我们失去对大脑的控制？",
-        "en": "Are AI chatbots making us lose control of our brains?",
-        "de": "Lassen uns KI-Chatbots die Kontrolle über unser Gehirn verlieren?"
-      },
-      "summary": {
-        "zh": "在SXSW伦敦会议上，关于AI的讨论热烈，探讨了AI聊天机器人对人类思维的影响。",
-        "en": "At the SXSW London conference, discussions about AI were vigorous, exploring the impact of AI chatbots on human cognition.",
-        "de": "Auf der SXSW London-Konferenz waren die Diskussionen über KI lebhaft und untersuchten die Auswirkungen von KI-Chatbots auf das menschliche Denken."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-06-05",
-      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/"
-    },
-    {
-      "id": "ai-3",
       "title": {
         "zh": "法院如何应对AI生成诉讼的洪流",
         "en": "How courts are coping with a flood of AI-generated lawsuits",
         "de": "Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen"
       },
       "summary": {
-        "zh": "科罗拉多州的联邦法官正在处理大量由没有法律背景的人撰写的AI生成文档，这对法院造成了压力。",
-        "en": "A federal magistrate judge in Colorado is sifting through stacks of AI-generated documents written by individuals without legal backgrounds, putting pressure on the courts.",
-        "de": "Ein Bundesrichter in Colorado siftet durch Stapel von KI-generierten Dokumenten, die von Personen ohne juristische Ausbildung verfasst wurden, was die Gerichte unter Druck setzt."
+        "zh": "科罗拉多州的联邦法官Maritza Braswell正在处理大量由没有律师的个人撰写的AI生成文件，这给法院带来了挑战。",
+        "en": "Federal magistrate judge Maritza Braswell in Colorado is dealing with a large volume of AI-generated documents written by individuals without legal representation, posing challenges for the courts.",
+        "de": "Die Bundesrichterin Maritza Braswell in Colorado hat mit einer großen Anzahl von KI-generierten Dokumenten zu kämpfen, die von Personen ohne rechtliche Vertretung verfasst wurden, was eine Herausforderung für die Gerichte darstellt."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-04",
       "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "Meta黑客事件显示AI安全性不仅仅是神话",
+        "en": "The Meta hack shows there’s more to AI security than Mythos",
+        "de": "Der Meta-Hack zeigt, dass es bei der KI-Sicherheit mehr als nur Mythos gibt"
+      },
+      "summary": {
+        "zh": "最近的Meta黑客事件揭示了攻击者如何利用AI客户支持代理来窃取Instagram账户，突显了AI安全的重要性。",
+        "en": "The recent Meta hack reveals how attackers exploited an AI customer support agent to steal Instagram accounts, highlighting the importance of AI security.",
+        "de": "Der jüngste Meta-Hack zeigt, wie Angreifer einen KI-Kundenservice-Agenten ausgenutzt haben, um Instagram-Konten zu stehlen, und hebt die Bedeutung der KI-Sicherheit hervor."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-06-05",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "纽约刺杀案、堪萨斯城枪击案引发世界杯安全担忧",
-        "en": "New York stabbing, Kansas City shooting raise World Cup security concerns",
-        "de": "Stichverletzung in New York, Schießerei in Kansas City wecken Sicherheitsbedenken für die Weltmeisterschaft"
+        "zh": "世界杯：美丽游戏的政治与利润",
+        "en": "FIFA World Cup: the politics and profits of the beautiful game",
+        "de": "FIFA-Weltmeisterschaft: die Politik und die Gewinne des schönen Spiels"
       },
       "summary": {
-        "zh": "在世界杯开幕周末前，纽约发生刺杀事件，堪萨斯城发生枪击事件，引发了对赛事安全的担忧。",
-        "en": "Ahead of the World Cup opening weekend, a stabbing in New York and a shooting in Kansas City have raised concerns about security for the event.",
-        "de": "Vor dem Eröffnungswochenende der Weltmeisterschaft haben ein Messerangriff in New York und eine Schießerei in Kansas City Sicherheitsbedenken für die Veranstaltung aufgeworfen."
+        "zh": "尽管世界杯尚未开始，但政治、战争和争议已经与足球竞争，影响着赛事的氛围。",
+        "en": "Although the World Cup has yet to start, politics, war, and controversy are already competing with football, affecting the atmosphere of the event.",
+        "de": "Obwohl die WM noch nicht begonnen hat, konkurrieren Politik, Krieg und Kontroversen bereits mit dem Fußball und beeinflussen die Atmosphäre der Veranstaltung."
       },
       "source": "Al Jazeera",
       "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/sports/2026/6/8/new-york-stabbing-kansas-city-shooting-raise-world-cup-security-concerns?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/8/aje-onl-tt_glb_worldcuppreview_v4-080626?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列和伊朗互相攻击，停火协议岌岌可危",
-        "en": "Israel and Iran exchange attacks as ceasefire falters",
-        "de": "Israel und Iran tauschen Angriffe aus, während der Waffenstillstand ins Wanken gerät"
+        "zh": "核风险上升，核大国扩张和现代化军备",
+        "en": "Nuclear risks rise as powers expand and modernise arsenals",
+        "de": "Nukleare Risiken steigen, während Mächte ihre Arsenale erweitern und modernisieren"
       },
       "summary": {
-        "zh": "以色列和伊朗之间的攻击加剧，美国总统特朗普与以色列总理内塔尼亚胡进行了会谈以遏制升级。",
-        "en": "Attacks between Israel and Iran have intensified, with US President Trump speaking with Israeli Prime Minister Netanyahu to contain the escalation.",
-        "de": "Die Angriffe zwischen Israel und Iran haben sich verstärkt, während US-Präsident Trump mit dem israelischen Ministerpräsidenten Netanyahu sprach, um die Eskalation einzudämmen."
+        "zh": "SIPRI研究警告称，核国家在升级武器库的同时，逐渐放弃了裁军承诺，导致升级风险加剧。",
+        "en": "A SIPRI study warns that nuclear states are walking away from disarmament commitments while modernizing their arsenals, leading to heightened escalation risks.",
+        "de": "Eine SIPRI-Studie warnt, dass nukleare Staaten von Abrüstungsversprechen abweichen, während sie ihre Arsenale modernisieren, was zu erhöhten Eskalationsrisiken führt."
       },
       "source": "Al Jazeera",
       "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/news/2026/6/8/israel-and-iran-exchange-attacks-as-ceasefire-falters?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/8/nuclear-risks-rise-as-powers-expand-and-modernise-arsenals-study-finds?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "泽连斯基的亲密欧洲盟友提出和平谈判的五项条件",
-        "en": "Zelensky's close European allies set out five conditions for peace talks",
-        "de": "Zelenskyjs enge europäische Verbündete legen fünf Bedingungen für Friedensgespräche fest"
+        "zh": "美国法官推翻特朗普的10万美元H1-B签证费",
+        "en": "US judge strikes down Trump’s $100,000 H1-B visa fee",
+        "de": "US-Richter hebt Trumps 100.000-Dollar-H1-B-Visumgebühr auf"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基与其亲密的欧洲盟友会晤，讨论了和平谈判的条件。",
-        "en": "Ukrainian President Zelensky met with his close European allies to discuss conditions for peace talks.",
-        "de": "Der ukrainische Präsident Zelensky traf sich mit seinen engen europäischen Verbündeten, um Bedingungen für Friedensgespräche zu erörtern."
+        "zh": "一名联邦法官裁定，特朗普所施加的签证费属于税收，超出了他的权力范围。",
+        "en": "A federal judge ruled that the visa fee imposed by Trump was a tax that he did not have the authority to impose.",
+        "de": "Ein Bundesrichter entschied, dass die von Trump auferlegte Visumgebühr eine Steuer war, die er nicht erheben durfte."
       },
-      "source": "BBC News",
-      "date": "2026-06-07",
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-06-08",
+      "url": "https://www.aljazeera.com/economy/2026/6/8/us-judge-strikes-down-trumps-100000-h1-b-visa-fee?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国提议对60个经济体征收新关税以打击强迫劳动贸易",
-        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
-        "de": "Die USA schlagen neue Zölle auf 60 Volkswirtschaften wegen Praktiken des Zwangsarbeitshandels vor"
+        "zh": "家庭财务担忧达到自2022年7月以来的最高水平，纽约联储调查显示",
+        "en": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
+        "de": "Haushaltsängste über Finanzen erreichen höchsten Stand seit Juli 2022, zeigt Umfrage der New Yorker Fed"
       },
       "summary": {
-        "zh": "美国贸易代表提议对采用强迫劳动贸易的经济体征收10%至12.5%的关税，旨在打击这一不当行为。",
-        "en": "The U.S. Trade Representative has proposed a 10% to 12.5% tariff on economies that engage in forced labor trade practices, aiming to combat this malpractice.",
-        "de": "Der Handelsbeauftragte der USA hat einen Zoll von 10 % bis 12,5 % auf Volkswirtschaften vorgeschlagen, die Praktiken des Zwangsarbeitshandels anwenden, um dieses Fehlverhalten zu bekämpfen."
+        "zh": "纽约联储的月度调查显示，尽管通胀预期大致保持不变，但公众对经济状况的看法恶化。",
+        "en": "The New York Fed's monthly survey shows that while inflation expectations remain largely unchanged, the public's perception of economic conditions has deteriorated.",
+        "de": "Die monatliche Umfrage der New Yorker Fed zeigt, dass die Inflationserwartungen weitgehend unverändert bleiben, die öffentliche Wahrnehmung der wirtschaftlichen Bedingungen sich jedoch verschlechtert hat."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-06-08",
+      "url": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "美国提议对60个经济体征收新关税，因强迫劳动贸易行为",
+        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
+        "de": "Die USA schlagen neue Zölle auf 60 Volkswirtschaften wegen Zwangsarbeitspraktiken vor"
+      },
+      "summary": {
+        "zh": "美国贸易代表提议对采取全面或部分禁止强迫劳动贸易的经济体征收10%的关税。",
+        "en": "The U.S. Trade Representative has proposed a 10% tariff on economies that have adopted a full or partial prohibition on forced labor trade.",
+        "de": "Der US-Handelsbeauftragte hat einen 10%-Zoll auf Volkswirtschaften vorgeschlagen, die ein vollständiges oder teilweises Verbot von Zwangsarbeitspraktiken eingeführt haben."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-04",
       "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
         "zh": "美国长期失业人数激增，工人和经济面临隐性成本",
         "en": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy",
-        "de": "Langzeitarbeitslosigkeit in den USA steigt sprunghaft an. Es gibt versteckte Kosten für Arbeitnehmer und die Wirtschaft"
+        "de": "Langzeitarbeitslosigkeit in den USA steigt stark an. Es gibt versteckte Kosten für Arbeitnehmer und die Wirtschaft"
       },
       "summary": {
-        "zh": "美国的长期失业人数激增，这对工人和经济造成了长期的财务和情感影响。",
-        "en": "Long-term unemployment is surging in the U.S., causing long-lasting financial and emotional impacts on workers and the economy.",
-        "de": "Die Langzeitarbeitslosigkeit in den USA steigt sprunghaft an und hat langfristige finanzielle und emotionale Auswirkungen auf Arbeitnehmer und die Wirtschaft."
+        "zh": "长期失业对工人和经济的财务、情感和家庭健康产生了持久影响，即使在重新进入劳动力市场之后。",
+        "en": "Long-term unemployment has lasting ramifications on financial, emotional, and family health for workers, even after re-entering the workforce.",
+        "de": "Langzeitarbeitslosigkeit hat nachhaltige Auswirkungen auf die finanzielle, emotionale und familiäre Gesundheit der Arbeitnehmer, selbst nach der Rückkehr in den Arbeitsmarkt."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-04",
       "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "油价在伊朗新攻击威胁停火的情况下大幅上涨",
-        "en": "Oil prices jump by the most in over a month as fresh attacks threaten the ceasefire with Iran",
-        "de": "Die Ölpreise steigen am stärksten seit über einem Monat, da neue Angriffe den Waffenstillstand mit dem Iran bedrohen"
-      },
-      "summary": {
-        "zh": "由于新的攻击威胁到与伊朗的停火协议，油价在一个月内大幅上涨，市场反应剧烈。",
-        "en": "Oil prices surged the most in over a month as new attacks threaten the ceasefire with Iran, causing significant market reactions.",
-        "de": "Die Ölpreise sind aufgrund neuer Angriffe, die den Waffenstillstand mit dem Iran bedrohen, am stärksten seit über einem Monat gestiegen, was zu erheblichen Marktreaktionen führte."
-      },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-06-08",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-slide-oil-prices-surge-as-new-attacks-threaten-the-cease-fire-with-iran-6e433c90?mod=mw_rss_topstories"
     }
   ]
 }
