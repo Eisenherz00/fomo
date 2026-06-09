@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-08T18:41:18.946949+00:00",
+  "generatedAt": "2026-06-09T08:07:25.250526+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：世界杯足球的飞行方式和OpenAI的“超级应用”",
+        "zh": "下载：世界杯球将如何飞行和OpenAI的“超级应用”",
         "en": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
         "de": "Der Download: wie der WM-Ball fliegen wird und OpenAIs „Super-App“"
       },
       "summary": {
-        "zh": "本期下载提供了有关世界杯足球的飞行方式和OpenAI新推出的“超级应用”的最新信息。",
-        "en": "This edition of The Download provides the latest information on how the World Cup ball will fly and OpenAI's newly launched 'super app'.",
-        "de": "Diese Ausgabe des Downloads bietet die neuesten Informationen darüber, wie der WM-Ball fliegen wird und über OpenAIs neu eingeführte „Super-App“."
+        "zh": "在今天的《下载》中，我们探讨了世界杯球的飞行特性以及OpenAI正在开发的“超级应用”。这些技术进展可能会影响体育和人工智能的未来。",
+        "en": "In today's edition of The Download, we explore the flight characteristics of the World Cup ball and the 'super app' being developed by OpenAI. These technological advancements could impact the future of sports and AI.",
+        "de": "In der heutigen Ausgabe des Downloads untersuchen wir die Flugeigenschaften des WM-Balls und die von OpenAI entwickelte „Super-App“. Diese technologischen Fortschritte könnten die Zukunft von Sport und KI beeinflussen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-08",
@@ -25,9 +25,9 @@
         "de": "Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen"
       },
       "summary": {
-        "zh": "科罗拉多州的联邦法官Maritza Braswell正在处理大量由没有律师的个人撰写的AI生成文件，这给法院带来了挑战。",
-        "en": "Federal magistrate judge Maritza Braswell in Colorado is dealing with a large volume of AI-generated documents written by individuals without legal representation, posing challenges for the courts.",
-        "de": "Die Bundesrichterin Maritza Braswell in Colorado hat mit einer großen Anzahl von KI-generierten Dokumenten zu kämpfen, die von Personen ohne rechtliche Vertretung verfasst wurden, was eine Herausforderung für die Gerichte darstellt."
+        "zh": "联邦法官Maritza Braswell正在处理大量由没有法律背景的个人撰写的AI生成的诉讼文件。法院面临着如何有效管理这些案件的挑战。",
+        "en": "Federal magistrate judge Maritza Braswell is sifting through a large volume of AI-generated lawsuit documents written by individuals without legal backgrounds. Courts are facing challenges in effectively managing these cases.",
+        "de": "Die Bundesrichterin Maritza Braswell siftet durch eine große Menge an KI-generierten Klageschriften, die von Personen ohne juristischen Hintergrund verfasst wurden. Die Gerichte stehen vor der Herausforderung, diese Fälle effektiv zu verwalten."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-04",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "Meta黑客事件显示AI安全性不仅仅是神话",
+        "zh": "Meta黑客事件显示AI安全性问题的复杂性",
         "en": "The Meta hack shows there’s more to AI security than Mythos",
-        "de": "Der Meta-Hack zeigt, dass es bei der KI-Sicherheit mehr als nur Mythos gibt"
+        "de": "Der Meta-Hack zeigt, dass es bei der KI-Sicherheit mehr gibt als Mythos"
       },
       "summary": {
-        "zh": "最近的Meta黑客事件揭示了攻击者如何利用AI客户支持代理来窃取Instagram账户，突显了AI安全的重要性。",
-        "en": "The recent Meta hack reveals how attackers exploited an AI customer support agent to steal Instagram accounts, highlighting the importance of AI security.",
-        "de": "Der jüngste Meta-Hack zeigt, wie Angreifer einen KI-Kundenservice-Agenten ausgenutzt haben, um Instagram-Konten zu stehlen, und hebt die Bedeutung der KI-Sicherheit hervor."
+        "zh": "Meta的AI客户支持代理被攻击者利用来窃取Instagram账户，显示出AI安全性面临的复杂挑战。此事件突显了对AI系统安全性的更广泛关注。",
+        "en": "Meta's AI customer support agent was exploited by attackers to steal Instagram accounts, highlighting the complex challenges facing AI security. This incident underscores the broader concerns regarding the safety of AI systems.",
+        "de": "Der KI-Kundenservice-Agent von Meta wurde von Angreifern ausgenutzt, um Instagram-Konten zu stehlen, was die komplexen Herausforderungen der KI-Sicherheit hervorhebt. Dieser Vorfall unterstreicht die breiteren Bedenken hinsichtlich der Sicherheit von KI-Systemen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-05",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "世界杯：美丽游戏的政治与利润",
-        "en": "FIFA World Cup: the politics and profits of the beautiful game",
-        "de": "FIFA-Weltmeisterschaft: die Politik und die Gewinne des schönen Spiels"
+        "zh": "中国的习近平与朝鲜的金正恩在平壤峰会上承诺加强关系",
+        "en": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
+        "de": "Chinas Xi und Nordkoreas Kim versprechen, die Beziehungen beim seltenen Gipfeltreffen in Pjöngjang zu stärken"
       },
       "summary": {
-        "zh": "尽管世界杯尚未开始，但政治、战争和争议已经与足球竞争，影响着赛事的氛围。",
-        "en": "Although the World Cup has yet to start, politics, war, and controversy are already competing with football, affecting the atmosphere of the event.",
-        "de": "Obwohl die WM noch nicht begonnen hat, konkurrieren Politik, Krieg und Kontroversen bereits mit dem Fußball und beeinflussen die Atmosphäre der Veranstaltung."
+        "zh": "习近平在朝鲜的罕见访问中承诺与金正恩深化合作，表明两国关系的进一步发展。",
+        "en": "During a rare visit to North Korea, Xi Jinping pledged to deepen cooperation with Kim Jong Un, indicating further development in the bilateral relationship.",
+        "de": "Während eines seltenen Besuchs in Nordkorea versprach Xi Jinping, die Zusammenarbeit mit Kim Jong Un zu vertiefen, was auf eine weitere Entwicklung der bilateralen Beziehungen hinweist."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/8/aje-onl-tt_glb_worldcuppreview_v4-080626?traffic_source=rss"
+      "date": "2026-06-09",
+      "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "核风险上升，核大国扩张和现代化军备",
-        "en": "Nuclear risks rise as powers expand and modernise arsenals",
-        "de": "Nukleare Risiken steigen, während Mächte ihre Arsenale erweitern und modernisieren"
+        "zh": "特朗普警告以色列不要进行新的打击，停火仍然保持",
+        "en": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
+        "de": "Iran-Krieg Tag 102: Trump warnt Israel vor neuen Angriffen, während der Waffenstillstand hält"
       },
       "summary": {
-        "zh": "SIPRI研究警告称，核国家在升级武器库的同时，逐渐放弃了裁军承诺，导致升级风险加剧。",
-        "en": "A SIPRI study warns that nuclear states are walking away from disarmament commitments while modernizing their arsenals, leading to heightened escalation risks.",
-        "de": "Eine SIPRI-Studie warnt, dass nukleare Staaten von Abrüstungsversprechen abweichen, während sie ihre Arsenale modernisieren, was zu erhöhten Eskalationsrisiken führt."
+        "zh": "在伊朗战争的第102天，特朗普呼吁以色列保护脆弱的停火协议，尽管局势依然紧张。",
+        "en": "On the 102nd day of the Iran war, Trump urged Israel to protect the fragile ceasefire agreement, despite ongoing tensions.",
+        "de": "Am 102. Tag des Iran-Kriegs forderte Trump Israel auf, das fragile Waffenstillstandsabkommen zu schützen, trotz anhaltender Spannungen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/news/2026/6/8/nuclear-risks-rise-as-powers-expand-and-modernise-arsenals-study-finds?traffic_source=rss"
+      "date": "2026-06-09",
+      "url": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国法官推翻特朗普的10万美元H1-B签证费",
-        "en": "US judge strikes down Trump’s $100,000 H1-B visa fee",
-        "de": "US-Richter hebt Trumps 100.000-Dollar-H1-B-Visumgebühr auf"
+        "zh": "习近平与金正恩在北朝鲜访问结束时誓言加强关系",
+        "en": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
+        "de": "Xi Jinping und Kim Jong Un geloben stärkere Beziehungen, als der Nordkorea-Besuch zu Ende geht"
       },
       "summary": {
-        "zh": "一名联邦法官裁定，特朗普所施加的签证费属于税收，超出了他的权力范围。",
-        "en": "A federal judge ruled that the visa fee imposed by Trump was a tax that he did not have the authority to impose.",
-        "de": "Ein Bundesrichter entschied, dass die von Trump auferlegte Visumgebühr eine Steuer war, die er nicht erheben durfte."
+        "zh": "习近平结束了自2019年以来首次正式访问朝鲜，承诺加强两国之间的关系。",
+        "en": "Xi Jinping concluded his first official visit to North Korea since 2019, pledging to strengthen ties between the two countries.",
+        "de": "Xi Jinping schloss seinen ersten offiziellen Besuch in Nordkorea seit 2019 ab und versprach, die Beziehungen zwischen den beiden Ländern zu stärken."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-08",
-      "url": "https://www.aljazeera.com/economy/2026/6/8/us-judge-strikes-down-trumps-100000-h1-b-visa-fee?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-06-09",
+      "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "家庭财务担忧达到自2022年7月以来的最高水平，纽约联储调查显示",
+        "zh": "家庭财务担忧达到2022年7月以来的最高水平，纽约联储调查显示",
         "en": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
         "de": "Haushaltsängste über Finanzen erreichen höchsten Stand seit Juli 2022, zeigt Umfrage der New Yorker Fed"
       },
       "summary": {
-        "zh": "纽约联储的月度调查显示，尽管通胀预期大致保持不变，但公众对经济状况的看法恶化。",
-        "en": "The New York Fed's monthly survey shows that while inflation expectations remain largely unchanged, the public's perception of economic conditions has deteriorated.",
-        "de": "Die monatliche Umfrage der New Yorker Fed zeigt, dass die Inflationserwartungen weitgehend unverändert bleiben, die öffentliche Wahrnehmung der wirtschaftlichen Bedingungen sich jedoch verschlechtert hat."
+        "zh": "纽约联邦储备银行的调查显示，家庭对财务状况的担忧达到了自2022年7月以来的最高水平，尽管通胀预期基本保持不变。",
+        "en": "A survey by the New York Federal Reserve shows that household worries about financial conditions have reached their highest level since July 2022, despite inflation expectations remaining mostly unchanged.",
+        "de": "Eine Umfrage der New Yorker Federal Reserve zeigt, dass die Sorgen der Haushalte über die finanziellen Bedingungen den höchsten Stand seit Juli 2022 erreicht haben, obwohl die Inflationserwartungen weitgehend unverändert geblieben sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-08",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国提议对60个经济体征收新关税，因强迫劳动贸易行为",
-        "en": "U.S. proposes fresh tariffs on 60 economies over forced labor trade practices",
-        "de": "Die USA schlagen neue Zölle auf 60 Volkswirtschaften wegen Zwangsarbeitspraktiken vor"
+        "zh": "GSK刚刚宣布其八年来最大的一笔收购，以重振其癌症产品组合",
+        "en": "GSK just announced its biggest purchase in eight years to rev up cancer portfolio it had previously wound down",
+        "de": "GSK hat gerade seinen größten Kauf seit acht Jahren angekündigt, um das zuvor zurückgefahrene Krebsportfolio wiederzubeleben"
       },
       "summary": {
-        "zh": "美国贸易代表提议对采取全面或部分禁止强迫劳动贸易的经济体征收10%的关税。",
-        "en": "The U.S. Trade Representative has proposed a 10% tariff on economies that have adopted a full or partial prohibition on forced labor trade.",
-        "de": "Der US-Handelsbeauftragte hat einen 10%-Zoll auf Volkswirtschaften vorgeschlagen, die ein vollständiges oder teilweises Verbot von Zwangsarbeitspraktiken eingeführt haben."
+        "zh": "英国制药巨头GSK宣布以106亿美元收购美国生物技术公司Nuvalent，这是其八年来最大的一笔收购。",
+        "en": "UK pharmaceutical giant GSK announced a $10.6 billion acquisition of US biotech company Nuvalent, marking its largest purchase in eight years.",
+        "de": "Der britische Pharmagigant GSK gab die Übernahme des US-Biotechunternehmens Nuvalent für 10,6 Milliarden US-Dollar bekannt, was den größten Kauf seit acht Jahren darstellt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-06-04",
-      "url": "https://www.cnbc.com/2026/06/03/us-tariffs-60-economies-dection-301-forced-labor-trade-practices-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-09",
+      "url": "https://www.marketwatch.com/story/gsk-just-announced-its-biggest-purchase-in-eight-years-to-rev-up-cancer-portfolio-it-had-previously-wound-down-a95e6065?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国长期失业人数激增，工人和经济面临隐性成本",
-        "en": "Long-term unemployment is surging in the U.S. There are hidden costs for workers and the economy",
-        "de": "Langzeitarbeitslosigkeit in den USA steigt stark an. Es gibt versteckte Kosten für Arbeitnehmer und die Wirtschaft"
+        "zh": "BofA在美国股市中看到“红旗”。现在该买什么。",
+        "en": "BofA sees ‘red flags’ in the U.S. stock market. Here’s what to buy now.",
+        "de": "BofA sieht „rote Flaggen“ im US-Aktienmarkt. Hier ist, was man jetzt kaufen sollte."
       },
       "summary": {
-        "zh": "长期失业对工人和经济的财务、情感和家庭健康产生了持久影响，即使在重新进入劳动力市场之后。",
-        "en": "Long-term unemployment has lasting ramifications on financial, emotional, and family health for workers, even after re-entering the workforce.",
-        "de": "Langzeitarbeitslosigkeit hat nachhaltige Auswirkungen auf die finanzielle, emotionale und familiäre Gesundheit der Arbeitnehmer, selbst nach der Rückkehr in den Arbeitsmarkt."
+        "zh": "美银分析师指出，美国股市存在潜在风险，建议投资者关注特定股票以应对市场波动。",
+        "en": "Bank of America analysts have pointed out potential risks in the U.S. stock market, advising investors to focus on specific stocks to navigate market volatility.",
+        "de": "Analysten der Bank of America haben potenzielle Risiken im US-Aktienmarkt aufgezeigt und raten den Anlegern, sich auf bestimmte Aktien zu konzentrieren, um die Marktvolatilität zu bewältigen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-06-04",
-      "url": "https://www.cnbc.com/2026/06/04/long-term-unemployment-economy-jobs.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-09",
+      "url": "https://www.marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories"
     }
   ]
 }
