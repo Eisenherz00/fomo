@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-09T08:07:25.250526+00:00",
+  "generatedAt": "2026-06-09T18:26:31.988743+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：世界杯球将如何飞行和OpenAI的“超级应用”",
-        "en": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-        "de": "Der Download: wie der WM-Ball fliegen wird und OpenAIs „Super-App“"
+        "zh": "下载：全身年轻化药物和关于AI的五件事",
+        "en": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+        "de": "Der Download: Medikamente zur Ganzkörperverjüngung und fünf Dinge, die Sie über KI wissen sollten"
       },
       "summary": {
-        "zh": "在今天的《下载》中，我们探讨了世界杯球的飞行特性以及OpenAI正在开发的“超级应用”。这些技术进展可能会影响体育和人工智能的未来。",
-        "en": "In today's edition of The Download, we explore the flight characteristics of the World Cup ball and the 'super app' being developed by OpenAI. These technological advancements could impact the future of sports and AI.",
-        "de": "In der heutigen Ausgabe des Downloads untersuchen wir die Flugeigenschaften des WM-Balls und die von OpenAI entwickelte „Super-App“. Diese technologischen Fortschritte könnten die Zukunft von Sport und KI beeinflussen."
+        "zh": "今天的《下载》提供了关于全身年轻化药物的最新信息，以及五个关于人工智能的重要主题。",
+        "en": "Today's Download provides the latest information on whole-body rejuvenation drugs and five important themes regarding AI.",
+        "de": "Der heutige Download bietet die neuesten Informationen zu Medikamenten zur Ganzkörperverjüngung und fünf wichtigen Themen zur KI."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-08",
-      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
+      "date": "2026-06-09",
+      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "法院如何应对AI生成诉讼的洪流",
-        "en": "How courts are coping with a flood of AI-generated lawsuits",
-        "de": "Wie Gerichte mit einer Flut von KI-generierten Klagen umgehen"
+        "zh": "学习在混合人类与AI企业中领导",
+        "en": "Learning to lead in a hybrid human-AI enterprise",
+        "de": "Führen lernen in einem hybriden Mensch-KI-Unternehmen"
       },
       "summary": {
-        "zh": "联邦法官Maritza Braswell正在处理大量由没有法律背景的个人撰写的AI生成的诉讼文件。法院面临着如何有效管理这些案件的挑战。",
-        "en": "Federal magistrate judge Maritza Braswell is sifting through a large volume of AI-generated lawsuit documents written by individuals without legal backgrounds. Courts are facing challenges in effectively managing these cases.",
-        "de": "Die Bundesrichterin Maritza Braswell siftet durch eine große Menge an KI-generierten Klageschriften, die von Personen ohne juristischen Hintergrund verfasst wurden. Die Gerichte stehen vor der Herausforderung, diese Fälle effektiv zu verwalten."
+        "zh": "随着AI代理的采用预计在未来两年内激增300%，领导团队正在仔细考虑这一变化的影响。",
+        "en": "As the adoption of AI agents is expected to surge by 300% in the next two years, leadership teams are carefully considering the implications of this shift.",
+        "de": "Da die Einführung von KI-Agenten in den nächsten zwei Jahren voraussichtlich um 300 % steigen wird, ziehen Führungsteams die Auswirkungen dieses Wandels sorgfältig in Betracht."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-04",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+      "date": "2026-06-09",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "Meta黑客事件显示AI安全性问题的复杂性",
-        "en": "The Meta hack shows there’s more to AI security than Mythos",
-        "de": "Der Meta-Hack zeigt, dass es bei der KI-Sicherheit mehr gibt als Mythos"
+        "zh": "大卫·辛克莱计划在XPrize比赛中测试全身年轻化药物",
+        "en": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+        "de": "David Sinclair plant, Medikamente zur Ganzkörperverjüngung im XPrize-Wettbewerb zu testen"
       },
       "summary": {
-        "zh": "Meta的AI客户支持代理被攻击者利用来窃取Instagram账户，显示出AI安全性面临的复杂挑战。此事件突显了对AI系统安全性的更广泛关注。",
-        "en": "Meta's AI customer support agent was exploited by attackers to steal Instagram accounts, highlighting the complex challenges facing AI security. This incident underscores the broader concerns regarding the safety of AI systems.",
-        "de": "Der KI-Kundenservice-Agent von Meta wurde von Angreifern ausgenutzt, um Instagram-Konten zu stehlen, was die komplexen Herausforderungen der KI-Sicherheit hervorhebt. Dieser Vorfall unterstreicht die breiteren Bedenken hinsichtlich der Sicherheit von KI-Systemen."
+        "zh": "长寿科学家大卫·辛克莱预测，未来人们将能通过处方获得全身年轻化药物，并计划在XPrize比赛中进行测试。",
+        "en": "Longevity scientist David Sinclair predicts that in the future, people will be able to obtain whole-body rejuvenation drugs through prescriptions and plans to test them in the XPrize competition.",
+        "de": "Der Langlebigkeitswissenschaftler David Sinclair prognostiziert, dass Menschen in Zukunft Medikamente zur Ganzkörperverjüngung durch Rezepte erhalten können, und plant, diese im XPrize-Wettbewerb zu testen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-05",
-      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
+      "date": "2026-06-09",
+      "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "中国的习近平与朝鲜的金正恩在平壤峰会上承诺加强关系",
-        "en": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
-        "de": "Chinas Xi und Nordkoreas Kim versprechen, die Beziehungen beim seltenen Gipfeltreffen in Pjöngjang zu stärken"
+        "zh": "以色列阻止超过16500名巴勒斯坦人接受医疗治疗",
+        "en": "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
+        "de": "Israel verhindert, dass mehr als 16.500 Palästinenser medizinische Behandlung erhalten"
       },
       "summary": {
-        "zh": "习近平在朝鲜的罕见访问中承诺与金正恩深化合作，表明两国关系的进一步发展。",
-        "en": "During a rare visit to North Korea, Xi Jinping pledged to deepen cooperation with Kim Jong Un, indicating further development in the bilateral relationship.",
-        "de": "Während eines seltenen Besuchs in Nordkorea versprach Xi Jinping, die Zusammenarbeit mit Kim Jong Un zu vertiefen, was auf eine weitere Entwicklung der bilateralen Beziehungen hinweist."
+        "zh": "自2023年10月发起种族灭绝战争以来，以色列系统性地摧毁了加沙的医疗系统，导致超过16500名巴勒斯坦人无法获得医疗治疗。",
+        "en": "Since launching its genocidal war in October 2023, Israel has systematically destroyed Gaza's healthcare system, preventing over 16,500 Palestinians from accessing medical treatment.",
+        "de": "Seit dem Beginn seines völkermörderischen Krieges im Oktober 2023 hat Israel das Gesundheitssystem Gazas systematisch zerstört und mehr als 16.500 Palästinenser daran gehindert, medizinische Behandlung zu erhalten."
       },
       "source": "Al Jazeera",
       "date": "2026-06-09",
-      "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/9/israel-preventing-more-than-16500-palestinians-from-accessing-medical-treatment?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普警告以色列不要进行新的打击，停火仍然保持",
-        "en": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
-        "de": "Iran-Krieg Tag 102: Trump warnt Israel vor neuen Angriffen, während der Waffenstillstand hält"
+        "zh": "特朗普称伊朗击落美国直升机，誓言回应",
+        "en": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
+        "de": "Trump sagt, Iran habe US-Helikopter über dem Hormus geschossen und verspricht, zu reagieren"
       },
       "summary": {
-        "zh": "在伊朗战争的第102天，特朗普呼吁以色列保护脆弱的停火协议，尽管局势依然紧张。",
-        "en": "On the 102nd day of the Iran war, Trump urged Israel to protect the fragile ceasefire agreement, despite ongoing tensions.",
-        "de": "Am 102. Tag des Iran-Kriegs forderte Trump Israel auf, das fragile Waffenstillstandsabkommen zu schützen, trotz anhaltender Spannungen."
+        "zh": "美国总统特朗普表示，尽管直升机的飞行员被救起，华盛顿“必须对此次攻击作出必要回应”。",
+        "en": "US President Trump stated that although the helicopter's pilots were rescued, Washington 'must, of necessity, respond to this attack'.",
+        "de": "US-Präsident Trump erklärte, dass Washington 'notwendigerweise auf diesen Angriff reagieren muss', obwohl die Piloten des Hubschraubers gerettet wurden."
       },
       "source": "Al Jazeera",
       "date": "2026-06-09",
-      "url": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "习近平与金正恩在北朝鲜访问结束时誓言加强关系",
-        "en": "Xi Jinping and Kim Jong Un vow stronger ties as North Korea visit wraps up",
-        "de": "Xi Jinping und Kim Jong Un geloben stärkere Beziehungen, als der Nordkorea-Besuch zu Ende geht"
+        "zh": "阿尔梅尼亚人在纳戈尔诺-卡拉巴赫之后投票选择和平而非民族主义",
+        "en": "After Nagorno-Karabakh, Armenians vote for peace over nationalism",
+        "de": "Nach Nagorno-Karabach stimmen die Armenier für Frieden statt Nationalismus"
       },
       "summary": {
-        "zh": "习近平结束了自2019年以来首次正式访问朝鲜，承诺加强两国之间的关系。",
-        "en": "Xi Jinping concluded his first official visit to North Korea since 2019, pledging to strengthen ties between the two countries.",
-        "de": "Xi Jinping schloss seinen ersten offiziellen Besuch in Nordkorea seit 2019 ab und versprach, die Beziehungen zwischen den beiden Ländern zu stärken."
+        "zh": "尼科尔·帕希尼扬的胜利表明，俄罗斯在该国的影响力正在减弱。",
+        "en": "Nikol Pashinyan's victory suggests that Russia's influence in the country is waning.",
+        "de": "Der Sieg von Nikol Pashinyan deutet darauf hin, dass der Einfluss Russlands im Land nachlässt."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-06-09",
-      "url": "https://www.bbc.com/news/articles/ceqdnpzv45po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/features/2026/6/9/after-karabakh-armenians-vote-for-peace-over-nationalism?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "家庭财务担忧达到2022年7月以来的最高水平，纽约联储调查显示",
+        "zh": "家庭对财务的担忧达到自2022年7月以来的最高水平，纽约联储调查显示",
         "en": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
         "de": "Haushaltsängste über Finanzen erreichen höchsten Stand seit Juli 2022, zeigt Umfrage der New Yorker Fed"
       },
       "summary": {
-        "zh": "纽约联邦储备银行的调查显示，家庭对财务状况的担忧达到了自2022年7月以来的最高水平，尽管通胀预期基本保持不变。",
-        "en": "A survey by the New York Federal Reserve shows that household worries about financial conditions have reached their highest level since July 2022, despite inflation expectations remaining mostly unchanged.",
-        "de": "Eine Umfrage der New Yorker Federal Reserve zeigt, dass die Sorgen der Haushalte über die finanziellen Bedingungen den höchsten Stand seit Juli 2022 erreicht haben, obwohl die Inflationserwartungen weitgehend unverändert geblieben sind."
+        "zh": "纽约联邦储备银行的调查显示，尽管通胀前景大致保持不变，但家庭对财务状况的普遍看法恶化。",
+        "en": "The New York Federal Reserve's survey shows that while the inflation outlook remains largely unchanged, the general perception of financial conditions has deteriorated.",
+        "de": "Die Umfrage der New Yorker Federal Reserve zeigt, dass sich die allgemeine Wahrnehmung der finanziellen Bedingungen verschlechtert hat, obwohl die Inflationsprognose weitgehend unverändert bleibt."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-06-08",
       "url": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "GSK刚刚宣布其八年来最大的一笔收购，以重振其癌症产品组合",
-        "en": "GSK just announced its biggest purchase in eight years to rev up cancer portfolio it had previously wound down",
-        "de": "GSK hat gerade seinen größten Kauf seit acht Jahren angekündigt, um das zuvor zurückgefahrene Krebsportfolio wiederzubeleben"
+        "zh": "社会保障在2032年面临破产，届时将只支付78%的福利",
+        "en": "Social Security faces insolvency in 2032, when it would pay only 78% of benefits",
+        "de": "Die Sozialversicherung steht 2032 vor der Insolvenz, wenn sie nur 78 % der Leistungen zahlen würde"
       },
       "summary": {
-        "zh": "英国制药巨头GSK宣布以106亿美元收购美国生物技术公司Nuvalent，这是其八年来最大的一笔收购。",
-        "en": "UK pharmaceutical giant GSK announced a $10.6 billion acquisition of US biotech company Nuvalent, marking its largest purchase in eight years.",
-        "de": "Der britische Pharmagigant GSK gab die Übernahme des US-Biotechunternehmens Nuvalent für 10,6 Milliarden US-Dollar bekannt, was den größten Kauf seit acht Jahren darstellt."
+        "zh": "社会保障面临来自去年增加的压力，预计到2032年将面临破产，届时将只能支付78%的福利。",
+        "en": "Social Security faces increased pressure from last year and is projected to face insolvency by 2032, when it would only be able to pay 78% of benefits.",
+        "de": "Die Sozialversicherung sieht sich zunehmendem Druck aus dem letzten Jahr gegenüber und wird voraussichtlich bis 2032 vor der Insolvenz stehen, wenn sie nur 78 % der Leistungen zahlen kann."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "MarketWatch",
       "date": "2026-06-09",
-      "url": "https://www.marketwatch.com/story/gsk-just-announced-its-biggest-purchase-in-eight-years-to-rev-up-cancer-portfolio-it-had-previously-wound-down-a95e6065?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/social-security-faces-insolvency-in-2032-when-it-would-pay-only-78-of-benefits-b0f0df22?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "BofA在美国股市中看到“红旗”。现在该买什么。",
-        "en": "BofA sees ‘red flags’ in the U.S. stock market. Here’s what to buy now.",
-        "de": "BofA sieht „rote Flaggen“ im US-Aktienmarkt. Hier ist, was man jetzt kaufen sollte."
+        "zh": "油价无视最坏的能源危机，但变通办法不会持久",
+        "en": "Oil prices are defying a worst-case energy crisis — but workarounds won’t last forever",
+        "de": "Die Ölpreise trotzen einer schlimmsten Energiekrise – aber Umgehungslösungen werden nicht ewig halten"
       },
       "summary": {
-        "zh": "美银分析师指出，美国股市存在潜在风险，建议投资者关注特定股票以应对市场波动。",
-        "en": "Bank of America analysts have pointed out potential risks in the U.S. stock market, advising investors to focus on specific stocks to navigate market volatility.",
-        "de": "Analysten der Bank of America haben potenzielle Risiken im US-Aktienmarkt aufgezeigt und raten den Anlegern, sich auf bestimmte Aktien zu konzentrieren, um die Marktvolatilität zu bewältigen."
+        "zh": "专家指出油价相对稳定的三个主要原因，但警告说，真正的危机并不遥远。",
+        "en": "Experts point to three main reasons for the relatively steady oil prices but caution that a reckoning is not too far off.",
+        "de": "Experten nennen drei Hauptgründe für die relativ stabilen Ölpreise, warnen jedoch, dass eine Abrechnung nicht weit entfernt ist."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "MarketWatch",
       "date": "2026-06-09",
-      "url": "https://www.marketwatch.com/story/bofa-sees-red-flags-in-the-u-s-stock-market-heres-what-to-buy-now-4d7ba245?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/oil-prices-are-defying-a-worst-case-energy-crisis-but-workarounds-wont-last-forever-9081cbdc?mod=mw_rss_topstories"
     }
   ]
 }
