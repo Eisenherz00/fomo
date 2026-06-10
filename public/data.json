@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-06-10T08:31:43.978879+00:00",
+  "generatedAt": "2026-06-10T18:45:47.529841+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：全身年轻化药物和关于人工智能的五件事",
-        "en": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-        "de": "Der Download: Ganzkörperverjüngungsmedikamente und fünf Dinge, die Sie über KI wissen sollten"
+        "zh": "下载：'类固醇奥运会'和更安全的神话",
+        "en": "The Download: the “steroid olympics” and a safer Mythos",
+        "de": "Der Download: die „Steroid-Olympiade“ und ein sicherer Mythos"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于全身年轻化药物和人工智能的最新信息，涵盖了当前技术领域的重要主题。",
-        "en": "Today's edition of The Download provides the latest insights on whole-body rejuvenation drugs and AI, covering key themes in the current technology landscape.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Einblicke in Ganzkörperverjüngungsmedikamente und KI und behandelt wichtige Themen der aktuellen Technologielandschaft."
+        "zh": "今天的下载提供了关于技术世界的最新动态，包括类固醇奥运会的讨论和更安全的神话。",
+        "en": "Today's Download provides the latest updates from the tech world, including discussions on the steroid olympics and a safer Mythos.",
+        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich Diskussionen über die Steroid-Olympiade und einen sichereren Mythos."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-09",
-      "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/"
+      "date": "2026-06-10",
+      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "学习在混合人类-人工智能企业中领导",
+        "zh": "学习在混合人类与AI企业中领导",
         "en": "Learning to lead in a hybrid human-AI enterprise",
-        "de": "Lernen, in einem hybriden Mensch-KI-Unternehmen zu führen"
+        "de": "Lernen, in einem hybriden Mensch-AI-Unternehmen zu führen"
       },
       "summary": {
-        "zh": "随着人工智能代理的采用预计在未来两年内增长300%，领导团队正在仔细考虑其影响。",
-        "en": "As the adoption of AI agents is expected to surge by 300% in the next two years, leadership teams are carefully considering the implications.",
-        "de": "Da die Einführung von KI-Agenten in den nächsten zwei Jahren voraussichtlich um 300 % zunehmen wird, ziehen Führungsteams die Auswirkungen sorgfältig in Betracht."
+        "zh": "随着AI代理的采用预计在未来两年内激增300%，领导团队正在仔细考虑其影响。",
+        "en": "As the adoption of AI agents is expected to surge by 300% over the next two years, leadership teams are carefully considering the implications.",
+        "de": "Da die Einführung von KI-Agenten in den nächsten zwei Jahren voraussichtlich um 300 % steigen wird, ziehen Führungsteams sorgfältig die Auswirkungen in Betracht."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-09",
@@ -36,114 +36,114 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "大卫·辛克莱计划在XPrize竞赛中测试全身年轻化药物",
-        "en": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-        "de": "David Sinclair plant, Ganzkörperverjüngungsmedikamente im XPrize-Wettbewerb zu testen"
+        "zh": "关于AI的五件事",
+        "en": "Five things you need to know about AI",
+        "de": "Fünf Dinge, die Sie über KI wissen müssen"
       },
       "summary": {
-        "zh": "长寿科学家大卫·辛克莱预测，未来人们将能获得使身体年轻化的处方，他计划在XPrize竞赛中进行相关测试。",
-        "en": "Longevity scientist David Sinclair predicts that in the future, people will be able to get prescriptions for body rejuvenation, and he plans to test these in the XPrize competition.",
-        "de": "Der Langlebigkeitswissenschaftler David Sinclair prognostiziert, dass Menschen in Zukunft Rezepte für die Verjüngung des Körpers erhalten können, und plant, diese im XPrize-Wettbewerb zu testen."
+        "zh": "在SXSW伦敦上，我分享了我认为AI领域中最重要的主题。",
+        "en": "At SXSW London, I shared what I believe are the biggest themes in the field of AI.",
+        "de": "Auf dem SXSW in London habe ich geteilt, was ich für die größten Themen im Bereich KI halte."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-09",
-      "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/"
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "波罗的海国家担心俄罗斯-乌克兰战争溢出后果",
-        "en": "Baltic states fear Russia-Ukraine war spillover after drone incursions",
-        "de": "Die baltischen Staaten befürchten, dass der Russland-Ukraine-Krieg nach Drohnenincursions überschwappt"
+        "zh": "伊朗表示在最新冲突后将“毫不犹豫”自卫",
+        "en": "Iran says it will ‘not hesitate’ to defend itself after latest clashes",
+        "de": "Iran erklärt, dass es nach den neuesten Zusammenstößen „nicht zögern“ wird, sich zu verteidigen"
       },
       "summary": {
-        "zh": "一系列无人机入侵加剧了波罗的海国家对与俄罗斯可能发生军事冲突的担忧。",
-        "en": "A spate of drone incursions has heightened the Baltic states' anxieties about a potential military conflict with Russia.",
-        "de": "Eine Reihe von Drohnenincursions hat die Ängste der baltischen Staaten vor einem möglichen militärischen Konflikt mit Russland verstärkt."
+        "zh": "伊朗外交部表示，德黑兰与华盛顿之间的海湾冲突显示了伊朗的反应方式。",
+        "en": "Iran's Foreign Ministry stated that the overnight clashes in the Gulf between Tehran and Washington demonstrated how Iran will respond.",
+        "de": "Das iranische Außenministerium erklärte, dass die nächtlichen Zusammenstöße im Golf zwischen Teheran und Washington zeigten, wie Iran reagieren wird."
       },
       "source": "Al Jazeera",
       "date": "2026-06-10",
-      "url": "https://www.aljazeera.com/news/longform/2026/6/10/baltic-states-fear-russia-ukraine-war-spillover-after-drone-incursions?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-says-it-will-not-hesitate-to-defend-itself-after-latest-clashes?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "爆炸在巴林，伊朗袭击美国基地",
-        "en": "Explosion in Bahrain as Iran attacks US bases",
-        "de": "Explosion in Bahrain, als Iran US-Basen angreift"
+        "zh": "特朗普在民主党僵局后签署700亿美元移民执法法案",
+        "en": "After a Democrat standoff, Trump signs $70bn immigration enforcement bill",
+        "de": "Nach einem Demokratenduell unterzeichnet Trump ein 70-Milliarden-Dollar-Gesetz zur Einwanderungsdurchsetzung"
       },
       "summary": {
-        "zh": "巴林首都马纳马发生爆炸，官方称这是伊朗导弹袭击的结果。",
-        "en": "An explosion occurred in Bahrain's capital Manama, which authorities say was a result of an Iranian missile strike.",
-        "de": "In der Hauptstadt Manama in Bahrain kam es zu einer Explosion, die laut Behörden das Ergebnis eines iranischen Raketenangriffs war."
+        "zh": "移民倡导者警告说，该法案为ICE和CBP提供的资金几乎没有保护措施。",
+        "en": "Immigrant advocates warn that the funding bill offers few guardrails for ICE and CBP amid Trump's mass deportation campaign.",
+        "de": "Einwanderungsbefürworter warnen, dass das Finanzierungsprojekt nur wenige Schutzmaßnahmen für ICE und CBP im Rahmen von Trumps Massenabschiebungskampagne bietet."
       },
       "source": "Al Jazeera",
       "date": "2026-06-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰无人机袭击塞瓦斯托波尔博物馆和关键俄罗斯石油炼油厂",
-        "en": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
-        "de": "Ukrainische Drohnen greifen das Museum von Sewastopol und wichtige russische Ölraffinerien an"
+        "zh": "特朗普警告在美军直升机被击落后对伊朗进行更多攻击",
+        "en": "Trump warns of more attacks on Iran after US Apache helicopter downing",
+        "de": "Trump warnt vor weiteren Angriffen auf den Iran nach dem Abschuss eines US-Apache-Hubschraubers"
       },
       "summary": {
-        "zh": "乌克兰无人机的多日攻击导致一名铁路工人死亡，并关闭了被轰炸的琼加尔公路桥，造成燃料危机。",
-        "en": "A multi-day campaign of Ukrainian drone strikes has resulted in the death of a rail worker, closed the bombed Chongar road bridge, and caused a fuel crisis.",
-        "de": "Eine mehrtägige Kampagne ukrainischer Drohnenangriffe hat den Tod eines Eisenbahnarbeiters zur Folge gehabt, die bombardierte Chongar-Straßenbrücke geschlossen und eine Kraftstoffkrise verursacht."
+        "zh": "特朗普警告称，伊朗“将为拖延达成协议付出代价”。",
+        "en": "Trump warns that Iran 'will have to pay the price' for taking too long to agree to a deal.",
+        "de": "Trump warnt, dass der Iran „den Preis zahlen muss“, weil er zu lange gebraucht hat, um sich auf einen Deal zu einigen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-10",
-      "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-warns-of-more-attacks-on-iran-after-us-apache-helicopter-downing?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "能源价格成为焦点，欧洲央行准备决定利率",
-        "en": "Energy prices take center stage as the ECB prepares to decide on rates",
-        "de": "Energiepreise stehen im Mittelpunkt, während die EZB sich auf die Zinsentscheidung vorbereitet"
+        "zh": "消费者价格在5月份同比上涨4.2%，为三年来最高",
+        "en": "Consumer prices rose 4.2% annually in May, highest in three years",
+        "de": "Die Verbraucherpreise stiegen im Mai um 4,2 % im Jahresvergleich, der höchste Wert seit drei Jahren"
       },
       "summary": {
-        "zh": "由于能源价格上涨推动通货膨胀，预计欧洲央行将加息25个基点，市场对更广泛的价格压力表示担忧。",
-        "en": "With rising energy prices driving inflation, the ECB is expected to raise rates by 25 basis points, raising concerns about broader price pressures.",
-        "de": "Angesichts steigender Energiepreise, die die Inflation antreiben, wird erwartet, dass die EZB die Zinsen um 25 Basispunkte anhebt, was Bedenken hinsichtlich breiterer Preisdrucke aufwirft."
+        "zh": "消费者价格指数显示，5月份的年增幅为4.2%，为三年来最高水平。",
+        "en": "The consumer price index showed a 4.2% annual increase for May, marking the highest level in three years.",
+        "de": "Der Verbraucherpreisindex zeigte im Mai einen jährlichen Anstieg von 4,2 %, was den höchsten Stand seit drei Jahren markiert."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-06-10",
+      "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "随着ECB准备决定利率，能源价格成为焦点",
+        "en": "Energy prices take center stage as the ECB prepares to decide on rates",
+        "de": "Energiepreise stehen im Mittelpunkt, während die EZB sich auf die Zinssatzentscheidung vorbereitet"
+      },
+      "summary": {
+        "zh": "由于能源价格上涨推动通货膨胀，预计欧洲央行将加息25个基点。",
+        "en": "With rising energy prices driving inflation, the ECB is expected to raise rates by 25 basis points.",
+        "de": "Da steigende Energiepreise die Inflation antreiben, wird erwartet, dass die EZB die Zinsen um 25 Basispunkte anhebt."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-10",
       "url": "https://www.cnbc.com/2026/06/10/ecb-rate-hike-energy-prices-inflation.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "5月通胀数字将于周三早上公布。以下是预期：",
-        "en": "The May inflation numbers are due out Wednesday morning. Here's what to expect",
-        "de": "Die Inflationszahlen für Mai werden am Mittwochmorgen veröffentlicht. Das ist zu erwarten"
-      },
-      "summary": {
-        "zh": "如果华尔街的共识正确，消费者价格指数预计将显示年通胀率为4.2%。",
-        "en": "If Wall Street consensus is correct, the consumer price index is expected to show inflation running at a 4.2% annual rate.",
-        "de": "Wenn der Konsens an der Wall Street korrekt ist, wird der Verbraucherpreisindex voraussichtlich eine Inflation von 4,2 % pro Jahr zeigen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-06-09",
-      "url": "https://www.cnbc.com/2026/06/09/the-may-inflation-numbers-are-due-out-wednesday-morning-heres-what-to-expect.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "家庭对财务的担忧达到自2022年7月以来的最高水平，纽约联储调查显示",
+        "zh": "美联储调查显示家庭财务担忧达到2022年7月以来的最高水平",
         "en": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
-        "de": "Haushaltsängste bezüglich der Finanzen erreichen höchsten Stand seit Juli 2022, zeigt Umfrage der New Yorker Fed"
+        "de": "Haushaltsfinanzsorgen erreichen höchsten Stand seit Juli 2022, zeigt Umfrage der New Yorker Fed"
       },
       "summary": {
-        "zh": "尽管中央银行的月度调查显示通胀前景基本保持不变，但人们对经济状况的总体看法却恶化。",
-        "en": "While the central bank's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions deteriorated.",
-        "de": "Während die monatliche Umfrage der Zentralbank zeigt, dass die Inflationsprognose weitgehend unverändert bleibt, hat sich die allgemeine Wahrnehmung der Bedingungen verschlechtert."
+        "zh": "尽管美联储的月度调查显示通货膨胀前景大致不变，但人们对经济状况的普遍看法恶化。",
+        "en": "While the Fed's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions has deteriorated.",
+        "de": "Während die monatliche Umfrage der Fed die Inflationsprognose weitgehend unverändert zeigte, hat sich die allgemeine Wahrnehmung der Bedingungen verschlechtert."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-08",
