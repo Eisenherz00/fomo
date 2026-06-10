@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-09T18:26:31.988743+00:00",
+  "generatedAt": "2026-06-10T08:31:43.978879+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：全身年轻化药物和关于AI的五件事",
+        "zh": "下载：全身年轻化药物和关于人工智能的五件事",
         "en": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-        "de": "Der Download: Medikamente zur Ganzkörperverjüngung und fünf Dinge, die Sie über KI wissen sollten"
+        "de": "Der Download: Ganzkörperverjüngungsmedikamente und fünf Dinge, die Sie über KI wissen sollten"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于全身年轻化药物的最新信息，以及五个关于人工智能的重要主题。",
-        "en": "Today's Download provides the latest information on whole-body rejuvenation drugs and five important themes regarding AI.",
-        "de": "Der heutige Download bietet die neuesten Informationen zu Medikamenten zur Ganzkörperverjüngung und fünf wichtigen Themen zur KI."
+        "zh": "今天的《下载》提供了关于全身年轻化药物和人工智能的最新信息，涵盖了当前技术领域的重要主题。",
+        "en": "Today's edition of The Download provides the latest insights on whole-body rejuvenation drugs and AI, covering key themes in the current technology landscape.",
+        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Einblicke in Ganzkörperverjüngungsmedikamente und KI und behandelt wichtige Themen der aktuellen Technologielandschaft."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-09",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "学习在混合人类与AI企业中领导",
+        "zh": "学习在混合人类-人工智能企业中领导",
         "en": "Learning to lead in a hybrid human-AI enterprise",
-        "de": "Führen lernen in einem hybriden Mensch-KI-Unternehmen"
+        "de": "Lernen, in einem hybriden Mensch-KI-Unternehmen zu führen"
       },
       "summary": {
-        "zh": "随着AI代理的采用预计在未来两年内激增300%，领导团队正在仔细考虑这一变化的影响。",
-        "en": "As the adoption of AI agents is expected to surge by 300% in the next two years, leadership teams are carefully considering the implications of this shift.",
-        "de": "Da die Einführung von KI-Agenten in den nächsten zwei Jahren voraussichtlich um 300 % steigen wird, ziehen Führungsteams die Auswirkungen dieses Wandels sorgfältig in Betracht."
+        "zh": "随着人工智能代理的采用预计在未来两年内增长300%，领导团队正在仔细考虑其影响。",
+        "en": "As the adoption of AI agents is expected to surge by 300% in the next two years, leadership teams are carefully considering the implications.",
+        "de": "Da die Einführung von KI-Agenten in den nächsten zwei Jahren voraussichtlich um 300 % zunehmen wird, ziehen Führungsteams die Auswirkungen sorgfältig in Betracht."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-09",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "大卫·辛克莱计划在XPrize比赛中测试全身年轻化药物",
+        "zh": "大卫·辛克莱计划在XPrize竞赛中测试全身年轻化药物",
         "en": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-        "de": "David Sinclair plant, Medikamente zur Ganzkörperverjüngung im XPrize-Wettbewerb zu testen"
+        "de": "David Sinclair plant, Ganzkörperverjüngungsmedikamente im XPrize-Wettbewerb zu testen"
       },
       "summary": {
-        "zh": "长寿科学家大卫·辛克莱预测，未来人们将能通过处方获得全身年轻化药物，并计划在XPrize比赛中进行测试。",
-        "en": "Longevity scientist David Sinclair predicts that in the future, people will be able to obtain whole-body rejuvenation drugs through prescriptions and plans to test them in the XPrize competition.",
-        "de": "Der Langlebigkeitswissenschaftler David Sinclair prognostiziert, dass Menschen in Zukunft Medikamente zur Ganzkörperverjüngung durch Rezepte erhalten können, und plant, diese im XPrize-Wettbewerb zu testen."
+        "zh": "长寿科学家大卫·辛克莱预测，未来人们将能获得使身体年轻化的处方，他计划在XPrize竞赛中进行相关测试。",
+        "en": "Longevity scientist David Sinclair predicts that in the future, people will be able to get prescriptions for body rejuvenation, and he plans to test these in the XPrize competition.",
+        "de": "Der Langlebigkeitswissenschaftler David Sinclair prognostiziert, dass Menschen in Zukunft Rezepte für die Verjüngung des Körpers erhalten können, und plant, diese im XPrize-Wettbewerb zu testen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-09",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列阻止超过16500名巴勒斯坦人接受医疗治疗",
-        "en": "Israel preventing more than 16,500 Palestinians from accessing medical treatment",
-        "de": "Israel verhindert, dass mehr als 16.500 Palästinenser medizinische Behandlung erhalten"
+        "zh": "波罗的海国家担心俄罗斯-乌克兰战争溢出后果",
+        "en": "Baltic states fear Russia-Ukraine war spillover after drone incursions",
+        "de": "Die baltischen Staaten befürchten, dass der Russland-Ukraine-Krieg nach Drohnenincursions überschwappt"
       },
       "summary": {
-        "zh": "自2023年10月发起种族灭绝战争以来，以色列系统性地摧毁了加沙的医疗系统，导致超过16500名巴勒斯坦人无法获得医疗治疗。",
-        "en": "Since launching its genocidal war in October 2023, Israel has systematically destroyed Gaza's healthcare system, preventing over 16,500 Palestinians from accessing medical treatment.",
-        "de": "Seit dem Beginn seines völkermörderischen Krieges im Oktober 2023 hat Israel das Gesundheitssystem Gazas systematisch zerstört und mehr als 16.500 Palästinenser daran gehindert, medizinische Behandlung zu erhalten."
+        "zh": "一系列无人机入侵加剧了波罗的海国家对与俄罗斯可能发生军事冲突的担忧。",
+        "en": "A spate of drone incursions has heightened the Baltic states' anxieties about a potential military conflict with Russia.",
+        "de": "Eine Reihe von Drohnenincursions hat die Ängste der baltischen Staaten vor einem möglichen militärischen Konflikt mit Russland verstärkt."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-09",
-      "url": "https://www.aljazeera.com/news/2026/6/9/israel-preventing-more-than-16500-palestinians-from-accessing-medical-treatment?traffic_source=rss"
+      "date": "2026-06-10",
+      "url": "https://www.aljazeera.com/news/longform/2026/6/10/baltic-states-fear-russia-ukraine-war-spillover-after-drone-incursions?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普称伊朗击落美国直升机，誓言回应",
-        "en": "Trump says Iran shot down US helicopter over Hormuz, vows to respond",
-        "de": "Trump sagt, Iran habe US-Helikopter über dem Hormus geschossen und verspricht, zu reagieren"
+        "zh": "爆炸在巴林，伊朗袭击美国基地",
+        "en": "Explosion in Bahrain as Iran attacks US bases",
+        "de": "Explosion in Bahrain, als Iran US-Basen angreift"
       },
       "summary": {
-        "zh": "美国总统特朗普表示，尽管直升机的飞行员被救起，华盛顿“必须对此次攻击作出必要回应”。",
-        "en": "US President Trump stated that although the helicopter's pilots were rescued, Washington 'must, of necessity, respond to this attack'.",
-        "de": "US-Präsident Trump erklärte, dass Washington 'notwendigerweise auf diesen Angriff reagieren muss', obwohl die Piloten des Hubschraubers gerettet wurden."
+        "zh": "巴林首都马纳马发生爆炸，官方称这是伊朗导弹袭击的结果。",
+        "en": "An explosion occurred in Bahrain's capital Manama, which authorities say was a result of an Iranian missile strike.",
+        "de": "In der Hauptstadt Manama in Bahrain kam es zu einer Explosion, die laut Behörden das Ergebnis eines iranischen Raketenangriffs war."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-09",
-      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond?traffic_source=rss"
+      "date": "2026-06-10",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "阿尔梅尼亚人在纳戈尔诺-卡拉巴赫之后投票选择和平而非民族主义",
-        "en": "After Nagorno-Karabakh, Armenians vote for peace over nationalism",
-        "de": "Nach Nagorno-Karabach stimmen die Armenier für Frieden statt Nationalismus"
+        "zh": "乌克兰无人机袭击塞瓦斯托波尔博物馆和关键俄罗斯石油炼油厂",
+        "en": "Ukrainian drones strike Sevastopol museum and key Russian oil refineries",
+        "de": "Ukrainische Drohnen greifen das Museum von Sewastopol und wichtige russische Ölraffinerien an"
       },
       "summary": {
-        "zh": "尼科尔·帕希尼扬的胜利表明，俄罗斯在该国的影响力正在减弱。",
-        "en": "Nikol Pashinyan's victory suggests that Russia's influence in the country is waning.",
-        "de": "Der Sieg von Nikol Pashinyan deutet darauf hin, dass der Einfluss Russlands im Land nachlässt."
+        "zh": "乌克兰无人机的多日攻击导致一名铁路工人死亡，并关闭了被轰炸的琼加尔公路桥，造成燃料危机。",
+        "en": "A multi-day campaign of Ukrainian drone strikes has resulted in the death of a rail worker, closed the bombed Chongar road bridge, and caused a fuel crisis.",
+        "de": "Eine mehrtägige Kampagne ukrainischer Drohnenangriffe hat den Tod eines Eisenbahnarbeiters zur Folge gehabt, die bombardierte Chongar-Straßenbrücke geschlossen und eine Kraftstoffkrise verursacht."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-09",
-      "url": "https://www.aljazeera.com/features/2026/6/9/after-karabakh-armenians-vote-for-peace-over-nationalism?traffic_source=rss"
+      "date": "2026-06-10",
+      "url": "https://www.aljazeera.com/news/2026/6/10/ukrainian-drones-strike-sevastopol-museum-and-key-russian-oil-refineries?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "家庭对财务的担忧达到自2022年7月以来的最高水平，纽约联储调查显示",
-        "en": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
-        "de": "Haushaltsängste über Finanzen erreichen höchsten Stand seit Juli 2022, zeigt Umfrage der New Yorker Fed"
+        "zh": "能源价格成为焦点，欧洲央行准备决定利率",
+        "en": "Energy prices take center stage as the ECB prepares to decide on rates",
+        "de": "Energiepreise stehen im Mittelpunkt, während die EZB sich auf die Zinsentscheidung vorbereitet"
       },
       "summary": {
-        "zh": "纽约联邦储备银行的调查显示，尽管通胀前景大致保持不变，但家庭对财务状况的普遍看法恶化。",
-        "en": "The New York Federal Reserve's survey shows that while the inflation outlook remains largely unchanged, the general perception of financial conditions has deteriorated.",
-        "de": "Die Umfrage der New Yorker Federal Reserve zeigt, dass sich die allgemeine Wahrnehmung der finanziellen Bedingungen verschlechtert hat, obwohl die Inflationsprognose weitgehend unverändert bleibt."
+        "zh": "由于能源价格上涨推动通货膨胀，预计欧洲央行将加息25个基点，市场对更广泛的价格压力表示担忧。",
+        "en": "With rising energy prices driving inflation, the ECB is expected to raise rates by 25 basis points, raising concerns about broader price pressures.",
+        "de": "Angesichts steigender Energiepreise, die die Inflation antreiben, wird erwartet, dass die EZB die Zinsen um 25 Basispunkte anhebt, was Bedenken hinsichtlich breiterer Preisdrucke aufwirft."
       },
-      "source": "CNBC",
-      "date": "2026-06-08",
-      "url": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html"
+      "source": "CNBC – Markets",
+      "date": "2026-06-10",
+      "url": "https://www.cnbc.com/2026/06/10/ecb-rate-hike-energy-prices-inflation.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "社会保障在2032年面临破产，届时将只支付78%的福利",
-        "en": "Social Security faces insolvency in 2032, when it would pay only 78% of benefits",
-        "de": "Die Sozialversicherung steht 2032 vor der Insolvenz, wenn sie nur 78 % der Leistungen zahlen würde"
+        "zh": "5月通胀数字将于周三早上公布。以下是预期：",
+        "en": "The May inflation numbers are due out Wednesday morning. Here's what to expect",
+        "de": "Die Inflationszahlen für Mai werden am Mittwochmorgen veröffentlicht. Das ist zu erwarten"
       },
       "summary": {
-        "zh": "社会保障面临来自去年增加的压力，预计到2032年将面临破产，届时将只能支付78%的福利。",
-        "en": "Social Security faces increased pressure from last year and is projected to face insolvency by 2032, when it would only be able to pay 78% of benefits.",
-        "de": "Die Sozialversicherung sieht sich zunehmendem Druck aus dem letzten Jahr gegenüber und wird voraussichtlich bis 2032 vor der Insolvenz stehen, wenn sie nur 78 % der Leistungen zahlen kann."
+        "zh": "如果华尔街的共识正确，消费者价格指数预计将显示年通胀率为4.2%。",
+        "en": "If Wall Street consensus is correct, the consumer price index is expected to show inflation running at a 4.2% annual rate.",
+        "de": "Wenn der Konsens an der Wall Street korrekt ist, wird der Verbraucherpreisindex voraussichtlich eine Inflation von 4,2 % pro Jahr zeigen."
       },
-      "source": "MarketWatch",
+      "source": "CNBC – Markets",
       "date": "2026-06-09",
-      "url": "https://www.marketwatch.com/story/social-security-faces-insolvency-in-2032-when-it-would-pay-only-78-of-benefits-b0f0df22?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/06/09/the-may-inflation-numbers-are-due-out-wednesday-morning-heres-what-to-expect.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "油价无视最坏的能源危机，但变通办法不会持久",
-        "en": "Oil prices are defying a worst-case energy crisis — but workarounds won’t last forever",
-        "de": "Die Ölpreise trotzen einer schlimmsten Energiekrise – aber Umgehungslösungen werden nicht ewig halten"
+        "zh": "家庭对财务的担忧达到自2022年7月以来的最高水平，纽约联储调查显示",
+        "en": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
+        "de": "Haushaltsängste bezüglich der Finanzen erreichen höchsten Stand seit Juli 2022, zeigt Umfrage der New Yorker Fed"
       },
       "summary": {
-        "zh": "专家指出油价相对稳定的三个主要原因，但警告说，真正的危机并不遥远。",
-        "en": "Experts point to three main reasons for the relatively steady oil prices but caution that a reckoning is not too far off.",
-        "de": "Experten nennen drei Hauptgründe für die relativ stabilen Ölpreise, warnen jedoch, dass eine Abrechnung nicht weit entfernt ist."
+        "zh": "尽管中央银行的月度调查显示通胀前景基本保持不变，但人们对经济状况的总体看法却恶化。",
+        "en": "While the central bank's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions deteriorated.",
+        "de": "Während die monatliche Umfrage der Zentralbank zeigt, dass die Inflationsprognose weitgehend unverändert bleibt, hat sich die allgemeine Wahrnehmung der Bedingungen verschlechtert."
       },
-      "source": "MarketWatch",
-      "date": "2026-06-09",
-      "url": "https://www.marketwatch.com/story/oil-prices-are-defying-a-worst-case-energy-crisis-but-workarounds-wont-last-forever-9081cbdc?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-06-08",
+      "url": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html"
     }
   ]
 }
