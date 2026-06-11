@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-11T09:01:16.215627+00:00",
+  "generatedAt": "2026-06-11T19:17:03.386693+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：‘类固醇奥运会’和更安全的神话",
-        "en": "The Download: the “steroid olympics” and a safer Mythos",
-        "de": "Der Download: die „Steroid-Olympiade“ und ein sicherer Mythos"
+        "zh": "谷歌DeepMind担心数百万代理互动后的后果",
+        "en": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "de": "Google DeepMind ist besorgt über die Folgen, wenn Millionen von Agenten anfangen, miteinander zu interagieren"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括‘类固醇奥运会’的讨论和更安全的技术发展。",
-        "en": "Today's edition of The Download provides the latest updates from the tech world, including discussions on the 'steroid olympics' and safer technological advancements.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich Diskussionen über die „Steroid-Olympiade“ und sicherere technologische Fortschritte."
+        "zh": "谷歌DeepMind正在资助研究，探讨数百万不同AI代理在线互动时可能出现的潜在危险。该研究旨在了解AI代理之间的复杂互动可能带来的风险。",
+        "en": "Google DeepMind is funding research to explore the potential dangers of situations where millions of different AI agents interact online. The research aims to understand the risks that complex interactions between AI agents may pose.",
+        "de": "Google DeepMind finanziert Forschungen, um die potenziellen Gefahren von Situationen zu untersuchen, in denen Millionen von verschiedenen KI-Agenten online interagieren. Die Forschung zielt darauf ab, die Risiken zu verstehen, die komplexe Interaktionen zwischen KI-Agenten mit sich bringen können."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-10",
-      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/"
+      "date": "2026-06-11",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "学习在混合人类-AI企业中领导",
-        "en": "Learning to lead in a hybrid human-AI enterprise",
-        "de": "Lernen, in einem hybriden Mensch-AI-Unternehmen zu führen"
+        "zh": "中国正在押注大型核反应堆",
+        "en": "Why China is betting on big nuclear reactors",
+        "de": "Warum China auf große Kernreaktoren setzt"
       },
       "summary": {
-        "zh": "随着AI代理的采用预计在未来两年内激增300%，领导团队正在仔细考虑这一转变的影响。",
-        "en": "As the adoption of AI agents is expected to surge by 300% in the next two years, leadership teams are carefully considering the implications of this shift.",
-        "de": "Da die Einführung von KI-Agenten in den nächsten zwei Jahren voraussichtlich um 300 % steigen wird, ziehen Führungsteams die Auswirkungen dieses Wandels sorgfältig in Betracht."
+        "zh": "中国的核工业正在以惊人的速度发展，几乎翻倍了其核电机组。该国的核能计划引发了全球关注，尤其是在能源需求不断增长的背景下。",
+        "en": "China's nuclear industry is developing at a stunning pace, nearly doubling its nuclear fleet. The country's nuclear energy plans have drawn global attention, especially against the backdrop of rising energy demands.",
+        "de": "Chinas Kernenergieindustrie entwickelt sich in atemberaubendem Tempo und hat ihre Kernflotte fast verdoppelt. Die Pläne des Landes für die Kernenergie haben weltweit Aufmerksamkeit erregt, insbesondere vor dem Hintergrund steigender Energienachfragen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-09",
-      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
+      "date": "2026-06-11",
+      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "五件你需要知道的关于AI的事",
-        "en": "Five things you need to know about AI",
-        "de": "Fünf Dinge, die Sie über KI wissen müssen"
+        "zh": "未来的工作头衔：自然药物设计师",
+        "en": "Job titles of the future: Nature’s drug designer",
+        "de": "Berufsbezeichnungen der Zukunft: Naturwissenschaftler für Arzneimittel"
       },
       "summary": {
-        "zh": "在SXSW伦敦上，我分享了关于AI的五个重要主题，强调了当前技术发展的关键趋势。",
-        "en": "At SXSW London, I shared five important themes about AI, highlighting key trends in current technological developments.",
-        "de": "Auf der SXSW in London habe ich fünf wichtige Themen zur KI vorgestellt und dabei die wichtigsten Trends in den aktuellen technologischen Entwicklungen hervorgehoben."
+        "zh": "随着科技的进步，未来的工作头衔将会发生变化。文章探讨了自然药物设计师这一新兴职业，强调其在制药行业中的重要性。",
+        "en": "As technology advances, job titles of the future will evolve. The article explores the emerging role of nature's drug designer, highlighting its significance in the pharmaceutical industry.",
+        "de": "Mit dem Fortschritt der Technologie werden sich die Berufsbezeichnungen der Zukunft weiterentwickeln. Der Artikel untersucht die aufkommende Rolle des Naturwissenschaftlers für Arzneimittel und hebt dessen Bedeutung in der Pharmaindustrie hervor."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-09",
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
+      "date": "2026-06-11",
+      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "南韩对捷克：世界杯小组赛 - 队伍、开始和阵容",
-        "en": "South Korea vs Czechia: World Cup group match – teams, start and lineups",
-        "de": "Südkorea gegen Tschechien: WM-Gruppenspiel – Teams, Beginn und Aufstellungen"
+        "zh": "马斯克的Grok被指控违反加拿大深度伪造隐私法",
+        "en": "Musk’s Grok accused of violating Canadian privacy laws on deepfakes",
+        "de": "Musks Grok wird beschuldigt, kanadische Datenschutzgesetze zu Deepfakes zu verletzen"
       },
       "summary": {
-        "zh": "亚洲强队南韩将在世界杯2026开幕日的第二场比赛中对阵两次亚军捷克。",
-        "en": "Asian giants South Korea will face two-time runners-up Czechia in the second match of the opening day of World Cup 2026.",
-        "de": "Die asiatischen Giganten Südkorea treffen am Eröffnungstag der WM 2026 im zweiten Spiel auf die zweimaligen Finalisten Tschechien."
+        "zh": "加拿大隐私监管机构发现，马斯克的Grok缺乏对性别化深度伪造图像共享的保护措施，这引发了全球的关注和审查。",
+        "en": "A Canadian privacy watchdog found that Musk's Grok lacks safeguards for sharing sexualized deepfake images, raising global scrutiny and concern.",
+        "de": "Ein kanadischer Datenschutzbeauftragter stellte fest, dass Musks Grok keine Schutzmaßnahmen für den Austausch sexualisierter Deepfake-Bilder hat, was globale Aufmerksamkeit und Besorgnis aufwirft."
       },
       "source": "Al Jazeera",
       "date": "2026-06-11",
-      "url": "https://www.aljazeera.com/sports/2026/6/11/south-korea-vs-czechia-world-cup-group-match-teams-start-and-lineups?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/6/11/musks-grok-accused-of-violating-canadian-privacy-laws-on-deepfakes?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "金价现已成为最高储备资产。美元主导地位面临风险？",
-        "en": "Gold is now the top reserve asset. Is dollar dominance at risk?",
-        "de": "Gold ist jetzt das wichtigste Reservevermögen. Ist die Dominanz des Dollars gefährdet?"
+        "zh": "以色列政府考虑大规模资金扩展西岸定居点",
+        "en": "Israeli government mulling huge funding to expand West Bank settlement",
+        "de": "Israels Regierung erwägt massive Mittel zur Erweiterung der Siedlungen im Westjordanland"
       },
       "summary": {
-        "zh": "黄金现在占全球储备持有的27%，超过美国国债，成为世界上最大的储备资产。",
-        "en": "Gold now accounts for 27% of global reserve holdings, overtaking US Treasuries as the world's largest reserve asset.",
-        "de": "Gold macht jetzt 27 % der globalen Reserven aus und überholt US-Staatsanleihen als das größte Reservevermögen der Welt."
+        "zh": "以色列因扩建定居点而受到国际法的严厉批评，政府正在考虑大规模资金以支持这一计划。",
+        "en": "Israel has faced severe criticism under international law for expanding settlements, and the government is considering huge funding to support this plan.",
+        "de": "Israel sieht sich aufgrund der Erweiterung von Siedlungen schwerer internationaler Kritik ausgesetzt, und die Regierung erwägt massive Mittel zur Unterstützung dieses Plans."
       },
       "source": "Al Jazeera",
       "date": "2026-06-11",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/11/israeli-government-mulling-huge-funding-to-expand-west-bank-settlement-ngo?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "‘流氓行为’：贝尔法斯特警方在反移民抗议中使用水炮",
-        "en": "‘Thuggery’: Belfast police fire water cannon at anti-immigration protests",
-        "de": "‘Randalieren’: Belfast-Polizei setzt Wasserwerfer gegen Anti-Einwanderungs-Proteste ein"
+        "zh": "多伦多警察在调查美国领事馆袭击时被枪击",
+        "en": "Toronto police officer shot while investigating attack on US consulate",
+        "de": "Toronto Polizeibeamter während der Untersuchung eines Angriffs auf das US-Konsulat erschossen"
       },
       "summary": {
-        "zh": "北爱尔兰的极右翼反移民示威活动在刺伤事件后第二晚变得暴力，警方使用水炮进行驱散。",
-        "en": "Far-right anti-immigration demonstrations in Northern Ireland turned violent for a second night after a stabbing incident, with police using water cannons to disperse crowds.",
-        "de": "Die extremen rechten Anti-Einwanderungs-Demonstrationen in Nordirland wurden nach einem Messerangriff in der zweiten Nacht gewalttätig, wobei die Polizei Wasserwerfer einsetzte, um die Menschenmenge zu zerstreuen."
+        "zh": "在与美国领事馆袭击相关的搜查令执行过程中，一名多伦多警察被枪击，警方表示仍有一名嫌疑人在逃。",
+        "en": "A Toronto police officer was shot while executing a search warrant related to an attack on the US consulate, with police stating that one suspect remains at large.",
+        "de": "Ein Polizeibeamter in Toronto wurde während der Ausführung eines Durchsuchungsbefehls im Zusammenhang mit einem Angriff auf das US-Konsulat erschossen, wobei die Polizei angibt, dass ein Verdächtiger noch auf freiem Fuß ist."
       },
       "source": "Al Jazeera",
       "date": "2026-06-11",
-      "url": "https://www.aljazeera.com/gallery/2026/6/11/thuggery-belfast-police-fire-water-cannon-at-anti-immigration-protests?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/11/toronto-police-officer-shot-while-investigating-attack-on-us-consulate?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者价格在5月份同比上涨4.2%，为三年来最高",
-        "en": "Consumer prices rose 4.2% annually in May, highest in three years",
-        "de": "Die Verbraucherpreise stiegen im Mai um 4,2 % im Jahresvergleich, der höchste Wert seit drei Jahren"
+        "zh": "5月份批发价格上涨1.1%，超出预期",
+        "en": "Wholesale prices rose 1.1% in May, more than expected, on surge in energy",
+        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
       },
       "summary": {
-        "zh": "根据道琼斯的共识估计，消费者价格指数预计显示5月份同比上涨4.2%。",
-        "en": "According to the Dow Jones consensus estimate, the consumer price index is expected to show a 4.2% gain from a year ago.",
-        "de": "Laut der Schätzung des Dow-Jones-Konsenses wird der Verbraucherpreisindex voraussichtlich einen Anstieg von 4,2 % im Vergleich zum Vorjahr zeigen."
+        "zh": "5月份的生产者价格指数预计将增长0.7%，但实际增长达到了1.1%。这一增长主要是由于能源价格的激增。",
+        "en": "The producer price index was expected to increase by 0.7% in May, but the actual increase reached 1.1%. This rise was primarily driven by a surge in energy prices.",
+        "de": "Der Produzentenpreisindex sollte im Mai um 0,7 % steigen, tatsächlich betrug der Anstieg jedoch 1,1 %. Dieser Anstieg wurde hauptsächlich durch einen Anstieg der Energiepreise angetrieben."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-10",
-      "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html"
+      "date": "2026-06-11",
+      "url": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "随着欧洲央行准备决定利率，能源价格成为焦点",
-        "en": "Energy prices take center stage as the ECB prepares to decide on rates",
-        "de": "Energiepreise stehen im Mittelpunkt, während die EZB sich auf die Zinsentscheidung vorbereitet"
+        "zh": "欧洲央行自2023年以来首次加息",
+        "en": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+        "de": "EZB erhöht die Zinssätze zum ersten Mal seit 2023, da der Iran-Krieg die Energiekosten in die Höhe treibt"
       },
       "summary": {
-        "zh": "由于能源价格上涨推动通货膨胀，欧洲央行预计将提高25个基点的利率。",
-        "en": "The ECB is expected to raise rates by 25 basis points as higher energy prices drive inflation.",
-        "de": "Die EZB wird voraussichtlich die Zinssätze um 25 Basispunkte erhöhen, da steigende Energiepreise die Inflation antreiben."
+        "zh": "欧洲央行在能源成本上升的背景下，首次自2023年以来加息，并上调了通胀预期，降低了增长前景。",
+        "en": "The European Central Bank raised interest rates for the first time since 2023 amid rising energy costs and also adjusted its inflation forecasts and growth outlook downward.",
+        "de": "Die Europäische Zentralbank hat die Zinssätze zum ersten Mal seit 2023 angehoben, da die Energiekosten steigen, und auch ihre Inflationsprognosen sowie die Wachstumsprognose nach unten angepasst."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-11",
-      "url": "https://www.cnbc.com/2026/06/10/ecb-rate-hike-energy-prices-inflation.html"
+      "url": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "随着技术行业进入新的熊市阶段，Micron和Intel拖累了市场",
-        "en": "Micron, Intel drag the tech sector into a new bearish phase",
-        "de": "Micron und Intel ziehen den Technologiesektor in eine neue bärische Phase"
+        "zh": "5月份消费者价格同比上涨4.2%，为三年来最高",
+        "en": "Consumer prices rose 4.2% annually in May, highest in three years",
+        "de": "Die Verbraucherpreise stiegen im Mai um 4,2 % im Jahresvergleich, der höchste Wert seit drei Jahren"
       },
       "summary": {
-        "zh": "过去一周，技术行业的抛售加剧，投资者对未来的前景感到焦虑，市场进入新的熊市阶段。",
-        "en": "The selloff in the tech sector has heightened investor anxiety over the past week, leading the market into a new bearish phase.",
-        "de": "Der Ausverkauf im Technologiesektor hat die Anlegerangst in der vergangenen Woche verstärkt und den Markt in eine neue bärische Phase geführt."
+        "zh": "5月份的消费者价格指数预计将显示出4.2%的年增长率，这是三年来的最高水平，反映了持续的通货膨胀压力。",
+        "en": "The consumer price index was expected to show a 4.2% annual increase in May, marking the highest level in three years and reflecting ongoing inflationary pressures.",
+        "de": "Der Verbraucherpreisindex sollte im Mai einen jährlichen Anstieg von 4,2 % zeigen, was den höchsten Stand seit drei Jahren markiert und die anhaltenden Inflationsdruck widerspiegelt."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC – Markets",
       "date": "2026-06-10",
-      "url": "https://www.marketwatch.com/story/micron-intel-drag-the-tech-sector-into-a-new-bearish-phase-will-the-correction-last-this-time-9ba4f3f5?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html"
     }
   ]
 }
