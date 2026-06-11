@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-10T18:45:47.529841+00:00",
+  "generatedAt": "2026-06-11T09:01:16.215627+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：'类固醇奥运会'和更安全的神话",
+        "zh": "下载：‘类固醇奥运会’和更安全的神话",
         "en": "The Download: the “steroid olympics” and a safer Mythos",
         "de": "Der Download: die „Steroid-Olympiade“ und ein sicherer Mythos"
       },
       "summary": {
-        "zh": "今天的下载提供了关于技术世界的最新动态，包括类固醇奥运会的讨论和更安全的神话。",
-        "en": "Today's Download provides the latest updates from the tech world, including discussions on the steroid olympics and a safer Mythos.",
-        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich Diskussionen über die Steroid-Olympiade und einen sichereren Mythos."
+        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括‘类固醇奥运会’的讨论和更安全的技术发展。",
+        "en": "Today's edition of The Download provides the latest updates from the tech world, including discussions on the 'steroid olympics' and safer technological advancements.",
+        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich Diskussionen über die „Steroid-Olympiade“ und sicherere technologische Fortschritte."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-10",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "学习在混合人类与AI企业中领导",
+        "zh": "学习在混合人类-AI企业中领导",
         "en": "Learning to lead in a hybrid human-AI enterprise",
         "de": "Lernen, in einem hybriden Mensch-AI-Unternehmen zu führen"
       },
       "summary": {
-        "zh": "随着AI代理的采用预计在未来两年内激增300%，领导团队正在仔细考虑其影响。",
-        "en": "As the adoption of AI agents is expected to surge by 300% over the next two years, leadership teams are carefully considering the implications.",
-        "de": "Da die Einführung von KI-Agenten in den nächsten zwei Jahren voraussichtlich um 300 % steigen wird, ziehen Führungsteams sorgfältig die Auswirkungen in Betracht."
+        "zh": "随着AI代理的采用预计在未来两年内激增300%，领导团队正在仔细考虑这一转变的影响。",
+        "en": "As the adoption of AI agents is expected to surge by 300% in the next two years, leadership teams are carefully considering the implications of this shift.",
+        "de": "Da die Einführung von KI-Agenten in den nächsten zwei Jahren voraussichtlich um 300 % steigen wird, ziehen Führungsteams die Auswirkungen dieses Wandels sorgfältig in Betracht."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-09",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "关于AI的五件事",
+        "zh": "五件你需要知道的关于AI的事",
         "en": "Five things you need to know about AI",
         "de": "Fünf Dinge, die Sie über KI wissen müssen"
       },
       "summary": {
-        "zh": "在SXSW伦敦上，我分享了我认为AI领域中最重要的主题。",
-        "en": "At SXSW London, I shared what I believe are the biggest themes in the field of AI.",
-        "de": "Auf dem SXSW in London habe ich geteilt, was ich für die größten Themen im Bereich KI halte."
+        "zh": "在SXSW伦敦上，我分享了关于AI的五个重要主题，强调了当前技术发展的关键趋势。",
+        "en": "At SXSW London, I shared five important themes about AI, highlighting key trends in current technological developments.",
+        "de": "Auf der SXSW in London habe ich fünf wichtige Themen zur KI vorgestellt und dabei die wichtigsten Trends in den aktuellen technologischen Entwicklungen hervorgehoben."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-09",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗表示在最新冲突后将“毫不犹豫”自卫",
-        "en": "Iran says it will ‘not hesitate’ to defend itself after latest clashes",
-        "de": "Iran erklärt, dass es nach den neuesten Zusammenstößen „nicht zögern“ wird, sich zu verteidigen"
+        "zh": "南韩对捷克：世界杯小组赛 - 队伍、开始和阵容",
+        "en": "South Korea vs Czechia: World Cup group match – teams, start and lineups",
+        "de": "Südkorea gegen Tschechien: WM-Gruppenspiel – Teams, Beginn und Aufstellungen"
       },
       "summary": {
-        "zh": "伊朗外交部表示，德黑兰与华盛顿之间的海湾冲突显示了伊朗的反应方式。",
-        "en": "Iran's Foreign Ministry stated that the overnight clashes in the Gulf between Tehran and Washington demonstrated how Iran will respond.",
-        "de": "Das iranische Außenministerium erklärte, dass die nächtlichen Zusammenstöße im Golf zwischen Teheran und Washington zeigten, wie Iran reagieren wird."
+        "zh": "亚洲强队南韩将在世界杯2026开幕日的第二场比赛中对阵两次亚军捷克。",
+        "en": "Asian giants South Korea will face two-time runners-up Czechia in the second match of the opening day of World Cup 2026.",
+        "de": "Die asiatischen Giganten Südkorea treffen am Eröffnungstag der WM 2026 im zweiten Spiel auf die zweimaligen Finalisten Tschechien."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-says-it-will-not-hesitate-to-defend-itself-after-latest-clashes?traffic_source=rss"
+      "date": "2026-06-11",
+      "url": "https://www.aljazeera.com/sports/2026/6/11/south-korea-vs-czechia-world-cup-group-match-teams-start-and-lineups?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普在民主党僵局后签署700亿美元移民执法法案",
-        "en": "After a Democrat standoff, Trump signs $70bn immigration enforcement bill",
-        "de": "Nach einem Demokratenduell unterzeichnet Trump ein 70-Milliarden-Dollar-Gesetz zur Einwanderungsdurchsetzung"
+        "zh": "金价现已成为最高储备资产。美元主导地位面临风险？",
+        "en": "Gold is now the top reserve asset. Is dollar dominance at risk?",
+        "de": "Gold ist jetzt das wichtigste Reservevermögen. Ist die Dominanz des Dollars gefährdet?"
       },
       "summary": {
-        "zh": "移民倡导者警告说，该法案为ICE和CBP提供的资金几乎没有保护措施。",
-        "en": "Immigrant advocates warn that the funding bill offers few guardrails for ICE and CBP amid Trump's mass deportation campaign.",
-        "de": "Einwanderungsbefürworter warnen, dass das Finanzierungsprojekt nur wenige Schutzmaßnahmen für ICE und CBP im Rahmen von Trumps Massenabschiebungskampagne bietet."
+        "zh": "黄金现在占全球储备持有的27%，超过美国国债，成为世界上最大的储备资产。",
+        "en": "Gold now accounts for 27% of global reserve holdings, overtaking US Treasuries as the world's largest reserve asset.",
+        "de": "Gold macht jetzt 27 % der globalen Reserven aus und überholt US-Staatsanleihen als das größte Reservevermögen der Welt."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-10",
-      "url": "https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill?traffic_source=rss"
+      "date": "2026-06-11",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/11/gold-is-now-the-top-reserve-asset-is-dollar-dominance-at-risk?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普警告在美军直升机被击落后对伊朗进行更多攻击",
-        "en": "Trump warns of more attacks on Iran after US Apache helicopter downing",
-        "de": "Trump warnt vor weiteren Angriffen auf den Iran nach dem Abschuss eines US-Apache-Hubschraubers"
+        "zh": "‘流氓行为’：贝尔法斯特警方在反移民抗议中使用水炮",
+        "en": "‘Thuggery’: Belfast police fire water cannon at anti-immigration protests",
+        "de": "‘Randalieren’: Belfast-Polizei setzt Wasserwerfer gegen Anti-Einwanderungs-Proteste ein"
       },
       "summary": {
-        "zh": "特朗普警告称，伊朗“将为拖延达成协议付出代价”。",
-        "en": "Trump warns that Iran 'will have to pay the price' for taking too long to agree to a deal.",
-        "de": "Trump warnt, dass der Iran „den Preis zahlen muss“, weil er zu lange gebraucht hat, um sich auf einen Deal zu einigen."
+        "zh": "北爱尔兰的极右翼反移民示威活动在刺伤事件后第二晚变得暴力，警方使用水炮进行驱散。",
+        "en": "Far-right anti-immigration demonstrations in Northern Ireland turned violent for a second night after a stabbing incident, with police using water cannons to disperse crowds.",
+        "de": "Die extremen rechten Anti-Einwanderungs-Demonstrationen in Nordirland wurden nach einem Messerangriff in der zweiten Nacht gewalttätig, wobei die Polizei Wasserwerfer einsetzte, um die Menschenmenge zu zerstreuen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-10",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-warns-of-more-attacks-on-iran-after-us-apache-helicopter-downing?traffic_source=rss"
+      "date": "2026-06-11",
+      "url": "https://www.aljazeera.com/gallery/2026/6/11/thuggery-belfast-police-fire-water-cannon-at-anti-immigration-protests?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -109,9 +109,9 @@
         "de": "Die Verbraucherpreise stiegen im Mai um 4,2 % im Jahresvergleich, der höchste Wert seit drei Jahren"
       },
       "summary": {
-        "zh": "消费者价格指数显示，5月份的年增幅为4.2%，为三年来最高水平。",
-        "en": "The consumer price index showed a 4.2% annual increase for May, marking the highest level in three years.",
-        "de": "Der Verbraucherpreisindex zeigte im Mai einen jährlichen Anstieg von 4,2 %, was den höchsten Stand seit drei Jahren markiert."
+        "zh": "根据道琼斯的共识估计，消费者价格指数预计显示5月份同比上涨4.2%。",
+        "en": "According to the Dow Jones consensus estimate, the consumer price index is expected to show a 4.2% gain from a year ago.",
+        "de": "Laut der Schätzung des Dow-Jones-Konsenses wird der Verbraucherpreisindex voraussichtlich einen Anstieg von 4,2 % im Vergleich zum Vorjahr zeigen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-10",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "随着ECB准备决定利率，能源价格成为焦点",
+        "zh": "随着欧洲央行准备决定利率，能源价格成为焦点",
         "en": "Energy prices take center stage as the ECB prepares to decide on rates",
-        "de": "Energiepreise stehen im Mittelpunkt, während die EZB sich auf die Zinssatzentscheidung vorbereitet"
+        "de": "Energiepreise stehen im Mittelpunkt, während die EZB sich auf die Zinsentscheidung vorbereitet"
       },
       "summary": {
-        "zh": "由于能源价格上涨推动通货膨胀，预计欧洲央行将加息25个基点。",
-        "en": "With rising energy prices driving inflation, the ECB is expected to raise rates by 25 basis points.",
-        "de": "Da steigende Energiepreise die Inflation antreiben, wird erwartet, dass die EZB die Zinsen um 25 Basispunkte anhebt."
+        "zh": "由于能源价格上涨推动通货膨胀，欧洲央行预计将提高25个基点的利率。",
+        "en": "The ECB is expected to raise rates by 25 basis points as higher energy prices drive inflation.",
+        "de": "Die EZB wird voraussichtlich die Zinssätze um 25 Basispunkte erhöhen, da steigende Energiepreise die Inflation antreiben."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "url": "https://www.cnbc.com/2026/06/10/ecb-rate-hike-energy-prices-inflation.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美联储调查显示家庭财务担忧达到2022年7月以来的最高水平",
-        "en": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
-        "de": "Haushaltsfinanzsorgen erreichen höchsten Stand seit Juli 2022, zeigt Umfrage der New Yorker Fed"
+        "zh": "随着技术行业进入新的熊市阶段，Micron和Intel拖累了市场",
+        "en": "Micron, Intel drag the tech sector into a new bearish phase",
+        "de": "Micron und Intel ziehen den Technologiesektor in eine neue bärische Phase"
       },
       "summary": {
-        "zh": "尽管美联储的月度调查显示通货膨胀前景大致不变，但人们对经济状况的普遍看法恶化。",
-        "en": "While the Fed's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions has deteriorated.",
-        "de": "Während die monatliche Umfrage der Fed die Inflationsprognose weitgehend unverändert zeigte, hat sich die allgemeine Wahrnehmung der Bedingungen verschlechtert."
+        "zh": "过去一周，技术行业的抛售加剧，投资者对未来的前景感到焦虑，市场进入新的熊市阶段。",
+        "en": "The selloff in the tech sector has heightened investor anxiety over the past week, leading the market into a new bearish phase.",
+        "de": "Der Ausverkauf im Technologiesektor hat die Anlegerangst in der vergangenen Woche verstärkt und den Markt in eine neue bärische Phase geführt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-06-08",
-      "url": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-10",
+      "url": "https://www.marketwatch.com/story/micron-intel-drag-the-tech-sector-into-a-new-bearish-phase-will-the-correction-last-this-time-9ba4f3f5?mod=mw_rss_topstories"
     }
   ]
 }
