@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-06-12T08:47:24.763367+00:00",
+  "generatedAt": "2026-06-12T18:22:11.320887+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "谷歌DeepMind担心数百万代理人开始互动时会发生什么",
-        "en": "Google DeepMind is worried about what happens when millions of agents start to interact",
-        "de": "Google DeepMind ist besorgt, was passiert, wenn Millionen von Agenten anfangen, miteinander zu interagieren"
+        "zh": "为什么“重新编程”是目前逆转衰老的最热门方法",
+        "en": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+        "de": "Warum „Reprogrammierung“ der derzeit angesagteste Ansatz zur Umkehrung des Alterns ist"
       },
       "summary": {
-        "zh": "谷歌DeepMind正在资助研究，探讨数百万不同AI代理在线互动时可能带来的潜在危险。这项研究旨在理解这些互动可能导致的后果和风险。",
-        "en": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. The study aims to understand the consequences and risks that may arise from these interactions.",
-        "de": "Google DeepMind finanziert Forschungen zu den potenziellen Gefahren von Situationen, in denen Millionen verschiedener KI-Agenten online miteinander interagieren. Die Studie zielt darauf ab, die Folgen und Risiken zu verstehen, die aus diesen Interaktionen entstehen können."
+        "zh": "Life Biosciences宣布已对首位志愿者进行了剂量测试，标志着其在逆转与年龄相关疾病方面的重要进展。",
+        "en": "Life Biosciences announced it has dosed its first volunteer, marking a significant advancement in reversing age-related diseases.",
+        "de": "Life Biosciences gab bekannt, dass es seinen ersten Freiwilligen behandelt hat, was einen bedeutenden Fortschritt bei der Umkehrung altersbedingter Krankheiten darstellt."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-06-12",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "谷歌DeepMind担心数百万代理人开始互动时会发生什么",
+        "en": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "de": "Google DeepMind macht sich Sorgen darüber, was passiert, wenn Millionen von Agenten anfangen zu interagieren"
+      },
+      "summary": {
+        "zh": "谷歌DeepMind资助研究，探讨数百万AI代理在线互动可能带来的潜在危险。",
+        "en": "Google DeepMind is funding research into the potential dangers of situations where millions of AI agents interact online.",
+        "de": "Google DeepMind finanziert Forschungen zu den potenziellen Gefahren von Situationen, in denen Millionen von KI-Agenten online interagieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-11",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "未来的职位名称：自然药物设计师",
-        "en": "Job titles of the future: Nature’s drug designer",
-        "de": "Berufsbezeichnungen der Zukunft: Naturwissenschaftler für Arzneimittel"
-      },
-      "summary": {
-        "zh": "化学家Tim Cernak在2018年结束了近二十年的制药行业生涯，开始将他的技能应用于新的领域。他为默克开发的药物使他成为自然药物设计的先锋。",
-        "en": "Chemist Tim Cernak ended nearly two decades in Big Pharma in 2018 to apply his skills to new uses. His work for Merck has made him a pioneer in the field of nature's drug design.",
-        "de": "Der Chemiker Tim Cernak beendete 2018 nach fast zwei Jahrzehnten in der Pharmaindustrie seine Karriere, um seine Fähigkeiten in neuen Bereichen anzuwenden. Seine Arbeit für Merck hat ihn zu einem Pionier im Bereich des Designs von Naturarzneimitteln gemacht."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-06-11",
-      "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "中国为何押注大型核反应堆",
-        "en": "Why China is betting on big nuclear reactors",
-        "de": "Warum China auf große Kernreaktoren setzt"
+        "zh": "如何通过USB连接的扬声器感染PC而不触碰",
+        "en": "How a USB-connected speaker can infect a PC without ever being touched",
+        "de": "Wie ein USB-verbundener Lautsprecher einen PC infizieren kann, ohne jemals berührt zu werden"
       },
       "summary": {
-        "zh": "中国的核工业正在以惊人的速度发展，大型核反应堆的建设几乎翻了一番。这一战略反映了中国在全球能源市场中的雄心。",
-        "en": "China's nuclear industry is advancing at a stunning pace, with the construction of large reactors nearly doubling. This strategy reflects China's ambitions in the global energy market.",
-        "de": "Die chinesische Kernenergieindustrie schreitet mit atemberaubender Geschwindigkeit voran, wobei der Bau großer Reaktoren nahezu verdoppelt wurde. Diese Strategie spiegelt Chinas Ambitionen auf dem globalen Energiemarkt wider."
+        "zh": "Sound Blaster Katana V2X的卖家不认为这种行为是漏洞，但它可以通过无线方式感染连接的设备。",
+        "en": "The seller of the Sound Blaster Katana V2X does not consider this behavior a vulnerability, but it can infect connected devices wirelessly.",
+        "de": "Der Verkäufer des Sound Blaster Katana V2X betrachtet dieses Verhalten nicht als Sicherheitsanfälligkeit, aber es kann verbundene Geräte drahtlos infizieren."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-06-11",
-      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
+      "source": "Ars Technica – AI",
+      "date": "2026-06-05",
+      "url": "https://arstechnica.com/security/2026/06/how-a-usb-connected-speaker-can-infect-a-pc-without-ever-being-touched/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "2026年世界杯开幕日要点：红牌、VAR和补水时间",
-        "en": "World Cup 2026 opening day takeaways: Red cards, VAR and hydration breaks",
-        "de": "Weltmeisterschaft 2026 Eröffnungstag Erkenntnisse: Rote Karten, VAR und Trinkpausen"
+        "zh": "联合国通过条约为零工经济工作者设定标准",
+        "en": "UN adopts treaty setting standards for gig economy workers",
+        "de": "UN verabschiedet Vertrag, der Standards für Gig-Economy-Arbeiter festlegt"
       },
       "summary": {
-        "zh": "2026年世界杯开幕日引发了关于补水时间和红牌的广泛讨论。赛事的争议和兴奋点成为了媒体和球迷关注的焦点。",
-        "en": "The opening day of the 2026 World Cup sparked widespread discussion about hydration breaks and red cards. The controversies and highlights of the event became the focus of media and fan attention.",
-        "de": "Der Eröffnungstag der Weltmeisterschaft 2026 löste weitreichende Diskussionen über Trinkpausen und rote Karten aus. Die Kontroversen und Höhepunkte der Veranstaltung wurden zum Mittelpunkt der Medien- und Fanaufmerksamkeit."
+        "zh": "联合国通过的这一世界首个协议为零工经济工作者提供了最低工资和义务等保护。",
+        "en": "The UN's adoption of this world-first agreement provides protections for gig economy workers, including enforcing minimum wage requirements.",
+        "de": "Die Verabschiedung dieses weltweit ersten Abkommens durch die UN bietet Schutz für Gig-Economy-Arbeiter, einschließlich der Durchsetzung von Mindestlohnanforderungen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-12",
-      "url": "https://www.aljazeera.com/sports/2026/6/12/world-cup-2026-day-1-key-takeaways-var-hydration-breaks-red-cards-son-heung-min-zwane?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/12/un-adopts-treaty-setting-standards-for-gig-economy-workers?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "空印度171号航班坠毁：一年后悲痛的家庭等待正义",
-        "en": "Air India Flight 171 crash: Grieving families wait for justice a year later",
-        "de": "Air India Flug 171 Absturz: Trauernde Familien warten ein Jahr später auf Gerechtigkeit"
+        "zh": "德克萨斯州枪击事件造成至少一人死亡，九人住院",
+        "en": "At least one killed and nine hospitalised in Texas shooting",
+        "de": "Mindestens ein Toter und neun Verletzte bei Schießerei in Texas"
       },
       "summary": {
-        "zh": "一年后，空印度171号航班的遇难者家庭仍在等待正义。悲痛的父亲面临驱逐，亲属期待赔偿。",
-        "en": "A year later, the families of the victims of Air India Flight 171 are still waiting for justice. A grieving father faces deportation while relatives await compensation.",
-        "de": "Ein Jahr später warten die Familien der Opfer des Air India Fluges 171 weiterhin auf Gerechtigkeit. Ein trauernder Vater sieht sich mit einer Abschiebung konfrontiert, während die Angehörigen auf Entschädigung warten."
+        "zh": "德克萨斯州米德兰的枪击事件导致一名嫌疑人确认死亡，九人被送往医院。",
+        "en": "A shooting in Midland, Texas, has resulted in one confirmed dead and nine hospitalized.",
+        "de": "Eine Schießerei in Midland, Texas, hat einen bestätigten Todesfall und neun Verletzte zur Folge."
       },
       "source": "Al Jazeera",
       "date": "2026-06-12",
-      "url": "https://www.aljazeera.com/news/2026/6/12/air-india-flight-171-crash-grieving-families-wait-for-justice-a-year-later?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/12/at-least-one-killed-and-nine-hospitalised-in-texas-shooting?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰和俄罗斯交火造成三人死亡",
-        "en": "Three killed as Ukraine and Russia exchange cross-border attacks",
-        "de": "Drei Tote bei grenzüberschreitenden Angriffen zwischen der Ukraine und Russland"
+        "zh": "美国将削减在欧洲的北约行动部署的空中和海军资产",
+        "en": "US to cut air and naval assets deployed for NATO operations in Europe",
+        "de": "USA werden Luft- und Marinevermögen, die für NATO-Operationen in Europa eingesetzt werden, reduzieren"
       },
       "summary": {
-        "zh": "乌克兰和俄罗斯之间的交火导致三人死亡，其中包括在俄罗斯布良斯克地区的两名死者和乌克兰苏梅的一名女性。",
-        "en": "Cross-border attacks between Ukraine and Russia resulted in three deaths, including two in Russia's Bryansk region and one woman in Ukraine's Sumy.",
-        "de": "Grenzüberschreitende Angriffe zwischen der Ukraine und Russland führten zu drei Todesfällen, darunter zwei in der Region Bryansk in Russland und eine Frau in der ukrainischen Stadt Sumy."
+        "zh": "美国计划削减在欧洲的北约行动中部署的空中和海军资产，具体细节尚未披露。",
+        "en": "The US plans to cut air and naval assets deployed for NATO operations in Europe, with specific details yet to be disclosed.",
+        "de": "Die USA planen, Luft- und Marinevermögen, die für NATO-Operationen in Europa eingesetzt werden, zu reduzieren, wobei spezifische Details noch bekannt gegeben werden müssen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-12",
-      "url": "https://www.aljazeera.com/news/2026/6/12/three-killed-as-ukraine-and-russia-exchange-cross-border-attacks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/12/us-to-cut-air-and-naval-assets-deployed-for-nato-operations-in-europe?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英国经济在4月份萎缩0.1%，伊朗冲突对增长造成压力",
+        "zh": "英国经济在四月萎缩0.1%，伊朗冲突对增长造成压力",
         "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
-        "de": "Britische Wirtschaft schrumpfte im April um 0,1%, da der Iran-Konflikt das Wachstum belastete"
+        "de": "Britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
       },
       "summary": {
-        "zh": "英国经济在4月份萎缩了0.1%，主要由于服务业活动下降和企业受到中东冲突的压力。这一数据反映了国际局势对经济的影响。",
-        "en": "The UK economy shrank by 0.1% in April, primarily due to a decline in service activity and pressure on businesses from the Middle East conflict. This data reflects the impact of international events on the economy.",
-        "de": "Die britische Wirtschaft schrumpfte im April um 0,1%, hauptsächlich aufgrund eines Rückgangs der Dienstleistungsaktivitäten und des Drucks auf Unternehmen durch den Konflikt im Nahen Osten. Diese Daten spiegeln die Auswirkungen internationaler Ereignisse auf die Wirtschaft wider."
+        "zh": "由于服务活动下降和中东冲突的压力，英国四月份GDP下降了0.1%。",
+        "en": "The UK's GDP fell by 0.1% in April due to a decline in services activity and pressures from the Middle East conflict.",
+        "de": "Das britische BIP fiel im April um 0,1 % aufgrund eines Rückgangs der Dienstleistungsaktivitäten und des Drucks durch den Konflikt im Nahen Osten."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-12",
@@ -122,12 +122,12 @@
       "title": {
         "zh": "中国初创企业的困境暴露了北京科技融资机制的裂痕",
         "en": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
-        "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse im Finanzierungssystem für Technologie in Peking"
+        "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse in Pekings Technologie-Finanzierungsmaschine"
       },
       "summary": {
-        "zh": "一家中国初创企业面临的困境揭示了北京科技融资机制中的问题。与美国通过激励措施间接支持科技赢家不同，中国政府在各级直接持股。",
-        "en": "The dilemma faced by a Chinese start-up reveals issues within Beijing's tech funding mechanism. Unlike the U.S., which indirectly supports tech winners through incentives, Chinese governments take direct equity stakes at all levels.",
-        "de": "Das Dilemma, mit dem ein chinesisches Start-up konfrontiert ist, offenbart Probleme im Finanzierungssystem für Technologie in Peking. Im Gegensatz zu den USA, die Technologiegewinner indirekt durch Anreize unterstützen, gehen die chinesischen Regierungen auf allen Ebenen direkte Beteiligungen ein."
+        "zh": "中国政府在各级直接持股的方式与美国间接支持科技赢家的方式形成对比，暴露了融资机制的缺陷。",
+        "en": "The direct equity stakes taken by Chinese governments at every level contrast with the U.S. approach of indirectly supporting tech winners, exposing flaws in the funding mechanism.",
+        "de": "Die direkten Beteiligungen, die die chinesischen Regierungen auf allen Ebenen eingehen, stehen im Gegensatz zur US-Politik, die Technologiegewinner indirekt unterstützt, und offenbaren Mängel im Finanzierungssystem."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-12",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "5月份批发价格上涨1.1%，超出预期",
-        "en": "Wholesale prices rose 1.1% in May, more than expected",
-        "de": "Großhandelspreise stiegen im Mai um 1,1%, mehr als erwartet"
+        "zh": "5月批发价格上涨1.1%，超出预期",
+        "en": "Wholesale prices rose 1.1% in May, more than expected, on surge in energy",
+        "de": "Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
       },
       "summary": {
-        "zh": "5月份的批发价格上涨了1.1%，超出市场预期的0.7%。这一增长主要受到能源价格飙升的推动，反映了通货膨胀压力的加大。",
-        "en": "Wholesale prices rose by 1.1% in May, exceeding the market expectation of 0.7%. This increase was primarily driven by a surge in energy prices, reflecting heightened inflationary pressures.",
-        "de": "Die Großhandelspreise stiegen im Mai um 1,1%, was die Markterwartung von 0,7% übertraf. Dieser Anstieg wurde hauptsächlich durch einen Anstieg der Energiepreise angetrieben, was auf zunehmenden Inflationsdruck hinweist."
+        "zh": "由于能源价格飙升，5月份的生产者价格指数上涨了1.1%，超出市场预期的0.7%。",
+        "en": "The producer price index rose by 1.1% in May, exceeding the expected 0.7% increase, driven by a surge in energy prices.",
+        "de": "Der Produzentenpreisindex stieg im Mai um 1,1 %, was die erwartete Erhöhung von 0,7 % überstieg, angetrieben durch einen Anstieg der Energiepreise."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-11",
