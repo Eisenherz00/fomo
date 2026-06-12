@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-11T19:17:03.386693+00:00",
+  "generatedAt": "2026-06-12T08:47:24.763367+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "谷歌DeepMind担心数百万代理互动后的后果",
+        "zh": "谷歌DeepMind担心数百万代理人开始互动时会发生什么",
         "en": "Google DeepMind is worried about what happens when millions of agents start to interact",
-        "de": "Google DeepMind ist besorgt über die Folgen, wenn Millionen von Agenten anfangen, miteinander zu interagieren"
+        "de": "Google DeepMind ist besorgt, was passiert, wenn Millionen von Agenten anfangen, miteinander zu interagieren"
       },
       "summary": {
-        "zh": "谷歌DeepMind正在资助研究，探讨数百万不同AI代理在线互动时可能出现的潜在危险。该研究旨在了解AI代理之间的复杂互动可能带来的风险。",
-        "en": "Google DeepMind is funding research to explore the potential dangers of situations where millions of different AI agents interact online. The research aims to understand the risks that complex interactions between AI agents may pose.",
-        "de": "Google DeepMind finanziert Forschungen, um die potenziellen Gefahren von Situationen zu untersuchen, in denen Millionen von verschiedenen KI-Agenten online interagieren. Die Forschung zielt darauf ab, die Risiken zu verstehen, die komplexe Interaktionen zwischen KI-Agenten mit sich bringen können."
+        "zh": "谷歌DeepMind正在资助研究，探讨数百万不同AI代理在线互动时可能带来的潜在危险。这项研究旨在理解这些互动可能导致的后果和风险。",
+        "en": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. The study aims to understand the consequences and risks that may arise from these interactions.",
+        "de": "Google DeepMind finanziert Forschungen zu den potenziellen Gefahren von Situationen, in denen Millionen verschiedener KI-Agenten online miteinander interagieren. Die Studie zielt darauf ab, die Folgen und Risiken zu verstehen, die aus diesen Interaktionen entstehen können."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-11",
@@ -20,134 +20,134 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "中国正在押注大型核反应堆",
-        "en": "Why China is betting on big nuclear reactors",
-        "de": "Warum China auf große Kernreaktoren setzt"
-      },
-      "summary": {
-        "zh": "中国的核工业正在以惊人的速度发展，几乎翻倍了其核电机组。该国的核能计划引发了全球关注，尤其是在能源需求不断增长的背景下。",
-        "en": "China's nuclear industry is developing at a stunning pace, nearly doubling its nuclear fleet. The country's nuclear energy plans have drawn global attention, especially against the backdrop of rising energy demands.",
-        "de": "Chinas Kernenergieindustrie entwickelt sich in atemberaubendem Tempo und hat ihre Kernflotte fast verdoppelt. Die Pläne des Landes für die Kernenergie haben weltweit Aufmerksamkeit erregt, insbesondere vor dem Hintergrund steigender Energienachfragen."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-06-11",
-      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "未来的工作头衔：自然药物设计师",
+        "zh": "未来的职位名称：自然药物设计师",
         "en": "Job titles of the future: Nature’s drug designer",
         "de": "Berufsbezeichnungen der Zukunft: Naturwissenschaftler für Arzneimittel"
       },
       "summary": {
-        "zh": "随着科技的进步，未来的工作头衔将会发生变化。文章探讨了自然药物设计师这一新兴职业，强调其在制药行业中的重要性。",
-        "en": "As technology advances, job titles of the future will evolve. The article explores the emerging role of nature's drug designer, highlighting its significance in the pharmaceutical industry.",
-        "de": "Mit dem Fortschritt der Technologie werden sich die Berufsbezeichnungen der Zukunft weiterentwickeln. Der Artikel untersucht die aufkommende Rolle des Naturwissenschaftlers für Arzneimittel und hebt dessen Bedeutung in der Pharmaindustrie hervor."
+        "zh": "化学家Tim Cernak在2018年结束了近二十年的制药行业生涯，开始将他的技能应用于新的领域。他为默克开发的药物使他成为自然药物设计的先锋。",
+        "en": "Chemist Tim Cernak ended nearly two decades in Big Pharma in 2018 to apply his skills to new uses. His work for Merck has made him a pioneer in the field of nature's drug design.",
+        "de": "Der Chemiker Tim Cernak beendete 2018 nach fast zwei Jahrzehnten in der Pharmaindustrie seine Karriere, um seine Fähigkeiten in neuen Bereichen anzuwenden. Seine Arbeit für Merck hat ihn zu einem Pionier im Bereich des Designs von Naturarzneimitteln gemacht."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-11",
       "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "中国为何押注大型核反应堆",
+        "en": "Why China is betting on big nuclear reactors",
+        "de": "Warum China auf große Kernreaktoren setzt"
+      },
+      "summary": {
+        "zh": "中国的核工业正在以惊人的速度发展，大型核反应堆的建设几乎翻了一番。这一战略反映了中国在全球能源市场中的雄心。",
+        "en": "China's nuclear industry is advancing at a stunning pace, with the construction of large reactors nearly doubling. This strategy reflects China's ambitions in the global energy market.",
+        "de": "Die chinesische Kernenergieindustrie schreitet mit atemberaubender Geschwindigkeit voran, wobei der Bau großer Reaktoren nahezu verdoppelt wurde. Diese Strategie spiegelt Chinas Ambitionen auf dem globalen Energiemarkt wider."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-06-11",
+      "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "马斯克的Grok被指控违反加拿大深度伪造隐私法",
-        "en": "Musk’s Grok accused of violating Canadian privacy laws on deepfakes",
-        "de": "Musks Grok wird beschuldigt, kanadische Datenschutzgesetze zu Deepfakes zu verletzen"
+        "zh": "2026年世界杯开幕日要点：红牌、VAR和补水时间",
+        "en": "World Cup 2026 opening day takeaways: Red cards, VAR and hydration breaks",
+        "de": "Weltmeisterschaft 2026 Eröffnungstag Erkenntnisse: Rote Karten, VAR und Trinkpausen"
       },
       "summary": {
-        "zh": "加拿大隐私监管机构发现，马斯克的Grok缺乏对性别化深度伪造图像共享的保护措施，这引发了全球的关注和审查。",
-        "en": "A Canadian privacy watchdog found that Musk's Grok lacks safeguards for sharing sexualized deepfake images, raising global scrutiny and concern.",
-        "de": "Ein kanadischer Datenschutzbeauftragter stellte fest, dass Musks Grok keine Schutzmaßnahmen für den Austausch sexualisierter Deepfake-Bilder hat, was globale Aufmerksamkeit und Besorgnis aufwirft."
+        "zh": "2026年世界杯开幕日引发了关于补水时间和红牌的广泛讨论。赛事的争议和兴奋点成为了媒体和球迷关注的焦点。",
+        "en": "The opening day of the 2026 World Cup sparked widespread discussion about hydration breaks and red cards. The controversies and highlights of the event became the focus of media and fan attention.",
+        "de": "Der Eröffnungstag der Weltmeisterschaft 2026 löste weitreichende Diskussionen über Trinkpausen und rote Karten aus. Die Kontroversen und Höhepunkte der Veranstaltung wurden zum Mittelpunkt der Medien- und Fanaufmerksamkeit."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-11",
-      "url": "https://www.aljazeera.com/economy/2026/6/11/musks-grok-accused-of-violating-canadian-privacy-laws-on-deepfakes?traffic_source=rss"
+      "date": "2026-06-12",
+      "url": "https://www.aljazeera.com/sports/2026/6/12/world-cup-2026-day-1-key-takeaways-var-hydration-breaks-red-cards-son-heung-min-zwane?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列政府考虑大规模资金扩展西岸定居点",
-        "en": "Israeli government mulling huge funding to expand West Bank settlement",
-        "de": "Israels Regierung erwägt massive Mittel zur Erweiterung der Siedlungen im Westjordanland"
+        "zh": "空印度171号航班坠毁：一年后悲痛的家庭等待正义",
+        "en": "Air India Flight 171 crash: Grieving families wait for justice a year later",
+        "de": "Air India Flug 171 Absturz: Trauernde Familien warten ein Jahr später auf Gerechtigkeit"
       },
       "summary": {
-        "zh": "以色列因扩建定居点而受到国际法的严厉批评，政府正在考虑大规模资金以支持这一计划。",
-        "en": "Israel has faced severe criticism under international law for expanding settlements, and the government is considering huge funding to support this plan.",
-        "de": "Israel sieht sich aufgrund der Erweiterung von Siedlungen schwerer internationaler Kritik ausgesetzt, und die Regierung erwägt massive Mittel zur Unterstützung dieses Plans."
+        "zh": "一年后，空印度171号航班的遇难者家庭仍在等待正义。悲痛的父亲面临驱逐，亲属期待赔偿。",
+        "en": "A year later, the families of the victims of Air India Flight 171 are still waiting for justice. A grieving father faces deportation while relatives await compensation.",
+        "de": "Ein Jahr später warten die Familien der Opfer des Air India Fluges 171 weiterhin auf Gerechtigkeit. Ein trauernder Vater sieht sich mit einer Abschiebung konfrontiert, während die Angehörigen auf Entschädigung warten."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-11",
-      "url": "https://www.aljazeera.com/news/2026/6/11/israeli-government-mulling-huge-funding-to-expand-west-bank-settlement-ngo?traffic_source=rss"
+      "date": "2026-06-12",
+      "url": "https://www.aljazeera.com/news/2026/6/12/air-india-flight-171-crash-grieving-families-wait-for-justice-a-year-later?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "多伦多警察在调查美国领事馆袭击时被枪击",
-        "en": "Toronto police officer shot while investigating attack on US consulate",
-        "de": "Toronto Polizeibeamter während der Untersuchung eines Angriffs auf das US-Konsulat erschossen"
+        "zh": "乌克兰和俄罗斯交火造成三人死亡",
+        "en": "Three killed as Ukraine and Russia exchange cross-border attacks",
+        "de": "Drei Tote bei grenzüberschreitenden Angriffen zwischen der Ukraine und Russland"
       },
       "summary": {
-        "zh": "在与美国领事馆袭击相关的搜查令执行过程中，一名多伦多警察被枪击，警方表示仍有一名嫌疑人在逃。",
-        "en": "A Toronto police officer was shot while executing a search warrant related to an attack on the US consulate, with police stating that one suspect remains at large.",
-        "de": "Ein Polizeibeamter in Toronto wurde während der Ausführung eines Durchsuchungsbefehls im Zusammenhang mit einem Angriff auf das US-Konsulat erschossen, wobei die Polizei angibt, dass ein Verdächtiger noch auf freiem Fuß ist."
+        "zh": "乌克兰和俄罗斯之间的交火导致三人死亡，其中包括在俄罗斯布良斯克地区的两名死者和乌克兰苏梅的一名女性。",
+        "en": "Cross-border attacks between Ukraine and Russia resulted in three deaths, including two in Russia's Bryansk region and one woman in Ukraine's Sumy.",
+        "de": "Grenzüberschreitende Angriffe zwischen der Ukraine und Russland führten zu drei Todesfällen, darunter zwei in der Region Bryansk in Russland und eine Frau in der ukrainischen Stadt Sumy."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-11",
-      "url": "https://www.aljazeera.com/news/2026/6/11/toronto-police-officer-shot-while-investigating-attack-on-us-consulate?traffic_source=rss"
+      "date": "2026-06-12",
+      "url": "https://www.aljazeera.com/news/2026/6/12/three-killed-as-ukraine-and-russia-exchange-cross-border-attacks?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "5月份批发价格上涨1.1%，超出预期",
-        "en": "Wholesale prices rose 1.1% in May, more than expected, on surge in energy",
-        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
+        "zh": "英国经济在4月份萎缩0.1%，伊朗冲突对增长造成压力",
+        "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
+        "de": "Britische Wirtschaft schrumpfte im April um 0,1%, da der Iran-Konflikt das Wachstum belastete"
       },
       "summary": {
-        "zh": "5月份的生产者价格指数预计将增长0.7%，但实际增长达到了1.1%。这一增长主要是由于能源价格的激增。",
-        "en": "The producer price index was expected to increase by 0.7% in May, but the actual increase reached 1.1%. This rise was primarily driven by a surge in energy prices.",
-        "de": "Der Produzentenpreisindex sollte im Mai um 0,7 % steigen, tatsächlich betrug der Anstieg jedoch 1,1 %. Dieser Anstieg wurde hauptsächlich durch einen Anstieg der Energiepreise angetrieben."
+        "zh": "英国经济在4月份萎缩了0.1%，主要由于服务业活动下降和企业受到中东冲突的压力。这一数据反映了国际局势对经济的影响。",
+        "en": "The UK economy shrank by 0.1% in April, primarily due to a decline in service activity and pressure on businesses from the Middle East conflict. This data reflects the impact of international events on the economy.",
+        "de": "Die britische Wirtschaft schrumpfte im April um 0,1%, hauptsächlich aufgrund eines Rückgangs der Dienstleistungsaktivitäten und des Drucks auf Unternehmen durch den Konflikt im Nahen Osten. Diese Daten spiegeln die Auswirkungen internationaler Ereignisse auf die Wirtschaft wider."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-11",
-      "url": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html"
+      "date": "2026-06-12",
+      "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "欧洲央行自2023年以来首次加息",
-        "en": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
-        "de": "EZB erhöht die Zinssätze zum ersten Mal seit 2023, da der Iran-Krieg die Energiekosten in die Höhe treibt"
+        "zh": "中国初创企业的困境暴露了北京科技融资机制的裂痕",
+        "en": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
+        "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse im Finanzierungssystem für Technologie in Peking"
       },
       "summary": {
-        "zh": "欧洲央行在能源成本上升的背景下，首次自2023年以来加息，并上调了通胀预期，降低了增长前景。",
-        "en": "The European Central Bank raised interest rates for the first time since 2023 amid rising energy costs and also adjusted its inflation forecasts and growth outlook downward.",
-        "de": "Die Europäische Zentralbank hat die Zinssätze zum ersten Mal seit 2023 angehoben, da die Energiekosten steigen, und auch ihre Inflationsprognosen sowie die Wachstumsprognose nach unten angepasst."
+        "zh": "一家中国初创企业面临的困境揭示了北京科技融资机制中的问题。与美国通过激励措施间接支持科技赢家不同，中国政府在各级直接持股。",
+        "en": "The dilemma faced by a Chinese start-up reveals issues within Beijing's tech funding mechanism. Unlike the U.S., which indirectly supports tech winners through incentives, Chinese governments take direct equity stakes at all levels.",
+        "de": "Das Dilemma, mit dem ein chinesisches Start-up konfrontiert ist, offenbart Probleme im Finanzierungssystem für Technologie in Peking. Im Gegensatz zu den USA, die Technologiegewinner indirekt durch Anreize unterstützen, gehen die chinesischen Regierungen auf allen Ebenen direkte Beteiligungen ein."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-11",
-      "url": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html"
+      "date": "2026-06-12",
+      "url": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "5月份消费者价格同比上涨4.2%，为三年来最高",
-        "en": "Consumer prices rose 4.2% annually in May, highest in three years",
-        "de": "Die Verbraucherpreise stiegen im Mai um 4,2 % im Jahresvergleich, der höchste Wert seit drei Jahren"
+        "zh": "5月份批发价格上涨1.1%，超出预期",
+        "en": "Wholesale prices rose 1.1% in May, more than expected",
+        "de": "Großhandelspreise stiegen im Mai um 1,1%, mehr als erwartet"
       },
       "summary": {
-        "zh": "5月份的消费者价格指数预计将显示出4.2%的年增长率，这是三年来的最高水平，反映了持续的通货膨胀压力。",
-        "en": "The consumer price index was expected to show a 4.2% annual increase in May, marking the highest level in three years and reflecting ongoing inflationary pressures.",
-        "de": "Der Verbraucherpreisindex sollte im Mai einen jährlichen Anstieg von 4,2 % zeigen, was den höchsten Stand seit drei Jahren markiert und die anhaltenden Inflationsdruck widerspiegelt."
+        "zh": "5月份的批发价格上涨了1.1%，超出市场预期的0.7%。这一增长主要受到能源价格飙升的推动，反映了通货膨胀压力的加大。",
+        "en": "Wholesale prices rose by 1.1% in May, exceeding the market expectation of 0.7%. This increase was primarily driven by a surge in energy prices, reflecting heightened inflationary pressures.",
+        "de": "Die Großhandelspreise stiegen im Mai um 1,1%, was die Markterwartung von 0,7% übertraf. Dieser Anstieg wurde hauptsächlich durch einen Anstieg der Energiepreise angetrieben, was auf zunehmenden Inflationsdruck hinweist."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-10",
-      "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html"
+      "date": "2026-06-11",
+      "url": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html"
     }
   ]
 }
