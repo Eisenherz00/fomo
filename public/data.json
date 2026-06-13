@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-12T18:22:11.320887+00:00",
+  "generatedAt": "2026-06-13T08:02:35.702447+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "为什么“重新编程”是目前逆转衰老的最热门方法",
         "en": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-        "de": "Warum „Reprogrammierung“ der derzeit angesagteste Ansatz zur Umkehrung des Alterns ist"
+        "de": "Warum „Reprogrammierung“ derzeit der angesagteste Ansatz zur Umkehrung des Alterns ist"
       },
       "summary": {
-        "zh": "Life Biosciences宣布已对首位志愿者进行了剂量测试，标志着其在逆转与年龄相关疾病方面的重要进展。",
-        "en": "Life Biosciences announced it has dosed its first volunteer, marking a significant advancement in reversing age-related diseases.",
-        "de": "Life Biosciences gab bekannt, dass es seinen ersten Freiwilligen behandelt hat, was einen bedeutenden Fortschritt bei der Umkehrung altersbedingter Krankheiten darstellt."
+        "zh": "Life Biosciences宣布其首位志愿者接受了逆转衰老相关疾病的治疗。这一“重新编程”方法引起了广泛关注，可能改变衰老的科学研究方向。",
+        "en": "Life Biosciences announced that it has dosed its first volunteer in its efforts to reverse age-related diseases. This 'reprogramming' approach has garnered significant attention and may change the direction of aging research.",
+        "de": "Life Biosciences gab bekannt, dass es seinen ersten Freiwilligen in seinen Bemühungen, altersbedingte Krankheiten umzukehren, behandelt hat. Dieser Ansatz der „Reprogrammierung“ hat erhebliche Aufmerksamkeit erregt und könnte die Richtung der Alternsforschung verändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-12",
@@ -25,9 +25,9 @@
         "de": "Google DeepMind macht sich Sorgen darüber, was passiert, wenn Millionen von Agenten anfangen zu interagieren"
       },
       "summary": {
-        "zh": "谷歌DeepMind资助研究，探讨数百万AI代理在线互动可能带来的潜在危险。",
-        "en": "Google DeepMind is funding research into the potential dangers of situations where millions of AI agents interact online.",
-        "de": "Google DeepMind finanziert Forschungen zu den potenziellen Gefahren von Situationen, in denen Millionen von KI-Agenten online interagieren."
+        "zh": "谷歌DeepMind资助研究，探讨数百万不同AI代理在线互动的潜在危险。这项研究旨在理解大规模AI互动可能带来的风险。",
+        "en": "Google DeepMind is funding research to explore the potential dangers of millions of different AI agents interacting online. This research aims to understand the risks that large-scale AI interactions may pose.",
+        "de": "Google DeepMind finanziert Forschungen, um die potenziellen Gefahren zu untersuchen, die entstehen, wenn Millionen von verschiedenen KI-Agenten online interagieren. Diese Forschung zielt darauf ab, die Risiken zu verstehen, die großangelegte KI-Interaktionen mit sich bringen können."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-11",
@@ -36,82 +36,82 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "如何通过USB连接的扬声器感染PC而不触碰",
-        "en": "How a USB-connected speaker can infect a PC without ever being touched",
-        "de": "Wie ein USB-verbundener Lautsprecher einen PC infizieren kann, ohne jemals berührt zu werden"
+        "zh": "PeopleSoft 0-day影响数百个组织窃取千兆字节数据",
+        "en": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+        "de": "PeopleSoft 0-Day, der Hunderte von Organisationen betrifft, stiehlt Gigabyte an Daten"
       },
       "summary": {
-        "zh": "Sound Blaster Katana V2X的卖家不认为这种行为是漏洞，但它可以通过无线方式感染连接的设备。",
-        "en": "The seller of the Sound Blaster Katana V2X does not consider this behavior a vulnerability, but it can infect connected devices wirelessly.",
-        "de": "Der Verkäufer des Sound Blaster Katana V2X betrachtet dieses Verhalten nicht als Sicherheitsanfälligkeit, aber es kann verbundene Geräte drahtlos infizieren."
+        "zh": "Oracle旗下的PeopleSoft软件存在严重漏洞，影响数百个组织并导致大量数据被盗。此漏洞的严重性引发了广泛的安全关注。",
+        "en": "A critical vulnerability in Oracle-owned PeopleSoft software affects hundreds of organizations and leads to significant data theft. The severity of this vulnerability has raised widespread security concerns.",
+        "de": "Eine kritische Schwachstelle in der von Oracle betriebenen PeopleSoft-Software betrifft Hunderte von Organisationen und führt zu erheblichen Datenverlusten. Die Schwere dieser Schwachstelle hat weitreichende Sicherheitsbedenken ausgelöst."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-06-05",
-      "url": "https://arstechnica.com/security/2026/06/how-a-usb-connected-speaker-can-infect-a-pc-without-ever-being-touched/"
+      "date": "2026-06-12",
+      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "联合国通过条约为零工经济工作者设定标准",
-        "en": "UN adopts treaty setting standards for gig economy workers",
-        "de": "UN verabschiedet Vertrag, der Standards für Gig-Economy-Arbeiter festlegt"
+        "zh": "以色列袭击南黎巴嫩，发布强制迁移命令，造成一人死亡",
+        "en": "One killed as Israel hits south Lebanon, issues forced displacement orders",
+        "de": "Ein Toter, als Israel den Süden Libanons angreift und Zwangsumsiedlungsbefehle erteilt"
       },
       "summary": {
-        "zh": "联合国通过的这一世界首个协议为零工经济工作者提供了最低工资和义务等保护。",
-        "en": "The UN's adoption of this world-first agreement provides protections for gig economy workers, including enforcing minimum wage requirements.",
-        "de": "Die Verabschiedung dieses weltweit ersten Abkommens durch die UN bietet Schutz für Gig-Economy-Arbeiter, einschließlich der Durchsetzung von Mindestlohnanforderungen."
+        "zh": "以色列军方已命令20个黎巴嫩城镇和村庄的居民立即离开家园，此次袭击导致一人死亡。这一局势引发了国际社会的关注。",
+        "en": "The Israeli military has ordered residents of 20 Lebanese towns and villages to leave their homes immediately, with one person reported killed in the attack. This situation has drawn international attention.",
+        "de": "Die israelische Armee hat die Bewohner von 20 libanesischen Städten und Dörfern aufgefordert, ihre Häuser sofort zu verlassen, wobei ein Mensch bei dem Angriff getötet wurde. Diese Situation hat internationale Aufmerksamkeit erregt."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-12",
-      "url": "https://www.aljazeera.com/news/2026/6/12/un-adopts-treaty-setting-standards-for-gig-economy-workers?traffic_source=rss"
+      "date": "2026-06-13",
+      "url": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "德克萨斯州枪击事件造成至少一人死亡，九人住院",
-        "en": "At least one killed and nine hospitalised in Texas shooting",
-        "de": "Mindestens ein Toter und neun Verletzte bei Schießerei in Texas"
+        "zh": "特朗普寻求“脱身”伊朗战争的协议",
+        "en": "Trump seeks ‘off-ramp’ from war in ‘Iran deal’",
+        "de": "Trump sucht nach einem „Ausweg“ aus dem Krieg im „Iran-Deal“"
       },
       "summary": {
-        "zh": "德克萨斯州米德兰的枪击事件导致一名嫌疑人确认死亡，九人被送往医院。",
-        "en": "A shooting in Midland, Texas, has resulted in one confirmed dead and nine hospitalized.",
-        "de": "Eine Schießerei in Midland, Texas, hat einen bestätigten Todesfall und neun Verletzte zur Folge."
+        "zh": "特朗普总统正在寻求与伊朗达成协议，以便为美国在伊朗战争中找到“脱身”之路。此举可能影响未来的外交关系。",
+        "en": "President Donald Trump is seeking a deal with Iran to find an 'off-ramp' for the U.S. from the Iran war. This move could impact future diplomatic relations.",
+        "de": "Präsident Donald Trump sucht einen Deal mit dem Iran, um den USA einen „Ausweg“ aus dem Iran-Krieg zu ermöglichen. Dieser Schritt könnte die zukünftigen diplomatischen Beziehungen beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-12",
-      "url": "https://www.aljazeera.com/news/2026/6/12/at-least-one-killed-and-nine-hospitalised-in-texas-shooting?traffic_source=rss"
+      "date": "2026-06-13",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国将削减在欧洲的北约行动部署的空中和海军资产",
-        "en": "US to cut air and naval assets deployed for NATO operations in Europe",
-        "de": "USA werden Luft- und Marinevermögen, die für NATO-Operationen in Europa eingesetzt werden, reduzieren"
+        "zh": "特朗普称美国打击了与委内瑞拉合作的Tren de Aragua帮派首领",
+        "en": "Trump says US strike killed Tren de Aragua gang boss with Venezuelan help",
+        "de": "Trump sagt, dass ein US-Schlag den Boss der Tren de Aragua-Gang mit venezolanischer Hilfe getötet hat"
       },
       "summary": {
-        "zh": "美国计划削减在欧洲的北约行动中部署的空中和海军资产，具体细节尚未披露。",
-        "en": "The US plans to cut air and naval assets deployed for NATO operations in Europe, with specific details yet to be disclosed.",
-        "de": "Die USA planen, Luft- und Marinevermögen, die für NATO-Operationen in Europa eingesetzt werden, zu reduzieren, wobei spezifische Details noch bekannt gegeben werden müssen."
+        "zh": "特朗普表示，美国的军事行动打击了Tren de Aragua帮派的首领，该帮派长期以来与委内瑞拉有联系。这一声明引发了对美国在拉美地区政策的讨论。",
+        "en": "Trump stated that U.S. military action killed the boss of the Tren de Aragua gang, which has long been linked to Venezuela. This statement has sparked discussions about U.S. policy in the Latin American region.",
+        "de": "Trump erklärte, dass US-Militäraktionen den Boss der Tren de Aragua-Gang getötet haben, die seit langem mit Venezuela verbunden ist. Diese Aussage hat Diskussionen über die US-Politik in der lateinamerikanischen Region ausgelöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-12",
-      "url": "https://www.aljazeera.com/news/2026/6/12/us-to-cut-air-and-naval-assets-deployed-for-nato-operations-in-europe?traffic_source=rss"
+      "date": "2026-06-13",
+      "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英国经济在四月萎缩0.1%，伊朗冲突对增长造成压力",
+        "zh": "英国经济在伊朗冲突影响下4月萎缩0.1%",
         "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
-        "de": "Britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
+        "de": "Die britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
       },
       "summary": {
-        "zh": "由于服务活动下降和中东冲突的压力，英国四月份GDP下降了0.1%。",
-        "en": "The UK's GDP fell by 0.1% in April due to a decline in services activity and pressures from the Middle East conflict.",
-        "de": "Das britische BIP fiel im April um 0,1 % aufgrund eines Rückgangs der Dienstleistungsaktivitäten und des Drucks durch den Konflikt im Nahen Osten."
+        "zh": "由于服务活动下降和中东冲突的压力，英国4月份GDP下降了0.1%。这一经济数据反映了国际局势对经济的影响。",
+        "en": "The UK's GDP fell by 0.1% in April due to a decline in services activity and pressure from the Middle East conflict. This economic data reflects the impact of international situations on the economy.",
+        "de": "Das BIP des Vereinigten Königreichs fiel im April um 0,1 %, was auf einen Rückgang der Dienstleistungsaktivitäten und den Druck des Konflikts im Nahen Osten zurückzuführen ist. Diese Wirtschaftsdaten spiegeln die Auswirkungen internationaler Situationen auf die Wirtschaft wider."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-12",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国初创企业的困境暴露了北京科技融资机制的裂痕",
+        "zh": "中国初创公司的困境暴露了北京科技融资机制的裂缝",
         "en": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
-        "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse in Pekings Technologie-Finanzierungsmaschine"
+        "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse im Technologie-Finanzierungsmechanismus Pekings"
       },
       "summary": {
-        "zh": "中国政府在各级直接持股的方式与美国间接支持科技赢家的方式形成对比，暴露了融资机制的缺陷。",
-        "en": "The direct equity stakes taken by Chinese governments at every level contrast with the U.S. approach of indirectly supporting tech winners, exposing flaws in the funding mechanism.",
-        "de": "Die direkten Beteiligungen, die die chinesischen Regierungen auf allen Ebenen eingehen, stehen im Gegensatz zur US-Politik, die Technologiegewinner indirekt unterstützt, und offenbaren Mängel im Finanzierungssystem."
+        "zh": "中国初创公司面临的融资困境揭示了北京科技融资机制的缺陷。与美国间接支持科技赢家的方式不同，中国政府采取直接股权投资的方式。",
+        "en": "The funding dilemmas faced by Chinese start-ups reveal flaws in Beijing's tech funding mechanism. Unlike the U.S. approach of indirectly supporting tech winners, Chinese governments take direct equity stakes.",
+        "de": "Die Finanzierungsschwierigkeiten, mit denen chinesische Start-ups konfrontiert sind, offenbaren Mängel im Technologie-Finanzierungsmechanismus Pekings. Im Gegensatz zum indirekten Ansatz der USA zur Unterstützung von Technologiefirmen gehen die chinesischen Regierungen direkte Beteiligungen ein."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-12",
@@ -138,12 +138,12 @@
       "title": {
         "zh": "5月批发价格上涨1.1%，超出预期",
         "en": "Wholesale prices rose 1.1% in May, more than expected, on surge in energy",
-        "de": "Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
+        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
       },
       "summary": {
-        "zh": "由于能源价格飙升，5月份的生产者价格指数上涨了1.1%，超出市场预期的0.7%。",
-        "en": "The producer price index rose by 1.1% in May, exceeding the expected 0.7% increase, driven by a surge in energy prices.",
-        "de": "Der Produzentenpreisindex stieg im Mai um 1,1 %, was die erwartete Erhöhung von 0,7 % überstieg, angetrieben durch einen Anstieg der Energiepreise."
+        "zh": "由于能源价格激增，5月份的批发价格上涨了1.1%，超出市场预期。这一数据可能影响未来的通货膨胀预期。",
+        "en": "Wholesale prices rose by 1.1% in May, exceeding market expectations due to a surge in energy prices. This data may influence future inflation expectations.",
+        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, was die Markterwartungen aufgrund eines Anstiegs der Energiepreise übertraf. Diese Daten könnten die zukünftigen Inflationserwartungen beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-11",
