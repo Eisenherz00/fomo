@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-13T08:02:35.702447+00:00",
+  "generatedAt": "2026-06-13T17:49:49.437788+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么“重新编程”是目前逆转衰老的最热门方法",
+        "zh": "为什么“重编程”是目前逆转衰老的最热门方法",
         "en": "Why “reprogramming” is the buzziest approach to reversing aging right now",
         "de": "Warum „Reprogrammierung“ derzeit der angesagteste Ansatz zur Umkehrung des Alterns ist"
       },
       "summary": {
-        "zh": "Life Biosciences宣布其首位志愿者接受了逆转衰老相关疾病的治疗。这一“重新编程”方法引起了广泛关注，可能改变衰老的科学研究方向。",
-        "en": "Life Biosciences announced that it has dosed its first volunteer in its efforts to reverse age-related diseases. This 'reprogramming' approach has garnered significant attention and may change the direction of aging research.",
-        "de": "Life Biosciences gab bekannt, dass es seinen ersten Freiwilligen in seinen Bemühungen, altersbedingte Krankheiten umzukehren, behandelt hat. Dieser Ansatz der „Reprogrammierung“ hat erhebliche Aufmerksamkeit erregt und könnte die Richtung der Alternsforschung verändern."
+        "zh": "Life Biosciences宣布已给首位志愿者注射了逆转衰老的药物，标志着重编程技术的进展。这一方法正在引起广泛关注，成为生物技术领域的热门话题。",
+        "en": "Life Biosciences announced it has dosed its first volunteer with a drug aimed at reversing aging, marking progress in reprogramming technology. This method is gaining widespread attention and becoming a hot topic in the biotech field.",
+        "de": "Life Biosciences gab bekannt, dass es seinen ersten Freiwilligen mit einem Medikament zur Umkehrung des Alterns behandelt hat, was einen Fortschritt in der Reprogrammierungstechnologie markiert. Diese Methode gewinnt zunehmend an Aufmerksamkeit und wird zu einem heißen Thema im Biotech-Bereich."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-12",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "谷歌DeepMind担心数百万代理人开始互动时会发生什么",
+        "zh": "谷歌DeepMind担心数百万代理人开始互动时的后果",
         "en": "Google DeepMind is worried about what happens when millions of agents start to interact",
-        "de": "Google DeepMind macht sich Sorgen darüber, was passiert, wenn Millionen von Agenten anfangen zu interagieren"
+        "de": "Google DeepMind macht sich Sorgen darüber, was passiert, wenn Millionen von Agenten beginnen, miteinander zu interagieren"
       },
       "summary": {
-        "zh": "谷歌DeepMind资助研究，探讨数百万不同AI代理在线互动的潜在危险。这项研究旨在理解大规模AI互动可能带来的风险。",
-        "en": "Google DeepMind is funding research to explore the potential dangers of millions of different AI agents interacting online. This research aims to understand the risks that large-scale AI interactions may pose.",
-        "de": "Google DeepMind finanziert Forschungen, um die potenziellen Gefahren zu untersuchen, die entstehen, wenn Millionen von verschiedenen KI-Agenten online interagieren. Diese Forschung zielt darauf ab, die Risiken zu verstehen, die großangelegte KI-Interaktionen mit sich bringen können."
+        "zh": "谷歌DeepMind正在资助研究，以探讨数百万个不同AI代理在线互动时可能出现的潜在危险。这项研究旨在理解大规模AI系统的复杂性。",
+        "en": "Google DeepMind is funding research to explore the potential dangers of millions of different AI agents interacting online. This research aims to understand the complexities of large-scale AI systems.",
+        "de": "Google DeepMind finanziert Forschungen, um die potenziellen Gefahren zu untersuchen, die auftreten können, wenn Millionen von verschiedenen KI-Agenten online interagieren. Diese Forschung zielt darauf ab, die Komplexität großangelegter KI-Systeme zu verstehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-11",
@@ -36,16 +36,16 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "PeopleSoft 0-day影响数百个组织窃取千兆字节数据",
+        "zh": "PeopleSoft 0-day影响数百个组织，窃取数千兆数据",
         "en": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
         "de": "PeopleSoft 0-Day, der Hunderte von Organisationen betrifft, stiehlt Gigabyte an Daten"
       },
       "summary": {
-        "zh": "Oracle旗下的PeopleSoft软件存在严重漏洞，影响数百个组织并导致大量数据被盗。此漏洞的严重性引发了广泛的安全关注。",
-        "en": "A critical vulnerability in Oracle-owned PeopleSoft software affects hundreds of organizations and leads to significant data theft. The severity of this vulnerability has raised widespread security concerns.",
-        "de": "Eine kritische Schwachstelle in der von Oracle betriebenen PeopleSoft-Software betrifft Hunderte von Organisationen und führt zu erheblichen Datenverlusten. Die Schwere dieser Schwachstelle hat weitreichende Sicherheitsbedenken ausgelöst."
+        "zh": "Oracle拥有的PeopleSoft软件的漏洞被认为是相当严重的，影响了数百个组织并导致大量数据被盗。这一安全事件引发了广泛关注。",
+        "en": "A vulnerability in the Oracle-owned PeopleSoft software is considered critical, affecting hundreds of organizations and resulting in significant data theft. This security incident has raised widespread concern.",
+        "de": "Eine Schwachstelle in der Oracle-eigenen PeopleSoft-Software wird als kritisch angesehen, da sie Hunderte von Organisationen betrifft und zu erheblichem Datendiebstahl führt. Dieses Sicherheitsereignis hat weitreichende Besorgnis ausgelöst."
       },
-      "source": "Ars Technica – AI",
+      "source": "Ars Technica",
       "date": "2026-06-12",
       "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/"
     }
@@ -54,82 +54,82 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列袭击南黎巴嫩，发布强制迁移命令，造成一人死亡",
-        "en": "One killed as Israel hits south Lebanon, issues forced displacement orders",
-        "de": "Ein Toter, als Israel den Süden Libanons angreift und Zwangsumsiedlungsbefehle erteilt"
+        "zh": "加沙宠物主人在兽医危机中努力保持动物健康",
+        "en": "Gaza pet owners struggle to keep animals healthy amid vet crisis",
+        "de": "Tierbesitzer im Gazastreifen kämpfen darum, ihre Tiere inmitten einer Tierarztkrise gesund zu halten"
       },
       "summary": {
-        "zh": "以色列军方已命令20个黎巴嫩城镇和村庄的居民立即离开家园，此次袭击导致一人死亡。这一局势引发了国际社会的关注。",
-        "en": "The Israeli military has ordered residents of 20 Lebanese towns and villages to leave their homes immediately, with one person reported killed in the attack. This situation has drawn international attention.",
-        "de": "Die israelische Armee hat die Bewohner von 20 libanesischen Städten und Dörfern aufgefordert, ihre Häuser sofort zu verlassen, wobei ein Mensch bei dem Angriff getötet wurde. Diese Situation hat internationale Aufmerksamkeit erregt."
+        "zh": "加沙的动物爱好者在兽医短缺的情况下，采取绝望的措施来保持他们的宠物健康。这一危机反映了该地区更广泛的医疗和人道主义问题。",
+        "en": "Animal lovers in Gaza are resorting to desperate measures to keep their pets healthy amid a shortage of veterinarians. This crisis reflects broader medical and humanitarian issues in the region.",
+        "de": "Tierliebhaber im Gazastreifen greifen inmitten eines Mangels an Tierärzten zu verzweifelten Maßnahmen, um ihre Haustiere gesund zu halten. Diese Krise spiegelt breitere medizinische und humanitäre Probleme in der Region wider."
       },
       "source": "Al Jazeera",
       "date": "2026-06-13",
-      "url": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/gaza-pet-owners-struggle-to-keep-animals-healthy-amid-vet-crisis?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普寻求“脱身”伊朗战争的协议",
-        "en": "Trump seeks ‘off-ramp’ from war in ‘Iran deal’",
-        "de": "Trump sucht nach einem „Ausweg“ aus dem Krieg im „Iran-Deal“"
+        "zh": "特朗普如何将格斗运动变成政治武器",
+        "en": "Oval Office octagon: How Trump turned combat sports into a political weapon",
+        "de": "Oval Office-Oktagon: Wie Trump Kampfsportarten in eine politische Waffe verwandelte"
       },
       "summary": {
-        "zh": "特朗普总统正在寻求与伊朗达成协议，以便为美国在伊朗战争中找到“脱身”之路。此举可能影响未来的外交关系。",
-        "en": "President Donald Trump is seeking a deal with Iran to find an 'off-ramp' for the U.S. from the Iran war. This move could impact future diplomatic relations.",
-        "de": "Präsident Donald Trump sucht einen Deal mit dem Iran, um den USA einen „Ausweg“ aus dem Iran-Krieg zu ermöglichen. Dieser Schritt könnte die zukünftigen diplomatischen Beziehungen beeinflussen."
+        "zh": "特朗普的职业生涯与职业格斗深度交织，最近的MMA活动反映了这一点，但也可能带来政治后果。这种交织可能影响未来的选举。",
+        "en": "Trump's career is deeply intertwined with professional fighting, as reflected in recent MMA events, but it also risks political fallout. This intertwining could impact future elections.",
+        "de": "Trumps Karriere ist eng mit dem Profikampfsport verwoben, was sich in den jüngsten MMA-Veranstaltungen widerspiegelt, birgt jedoch auch das Risiko politischer Folgen. Diese Verflechtung könnte zukünftige Wahlen beeinflussen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/13/oval-office-octagon-how-trump-turned-combat-sports-into-a-political-weapon?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普称美国打击了与委内瑞拉合作的Tren de Aragua帮派首领",
-        "en": "Trump says US strike killed Tren de Aragua gang boss with Venezuelan help",
-        "de": "Trump sagt, dass ein US-Schlag den Boss der Tren de Aragua-Gang mit venezolanischer Hilfe getötet hat"
+        "zh": "伊朗和美国接近达成协议，德黑兰回忆起另一场血腥冲突",
+        "en": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+        "de": "Während Iran und die USA einem Deal näher kommen, erinnert sich Teheran an einen weiteren kürzlichen blutigen Konflikt"
       },
       "summary": {
-        "zh": "特朗普表示，美国的军事行动打击了Tren de Aragua帮派的首领，该帮派长期以来与委内瑞拉有联系。这一声明引发了对美国在拉美地区政策的讨论。",
-        "en": "Trump stated that U.S. military action killed the boss of the Tren de Aragua gang, which has long been linked to Venezuela. This statement has sparked discussions about U.S. policy in the Latin American region.",
-        "de": "Trump erklärte, dass US-Militäraktionen den Boss der Tren de Aragua-Gang getötet haben, die seit langem mit Venezuela verbunden ist. Diese Aussage hat Diskussionen über die US-Politik in der lateinamerikanischen Region ausgelöst."
+        "zh": "伊朗当局表示，过去一年中的暗杀和袭击未能阻止他们的决心，正值伊朗与美国接近达成临时协议之际。这一背景可能影响谈判进程。",
+        "en": "Iranian authorities state that assassinations and strikes over the past year have failed to deter them, coinciding with Iran and the US nearing an interim agreement. This backdrop may influence the negotiation process.",
+        "de": "Iranische Behörden erklären, dass Attentate und Angriffe im vergangenen Jahr sie nicht abgeschreckt haben, während Iran und die USA einem vorläufigen Abkommen näher kommen. Dieser Hintergrund könnte den Verhandlungsprozess beeinflussen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-13",
-      "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英国经济在伊朗冲突影响下4月萎缩0.1%",
+        "zh": "英国经济在四月萎缩0.1%，因伊朗冲突影响增长",
         "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
-        "de": "Die britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
+        "de": "Britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
       },
       "summary": {
-        "zh": "由于服务活动下降和中东冲突的压力，英国4月份GDP下降了0.1%。这一经济数据反映了国际局势对经济的影响。",
-        "en": "The UK's GDP fell by 0.1% in April due to a decline in services activity and pressure from the Middle East conflict. This economic data reflects the impact of international situations on the economy.",
-        "de": "Das BIP des Vereinigten Königreichs fiel im April um 0,1 %, was auf einen Rückgang der Dienstleistungsaktivitäten und den Druck des Konflikts im Nahen Osten zurückzuführen ist. Diese Wirtschaftsdaten spiegeln die Auswirkungen internationaler Situationen auf die Wirtschaft wider."
+        "zh": "由于服务活动下降和中东冲突的压力，英国在四月的GDP萎缩了0.1%。这一经济放缓反映了全球经济的不确定性。",
+        "en": "The UK's GDP shrank by 0.1% in April due to a decline in service activity and pressures from the Middle East conflict. This economic slowdown reflects global economic uncertainties.",
+        "de": "Das BIP des Vereinigten Königreichs schrumpfte im April um 0,1 %, was auf einen Rückgang der Dienstleistungsaktivitäten und den Druck des Konflikts im Nahen Osten zurückzuführen ist. Diese wirtschaftliche Verlangsamung spiegelt die globalen wirtschaftlichen Unsicherheiten wider."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-06-12",
       "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国初创公司的困境暴露了北京科技融资机制的裂缝",
+        "zh": "中国初创企业的困境暴露了北京科技融资机制的裂痕",
         "en": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
-        "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse im Technologie-Finanzierungsmechanismus Pekings"
+        "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse im Finanzierungssystem für Technologie in Peking"
       },
       "summary": {
-        "zh": "中国初创公司面临的融资困境揭示了北京科技融资机制的缺陷。与美国间接支持科技赢家的方式不同，中国政府采取直接股权投资的方式。",
-        "en": "The funding dilemmas faced by Chinese start-ups reveal flaws in Beijing's tech funding mechanism. Unlike the U.S. approach of indirectly supporting tech winners, Chinese governments take direct equity stakes.",
-        "de": "Die Finanzierungsschwierigkeiten, mit denen chinesische Start-ups konfrontiert sind, offenbaren Mängel im Technologie-Finanzierungsmechanismus Pekings. Im Gegensatz zum indirekten Ansatz der USA zur Unterstützung von Technologiefirmen gehen die chinesischen Regierungen direkte Beteiligungen ein."
+        "zh": "中国政府在科技领域的直接投资与美国的间接支持形成鲜明对比，这种差异导致了一些初创企业面临困境。这一现象可能影响未来的投资格局。",
+        "en": "The Chinese government's direct investments in the tech sector contrast sharply with the indirect support seen in the U.S., leading some start-ups to face dilemmas. This phenomenon may impact future investment landscapes.",
+        "de": "Die direkten Investitionen der chinesischen Regierung in den Technologiesektor stehen im scharfen Kontrast zur indirekten Unterstützung in den USA, was einige Start-ups in Dilemmas führt. Dieses Phänomen könnte die zukünftigen Investitionslandschaften beeinflussen."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-06-12",
       "url": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html"
     },
@@ -141,11 +141,11 @@
         "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
       },
       "summary": {
-        "zh": "由于能源价格激增，5月份的批发价格上涨了1.1%，超出市场预期。这一数据可能影响未来的通货膨胀预期。",
+        "zh": "由于能源价格激增，5月的批发价格上涨了1.1%，超出市场预期。这一数据可能影响未来的通货膨胀预期。",
         "en": "Wholesale prices rose by 1.1% in May, exceeding market expectations due to a surge in energy prices. This data may influence future inflation expectations.",
         "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, was die Markterwartungen aufgrund eines Anstiegs der Energiepreise übertraf. Diese Daten könnten die zukünftigen Inflationserwartungen beeinflussen."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-06-11",
       "url": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html"
     }
