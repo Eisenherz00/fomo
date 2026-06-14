@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-14T08:32:00.079613+00:00",
+  "generatedAt": "2026-06-14T17:54:37.899993+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "为什么“重新编程”是目前逆转衰老的最热门方法",
         "en": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-        "de": "Warum „Reprogrammierung“ der derzeit angesagteste Ansatz zur Umkehrung des Alterns ist"
+        "de": "Warum „Reprogrammierung“ derzeit der angesagteste Ansatz zur Umkehrung des Alterns ist"
       },
       "summary": {
-        "zh": "Life Biosciences宣布已对首位志愿者进行治疗，标志着其在逆转与年龄相关疾病方面的进展。该公司采用“重新编程”技术，旨在逆转衰老过程。",
-        "en": "Life Biosciences announced it has dosed its first volunteer, marking progress in reversing age-related diseases. The company employs 'reprogramming' techniques aimed at reversing the aging process.",
-        "de": "Life Biosciences gab bekannt, dass es seinen ersten Freiwilligen behandelt hat, was einen Fortschritt bei der Umkehrung altersbedingter Krankheiten markiert. Das Unternehmen verwendet „Reprogrammierungstechniken“, die darauf abzielen, den Alterungsprozess umzukehren."
+        "zh": "Life Biosciences宣布已对首位志愿者进行“重新编程”治疗，标志着逆转衰老研究的最新进展。这一方法吸引了广泛关注，成为生物技术领域的热门话题。",
+        "en": "Life Biosciences announced it has dosed its first volunteer with a 'reprogramming' treatment, marking a significant advancement in aging reversal research. This method has garnered widespread attention, becoming a hot topic in the biotech field.",
+        "de": "Life Biosciences gab bekannt, dass es seinen ersten Freiwilligen mit einer „Reprogrammierung“-Behandlung behandelt hat, was einen bedeutenden Fortschritt in der Forschung zur Umkehrung des Alterns darstellt. Diese Methode hat breite Aufmerksamkeit erregt und ist ein heißes Thema im Biotechnologiebereich."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-12",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "Google DeepMind担心数百万代理人开始互动时的后果",
+        "zh": "谷歌DeepMind担心数百万代理人开始互动时会发生什么",
         "en": "Google DeepMind is worried about what happens when millions of agents start to interact",
-        "de": "Google DeepMind macht sich Sorgen darüber, was passiert, wenn Millionen von Agenten anfangen, miteinander zu interagieren"
+        "de": "Google DeepMind ist besorgt darüber, was passiert, wenn Millionen von Agenten beginnen, miteinander zu interagieren"
       },
       "summary": {
-        "zh": "Google DeepMind正在资助研究，以探讨数百万个不同AI代理在线互动时可能出现的潜在危险。这项研究旨在理解AI系统之间的复杂相互作用。",
-        "en": "Google DeepMind is funding research to explore the potential dangers of millions of different AI agents interacting online. This research aims to understand the complex interactions between AI systems.",
-        "de": "Google DeepMind finanziert Forschungen, um die potenziellen Gefahren zu untersuchen, die auftreten, wenn Millionen von verschiedenen KI-Agenten online interagieren. Diese Forschung zielt darauf ab, die komplexen Interaktionen zwischen KI-Systemen zu verstehen."
+        "zh": "谷歌DeepMind正在资助研究，探讨数百万不同AI代理在线互动时可能出现的潜在危险。该研究旨在评估这些互动对社会和技术的影响。",
+        "en": "Google DeepMind is funding research to explore the potential dangers of millions of different AI agents interacting online. The study aims to assess the implications of these interactions on society and technology.",
+        "de": "Google DeepMind finanziert eine Forschung, um die potenziellen Gefahren zu untersuchen, die entstehen, wenn Millionen von verschiedenen KI-Agenten online interagieren. Die Studie zielt darauf ab, die Auswirkungen dieser Interaktionen auf die Gesellschaft und Technologie zu bewerten."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-11",
@@ -36,16 +36,16 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "PeopleSoft 0-day漏洞影响数百个组织，窃取千兆字节数据",
+        "zh": "PeopleSoft 0-day漏洞影响数百个组织，窃取数千兆数据",
         "en": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
         "de": "PeopleSoft 0-Day, der Hunderte von Organisationen betrifft, stiehlt Gigabyte an Daten"
       },
       "summary": {
-        "zh": "Oracle旗下的PeopleSoft软件出现严重漏洞，影响数百个组织并导致数据被窃取。这一0-day漏洞的严重性引发了广泛关注。",
-        "en": "A critical vulnerability in Oracle-owned PeopleSoft software affects hundreds of organizations and leads to data theft. The severity of this 0-day vulnerability has raised widespread concern.",
-        "de": "Eine kritische Sicherheitsanfälligkeit in der Oracle-eigenen PeopleSoft-Software betrifft Hunderte von Organisationen und führt zu Datendiebstahl. Die Schwere dieser 0-Day-Sicherheitsanfälligkeit hat weitreichende Besorgnis ausgelöst."
+        "zh": "Oracle旗下的PeopleSoft软件存在严重的0-day漏洞，影响了数百个组织并导致大量数据被窃取。安全专家警告，企业应立即采取措施修复该漏洞。",
+        "en": "A critical 0-day vulnerability in Oracle-owned PeopleSoft software affects hundreds of organizations and has led to significant data theft. Security experts warn that companies should take immediate action to patch the vulnerability.",
+        "de": "Eine kritische 0-Day-Sicherheitsanfälligkeit in der Oracle-eigenen PeopleSoft-Software betrifft Hunderte von Organisationen und hat zu erheblichen Datenverlusten geführt. Sicherheitsexperten warnen, dass Unternehmen sofort Maßnahmen ergreifen sollten, um die Sicherheitsanfälligkeit zu beheben."
       },
-      "source": "Ars Technica – AI",
+      "source": "Ars Technica",
       "date": "2026-06-12",
       "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/"
     }
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普的公开日程中没有美国与伊朗协议的签署",
-        "en": "Signing of US-Iran deal not on Trump’s public schedule",
-        "de": "Unterzeichnung des US-Iran-Deals nicht im öffentlichen Zeitplan von Trump"
+        "zh": "数千人抗议特朗普及其他世界领导人即将举行的G7峰会",
+        "en": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
+        "de": "Tausende protestieren, während Trump und andere Weltführer sich zum G7-Gipfel treffen"
       },
       "summary": {
-        "zh": "特朗普的公开日程未显示美国与伊朗协议的签署，尽管相关谈判正在进行中。这引发了对协议进展的关注。",
-        "en": "Trump's public schedule does not show the signing of the US-Iran deal, despite ongoing negotiations. This has raised concerns about the progress of the agreement.",
-        "de": "Trumps öffentlicher Zeitplan zeigt nicht die Unterzeichnung des US-Iran-Deals, trotz laufender Verhandlungen. Dies hat Bedenken hinsichtlich des Fortschritts des Abkommens aufgeworfen."
+        "zh": "在法国举行的G7峰会前，数千名活动人士在日内瓦集会，抗议G7国家的政策。这些抗议活动反映了对全球领导人决策的不满。",
+        "en": "Thousands of activists rallied in Geneva ahead of the G7 summit in France to protest the policies of G7 countries. These protests reflect dissatisfaction with the decisions made by global leaders.",
+        "de": "Tausende von Aktivisten versammelten sich in Genf vor dem G7-Gipfel in Frankreich, um gegen die Politik der G7-Länder zu protestieren. Diese Proteste spiegeln die Unzufriedenheit mit den Entscheidungen der globalen Führer wider."
       },
       "source": "Al Jazeera",
       "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "英国军队在英吉利海峡扣押疑似俄罗斯阴影舰队油轮",
-        "en": "UK forces seize suspected Russian shadow fleet tanker in English Channel",
-        "de": "Britische Streitkräfte beschlagnahmen verdächtigen russischen Schattenflotten-Tanker im Ärmelkanal"
+        "zh": "英国军队扣押涉嫌资助乌克兰战争的俄罗斯油轮",
+        "en": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
+        "de": "Britische Streitkräfte beschlagnahmen verdächtigen russischen Öltanker, der beschuldigt wird, den Ukraine-Krieg zu finanzieren"
       },
       "summary": {
-        "zh": "英国国防部表示，在持续六小时的行动中，英国军队扣押了疑似俄罗斯的油轮Smyrtos。这一行动引发了对地区安全的关注。",
-        "en": "The UK Ministry of Defence states that UK forces seized the suspected Russian tanker Smyrtos in an operation lasting six hours. This action has raised concerns about regional security.",
-        "de": "Das britische Verteidigungsministerium erklärt, dass britische Streitkräfte den verdächtigen russischen Tanker Smyrtos in einer sechs Stunden dauernden Operation beschlagnahmt haben. Diese Aktion hat Bedenken hinsichtlich der regionalen Sicherheit aufgeworfen."
+        "zh": "英国军队拦截了一艘被怀疑属于俄罗斯的油轮，该油轮被指控为资助乌克兰战争。此举可能加剧国际间的紧张关系。",
+        "en": "British armed forces intercepted an oil tanker believed to be part of Russia's sanctioned shadow fleet, accused of funding the Ukraine war. This action may escalate tensions in international relations.",
+        "de": "Britische Streitkräfte haben einen Öltanker abgefangen, der Teil der sanktionierten Schattenflotte Russlands sein soll und beschuldigt wird, den Ukraine-Krieg zu finanzieren. Diese Maßnahme könnte die Spannungen in den internationalen Beziehungen verschärfen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "瑞士投票支持右翼提案限制国家人口",
-        "en": "Switzerland votes on right-wing bid to cap country’s population",
-        "de": "Schweiz stimmt über rechtsextremes Vorhaben ab, die Bevölkerung des Landes zu begrenzen"
+        "zh": "特朗普在乔治亚州共和党参议院决胜选举中发表支持",
+        "en": "Trump makes endorsement in key Georgia Republican US Senate run-off",
+        "de": "Trump gibt Unterstützung in der entscheidenden republikanischen US-Senatsnachwahl in Georgia"
       },
       "summary": {
-        "zh": "瑞士即将进行投票，决定是否支持限制国家人口的右翼提案。该提案可能会影响庇护和居留许可政策。",
-        "en": "Switzerland is set to vote on whether to support a right-wing proposal to cap the country's population. This proposal could impact asylum and residency permit policies.",
-        "de": "Die Schweiz wird darüber abstimmen, ob sie einen rechtsextremen Vorschlag zur Begrenzung der Bevölkerung des Landes unterstützen soll. Dieser Vorschlag könnte Auswirkungen auf die Asyl- und Aufenthaltsgenehmigungspolitik haben."
+        "zh": "特朗普在乔治亚州的共和党参议院决胜选举中支持迈克·柯林斯，取代德里克·杜利。此举可能影响即将到来的中期选举。",
+        "en": "Trump endorsed Mike Collins over Derek Dooley in the Georgia Republican Senate run-off, a move that could influence the upcoming midterm elections.",
+        "de": "Trump unterstützte Mike Collins gegenüber Derek Dooley in der republikanischen Senatsnachwahl in Georgia, eine Entscheidung, die die bevorstehenden Zwischenwahlen beeinflussen könnte."
       },
       "source": "Al Jazeera",
       "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/news/2026/6/14/switzerland-votes-on-right-wing-bid-to-cap-countrys-population?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/14/trump-makes-endorsement-in-key-georgia-republican-us-senate-run-off?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -109,27 +109,27 @@
         "de": "Britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
       },
       "summary": {
-        "zh": "英国国内生产总值在四月下降0.1%，主要由于服务业活动减少以及企业受到中东冲突的压力。这一数据反映了当前经济的不确定性。",
-        "en": "UK GDP fell by 0.1% in April, primarily due to a decline in services activity and pressure from the Middle East conflict. This data reflects the current economic uncertainty.",
-        "de": "Das britische BIP fiel im April um 0,1 %, hauptsächlich aufgrund eines Rückgangs der Dienstleistungsaktivitäten und des Drucks durch den Konflikt im Nahen Osten. Diese Daten spiegeln die aktuelle wirtschaftliche Unsicherheit wider."
+        "zh": "由于服务业活动下降以及企业面临来自中东冲突的压力，英国在四月的GDP下降了0.1%。经济前景受到不确定性影响。",
+        "en": "The UK GDP fell by 0.1% in April due to a decline in services activity and pressures from the Middle East conflict. The economic outlook is affected by uncertainty.",
+        "de": "Das britische BIP fiel im April um 0,1 % aufgrund eines Rückgangs der Dienstleistungsaktivitäten und des Drucks durch den Konflikt im Nahen Osten. Die wirtschaftliche Perspektive wird durch Unsicherheit beeinflusst."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-06-12",
       "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国初创企业的困境暴露了北京科技融资机制的裂痕",
+        "zh": "中国初创企业的困境暴露了北京科技融资机器的裂缝",
         "en": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
         "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse in Pekings Technologie-Finanzierungsmaschine"
       },
       "summary": {
-        "zh": "一家中国初创企业的困境揭示了北京在科技融资方面的挑战。与美国间接支持科技赢家不同，中国政府在各级直接持股。",
-        "en": "The dilemma of a Chinese start-up reveals challenges in Beijing's tech funding. Unlike the U.S. which indirectly supports tech winners, Chinese governments take direct equity stakes at all levels.",
-        "de": "Das Dilemma eines chinesischen Start-ups offenbart Herausforderungen in Pekings Technologie-Finanzierung. Im Gegensatz zu den USA, die indirekt Technologiegewinner unterstützen, übernehmen die chinesischen Regierungen auf allen Ebenen direkte Beteiligungen."
+        "zh": "中国初创企业面临融资困境，揭示了北京科技融资体系的缺陷。与美国的间接支持不同，中国政府在各级直接持股。",
+        "en": "A Chinese start-up is facing a funding dilemma, exposing flaws in Beijing's tech funding system. Unlike the U.S., which supports tech winners indirectly, Chinese governments take direct equity stakes.",
+        "de": "Ein chinesisches Start-up steht vor einem Finanzierungsdilemma, das Mängel im Technologiesystem Pekings aufzeigt. Im Gegensatz zu den USA, die Technologiegewinner indirekt unterstützen, nehmen chinesische Regierungen direkte Beteiligungen."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-06-12",
       "url": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html"
     },
@@ -138,14 +138,14 @@
       "title": {
         "zh": "5月批发价格上涨1.1%，超出预期",
         "en": "Wholesale prices rose 1.1% in May, more than expected, on surge in energy",
-        "de": "Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
+        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
       },
       "summary": {
-        "zh": "5月份，批发价格因能源价格激增而上涨1.1%，超过了预期的0.7%。这一数据表明了能源成本对整体经济的影响。",
-        "en": "Wholesale prices rose by 1.1% in May due to a surge in energy prices, exceeding the expected 0.7%. This data indicates the impact of energy costs on the overall economy.",
-        "de": "Die Großhandelspreise stiegen im Mai um 1,1 % aufgrund eines Anstiegs der Energiepreise und übertrafen die erwarteten 0,7 %. Diese Daten zeigen den Einfluss der Energiekosten auf die Gesamtwirtschaft."
+        "zh": "由于能源价格飙升，5月的批发价格上涨了1.1%，超出市场预期。此数据可能影响未来的货币政策决策。",
+        "en": "Wholesale prices rose by 1.1% in May, exceeding market expectations due to a surge in energy prices. This data may influence future monetary policy decisions.",
+        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, was die Markterwartungen aufgrund eines Anstiegs der Energiepreise übertraf. Diese Daten könnten zukünftige geldpolitische Entscheidungen beeinflussen."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-06-11",
       "url": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html"
     }
