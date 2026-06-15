@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-14T17:54:37.899993+00:00",
+  "generatedAt": "2026-06-15T10:44:23.786654+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么“重新编程”是目前逆转衰老的最热门方法",
-        "en": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-        "de": "Warum „Reprogrammierung“ derzeit der angesagteste Ansatz zur Umkehrung des Alterns ist"
+        "zh": "这些新的固态空调承诺一个凉爽的未来。科学家们并不太确定。",
+        "en": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+        "de": "Diese neuen Festkörper-Klimaanlagen versprechen eine kühle Zukunft. Wissenschaftler sind sich nicht sicher."
       },
       "summary": {
-        "zh": "Life Biosciences宣布已对首位志愿者进行“重新编程”治疗，标志着逆转衰老研究的最新进展。这一方法吸引了广泛关注，成为生物技术领域的热门话题。",
-        "en": "Life Biosciences announced it has dosed its first volunteer with a 'reprogramming' treatment, marking a significant advancement in aging reversal research. This method has garnered widespread attention, becoming a hot topic in the biotech field.",
-        "de": "Life Biosciences gab bekannt, dass es seinen ersten Freiwilligen mit einer „Reprogrammierung“-Behandlung behandelt hat, was einen bedeutenden Fortschritt in der Forschung zur Umkehrung des Alterns darstellt. Diese Methode hat breite Aufmerksamkeit erregt und ist ein heißes Thema im Biotechnologiebereich."
+        "zh": "在经历了三年的创纪录高温后，固态空调的出现可能会改变未来的制冷方式。然而，科学家们对其长期效果仍持怀疑态度。",
+        "en": "After three years of record-breaking heat, the emergence of solid-state air conditioners could change the future of cooling. However, scientists remain skeptical about their long-term effects.",
+        "de": "Nach drei Jahren mit Rekordhitze könnte das Aufkommen von Festkörper-Klimaanlagen die Zukunft der Kühlung verändern. Wissenschaftler sind jedoch skeptisch hinsichtlich ihrer langfristigen Auswirkungen."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-06-15",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "为什么“重新编程”是目前逆转衰老的最热门方法",
+        "en": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+        "de": "Warum „Reprogrammierung“ der angesagteste Ansatz zur Umkehrung des Alterns ist"
+      },
+      "summary": {
+        "zh": "Life Biosciences公司最近宣布其首位志愿者接受了逆转衰老治疗，标志着“重新编程”方法的兴起。该方法被认为是当前逆转衰老的最前沿策略。",
+        "en": "Life Biosciences recently announced that its first volunteer has received treatment for reversing aging, marking the rise of the 'reprogramming' approach. This method is considered a cutting-edge strategy for reversing aging.",
+        "de": "Life Biosciences gab kürzlich bekannt, dass sein erster Freiwilliger eine Behandlung zur Umkehrung des Alterns erhalten hat, was den Aufstieg des Ansatzes der „Reprogrammierung“ markiert. Diese Methode gilt als eine fortschrittliche Strategie zur Umkehrung des Alterns."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-12",
       "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
         "zh": "谷歌DeepMind担心数百万代理人开始互动时会发生什么",
         "en": "Google DeepMind is worried about what happens when millions of agents start to interact",
-        "de": "Google DeepMind ist besorgt darüber, was passiert, wenn Millionen von Agenten beginnen, miteinander zu interagieren"
+        "de": "Google DeepMind macht sich Sorgen darüber, was passiert, wenn Millionen von Agenten anfangen, miteinander zu interagieren"
       },
       "summary": {
-        "zh": "谷歌DeepMind正在资助研究，探讨数百万不同AI代理在线互动时可能出现的潜在危险。该研究旨在评估这些互动对社会和技术的影响。",
-        "en": "Google DeepMind is funding research to explore the potential dangers of millions of different AI agents interacting online. The study aims to assess the implications of these interactions on society and technology.",
-        "de": "Google DeepMind finanziert eine Forschung, um die potenziellen Gefahren zu untersuchen, die entstehen, wenn Millionen von verschiedenen KI-Agenten online interagieren. Die Studie zielt darauf ab, die Auswirkungen dieser Interaktionen auf die Gesellschaft und Technologie zu bewerten."
+        "zh": "谷歌DeepMind正在资助研究，探讨数百万不同AI代理在线互动时可能产生的潜在危险。这一研究旨在理解AI系统之间的复杂互动。",
+        "en": "Google DeepMind is funding research to explore the potential dangers of interactions among millions of different AI agents online. This research aims to understand the complex interactions between AI systems.",
+        "de": "Google DeepMind finanziert Forschungen, um die potenziellen Gefahren von Interaktionen zwischen Millionen von verschiedenen KI-Agenten online zu untersuchen. Diese Forschung zielt darauf ab, die komplexen Interaktionen zwischen KI-Systemen zu verstehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-11",
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "PeopleSoft 0-day漏洞影响数百个组织，窃取数千兆数据",
-        "en": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
-        "de": "PeopleSoft 0-Day, der Hunderte von Organisationen betrifft, stiehlt Gigabyte an Daten"
-      },
-      "summary": {
-        "zh": "Oracle旗下的PeopleSoft软件存在严重的0-day漏洞，影响了数百个组织并导致大量数据被窃取。安全专家警告，企业应立即采取措施修复该漏洞。",
-        "en": "A critical 0-day vulnerability in Oracle-owned PeopleSoft software affects hundreds of organizations and has led to significant data theft. Security experts warn that companies should take immediate action to patch the vulnerability.",
-        "de": "Eine kritische 0-Day-Sicherheitsanfälligkeit in der Oracle-eigenen PeopleSoft-Software betrifft Hunderte von Organisationen und hat zu erheblichen Datenverlusten geführt. Sicherheitsexperten warnen, dass Unternehmen sofort Maßnahmen ergreifen sollten, um die Sicherheitsanfälligkeit zu beheben."
-      },
-      "source": "Ars Technica",
-      "date": "2026-06-12",
-      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "数千人抗议特朗普及其他世界领导人即将举行的G7峰会",
-        "en": "Thousands protest as Trump, other world leaders set to meet for G7 summit",
-        "de": "Tausende protestieren, während Trump und andere Weltführer sich zum G7-Gipfel treffen"
+        "zh": "日内瓦警方在G7抗议中使用武力，局势升级为暴力",
+        "en": "Geneva police use force as G7 protest escalates into violence",
+        "de": "Genfer Polizei setzt Gewalt ein, als G7-Protest in Gewalt eskaliert"
       },
       "summary": {
-        "zh": "在法国举行的G7峰会前，数千名活动人士在日内瓦集会，抗议G7国家的政策。这些抗议活动反映了对全球领导人决策的不满。",
-        "en": "Thousands of activists rallied in Geneva ahead of the G7 summit in France to protest the policies of G7 countries. These protests reflect dissatisfaction with the decisions made by global leaders.",
-        "de": "Tausende von Aktivisten versammelten sich in Genf vor dem G7-Gipfel in Frankreich, um gegen die Politik der G7-Länder zu protestieren. Diese Proteste spiegeln die Unzufriedenheit mit den Entscheidungen der globalen Führer wider."
+        "zh": "在日内瓦，抗议者因G7峰会而与警方发生冲突，导致建筑物受损和汽车被焚烧。抗议活动的升级引发了对政府应对措施的广泛关注。",
+        "en": "In Geneva, protesters clashed with police over the G7 summit, leading to damaged buildings and burning cars. The escalation of the protests has drawn widespread attention to government responses.",
+        "de": "In Genf kam es zu Zusammenstößen zwischen Demonstranten und der Polizei über den G7-Gipfel, was zu beschädigten Gebäuden und brennenden Autos führte. Die Eskalation der Proteste hat breite Aufmerksamkeit auf die Reaktionen der Regierung gelenkt."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/news/2026/6/14/thousands-protest-as-trump-other-world-leaders-set-to-meet-for-g7-summit?traffic_source=rss"
+      "date": "2026-06-15",
+      "url": "https://www.aljazeera.com/gallery/2026/6/15/geneva-police-use-force-as-g7-protest-escalates-into-violence?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "英国军队扣押涉嫌资助乌克兰战争的俄罗斯油轮",
-        "en": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
-        "de": "Britische Streitkräfte beschlagnahmen verdächtigen russischen Öltanker, der beschuldigt wird, den Ukraine-Krieg zu finanzieren"
+        "zh": "基辅大教堂在俄罗斯空袭中被焚毁",
+        "en": "Kyiv cathedral burns as heavy Russian air raids hit Ukraine",
+        "de": "Kiewer Kathedrale brennt, während schwere russische Luftangriffe die Ukraine treffen"
       },
       "summary": {
-        "zh": "英国军队拦截了一艘被怀疑属于俄罗斯的油轮，该油轮被指控为资助乌克兰战争。此举可能加剧国际间的紧张关系。",
-        "en": "British armed forces intercepted an oil tanker believed to be part of Russia's sanctioned shadow fleet, accused of funding the Ukraine war. This action may escalate tensions in international relations.",
-        "de": "Britische Streitkräfte haben einen Öltanker abgefangen, der Teil der sanktionierten Schattenflotte Russlands sein soll und beschuldigt wird, den Ukraine-Krieg zu finanzieren. Diese Maßnahme könnte die Spannungen in den internationalen Beziehungen verschärfen."
+        "zh": "在俄罗斯加大军事攻击的背景下，基辅-佩乔尔斯克大教堂被火焚毁，成为联合国教科文组织的遗产。此次空袭导致了重大损失和国际谴责。",
+        "en": "Against the backdrop of intensified Russian military assaults, the Kyiv-Pechersk Lavra's Dormition Cathedral was engulfed in flames, becoming a UNESCO heritage site. The airstrikes have resulted in significant losses and international condemnation.",
+        "de": "Vor dem Hintergrund verstärkter russischer Militärangriffe wurde die Dormition der Kiewer-Pechersk-Lavra in Flammen gehüllt und wurde zu einem UNESCO-Weltkulturerbe. Die Luftangriffe haben zu erheblichen Verlusten und internationaler Verurteilung geführt."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss"
+      "date": "2026-06-15",
+      "url": "https://www.aljazeera.com/gallery/2026/6/15/kyiv-cathedral-burns-as-heavy-russian-air-raids-hit-ukraine?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普在乔治亚州共和党参议院决胜选举中发表支持",
-        "en": "Trump makes endorsement in key Georgia Republican US Senate run-off",
-        "de": "Trump gibt Unterstützung in der entscheidenden republikanischen US-Senatsnachwahl in Georgia"
+        "zh": "英国宣布对16岁以下儿童实施全面社交媒体禁令",
+        "en": "Britain announces sweeping social media ban for under-16s",
+        "de": "Großbritannien kündigt umfassendes Verbot von sozialen Medien für unter 16-Jährige an"
       },
       "summary": {
-        "zh": "特朗普在乔治亚州的共和党参议院决胜选举中支持迈克·柯林斯，取代德里克·杜利。此举可能影响即将到来的中期选举。",
-        "en": "Trump endorsed Mike Collins over Derek Dooley in the Georgia Republican Senate run-off, a move that could influence the upcoming midterm elections.",
-        "de": "Trump unterstützte Mike Collins gegenüber Derek Dooley in der republikanischen Senatsnachwahl in Georgia, eine Entscheidung, die die bevorstehenden Zwischenwahlen beeinflussen könnte."
+        "zh": "英国首相警告社交媒体平台正在向儿童展示“危险”和“旨在上瘾”的内容，因此决定实施全面禁令，限制16岁以下儿童的社交媒体使用。",
+        "en": "The British Prime Minister has warned that social media platforms are exposing children to 'dangerous' and 'addictive' content, leading to a decision to implement a sweeping ban on social media use for those under 16.",
+        "de": "Der britische Premierminister hat gewarnt, dass soziale Medien Kinder gefährlichen und süchtig machenden Inhalten aussetzen, was zur Entscheidung führte, ein umfassendes Verbot der Nutzung sozialer Medien für unter 16-Jährige einzuführen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-14",
-      "url": "https://www.aljazeera.com/news/2026/6/14/trump-makes-endorsement-in-key-georgia-republican-us-senate-run-off?traffic_source=rss"
+      "date": "2026-06-15",
+      "url": "https://www.aljazeera.com/news/2026/6/15/britain-announces-sweeping-social-media-ban-for-under-16s?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英国经济在四月萎缩0.1%，伊朗冲突对增长造成压力",
+        "zh": "英国经济在4月份萎缩0.1%，伊朗冲突影响增长",
         "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
         "de": "Britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
       },
       "summary": {
-        "zh": "由于服务业活动下降以及企业面临来自中东冲突的压力，英国在四月的GDP下降了0.1%。经济前景受到不确定性影响。",
-        "en": "The UK GDP fell by 0.1% in April due to a decline in services activity and pressures from the Middle East conflict. The economic outlook is affected by uncertainty.",
-        "de": "Das britische BIP fiel im April um 0,1 % aufgrund eines Rückgangs der Dienstleistungsaktivitäten und des Drucks durch den Konflikt im Nahen Osten. Die wirtschaftliche Perspektive wird durch Unsicherheit beeinflusst."
+        "zh": "由于服务活动下降和中东冲突的压力，英国经济在4月份萎缩了0.1%。这一经济放缓的迹象引发了对未来增长的担忧。",
+        "en": "The UK economy shrank by 0.1% in April due to a decline in services activity and pressures from the Middle East conflict. This sign of economic slowdown raises concerns about future growth.",
+        "de": "Die britische Wirtschaft schrumpfte im April um 0,1 % aufgrund eines Rückgangs der Dienstleistungsaktivitäten und des Drucks durch den Konflikt im Nahen Osten. Dieses Zeichen einer wirtschaftlichen Verlangsamung weckt Bedenken hinsichtlich des zukünftigen Wachstums."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-06-12",
       "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国初创企业的困境暴露了北京科技融资机器的裂缝",
-        "en": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
-        "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse in Pekings Technologie-Finanzierungsmaschine"
+        "zh": "5月份批发价格上涨1.1%，超出预期",
+        "en": "Wholesale prices rose 1.1% in May, more than expected, on surge in energy",
+        "de": "Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
       },
       "summary": {
-        "zh": "中国初创企业面临融资困境，揭示了北京科技融资体系的缺陷。与美国的间接支持不同，中国政府在各级直接持股。",
-        "en": "A Chinese start-up is facing a funding dilemma, exposing flaws in Beijing's tech funding system. Unlike the U.S., which supports tech winners indirectly, Chinese governments take direct equity stakes.",
-        "de": "Ein chinesisches Start-up steht vor einem Finanzierungsdilemma, das Mängel im Technologiesystem Pekings aufzeigt. Im Gegensatz zu den USA, die Technologiegewinner indirekt unterstützen, nehmen chinesische Regierungen direkte Beteiligungen."
+        "zh": "由于能源价格飙升，5月份的批发价格上涨了1.1%，超出市场预期。这一数据可能对通货膨胀预期产生影响。",
+        "en": "Wholesale prices rose by 1.1% in May, exceeding market expectations, due to a surge in energy prices. This data may impact inflation expectations.",
+        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, was die Markterwartungen übertraf, aufgrund eines Anstiegs der Energiepreise. Diese Daten könnten die Inflationserwartungen beeinflussen."
       },
-      "source": "CNBC",
-      "date": "2026-06-12",
-      "url": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html"
+      "source": "CNBC – Markets",
+      "date": "2026-06-11",
+      "url": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "5月批发价格上涨1.1%，超出预期",
-        "en": "Wholesale prices rose 1.1% in May, more than expected, on surge in energy",
-        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise"
+        "zh": "油价在美国和伊朗达成和平协议后跌至三个月低点",
+        "en": "Oil prices slump to three-month low after U.S. and Iran agree to framework of peace deal",
+        "de": "Ölpreise fallen auf Drei-Monats-Tief, nachdem die USA und der Iran einen Rahmen für einen Friedensvertrag vereinbart haben"
       },
       "summary": {
-        "zh": "由于能源价格飙升，5月的批发价格上涨了1.1%，超出市场预期。此数据可能影响未来的货币政策决策。",
-        "en": "Wholesale prices rose by 1.1% in May, exceeding market expectations due to a surge in energy prices. This data may influence future monetary policy decisions.",
-        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, was die Markterwartungen aufgrund eines Anstiegs der Energiepreise übertraf. Diese Daten könnten zukünftige geldpolitische Entscheidungen beeinflussen."
+        "zh": "在美国和伊朗达成和平协议后，油价大幅下跌，西德克萨斯中质油和布伦特原油均跌至三个月来的最低水平。这一变化可能会影响全球市场。",
+        "en": "Following the peace agreement between the U.S. and Iran, oil prices have plummeted, with West Texas Intermediate and Brent crude falling to their lowest levels in three months. This change may impact global markets.",
+        "de": "Nach dem Friedensabkommen zwischen den USA und dem Iran sind die Ölpreise stark gefallen, wobei West Texas Intermediate und Brent-Rohöl auf den niedrigsten Stand seit drei Monaten gefallen sind. Diese Veränderung könnte die globalen Märkte beeinflussen."
       },
-      "source": "CNBC",
-      "date": "2026-06-11",
-      "url": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-15",
+      "url": "https://www.marketwatch.com/story/oil-prices-decline-after-u-s-iran-agree-to-framework-of-peace-deal-ae25ba9f?mod=mw_rss_topstories"
     }
   ]
 }
