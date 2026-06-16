@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-06-15T19:59:41.418830+00:00",
+  "generatedAt": "2026-06-16T09:40:27.785119+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为什么韩国人如此热爱人工智能？",
-        "en": "Why do South Koreans love AI so much?",
-        "de": "Warum lieben Südkoreaner KI so sehr?"
+        "zh": "想要快速上线数据中心？给它一些灵活性。",
+        "en": "Want to get a data center online quickly? Give it some flex.",
+        "de": "Möchten Sie ein Rechenzentrum schnell online bringen? Geben Sie ihm etwas Flexibilität."
       },
       "summary": {
-        "zh": "韩国人对人工智能的热爱源于其在生活各个方面的便利性和应用。文章探讨了这一现象的社会和文化背景。",
-        "en": "The love for AI among South Koreans stems from its convenience and applications in various aspects of life. The article explores the social and cultural background of this phenomenon.",
-        "de": "Die Liebe der Südkoreaner zur KI resultiert aus ihrer Bequemlichkeit und Anwendung in verschiedenen Lebensbereichen. Der Artikel untersucht den sozialen und kulturellen Hintergrund dieses Phänomens."
+        "zh": "文章探讨了如何通过灵活的电网管理快速上线数据中心。灵活性在应对电力需求和供应波动方面至关重要。",
+        "en": "The article discusses how flexible grid management can help bring data centers online quickly. Flexibility is crucial in addressing fluctuations in power demand and supply.",
+        "de": "Der Artikel erörtert, wie flexibles Netzmanagement dazu beitragen kann, Rechenzentren schnell online zu bringen. Flexibilität ist entscheidend, um Schwankungen in der Stromnachfrage und -versorgung zu bewältigen."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-06-16",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "韩国人为什么如此热爱人工智能？",
+        "en": "Why do South Koreans love AI so much?",
+        "de": "Warum lieben die Südkoreaner KI so sehr?"
+      },
+      "summary": {
+        "zh": "文章分析了韩国人对人工智能的热情，探讨了文化、经济和教育等因素如何推动这一趋势。",
+        "en": "The article analyzes the enthusiasm of South Koreans for artificial intelligence, exploring how cultural, economic, and educational factors drive this trend.",
+        "de": "Der Artikel analysiert die Begeisterung der Südkoreaner für künstliche Intelligenz und untersucht, wie kulturelle, wirtschaftliche und bildungsbezogene Faktoren diesen Trend vorantreiben."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-15",
       "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "这位患有ALS的男子是首位“强力用户”，使用脑植入物说话",
-        "en": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-        "de": "Dieser Mann mit ALS ist der erste „Power-User“ eines Gehirnimplantats, das ihm das Sprechen ermöglicht"
+        "zh": "这位ALS患者是第一个使用脑植入物的人，能让他发声。",
+        "en": "This man with ALS is “the first power user” of a brain implant that lets him speak.",
+        "de": "Dieser ALS-Patient ist der „erste Power-User“ eines Gehirnimplantats, das ihm das Sprechen ermöglicht."
       },
       "summary": {
-        "zh": "Casey Harrell是一名ALS患者，已在其大脑中植入电极近三年，成为脑机接口技术的先锋用户。此技术为他提供了与外界沟通的能力。",
-        "en": "Casey Harrell, an ALS patient, has had electrodes implanted in his brain for nearly three years, becoming a pioneering user of brain-computer interface technology. This technology has enabled him to communicate with the outside world.",
-        "de": "Casey Harrell, ein ALS-Patient, hat seit fast drei Jahren Elektroden in seinem Gehirn implantiert und ist ein Pionier der Gehirn-Computer-Schnittstellentechnologie. Diese Technologie hat ihm ermöglicht, mit der Außenwelt zu kommunizieren."
+        "zh": "文章讲述了Casey Harrell如何通过脑植入物克服ALS的障碍，成为这一技术的首位重度用户。",
+        "en": "The article tells the story of Casey Harrell, who overcomes the challenges of ALS through a brain implant, becoming the first power user of this technology.",
+        "de": "Der Artikel erzählt die Geschichte von Casey Harrell, der die Herausforderungen von ALS mit einem Gehirnimplantat überwindet und der erste Power-User dieser Technologie wird."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-15",
       "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "AMD剥夺消费者CPU的内存加密，用户愤怒",
-        "en": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
-        "de": "Benutzer beschweren sich, nachdem AMD die Speicher-Verschlüsselung von seinen Verbraucher-CPUs entfernt hat"
-      },
-      "summary": {
-        "zh": "AMD在其消费者CPU中剥夺内存加密功能引发用户不满，认为这一举措是故意的隐秘行为。文章分析了这一决定的潜在影响。",
-        "en": "AMD's removal of memory encryption from its consumer CPUs has sparked user outrage, with many believing it to be a deliberate covert move. The article analyzes the potential implications of this decision.",
-        "de": "Die Entfernung der Speicher-Verschlüsselung von seinen Verbraucher-CPUs durch AMD hat Benutzerempörung ausgelöst, da viele dies als absichtlichen geheimen Schritt ansehen. Der Artikel analysiert die potenziellen Auswirkungen dieser Entscheidung."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-06-15",
-      "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯超音速轰炸机在西伯利亚训练演习中坠毁",
-        "en": "Russian supersonic bomber crashes in Siberia during training exercise",
-        "de": "Russischer Überschallbomber stürzt während einer Trainingsübung in Sibirien ab"
+        "zh": "伊朗球迷在政治分歧中反应球队的第一场世界杯比赛",
+        "en": "Iran fans react to team’s first World Cup match amid political schisms.",
+        "de": "Iranische Fans reagieren auf das erste WM-Spiel der Mannschaft inmitten politischer Spaltungen."
       },
       "summary": {
-        "zh": "一架俄罗斯Tu-22M3战略轰炸机在西伯利亚伊尔库茨克地区的训练飞行中坠毁，事故原因尚不清楚。",
-        "en": "A Russian Tu-22M3 strategic bomber crashed during a training flight in the Irkutsk region of Siberia, with the cause of the accident still unclear.",
-        "de": "Ein russischer Tu-22M3-Strategiebomber stürzte während eines Trainingsflugs in der Region Irkutsk in Sibirien ab, wobei die Ursache des Unfalls noch unklar ist."
+        "zh": "文章报道了伊朗球迷在球队首场世界杯比赛中的反应，反映出国家内部的政治分歧和社会情绪。",
+        "en": "The article reports on the reactions of Iranian fans during their team's first World Cup match, reflecting the political divisions and social sentiments within the country.",
+        "de": "Der Artikel berichtet über die Reaktionen iranischer Fans während des ersten WM-Spiels ihrer Mannschaft und spiegelt die politischen Spaltungen und sozialen Stimmungen im Land wider."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_russian-supersonic-bomber-crashes-in-siberia-150626?traffic_source=rss"
+      "date": "2026-06-16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-fans-react-to-teams-first-world-cup-match-amid-political-schisms?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国法官驳回马斯克对OpenAI的xAI商业机密诉讼",
-        "en": "US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI",
-        "de": "US-Richter weist Musks xAI-Klage gegen OpenAI wegen Geschäftsgeheimnissen zurück"
+        "zh": "本周美国初选的相关信息",
+        "en": "What to know about this week’s US primary elections.",
+        "de": "Was Sie über die US-Vorwahlen in dieser Woche wissen sollten."
       },
       "summary": {
-        "zh": "美国法官驳回了马斯克于九月提起的诉讼，案件涉及对机密信息的广泛指控。",
-        "en": "A US judge dismissed Musk's lawsuit filed in September, which focused on broader allegations of misappropriation of confidential information.",
-        "de": "Ein US-Richter wies Musks im September eingereichte Klage zurück, die sich auf umfassendere Vorwürfe der Aneignung vertraulicher Informationen konzentrierte."
+        "zh": "文章提供了关于即将举行的美国初选的关键信息，包括参与州和选民关注的主要议题。",
+        "en": "The article provides key information about the upcoming US primary elections, including the states involved and the main issues of concern for voters.",
+        "de": "Der Artikel bietet wichtige Informationen zu den bevorstehenden US-Vorwahlen, einschließlich der beteiligten Bundesstaaten und der Hauptanliegen der Wähler."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-15",
-      "url": "https://www.aljazeera.com/economy/2026/6/15/us-judge-dismisses-musks-xai-trade-secret-lawsuit-against-openai?traffic_source=rss"
+      "date": "2026-06-16",
+      "url": "https://www.aljazeera.com/news/2026/6/16/what-to-know-about-this-weeks-us-primary-elections?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国空军B-52轰炸机在起飞后坠毁，爱德华空军基地称",
-        "en": "US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says",
-        "de": "US-Luftwaffe B-52 Bomber stürzt nach dem Start ab, sagt die Edwards Air Force Base"
+        "zh": "前中非总统因反人类罪缺席受审",
+        "en": "Former CAR president on trial in absentia over crimes against humanity.",
+        "de": "Ehemaliger Präsident der Zentralafrikanischen Republik wegen Verbrechen gegen die Menschlichkeit in Abwesenheit vor Gericht."
       },
       "summary": {
-        "zh": "美国空军的一架B-52轰炸机在洛杉矶北部的空军基地起飞后坠毁，目前尚不清楚是否有伤亡情况。",
-        "en": "A US Air Force B-52 bomber crashed after takeoff from an air base north of Los Angeles, with no immediate reports of casualties.",
-        "de": "Ein B-52-Bomber der US-Luftwaffe stürzte nach dem Start von einem Luftwaffenstützpunkt nördlich von Los Angeles ab, wobei es keine sofortigen Berichte über Opfer gab."
+        "zh": "文章报道了前中非共和国总统博齐泽因其安全部队涉嫌的反人类罪而缺席受审的情况。",
+        "en": "The article reports on the trial in absentia of former Central African Republic President Bozizé over alleged crimes against humanity committed by his security forces.",
+        "de": "Der Artikel berichtet über den Prozess in Abwesenheit des ehemaligen Präsidenten der Zentralafrikanischen Republik Bozizé wegen mutmaßlicher Verbrechen gegen die Menschlichkeit, die von seinen Sicherheitskräften begangen wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-15",
-      "url": "https://www.aljazeera.com/news/2026/6/15/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says?traffic_source=rss"
+      "date": "2026-06-16",
+      "url": "https://www.aljazeera.com/news/2026/6/16/former-car-president-on-trial-in-absentia-over-crimes-against-humanity?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英国经济在四月萎缩0.1%，伊朗冲突影响增长",
-        "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
-        "de": "Britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
+        "zh": "由于伊朗冲突的影响，英国经济在四月萎缩了0.1%",
+        "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth.",
+        "de": "Die britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete."
       },
       "summary": {
-        "zh": "由于服务业活动下降以及公司面临来自中东冲突的压力，英国在四月份的GDP下降了0.1%。",
-        "en": "The UK's GDP fell by 0.1% in April due to a decline in service activity and companies citing pressure from the Middle East conflict.",
-        "de": "Das BIP des Vereinigten Königreichs fiel im April um 0,1 % aufgrund eines Rückgangs der Dienstleistungsaktivitäten und Unternehmen, die Druck durch den Konflikt im Nahen Osten anführten."
+        "zh": "文章分析了英国经济在四月萎缩的原因，指出中东冲突对服务业和整体经济活动的影响。",
+        "en": "The article analyzes the reasons behind the UK's economic contraction in April, highlighting the impact of the Middle East conflict on the service sector and overall economic activity.",
+        "de": "Der Artikel analysiert die Gründe für die wirtschaftliche Schrumpfung des Vereinigten Königreichs im April und hebt die Auswirkungen des Nahostkonflikts auf den Dienstleistungssektor und die gesamte wirtschaftliche Aktivität hervor."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-12",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者价格在五月上涨4.2%，创三年来最高",
-        "en": "Consumer prices rose 4.2% annually in May, highest in three years",
-        "de": "Die Verbraucherpreise stiegen im Mai um 4,2 % im Jahresvergleich, der höchste Wert seit drei Jahren"
+        "zh": "中国初创企业的困境暴露了北京科技融资体系的裂缝",
+        "en": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine.",
+        "de": "Das Dilemma eines chinesischen Start-ups offenbart Risse im Finanzierungssystem für Technologie in Peking."
       },
       "summary": {
-        "zh": "五月的消费者价格指数显示出4.2%的年增长率，为三年来的最高水平，反映出通货膨胀压力的加剧。",
-        "en": "The consumer price index for May showed a 4.2% annual increase, the highest in three years, reflecting heightened inflationary pressures.",
-        "de": "Der Verbraucherpreisindex für Mai zeigte einen Anstieg von 4,2 % im Jahresvergleich, den höchsten Wert seit drei Jahren, was auf erhöhte Inflationsdruck hinweist."
+        "zh": "文章探讨了一家中国初创企业面临的挑战，揭示了北京在科技融资方面的直接投资模式的缺陷。",
+        "en": "The article discusses the challenges faced by a Chinese start-up, revealing flaws in Beijing's direct investment model for tech funding.",
+        "de": "Der Artikel erörtert die Herausforderungen, mit denen ein chinesisches Start-up konfrontiert ist, und offenbart Mängel im direkten Investitionsmodell Pekings für die Technologiefinanzierung."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-10",
-      "url": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html"
+      "date": "2026-06-12",
+      "url": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "SpaceX的股票因公司IPO再筹集107亿美元而上涨",
-        "en": "SpaceX’s stock jumps as the company reveals its IPO has raised another $10.7 billion",
-        "de": "Die Aktien von SpaceX steigen, da das Unternehmen bekannt gibt, dass sein IPO weitere 10,7 Milliarden US-Dollar eingebracht hat"
+        "zh": "5月批发价格上涨1.1%，超出预期",
+        "en": "Wholesale prices rose 1.1% in May, more than expected, on surge in energy.",
+        "de": "Die Großhandelspreise stiegen im Mai um 1,1 %, mehr als erwartet, aufgrund eines Anstiegs der Energiepreise."
       },
       "summary": {
-        "zh": "SpaceX的首次公开募股（IPO）再筹集107亿美元，推动其股票上涨，显示出市场对其未来的信心。",
-        "en": "SpaceX's IPO has raised another $10.7 billion, boosting its stock price and reflecting market confidence in its future.",
-        "de": "Das IPO von SpaceX hat weitere 10,7 Milliarden US-Dollar eingebracht, was den Aktienkurs anhebt und das Vertrauen des Marktes in die Zukunft widerspiegelt."
+        "zh": "文章分析了5月批发价格上涨的原因，强调了能源价格飙升对整体通胀的影响。",
+        "en": "The article analyzes the reasons behind the rise in wholesale prices in May, emphasizing the impact of soaring energy prices on overall inflation.",
+        "de": "Der Artikel analysiert die Gründe für den Anstieg der Großhandelspreise im Mai und betont die Auswirkungen der steigenden Energiepreise auf die Gesamtinflation."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-06-15",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-jumps-as-the-company-reveals-its-ipo-has-raised-another-10-7-billion-fc7eaca1?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-06-11",
+      "url": "https://www.cnbc.com/2026/06/11/producer-price-index-may-2026-.html"
     }
   ]
 }
