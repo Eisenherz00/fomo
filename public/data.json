@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-06-17T09:19:41.409512+00:00",
+  "generatedAt": "2026-06-17T18:38:22.236643+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "独家电子书：人工智能如何成为下一个军事顾问",
-        "en": "Exclusive eBook: How AI is becoming the next military advisor",
-        "de": "Exklusives eBook: Wie KI zum nächsten Militärberater wird"
+        "zh": "下载：地球工程的现实检查和内感知的科学",
+        "en": "The Download: a reality check for geoengineering and the science of interoception",
+        "de": "Der Download: eine Realitätprüfung für Geoengineering und die Wissenschaft der Interozeption"
       },
       "summary": {
-        "zh": "这本独家电子书汇集了关于军方如何利用人工智能模型进行决策的故事，展示了AI在军事领域的应用。",
-        "en": "This exclusive eBook compiles stories about how militaries are using AI models to make decisions, showcasing the applications of AI in the military sector.",
-        "de": "Dieses exklusive eBook fasst Geschichten darüber zusammen, wie Militärs KI-Modelle zur Entscheidungsfindung nutzen, und zeigt die Anwendungen von KI im Militärsektor."
+        "zh": "本期下载提供了关于地球工程和内感知科学的最新动态，探讨了这些领域的现实挑战和潜在影响。",
+        "en": "This edition of The Download provides the latest updates on geoengineering and the science of interoception, exploring the real challenges and potential impacts in these fields.",
+        "de": "Diese Ausgabe des Downloads bietet die neuesten Updates zu Geoengineering und der Wissenschaft der Interozeption und untersucht die realen Herausforderungen und potenziellen Auswirkungen in diesen Bereichen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-16",
-      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/"
+      "date": "2026-06-17",
+      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "黑客攻击大气层：气候工程的现实检查",
-        "en": "Hacking the atmosphere: Geoengineering gets a reality check",
-        "de": "Die Atmosphäre hacken: Geoengineering erhält eine Realitätstest"
+        "zh": "内罗毕的企业家为太阳能辩护",
+        "en": "Entrepreneurs in Nairobi make the case for going solar",
+        "de": "Unternehmer in Nairobi plädieren für Solarenergie"
       },
       "summary": {
-        "zh": "这篇文章探讨了气候工程的潜力和风险，强调了在实施这些技术之前进行全面评估的重要性。",
-        "en": "This article explores the potential and risks of geoengineering, emphasizing the importance of thorough assessments before implementing such technologies.",
-        "de": "Dieser Artikel untersucht das Potenzial und die Risiken des Geoengineerings und betont die Wichtigkeit gründlicher Bewertungen vor der Umsetzung solcher Technologien."
+        "zh": "肯尼亚大部分电网依赖可再生能源，但25%的社区缺乏集中电力，企业家们正在推动离网太阳能的使用。",
+        "en": "While most of Kenya's power grid relies on renewables, 25% of communities lack centralized electricity, and entrepreneurs are advocating for off-grid solar solutions.",
+        "de": "Während der Großteil des kenianischen Stromnetzes auf erneuerbaren Energien basiert, haben 25 % der Gemeinden keinen zentralen Strom, und Unternehmer setzen sich für Off-Grid-Solarlösungen ein."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-17",
-      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/"
+      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "南韩人为何如此热爱人工智能？",
-        "en": "Why do South Koreans love AI so much?",
-        "de": "Warum lieben Südkoreaner KI so sehr?"
+        "zh": "黑客攻击大气：地球工程获得现实检查",
+        "en": "Hacking the atmosphere: Geoengineering gets a reality check",
+        "de": "Die Atmosphäre hacken: Geoengineering erhält eine Realitätprüfung"
       },
       "summary": {
-        "zh": "这篇文章分析了南韩对人工智能的热情，探讨了文化、经济和技术因素如何推动这一趋势。",
-        "en": "This article analyzes South Korea's enthusiasm for AI, exploring how cultural, economic, and technological factors drive this trend.",
-        "de": "Dieser Artikel analysiert die Begeisterung Südkoreas für KI und untersucht, wie kulturelle, wirtschaftliche und technologische Faktoren diesen Trend antreiben."
+        "zh": "文章探讨了地球工程的最新进展和挑战，强调了在应对气候变化方面的复杂性和不确定性。",
+        "en": "The article discusses the latest developments and challenges in geoengineering, highlighting the complexities and uncertainties in addressing climate change.",
+        "de": "Der Artikel erörtert die neuesten Entwicklungen und Herausforderungen im Bereich Geoengineering und hebt die Komplexität und Unsicherheiten bei der Bekämpfung des Klimawandels hervor."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-15",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
+      "date": "2026-06-17",
+      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "G7领导人将加强乌克兰空中防御，收紧对俄罗斯的制裁",
-        "en": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
-        "de": "G7-Führer wollen die Luftverteidigung der Ukraine stärken und die Sanktionen gegen Russland verschärfen"
+        "zh": "特朗普：世界将很快发现伊朗谅解备忘录签署是否会发生",
+        "en": "Trump: World will ‘find out pretty soon’ if Iran MOU signing will happen",
+        "de": "Trump: Die Welt wird 'bald herausfinden', ob die Unterzeichnung des Iran-MOU stattfinden wird"
       },
       "summary": {
-        "zh": "在法国举行的G7峰会上，领导人一致表示将加强对乌克兰的支持，并对俄罗斯实施更严格的制裁。",
-        "en": "At the G7 summit in France, leaders expressed their united commitment to bolster support for Ukraine and impose stricter sanctions on Russia.",
-        "de": "Auf dem G7-Gipfel in Frankreich äußerten die Führer ihr vereintes Engagement, die Unterstützung für die Ukraine zu stärken und strengere Sanktionen gegen Russland zu verhängen."
+        "zh": "特朗普暗示，周五的协议签署可能仍会失败，并誓言如果伊朗不‘表现’将对其进行轰炸。",
+        "en": "Trump suggests that the deal signing on Friday could still fall through, vowing to bomb Iran if they don't 'behave'.",
+        "de": "Trump deutet an, dass die Unterzeichnung des Abkommens am Freitag möglicherweise noch scheitern könnte, und schwört, Iran zu bombardieren, wenn sie sich nicht 'benehmen'."
       },
       "source": "Al Jazeera",
       "date": "2026-06-17",
-      "url": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/17/trump-world-will-find-out-pretty-soon-if-iran-mou-signing-will-happen?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国俄克拉荷马州、乔治亚州等地初选：结果的关键要点",
-        "en": "US primaries in Oklahoma, Georgia, others: Key takeaways from the results",
-        "de": "US-Vorwahlen in Oklahoma, Georgia und anderen: Wichtige Erkenntnisse aus den Ergebnissen"
+        "zh": "美国联邦储备在新主席沃什的领导下保持利率稳定",
+        "en": "US Federal Reserve holds rates steady under new chair Warsh",
+        "de": "Die US-Notenbank hält die Zinsen unter dem neuen Vorsitzenden Warsh stabil"
       },
       "summary": {
-        "zh": "特朗普支持的候选人在美国初选中未能取得预期的胜利，结果对即将到来的中期选举产生影响。",
-        "en": "Trump-backed candidates fell short in the US primaries, with results impacting the upcoming midterm elections.",
-        "de": "Von Trump unterstützte Kandidaten blieben bei den US-Vorwahlen hinter den Erwartungen zurück, was Auswirkungen auf die bevorstehenden Zwischenwahlen hat."
+        "zh": "由于美国与伊朗的战争导致能源价格上涨，美国通胀已达到三年来的最高水平，联邦储备决定保持利率不变。",
+        "en": "Heightened energy prices due to the US-Iran war have pushed US inflation to a three-year high, prompting the Federal Reserve to hold rates steady.",
+        "de": "Steigende Energiepreise aufgrund des US-Iran-Kriegs haben die US-Inflation auf den höchsten Stand seit drei Jahren getrieben, was die US-Notenbank dazu veranlasst hat, die Zinsen stabil zu halten."
       },
       "source": "Al Jazeera",
       "date": "2026-06-17",
-      "url": "https://www.aljazeera.com/news/2026/6/17/us-primaries-in-oklahoma-georgia-others-key-takeaways-from-the-results?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗战争第110天：德黑兰称以色列对黎巴嫩的攻击威胁美国协议",
-        "en": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-        "de": "Iran-Krieg Tag 110: Teheran sagt, israelische Angriffe auf den Libanon bedrohen das US-Abkommen"
+        "zh": "加沙自‘停火’以来的死亡人数超过1,000",
+        "en": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
+        "de": "Die Zahl der Toten im Gazastreifen seit dem 'Waffenstillstand' mit Israel übersteigt 1.000"
       },
       "summary": {
-        "zh": "伊朗警告称，以色列对黎巴嫩的攻击可能会对美国与伊朗之间的协议造成威胁，局势紧张加剧。",
-        "en": "Iran warns that Israeli attacks on Lebanon could threaten the US-Iran deal, escalating tensions in the region.",
-        "de": "Iran warnt, dass israelische Angriffe auf den Libanon das US-Iran-Abkommen gefährden könnten, was die Spannungen in der Region verschärft."
+        "zh": "自美国促成的‘停火’协议达成以来，加沙地区已有超过1,000人遇难，局势依然严峻。",
+        "en": "Since the US-brokered 'ceasefire' agreement, more than 1,000 people have been killed in Gaza, with the situation remaining dire.",
+        "de": "Seit dem von den USA vermittelten 'Waffenstillstand' sind im Gazastreifen mehr als 1.000 Menschen ums Leben gekommen, die Lage bleibt angespannt."
       },
       "source": "Al Jazeera",
       "date": "2026-06-17",
-      "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英国5月通胀率保持在2.8%的稳定水平",
+        "zh": "英国5月通胀保持在2.8%",
         "en": "UK inflation holds steady at 2.8% in May",
-        "de": "Die Inflation im Vereinigten Königreich bleibt im Mai stabil bei 2,8%"
+        "de": "Die Inflation im Vereinigten Königreich bleibt im Mai bei 2,8 % stabil"
       },
       "summary": {
-        "zh": "英国5月的通胀率保持在2.8%，预计英国央行将在周四更新其货币政策。",
-        "en": "UK inflation remained steady at 2.8% in May, with the Bank of England expected to update its monetary policy on Thursday.",
-        "de": "Die Inflation im Vereinigten Königreich blieb im Mai stabil bei 2,8%, und die Bank von England wird voraussichtlich am Donnerstag ihre Geldpolitik aktualisieren."
+        "zh": "英国央行预计将在周四更新其货币政策，5月的通胀率维持在2.8%。",
+        "en": "The Bank of England is expected to update its monetary policy on Thursday, with the inflation rate holding steady at 2.8% in May.",
+        "de": "Die Bank von England wird voraussichtlich am Donnerstag ihre Geldpolitik aktualisieren, wobei die Inflationsrate im Mai bei 2,8 % stabil bleibt."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-17",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "三艘伊朗油轮首次突破美国封锁",
-        "en": "Three Iranian tankers exit U.S. blockade for first time in months",
-        "de": "Drei iranische Tanker verlassen zum ersten Mal seit Monaten die US-Blockade"
+        "zh": "三艘伊朗油轮首次在几个月内退出美国封锁",
+        "en": "Three Iranian tankers exit U.S. blockade for first time in months as shipowners eye Hormuz in 'wary disbelief'",
+        "de": "Drei iranische Tanker verlassen die US-Blockade zum ersten Mal seit Monaten, während Schiffsbesitzer mit 'vorsichtiger Ungläubigkeit' auf Hormuz blicken"
       },
       "summary": {
-        "zh": "三艘载有近五百万桶原油的伊朗油轮首次突破美国海军的封锁，标志着局势的重大转变。",
-        "en": "Three Iranian tankers carrying nearly five million barrels of crude oil have exited the U.S. Navy blockade, marking a significant shift in the situation.",
-        "de": "Drei iranische Tanker, die fast fünf Millionen Barrel Rohöl transportieren, haben die US-Marine-Blockade verlassen, was einen bedeutenden Wandel in der Situation markiert."
+        "zh": "至少三艘载有近五百万桶原油的伊朗油轮成功退出美国海军封锁，标志着局势的重大变化。",
+        "en": "At least three Iranian tankers carrying nearly five million barrels of crude oil have successfully exited the U.S. Navy blockade, marking a significant shift in the situation.",
+        "de": "Mindestens drei iranische Tanker, die fast fünf Millionen Barrel Rohöl transportieren, haben erfolgreich die US-Marine-Blockade verlassen, was einen signifikanten Wandel in der Situation markiert."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-17",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "BMW再次因中国市场下滑发出盈利警告",
-        "en": "BMW issues a big profit warning it once again blames on China",
-        "de": "BMW gibt eine große Gewinnwarnung heraus, die erneut auf China zurückzuführen ist"
+        "zh": "英国经济在四月份萎缩0.1%",
+        "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
+        "de": "Die britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
       },
       "summary": {
-        "zh": "宝马因中国市场的下滑再次下调盈利预期，成为周三表现最差的主要欧洲股票。",
-        "en": "BMW has lowered its profit outlook again due to a downturn in the Chinese market, making it the worst-performing major European stock on Wednesday.",
-        "de": "BMW hat seine Gewinnprognose erneut aufgrund eines Rückgangs auf dem chinesischen Markt gesenkt und war am Mittwoch die schwächste große europäische Aktie."
+        "zh": "由于服务业活动下降和中东冲突的压力，英国经济在四月份萎缩了0.1%。",
+        "en": "The UK economy shrank by 0.1% in April due to a decline in services activity and pressures from the Middle East conflict.",
+        "de": "Die britische Wirtschaft schrumpfte im April um 0,1 %, was auf einen Rückgang der Dienstleistungsaktivitäten und den Druck des Konflikts im Nahen Osten zurückzuführen ist."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-06-17",
-      "url": "https://www.marketwatch.com/story/bmw-issues-a-big-profit-warning-it-once-again-blames-on-china-the-automaker-is-plotting-a-major-strategy-shift-d28e7428?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-06-12",
+      "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html"
     }
   ]
 }
