@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-17T18:38:22.236643+00:00",
+  "generatedAt": "2026-06-18T09:04:29.087440+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：地球工程的现实检查和内感知的科学",
+        "zh": "下载：地球工程和内感知科学的现实检查",
         "en": "The Download: a reality check for geoengineering and the science of interoception",
-        "de": "Der Download: eine Realitätprüfung für Geoengineering und die Wissenschaft der Interozeption"
+        "de": "Der Download: eine Bestandsaufnahme der Geoengineering und der Wissenschaft der Interozeption"
       },
       "summary": {
-        "zh": "本期下载提供了关于地球工程和内感知科学的最新动态，探讨了这些领域的现实挑战和潜在影响。",
-        "en": "This edition of The Download provides the latest updates on geoengineering and the science of interoception, exploring the real challenges and potential impacts in these fields.",
-        "de": "Diese Ausgabe des Downloads bietet die neuesten Updates zu Geoengineering und der Wissenschaft der Interozeption und untersucht die realen Herausforderungen und potenziellen Auswirkungen in diesen Bereichen."
+        "zh": "本期《下载》探讨了地球工程的现实情况以及内感知科学的最新进展，强调了技术在应对气候变化中的潜力和挑战。",
+        "en": "This edition of The Download explores the realities of geoengineering and the latest developments in interoception science, highlighting the potential and challenges of technology in addressing climate change.",
+        "de": "In dieser Ausgabe des Downloads werden die Realitäten des Geoengineering und die neuesten Entwicklungen in der Interozeptionswissenschaft untersucht, wobei das Potenzial und die Herausforderungen der Technologie zur Bekämpfung des Klimawandels hervorgehoben werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-17",
@@ -25,9 +25,9 @@
         "de": "Unternehmer in Nairobi plädieren für Solarenergie"
       },
       "summary": {
-        "zh": "肯尼亚大部分电网依赖可再生能源，但25%的社区缺乏集中电力，企业家们正在推动离网太阳能的使用。",
-        "en": "While most of Kenya's power grid relies on renewables, 25% of communities lack centralized electricity, and entrepreneurs are advocating for off-grid solar solutions.",
-        "de": "Während der Großteil des kenianischen Stromnetzes auf erneuerbaren Energien basiert, haben 25 % der Gemeinden keinen zentralen Strom, und Unternehmer setzen sich für Off-Grid-Solarlösungen ein."
+        "zh": "肯尼亚的电力网络大部分依赖可再生能源，但仍有25%的社区缺乏集中电力供应，企业家们正在推动离网太阳能的使用。",
+        "en": "Kenya's power grid relies heavily on renewable energy, yet 25% of communities lack centralized electricity, prompting entrepreneurs to advocate for off-grid solar solutions.",
+        "de": "Das Stromnetz Kenias basiert stark auf erneuerbaren Energien, doch 25 % der Gemeinden haben keinen Zugang zu zentraler Elektrizität, was Unternehmer dazu veranlasst, für netzunabhängige Solarenergie-Lösungen zu plädieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-17",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "黑客攻击大气：地球工程获得现实检查",
-        "en": "Hacking the atmosphere: Geoengineering gets a reality check",
-        "de": "Die Atmosphäre hacken: Geoengineering erhält eine Realitätprüfung"
+        "zh": "“危险”的人工智能模型即将来临",
+        "en": "Dangerous AI models are coming no matter what",
+        "de": "Gefährliche KI-Modelle kommen auf jeden Fall"
       },
       "summary": {
-        "zh": "文章探讨了地球工程的最新进展和挑战，强调了在应对气候变化方面的复杂性和不确定性。",
-        "en": "The article discusses the latest developments and challenges in geoengineering, highlighting the complexities and uncertainties in addressing climate change.",
-        "de": "Der Artikel erörtert die neuesten Entwicklungen und Herausforderungen im Bereich Geoengineering und hebt die Komplexität und Unsicherheiten bei der Bekämpfung des Klimawandels hervor."
+        "zh": "随着技术的进步，具有先进黑客能力的人工智能模型即将成为常态，专家们对其潜在风险表示担忧。",
+        "en": "As technology advances, AI models with advanced hacking capabilities are set to become the norm, raising concerns among experts about their potential risks.",
+        "de": "Mit dem Fortschritt der Technologie werden KI-Modelle mit fortschrittlichen Hacking-Fähigkeiten zur Norm, was bei Experten Bedenken hinsichtlich ihrer potenziellen Risiken aufwirft."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-06-17",
-      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/"
+      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普：世界将很快发现伊朗谅解备忘录签署是否会发生",
-        "en": "Trump: World will ‘find out pretty soon’ if Iran MOU signing will happen",
-        "de": "Trump: Die Welt wird 'bald herausfinden', ob die Unterzeichnung des Iran-MOU stattfinden wird"
+        "zh": "G7是否在倾听全球南方的声音？",
+        "en": "Is the G7 hearing the Global South?",
+        "de": "Hört die G7 den Globalen Süden?"
       },
       "summary": {
-        "zh": "特朗普暗示，周五的协议签署可能仍会失败，并誓言如果伊朗不‘表现’将对其进行轰炸。",
-        "en": "Trump suggests that the deal signing on Friday could still fall through, vowing to bomb Iran if they don't 'behave'.",
-        "de": "Trump deutet an, dass die Unterzeichnung des Abkommens am Freitag möglicherweise noch scheitern könnte, und schwört, Iran zu bombardieren, wenn sie sich nicht 'benehmen'."
+        "zh": "G7、金砖国家和新兴大国在变化的全球秩序中争夺影响力，全球南方的声音引发了广泛关注。",
+        "en": "The G7, BRICS, and emerging powers are competing for influence in a changing global order, drawing significant attention to the voices of the Global South.",
+        "de": "Die G7, BRICS und aufstrebende Mächte konkurrieren um Einfluss in einer sich verändernden globalen Ordnung, was die Stimmen des Globalen Südens in den Fokus rückt."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-17",
-      "url": "https://www.aljazeera.com/news/2026/6/17/trump-world-will-find-out-pretty-soon-if-iran-mou-signing-will-happen?traffic_source=rss"
+      "date": "2026-06-18",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/18/is-the-g7-hearing-the-global-south?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国联邦储备在新主席沃什的领导下保持利率稳定",
-        "en": "US Federal Reserve holds rates steady under new chair Warsh",
-        "de": "Die US-Notenbank hält die Zinsen unter dem neuen Vorsitzenden Warsh stabil"
+        "zh": "乌克兰袭击莫斯科炼油厂，泽连斯基寻求特朗普支持结束战争",
+        "en": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
+        "de": "Ukraine greift Moskauer Raffinerie an, während Selenskyj Trump um Unterstützung zur Beendigung des Krieges bittet"
       },
       "summary": {
-        "zh": "由于美国与伊朗的战争导致能源价格上涨，美国通胀已达到三年来的最高水平，联邦储备决定保持利率不变。",
-        "en": "Heightened energy prices due to the US-Iran war have pushed US inflation to a three-year high, prompting the Federal Reserve to hold rates steady.",
-        "de": "Steigende Energiepreise aufgrund des US-Iran-Kriegs haben die US-Inflation auf den höchsten Stand seit drei Jahren getrieben, was die US-Notenbank dazu veranlasst hat, die Zinsen stabil zu halten."
+        "zh": "乌克兰对俄罗斯的油炼厂进行了重击，泽连斯基希望获得特朗普的支持以结束战争，这加剧了俄罗斯的能源危机。",
+        "en": "Ukraine has heavily targeted Russia's oil refineries, with Zelenskyy seeking Trump’s support to end the war, exacerbating Russia's energy crisis.",
+        "de": "Die Ukraine hat die Ölraffinerien Russlands stark angegriffen, während Selenskyj Trump um Unterstützung zur Beendigung des Krieges bittet, was die Energiekrise Russlands verschärft."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-17",
-      "url": "https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss"
+      "date": "2026-06-18",
+      "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "加沙自‘停火’以来的死亡人数超过1,000",
-        "en": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
-        "de": "Die Zahl der Toten im Gazastreifen seit dem 'Waffenstillstand' mit Israel übersteigt 1.000"
+        "zh": "伊朗战争第111天：德黑兰警告美国，14点计划生效",
+        "en": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
+        "de": "Iran-Krieg Tag 111: Teheran warnt die USA, während der 14-Punkte-Plan in Kraft tritt"
       },
       "summary": {
-        "zh": "自美国促成的‘停火’协议达成以来，加沙地区已有超过1,000人遇难，局势依然严峻。",
-        "en": "Since the US-brokered 'ceasefire' agreement, more than 1,000 people have been killed in Gaza, with the situation remaining dire.",
-        "de": "Seit dem von den USA vermittelten 'Waffenstillstand' sind im Gazastreifen mehr als 1.000 Menschen ums Leben gekommen, die Lage bleibt angespannt."
+        "zh": "伊朗与美国达成的协议生效，但在实施过程中仍存在许多问题，德黑兰对此表示警告。",
+        "en": "The agreement between Iran and the US takes effect, but many questions remain regarding its implementation, prompting warnings from Tehran.",
+        "de": "Das Abkommen zwischen Iran und den USA tritt in Kraft, doch viele Fragen zur Umsetzung bleiben offen, was Teheran zu Warnungen veranlasst."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-17",
-      "url": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss"
+      "date": "2026-06-18",
+      "url": "https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
+        "zh": "凯文·沃什首次会议的五大要点",
+        "en": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+        "de": "Hier sind die fünf wichtigsten Erkenntnisse aus Kevin Warshs erster Sitzung als Fed-Vorsitzender"
+      },
+      "summary": {
+        "zh": "美联储主席凯文·沃什在首次会议上遵循了利率政策的既定脚本，市场反应积极。",
+        "en": "Federal Reserve Chairman Kevin Warsh followed the established script on interest rates during his first meeting, leading to a positive market response.",
+        "de": "Der Vorsitzende der Federal Reserve, Kevin Warsh, folgte bei seiner ersten Sitzung dem festgelegten Skript zu den Zinssätzen, was zu einer positiven Marktreaktion führte."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-06-17",
+      "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
         "zh": "英国5月通胀保持在2.8%",
         "en": "UK inflation holds steady at 2.8% in May",
         "de": "Die Inflation im Vereinigten Königreich bleibt im Mai bei 2,8 % stabil"
       },
       "summary": {
-        "zh": "英国央行预计将在周四更新其货币政策，5月的通胀率维持在2.8%。",
-        "en": "The Bank of England is expected to update its monetary policy on Thursday, with the inflation rate holding steady at 2.8% in May.",
-        "de": "Die Bank von England wird voraussichtlich am Donnerstag ihre Geldpolitik aktualisieren, wobei die Inflationsrate im Mai bei 2,8 % stabil bleibt."
+        "zh": "英国5月的通胀率保持在2.8%，预计英格兰银行将在周四更新其货币政策。",
+        "en": "UK inflation remained steady at 2.8% in May, with the Bank of England expected to update its monetary policy on Thursday.",
+        "de": "Die Inflation im Vereinigten Königreich blieb im Mai stabil bei 2,8 %, wobei die Bank von England am Donnerstag ihre Geldpolitik aktualisieren soll."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-17",
       "url": "https://www.cnbc.com/2026/06/17/inflation-uk-cpi-interest-rates-bank-of-england.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "三艘伊朗油轮首次在几个月内退出美国封锁",
+        "zh": "三艘伊朗油轮首次突破美国封锁",
         "en": "Three Iranian tankers exit U.S. blockade for first time in months as shipowners eye Hormuz in 'wary disbelief'",
-        "de": "Drei iranische Tanker verlassen die US-Blockade zum ersten Mal seit Monaten, während Schiffsbesitzer mit 'vorsichtiger Ungläubigkeit' auf Hormuz blicken"
+        "de": "Drei iranische Tanker verlassen zum ersten Mal seit Monaten die US-Blockade, während Schiffseigner mit 'vorsichtiger Ungläubigkeit' auf Hormuz blicken"
       },
       "summary": {
-        "zh": "至少三艘载有近五百万桶原油的伊朗油轮成功退出美国海军封锁，标志着局势的重大变化。",
-        "en": "At least three Iranian tankers carrying nearly five million barrels of crude oil have successfully exited the U.S. Navy blockade, marking a significant shift in the situation.",
-        "de": "Mindestens drei iranische Tanker, die fast fünf Millionen Barrel Rohöl transportieren, haben erfolgreich die US-Marine-Blockade verlassen, was einen signifikanten Wandel in der Situation markiert."
+        "zh": "三艘载有近500万桶原油的伊朗油轮首次突破美国海军封锁，市场对此反应谨慎。",
+        "en": "Three Iranian tankers carrying nearly five million barrels of crude oil have exited the U.S. Navy blockade for the first time in months, with the market responding cautiously.",
+        "de": "Drei iranische Tanker, die fast fünf Millionen Barrel Rohöl transportieren, haben die US-Marine-Blockade zum ersten Mal seit Monaten verlassen, wobei der Markt vorsichtig reagiert."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-17",
       "url": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "英国经济在四月份萎缩0.1%",
-        "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
-        "de": "Die britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
-      },
-      "summary": {
-        "zh": "由于服务业活动下降和中东冲突的压力，英国经济在四月份萎缩了0.1%。",
-        "en": "The UK economy shrank by 0.1% in April due to a decline in services activity and pressures from the Middle East conflict.",
-        "de": "Die britische Wirtschaft schrumpfte im April um 0,1 %, was auf einen Rückgang der Dienstleistungsaktivitäten und den Druck des Konflikts im Nahen Osten zurückzuführen ist."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-06-12",
-      "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html"
     }
   ]
 }
