@@ -1,149 +1,149 @@
 {
-  "generatedAt": "2026-06-18T09:04:29.087440+00:00",
+  "generatedAt": "2026-06-18T18:38:57.712546+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：地球工程和内感知科学的现实检查",
-        "en": "The Download: a reality check for geoengineering and the science of interoception",
-        "de": "Der Download: eine Bestandsaufnahme der Geoengineering und der Wissenschaft der Interozeption"
+        "zh": "下载：寻找暗物质的新猎手和肯尼亚的太阳能案例",
+        "en": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+        "de": "Der Download: eine neue Jagd nach dunkler Materie und Kenias Fall für Solarenergie"
       },
       "summary": {
-        "zh": "本期《下载》探讨了地球工程的现实情况以及内感知科学的最新进展，强调了技术在应对气候变化中的潜力和挑战。",
-        "en": "This edition of The Download explores the realities of geoengineering and the latest developments in interoception science, highlighting the potential and challenges of technology in addressing climate change.",
-        "de": "In dieser Ausgabe des Downloads werden die Realitäten des Geoengineering und die neuesten Entwicklungen in der Interozeptionswissenschaft untersucht, wobei das Potenzial und die Herausforderungen der Technologie zur Bekämpfung des Klimawandels hervorgehoben werden."
+        "zh": "今天的下载涵盖了寻找暗物质的新进展，以及肯尼亚如何利用太阳能来解决电力不足的问题。",
+        "en": "Today's Download covers new developments in the hunt for dark matter and how Kenya is leveraging solar energy to address power shortages.",
+        "de": "Der heutige Download behandelt neue Entwicklungen bei der Jagd nach dunkler Materie und wie Kenia Solarenergie nutzt, um Stromengpässe zu beheben."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-17",
-      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/"
+      "date": "2026-06-18",
+      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "内罗毕的企业家为太阳能辩护",
-        "en": "Entrepreneurs in Nairobi make the case for going solar",
-        "de": "Unternehmer in Nairobi plädieren für Solarenergie"
+        "zh": "地球工程仍面临重大实际挑战",
+        "en": "Geoengineering still faces major practical challenges",
+        "de": "Geoengineering steht weiterhin vor großen praktischen Herausforderungen"
       },
       "summary": {
-        "zh": "肯尼亚的电力网络大部分依赖可再生能源，但仍有25%的社区缺乏集中电力供应，企业家们正在推动离网太阳能的使用。",
-        "en": "Kenya's power grid relies heavily on renewable energy, yet 25% of communities lack centralized electricity, prompting entrepreneurs to advocate for off-grid solar solutions.",
-        "de": "Das Stromnetz Kenias basiert stark auf erneuerbaren Energien, doch 25 % der Gemeinden haben keinen Zugang zu zentraler Elektrizität, was Unternehmer dazu veranlasst, für netzunabhängige Solarenergie-Lösungen zu plädieren."
+        "zh": "地球工程作为应对气候紧急情况的手段，面临着许多实际挑战，尤其是在技术和实施方面。",
+        "en": "Geoengineering, often seen as a means to address climate emergencies, faces numerous practical challenges, particularly in terms of technology and implementation.",
+        "de": "Geoengineering, oft als Mittel zur Bewältigung von Klimanotfällen angesehen, steht vor zahlreichen praktischen Herausforderungen, insbesondere in Bezug auf Technologie und Umsetzung."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-17",
-      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/"
+      "date": "2026-06-18",
+      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "“危险”的人工智能模型即将来临",
-        "en": "Dangerous AI models are coming no matter what",
-        "de": "Gefährliche KI-Modelle kommen auf jeden Fall"
+        "zh": "寻找暗物质的探索已被大大扩展",
+        "en": "The search for dark matter has been blown wide open",
+        "de": "Die Suche nach dunkler Materie wurde stark ausgeweitet"
       },
       "summary": {
-        "zh": "随着技术的进步，具有先进黑客能力的人工智能模型即将成为常态，专家们对其潜在风险表示担忧。",
-        "en": "As technology advances, AI models with advanced hacking capabilities are set to become the norm, raising concerns among experts about their potential risks.",
-        "de": "Mit dem Fortschritt der Technologie werden KI-Modelle mit fortschrittlichen Hacking-Fähigkeiten zur Norm, was bei Experten Bedenken hinsichtlich ihrer potenziellen Risiken aufwirft."
+        "zh": "在意大利阿彭宁山脉和中国四川的金平山下，暗物质的探索正在进行中，科学家们希望找到新的线索。",
+        "en": "Underneath the Apennine massif in Italy and the Jinping Mountains in Sichuan, the search for dark matter is underway, with scientists hoping to uncover new clues.",
+        "de": "Unter dem Apennin-Massiv in Italien und den Jinping-Bergen in Sichuan läuft die Suche nach dunkler Materie, wobei Wissenschaftler hoffen, neue Hinweise zu finden."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-06-17",
-      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
+      "source": "MIT Technology Review",
+      "date": "2026-06-18",
+      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "G7是否在倾听全球南方的声音？",
-        "en": "Is the G7 hearing the Global South?",
-        "de": "Hört die G7 den Globalen Süden?"
+        "zh": "巴基斯坦签署美伊谅解备忘录",
+        "en": "Pakistan signs US-Iran MoU",
+        "de": "Pakistan unterzeichnet US-Iran-MoU"
       },
       "summary": {
-        "zh": "G7、金砖国家和新兴大国在变化的全球秩序中争夺影响力，全球南方的声音引发了广泛关注。",
-        "en": "The G7, BRICS, and emerging powers are competing for influence in a changing global order, drawing significant attention to the voices of the Global South.",
-        "de": "Die G7, BRICS und aufstrebende Mächte konkurrieren um Einfluss in einer sich verändernden globalen Ordnung, was die Stimmen des Globalen Südens in den Fokus rückt."
+        "zh": "巴基斯坦总理谢赫巴兹·沙里夫签署了一项旨在结束战争的美伊谅解备忘录。",
+        "en": "Pakistan's Prime Minister Shehbaz Sharif signed a memorandum of understanding with the US and Iran aimed at ending the war.",
+        "de": "Pakistans Premierminister Shehbaz Sharif unterzeichnete ein Memorandum of Understanding mit den USA und dem Iran, das darauf abzielt, den Krieg zu beenden."
       },
       "source": "Al Jazeera",
       "date": "2026-06-18",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/18/is-the-g7-hearing-the-global-south?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乌克兰袭击莫斯科炼油厂，泽连斯基寻求特朗普支持结束战争",
-        "en": "Ukraine hits Moscow refinery as Zelenskyy seeks Trump support to end war",
-        "de": "Ukraine greift Moskauer Raffinerie an, während Selenskyj Trump um Unterstützung zur Beendigung des Krieges bittet"
+        "zh": "以色列因“种族隔离”言论与欧盟高级外交官断交",
+        "en": "Israel says cutting ties with top EU diplomat over ‘apartheid’ comments",
+        "de": "Israel kündigt die Beziehungen zu hochrangigem EU-Diplomaten wegen ‚Apartheid‘-Äußerungen"
       },
       "summary": {
-        "zh": "乌克兰对俄罗斯的油炼厂进行了重击，泽连斯基希望获得特朗普的支持以结束战争，这加剧了俄罗斯的能源危机。",
-        "en": "Ukraine has heavily targeted Russia's oil refineries, with Zelenskyy seeking Trump’s support to end the war, exacerbating Russia's energy crisis.",
-        "de": "Die Ukraine hat die Ölraffinerien Russlands stark angegriffen, während Selenskyj Trump um Unterstützung zur Beendigung des Krieges bittet, was die Energiekrise Russlands verschärft."
+        "zh": "以色列政府因欧盟高级外交官对其政策的“种族隔离”评论而决定断交。",
+        "en": "The Israeli government has decided to cut ties with a top EU diplomat over comments labeling its policies as 'apartheid'.",
+        "de": "Die israelische Regierung hat beschlossen, die Beziehungen zu einem hochrangigen EU-Diplomaten wegen Äußerungen zu beenden, die ihre Politik als 'Apartheid' bezeichnen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-18",
-      "url": "https://www.aljazeera.com/news/2026/6/18/ukraine-hits-moscow-refinery-as-zelenskyy-seeks-trump-support-to-end-war?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/18/israel-says-cutting-ties-with-top-eu-diplomat-over-apartheid-comments?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗战争第111天：德黑兰警告美国，14点计划生效",
-        "en": "Iran war day 111: Tehran warns US as 14-point plan takes effect",
-        "de": "Iran-Krieg Tag 111: Teheran warnt die USA, während der 14-Punkte-Plan in Kraft tritt"
+        "zh": "索马里警告以色列不要干涉索马里兰",
+        "en": "Somalia warns Israel against meddling in Somaliland",
+        "de": "Somalia warnt Israel vor Einmischung in Somaliland"
       },
       "summary": {
-        "zh": "伊朗与美国达成的协议生效，但在实施过程中仍存在许多问题，德黑兰对此表示警告。",
-        "en": "The agreement between Iran and the US takes effect, but many questions remain regarding its implementation, prompting warnings from Tehran.",
-        "de": "Das Abkommen zwischen Iran und den USA tritt in Kraft, doch viele Fragen zur Umsetzung bleiben offen, was Teheran zu Warnungen veranlasst."
+        "zh": "索马里对以色列在索马里兰开设海外大使馆表示关注，并警告以色列不要干涉该地区事务。",
+        "en": "Somalia has expressed concern over Israel's establishment of an overseas embassy in Somaliland and warned against meddling in the region's affairs.",
+        "de": "Somalia hat Bedenken hinsichtlich der Errichtung einer Übersee-Botschaft Israels in Somaliland geäußert und vor einer Einmischung in die Angelegenheiten der Region gewarnt."
       },
       "source": "Al Jazeera",
       "date": "2026-06-18",
-      "url": "https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "凯文·沃什首次会议的五大要点",
+        "zh": "英格兰银行在伊朗战争和平前景中将利率保持在3.75%",
+        "en": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
+        "de": "Bank of England hält die Zinssätze bei 3,75 % angesichts der Friedensaussichten im Iran-Krieg"
+      },
+      "summary": {
+        "zh": "英格兰银行货币政策委员会以7比2的投票结果决定维持利率不变，反映出对伊朗战争和平前景的谨慎态度。",
+        "en": "The Bank of England's Monetary Policy Committee voted 7-2 to keep interest rates unchanged, reflecting a cautious stance amid prospects for peace in the Iran war.",
+        "de": "Der geldpolitische Ausschuss der Bank von England stimmte mit 7 zu 2 dafür, die Zinssätze unverändert zu lassen, was eine vorsichtige Haltung angesichts der Friedensaussichten im Iran-Krieg widerspiegelt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-06-18",
+      "url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "凯文·沃什首次会议的五个重要要点",
         "en": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
         "de": "Hier sind die fünf wichtigsten Erkenntnisse aus Kevin Warshs erster Sitzung als Fed-Vorsitzender"
       },
       "summary": {
-        "zh": "美联储主席凯文·沃什在首次会议上遵循了利率政策的既定脚本，市场反应积极。",
-        "en": "Federal Reserve Chairman Kevin Warsh followed the established script on interest rates during his first meeting, leading to a positive market response.",
-        "de": "Der Vorsitzende der Federal Reserve, Kevin Warsh, folgte bei seiner ersten Sitzung dem festgelegten Skript zu den Zinssätzen, was zu einer positiven Marktreaktion führte."
+        "zh": "美联储主席凯文·沃什在首次会议上遵循了利率的既定脚本，强调了未来的经济政策方向。",
+        "en": "Federal Reserve Chairman Kevin Warsh followed the established script on interest rates during his first meeting, emphasizing the direction of future economic policy.",
+        "de": "Der Vorsitzende der Federal Reserve, Kevin Warsh, folgte während seiner ersten Sitzung dem festgelegten Skript zu den Zinssätzen und betonte die Richtung der zukünftigen Wirtschaftspolitik."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-17",
       "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "英国5月通胀保持在2.8%",
-        "en": "UK inflation holds steady at 2.8% in May",
-        "de": "Die Inflation im Vereinigten Königreich bleibt im Mai bei 2,8 % stabil"
-      },
-      "summary": {
-        "zh": "英国5月的通胀率保持在2.8%，预计英格兰银行将在周四更新其货币政策。",
-        "en": "UK inflation remained steady at 2.8% in May, with the Bank of England expected to update its monetary policy on Thursday.",
-        "de": "Die Inflation im Vereinigten Königreich blieb im Mai stabil bei 2,8 %, wobei die Bank von England am Donnerstag ihre Geldpolitik aktualisieren soll."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-06-17",
-      "url": "https://www.cnbc.com/2026/06/17/inflation-uk-cpi-interest-rates-bank-of-england.html"
-    },
-    {
       "id": "stk-3",
       "title": {
         "zh": "三艘伊朗油轮首次突破美国封锁",
         "en": "Three Iranian tankers exit U.S. blockade for first time in months as shipowners eye Hormuz in 'wary disbelief'",
-        "de": "Drei iranische Tanker verlassen zum ersten Mal seit Monaten die US-Blockade, während Schiffseigner mit 'vorsichtiger Ungläubigkeit' auf Hormuz blicken"
+        "de": "Drei iranische Tanker verlassen die US-Blockade zum ersten Mal seit Monaten, während Schiffsbesitzer mit ‚vorsichtiger Ungläubigkeit‘ auf Hormuz blicken"
       },
       "summary": {
-        "zh": "三艘载有近500万桶原油的伊朗油轮首次突破美国海军封锁，市场对此反应谨慎。",
-        "en": "Three Iranian tankers carrying nearly five million barrels of crude oil have exited the U.S. Navy blockade for the first time in months, with the market responding cautiously.",
-        "de": "Drei iranische Tanker, die fast fünf Millionen Barrel Rohöl transportieren, haben die US-Marine-Blockade zum ersten Mal seit Monaten verlassen, wobei der Markt vorsichtig reagiert."
+        "zh": "三艘伊朗油轮在数月后首次突破美国海军封锁，标志着局势的重大变化。",
+        "en": "Three Iranian tankers have exited the U.S. Navy blockade for the first time in months, marking a significant shift in the situation.",
+        "de": "Drei iranische Tanker haben die Blockade der US-Marine zum ersten Mal seit Monaten verlassen, was einen bedeutenden Wandel in der Situation markiert."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-17",
