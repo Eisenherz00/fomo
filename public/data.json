@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-18T18:38:57.712546+00:00",
+  "generatedAt": "2026-06-19T09:20:42.511646+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：寻找暗物质的新猎手和肯尼亚的太阳能案例",
-        "en": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
-        "de": "Der Download: eine neue Jagd nach dunkler Materie und Kenias Fall für Solarenergie"
+        "zh": "微软发现新的轻量级后门，窃取加密货币",
+        "en": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+        "de": "Microsoft entdeckt neuen leichten Hintertür, der Kryptowährung stiehlt"
       },
       "summary": {
-        "zh": "今天的下载涵盖了寻找暗物质的新进展，以及肯尼亚如何利用太阳能来解决电力不足的问题。",
-        "en": "Today's Download covers new developments in the hunt for dark matter and how Kenya is leveraging solar energy to address power shortages.",
-        "de": "Der heutige Download behandelt neue Entwicklungen bei der Jagd nach dunkler Materie und wie Kenia Solarenergie nutzt, um Stromengpässe zu beheben."
+        "zh": "微软发现了一种新的自我传播恶意软件Crypto Clipper，该软件通过USB传播并通过Tor进行通信。",
+        "en": "Microsoft has discovered a new self-propagating malware, Crypto Clipper, which spreads via USB and communicates over Tor.",
+        "de": "Microsoft hat eine neue selbstverbreitende Malware, Crypto Clipper, entdeckt, die sich über USB verbreitet und über Tor kommuniziert."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-06-18",
-      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/"
+      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "地球工程仍面临重大实际挑战",
-        "en": "Geoengineering still faces major practical challenges",
-        "de": "Geoengineering steht weiterhin vor großen praktischen Herausforderungen"
+        "zh": "苹果修复Beats Studio Buds中的高严重性窃听漏洞",
+        "en": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+        "de": "Apple behebt hochgradige Abhöranfälligkeit in Beats Studio Buds"
       },
       "summary": {
-        "zh": "地球工程作为应对气候紧急情况的手段，面临着许多实际挑战，尤其是在技术和实施方面。",
-        "en": "Geoengineering, often seen as a means to address climate emergencies, faces numerous practical challenges, particularly in terms of technology and implementation.",
-        "de": "Geoengineering, oft als Mittel zur Bewältigung von Klimanotfällen angesehen, steht vor zahlreichen praktischen Herausforderungen, insbesondere in Bezug auf Technologie und Umsetzung."
+        "zh": "苹果公司修复了一个影响多个制造商的高严重性窃听漏洞，该漏洞在12个月前被披露。",
+        "en": "Apple has patched a high-severity eavesdropping vulnerability affecting multiple manufacturers, disclosed 12 months ago.",
+        "de": "Apple hat eine hochgradige Abhöranfälligkeit behoben, die mehrere Hersteller betrifft und vor 12 Monaten offengelegt wurde."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-06-18",
-      "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/"
+      "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "寻找暗物质的探索已被大大扩展",
-        "en": "The search for dark matter has been blown wide open",
-        "de": "Die Suche nach dunkler Materie wurde stark ausgeweitet"
+        "zh": "“危险”的AI模型即将到来，无论如何",
+        "en": "Dangerous AI models are coming no matter what",
+        "de": "Gefährliche KI-Modelle kommen auf jeden Fall"
       },
       "summary": {
-        "zh": "在意大利阿彭宁山脉和中国四川的金平山下，暗物质的探索正在进行中，科学家们希望找到新的线索。",
-        "en": "Underneath the Apennine massif in Italy and the Jinping Mountains in Sichuan, the search for dark matter is underway, with scientists hoping to uncover new clues.",
-        "de": "Unter dem Apennin-Massiv in Italien und den Jinping-Bergen in Sichuan läuft die Suche nach dunkler Materie, wobei Wissenschaftler hoffen, neue Hinweise zu finden."
+        "zh": "具有先进黑客能力的AI模型将很快成为常态，尽管存在许多风险。",
+        "en": "AI models with advanced hacking capabilities will soon become the norm, despite numerous risks.",
+        "de": "KI-Modelle mit fortschrittlichen Hacking-Fähigkeiten werden bald zur Norm, trotz zahlreicher Risiken."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-06-18",
-      "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"
+      "source": "Ars Technica – AI",
+      "date": "2026-06-17",
+      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "巴基斯坦签署美伊谅解备忘录",
-        "en": "Pakistan signs US-Iran MoU",
-        "de": "Pakistan unterzeichnet US-Iran-MoU"
+        "zh": "美国在东太平洋打击涉嫌毒品走私的船只，造成3人死亡",
+        "en": "US kills 3 in strike on alleged drug smuggling boat in Eastern Pacific",
+        "de": "US tötet 3 bei Angriff auf mutmaßliches Drogen-Schmuggelboot im östlichen Pazifik"
       },
       "summary": {
-        "zh": "巴基斯坦总理谢赫巴兹·沙里夫签署了一项旨在结束战争的美伊谅解备忘录。",
-        "en": "Pakistan's Prime Minister Shehbaz Sharif signed a memorandum of understanding with the US and Iran aimed at ending the war.",
-        "de": "Pakistans Premierminister Shehbaz Sharif unterzeichnete ein Memorandum of Understanding mit den USA und dem Iran, das darauf abzielt, den Krieg zu beenden."
+        "zh": "美国对涉嫌由“毒品恐怖分子”运营的船只进行的攻击是近期一系列打击行动中的最新一起。",
+        "en": "The US attack on a vessel allegedly operated by 'narco-terrorists' is the latest in a series of strikes.",
+        "de": "Der US-Angriff auf ein angeblich von 'Drogen-Terroristen' betriebenes Schiff ist der jüngste in einer Reihe von Angriffen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss"
+      "date": "2026-06-19",
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-kills-3-in-strike-on-alleged-drug-smuggling-boat-in-eastern-pacific?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列因“种族隔离”言论与欧盟高级外交官断交",
-        "en": "Israel says cutting ties with top EU diplomat over ‘apartheid’ comments",
-        "de": "Israel kündigt die Beziehungen zu hochrangigem EU-Diplomaten wegen ‚Apartheid‘-Äußerungen"
+        "zh": "伊朗因以色列袭击黎巴嫩而推迟与美国的谈判",
+        "en": "US-Iran talks postponed as Israel attacks Lebanon",
+        "de": "US-Iran-Gespräche verschoben, da Israel Libanon angreift"
       },
       "summary": {
-        "zh": "以色列政府因欧盟高级外交官对其政策的“种族隔离”评论而决定断交。",
-        "en": "The Israeli government has decided to cut ties with a top EU diplomat over comments labeling its policies as 'apartheid'.",
-        "de": "Die israelische Regierung hat beschlossen, die Beziehungen zu einem hochrangigen EU-Diplomaten wegen Äußerungen zu beenden, die ihre Politik als 'Apartheid' bezeichnen."
+        "zh": "由于以色列对南黎巴嫩的持续攻击，德黑兰推迟了与美国的谈判以巩固停火。",
+        "en": "Tehran has postponed talks with the US to cement a ceasefire due to ongoing Israeli attacks on southern Lebanon.",
+        "de": "Teheran hat die Gespräche mit den USA zur Festigung eines Waffenstillstands aufgrund anhaltender israelischer Angriffe auf den Süden Libanons verschoben."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-18",
-      "url": "https://www.aljazeera.com/news/2026/6/18/israel-says-cutting-ties-with-top-eu-diplomat-over-apartheid-comments?traffic_source=rss"
+      "date": "2026-06-19",
+      "url": "https://www.aljazeera.com/news/2026/6/19/us-iran-talks-postponed-as-israel-attacks-lebanon?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "索马里警告以色列不要干涉索马里兰",
-        "en": "Somalia warns Israel against meddling in Somaliland",
-        "de": "Somalia warnt Israel vor Einmischung in Somaliland"
+        "zh": "津巴布韦国会议员通过法案以延长总统任期",
+        "en": "Zimbabwe MPs pass bill to extend president's time in power",
+        "de": "Zimbabwe MPs verabschieden Gesetz zur Verlängerung der Amtszeit des Präsidenten"
       },
       "summary": {
-        "zh": "索马里对以色列在索马里兰开设海外大使馆表示关注，并警告以色列不要干涉该地区事务。",
-        "en": "Somalia has expressed concern over Israel's establishment of an overseas embassy in Somaliland and warned against meddling in the region's affairs.",
-        "de": "Somalia hat Bedenken hinsichtlich der Errichtung einer Übersee-Botschaft Israels in Somaliland geäußert und vor einer Einmischung in die Angelegenheiten der Region gewarnt."
+        "zh": "该提案将延长埃默森·姆南加古瓦的任期两年，并取消直接总统选举。",
+        "en": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
+        "de": "Der Vorschlag würde die Amtszeit von Emmerson Mnangagwa um zwei Jahre verlängern und direkte Präsidentschaftswahlen abschaffen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/somalia-warns-israel-against-meddling-in-somaliland?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-06-19",
+      "url": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "英格兰银行在伊朗战争和平前景中将利率保持在3.75%",
-        "en": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
-        "de": "Bank of England hält die Zinssätze bei 3,75 % angesichts der Friedensaussichten im Iran-Krieg"
+        "zh": "霍尔木兹海峡的缓解可能无法减轻已经“烘焙”的经济损失，分析师警告",
+        "en": "Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn",
+        "de": "Die Entlastung des Hormuz könnte die bereits 'eingebackenen' wirtschaftlichen Schäden nicht mindern, warnen Analysten"
       },
       "summary": {
-        "zh": "英格兰银行货币政策委员会以7比2的投票结果决定维持利率不变，反映出对伊朗战争和平前景的谨慎态度。",
-        "en": "The Bank of England's Monetary Policy Committee voted 7-2 to keep interest rates unchanged, reflecting a cautious stance amid prospects for peace in the Iran war.",
-        "de": "Der geldpolitische Ausschuss der Bank von England stimmte mit 7 zu 2 dafür, die Zinssätze unverändert zu lassen, was eine vorsichtige Haltung angesichts der Friedensaussichten im Iran-Krieg widerspiegelt."
+        "zh": "分析师警告，霍尔木兹海峡的重新开放虽然缓解了全球能源供应的威胁，但战争造成的经济损失将持续存在。",
+        "en": "Analysts warn that while the reopening of the Strait of Hormuz alleviates the threat to global energy supplies, the economic damages from the war will persist.",
+        "de": "Analysten warnen, dass die Wiedereröffnung der Straße von Hormuz zwar die Bedrohung für die globalen Energieversorgung verringert, die wirtschaftlichen Schäden durch den Krieg jedoch bestehen bleiben werden."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-18",
-      "url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html"
+      "date": "2026-06-19",
+      "url": "https://www.cnbc.com/2026/06/19/hormuz-relief-may-not-ease-the-economic-toll-thats-already-baked-in-analysts-warn.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "凯文·沃什首次会议的五个重要要点",
-        "en": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
-        "de": "Hier sind die fünf wichtigsten Erkenntnisse aus Kevin Warshs erster Sitzung als Fed-Vorsitzender"
+        "zh": "特朗普称伊朗协议是“无条件投降”，表示他的权力“没有限制”",
+        "en": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits'",
+        "de": "Trump behauptet, das Iran-Abkommen sei 'bedingungslose Kapitulation', und sagt, seine Macht habe 'keine Grenzen'"
       },
       "summary": {
-        "zh": "美联储主席凯文·沃什在首次会议上遵循了利率的既定脚本，强调了未来的经济政策方向。",
-        "en": "Federal Reserve Chairman Kevin Warsh followed the established script on interest rates during his first meeting, emphasizing the direction of future economic policy.",
-        "de": "Der Vorsitzende der Federal Reserve, Kevin Warsh, folgte während seiner ersten Sitzung dem festgelegten Skript zu den Zinssätzen und betonte die Richtung der zukünftigen Wirtschaftspolitik."
+        "zh": "特朗普在接受Axios采访时表示，他谈判达成的协议旨在防止冲突引发全球经济衰退。",
+        "en": "In an interview with Axios, Trump stated that the deal he negotiated aims to prevent the conflict from triggering a global depression.",
+        "de": "In einem Interview mit Axios erklärte Trump, dass das von ihm ausgehandelte Abkommen darauf abzielt, zu verhindern, dass der Konflikt eine globale Depression auslöst."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-17",
-      "url": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html"
+      "date": "2026-06-19",
+      "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "三艘伊朗油轮首次突破美国封锁",
-        "en": "Three Iranian tankers exit U.S. blockade for first time in months as shipowners eye Hormuz in 'wary disbelief'",
-        "de": "Drei iranische Tanker verlassen die US-Blockade zum ersten Mal seit Monaten, während Schiffsbesitzer mit ‚vorsichtiger Ungläubigkeit‘ auf Hormuz blicken"
+        "zh": "英格兰银行在伊朗战争和平前景中将利率保持在3.75%",
+        "en": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
+        "de": "Bank of England hält die Zinssätze bei 3,75 % angesichts der Friedensperspektiven im Iran-Krieg"
       },
       "summary": {
-        "zh": "三艘伊朗油轮在数月后首次突破美国海军封锁，标志着局势的重大变化。",
-        "en": "Three Iranian tankers have exited the U.S. Navy blockade for the first time in months, marking a significant shift in the situation.",
-        "de": "Drei iranische Tanker haben die Blockade der US-Marine zum ersten Mal seit Monaten verlassen, was einen bedeutenden Wandel in der Situation markiert."
+        "zh": "英格兰银行货币政策委员会以7-2的投票结果决定维持利率不变。",
+        "en": "The Bank of England's Monetary Policy Committee voted 7-2 to keep interest rates on hold.",
+        "de": "Der geldpolitische Ausschuss der Bank von England stimmte mit 7 zu 2 dafür, die Zinssätze unverändert zu lassen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-17",
-      "url": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html"
+      "date": "2026-06-18",
+      "url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html"
     }
   ]
 }
