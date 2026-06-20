@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T18:12:54.197267+00:00",
+  "generatedAt": "2026-06-20T08:03:33.770451+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Debatten über KI-Flaschenhälse und BCI-Tests nehmen Fahrt auf"
       },
       "summary": {
-        "zh": "今天的《下载》报道了AI瓶颈的争论以及脑机接口（BCI）试验的进展。这些技术的突破可能会改变我们与机器的互动方式。",
-        "en": "Today's edition of The Download covers debates around AI bottlenecks and the progress of brain-computer interface (BCI) trials. Breakthroughs in these technologies could change how we interact with machines.",
-        "de": "Die heutige Ausgabe des Downloads behandelt Debatten über KI-Flaschenhälse und den Fortschritt von Gehirn-Computer-Schnittstellen (BCI)-Tests. Durchbrüche in diesen Technologien könnten unsere Interaktion mit Maschinen verändern."
+        "zh": "今天的《下载》报道了技术领域的最新动态，包括AI瓶颈的辩论和脑机接口（BCI）试验的进展。",
+        "en": "Today's edition of The Download covers the latest happenings in technology, including debates on AI bottlenecks and advancements in brain-computer interface (BCI) trials.",
+        "de": "Die heutige Ausgabe des Downloads behandelt die neuesten Entwicklungen in der Technologie, einschließlich Debatten über KI-Flaschenhälse und Fortschritte bei den Gehirn-Computer-Schnittstellen (BCI)-Tests."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-19",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "一家初创公司声称突破了限制LLM的瓶颈",
+        "zh": "一家初创公司声称突破了阻碍LLM发展的瓶颈",
         "en": "A startup claims it broke through a bottleneck that’s holding back LLMs",
         "de": "Ein Startup behauptet, es habe einen Flaschenhals durchbrochen, der LLMs zurückhält"
       },
       "summary": {
-        "zh": "迈阿密的AI初创公司Subquadratic声称已解决限制大型语言模型（LLM）的数学瓶颈。这一突破可能会推动LLM的进一步发展。",
-        "en": "Miami-based AI startup Subquadratic claims to have solved a mathematical bottleneck that has been holding back large language models (LLMs). This breakthrough could accelerate the development of LLMs.",
-        "de": "Das in Miami ansässige KI-Startup Subquadratic behauptet, einen mathematischen Flaschenhals gelöst zu haben, der große Sprachmodelle (LLMs) zurückhält. Dieser Durchbruch könnte die Entwicklung von LLMs beschleunigen."
+        "zh": "迈阿密的AI初创公司Subquadratic声称已解决了一个数学瓶颈，这一突破可能会推动大型语言模型（LLMs）的发展。",
+        "en": "Miami-based AI startup Subquadratic claims to have solved a mathematical bottleneck that could propel the development of large language models (LLMs).",
+        "de": "Das in Miami ansässige KI-Startup Subquadratic behauptet, einen mathematischen Flaschenhals gelöst zu haben, der die Entwicklung großer Sprachmodelle (LLMs) vorantreiben könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-19",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "脑机接口试验正在起飞",
         "en": "Brain-computer interface trials are taking off",
-        "de": "Gehirn-Computer-Schnittstellen-Tests nehmen Fahrt auf"
+        "de": "Versuche mit Gehirn-Computer-Schnittstellen nehmen Fahrt auf"
       },
       "summary": {
-        "zh": "本周的报道聚焦于ALS患者Casey Harrell，他成为首位使用脑植入物的用户。这项技术的进展可能为神经疾病患者带来新的希望。",
-        "en": "This week's coverage focuses on Casey Harrell, an ALS patient who is the first power user of a brain implant. The progress of this technology may bring new hope to patients with neurological diseases.",
-        "de": "Die Berichterstattung dieser Woche konzentriert sich auf Casey Harrell, einen ALS-Patienten, der der erste Power-User eines Gehirnimplantats ist. Der Fortschritt dieser Technologie könnte Patienten mit neurologischen Erkrankungen neue Hoffnung bringen."
+        "zh": "本周，报道了ALS患者Casey Harrell成为脑植入物的“首位重度用户”，标志着脑机接口试验的重大进展。",
+        "en": "This week, the story of Casey Harrell, an ALS patient who is the 'first power user' of a brain implant, marks a significant advancement in brain-computer interface trials.",
+        "de": "In dieser Woche markiert die Geschichte von Casey Harrell, einem ALS-Patienten, der der 'erste Power-User' eines Gehirnimplantats ist, einen bedeutenden Fortschritt bei den Versuchen mit Gehirn-Computer-Schnittstellen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-19",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "超过70名医务人员感染埃博拉，刚果（金）疫情迅速蔓延",
-        "en": "More than 70 medics infected with Ebola as DRC outbreak spreads ‘fast’",
-        "de": "Mehr als 70 Mediziner mit Ebola infiziert, da sich der Ausbruch in der DR Kongo 'schnell' ausbreitet"
+        "zh": "黎巴嫩海龟倡导者莫娜·哈利尔在以色列袭击后去世",
+        "en": "Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack",
+        "de": "Mona Khalil, Libanons Schildkrötenanwältin, stirbt nach israelischem Angriff"
       },
       "summary": {
-        "zh": "刚果（金）埃博拉疫情加速传播，超过70名医务人员感染。援助削减和卫生条件差加剧了人们的担忧。",
-        "en": "The Ebola outbreak in the Democratic Republic of Congo is spreading rapidly, with more than 70 medics infected. Aid cuts and poor sanitation are exacerbating fears.",
-        "de": "Der Ebola-Ausbruch in der Demokratischen Republik Kongo breitet sich schnell aus, mehr als 70 Mediziner sind infiziert. Hilfskürzungen und schlechte sanitäre Bedingungen verschärfen die Ängste."
+        "zh": "莫娜·哈利尔在以色列袭击后去世，她在南黎巴嫩保护濒危海龟的巢穴超过二十年。",
+        "en": "Mona Khalil passed away following an Israeli attack; she dedicated over two decades to protecting the nests of endangered turtles in southern Lebanon.",
+        "de": "Mona Khalil starb nach einem israelischen Angriff; sie widmete über zwei Jahrzehnte dem Schutz der Nester bedrohter Schildkröten im Süden Libanons."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-19",
-      "url": "https://www.aljazeera.com/news/2026/6/19/more-than-70-medics-infected-with-ebola-as-drc-outbreak-spreads-fast?traffic_source=rss"
+      "date": "2026-06-20",
+      "url": "https://www.aljazeera.com/news/2026/6/20/mona-khalil-lebanons-turtle-advocate-dies-after-israeli-attack?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "意大利外交部长在梅洛尼称特朗普编造故事后取消美国之行",
-        "en": "Italy’s top diplomat nixes US trip after Meloni says Trump fabricated story",
-        "de": "Italiens oberster Diplomat sagt US-Reise ab, nachdem Meloni sagt, Trump habe Geschichte erfunden"
+        "zh": "澳大利亚承诺采取行动应对H5N1禽流感病例确认",
+        "en": "Australia pledges action on H5N1 after bird flu case confirmed",
+        "de": "Australien verspricht Maßnahmen gegen H5N1 nach Bestätigung eines Vogelgrippefalls"
       },
       "summary": {
-        "zh": "意大利外交部长在总理梅洛尼指责特朗普编造故事后，取消了前往美国的行程。这一事件反映了两国关系的紧张。",
-        "en": "Italy's foreign minister canceled a trip to the U.S. after Prime Minister Meloni accused Trump of fabricating a story. This incident reflects the growing tension in bilateral relations.",
-        "de": "Italiens Außenminister hat eine Reise in die USA abgesagt, nachdem Ministerpräsidentin Meloni Trump beschuldigt hat, eine Geschichte erfunden zu haben. Dieser Vorfall spiegelt die wachsenden Spannungen in den bilateralen Beziehungen wider."
+        "zh": "澳大利亚确认了其首例H5N1禽流感病例，并承诺采取相应措施以应对这一公共卫生威胁。",
+        "en": "Australia confirmed its first H5N1 bird flu case and pledged to take appropriate measures to address this public health threat.",
+        "de": "Australien bestätigte seinen ersten Fall von H5N1-Vogelgrippe und versprach, geeignete Maßnahmen zu ergreifen, um dieser Bedrohung der öffentlichen Gesundheit zu begegnen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-19",
-      "url": "https://www.aljazeera.com/news/2026/6/19/italys-top-diplomat-nixes-us-trip-after-meloni-says-trump-fabricated-story?traffic_source=rss"
+      "date": "2026-06-20",
+      "url": "https://www.aljazeera.com/news/2026/6/20/australia-pledges-action-on-h5n1-after-bird-flu-case-confirmed?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列空袭黎巴嫩，停火几分钟后发生",
-        "en": "Israeli air strikes hit Lebanon minutes after new ceasefire",
-        "de": "Israelische Luftangriffe treffen Libanon Minuten nach neuem Waffenstillstand"
+        "zh": "美国特使前往瑞士，以色列对黎巴嫩的袭击威胁谈判",
+        "en": "US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks",
+        "de": "US-Vertreter auf dem Weg in die Schweiz, israelische Angriffe auf den Libanon bedrohen Gespräche"
       },
       "summary": {
-        "zh": "在以色列和真主党达成新停火几分钟后，黎巴嫩南部发生了爆炸。这一事件加剧了地区紧张局势。",
-        "en": "Minutes after a new ceasefire was reached between Israel and Hezbollah, explosions were reported in southern Lebanon. This incident escalates regional tensions.",
-        "de": "Minuten nach dem Erreichen eines neuen Waffenstillstands zwischen Israel und der Hisbollah wurden Explosionen im Süden Libanons gemeldet. Dieser Vorfall eskaliert die regionalen Spannungen."
+        "zh": "美国媒体报道，特使Witkoff和Kushner正准备与伊朗进行谈判，但以色列对黎巴嫩的袭击可能会威胁到这些谈判。",
+        "en": "US media reports that envoys Witkoff and Kushner are preparing for negotiations with Iran, but Israeli strikes on Lebanon may jeopardize these talks.",
+        "de": "US-Medien berichten, dass die Gesandten Witkoff und Kushner sich auf Verhandlungen mit dem Iran vorbereiten, aber israelische Angriffe auf den Libanon könnten diese Gespräche gefährden."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israeli-air-strikes-hit-lebanon-minutes-after-new-ceasefire?traffic_source=rss"
+      "date": "2026-06-20",
+      "url": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "寻找工作困难？试试内华达州",
+        "zh": "在内华达州找工作很困难？试试这里",
         "en": "Struggling to find a job? Try looking in Nevada",
         "de": "Schwierigkeiten, einen Job zu finden? Versuchen Sie es in Nevada"
       },
       "summary": {
-        "zh": "内华达州因其世界级赌场和干燥气候而闻名，成为招聘热点。该州的就业市场正在蓬勃发展。",
-        "en": "Nevada, known for its world-class casinos and dry climate, has become a hiring hotspot. The job market in the state is thriving.",
-        "de": "Nevada, bekannt für seine erstklassigen Casinos und das trockene Klima, hat sich zu einem Hotspot für Einstellungen entwickelt. Der Arbeitsmarkt im Bundesstaat floriert."
+        "zh": "内华达州以其世界级的赌场和干燥的气候而闻名，成为了一个招聘热点，吸引了许多求职者。",
+        "en": "Nevada, known for its world-class casinos and dry climate, has become a hiring hotspot, attracting many job seekers.",
+        "de": "Nevada, bekannt für seine erstklassigen Casinos und das trockene Klima, hat sich zu einem Einstellungs-Hotspot entwickelt und zieht viele Arbeitssuchende an."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-19",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "霍尔木兹海峡的缓解可能无法减轻已经“烘焙”的经济损失，分析师警告",
+        "zh": "霍尔木兹海的缓解措施可能无法减轻已“烘焙”的经济损失",
         "en": "Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn",
-        "de": "Die Entlastung im Hormuz könnte die bereits 'eingebackenen' wirtschaftlichen Schäden nicht mindern, warnen Analysten"
+        "de": "Erleichterungen in Hormuz könnten die bereits 'eingebackenen' wirtschaftlichen Kosten nicht mindern, warnen Analysten"
       },
       "summary": {
-        "zh": "分析师警告，霍尔木兹海峡的重新开放可能无法减轻由于战争造成的经济损失。这些损失可能已经在市场中反映出来。",
-        "en": "Analysts warn that the reopening of the Strait of Hormuz may not alleviate the economic damages caused by the war. These damages may already be baked into the market.",
-        "de": "Analysten warnen, dass die Wiedereröffnung der Straße von Hormuz die durch den Krieg verursachten wirtschaftlichen Schäden möglicherweise nicht lindern kann. Diese Schäden könnten bereits im Markt eingepreist sein."
+        "zh": "分析师警告，霍尔木兹海的重新开放虽然减轻了全球能源供应的威胁，但战争造成的经济损失可能无法逆转。",
+        "en": "Analysts warn that while the reopening of the Strait of Hormuz alleviates the threat to global energy supplies, the economic damages from the war may be irreversible.",
+        "de": "Analysten warnen, dass die Wiedereröffnung der Straße von Hormuz zwar die Bedrohung für die globalen Energieversorgung verringert, die wirtschaftlichen Schäden durch den Krieg jedoch möglicherweise irreversibel sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-19",
@@ -141,9 +141,9 @@
         "de": "Trump behauptet, das Iran-Abkommen sei 'bedingungslose Kapitulation', und sagt, seine Macht habe 'keine Grenzen'"
       },
       "summary": {
-        "zh": "特朗普在接受Axios采访时表示，他认为与伊朗达成的协议是无条件投降，并声称自己的权力没有限制。这一言论可能影响市场情绪。",
-        "en": "In an interview with Axios, Trump stated that he views the deal with Iran as an unconditional surrender and claimed that his power has no limits. This statement could impact market sentiment.",
-        "de": "In einem Interview mit Axios erklärte Trump, dass er das Abkommen mit dem Iran als bedingungslose Kapitulation ansieht und behauptete, seine Macht habe keine Grenzen. Diese Aussage könnte die Marktstimmung beeinflussen."
+        "zh": "特朗普在接受Axios采访时表示，他谈判达成的伊朗协议是为了防止冲突引发全球经济衰退。",
+        "en": "In an interview with Axios, Trump stated that the Iran deal he negotiated was intended to prevent the conflict from triggering a global recession.",
+        "de": "In einem Interview mit Axios erklärte Trump, dass das von ihm ausgehandelte Iran-Abkommen dazu gedacht sei, zu verhindern, dass der Konflikt eine globale Rezession auslöst."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-19",
