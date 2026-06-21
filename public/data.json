@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T08:46:47.309707+00:00",
+  "generatedAt": "2026-06-21T17:59:13.411266+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Debatten über KI-Engpässe und BCI-Tests nehmen Fahrt auf"
       },
       "summary": {
-        "zh": "今天的《下载》报道了人工智能领域的瓶颈辩论以及脑机接口试验的进展。这些技术的发展可能会对未来的科技产生深远影响。",
-        "en": "Today's edition of The Download covers the debates surrounding AI bottlenecks and the progress of brain-computer interface trials. The advancements in these technologies could have significant implications for the future of technology.",
-        "de": "Die heutige Ausgabe des Downloads behandelt die Debatten über KI-Engpässe und den Fortschritt der Gehirn-Computer-Schnittstellen-Tests. Die Fortschritte in diesen Technologien könnten erhebliche Auswirkungen auf die Zukunft der Technologie haben."
+        "zh": "今天的《下载》报告了人工智能领域的最新动态，包括对当前瓶颈的讨论和脑机接口试验的进展。",
+        "en": "Today's edition of The Download covers the latest happenings in the AI field, including discussions on current bottlenecks and advancements in brain-computer interface trials.",
+        "de": "Die heutige Ausgabe von The Download behandelt die neuesten Entwicklungen im KI-Bereich, einschließlich Diskussionen über aktuelle Engpässe und Fortschritte bei den Tests von Gehirn-Computer-Schnittstellen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-19",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "一家初创公司声称突破了阻碍大型语言模型的瓶颈",
         "en": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-        "de": "Ein Startup behauptet, es habe einen Engpass durchbrochen, der LLMs zurückhält"
+        "de": "Ein Startup behauptet, es habe einen Engpass überwunden, der LLMs zurückhält"
       },
       "summary": {
-        "zh": "迈阿密的初创公司Subquadratic声称已解决一个数学瓶颈，这一突破可能会推动大型语言模型的进一步发展。",
-        "en": "Miami-based startup Subquadratic claims to have solved a mathematical bottleneck, a breakthrough that could propel the further development of large language models.",
-        "de": "Das in Miami ansässige Startup Subquadratic behauptet, einen mathematischen Engpass gelöst zu haben, einen Durchbruch, der die weitere Entwicklung großer Sprachmodelle vorantreiben könnte."
+        "zh": "迈阿密的初创公司Subquadratic宣布其突破了阻碍大型语言模型发展的数学瓶颈，这一声明引起了广泛关注。",
+        "en": "Miami-based startup Subquadratic announced that it has solved a mathematical bottleneck hindering the development of large language models, drawing significant attention.",
+        "de": "Das in Miami ansässige Startup Subquadratic gab bekannt, dass es einen mathematischen Engpass gelöst hat, der die Entwicklung großer Sprachmodelle behindert, was große Aufmerksamkeit erregte."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-19",
@@ -41,9 +41,9 @@
         "de": "Versuche mit Gehirn-Computer-Schnittstellen nehmen Fahrt auf"
       },
       "summary": {
-        "zh": "本周的报道关注了ALS患者Casey Harrell，他成为脑植入物的“首位重度用户”。这一技术的进展为脑机接口的应用带来了新的希望。",
-        "en": "This week's coverage highlights Casey Harrell, an ALS patient who is described as the 'first power user' of a brain implant. The progress of this technology brings new hope for the application of brain-computer interfaces.",
-        "de": "Die Berichterstattung dieser Woche hebt Casey Harrell hervor, einen ALS-Patienten, der als 'erster Power-User' eines Gehirnimplantats beschrieben wird. Der Fortschritt dieser Technologie bringt neue Hoffnung für die Anwendung von Gehirn-Computer-Schnittstellen."
+        "zh": "本周的报道聚焦于ALS患者Casey Harrell，他成为脑植入物的首位“重度用户”，标志着脑机接口技术的重大进展。",
+        "en": "This week's coverage focuses on Casey Harrell, an ALS patient who is the first 'power user' of a brain implant, marking a significant advancement in brain-computer interface technology.",
+        "de": "Die Berichterstattung dieser Woche konzentriert sich auf Casey Harrell, einen ALS-Patienten, der der erste 'Power-User' eines Gehirnimplantats ist, was einen bedeutenden Fortschritt in der Technologie der Gehirn-Computer-Schnittstellen darstellt."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-19",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国和伊朗在瑞士面临生死攸关的谈判",
-        "en": "US and Iran face make-or-break talks in Switzerland",
-        "de": "USA und Iran stehen vor entscheidenden Gesprächen in der Schweiz"
+        "zh": "伊朗武装部队称已关闭霍尔木兹海峡",
+        "en": "What’s next in the Strait of Hormuz crisis?",
+        "de": "Was kommt als Nächstes in der Krise der Straße von Hormuz?"
       },
       "summary": {
-        "zh": "美国和伊朗官员将在瑞士进行高风险谈判，以加强谅解备忘录。这次谈判可能会对两国关系产生重大影响。",
-        "en": "US and Iranian officials are set for high-stakes talks in Switzerland to reinforce the Memorandum of Understanding. This negotiation could have significant implications for the relationship between the two countries.",
-        "de": "US-amerikanische und iranische Beamte stehen vor entscheidenden Gesprächen in der Schweiz, um das Memorandum of Understanding zu stärken. Diese Verhandlungen könnten erhebliche Auswirkungen auf die Beziehungen zwischen den beiden Ländern haben."
+        "zh": "伊朗武装部队在以色列对黎巴嫩的攻击后宣布关闭霍尔木兹海峡，局势紧张升级，国际社会密切关注事态发展。",
+        "en": "Iranian armed forces announced the closure of the Strait of Hormuz following Israeli attacks on Lebanon, escalating tensions and drawing close international scrutiny.",
+        "de": "Die iranischen Streitkräfte gaben die Schließung der Straße von Hormuz nach israelischen Angriffen auf den Libanon bekannt, was die Spannungen verschärft und internationale Aufmerksamkeit auf sich zieht."
       },
       "source": "Al Jazeera",
       "date": "2026-06-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-and-iran-face-make-or-break-talks-in-switzerland?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "Vance抵达瑞士进行美伊谈判",
-        "en": "Vance arrives in Switzerland for US-Iran talks",
-        "de": "Vance kommt in der Schweiz für US-Iran-Gespräche an"
+        "zh": "埃塞俄比亚总理的政党轻松赢得议会选举",
+        "en": "Ethiopian prime minister’s party easily wins parliamentary election",
+        "de": "Die Partei des äthiopischen Premierministers gewinnt die Parlamentswahl mühelos"
       },
       "summary": {
-        "zh": "双方寻求持久结束战争，同时伊朗指责以色列对黎巴嫩的攻击违反了临时协议。这次谈判的结果将对地区局势产生深远影响。",
-        "en": "Both nations seek a durable end to their war as Iran slams Israeli attacks on Lebanon as violations of the interim deal. The outcome of these talks will have far-reaching implications for the regional situation.",
-        "de": "Beide Nationen streben ein dauerhaftes Ende ihres Krieges an, während Iran die israelischen Angriffe auf den Libanon als Verstöße gegen das vorläufige Abkommen verurteilt. Das Ergebnis dieser Gespräche wird weitreichende Auswirkungen auf die regionale Lage haben."
+        "zh": "诺贝尔和平奖得主阿比·艾哈迈德的政党在议会选举中轻松获胜，但分析师警告埃塞俄比亚可能面临新的冲突。",
+        "en": "Nobel Peace Prize winner Abiy Ahmed's party won the parliamentary election easily, though analysts warn that Ethiopia may face renewed conflicts.",
+        "de": "Die Partei des Nobelpreisträgers Abiy Ahmed hat die Parlamentswahl mühelos gewonnen, obwohl Analysten warnen, dass Äthiopien vor erneuten Konflikten stehen könnte."
       },
       "source": "Al Jazeera",
       "date": "2026-06-21",
-      "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗战争第114天：美国和伊朗代表团在瑞士进行关键谈判",
-        "en": "Iran war day 114: US, Iranian delegations in Switzerland for key talks",
-        "de": "Iran-Krieg Tag 114: US-amerikanische und iranische Delegationen in der Schweiz zu wichtigen Gesprächen"
+        "zh": "美国和伊朗在瑞士进行初步和平协议谈判",
+        "en": "US and Iran begin talks on initial peace deal in Switzerland",
+        "de": "USA und Iran beginnen Gespräche über einen ersten Friedensvertrag in der Schweiz"
       },
       "summary": {
-        "zh": "美国和伊朗将在瑞士的Burgenstock进行谈判，黎巴嫩问题将成为议程的重中之重。这次谈判的结果可能会影响地区的稳定。",
-        "en": "The US and Iran will hold talks in Switzerland’s Burgenstock, with Lebanon topping the agenda. The outcome of these negotiations could impact regional stability.",
-        "de": "Die USA und der Iran werden in der Burgenstock in der Schweiz Gespräche führen, wobei der Libanon im Mittelpunkt der Agenda steht. Das Ergebnis dieser Verhandlungen könnte die regionale Stabilität beeinflussen."
+        "zh": "美国和伊朗在瑞士举行面对面会议，讨论初步和平协议，此次会议是在黎巴嫩持续冲突和伊朗关闭霍尔木兹海峡之后进行的。",
+        "en": "The US and Iran held face-to-face meetings in Switzerland to discuss an initial peace deal, following ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
+        "de": "Die USA und der Iran hielten in der Schweiz persönliche Gespräche ab, um einen ersten Friedensvertrag zu erörtern, nach den anhaltenden Kämpfen im Libanon und Irans Behauptung, die Straße von Hormuz geschlossen zu haben."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-06-21",
-      "url": "https://www.aljazeera.com/news/2026/6/21/iran-war-day-114-us-iranian-delegations-in-switzerland-for-key-talks?traffic_source=rss"
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "寻找工作困难？试试内华达州",
+        "zh": "寻找工作？试试内华达州",
         "en": "Struggling to find a job? Try looking in Nevada",
         "de": "Schwierigkeiten bei der Jobsuche? Versuchen Sie es in Nevada"
       },
       "summary": {
-        "zh": "内华达州因其世界级的赌场和干燥的气候而闻名，成为招聘热点。该州的就业市场正在蓬勃发展。",
-        "en": "Nevada, known for its world-class casinos and dry climate, has become a hiring hotspot. The job market in the state is thriving.",
-        "de": "Nevada, bekannt für seine erstklassigen Casinos und das trockene Klima, hat sich zu einem Hotspot für Einstellungen entwickelt. Der Arbeitsmarkt im Bundesstaat floriert."
+        "zh": "内华达州因其世界级赌场和干燥气候而闻名，成为招聘热点，吸引了大量求职者。",
+        "en": "Nevada, known for its world-class casinos and dry climate, has become a hiring hotspot, attracting a large number of job seekers.",
+        "de": "Nevada, bekannt für seine erstklassigen Casinos und das trockene Klima, hat sich zu einem Hotspot für Einstellungen entwickelt und zieht eine große Anzahl von Arbeitssuchenden an."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-19",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "霍尔木兹海峡的缓解可能不会减轻已经“烘焙”的经济损失，分析师警告",
+        "zh": "霍尔木兹海峡的缓解可能不会减轻已经“烘焙”的经济损失",
         "en": "Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn",
-        "de": "Die Entlastung des Hormuz könnte die bereits 'eingebackenen' wirtschaftlichen Schäden nicht mindern, warnen Analysten"
+        "de": "Die Entlastung von Hormuz könnte die wirtschaftlichen Schäden, die bereits 'eingebacken' sind, nicht mindern, warnen Analysten"
       },
       "summary": {
-        "zh": "分析师警告，霍尔木兹海峡的重新开放可能不会减轻战争造成的经济损失。这些损失已经被市场消化。",
-        "en": "Analysts warn that the reopening of the Strait of Hormuz may not alleviate the economic damages caused by the war, as these losses have already been priced in by the market.",
-        "de": "Analysten warnen, dass die Wiedereröffnung der Straße von Hormus die durch den Krieg verursachten wirtschaftlichen Schäden möglicherweise nicht mindern wird, da diese Verluste bereits vom Markt eingepreist wurden."
+        "zh": "分析师警告，尽管霍尔木兹海峡的重新开放缓解了全球能源供应的威胁，但战争造成的经济损失仍将持续。",
+        "en": "Analysts warn that while the reopening of the Strait of Hormuz alleviates the threat to global energy supplies, the economic damages from the war will persist.",
+        "de": "Analysten warnen, dass die Wiedereröffnung der Straße von Hormuz zwar die Bedrohung für die globalen Energieversorgung verringert, die wirtschaftlichen Schäden durch den Krieg jedoch bestehen bleiben werden."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-19",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "英国央行在伊朗战争和平前景中将利率保持在3.75%",
+        "zh": "英格兰银行在伊朗战争和平前景下维持利率不变",
         "en": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
-        "de": "Bank of England hält die Zinssätze angesichts der Friedensaussichten im Iran-Krieg bei 3,75%"
+        "de": "Die Bank von England hält die Zinssätze bei 3,75 % angesichts der Friedensaussichten im Iran-Krieg"
       },
       "summary": {
-        "zh": "英国央行货币政策委员会以7比2的投票结果决定维持利率不变，反映出对伊朗战争和平前景的谨慎态度。",
-        "en": "The Bank of England's Monetary Policy Committee voted 7-2 to keep interest rates on hold, reflecting a cautious stance regarding the prospects for peace in the Iran war.",
-        "de": "Der geldpolitische Ausschuss der Bank of England stimmte mit 7 zu 2 dafür, die Zinssätze unverändert zu lassen, was eine vorsichtige Haltung hinsichtlich der Friedensaussichten im Iran-Krieg widerspiegelt."
+        "zh": "英格兰银行货币政策委员会投票决定将利率保持在3.75%，以应对伊朗战争和平前景。",
+        "en": "The Bank of England's Monetary Policy Committee voted to keep interest rates at 3.75% in light of the peace prospects surrounding the Iran war.",
+        "de": "Der geldpolitische Ausschuss der Bank von England hat beschlossen, die Zinssätze angesichts der Friedensaussichten im Iran-Krieg bei 3,75 % zu belassen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-18",
