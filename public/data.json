@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-22T10:22:35.410824+00:00",
+  "generatedAt": "2026-06-22T19:51:41.797414+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "一家初创公司声称突破了阻碍大型语言模型的瓶颈",
-        "en": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-        "de": "Ein Startup behauptet, es habe einen Flaschenhals durchbrochen, der LLMs zurückhält"
+        "zh": "在Anthropic与政府的最新争执中需要关注的三件事",
+        "en": "Three things to watch amid Anthropic’s latest feud with the government",
+        "de": "Drei Dinge, die man im neuesten Streit von Anthropic mit der Regierung beobachten sollte"
       },
       "summary": {
-        "zh": "位于迈阿密的人工智能初创公司Subquadratic上个月从隐身模式中浮出水面，宣布其已解决一个阻碍大型语言模型发展的数学瓶颈。",
-        "en": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that has been holding back large language models.",
-        "de": "Das in Miami ansässige KI-Startup Subquadratic trat letzten Monat aus dem Stealth-Modus hervor und machte eine große Behauptung. Es gab bekannt, dass es einen mathematischen Flaschenhals gelöst hat, der große Sprachmodelle zurückhält."
+        "zh": "Anthropic与政府之间的争执引发了对AI监管和技术发展的广泛关注。此事件可能会影响未来的政策和行业标准。",
+        "en": "The feud between Anthropic and the government has sparked widespread concern over AI regulation and technological development. This incident could impact future policies and industry standards.",
+        "de": "Der Streit zwischen Anthropic und der Regierung hat weitreichende Bedenken hinsichtlich der KI-Regulierung und technologischen Entwicklung ausgelöst. Dieser Vorfall könnte zukünftige Politiken und Branchenstandards beeinflussen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-19",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+      "date": "2026-06-22",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "脑机接口试验正在起飞",
-        "en": "Brain-computer interface trials are taking off",
-        "de": "Versuche mit Gehirn-Computer-Schnittstellen nehmen Fahrt auf"
+        "zh": "下载：创纪录的海底隧道和灵活的数据中心",
+        "en": "The Download: record-breaking subsea tunnels and flexible data centers",
+        "de": "Der Download: Rekordbrechende Unterwassertunnel und flexible Rechenzentren"
       },
       "summary": {
-        "zh": "本周，我报道了Casey Harrell的故事——一名ALS患者，他被研究人员称为“首位重度用户”，使用脑植入物。",
-        "en": "This week, I covered the story of Casey Harrell—a man with ALS who is 'the first power user' of a brain implant, according to the researchers who work with him.",
-        "de": "In dieser Woche berichtete ich über die Geschichte von Casey Harrell – einem Mann mit ALS, der laut den Forschern, die mit ihm arbeiten, 'der erste Power-User' eines Gehirnimplantats ist."
+        "zh": "本期下载介绍了创纪录的海底隧道和灵活的数据中心，这些技术创新可能会改变基础设施的未来。",
+        "en": "This edition of The Download features record-breaking subsea tunnels and flexible data centers, innovations that could transform the future of infrastructure.",
+        "de": "Diese Ausgabe des Downloads präsentiert rekordbrechende Unterwassertunnel und flexible Rechenzentren, Innovationen, die die Zukunft der Infrastruktur verändern könnten."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-19",
-      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/"
+      "date": "2026-06-22",
+      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "“危险”的人工智能模型即将到来",
-        "en": "Dangerous AI models are coming no matter what",
-        "de": "Gefährliche KI-Modelle kommen auf jeden Fall"
+        "zh": "一家公司声称突破了限制大型语言模型的瓶颈",
+        "en": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+        "de": "Ein Startup behauptet, es habe einen Flaschenhals durchbrochen, der LLMs zurückhält"
       },
       "summary": {
-        "zh": "具有先进黑客能力的人工智能模型即将成为常态，尽管存在潜在的风险和挑战。",
-        "en": "AI models with advanced hacking capabilities will soon be the norm, despite the potential risks and challenges they pose.",
-        "de": "KI-Modelle mit fortschrittlichen Hacking-Fähigkeiten werden bald zur Norm, trotz der potenziellen Risiken und Herausforderungen, die sie mit sich bringen."
+        "zh": "迈阿密的初创公司Subquadratic声称已解决限制大型语言模型的数学瓶颈，这一突破可能会推动AI技术的进步。",
+        "en": "Miami-based startup Subquadratic claims to have solved the mathematical bottleneck holding back large language models, a breakthrough that could advance AI technology.",
+        "de": "Das in Miami ansässige Startup Subquadratic behauptet, den mathematischen Flaschenhals gelöst zu haben, der große Sprachmodelle zurückhält, ein Durchbruch, der die KI-Technologie vorantreiben könnte."
       },
-      "source": "Ars Technica",
-      "date": "2026-06-17",
-      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
+      "source": "MIT Technology Review",
+      "date": "2026-06-19",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "英国首相基尔·斯塔默宣布辞职计划",
-        "en": "UK Prime Minister Keir Starmer announces resignation plan",
-        "de": "UK-Premierminister Keir Starmer kündigt Rücktrittsplan an"
+        "zh": "梅西在2026年世界杯中打入两球，阿根廷以2-0击败奥地利",
+        "en": "Lionel Messi scores brace as Argentina beat Austria 2-0 at World Cup 2026",
+        "de": "Lionel Messi erzielt zwei Tore, während Argentinien Österreich im WM 2026 mit 2-0 besiegt"
       },
       "summary": {
-        "zh": "英国首相基尔·斯塔默在宣布辞职计划时情绪激动，面临来自工党内部的巨大压力。",
-        "en": "UK Prime Minister Keir Starmer was visibly emotional as he announced plans to step down, facing immense pressure from within the Labour Party.",
-        "de": "Der britische Premierminister Keir Starmer war sichtbar emotional, als er seine Rücktrittspläne ankündigte, und sieht sich immensem Druck aus der Labour-Partei gegenüber."
+        "zh": "梅西在比赛中打入两球，成为男子世界杯历史上的最佳射手，阿根廷成功晋级淘汰赛阶段。",
+        "en": "Messi scored twice in the match, becoming the all-time leading scorer in men's World Cup history as Argentina advanced to the knockout rounds.",
+        "de": "Messi erzielte im Spiel zwei Tore und wurde der beste Torschütze in der Geschichte der Männer-Weltmeisterschaft, während Argentinien in die K.-o.-Runde aufstieg."
       },
       "source": "Al Jazeera",
       "date": "2026-06-22",
-      "url": "https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/22/lionel-messi-scores-brace-as-argentina-beat-austria-2-0-at-world-cup-2026?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普支持的政治局外人在哥伦比亚选举中获胜，初步计数显示",
-        "en": "Trump-backed political outsider wins Colombia election, initial count shows",
-        "de": "Trump-unterstützter politischer Außenseiter gewinnt die Wahl in Kolumbien, erste Zählung zeigt"
+        "zh": "加拿大蒙特利尔枪击事件中三人遇难，包括一名警察",
+        "en": "Canadian police officer, suspect among 3 dead in Montreal shooting",
+        "de": "Kanadischer Polizist und Verdächtiger unter den drei Toten bei Schießerei in Montreal"
       },
       "summary": {
-        "zh": "初步计数显示，阿贝拉多·德·拉·埃斯普里埃拉似乎以微弱优势击败了对手伊万·塞佩达。",
-        "en": "Initial counts show that Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda.",
-        "de": "Erste Zählungen zeigen, dass Abelardo de la Espriella anscheinend seinen Rivalen Iván Cepeda knapp besiegt hat."
+        "zh": "蒙特利尔发生枪击事件，造成三人死亡，包括一名警察，警方表示嫌疑人已被“中和”。",
+        "en": "A shooting incident in Montreal resulted in three deaths, including a police officer, with law enforcement stating that the suspected attacker has been 'neutralized'.",
+        "de": "Ein Schießvorfall in Montreal führte zu drei Todesfällen, darunter ein Polizist, wobei die Strafverfolgungsbehörden erklärten, dass der mutmaßliche Angreifer 'neutralisiert' wurde."
       },
-      "source": "BBC News",
+      "source": "Al Jazeera",
       "date": "2026-06-22",
-      "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/22/canadian-police-officer-suspect-among-3-dead-in-montreal-shooting?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "日本五倍增加签证费用，自1978年以来首次涨价",
-        "en": "Japan quintuples visa fees in first price hike since 1978",
-        "de": "Japan erhöht die Visagebühren zum ersten Mal seit 1978 um das Fünffache"
+        "zh": "美国对RSF武装力量包围苏丹城市埃尔奥贝德表示关切",
+        "en": "US raises concern as RSF forces encircle Sudanese city of el-Obeid",
+        "de": "Die USA äußern Besorgnis, da RSF-Truppen die sudanesische Stadt El Obeid umzingeln"
       },
       "summary": {
-        "zh": "日本当局表示，他们不期望此次涨价对入境旅游产生“直接影响”。",
-        "en": "Authorities say they do not expect the hikes to have an 'immediate impact on inbound tourism'.",
-        "de": "Die Behörden sagen, sie erwarten nicht, dass die Erhöhungen einen 'sofortigen Einfluss auf den Incoming-Tourismus' haben."
+        "zh": "美国对RSF武装力量包围苏丹城市埃尔奥贝德表示关切，呼吁通过谈判解决问题，并对可能发生的大规模暴行表示担忧。",
+        "en": "The US has expressed concern over RSF forces encircling the Sudanese city of el-Obeid, calling for a negotiated solution and alarmed by the potential for 'mass atrocities'.",
+        "de": "Die USA haben Besorgnis über die RSF-Truppen geäußert, die die sudanesische Stadt El Obeid umzingeln, und fordern eine verhandelte Lösung, während sie alarmiert sind über das Potenzial für 'Massenverbrechen'."
       },
-      "source": "BBC News",
+      "source": "Al Jazeera",
       "date": "2026-06-22",
-      "url": "https://www.bbc.com/news/articles/cy8d5e5e805o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/22/us-raises-concern-as-rsf-forces-encircle-sudanese-city-of-el-obeid?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普称伊朗协议是“无条件投降”，表示他的权力“没有限制”",
-        "en": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits'",
-        "de": "Trump behauptet, das Iran-Abkommen sei eine 'bedingungslose Kapitulation', und sagt, seine Macht habe 'keine Grenzen'"
+        "zh": "美国油价在伊朗石油制裁暂停60天后跌至每桶74美元以下",
+        "en": "U.S. oil prices end below $74 a barrel after 60-day pause on Iranian oil sanctions",
+        "de": "Die US-Ölpreise fallen nach einer 60-tägigen Pause bei den iranischen Ölsanktionen unter 74 Dollar pro Barrel"
       },
       "summary": {
-        "zh": "特朗普在接受Axios采访时表示，他谈判达成该协议是为了防止冲突引发全球经济衰退。",
-        "en": "Trump said in an interview with Axios that he negotiated the deal to prevent the conflict from triggering a global depression.",
-        "de": "Trump sagte in einem Interview mit Axios, dass er das Abkommen ausgehandelt habe, um zu verhindern, dass der Konflikt eine globale Depression auslöst."
+        "zh": "由于对更多伊朗原油进入全球市场的希望，美国油价跌至每桶74美元以下，供应接近危机低点。",
+        "en": "U.S. oil prices fell below $74 a barrel on hopes that more Iranian crude will hit the global market, as supplies have neared critically low levels.",
+        "de": "Die US-Ölpreise fielen unter 74 Dollar pro Barrel in der Hoffnung, dass mehr iranisches Rohöl auf den globalen Markt kommt, da die Vorräte kritische Tiefststände erreicht haben."
       },
-      "source": "CNBC",
-      "date": "2026-06-19",
-      "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html"
+      "source": "MarketWatch",
+      "date": "2026-06-22",
+      "url": "https://www.marketwatch.com/story/u-s-oil-prices-fall-below-74-a-barrel-on-60-day-pause-on-iranian-oil-sanctions-0b7c7130?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "英国通胀在5月保持在2.8%的稳定水平",
-        "en": "UK inflation holds steady at 2.8% in May",
-        "de": "Die Inflation im Vereinigten Königreich bleibt im Mai stabil bei 2,8%"
+        "zh": "Micron今年增长了1万亿美元。这两个变数将决定其轨迹。",
+        "en": "Micron grew by $1 trillion this year. These two wild cards will determine its trajectory.",
+        "de": "Micron wuchs in diesem Jahr um 1 Billion Dollar. Diese beiden Unbekannten werden seinen Verlauf bestimmen."
       },
       "summary": {
-        "zh": "英国央行预计将在周四更新其货币政策，通胀数据保持稳定。",
-        "en": "The Bank of England is due to update its monetary policy on Thursday, with inflation data holding steady.",
-        "de": "Die Bank von England wird am Donnerstag ihre Geldpolitik aktualisieren, während die Inflationsdaten stabil bleiben."
+        "zh": "分析师正在关注新内存节省技术的影响，以及额外制造能力的时间表，这将决定Micron未来的表现。",
+        "en": "Analysts are watching to see the impact of a new memory-saving technology, as well as the timeline for additional manufacturing capacity, which will determine Micron's future trajectory.",
+        "de": "Analysten beobachten die Auswirkungen einer neuen speichersparenden Technologie sowie den Zeitplan für zusätzliche Produktionskapazitäten, die den zukünftigen Verlauf von Micron bestimmen werden."
       },
-      "source": "CNBC",
-      "date": "2026-06-17",
-      "url": "https://www.cnbc.com/2026/06/17/inflation-uk-cpi-interest-rates-bank-of-england.html"
+      "source": "MarketWatch",
+      "date": "2026-06-22",
+      "url": "https://www.marketwatch.com/story/micron-grew-by-1-trillion-this-year-these-two-wild-cards-will-determine-its-trajectory-a0c9c714?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "英国经济在4月份萎缩0.1%，因伊朗冲突对增长造成压力",
-        "en": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
-        "de": "Die britische Wirtschaft schrumpfte im April um 0,1 %, da der Iran-Konflikt das Wachstum belastete"
+        "zh": "华尔街热爱成长股，但这10个“失败者”准备获胜",
+        "en": "Wall Street loves growth stocks — but these 10 ‘losers’ are primed to win",
+        "de": "Die Wall Street liebt Wachstumsaktien – aber diese 10 'Verlierer' sind bereit zu gewinnen"
       },
       "summary": {
-        "zh": "由于服务业活动下降和公司面临来自中东冲突的压力，英国GDP在4月份下降了0.1%。",
-        "en": "U.K. GDP fell 0.1% in April as services activity declined and companies cited pressure from the Middle East conflict.",
-        "de": "Das BIP des Vereinigten Königreichs fiel im April um 0,1 %, da die Dienstleistungsaktivitäten zurückgingen und Unternehmen Druck durch den Konflikt im Nahen Osten angaben."
+        "zh": "尽管华尔街热衷于成长股，但一些被忽视的价值股可能会迎来反弹，吸引逆向投资者的关注。",
+        "en": "While Wall Street loves growth stocks, some overlooked value plays may be poised for a rebound, attracting the attention of contrarian investors.",
+        "de": "Während die Wall Street Wachstumsaktien liebt, könnten einige übersehene Value-Aktien auf eine Erholung vorbereitet sein und die Aufmerksamkeit von konträren Investoren auf sich ziehen."
       },
-      "source": "CNBC",
-      "date": "2026-06-12",
-      "url": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html"
+      "source": "MarketWatch",
+      "date": "2026-06-22",
+      "url": "https://www.marketwatch.com/story/wall-street-loves-growth-stocks-but-these-10-losers-are-primed-to-win-0202e491?mod=mw_rss_topstories"
     }
   ]
 }
