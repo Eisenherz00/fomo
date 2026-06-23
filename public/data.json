@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T19:51:41.797414+00:00",
+  "generatedAt": "2026-06-23T08:04:15.065408+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Drei Dinge, die man im neuesten Streit von Anthropic mit der Regierung beobachten sollte"
       },
       "summary": {
-        "zh": "Anthropic与政府之间的争执引发了对AI监管和技术发展的广泛关注。此事件可能会影响未来的政策和行业标准。",
-        "en": "The feud between Anthropic and the government has sparked widespread concern over AI regulation and technological development. This incident could impact future policies and industry standards.",
-        "de": "Der Streit zwischen Anthropic und der Regierung hat weitreichende Bedenken hinsichtlich der KI-Regulierung und technologischen Entwicklung ausgelöst. Dieser Vorfall könnte zukünftige Politiken und Branchenstandards beeinflussen."
+        "zh": "Anthropic与政府之间的争执引发了对AI监管和技术发展方向的关注。分析人士指出，未来几个月可能会有重要的政策变化。",
+        "en": "Anthropic's feud with the government has raised concerns about AI regulation and the direction of technology development. Analysts suggest that significant policy changes may occur in the coming months.",
+        "de": "Der Streit von Anthropic mit der Regierung hat Bedenken hinsichtlich der KI-Regulierung und der Richtung der Technologieentwicklung aufgeworfen. Analysten deuten darauf hin, dass in den kommenden Monaten bedeutende politische Veränderungen eintreten könnten."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-22",
@@ -25,9 +25,9 @@
         "de": "Der Download: Rekordbrechende Unterwassertunnel und flexible Rechenzentren"
       },
       "summary": {
-        "zh": "本期下载介绍了创纪录的海底隧道和灵活的数据中心，这些技术创新可能会改变基础设施的未来。",
-        "en": "This edition of The Download features record-breaking subsea tunnels and flexible data centers, innovations that could transform the future of infrastructure.",
-        "de": "Diese Ausgabe des Downloads präsentiert rekordbrechende Unterwassertunnel und flexible Rechenzentren, Innovationen, die die Zukunft der Infrastruktur verändern könnten."
+        "zh": "本期下载介绍了创新的海底隧道和灵活的数据中心，这些技术正在改变全球基础设施的面貌。",
+        "en": "This edition of The Download highlights innovative subsea tunnels and flexible data centers, technologies that are transforming the landscape of global infrastructure.",
+        "de": "Diese Ausgabe des Downloads hebt innovative Unterwassertunnel und flexible Rechenzentren hervor, Technologien, die die Landschaft der globalen Infrastruktur verändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-22",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "一家公司声称突破了限制大型语言模型的瓶颈",
+        "zh": "一家初创公司声称突破了限制大型语言模型的瓶颈",
         "en": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-        "de": "Ein Startup behauptet, es habe einen Flaschenhals durchbrochen, der LLMs zurückhält"
+        "de": "Ein Startup behauptet, es habe einen Engpass überwunden, der LLMs zurückhält"
       },
       "summary": {
-        "zh": "迈阿密的初创公司Subquadratic声称已解决限制大型语言模型的数学瓶颈，这一突破可能会推动AI技术的进步。",
-        "en": "Miami-based startup Subquadratic claims to have solved the mathematical bottleneck holding back large language models, a breakthrough that could advance AI technology.",
-        "de": "Das in Miami ansässige Startup Subquadratic behauptet, den mathematischen Flaschenhals gelöst zu haben, der große Sprachmodelle zurückhält, ein Durchbruch, der die KI-Technologie vorantreiben könnte."
+        "zh": "迈阿密的初创公司Subquadratic声称已解决了限制大型语言模型性能的数学瓶颈，这一突破可能会影响AI领域的未来发展。",
+        "en": "Miami-based startup Subquadratic claims to have solved a mathematical bottleneck that limits the performance of large language models, a breakthrough that could impact the future of AI.",
+        "de": "Das in Miami ansässige Startup Subquadratic behauptet, einen mathematischen Engpass überwunden zu haben, der die Leistung großer Sprachmodelle einschränkt, ein Durchbruch, der die Zukunft der KI beeinflussen könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-19",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "梅西在2026年世界杯中打入两球，阿根廷以2-0击败奥地利",
-        "en": "Lionel Messi scores brace as Argentina beat Austria 2-0 at World Cup 2026",
-        "de": "Lionel Messi erzielt zwei Tore, während Argentinien Österreich im WM 2026 mit 2-0 besiegt"
+        "zh": "了解周二在马里兰州、犹他州和纽约州的初选",
+        "en": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
+        "de": "Was man über die Vorwahlen am Dienstag in Maryland, Utah und New York wissen sollte"
       },
       "summary": {
-        "zh": "梅西在比赛中打入两球，成为男子世界杯历史上的最佳射手，阿根廷成功晋级淘汰赛阶段。",
-        "en": "Messi scored twice in the match, becoming the all-time leading scorer in men's World Cup history as Argentina advanced to the knockout rounds.",
-        "de": "Messi erzielte im Spiel zwei Tore und wurde der beste Torschütze in der Geschichte der Männer-Weltmeisterschaft, während Argentinien in die K.-o.-Runde aufstieg."
+        "zh": "周二的初选将集中在马里兰州和犹他州的重新划分上，而南卡罗来纳州则面临共和党决选。这些选举可能会影响未来的政治格局。",
+        "en": "Tuesday's primaries will focus on redistricting in Maryland and Utah, while South Carolina faces a Republican runoff. These elections could significantly influence the future political landscape.",
+        "de": "Die Vorwahlen am Dienstag konzentrieren sich auf die Neuziehung der Wahlbezirke in Maryland und Utah, während South Carolina eine republikanische Stichwahl hat. Diese Wahlen könnten die zukünftige politische Landschaft erheblich beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-22",
-      "url": "https://www.aljazeera.com/sports/2026/6/22/lionel-messi-scores-brace-as-argentina-beat-austria-2-0-at-world-cup-2026?traffic_source=rss"
+      "date": "2026-06-23",
+      "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "加拿大蒙特利尔枪击事件中三人遇难，包括一名警察",
-        "en": "Canadian police officer, suspect among 3 dead in Montreal shooting",
-        "de": "Kanadischer Polizist und Verdächtiger unter den drei Toten bei Schießerei in Montreal"
+        "zh": "欧盟将在布鲁塞尔与塔利班官员举行移民会议",
+        "en": "EU to hold migration meeting with Taliban officials in Brussels",
+        "de": "EU wird in Brüssel ein Migrationsmeeting mit Taliban-Vertretern abhalten"
       },
       "summary": {
-        "zh": "蒙特利尔发生枪击事件，造成三人死亡，包括一名警察，警方表示嫌疑人已被“中和”。",
-        "en": "A shooting incident in Montreal resulted in three deaths, including a police officer, with law enforcement stating that the suspected attacker has been 'neutralized'.",
-        "de": "Ein Schießvorfall in Montreal führte zu drei Todesfällen, darunter ein Polizist, wobei die Strafverfolgungsbehörden erklärten, dass der mutmaßliche Angreifer 'neutralisiert' wurde."
+        "zh": "欧盟计划与塔利班官员举行会议，讨论没有留在欧洲权利的阿富汗国民的遣返问题。这次会议可能会影响未来的移民政策。",
+        "en": "The EU plans to hold a meeting with Taliban officials to discuss the deportation of Afghan nationals who do not have the right to stay in Europe. This meeting could influence future immigration policies.",
+        "de": "Die EU plant, ein Treffen mit Taliban-Vertretern abzuhalten, um die Abschiebung afghanischer Staatsangehöriger zu besprechen, die nicht das Recht haben, in Europa zu bleiben. Dieses Treffen könnte die zukünftige Einwanderungspolitik beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-22",
-      "url": "https://www.aljazeera.com/news/2026/6/22/canadian-police-officer-suspect-among-3-dead-in-montreal-shooting?traffic_source=rss"
+      "date": "2026-06-23",
+      "url": "https://www.aljazeera.com/news/2026/6/23/eu-to-hold-migration-meeting-with-taliban-officials-in-brussels?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国对RSF武装力量包围苏丹城市埃尔奥贝德表示关切",
-        "en": "US raises concern as RSF forces encircle Sudanese city of el-Obeid",
-        "de": "Die USA äußern Besorgnis, da RSF-Truppen die sudanesische Stadt El Obeid umzingeln"
+        "zh": "伊朗总统佩泽什基安在美方谈判后前往巴基斯坦",
+        "en": "Why Iran’s President Pezeshkian is heading to Pakistan after US talks",
+        "de": "Warum Irans Präsident Pezeshkian nach US-Gesprächen nach Pakistan reist"
       },
       "summary": {
-        "zh": "美国对RSF武装力量包围苏丹城市埃尔奥贝德表示关切，呼吁通过谈判解决问题，并对可能发生的大规模暴行表示担忧。",
-        "en": "The US has expressed concern over RSF forces encircling the Sudanese city of el-Obeid, calling for a negotiated solution and alarmed by the potential for 'mass atrocities'.",
-        "de": "Die USA haben Besorgnis über die RSF-Truppen geäußert, die die sudanesische Stadt El Obeid umzingeln, und fordern eine verhandelte Lösung, während sie alarmiert sind über das Potenzial für 'Massenverbrechen'."
+        "zh": "伊朗总统佩泽什基安在与美国的高层谈判后，首次出访巴基斯坦，此行可能会影响伊朗的外交关系。",
+        "en": "Iran's President Pezeshkian is heading to Pakistan for his first overseas trip since high-level talks with the U.S., a visit that could influence Iran's diplomatic relations.",
+        "de": "Irans Präsident Pezeshkian reist nach Pakistan für seinen ersten Auslandsbesuch seit hochrangigen Gesprächen mit den USA, ein Besuch, der Irans diplomatische Beziehungen beeinflussen könnte."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-22",
-      "url": "https://www.aljazeera.com/news/2026/6/22/us-raises-concern-as-rsf-forces-encircle-sudanese-city-of-el-obeid?traffic_source=rss"
+      "date": "2026-06-23",
+      "url": "https://www.aljazeera.com/news/2026/6/23/why-irans-president-pezeshkian-is-heading-to-pakistan-after-us-iran-talks?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国油价在伊朗石油制裁暂停60天后跌至每桶74美元以下",
-        "en": "U.S. oil prices end below $74 a barrel after 60-day pause on Iranian oil sanctions",
-        "de": "Die US-Ölpreise fallen nach einer 60-tägigen Pause bei den iranischen Ölsanktionen unter 74 Dollar pro Barrel"
+        "zh": "这些6只快速增长的股票处于太空和军事技术的前沿",
+        "en": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
+        "de": "Diese 6 schnell wachsenden Aktien stehen an der Spitze der Raumfahrt- und Militärtechnologie"
       },
       "summary": {
-        "zh": "由于对更多伊朗原油进入全球市场的希望，美国油价跌至每桶74美元以下，供应接近危机低点。",
-        "en": "U.S. oil prices fell below $74 a barrel on hopes that more Iranian crude will hit the global market, as supplies have neared critically low levels.",
-        "de": "Die US-Ölpreise fielen unter 74 Dollar pro Barrel in der Hoffnung, dass mehr iranisches Rohöl auf den globalen Markt kommt, da die Vorräte kritische Tiefststände erreicht haben."
+        "zh": "在SpaceX首次公开募股之后，投资者可以期待全球通信和AI数据处理等主题将成为市场的重要趋势。",
+        "en": "In the wake of the SpaceX IPO, investors can expect themes like global communications and AI data processing to become significant trends in the market.",
+        "de": "Nach dem IPO von SpaceX können Investoren erwarten, dass Themen wie globale Kommunikation und KI-Datenverarbeitung zu wichtigen Trends auf dem Markt werden."
       },
       "source": "MarketWatch",
-      "date": "2026-06-22",
-      "url": "https://www.marketwatch.com/story/u-s-oil-prices-fall-below-74-a-barrel-on-60-day-pause-on-iranian-oil-sanctions-0b7c7130?mod=mw_rss_topstories"
+      "date": "2026-06-23",
+      "url": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "Micron今年增长了1万亿美元。这两个变数将决定其轨迹。",
-        "en": "Micron grew by $1 trillion this year. These two wild cards will determine its trajectory.",
-        "de": "Micron wuchs in diesem Jahr um 1 Billion Dollar. Diese beiden Unbekannten werden seinen Verlauf bestimmen."
+        "zh": "特朗普可能会说他正在禁止华尔街购买房屋。两党住房法案真的这样做吗？",
+        "en": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
+        "de": "Trump könnte sagen, dass er Wall Street den Kauf von Häusern verbietet. Macht das die parteiübergreifende Wohnungsbaugesetzgebung tatsächlich?"
       },
       "summary": {
-        "zh": "分析师正在关注新内存节省技术的影响，以及额外制造能力的时间表，这将决定Micron未来的表现。",
-        "en": "Analysts are watching to see the impact of a new memory-saving technology, as well as the timeline for additional manufacturing capacity, which will determine Micron's future trajectory.",
-        "de": "Analysten beobachten die Auswirkungen einer neuen speichersparenden Technologie sowie den Zeitplan für zusätzliche Produktionskapazitäten, die den zukünftigen Verlauf von Micron bestimmen werden."
+        "zh": "分析人士表示，这项措施需要时间才能对住房可负担性产生实质性影响，并不会解决选民在该领域的挫折感。",
+        "en": "Analysts say the measure will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area.",
+        "de": "Analysten sagen, dass die Maßnahme Zeit benötigen wird, um die Wohnungserschwinglichkeit erheblich zu beeinflussen und die Wählerfrustration in diesem Bereich nicht lösen wird."
       },
       "source": "MarketWatch",
       "date": "2026-06-22",
-      "url": "https://www.marketwatch.com/story/micron-grew-by-1-trillion-this-year-these-two-wild-cards-will-determine-its-trajectory-a0c9c714?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "华尔街热爱成长股，但这10个“失败者”准备获胜",
-        "en": "Wall Street loves growth stocks — but these 10 ‘losers’ are primed to win",
-        "de": "Die Wall Street liebt Wachstumsaktien – aber diese 10 'Verlierer' sind bereit zu gewinnen"
+        "zh": "大科技公司分裂为两个人工智能阵营——但聪明的资金并没有追逐下一个OpenAI",
+        "en": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
+        "de": "Big Tech hat sich in zwei künstliche Intelligenz-Lager gespalten – aber das kluge Geld verfolgt nicht das nächste OpenAI"
       },
       "summary": {
-        "zh": "尽管华尔街热衷于成长股，但一些被忽视的价值股可能会迎来反弹，吸引逆向投资者的关注。",
-        "en": "While Wall Street loves growth stocks, some overlooked value plays may be poised for a rebound, attracting the attention of contrarian investors.",
-        "de": "Während die Wall Street Wachstumsaktien liebt, könnten einige übersehene Value-Aktien auf eine Erholung vorbereitet sein und die Aufmerksamkeit von konträren Investoren auf sich ziehen."
+        "zh": "随着科技巨头如Alphabet和微软在人工智能竞赛中分裂，投资者被认为更倾向于选择更安全的投资选择。",
+        "en": "As tech giants like Alphabet and Microsoft split in the AI race, investors are believed to prefer safer investment choices.",
+        "de": "Während sich Technologieriesen wie Alphabet und Microsoft im KI-Rennen spalten, wird angenommen, dass Investoren sicherere Investitionsmöglichkeiten bevorzugen."
       },
       "source": "MarketWatch",
       "date": "2026-06-22",
-      "url": "https://www.marketwatch.com/story/wall-street-loves-growth-stocks-but-these-10-losers-are-primed-to-win-0202e491?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories"
     }
   ]
 }
