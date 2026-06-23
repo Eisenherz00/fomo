@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-23T08:04:15.065408+00:00",
+  "generatedAt": "2026-06-23T18:18:04.428268+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "在Anthropic与政府的最新争执中需要关注的三件事",
-        "en": "Three things to watch amid Anthropic’s latest feud with the government",
-        "de": "Drei Dinge, die man im neuesten Streit von Anthropic mit der Regierung beobachten sollte"
+        "zh": "下载：芯片制造的未来和Anthropic与政府的冲突",
+        "en": "The Download: the future of chipmaking and Anthropic’s government clash",
+        "de": "Der Download: die Zukunft der Chipproduktion und der Konflikt von Anthropic mit der Regierung"
       },
       "summary": {
-        "zh": "Anthropic与政府之间的争执引发了对AI监管和技术发展方向的关注。分析人士指出，未来几个月可能会有重要的政策变化。",
-        "en": "Anthropic's feud with the government has raised concerns about AI regulation and the direction of technology development. Analysts suggest that significant policy changes may occur in the coming months.",
-        "de": "Der Streit von Anthropic mit der Regierung hat Bedenken hinsichtlich der KI-Regulierung und der Richtung der Technologieentwicklung aufgeworfen. Analysten deuten darauf hin, dass in den kommenden Monaten bedeutende politische Veränderungen eintreten könnten."
+        "zh": "本期《下载》讨论了芯片制造的未来以及Anthropic与政府之间的冲突，强调了技术领域的最新动态。",
+        "en": "This edition of The Download discusses the future of chipmaking and the clash between Anthropic and the government, highlighting the latest developments in the tech sector.",
+        "de": "Diese Ausgabe des Downloads behandelt die Zukunft der Chipproduktion und den Konflikt zwischen Anthropic und der Regierung und hebt die neuesten Entwicklungen im Technologiesektor hervor."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-22",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
+      "date": "2026-06-23",
+      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：创纪录的海底隧道和灵活的数据中心",
-        "en": "The Download: record-breaking subsea tunnels and flexible data centers",
-        "de": "Der Download: Rekordbrechende Unterwassertunnel und flexible Rechenzentren"
+        "zh": "大象警报！AI警告系统旨在避免致命冲突",
+        "en": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+        "de": "Elefantenalarm! KI-Warnsysteme sollen tödliche Zusammenstöße vermeiden"
       },
       "summary": {
-        "zh": "本期下载介绍了创新的海底隧道和灵活的数据中心，这些技术正在改变全球基础设施的面貌。",
-        "en": "This edition of The Download highlights innovative subsea tunnels and flexible data centers, technologies that are transforming the landscape of global infrastructure.",
-        "de": "Diese Ausgabe des Downloads hebt innovative Unterwassertunnel und flexible Rechenzentren hervor, Technologien, die die Landschaft der globalen Infrastruktur verändern."
+        "zh": "印度拥有约60%的亚洲野生大象，AI警告系统的引入旨在减少人类与大象之间的致命冲突。",
+        "en": "India is home to about 60% of the world's wild Asian elephants, and the introduction of AI warning systems aims to reduce deadly clashes between humans and elephants.",
+        "de": "Indien beherbergt etwa 60 % der wildlebenden asiatischen Elefanten der Welt, und die Einführung von KI-Warnsystemen zielt darauf ab, tödliche Zusammenstöße zwischen Menschen und Elefanten zu reduzieren."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-22",
-      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/"
+      "date": "2026-06-23",
+      "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "一家初创公司声称突破了限制大型语言模型的瓶颈",
-        "en": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-        "de": "Ein Startup behauptet, es habe einen Engpass überwunden, der LLMs zurückhält"
+        "zh": "价值4亿美元的机器推动芯片制造的未来",
+        "en": "The $400 million machine powering the future of chipmaking",
+        "de": "Die 400-Millionen-Dollar-Maschine, die die Zukunft der Chipproduktion antreibt"
       },
       "summary": {
-        "zh": "迈阿密的初创公司Subquadratic声称已解决了限制大型语言模型性能的数学瓶颈，这一突破可能会影响AI领域的未来发展。",
-        "en": "Miami-based startup Subquadratic claims to have solved a mathematical bottleneck that limits the performance of large language models, a breakthrough that could impact the future of AI.",
-        "de": "Das in Miami ansässige Startup Subquadratic behauptet, einen mathematischen Engpass überwunden zu haben, der die Leistung großer Sprachmodelle einschränkt, ein Durchbruch, der die Zukunft der KI beeinflussen könnte."
+        "zh": "一台价值4亿美元的机器被认为是推动未来芯片制造的关键，展示了技术进步的潜力。",
+        "en": "A $400 million machine is seen as a key driver of the future of chipmaking, showcasing the potential of technological advancements.",
+        "de": "Eine 400-Millionen-Dollar-Maschine wird als Schlüsseltriebkraft für die Zukunft der Chipproduktion angesehen und zeigt das Potenzial technologischer Fortschritte."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-19",
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+      "date": "2026-06-23",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "了解周二在马里兰州、犹他州和纽约州的初选",
-        "en": "What to know about Tuesday’s primary elections in Maryland, Utah, New York",
-        "de": "Was man über die Vorwahlen am Dienstag in Maryland, Utah und New York wissen sollte"
+        "zh": "为什么英国首相不断辞职？",
+        "en": "Why do the UK’s prime ministers keep resigning?",
+        "de": "Warum treten die britischen Premierminister ständig zurück?"
       },
       "summary": {
-        "zh": "周二的初选将集中在马里兰州和犹他州的重新划分上，而南卡罗来纳州则面临共和党决选。这些选举可能会影响未来的政治格局。",
-        "en": "Tuesday's primaries will focus on redistricting in Maryland and Utah, while South Carolina faces a Republican runoff. These elections could significantly influence the future political landscape.",
-        "de": "Die Vorwahlen am Dienstag konzentrieren sich auf die Neuziehung der Wahlbezirke in Maryland und Utah, während South Carolina eine republikanische Stichwahl hat. Diese Wahlen könnten die zukünftige politische Landschaft erheblich beeinflussen."
+        "zh": "基尔·斯塔默是最新一位辞职的英国首相，他在任职不到两年后选择辞职，反映了英国政治的不稳定性。",
+        "en": "Keir Starmer is the latest UK Prime Minister to resign, stepping down after less than two years in office, reflecting the instability in British politics.",
+        "de": "Keir Starmer ist der neueste britische Premierminister, der zurücktritt, nachdem er weniger als zwei Jahre im Amt war, was die Instabilität in der britischen Politik widerspiegelt."
       },
       "source": "Al Jazeera",
       "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/news/2026/6/23/what-to-know-about-tuesdays-primary-elections-in-maryland-utah-new-york?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/23/why-do-the-uks-prime-ministers-keep-resigning?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "欧盟将在布鲁塞尔与塔利班官员举行移民会议",
-        "en": "EU to hold migration meeting with Taliban officials in Brussels",
-        "de": "EU wird in Brüssel ein Migrationsmeeting mit Taliban-Vertretern abhalten"
+        "zh": "以色列军队在被占领的西岸点燃橄榄树",
+        "en": "Israeli forces set olive trees on fire in occupied West Bank",
+        "de": "Israelische Streitkräfte setzen Olivenbäume im besetzten Westjordanland in Brand"
       },
       "summary": {
-        "zh": "欧盟计划与塔利班官员举行会议，讨论没有留在欧洲权利的阿富汗国民的遣返问题。这次会议可能会影响未来的移民政策。",
-        "en": "The EU plans to hold a meeting with Taliban officials to discuss the deportation of Afghan nationals who do not have the right to stay in Europe. This meeting could influence future immigration policies.",
-        "de": "Die EU plant, ein Treffen mit Taliban-Vertretern abzuhalten, um die Abschiebung afghanischer Staatsangehöriger zu besprechen, die nicht das Recht haben, in Europa zu bleiben. Dieses Treffen könnte die zukünftige Einwanderungspolitik beeinflussen."
+        "zh": "以色列军队在小型巴勒斯坦村庄Rummanah点燃橄榄树，造成了严重的破坏和冲突。",
+        "en": "Israeli forces set olive trees on fire in the small Palestinian village of Rummanah, causing significant destruction and conflict.",
+        "de": "Israelische Streitkräfte setzten Olivenbäume im kleinen palästinensischen Dorf Rummanah in Brand, was zu erheblichen Zerstörungen und Konflikten führte."
       },
       "source": "Al Jazeera",
       "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/news/2026/6/23/eu-to-hold-migration-meeting-with-taliban-officials-in-brussels?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-forces-set-olive-trees-on-fire-in-occupied-west-bank?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗总统佩泽什基安在美方谈判后前往巴基斯坦",
-        "en": "Why Iran’s President Pezeshkian is heading to Pakistan after US talks",
-        "de": "Warum Irans Präsident Pezeshkian nach US-Gesprächen nach Pakistan reist"
+        "zh": "欧盟首次接待塔利班官员进行遣返谈判",
+        "en": "EU hosts Taliban officials for the first time in talks on deportations",
+        "de": "Die EU empfängt zum ersten Mal Taliban-Vertreter zu Gesprächen über Abschiebungen"
       },
       "summary": {
-        "zh": "伊朗总统佩泽什基安在与美国的高层谈判后，首次出访巴基斯坦，此行可能会影响伊朗的外交关系。",
-        "en": "Iran's President Pezeshkian is heading to Pakistan for his first overseas trip since high-level talks with the U.S., a visit that could influence Iran's diplomatic relations.",
-        "de": "Irans Präsident Pezeshkian reist nach Pakistan für seinen ersten Auslandsbesuch seit hochrangigen Gesprächen mit den USA, ein Besuch, der Irans diplomatische Beziehungen beeinflussen könnte."
+        "zh": "尽管塔利班政府未被任何欧洲国家承认，欧盟在布鲁塞尔与塔利班官员举行了首次遣返谈判。",
+        "en": "Despite the Taliban government not being recognized by any European country, the EU held its first deportation talks with Taliban officials in Brussels.",
+        "de": "Obwohl die Taliban-Regierung von keinem europäischen Land anerkannt wird, führte die EU in Brüssel die ersten Abschiebungsgespräche mit Taliban-Vertretern."
       },
       "source": "Al Jazeera",
       "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/news/2026/6/23/why-irans-president-pezeshkian-is-heading-to-pakistan-after-us-iran-talks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/23/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "这些6只快速增长的股票处于太空和军事技术的前沿",
-        "en": "These 6 fast-growing stocks sit at the cutting edge of space and military technology",
-        "de": "Diese 6 schnell wachsenden Aktien stehen an der Spitze der Raumfahrt- und Militärtechnologie"
+        "zh": "6月工厂裁员接近金融危机和新冠水平，标准普尔表示",
+        "en": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+        "de": "Fabrikschließungen im Juni nähern sich den Niveaus der Finanzkrise und von Covid, sagt S&P"
       },
       "summary": {
-        "zh": "在SpaceX首次公开募股之后，投资者可以期待全球通信和AI数据处理等主题将成为市场的重要趋势。",
-        "en": "In the wake of the SpaceX IPO, investors can expect themes like global communications and AI data processing to become significant trends in the market.",
-        "de": "Nach dem IPO von SpaceX können Investoren erwarten, dass Themen wie globale Kommunikation und KI-Datenverarbeitung zu wichtigen Trends auf dem Markt werden."
+        "zh": "尽管6月制造业指数好于预期，但由于大规模裁员，工厂裁员接近金融危机和新冠疫情期间的水平。",
+        "en": "Despite the manufacturing index performing better than expected in June, factory job cuts are nearing levels seen during the financial crisis and the Covid pandemic due to mass layoffs.",
+        "de": "Trotz der besseren als erwarteten Leistung des Fertigungsindex im Juni nähern sich die Fabrikschließungen den während der Finanzkrise und der Covid-Pandemie beobachteten Niveaus aufgrund von Massenentlassungen."
       },
-      "source": "MarketWatch",
+      "source": "CNBC – Markets",
       "date": "2026-06-23",
-      "url": "https://www.marketwatch.com/story/these-six-fast-growing-stocks-sit-at-the-cutting-edge-of-space-and-military-technology-0a349e1b?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普可能会说他正在禁止华尔街购买房屋。两党住房法案真的这样做吗？",
-        "en": "Trump may say he’s banning Wall Street from buying homes. Does the bipartisan housing bill actually do that?",
-        "de": "Trump könnte sagen, dass er Wall Street den Kauf von Häusern verbietet. Macht das die parteiübergreifende Wohnungsbaugesetzgebung tatsächlich?"
+        "zh": "美国发布广泛的伊朗石油制裁豁免，为德黑兰解锁数十亿收入",
+        "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+        "de": "Die USA erlassen umfassende Ausnahmen von den Iran-Öl-Sanktionen und schalten Milliarden von Einnahmen für Teheran frei"
       },
       "summary": {
-        "zh": "分析人士表示，这项措施需要时间才能对住房可负担性产生实质性影响，并不会解决选民在该领域的挫折感。",
-        "en": "Analysts say the measure will take time to meaningfully affect housing affordability and will not resolve voter frustration in that area.",
-        "de": "Analysten sagen, dass die Maßnahme Zeit benötigen wird, um die Wohnungserschwinglichkeit erheblich zu beeinflussen und die Wählerfrustration in diesem Bereich nicht lösen wird."
+        "zh": "美国对伊朗石油的制裁豁免为德黑兰提供了数十亿的经济收入，可能影响全球市场。",
+        "en": "The U.S. waivers on sanctions against Iranian oil provide Tehran with billions in economic revenue, potentially impacting global markets.",
+        "de": "Die US-Ausnahmen von den Sanktionen gegen iranisches Öl bieten Teheran Milliarden an wirtschaftlichen Einnahmen, was potenziell die globalen Märkte beeinflussen könnte."
       },
-      "source": "MarketWatch",
-      "date": "2026-06-22",
-      "url": "https://www.marketwatch.com/story/trump-may-say-hes-banning-wall-street-from-buying-homes-does-the-bipartisan-housing-bill-actually-do-that-14c8ee5f?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-06-23",
+      "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "大科技公司分裂为两个人工智能阵营——但聪明的资金并没有追逐下一个OpenAI",
-        "en": "Big Tech has split into two artificial-intelligence camps — but the smart money isn’t chasing the next OpenAI",
-        "de": "Big Tech hat sich in zwei künstliche Intelligenz-Lager gespalten – aber das kluge Geld verfolgt nicht das nächste OpenAI"
+        "zh": "这项科技“恐惧指标”接近20年来的高点。投资者应该担心。",
+        "en": "This tech ‘fear gauge’ is nearing a two-decade high. Investors should worry.",
+        "de": "Dieser Technologie-„Angstindikator“ nähert sich einem Zwei-Jahrzehnte-Hoch. Investoren sollten sich Sorgen machen."
       },
       "summary": {
-        "zh": "随着科技巨头如Alphabet和微软在人工智能竞赛中分裂，投资者被认为更倾向于选择更安全的投资选择。",
-        "en": "As tech giants like Alphabet and Microsoft split in the AI race, investors are believed to prefer safer investment choices.",
-        "de": "Während sich Technologieriesen wie Alphabet und Microsoft im KI-Rennen spalten, wird angenommen, dass Investoren sicherere Investitionsmöglichkeiten bevorzugen."
+        "zh": "华尔街的主要“恐惧指标”接近20年来的高点，投资者应关注市场波动。",
+        "en": "Wall Street's main 'fear gauge' is nearing a two-decade high, and investors should pay attention to market volatility.",
+        "de": "Der Haupt-„Angstindikator“ von Wall Street nähert sich einem Zwei-Jahrzehnte-Hoch, und Investoren sollten auf die Marktvolatilität achten."
       },
-      "source": "MarketWatch",
-      "date": "2026-06-22",
-      "url": "https://www.marketwatch.com/story/big-tech-is-splitting-into-two-artificial-intelligence-camps-here-is-the-better-bet-e75c9876?mod=mw_rss_topstories"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-23",
+      "url": "https://www.marketwatch.com/story/this-tech-fear-gauge-is-nearing-a-two-decade-high-investors-should-worry-691ed639?mod=mw_rss_topstories"
     }
   ]
 }
