@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-06-24T07:59:55.269390+00:00",
+  "generatedAt": "2026-06-24T18:14:56.887088+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "超声成像将机器人手变成灵巧的模仿者",
-        "en": "Ultrasound imaging turns a robot hand into a skillful mimic",
-        "de": "Ultraschallbildgebung verwandelt eine Roboterhand in einen geschickten Nachahmer"
+        "zh": "Stripe、Anthropic 和 OpenAI 支持一项努力以阻止呼吸道感染",
+        "en": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+        "de": "Stripe, Anthropic und OpenAI unterstützen eine Initiative zur Bekämpfung von Atemwegsinfektionen"
       },
       "summary": {
-        "zh": "研究人员利用超声成像技术，使机器人手能够模仿人类手的灵活性和精确性。这一进展可能在医疗和制造领域带来革命性的变化。",
-        "en": "Researchers have utilized ultrasound imaging technology to enable a robot hand to mimic the dexterity and precision of a human hand. This advancement could bring revolutionary changes in medical and manufacturing fields.",
-        "de": "Forscher haben Ultraschallbildgebungstechnologie genutzt, um einer Roboterhand zu ermöglichen, die Geschicklichkeit und Präzision einer menschlichen Hand nachzuahmen. Dieser Fortschritt könnte revolutionäre Veränderungen in der Medizin und der Fertigung mit sich bringen."
+        "zh": "Stripe、Anthropic 和 OpenAI 正在支持一项旨在阻止呼吸道感染的努力，尤其是普通感冒，这种疾病每年影响人们多次。该项目希望通过新的技术手段来改善预防和治疗。",
+        "en": "Stripe, Anthropic, and OpenAI are supporting an initiative aimed at stopping respiratory infections, particularly the common cold, which affects people multiple times a year. The project aims to improve prevention and treatment through new technological means.",
+        "de": "Stripe, Anthropic und OpenAI unterstützen eine Initiative zur Bekämpfung von Atemwegsinfektionen, insbesondere der Erkältung, die Menschen mehrmals im Jahr betrifft. Das Projekt zielt darauf ab, Prävention und Behandlung durch neue technologische Mittel zu verbessern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-23",
-      "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/"
+      "date": "2026-06-24",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "工程化“迷你肝脏”可作为移植替代品注射",
-        "en": "Engineered “mini livers” could be injected as an alternative to transplantation",
-        "de": "Ingenieurmäßige „Mini-Lebern“ könnten als Alternative zur Transplantation injiziert werden"
-      },
-      "summary": {
-        "zh": "由Sangeeta Bhatia教授及其团队开发的工程化迷你肝脏技术，可能为成千上万的慢性肝病患者提供新的希望。这一技术的应用可能会改变肝脏移植的未来。",
-        "en": "The engineered mini-liver technology developed by Professor Sangeeta Bhatia and her team could offer new hope to thousands of patients with chronic liver diseases. The application of this technology may change the future of liver transplantation.",
-        "de": "Die von Professor Sangeeta Bhatia und ihrem Team entwickelte Technologie für ingenieurmäßige Mini-Lebern könnte Tausenden von Patienten mit chronischen Lebererkrankungen neue Hoffnung bieten. Die Anwendung dieser Technologie könnte die Zukunft der Lebertransplantation verändern."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-06-23",
-      "url": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "白宫大幅缩短放弃量子脆弱加密的截止日期",
+        "zh": "量子脆弱加密的截止日期被白宫大幅缩短",
         "en": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
-        "de": "Das Weiße Haus verkürzt drastisch die Frist für den Verzicht auf quantenanfällige Krypto"
+        "de": "Weißes Haus verkürzt Frist für den Verzicht auf quantenanfällige Krypto drastisch"
       },
       "summary": {
-        "zh": "白宫发布命令，警告如果不及时采用后量子密码学，将面临国家安全风险。新的截止日期迫使相关企业加快转型。",
-        "en": "The White House issued an order warning of national security risks if post-quantum cryptography is not adopted in time. The new deadline forces relevant businesses to accelerate their transition.",
-        "de": "Das Weiße Haus gab eine Anordnung heraus, die vor nationalen Sicherheitsrisiken warnt, wenn die post-quanten Kryptographie nicht rechtzeitig übernommen wird. Die neue Frist zwingt relevante Unternehmen, ihren Übergang zu beschleunigen."
+        "zh": "白宫发布命令，警告如果不及时采用后量子密码学，将面临国家安全风险。因此，截止日期被大幅提前，以确保加密技术的安全性。",
+        "en": "The White House issued an order warning of national security risks if post-quantum cryptography isn't adopted in time. As a result, the deadline has been significantly shortened to ensure the security of cryptographic technology.",
+        "de": "Das Weiße Haus gab eine Anordnung heraus, die vor nationalen Sicherheitsrisiken warnt, wenn die post-quanten-Kryptografie nicht rechtzeitig angenommen wird. Daher wurde die Frist erheblich verkürzt, um die Sicherheit der kryptografischen Technologie zu gewährleisten."
       },
       "source": "Ars Technica – AI",
       "date": "2026-06-23",
       "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "Oracle 的 21,000 次裁员助推其债务驱动的 AI 投资",
+        "en": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+        "de": "Die 21.000 Entlassungen von Oracle treiben seine schuldenfinanzierten KI-Investitionen voran"
+      },
+      "summary": {
+        "zh": "Oracle 通过裁员 21,000 人来推动其债务驱动的人工智能投资，尽管这引发了对公司未来战略的担忧。该公司正在大举投资数据中心基础设施，以支持其 AI 发展。",
+        "en": "Oracle is driving its debt-fueled AI investments by laying off 21,000 employees, raising concerns about the company's future strategy. The company is making significant investments in data center infrastructure to support its AI development.",
+        "de": "Oracle treibt seine schuldenfinanzierten KI-Investitionen voran, indem es 21.000 Mitarbeiter entlässt, was Bedenken hinsichtlich der zukünftigen Strategie des Unternehmens aufwirft. Das Unternehmen investiert erheblich in die Infrastruktur von Rechenzentren, um seine KI-Entwicklung zu unterstützen."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-06-23",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗战争第117天：核查争议，美国参议院限制战争权力",
-        "en": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
-        "de": "Iran-Krieg Tag 117: Streit um Nuklearkontrollen, während der US-Senat die Kriegsmacht einschränkt"
+        "zh": "十年后，英国仍在应对脱欧的后果",
+        "en": "Did Brexit actually work?",
+        "de": "Hat der Brexit tatsächlich funktioniert?"
       },
       "summary": {
-        "zh": "在伊朗与美国之间的核查争议中，谈判者在60天内推动达成最终协议。美国参议院通过了一项限制总统战争权力的措施。",
-        "en": "In the dispute over nuclear inspections between Iran and the US, negotiators are pushing for a final deal within 60 days. The US Senate passed a measure curbing presidential war powers.",
-        "de": "Im Streit um Nuklearkontrollen zwischen Iran und den USA drängen die Verhandler auf einen endgültigen Deal innerhalb von 60 Tagen. Der US-Senat verabschiedete ein Gesetz zur Einschränkung der Kriegsmacht des Präsidenten."
+        "zh": "脱欧投票改变了英国的命运，十年后，英国仍在努力应对其后果。各方对脱欧的影响和效果存在分歧，讨论仍在继续。",
+        "en": "The Brexit vote changed the fate of the UK, and ten years later, the country is still grappling with its consequences. There are differing opinions on the impact and effectiveness of Brexit, and discussions continue.",
+        "de": "Die Brexit-Abstimmung hat das Schicksal des Vereinigten Königreichs verändert, und zehn Jahre später kämpft das Land immer noch mit den Folgen. Es gibt unterschiedliche Meinungen über die Auswirkungen und die Wirksamkeit des Brexits, und die Diskussionen dauern an."
       },
       "source": "Al Jazeera",
       "date": "2026-06-24",
-      "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/did-brexit-actually-work?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "加纳庆祝在世界杯中与英格兰战平0-0",
-        "en": "Ghana celebrates after holding nervous England to 0-0 draw",
-        "de": "Ghana feiert nach dem 0:0-Unentschieden gegen ein nervöses England"
+        "zh": "法国记录自测量以来的最高气温",
+        "en": "Power outages hit France as it records hottest day since measurements began",
+        "de": "Stromausfälle in Frankreich, da es den heißesten Tag seit Beginn der Messungen verzeichnet"
       },
       "summary": {
-        "zh": "加纳在世界杯中与英格兰战平，民众走上街头庆祝这一历史性时刻。这场比赛展示了加纳队的实力与韧性。",
-        "en": "Ghana held England to a 0-0 draw in the World Cup, prompting celebrations in the streets. This match showcased the strength and resilience of the Ghanaian team.",
-        "de": "Ghana hielt England in der Weltmeisterschaft zu einem 0:0-Unentschieden, was zu Feiern auf den Straßen führte. Dieses Spiel zeigte die Stärke und Widerstandsfähigkeit der ghanaischen Mannschaft."
+        "zh": "法国国家气象局报告称，法国经历了自1947年以来的最高气温，导致全国范围内的电力中断。气候变化的影响引发了对能源基础设施的重新思考。",
+        "en": "France's national weather agency reports that the country has experienced its hottest day since records began in 1947, leading to widespread power outages. The impact of climate change has prompted a reevaluation of energy infrastructure.",
+        "de": "Die nationale Wetterbehörde Frankreichs berichtet, dass das Land den heißesten Tag seit Beginn der Aufzeichnungen im Jahr 1947 erlebt hat, was zu weit verbreiteten Stromausfällen führte. Die Auswirkungen des Klimawandels haben eine Neubewertung der Energieinfrastruktur ausgelöst."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-06-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ghana-celebrates-after-holding-nervous-england-to-0-0-draw?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "国会首次通过战争权力措施，打破与特朗普的关系",
-        "en": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-        "de": "Der Kongress verabschiedet erstmals ein Gesetz zu Kriegsmächten und bricht mit Trump über den Iran"
+        "zh": "联合国核首席表示检查员将访问伊朗地点",
+        "en": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+        "de": "UN-Atomchef sagt, Inspektoren werden iranische Standorte im Rahmen des Kriegsdeals besuchen"
       },
       "summary": {
-        "zh": "国会通过的这一决议在象征上具有重要意义，增加了对白宫结束冲突的压力。此举标志着与特朗普政府的重大分歧。",
-        "en": "The resolution passed by Congress holds significant symbolic importance, increasing pressure on the White House to end the conflict. This move marks a major divergence from the Trump administration.",
-        "de": "Die vom Kongress verabschiedete Resolution hat eine bedeutende symbolische Bedeutung und erhöht den Druck auf das Weiße Haus, den Konflikt zu beenden. Dieser Schritt markiert eine große Abweichung von der Trump-Administration."
+        "zh": "国际原子能机构（IAEA）总干事拉斐尔·格罗西表示，检查员将访问伊朗的核设施，作为与美国达成的最终协议的一部分。这一声明标志着国际核监督的一个重要步骤。",
+        "en": "IAEA Director General Rafael Grossi stated that inspectors will visit Iran's nuclear facilities as part of a final deal with the U.S. This announcement marks an important step in international nuclear oversight.",
+        "de": "IAEA-Generaldirektor Rafael Grossi erklärte, dass Inspektoren iranische Nuklearanlagen im Rahmen eines endgültigen Deals mit den USA besuchen werden. Diese Ankündigung stellt einen wichtigen Schritt in der internationalen nuklearen Aufsicht dar."
       },
       "source": "BBC News – World",
       "date": "2026-06-24",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国对伊朗石油实施广泛制裁豁免，为德黑兰解锁数十亿收入",
+        "zh": "美国对伊朗石油制裁的豁免释放数十亿收入",
         "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
-        "de": "Die USA erlassen umfassende Ausnahmen von den Iran-Öl-Sanktionen und schalten Milliarden von Einnahmen für Teheran frei"
+        "de": "Die USA erlassen umfassende Ausnahmen von den Iran-Ölsanktionen und schalten Milliarden von Einnahmen für Teheran frei"
       },
       "summary": {
-        "zh": "美国对伊朗石油的制裁豁免为德黑兰提供了数十亿的经济支持，正值和平协议谈判进行之际。这一举措可能会影响全球能源市场。",
-        "en": "The U.S. sanctions waivers on Iranian oil provide Tehran with billions in economic support as peace negotiations progress. This move could impact the global energy market.",
-        "de": "Die Ausnahmen von den US-Sanktionen für iranisches Öl bieten Teheran Milliarden an wirtschaftlicher Unterstützung, während die Friedensverhandlungen voranschreiten. Dieser Schritt könnte den globalen Energiemarkt beeinflussen."
+        "zh": "美国对伊朗石油的制裁豁免为德黑兰解锁了数十亿美元的收入，这一举措是在和平协议谈判进行时采取的。此举可能会影响全球油市的供需平衡。",
+        "en": "The U.S. sanctions waivers on Iranian oil have unlocked billions in revenue for Tehran, a move taken amid ongoing peace negotiations. This action could impact the supply-demand balance in the global oil market.",
+        "de": "Die US-Sanktionen gegen iranisches Öl haben Milliarden von Einnahmen für Teheran freigesetzt, eine Maßnahme, die im Zuge laufender Friedensverhandlungen ergriffen wurde. Diese Maßnahme könnte das Angebot-Nachfrage-Gleichgewicht auf dem globalen Ölmarkt beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-23",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "工厂裁员接近金融危机和新冠疫情水平，标准普尔表示",
+        "zh": "工厂裁员接近金融危机和新冠水平",
         "en": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
         "de": "Fabrikschließungen im Juni nähern sich den Niveaus der Finanzkrise und von Covid, sagt S&P"
       },
       "summary": {
-        "zh": "标准普尔报告称，尽管六月份的制造业指数表现好于预期，但裁员数量接近金融危机和新冠疫情期间的水平。",
-        "en": "S&P reports that while the manufacturing index for June performed better than expected, the number of layoffs is nearing levels seen during the financial crisis and Covid pandemic.",
-        "de": "S&P berichtet, dass der Fertigungsindex für Juni besser als erwartet abschnitt, die Anzahl der Entlassungen jedoch den während der Finanzkrise und der Covid-Pandemie beobachteten Niveaus nahekommt."
+        "zh": "标准普尔表示，尽管6月的制造业指数表现好于预期，但工厂裁员接近金融危机和新冠疫情期间的水平，反映出经济的不确定性。",
+        "en": "S&P reports that factory job cuts in June neared levels seen during the financial crisis and Covid, despite the manufacturing index performing better than expected. This reflects ongoing economic uncertainty.",
+        "de": "S&P berichtet, dass die Fabrikschließungen im Juni sich den Niveaus nähern, die während der Finanzkrise und von Covid zu sehen waren, obwohl der Herstellungsindex besser als erwartet abschnitt. Dies spiegelt die anhaltende wirtschaftliche Unsicherheit wider."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-23",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "SpaceX完成有史以来最大规模的AI债务交易之一",
-        "en": "SpaceX pulls off one of the biggest AI debt deals yet",
-        "de": "SpaceX vollzieht einen der größten KI-Schuldenabschlüsse bisher"
+        "zh": "华尔街现在相信买入下跌，这正是你应该担心的",
+        "en": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
+        "de": "Jeder an der Wall Street glaubt jetzt daran, bei Rückgängen zu kaufen. Genau das ist der Grund, warum Sie sich Sorgen machen sollten."
       },
       "summary": {
-        "zh": "SpaceX最近完成了一项可能是今年最大规模的AI债务交易，预计将帮助其偿还现有债务。这一交易标志着公司在AI领域的进一步投资。",
-        "en": "SpaceX recently completed what could be one of the largest AI debt deals of the year, expected to help pay off existing debt. This transaction marks the company's further investment in the AI sector.",
-        "de": "SpaceX hat kürzlich einen der größten KI-Schuldenabschlüsse des Jahres abgeschlossen, der voraussichtlich zur Begleichung bestehender Schulden beitragen wird. Diese Transaktion markiert die weitere Investition des Unternehmens im KI-Sektor."
+        "zh": "华尔街普遍相信买入下跌的策略，但分析师警告，这种策略在长期内可能表现不佳。投资者应谨慎对待这种看似轻松的投资策略。",
+        "en": "Wall Street widely believes in the strategy of buying the dip, but analysts warn that this approach may underperform in the long run. Investors should be cautious about this seemingly easy investment strategy.",
+        "de": "An der Wall Street glaubt man weitgehend an die Strategie, bei Rückgängen zu kaufen, aber Analysten warnen, dass dieser Ansatz langfristig unterdurchschnittlich abschneiden könnte. Investoren sollten bei dieser scheinbar einfachen Anlagestrategie vorsichtig sein."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-06-23",
-      "url": "https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories"
+      "date": "2026-06-24",
+      "url": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories"
     }
   ]
 }
