@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-23T18:18:04.428268+00:00",
+  "generatedAt": "2026-06-24T07:59:55.269390+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：芯片制造的未来和Anthropic与政府的冲突",
-        "en": "The Download: the future of chipmaking and Anthropic’s government clash",
-        "de": "Der Download: die Zukunft der Chipproduktion und der Konflikt von Anthropic mit der Regierung"
+        "zh": "超声成像将机器人手变成灵巧的模仿者",
+        "en": "Ultrasound imaging turns a robot hand into a skillful mimic",
+        "de": "Ultraschallbildgebung verwandelt eine Roboterhand in einen geschickten Nachahmer"
       },
       "summary": {
-        "zh": "本期《下载》讨论了芯片制造的未来以及Anthropic与政府之间的冲突，强调了技术领域的最新动态。",
-        "en": "This edition of The Download discusses the future of chipmaking and the clash between Anthropic and the government, highlighting the latest developments in the tech sector.",
-        "de": "Diese Ausgabe des Downloads behandelt die Zukunft der Chipproduktion und den Konflikt zwischen Anthropic und der Regierung und hebt die neuesten Entwicklungen im Technologiesektor hervor."
+        "zh": "研究人员利用超声成像技术，使机器人手能够模仿人类手的灵活性和精确性。这一进展可能在医疗和制造领域带来革命性的变化。",
+        "en": "Researchers have utilized ultrasound imaging technology to enable a robot hand to mimic the dexterity and precision of a human hand. This advancement could bring revolutionary changes in medical and manufacturing fields.",
+        "de": "Forscher haben Ultraschallbildgebungstechnologie genutzt, um einer Roboterhand zu ermöglichen, die Geschicklichkeit und Präzision einer menschlichen Hand nachzuahmen. Dieser Fortschritt könnte revolutionäre Veränderungen in der Medizin und der Fertigung mit sich bringen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-23",
-      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
+      "url": "https://www.technologyreview.com/2026/06/23/1138279/ultrasound-imaging-turns-a-robot-hand-into-a-skillful-mimic/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "大象警报！AI警告系统旨在避免致命冲突",
-        "en": "Elephant alert! AI warning systems aim to avoid deadly clashes",
-        "de": "Elefantenalarm! KI-Warnsysteme sollen tödliche Zusammenstöße vermeiden"
+        "zh": "工程化“迷你肝脏”可作为移植替代品注射",
+        "en": "Engineered “mini livers” could be injected as an alternative to transplantation",
+        "de": "Ingenieurmäßige „Mini-Lebern“ könnten als Alternative zur Transplantation injiziert werden"
       },
       "summary": {
-        "zh": "印度拥有约60%的亚洲野生大象，AI警告系统的引入旨在减少人类与大象之间的致命冲突。",
-        "en": "India is home to about 60% of the world's wild Asian elephants, and the introduction of AI warning systems aims to reduce deadly clashes between humans and elephants.",
-        "de": "Indien beherbergt etwa 60 % der wildlebenden asiatischen Elefanten der Welt, und die Einführung von KI-Warnsystemen zielt darauf ab, tödliche Zusammenstöße zwischen Menschen und Elefanten zu reduzieren."
+        "zh": "由Sangeeta Bhatia教授及其团队开发的工程化迷你肝脏技术，可能为成千上万的慢性肝病患者提供新的希望。这一技术的应用可能会改变肝脏移植的未来。",
+        "en": "The engineered mini-liver technology developed by Professor Sangeeta Bhatia and her team could offer new hope to thousands of patients with chronic liver diseases. The application of this technology may change the future of liver transplantation.",
+        "de": "Die von Professor Sangeeta Bhatia und ihrem Team entwickelte Technologie für ingenieurmäßige Mini-Lebern könnte Tausenden von Patienten mit chronischen Lebererkrankungen neue Hoffnung bieten. Die Anwendung dieser Technologie könnte die Zukunft der Lebertransplantation verändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-23",
-      "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/"
+      "url": "https://www.technologyreview.com/2026/06/23/1138285/engineered-mini-livers-could-be-injected-as-an-alternative-to-transplantation/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "价值4亿美元的机器推动芯片制造的未来",
-        "en": "The $400 million machine powering the future of chipmaking",
-        "de": "Die 400-Millionen-Dollar-Maschine, die die Zukunft der Chipproduktion antreibt"
+        "zh": "白宫大幅缩短放弃量子脆弱加密的截止日期",
+        "en": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+        "de": "Das Weiße Haus verkürzt drastisch die Frist für den Verzicht auf quantenanfällige Krypto"
       },
       "summary": {
-        "zh": "一台价值4亿美元的机器被认为是推动未来芯片制造的关键，展示了技术进步的潜力。",
-        "en": "A $400 million machine is seen as a key driver of the future of chipmaking, showcasing the potential of technological advancements.",
-        "de": "Eine 400-Millionen-Dollar-Maschine wird als Schlüsseltriebkraft für die Zukunft der Chipproduktion angesehen und zeigt das Potenzial technologischer Fortschritte."
+        "zh": "白宫发布命令，警告如果不及时采用后量子密码学，将面临国家安全风险。新的截止日期迫使相关企业加快转型。",
+        "en": "The White House issued an order warning of national security risks if post-quantum cryptography is not adopted in time. The new deadline forces relevant businesses to accelerate their transition.",
+        "de": "Das Weiße Haus gab eine Anordnung heraus, die vor nationalen Sicherheitsrisiken warnt, wenn die post-quanten Kryptographie nicht rechtzeitig übernommen wird. Die neue Frist zwingt relevante Unternehmen, ihren Übergang zu beschleunigen."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-06-23",
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
+      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "为什么英国首相不断辞职？",
-        "en": "Why do the UK’s prime ministers keep resigning?",
-        "de": "Warum treten die britischen Premierminister ständig zurück?"
+        "zh": "伊朗战争第117天：核查争议，美国参议院限制战争权力",
+        "en": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+        "de": "Iran-Krieg Tag 117: Streit um Nuklearkontrollen, während der US-Senat die Kriegsmacht einschränkt"
       },
       "summary": {
-        "zh": "基尔·斯塔默是最新一位辞职的英国首相，他在任职不到两年后选择辞职，反映了英国政治的不稳定性。",
-        "en": "Keir Starmer is the latest UK Prime Minister to resign, stepping down after less than two years in office, reflecting the instability in British politics.",
-        "de": "Keir Starmer ist der neueste britische Premierminister, der zurücktritt, nachdem er weniger als zwei Jahre im Amt war, was die Instabilität in der britischen Politik widerspiegelt."
+        "zh": "在伊朗与美国之间的核查争议中，谈判者在60天内推动达成最终协议。美国参议院通过了一项限制总统战争权力的措施。",
+        "en": "In the dispute over nuclear inspections between Iran and the US, negotiators are pushing for a final deal within 60 days. The US Senate passed a measure curbing presidential war powers.",
+        "de": "Im Streit um Nuklearkontrollen zwischen Iran und den USA drängen die Verhandler auf einen endgültigen Deal innerhalb von 60 Tagen. Der US-Senat verabschiedete ein Gesetz zur Einschränkung der Kriegsmacht des Präsidenten."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/23/why-do-the-uks-prime-ministers-keep-resigning?traffic_source=rss"
+      "date": "2026-06-24",
+      "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列军队在被占领的西岸点燃橄榄树",
-        "en": "Israeli forces set olive trees on fire in occupied West Bank",
-        "de": "Israelische Streitkräfte setzen Olivenbäume im besetzten Westjordanland in Brand"
+        "zh": "加纳庆祝在世界杯中与英格兰战平0-0",
+        "en": "Ghana celebrates after holding nervous England to 0-0 draw",
+        "de": "Ghana feiert nach dem 0:0-Unentschieden gegen ein nervöses England"
       },
       "summary": {
-        "zh": "以色列军队在小型巴勒斯坦村庄Rummanah点燃橄榄树，造成了严重的破坏和冲突。",
-        "en": "Israeli forces set olive trees on fire in the small Palestinian village of Rummanah, causing significant destruction and conflict.",
-        "de": "Israelische Streitkräfte setzten Olivenbäume im kleinen palästinensischen Dorf Rummanah in Brand, was zu erheblichen Zerstörungen und Konflikten führte."
+        "zh": "加纳在世界杯中与英格兰战平，民众走上街头庆祝这一历史性时刻。这场比赛展示了加纳队的实力与韧性。",
+        "en": "Ghana held England to a 0-0 draw in the World Cup, prompting celebrations in the streets. This match showcased the strength and resilience of the Ghanaian team.",
+        "de": "Ghana hielt England in der Weltmeisterschaft zu einem 0:0-Unentschieden, was zu Feiern auf den Straßen führte. Dieses Spiel zeigte die Stärke und Widerstandsfähigkeit der ghanaischen Mannschaft."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-forces-set-olive-trees-on-fire-in-occupied-west-bank?traffic_source=rss"
+      "date": "2026-06-24",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ghana-celebrates-after-holding-nervous-england-to-0-0-draw?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "欧盟首次接待塔利班官员进行遣返谈判",
-        "en": "EU hosts Taliban officials for the first time in talks on deportations",
-        "de": "Die EU empfängt zum ersten Mal Taliban-Vertreter zu Gesprächen über Abschiebungen"
+        "zh": "国会首次通过战争权力措施，打破与特朗普的关系",
+        "en": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+        "de": "Der Kongress verabschiedet erstmals ein Gesetz zu Kriegsmächten und bricht mit Trump über den Iran"
       },
       "summary": {
-        "zh": "尽管塔利班政府未被任何欧洲国家承认，欧盟在布鲁塞尔与塔利班官员举行了首次遣返谈判。",
-        "en": "Despite the Taliban government not being recognized by any European country, the EU held its first deportation talks with Taliban officials in Brussels.",
-        "de": "Obwohl die Taliban-Regierung von keinem europäischen Land anerkannt wird, führte die EU in Brüssel die ersten Abschiebungsgespräche mit Taliban-Vertretern."
+        "zh": "国会通过的这一决议在象征上具有重要意义，增加了对白宫结束冲突的压力。此举标志着与特朗普政府的重大分歧。",
+        "en": "The resolution passed by Congress holds significant symbolic importance, increasing pressure on the White House to end the conflict. This move marks a major divergence from the Trump administration.",
+        "de": "Die vom Kongress verabschiedete Resolution hat eine bedeutende symbolische Bedeutung und erhöht den Druck auf das Weiße Haus, den Konflikt zu beenden. Dieser Schritt markiert eine große Abweichung von der Trump-Administration."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-23",
-      "url": "https://www.aljazeera.com/news/2026/6/23/eu-hosts-taliban-officials-for-the-first-time-in-talks-on-deportations?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-06-24",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "6月工厂裁员接近金融危机和新冠水平，标准普尔表示",
-        "en": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
-        "de": "Fabrikschließungen im Juni nähern sich den Niveaus der Finanzkrise und von Covid, sagt S&P"
-      },
-      "summary": {
-        "zh": "尽管6月制造业指数好于预期，但由于大规模裁员，工厂裁员接近金融危机和新冠疫情期间的水平。",
-        "en": "Despite the manufacturing index performing better than expected in June, factory job cuts are nearing levels seen during the financial crisis and the Covid pandemic due to mass layoffs.",
-        "de": "Trotz der besseren als erwarteten Leistung des Fertigungsindex im Juni nähern sich die Fabrikschließungen den während der Finanzkrise und der Covid-Pandemie beobachteten Niveaus aufgrund von Massenentlassungen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-06-23",
-      "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "美国发布广泛的伊朗石油制裁豁免，为德黑兰解锁数十亿收入",
+        "zh": "美国对伊朗石油实施广泛制裁豁免，为德黑兰解锁数十亿收入",
         "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
         "de": "Die USA erlassen umfassende Ausnahmen von den Iran-Öl-Sanktionen und schalten Milliarden von Einnahmen für Teheran frei"
       },
       "summary": {
-        "zh": "美国对伊朗石油的制裁豁免为德黑兰提供了数十亿的经济收入，可能影响全球市场。",
-        "en": "The U.S. waivers on sanctions against Iranian oil provide Tehran with billions in economic revenue, potentially impacting global markets.",
-        "de": "Die US-Ausnahmen von den Sanktionen gegen iranisches Öl bieten Teheran Milliarden an wirtschaftlichen Einnahmen, was potenziell die globalen Märkte beeinflussen könnte."
+        "zh": "美国对伊朗石油的制裁豁免为德黑兰提供了数十亿的经济支持，正值和平协议谈判进行之际。这一举措可能会影响全球能源市场。",
+        "en": "The U.S. sanctions waivers on Iranian oil provide Tehran with billions in economic support as peace negotiations progress. This move could impact the global energy market.",
+        "de": "Die Ausnahmen von den US-Sanktionen für iranisches Öl bieten Teheran Milliarden an wirtschaftlicher Unterstützung, während die Friedensverhandlungen voranschreiten. Dieser Schritt könnte den globalen Energiemarkt beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-23",
       "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "这项科技“恐惧指标”接近20年来的高点。投资者应该担心。",
-        "en": "This tech ‘fear gauge’ is nearing a two-decade high. Investors should worry.",
-        "de": "Dieser Technologie-„Angstindikator“ nähert sich einem Zwei-Jahrzehnte-Hoch. Investoren sollten sich Sorgen machen."
+        "zh": "工厂裁员接近金融危机和新冠疫情水平，标准普尔表示",
+        "en": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+        "de": "Fabrikschließungen im Juni nähern sich den Niveaus der Finanzkrise und von Covid, sagt S&P"
       },
       "summary": {
-        "zh": "华尔街的主要“恐惧指标”接近20年来的高点，投资者应关注市场波动。",
-        "en": "Wall Street's main 'fear gauge' is nearing a two-decade high, and investors should pay attention to market volatility.",
-        "de": "Der Haupt-„Angstindikator“ von Wall Street nähert sich einem Zwei-Jahrzehnte-Hoch, und Investoren sollten auf die Marktvolatilität achten."
+        "zh": "标准普尔报告称，尽管六月份的制造业指数表现好于预期，但裁员数量接近金融危机和新冠疫情期间的水平。",
+        "en": "S&P reports that while the manufacturing index for June performed better than expected, the number of layoffs is nearing levels seen during the financial crisis and Covid pandemic.",
+        "de": "S&P berichtet, dass der Fertigungsindex für Juni besser als erwartet abschnitt, die Anzahl der Entlassungen jedoch den während der Finanzkrise und der Covid-Pandemie beobachteten Niveaus nahekommt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-06-23",
+      "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "SpaceX完成有史以来最大规模的AI债务交易之一",
+        "en": "SpaceX pulls off one of the biggest AI debt deals yet",
+        "de": "SpaceX vollzieht einen der größten KI-Schuldenabschlüsse bisher"
+      },
+      "summary": {
+        "zh": "SpaceX最近完成了一项可能是今年最大规模的AI债务交易，预计将帮助其偿还现有债务。这一交易标志着公司在AI领域的进一步投资。",
+        "en": "SpaceX recently completed what could be one of the largest AI debt deals of the year, expected to help pay off existing debt. This transaction marks the company's further investment in the AI sector.",
+        "de": "SpaceX hat kürzlich einen der größten KI-Schuldenabschlüsse des Jahres abgeschlossen, der voraussichtlich zur Begleichung bestehender Schulden beitragen wird. Diese Transaktion markiert die weitere Investition des Unternehmens im KI-Sektor."
       },
       "source": "MarketWatch – Top Stories",
       "date": "2026-06-23",
-      "url": "https://www.marketwatch.com/story/this-tech-fear-gauge-is-nearing-a-two-decade-high-investors-should-worry-691ed639?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85?mod=mw_rss_topstories"
     }
   ]
 }
