@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-25T08:01:04.701679+00:00",
+  "generatedAt": "2026-06-25T18:29:07.859218+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "Stripe、Anthropic和OpenAI支持停止呼吸道感染的努力",
-        "en": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-        "de": "Stripe, Anthropic und OpenAI unterstützen eine Initiative zur Bekämpfung von Atemwegsinfektionen"
+        "zh": "为人工智能时代重新定位零售",
+        "en": "Repositioning retail for the AI era",
+        "de": "Neuausrichtung des Einzelhandels für das KI-Zeitalter"
       },
       "summary": {
-        "zh": "Stripe、Anthropic和OpenAI联合支持一项旨在阻止呼吸道感染的努力，尤其是普通感冒。该项目希望通过技术手段来改善公共健康。",
-        "en": "Stripe, Anthropic, and OpenAI are jointly supporting an initiative aimed at stopping respiratory infections, particularly the common cold. The project seeks to leverage technology to improve public health.",
-        "de": "Stripe, Anthropic und OpenAI unterstützen gemeinsam eine Initiative zur Bekämpfung von Atemwegsinfektionen, insbesondere der Erkältung. Das Projekt zielt darauf ab, Technologie zur Verbesserung der öffentlichen Gesundheit zu nutzen."
+        "zh": "人工智能正在迅速重塑零售行业，但消费者可能不会立即注意到这些变化。最大的转变可能在于零售商如何利用AI来优化运营和客户体验。",
+        "en": "Artificial intelligence is rapidly reshaping the retail sector, though consumers may not immediately notice these changes. The biggest transformation may lie in how retailers leverage AI to optimize operations and enhance customer experiences.",
+        "de": "Künstliche Intelligenz verändert schnell den Einzelhandelssektor, obwohl Verbraucher diese Veränderungen möglicherweise nicht sofort bemerken. Die größte Transformation könnte darin liegen, wie Einzelhändler KI nutzen, um Abläufe zu optimieren und das Kundenerlebnis zu verbessern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-24",
-      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
+      "date": "2026-06-25",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "人工智能的网络数据基础设施层的出现",
-        "en": "The emergence of the web data infrastructure layer for AI",
-        "de": "Das Aufkommen der Webdateninfrastruktur für KI"
+        "zh": "IBM推出可帮助延续摩尔定律十年的芯片技术",
+        "en": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+        "de": "IBM hat Chiptechnologie vorgestellt, die helfen könnte, das Mooresche Gesetz um ein weiteres Jahrzehnt zu verlängern"
       },
       "summary": {
-        "zh": "随着人工智能的快速发展，企业需要大规模的数据来充分利用这一技术的潜力。新的网络数据基础设施层正在兴起，以满足这一需求。",
-        "en": "With the rapid development of artificial intelligence, enterprises require data at scale to fully leverage the potential of this technology. A new web data infrastructure layer is emerging to meet this demand.",
-        "de": "Mit der rasanten Entwicklung der künstlichen Intelligenz benötigen Unternehmen Daten in großem Umfang, um das Potenzial dieser Technologie vollständig auszuschöpfen. Eine neue Webdateninfrastruktur entsteht, um dieser Nachfrage gerecht zu werden."
+        "zh": "IBM推出了一种新原型芯片，面积与指甲大小相同，拥有约1000亿个晶体管，密度是公司现有芯片的两倍。这一技术可能会延续摩尔定律。",
+        "en": "IBM has introduced a new prototype chip the size of a fingernail with around 100 billion transistors, doubling the density of the company's existing chips. This technology could extend Moore's Law.",
+        "de": "IBM hat einen neuen Prototyp-Chip vorgestellt, der die Größe eines Fingernagels hat und etwa 100 Milliarden Transistoren enthält, was die Dichte der bestehenden Chips des Unternehmens verdoppelt. Diese Technologie könnte das Mooresche Gesetz verlängern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-24",
-      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+      "date": "2026-06-25",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "全球行动中的一记重拳破坏网络犯罪“生产线”",
-        "en": "One-two punch delivered in global operation disrupts cybercrime 'assembly line'",
-        "de": "Ein Doppelschlag in einer globalen Operation stört die 'Produktionslinie' der Cyberkriminalität"
+        "zh": "Oracle的21000名裁员推动其债务驱动的人工智能投资",
+        "en": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+        "de": "Die 21.000 Entlassungen von Oracle treiben seine schuldenfinanzierten KI-Investitionen voran"
       },
       "summary": {
-        "zh": "在一项全球行动中，执法机构成功破坏了两个广泛使用的网络犯罪工具，标志着对网络犯罪的重大打击。",
-        "en": "In a global operation, law enforcement successfully disrupted two widely used cybercrime tools, marking a significant blow against cybercrime.",
-        "de": "In einer globalen Operation haben die Strafverfolgungsbehörden zwei weit verbreitete Cyberkriminalitätswerkzeuge erfolgreich gestört, was einen erheblichen Schlag gegen die Cyberkriminalität darstellt."
+        "zh": "Oracle正在花费数十亿美元用于数据中心基础设施，以支持其人工智能项目。这一投资是其裁员计划的直接结果。",
+        "en": "Oracle is spending billions on data center infrastructure to support its AI initiatives, a move directly resulting from its layoff plan.",
+        "de": "Oracle investiert Milliarden in die Infrastruktur von Rechenzentren zur Unterstützung seiner KI-Initiativen, eine Maßnahme, die direkt aus seinem Entlassungsplan resultiert."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-06-24",
-      "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/"
+      "date": "2026-06-23",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "委内瑞拉地震后救援人员从废墟中拉出幸存者",
-        "en": "Rescuers pull survivors from rubble after Venezuela earthquakes",
-        "de": "Rettungskräfte ziehen Überlebende aus den Trümmern nach den Erdbeben in Venezuela"
+        "zh": "俄罗斯将在首届U-15世界杯上重返FIFA比赛",
+        "en": "Russia set to return to FIFA competition at inaugural U-15 World Cup",
+        "de": "Russland kehrt bei der ersten U-15-Weltmeisterschaft zu FIFA-Wettbewerben zurück"
       },
       "summary": {
-        "zh": "在委内瑞拉发生的两次强烈地震后，救援工作正在进行中，许多人被困在倒塌的建筑物中。国家已宣布进入紧急状态。",
-        "en": "Following two powerful earthquakes in Venezuela, rescue efforts are underway as many remain trapped in collapsed buildings. The country has declared a state of emergency.",
-        "de": "Nach zwei starken Erdbeben in Venezuela laufen die Rettungsarbeiten, da viele in eingestürzten Gebäuden eingeschlossen sind. Das Land hat den Notstand ausgerufen."
+        "zh": "国际足联首届U-15世界杯将在十月举行，所有会员协会均可参赛，这为俄罗斯的回归铺平了道路。",
+        "en": "FIFA's inaugural U-15 World Cup will take place in October, allowing all member associations to participate, paving the way for Russia's return.",
+        "de": "Die erste U-15-Weltmeisterschaft der FIFA findet im Oktober statt, und alle Mitgliedsverbände können teilnehmen, was den Weg für Russlands Rückkehr ebnet."
       },
       "source": "Al Jazeera",
       "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rescuers-pull-survivors-from-rubble-after-venezuela-earthquakes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/sports/2026/6/25/russia-set-to-return-to-fifa-competition-as-inaugural-u-15-world-cup?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "委内瑞拉遭遇7.5和7.2级地震：发生了什么以及我们知道的情况",
-        "en": "Venezuela rocked by 7.5, 7.2 earthquakes: What happened and what we know",
-        "de": "Venezuela von Erdbeben der Stärke 7,5 und 7,2 erschüttert: Was passiert ist und was wir wissen"
+        "zh": "美国最高法院缩减Roundup癌症诉讼，企业获胜",
+        "en": "US Supreme Court scales back Roundup cancer lawsuits in victory for company",
+        "de": "US-Oberster Gerichtshof schränkt Roundup-Krebs-Klagen ein – Sieg für das Unternehmen"
       },
       "summary": {
-        "zh": "委内瑞拉经历了两次强烈地震，导致广泛破坏和人员伤亡。国家正在进行紧急救援和恢复工作。",
-        "en": "Venezuela has experienced two strong earthquakes, resulting in widespread destruction and casualties. The country is engaged in emergency rescue and recovery efforts.",
-        "de": "Venezuela hat zwei starke Erdbeben erlebt, die weitreichende Zerstörungen und Opfer zur Folge hatten. Das Land ist mit Notrettungs- und Wiederherstellungsarbeiten beschäftigt."
+        "zh": "美国最高法院裁定，超过10万名原告在州和联邦法院提起的与除草剂Roundup相关的癌症诉讼被大幅缩减，这对该公司来说是一次胜利。",
+        "en": "The US Supreme Court ruled to significantly scale back cancer lawsuits related to the herbicide Roundup filed by over 100,000 plaintiffs in state and federal courts, marking a victory for the company.",
+        "de": "Der US-Oberste Gerichtshof entschied, dass die Krebs-Klagen in Bezug auf das Herbizid Roundup, die von über 100.000 Klägern in staatlichen und bundesstaatlichen Gerichten eingereicht wurden, erheblich eingeschränkt werden, was einen Sieg für das Unternehmen darstellt."
       },
       "source": "Al Jazeera",
       "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-rocked-by-7-5-7-2-earthquakes-what-happened-and-what-we-know?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普要求国会拨款870亿美元，主要用于“紧急”伊朗战争费用",
-        "en": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
-        "de": "Trump bittet den Kongress um 87 Milliarden Dollar, hauptsächlich für 'dringende' Kosten des Iran-Kriegs"
+        "zh": "乌克兰对克里米亚的攻击造成五人死亡，俄罗斯官员称",
+        "en": "Ukrainian attack on Crimea kills five, Russian officials say",
+        "de": "Ukrainischer Angriff auf die Krim tötet fünf, sagen russische Beamte"
       },
       "summary": {
-        "zh": "特朗普向国会请求87亿美元的拨款，主要用于伊朗战争的紧急费用。然而，这一预算面临挑战，因为立法者刚刚对特朗普的军事行动表示反对。",
-        "en": "Trump has requested $87 billion in funding from Congress, primarily for urgent costs related to the Iran war. However, this budget faces challenges as lawmakers recently rebuked Trump's military actions.",
-        "de": "Trump hat den Kongress um 87 Milliarden Dollar an Mitteln gebeten, hauptsächlich für dringende Kosten im Zusammenhang mit dem Iran-Krieg. Dieses Budget steht jedoch vor Herausforderungen, da die Gesetzgeber Trumps militärische Aktionen kürzlich zurückgewiesen haben."
+        "zh": "乌克兰对克里米亚的攻击导致五人死亡，俄罗斯官员表示，地面攻击仍在继续，莫斯科驱逐了罗马尼亚总领事。",
+        "en": "A Ukrainian attack on Crimea has resulted in five deaths, according to Russian officials, as ground attacks continue and Moscow expels Romania's consul general.",
+        "de": "Ein ukrainischer Angriff auf die Krim hat laut russischen Beamten fünf Todesopfer gefordert, während die Bodenangriffe andauern und Moskau den Konsul von Rumänien ausweist."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-06-25",
-      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普承诺在委内瑞拉历史性地震后迅速回应",
-        "en": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill dozens",
-        "de": "Trump verspricht schnelle US-Reaktion auf Venezuela nach historischen Erdbeben, die Dutzende getötet haben"
+        "zh": "核心通胀率在5月达到3.4%，为2023年10月以来最高",
+        "en": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
+        "de": "Kerninflationsrate erreichte im Mai 3,4 %, der höchste Wert seit Oktober 2023, zeigt der bevorzugte Maßstab der Fed"
       },
       "summary": {
-        "zh": "特朗普承诺在委内瑞拉发生的历史性地震后迅速提供美国援助，此举反映出特朗普政府与委内瑞拉临时政府之间的外交关系重塑。",
-        "en": "Trump has pledged swift U.S. assistance following the historic earthquakes in Venezuela, reflecting a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government.",
-        "de": "Trump hat schnelle US-Hilfe nach den historischen Erdbeben in Venezuela versprochen, was eine gewisse diplomatische Neuausrichtung zwischen der Trump-Administration und der venezolanischen Übergangsregierung widerspiegelt."
+        "zh": "根据美联储的首选指标，5月核心通胀率达到了3.4%，为2023年10月以来的最高水平，预计个人消费支出价格指数将显示4.1%的年增长率。",
+        "en": "According to the Fed's preferred gauge, the core inflation rate hit 3.4% in May, the highest since October 2023, with the personal consumption expenditures price index expected to show a 4.1% annual increase.",
+        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflationsrate im Mai 3,4 %, den höchsten Wert seit Oktober 2023, wobei der Preisindex für persönliche Konsumausgaben voraussichtlich einen jährlichen Anstieg von 4,1 % zeigen wird."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-06-25",
+      "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "特朗普承诺在历史性地震后迅速响应委内瑞拉",
+        "en": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill hundreds",
+        "de": "Trump verspricht schnelle US-Reaktion auf Venezuela nach historischen Erdbeben, die Hunderte getötet haben"
+      },
+      "summary": {
+        "zh": "特朗普政府迅速提供援助，反映出特朗普政府与委内瑞拉临时政府之间的外交重组。",
+        "en": "The swift U.S. offer of assistance reflects a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government following the historic earthquakes that killed hundreds.",
+        "de": "Das schnelle Hilfsangebot der USA spiegelt eine gewisse diplomatische Neuausrichtung zwischen der Trump-Administration und der venezolanischen Übergangsregierung nach den historischen Erdbeben wider, die Hunderte getötet haben."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-25",
       "url": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "美国对伊朗石油制裁豁免，释放数十亿收入",
-        "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
-        "de": "Die USA erteilen umfassende Ausnahmen von den Iran-Öl-Sanktionen und erschließen Milliarden von Einnahmen für Teheran"
-      },
-      "summary": {
-        "zh": "美国对伊朗石油实施的制裁豁免，可能为德黑兰提供数十亿美元的经济支持，随着和平协议的谈判进行。",
-        "en": "The U.S. has issued waivers on sanctions against Iranian oil, potentially providing Tehran with billions in economic support as negotiations toward a peace deal proceed.",
-        "de": "Die USA haben Ausnahmen von den Sanktionen gegen iranisches Öl erlassen, was Teheran möglicherweise Milliarden an wirtschaftlicher Unterstützung bietet, während die Verhandlungen über ein Friedensabkommen voranschreiten."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-06-23",
-      "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "特斯拉和Waymo在机器人出租车竞赛中对决",
-        "en": "Tesla and Waymo duel in the robotaxi race — but the company spending the most builds no cars at all",
-        "de": "Tesla und Waymo duellieren sich im Robotaxi-Rennen – aber das Unternehmen, das am meisten ausgibt, baut überhaupt keine Autos"
+        "zh": "伊朗警告船只未经其批准在霍尔木兹海峡通行是“不可接受和危险的”",
+        "en": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
+        "de": "Iran warnt Schiffe, dass es 'unacceptable and dangerous' ist, die Straße von Hormuz ohne ihre Genehmigung zu durchqueren"
       },
       "summary": {
-        "zh": "特斯拉和Waymo在机器人出租车市场竞争激烈，而Uber则悄然向其投资500万美元，以确保在这一领域的领先地位。",
-        "en": "Tesla and Waymo are fiercely competing in the robotaxi market, while Uber quietly invests $500 million to secure its leading position in the field.",
-        "de": "Tesla und Waymo konkurrieren heftig im Robotaxi-Markt, während Uber stillschweigend 500 Millionen Dollar investiert, um seine führende Position in diesem Bereich zu sichern."
+        "zh": "伊朗发出严厉警告，强调其对霍尔木兹海峡的控制权，抵制未经其授权的通行，这一警告突显了德黑兰的决心。",
+        "en": "Iran issued a stern warning emphasizing its control over the Strait of Hormuz, resisting transits that bypass its authorization, underscoring Tehran's resolve.",
+        "de": "Iran gab eine strenge Warnung heraus, die seine Kontrolle über die Straße von Hormuz betont und Transite ablehnt, die seine Genehmigung umgehen, was den Entschluss Teherans unterstreicht."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC – Markets",
       "date": "2026-06-25",
-      "url": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html"
     }
   ]
 }
