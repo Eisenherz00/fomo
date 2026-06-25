@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-24T18:14:56.887088+00:00",
+  "generatedAt": "2026-06-25T08:01:04.701679+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "Stripe、Anthropic 和 OpenAI 支持一项努力以阻止呼吸道感染",
+        "zh": "Stripe、Anthropic和OpenAI支持停止呼吸道感染的努力",
         "en": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
         "de": "Stripe, Anthropic und OpenAI unterstützen eine Initiative zur Bekämpfung von Atemwegsinfektionen"
       },
       "summary": {
-        "zh": "Stripe、Anthropic 和 OpenAI 正在支持一项旨在阻止呼吸道感染的努力，尤其是普通感冒，这种疾病每年影响人们多次。该项目希望通过新的技术手段来改善预防和治疗。",
-        "en": "Stripe, Anthropic, and OpenAI are supporting an initiative aimed at stopping respiratory infections, particularly the common cold, which affects people multiple times a year. The project aims to improve prevention and treatment through new technological means.",
-        "de": "Stripe, Anthropic und OpenAI unterstützen eine Initiative zur Bekämpfung von Atemwegsinfektionen, insbesondere der Erkältung, die Menschen mehrmals im Jahr betrifft. Das Projekt zielt darauf ab, Prävention und Behandlung durch neue technologische Mittel zu verbessern."
+        "zh": "Stripe、Anthropic和OpenAI联合支持一项旨在阻止呼吸道感染的努力，尤其是普通感冒。该项目希望通过技术手段来改善公共健康。",
+        "en": "Stripe, Anthropic, and OpenAI are jointly supporting an initiative aimed at stopping respiratory infections, particularly the common cold. The project seeks to leverage technology to improve public health.",
+        "de": "Stripe, Anthropic und OpenAI unterstützen gemeinsam eine Initiative zur Bekämpfung von Atemwegsinfektionen, insbesondere der Erkältung. Das Projekt zielt darauf ab, Technologie zur Verbesserung der öffentlichen Gesundheit zu nutzen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-24",
@@ -20,134 +20,134 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "量子脆弱加密的截止日期被白宫大幅缩短",
-        "en": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
-        "de": "Weißes Haus verkürzt Frist für den Verzicht auf quantenanfällige Krypto drastisch"
+        "zh": "人工智能的网络数据基础设施层的出现",
+        "en": "The emergence of the web data infrastructure layer for AI",
+        "de": "Das Aufkommen der Webdateninfrastruktur für KI"
       },
       "summary": {
-        "zh": "白宫发布命令，警告如果不及时采用后量子密码学，将面临国家安全风险。因此，截止日期被大幅提前，以确保加密技术的安全性。",
-        "en": "The White House issued an order warning of national security risks if post-quantum cryptography isn't adopted in time. As a result, the deadline has been significantly shortened to ensure the security of cryptographic technology.",
-        "de": "Das Weiße Haus gab eine Anordnung heraus, die vor nationalen Sicherheitsrisiken warnt, wenn die post-quanten-Kryptografie nicht rechtzeitig angenommen wird. Daher wurde die Frist erheblich verkürzt, um die Sicherheit der kryptografischen Technologie zu gewährleisten."
+        "zh": "随着人工智能的快速发展，企业需要大规模的数据来充分利用这一技术的潜力。新的网络数据基础设施层正在兴起，以满足这一需求。",
+        "en": "With the rapid development of artificial intelligence, enterprises require data at scale to fully leverage the potential of this technology. A new web data infrastructure layer is emerging to meet this demand.",
+        "de": "Mit der rasanten Entwicklung der künstlichen Intelligenz benötigen Unternehmen Daten in großem Umfang, um das Potenzial dieser Technologie vollständig auszuschöpfen. Eine neue Webdateninfrastruktur entsteht, um dieser Nachfrage gerecht zu werden."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-06-23",
-      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
+      "source": "MIT Technology Review",
+      "date": "2026-06-24",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "Oracle 的 21,000 次裁员助推其债务驱动的 AI 投资",
-        "en": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-        "de": "Die 21.000 Entlassungen von Oracle treiben seine schuldenfinanzierten KI-Investitionen voran"
+        "zh": "全球行动中的一记重拳破坏网络犯罪“生产线”",
+        "en": "One-two punch delivered in global operation disrupts cybercrime 'assembly line'",
+        "de": "Ein Doppelschlag in einer globalen Operation stört die 'Produktionslinie' der Cyberkriminalität"
       },
       "summary": {
-        "zh": "Oracle 通过裁员 21,000 人来推动其债务驱动的人工智能投资，尽管这引发了对公司未来战略的担忧。该公司正在大举投资数据中心基础设施，以支持其 AI 发展。",
-        "en": "Oracle is driving its debt-fueled AI investments by laying off 21,000 employees, raising concerns about the company's future strategy. The company is making significant investments in data center infrastructure to support its AI development.",
-        "de": "Oracle treibt seine schuldenfinanzierten KI-Investitionen voran, indem es 21.000 Mitarbeiter entlässt, was Bedenken hinsichtlich der zukünftigen Strategie des Unternehmens aufwirft. Das Unternehmen investiert erheblich in die Infrastruktur von Rechenzentren, um seine KI-Entwicklung zu unterstützen."
+        "zh": "在一项全球行动中，执法机构成功破坏了两个广泛使用的网络犯罪工具，标志着对网络犯罪的重大打击。",
+        "en": "In a global operation, law enforcement successfully disrupted two widely used cybercrime tools, marking a significant blow against cybercrime.",
+        "de": "In einer globalen Operation haben die Strafverfolgungsbehörden zwei weit verbreitete Cyberkriminalitätswerkzeuge erfolgreich gestört, was einen erheblichen Schlag gegen die Cyberkriminalität darstellt."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-06-23",
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
+      "date": "2026-06-24",
+      "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "十年后，英国仍在应对脱欧的后果",
-        "en": "Did Brexit actually work?",
-        "de": "Hat der Brexit tatsächlich funktioniert?"
+        "zh": "委内瑞拉地震后救援人员从废墟中拉出幸存者",
+        "en": "Rescuers pull survivors from rubble after Venezuela earthquakes",
+        "de": "Rettungskräfte ziehen Überlebende aus den Trümmern nach den Erdbeben in Venezuela"
       },
       "summary": {
-        "zh": "脱欧投票改变了英国的命运，十年后，英国仍在努力应对其后果。各方对脱欧的影响和效果存在分歧，讨论仍在继续。",
-        "en": "The Brexit vote changed the fate of the UK, and ten years later, the country is still grappling with its consequences. There are differing opinions on the impact and effectiveness of Brexit, and discussions continue.",
-        "de": "Die Brexit-Abstimmung hat das Schicksal des Vereinigten Königreichs verändert, und zehn Jahre später kämpft das Land immer noch mit den Folgen. Es gibt unterschiedliche Meinungen über die Auswirkungen und die Wirksamkeit des Brexits, und die Diskussionen dauern an."
+        "zh": "在委内瑞拉发生的两次强烈地震后，救援工作正在进行中，许多人被困在倒塌的建筑物中。国家已宣布进入紧急状态。",
+        "en": "Following two powerful earthquakes in Venezuela, rescue efforts are underway as many remain trapped in collapsed buildings. The country has declared a state of emergency.",
+        "de": "Nach zwei starken Erdbeben in Venezuela laufen die Rettungsarbeiten, da viele in eingestürzten Gebäuden eingeschlossen sind. Das Land hat den Notstand ausgerufen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-24",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/did-brexit-actually-work?traffic_source=rss"
+      "date": "2026-06-25",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rescuers-pull-survivors-from-rubble-after-venezuela-earthquakes?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "法国记录自测量以来的最高气温",
-        "en": "Power outages hit France as it records hottest day since measurements began",
-        "de": "Stromausfälle in Frankreich, da es den heißesten Tag seit Beginn der Messungen verzeichnet"
+        "zh": "委内瑞拉遭遇7.5和7.2级地震：发生了什么以及我们知道的情况",
+        "en": "Venezuela rocked by 7.5, 7.2 earthquakes: What happened and what we know",
+        "de": "Venezuela von Erdbeben der Stärke 7,5 und 7,2 erschüttert: Was passiert ist und was wir wissen"
       },
       "summary": {
-        "zh": "法国国家气象局报告称，法国经历了自1947年以来的最高气温，导致全国范围内的电力中断。气候变化的影响引发了对能源基础设施的重新思考。",
-        "en": "France's national weather agency reports that the country has experienced its hottest day since records began in 1947, leading to widespread power outages. The impact of climate change has prompted a reevaluation of energy infrastructure.",
-        "de": "Die nationale Wetterbehörde Frankreichs berichtet, dass das Land den heißesten Tag seit Beginn der Aufzeichnungen im Jahr 1947 erlebt hat, was zu weit verbreiteten Stromausfällen führte. Die Auswirkungen des Klimawandels haben eine Neubewertung der Energieinfrastruktur ausgelöst."
+        "zh": "委内瑞拉经历了两次强烈地震，导致广泛破坏和人员伤亡。国家正在进行紧急救援和恢复工作。",
+        "en": "Venezuela has experienced two strong earthquakes, resulting in widespread destruction and casualties. The country is engaged in emergency rescue and recovery efforts.",
+        "de": "Venezuela hat zwei starke Erdbeben erlebt, die weitreichende Zerstörungen und Opfer zur Folge hatten. Das Land ist mit Notrettungs- und Wiederherstellungsarbeiten beschäftigt."
       },
-      "source": "BBC News – World",
-      "date": "2026-06-24",
-      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-06-25",
+      "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-rocked-by-7-5-7-2-earthquakes-what-happened-and-what-we-know?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "联合国核首席表示检查员将访问伊朗地点",
-        "en": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-        "de": "UN-Atomchef sagt, Inspektoren werden iranische Standorte im Rahmen des Kriegsdeals besuchen"
+        "zh": "特朗普要求国会拨款870亿美元，主要用于“紧急”伊朗战争费用",
+        "en": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+        "de": "Trump bittet den Kongress um 87 Milliarden Dollar, hauptsächlich für 'dringende' Kosten des Iran-Kriegs"
       },
       "summary": {
-        "zh": "国际原子能机构（IAEA）总干事拉斐尔·格罗西表示，检查员将访问伊朗的核设施，作为与美国达成的最终协议的一部分。这一声明标志着国际核监督的一个重要步骤。",
-        "en": "IAEA Director General Rafael Grossi stated that inspectors will visit Iran's nuclear facilities as part of a final deal with the U.S. This announcement marks an important step in international nuclear oversight.",
-        "de": "IAEA-Generaldirektor Rafael Grossi erklärte, dass Inspektoren iranische Nuklearanlagen im Rahmen eines endgültigen Deals mit den USA besuchen werden. Diese Ankündigung stellt einen wichtigen Schritt in der internationalen nuklearen Aufsicht dar."
+        "zh": "特朗普向国会请求87亿美元的拨款，主要用于伊朗战争的紧急费用。然而，这一预算面临挑战，因为立法者刚刚对特朗普的军事行动表示反对。",
+        "en": "Trump has requested $87 billion in funding from Congress, primarily for urgent costs related to the Iran war. However, this budget faces challenges as lawmakers recently rebuked Trump's military actions.",
+        "de": "Trump hat den Kongress um 87 Milliarden Dollar an Mitteln gebeten, hauptsächlich für dringende Kosten im Zusammenhang mit dem Iran-Krieg. Dieses Budget steht jedoch vor Herausforderungen, da die Gesetzgeber Trumps militärische Aktionen kürzlich zurückgewiesen haben."
       },
       "source": "BBC News – World",
-      "date": "2026-06-24",
-      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss"
+      "date": "2026-06-25",
+      "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国对伊朗石油制裁的豁免释放数十亿收入",
-        "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
-        "de": "Die USA erlassen umfassende Ausnahmen von den Iran-Ölsanktionen und schalten Milliarden von Einnahmen für Teheran frei"
+        "zh": "特朗普承诺在委内瑞拉历史性地震后迅速回应",
+        "en": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill dozens",
+        "de": "Trump verspricht schnelle US-Reaktion auf Venezuela nach historischen Erdbeben, die Dutzende getötet haben"
       },
       "summary": {
-        "zh": "美国对伊朗石油的制裁豁免为德黑兰解锁了数十亿美元的收入，这一举措是在和平协议谈判进行时采取的。此举可能会影响全球油市的供需平衡。",
-        "en": "The U.S. sanctions waivers on Iranian oil have unlocked billions in revenue for Tehran, a move taken amid ongoing peace negotiations. This action could impact the supply-demand balance in the global oil market.",
-        "de": "Die US-Sanktionen gegen iranisches Öl haben Milliarden von Einnahmen für Teheran freigesetzt, eine Maßnahme, die im Zuge laufender Friedensverhandlungen ergriffen wurde. Diese Maßnahme könnte das Angebot-Nachfrage-Gleichgewicht auf dem globalen Ölmarkt beeinflussen."
+        "zh": "特朗普承诺在委内瑞拉发生的历史性地震后迅速提供美国援助，此举反映出特朗普政府与委内瑞拉临时政府之间的外交关系重塑。",
+        "en": "Trump has pledged swift U.S. assistance following the historic earthquakes in Venezuela, reflecting a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government.",
+        "de": "Trump hat schnelle US-Hilfe nach den historischen Erdbeben in Venezuela versprochen, was eine gewisse diplomatische Neuausrichtung zwischen der Trump-Administration und der venezolanischen Übergangsregierung widerspiegelt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-06-25",
+      "url": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "美国对伊朗石油制裁豁免，释放数十亿收入",
+        "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+        "de": "Die USA erteilen umfassende Ausnahmen von den Iran-Öl-Sanktionen und erschließen Milliarden von Einnahmen für Teheran"
+      },
+      "summary": {
+        "zh": "美国对伊朗石油实施的制裁豁免，可能为德黑兰提供数十亿美元的经济支持，随着和平协议的谈判进行。",
+        "en": "The U.S. has issued waivers on sanctions against Iranian oil, potentially providing Tehran with billions in economic support as negotiations toward a peace deal proceed.",
+        "de": "Die USA haben Ausnahmen von den Sanktionen gegen iranisches Öl erlassen, was Teheran möglicherweise Milliarden an wirtschaftlicher Unterstützung bietet, während die Verhandlungen über ein Friedensabkommen voranschreiten."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-23",
       "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "工厂裁员接近金融危机和新冠水平",
-        "en": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
-        "de": "Fabrikschließungen im Juni nähern sich den Niveaus der Finanzkrise und von Covid, sagt S&P"
-      },
-      "summary": {
-        "zh": "标准普尔表示，尽管6月的制造业指数表现好于预期，但工厂裁员接近金融危机和新冠疫情期间的水平，反映出经济的不确定性。",
-        "en": "S&P reports that factory job cuts in June neared levels seen during the financial crisis and Covid, despite the manufacturing index performing better than expected. This reflects ongoing economic uncertainty.",
-        "de": "S&P berichtet, dass die Fabrikschließungen im Juni sich den Niveaus nähern, die während der Finanzkrise und von Covid zu sehen waren, obwohl der Herstellungsindex besser als erwartet abschnitt. Dies spiegelt die anhaltende wirtschaftliche Unsicherheit wider."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-06-23",
-      "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "华尔街现在相信买入下跌，这正是你应该担心的",
-        "en": "Everyone on Wall Street now believes in buying the dip. That is exactly why you should worry.",
-        "de": "Jeder an der Wall Street glaubt jetzt daran, bei Rückgängen zu kaufen. Genau das ist der Grund, warum Sie sich Sorgen machen sollten."
+        "zh": "特斯拉和Waymo在机器人出租车竞赛中对决",
+        "en": "Tesla and Waymo duel in the robotaxi race — but the company spending the most builds no cars at all",
+        "de": "Tesla und Waymo duellieren sich im Robotaxi-Rennen – aber das Unternehmen, das am meisten ausgibt, baut überhaupt keine Autos"
       },
       "summary": {
-        "zh": "华尔街普遍相信买入下跌的策略，但分析师警告，这种策略在长期内可能表现不佳。投资者应谨慎对待这种看似轻松的投资策略。",
-        "en": "Wall Street widely believes in the strategy of buying the dip, but analysts warn that this approach may underperform in the long run. Investors should be cautious about this seemingly easy investment strategy.",
-        "de": "An der Wall Street glaubt man weitgehend an die Strategie, bei Rückgängen zu kaufen, aber Analysten warnen, dass dieser Ansatz langfristig unterdurchschnittlich abschneiden könnte. Investoren sollten bei dieser scheinbar einfachen Anlagestrategie vorsichtig sein."
+        "zh": "特斯拉和Waymo在机器人出租车市场竞争激烈，而Uber则悄然向其投资500万美元，以确保在这一领域的领先地位。",
+        "en": "Tesla and Waymo are fiercely competing in the robotaxi market, while Uber quietly invests $500 million to secure its leading position in the field.",
+        "de": "Tesla und Waymo konkurrieren heftig im Robotaxi-Markt, während Uber stillschweigend 500 Millionen Dollar investiert, um seine führende Position in diesem Bereich zu sichern."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-06-24",
-      "url": "https://www.marketwatch.com/story/everyone-on-wall-street-now-believes-in-buying-the-dip-that-is-exactly-why-you-should-worry-44582465?mod=mw_rss_topstories"
+      "date": "2026-06-25",
+      "url": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories"
     }
   ]
 }
