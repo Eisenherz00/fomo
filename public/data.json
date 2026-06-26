@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-26T08:08:20.890314+00:00",
+  "generatedAt": "2026-06-26T18:08:14.634885+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "为人工智能时代重新定位零售",
+        "zh": "重新定位零售以适应人工智能时代",
         "en": "Repositioning retail for the AI era",
-        "de": "Neuorientierung des Einzelhandels für das KI-Zeitalter"
+        "de": "Umgestaltung des Einzelhandels für das KI-Zeitalter"
       },
       "summary": {
-        "zh": "人工智能正在迅速重塑零售行业，但消费者可能不会立即注意到这些变化。最大的转变可能并不是表面上显而易见的。",
-        "en": "Artificial intelligence is rapidly reshaping retail, but consumers may not notice these changes immediately. The biggest transformation may not be immediately apparent.",
-        "de": "Künstliche Intelligenz verändert den Einzelhandel rasant, aber die Verbraucher werden diese Veränderungen möglicherweise nicht sofort bemerken. Die größte Transformation könnte nicht sofort erkennbar sein."
+        "zh": "人工智能正在迅速重塑零售行业，但这种变化并不一定会立刻被消费者注意到。最大的转变可能在于零售商如何利用AI来优化运营和客户体验。",
+        "en": "Artificial intelligence is rapidly reshaping retail, but not in ways consumers might immediately notice. The biggest transformation may lie in how retailers leverage AI to optimize operations and enhance customer experiences.",
+        "de": "Künstliche Intelligenz verändert den Einzelhandel schnell, jedoch nicht in einer Weise, die den Verbrauchern sofort auffällt. Die größte Transformation könnte darin liegen, wie Einzelhändler KI nutzen, um den Betrieb zu optimieren und das Kundenerlebnis zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-25",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "IBM推出的芯片技术可能帮助延续摩尔定律十年",
+        "zh": "IBM推出的芯片技术可能帮助摩尔定律再延续十年",
         "en": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-        "de": "IBM hat Chip-Technologie vorgestellt, die helfen könnte, das Moore'sche Gesetz um ein weiteres Jahrzehnt zu verlängern"
+        "de": "IBM hat Chiptechnologie vorgestellt, die helfen könnte, das Moore'sche Gesetz um ein weiteres Jahrzehnt zu verlängern"
       },
       "summary": {
-        "zh": "IBM推出了一种新原型芯片，面积相当于指甲，拥有大约1000亿个晶体管，密度是该公司现有芯片的两倍。",
-        "en": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company's existing chips.",
-        "de": "IBM hat einen neuen Prototyp-Chip mit rund 100 Milliarden Transistoren auf einer Fläche von der Größe eines Fingernagels entwickelt, was die doppelte Dichte der bestehenden Chips des Unternehmens darstellt."
+        "zh": "IBM推出了一种新原型芯片，面积仅为指甲大小，拥有约1000亿个晶体管，这一密度是该公司现有技术的两倍。这项技术可能会推动计算能力的进一步提升。",
+        "en": "IBM has introduced a new prototype chip that contains around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company's existing technology. This advancement could drive further enhancements in computing power.",
+        "de": "IBM hat einen neuen Prototyp-Chip vorgestellt, der etwa 100 Milliarden Transistoren auf einer Fläche von der Größe eines Fingernagels enthält, was die doppelte Dichte der bestehenden Technologie des Unternehmens darstellt. Dieser Fortschritt könnte weitere Verbesserungen der Rechenleistung vorantreiben."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-25",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "Notion因大多数用户使用AI代理而终止Skiff影响的电子邮件应用",
         "en": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-        "de": "Notion beendet die von Skiff beeinflusste E-Mail-App, da die meisten Nutzer stattdessen KI-Agenten verwenden"
+        "de": "Notion beendet die von Skiff beeinflusste E-Mail-App, da die meisten Benutzer stattdessen KI-Agenten verwenden"
       },
       "summary": {
-        "zh": "Notion决定停止支持Skiff影响的电子邮件应用，转而专注于使用AI代理来管理用户的收件箱。",
-        "en": "Notion has decided to discontinue support for the Skiff-influenced email app, focusing instead on using AI agents to manage users' inboxes.",
-        "de": "Notion hat beschlossen, die Unterstützung für die von Skiff beeinflusste E-Mail-App einzustellen und sich stattdessen auf die Nutzung von KI-Agenten zur Verwaltung der Postfächer der Nutzer zu konzentrieren."
+        "zh": "Notion决定停止其受Skiff影响的电子邮件应用程序，原因是大多数用户更倾向于使用AI代理来管理他们的收件箱。这一转变反映了AI在日常工具中的日益重要性。",
+        "en": "Notion has decided to discontinue its Skiff-influenced email application, as most users prefer to use AI agents to manage their inboxes. This shift reflects the growing importance of AI in everyday tools.",
+        "de": "Notion hat beschlossen, die von Skiff beeinflusste E-Mail-Anwendung einzustellen, da die meisten Benutzer es vorziehen, KI-Agenten zur Verwaltung ihrer Postfächer zu verwenden. Dieser Wandel spiegelt die wachsende Bedeutung von KI in alltäglichen Werkzeugen wider."
       },
       "source": "Ars Technica – AI",
       "date": "2026-06-25",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国最高法院允许特朗普结束海地和叙利亚移民的保护身份",
-        "en": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-        "de": "Oberster Gerichtshof erlaubt Trump, den geschützten Status für haitianische und syrische Einwanderer zu beenden"
+        "zh": "美国宣布以色列与黎巴嫩之间的框架协议",
+        "en": "US announces framework agreement between Israel and Lebanon",
+        "de": "USA kündigen Rahmenvereinbarung zwischen Israel und Libanon an"
       },
       "summary": {
-        "zh": "美国最高法院支持特朗普政府结束对海地和叙利亚移民的临时保护身份，可能导致数十万移民被驱逐出境。",
-        "en": "The U.S. Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS) for Haitian and Syrian immigrants, potentially leading to the deportation of hundreds of thousands.",
-        "de": "Der US-Oberste Gerichtshof hat sich mit der Trump-Administration verbündet, um den vorübergehenden Schutzstatus (TPS) für haitianische und syrische Einwanderer zu beenden, was möglicherweise zur Abschiebung von Hunderttausenden führen könnte."
+        "zh": "美国国务卿马尔科·鲁比奥宣布在华盛顿特区进行的会谈后达成的以色列与黎巴嫩之间的框架协议。这一协议旨在缓解两国之间的紧张关系。",
+        "en": "US Secretary of State Marco Rubio announced a framework agreement between Israel and Lebanon following talks in Washington, DC. The agreement aims to ease tensions between the two nations.",
+        "de": "US-Außenminister Marco Rubio kündigte eine Rahmenvereinbarung zwischen Israel und Libanon nach Gesprächen in Washington, DC, an. Die Vereinbarung soll die Spannungen zwischen den beiden Nationen verringern."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-06-26",
-      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列袭击黎巴嫩，国际原子能机构表示将重返伊朗",
-        "en": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
-        "de": "Iran-Kriegstag 119: Israel greift Libanon an, während die IAEA sagt, sie werde nach Iran zurückkehren"
+        "zh": "尼日利亚拉各斯建筑倒塌造成九人遇难",
+        "en": "Nine people killed in building collapse in Lagos, Nigeria",
+        "de": "Neun Menschen bei Gebäudeeinsturz in Lagos, Nigeria, getötet"
       },
       "summary": {
-        "zh": "在伊朗战争的第119天，以色列对黎巴嫩进行袭击，同时国际原子能机构表示将重返伊朗进行谈判。",
-        "en": "On day 119 of the Iran war, Israel has launched attacks on Lebanon while the IAEA announces its intention to return to Iran for negotiations.",
-        "de": "Am 119. Tag des Iran-Kriegs hat Israel Angriffe auf den Libanon gestartet, während die IAEA ihre Absicht bekannt gibt, nach Iran zurückzukehren, um Verhandlungen zu führen."
+        "zh": "尼日利亚拉各斯的一栋建筑物倒塌，造成九人遇难，二十七人受伤。州长已下令对周边地区进行安全检查。",
+        "en": "A building collapse in Lagos, Nigeria, has resulted in nine fatalities and twenty-seven injuries. The governor has ordered safety checks in the surrounding area.",
+        "de": "Ein Gebäudeeinsturz in Lagos, Nigeria, hat neun Todesopfer und siebenundzwanzig Verletzte gefordert. Der Gouverneur hat Sicherheitsüberprüfungen in der Umgebung angeordnet."
       },
       "source": "Al Jazeera",
       "date": "2026-06-26",
-      "url": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "联合国在货船遭袭后暂停霍尔木兹撤离计划",
-        "en": "UN pauses Hormuz ship evacuation plan after first vessel attack under peace deal",
-        "de": "UN pausiert Evakuierungsplan für Schiffe im Hormuz nach dem ersten Angriff auf ein Schiff unter dem Friedensabkommen"
+        "zh": "美国纽约市为一百万个受监管公寓冻结租金",
+        "en": "New York City freezes rents for one million regulated apartments",
+        "de": "New York City friert die Mieten für eine Million regulierte Wohnungen ein"
       },
       "summary": {
-        "zh": "在霍尔木兹海峡一艘货船遭到袭击后，联合国暂停了撤离计划，显示出该地区局势的脆弱性。",
-        "en": "The UN has paused its evacuation plan for ships in the Strait of Hormuz following an attack on a cargo vessel, highlighting the fragility of the situation in the region.",
-        "de": "Die UN hat ihren Evakuierungsplan für Schiffe im Hormuz nach einem Angriff auf ein Frachtschiff ausgesetzt, was die Fragilität der Situation in der Region unterstreicht."
+        "zh": "纽约市的租金冻结措施满足了市长佐赫兰·曼达尼的一个重要竞选承诺，影响到一百万个受监管的公寓。",
+        "en": "New York City's rent freeze fulfills a key campaign promise from Mayor Zohran Mamdani, impacting one million regulated apartments.",
+        "de": "Die Mietpreisbremse in New York City erfüllt ein wichtiges Wahlversprechen von Bürgermeister Zohran Mamdani und betrifft eine Million regulierte Wohnungen."
       },
-      "source": "CNBC – Markets",
+      "source": "Al Jazeera",
       "date": "2026-06-26",
-      "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html"
+      "url": "https://www.aljazeera.com/economy/2026/6/26/new-york-city-freezes-rents-for-one-million-regulated-apartments?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "核心通胀率在5月达到3.4%，为2023年10月以来的最高水平",
-        "en": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
-        "de": "Kerninflationsrate erreichte im Mai 3,4 %, der höchste Wert seit Oktober 2023, zeigt der bevorzugte Maßstab der Fed"
+        "zh": "霍尔木兹海峡的航运在美伊协议一周后反弹，但脆弱的信心威胁复苏",
+        "en": "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery",
+        "de": "Der Versand im Persischen Golf erholt sich eine Woche nach dem US-Iran-Abkommen – aber fragile Zuversicht bedroht die Erholung"
       },
       "summary": {
-        "zh": "根据美联储的首选指标，5月的核心通胀率达到了3.4%，是自2023年10月以来的最高水平，这可能影响未来的货币政策。",
-        "en": "According to the Fed's preferred gauge, the core inflation rate reached 3.4% in May, the highest since October 2023, which may influence future monetary policy.",
-        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflationsrate im Mai 3,4 %, den höchsten Wert seit Oktober 2023, was zukünftige Geldpolitik beeinflussen könnte."
+        "zh": "在美国和伊朗签署临时和平协议一周后，霍尔木兹海峡的航运流量有所恢复。然而，脆弱的信心可能会影响这一复苏的持续性。",
+        "en": "Shipping traffic through the Strait of Hormuz has rebounded one week after the U.S. and Iran signed an interim peace deal. However, fragile confidence may threaten the sustainability of this recovery.",
+        "de": "Der Schiffsverkehr durch die Straße von Hormuz hat sich eine Woche nach dem Abschluss eines vorläufigen Friedensabkommens zwischen den USA und dem Iran erholt. Fragile Zuversicht könnte jedoch die Nachhaltigkeit dieser Erholung gefährden."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-06-26",
+      "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "核心通胀率在五月达到3.4%，为2023年十月以来最高",
+        "en": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
+        "de": "Die Kerninflationsrate erreichte im Mai 3,4%, den höchsten Wert seit Oktober 2023, zeigt der bevorzugte Maßstab der Fed"
+      },
+      "summary": {
+        "zh": "根据美联储的首选指标，五月的核心通胀率达到了3.4%，是自2023年十月以来的最高水平。这一数据可能会影响未来的货币政策。",
+        "en": "According to the Fed's preferred gauge, the core inflation rate reached 3.4% in May, the highest level since October 2023. This data may influence future monetary policy.",
+        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflationsrate im Mai 3,4%, den höchsten Wert seit Oktober 2023. Diese Daten könnten die zukünftige Geldpolitik beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-25",
       "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
         "zh": "特朗普承诺在历史性地震后迅速回应委内瑞拉",
         "en": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill hundreds",
-        "de": "Trump verspricht schnelle US-Reaktion auf Venezuela nach historischen Erdbeben, die Hunderte getötet haben"
+        "de": "Trump verspricht schnelle US-Reaktion für Venezuela nach historischen Erdbeben, die Hunderte getötet haben"
       },
       "summary": {
-        "zh": "特朗普承诺在委内瑞拉发生的历史性地震后迅速提供美国援助，反映出特朗普政府与委内瑞拉临时政府之间的外交重组。",
-        "en": "Trump has pledged rapid U.S. assistance following historic earthquakes in Venezuela that killed hundreds, reflecting a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government.",
-        "de": "Trump hat schnelle US-Hilfe nach historischen Erdbeben in Venezuela versprochen, die Hunderte getötet haben, was eine gewisse diplomatische Neuausrichtung zwischen der Trump-Administration und der venezolanischen Übergangsregierung widerspiegelt."
+        "zh": "特朗普承诺在委内瑞拉发生的历史性地震后迅速提供美国援助，这一举动反映了特朗普政府与委内瑞拉临时政府之间的外交重组。",
+        "en": "Trump has pledged a swift U.S. response following historic earthquakes in Venezuela that have killed hundreds, reflecting a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government.",
+        "de": "Trump hat eine schnelle US-Reaktion auf die historischen Erdbeben in Venezuela versprochen, die Hunderte getötet haben, was auf eine gewisse diplomatische Neuausrichtung zwischen der Trump-Administration und der venezolanischen Übergangsregierung hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-25",
       "url": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "微软的股票在6月遭遇历史性抛售，投资者对重度支出感到不安",
-        "en": "Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending",
-        "de": "Microsofts Aktien leiden unter einem historischen Juni-Absturz, da Investoren sich gegen hohe Ausgaben sträuben"
-      },
-      "summary": {
-        "zh": "微软的股票在6月经历了历史性的抛售，投资者对公司的重度支出表示担忧，这可能影响其未来的市场表现。",
-        "en": "Microsoft's stock has experienced a historic rout in June as investors express concerns over the company's heavy spending, which may affect its future market performance.",
-        "de": "Microsofts Aktien haben im Juni einen historischen Rückgang erlebt, da Investoren Bedenken hinsichtlich der hohen Ausgaben des Unternehmens äußern, was sich auf die zukünftige Marktleistung auswirken könnte."
-      },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-06-25",
-      "url": "https://www.marketwatch.com/story/microsofts-stock-is-suffering-a-historic-june-rout-as-investors-balk-at-heavy-spending-9afaef1b?mod=mw_rss_topstories"
     }
   ]
 }
