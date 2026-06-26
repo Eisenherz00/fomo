@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-25T18:29:07.859218+00:00",
+  "generatedAt": "2026-06-26T08:08:20.890314+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "为人工智能时代重新定位零售",
         "en": "Repositioning retail for the AI era",
-        "de": "Neuausrichtung des Einzelhandels für das KI-Zeitalter"
+        "de": "Neuorientierung des Einzelhandels für das KI-Zeitalter"
       },
       "summary": {
-        "zh": "人工智能正在迅速重塑零售行业，但消费者可能不会立即注意到这些变化。最大的转变可能在于零售商如何利用AI来优化运营和客户体验。",
-        "en": "Artificial intelligence is rapidly reshaping the retail sector, though consumers may not immediately notice these changes. The biggest transformation may lie in how retailers leverage AI to optimize operations and enhance customer experiences.",
-        "de": "Künstliche Intelligenz verändert schnell den Einzelhandelssektor, obwohl Verbraucher diese Veränderungen möglicherweise nicht sofort bemerken. Die größte Transformation könnte darin liegen, wie Einzelhändler KI nutzen, um Abläufe zu optimieren und das Kundenerlebnis zu verbessern."
+        "zh": "人工智能正在迅速重塑零售行业，但消费者可能不会立即注意到这些变化。最大的转变可能并不是表面上显而易见的。",
+        "en": "Artificial intelligence is rapidly reshaping retail, but consumers may not notice these changes immediately. The biggest transformation may not be immediately apparent.",
+        "de": "Künstliche Intelligenz verändert den Einzelhandel rasant, aber die Verbraucher werden diese Veränderungen möglicherweise nicht sofort bemerken. Die größte Transformation könnte nicht sofort erkennbar sein."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-25",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "IBM推出可帮助延续摩尔定律十年的芯片技术",
+        "zh": "IBM推出的芯片技术可能帮助延续摩尔定律十年",
         "en": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-        "de": "IBM hat Chiptechnologie vorgestellt, die helfen könnte, das Mooresche Gesetz um ein weiteres Jahrzehnt zu verlängern"
+        "de": "IBM hat Chip-Technologie vorgestellt, die helfen könnte, das Moore'sche Gesetz um ein weiteres Jahrzehnt zu verlängern"
       },
       "summary": {
-        "zh": "IBM推出了一种新原型芯片，面积与指甲大小相同，拥有约1000亿个晶体管，密度是公司现有芯片的两倍。这一技术可能会延续摩尔定律。",
-        "en": "IBM has introduced a new prototype chip the size of a fingernail with around 100 billion transistors, doubling the density of the company's existing chips. This technology could extend Moore's Law.",
-        "de": "IBM hat einen neuen Prototyp-Chip vorgestellt, der die Größe eines Fingernagels hat und etwa 100 Milliarden Transistoren enthält, was die Dichte der bestehenden Chips des Unternehmens verdoppelt. Diese Technologie könnte das Mooresche Gesetz verlängern."
+        "zh": "IBM推出了一种新原型芯片，面积相当于指甲，拥有大约1000亿个晶体管，密度是该公司现有芯片的两倍。",
+        "en": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company's existing chips.",
+        "de": "IBM hat einen neuen Prototyp-Chip mit rund 100 Milliarden Transistoren auf einer Fläche von der Größe eines Fingernagels entwickelt, was die doppelte Dichte der bestehenden Chips des Unternehmens darstellt."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-25",
@@ -36,82 +36,82 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "Oracle的21000名裁员推动其债务驱动的人工智能投资",
-        "en": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-        "de": "Die 21.000 Entlassungen von Oracle treiben seine schuldenfinanzierten KI-Investitionen voran"
+        "zh": "Notion因大多数用户使用AI代理而终止Skiff影响的电子邮件应用",
+        "en": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+        "de": "Notion beendet die von Skiff beeinflusste E-Mail-App, da die meisten Nutzer stattdessen KI-Agenten verwenden"
       },
       "summary": {
-        "zh": "Oracle正在花费数十亿美元用于数据中心基础设施，以支持其人工智能项目。这一投资是其裁员计划的直接结果。",
-        "en": "Oracle is spending billions on data center infrastructure to support its AI initiatives, a move directly resulting from its layoff plan.",
-        "de": "Oracle investiert Milliarden in die Infrastruktur von Rechenzentren zur Unterstützung seiner KI-Initiativen, eine Maßnahme, die direkt aus seinem Entlassungsplan resultiert."
+        "zh": "Notion决定停止支持Skiff影响的电子邮件应用，转而专注于使用AI代理来管理用户的收件箱。",
+        "en": "Notion has decided to discontinue support for the Skiff-influenced email app, focusing instead on using AI agents to manage users' inboxes.",
+        "de": "Notion hat beschlossen, die Unterstützung für die von Skiff beeinflusste E-Mail-App einzustellen und sich stattdessen auf die Nutzung von KI-Agenten zur Verwaltung der Postfächer der Nutzer zu konzentrieren."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-06-23",
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
+      "date": "2026-06-25",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯将在首届U-15世界杯上重返FIFA比赛",
-        "en": "Russia set to return to FIFA competition at inaugural U-15 World Cup",
-        "de": "Russland kehrt bei der ersten U-15-Weltmeisterschaft zu FIFA-Wettbewerben zurück"
+        "zh": "美国最高法院允许特朗普结束海地和叙利亚移民的保护身份",
+        "en": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+        "de": "Oberster Gerichtshof erlaubt Trump, den geschützten Status für haitianische und syrische Einwanderer zu beenden"
       },
       "summary": {
-        "zh": "国际足联首届U-15世界杯将在十月举行，所有会员协会均可参赛，这为俄罗斯的回归铺平了道路。",
-        "en": "FIFA's inaugural U-15 World Cup will take place in October, allowing all member associations to participate, paving the way for Russia's return.",
-        "de": "Die erste U-15-Weltmeisterschaft der FIFA findet im Oktober statt, und alle Mitgliedsverbände können teilnehmen, was den Weg für Russlands Rückkehr ebnet."
+        "zh": "美国最高法院支持特朗普政府结束对海地和叙利亚移民的临时保护身份，可能导致数十万移民被驱逐出境。",
+        "en": "The U.S. Supreme Court has sided with the Trump administration in its bid to end Temporary Protected Status (TPS) for Haitian and Syrian immigrants, potentially leading to the deportation of hundreds of thousands.",
+        "de": "Der US-Oberste Gerichtshof hat sich mit der Trump-Administration verbündet, um den vorübergehenden Schutzstatus (TPS) für haitianische und syrische Einwanderer zu beenden, was möglicherweise zur Abschiebung von Hunderttausenden führen könnte."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/sports/2026/6/25/russia-set-to-return-to-fifa-competition-as-inaugural-u-15-world-cup?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-06-26",
+      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国最高法院缩减Roundup癌症诉讼，企业获胜",
-        "en": "US Supreme Court scales back Roundup cancer lawsuits in victory for company",
-        "de": "US-Oberster Gerichtshof schränkt Roundup-Krebs-Klagen ein – Sieg für das Unternehmen"
+        "zh": "以色列袭击黎巴嫩，国际原子能机构表示将重返伊朗",
+        "en": "Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran",
+        "de": "Iran-Kriegstag 119: Israel greift Libanon an, während die IAEA sagt, sie werde nach Iran zurückkehren"
       },
       "summary": {
-        "zh": "美国最高法院裁定，超过10万名原告在州和联邦法院提起的与除草剂Roundup相关的癌症诉讼被大幅缩减，这对该公司来说是一次胜利。",
-        "en": "The US Supreme Court ruled to significantly scale back cancer lawsuits related to the herbicide Roundup filed by over 100,000 plaintiffs in state and federal courts, marking a victory for the company.",
-        "de": "Der US-Oberste Gerichtshof entschied, dass die Krebs-Klagen in Bezug auf das Herbizid Roundup, die von über 100.000 Klägern in staatlichen und bundesstaatlichen Gerichten eingereicht wurden, erheblich eingeschränkt werden, was einen Sieg für das Unternehmen darstellt."
+        "zh": "在伊朗战争的第119天，以色列对黎巴嫩进行袭击，同时国际原子能机构表示将重返伊朗进行谈判。",
+        "en": "On day 119 of the Iran war, Israel has launched attacks on Lebanon while the IAEA announces its intention to return to Iran for negotiations.",
+        "de": "Am 119. Tag des Iran-Kriegs hat Israel Angriffe auf den Libanon gestartet, während die IAEA ihre Absicht bekannt gibt, nach Iran zurückzukehren, um Verhandlungen zu führen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/economy/2026/6/25/us-supreme-court-scales-back-roundup-cancer-lawsuits-in-victory-for-company?traffic_source=rss"
+      "date": "2026-06-26",
+      "url": "https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰对克里米亚的攻击造成五人死亡，俄罗斯官员称",
-        "en": "Ukrainian attack on Crimea kills five, Russian officials say",
-        "de": "Ukrainischer Angriff auf die Krim tötet fünf, sagen russische Beamte"
+        "zh": "联合国在货船遭袭后暂停霍尔木兹撤离计划",
+        "en": "UN pauses Hormuz ship evacuation plan after first vessel attack under peace deal",
+        "de": "UN pausiert Evakuierungsplan für Schiffe im Hormuz nach dem ersten Angriff auf ein Schiff unter dem Friedensabkommen"
       },
       "summary": {
-        "zh": "乌克兰对克里米亚的攻击导致五人死亡，俄罗斯官员表示，地面攻击仍在继续，莫斯科驱逐了罗马尼亚总领事。",
-        "en": "A Ukrainian attack on Crimea has resulted in five deaths, according to Russian officials, as ground attacks continue and Moscow expels Romania's consul general.",
-        "de": "Ein ukrainischer Angriff auf die Krim hat laut russischen Beamten fünf Todesopfer gefordert, während die Bodenangriffe andauern und Moskau den Konsul von Rumänien ausweist."
+        "zh": "在霍尔木兹海峡一艘货船遭到袭击后，联合国暂停了撤离计划，显示出该地区局势的脆弱性。",
+        "en": "The UN has paused its evacuation plan for ships in the Strait of Hormuz following an attack on a cargo vessel, highlighting the fragility of the situation in the region.",
+        "de": "Die UN hat ihren Evakuierungsplan für Schiffe im Hormuz nach einem Angriff auf ein Frachtschiff ausgesetzt, was die Fragilität der Situation in der Region unterstreicht."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-25",
-      "url": "https://www.aljazeera.com/news/2026/6/25/ukrainian-attack-on-crimea-kills-five-russian-officials-say?traffic_source=rss"
+      "source": "CNBC – Markets",
+      "date": "2026-06-26",
+      "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-vessel-attack-evacuation-pauses-iran-united-states-peace-deal-negotiation-.html"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "核心通胀率在5月达到3.4%，为2023年10月以来最高",
+        "zh": "核心通胀率在5月达到3.4%，为2023年10月以来的最高水平",
         "en": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
         "de": "Kerninflationsrate erreichte im Mai 3,4 %, der höchste Wert seit Oktober 2023, zeigt der bevorzugte Maßstab der Fed"
       },
       "summary": {
-        "zh": "根据美联储的首选指标，5月核心通胀率达到了3.4%，为2023年10月以来的最高水平，预计个人消费支出价格指数将显示4.1%的年增长率。",
-        "en": "According to the Fed's preferred gauge, the core inflation rate hit 3.4% in May, the highest since October 2023, with the personal consumption expenditures price index expected to show a 4.1% annual increase.",
-        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflationsrate im Mai 3,4 %, den höchsten Wert seit Oktober 2023, wobei der Preisindex für persönliche Konsumausgaben voraussichtlich einen jährlichen Anstieg von 4,1 % zeigen wird."
+        "zh": "根据美联储的首选指标，5月的核心通胀率达到了3.4%，是自2023年10月以来的最高水平，这可能影响未来的货币政策。",
+        "en": "According to the Fed's preferred gauge, the core inflation rate reached 3.4% in May, the highest since October 2023, which may influence future monetary policy.",
+        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflationsrate im Mai 3,4 %, den höchsten Wert seit Oktober 2023, was zukünftige Geldpolitik beeinflussen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-25",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普承诺在历史性地震后迅速响应委内瑞拉",
+        "zh": "特朗普承诺在历史性地震后迅速回应委内瑞拉",
         "en": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill hundreds",
         "de": "Trump verspricht schnelle US-Reaktion auf Venezuela nach historischen Erdbeben, die Hunderte getötet haben"
       },
       "summary": {
-        "zh": "特朗普政府迅速提供援助，反映出特朗普政府与委内瑞拉临时政府之间的外交重组。",
-        "en": "The swift U.S. offer of assistance reflects a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government following the historic earthquakes that killed hundreds.",
-        "de": "Das schnelle Hilfsangebot der USA spiegelt eine gewisse diplomatische Neuausrichtung zwischen der Trump-Administration und der venezolanischen Übergangsregierung nach den historischen Erdbeben wider, die Hunderte getötet haben."
+        "zh": "特朗普承诺在委内瑞拉发生的历史性地震后迅速提供美国援助，反映出特朗普政府与委内瑞拉临时政府之间的外交重组。",
+        "en": "Trump has pledged rapid U.S. assistance following historic earthquakes in Venezuela that killed hundreds, reflecting a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government.",
+        "de": "Trump hat schnelle US-Hilfe nach historischen Erdbeben in Venezuela versprochen, die Hunderte getötet haben, was eine gewisse diplomatische Neuausrichtung zwischen der Trump-Administration und der venezolanischen Übergangsregierung widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-25",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "伊朗警告船只未经其批准在霍尔木兹海峡通行是“不可接受和危险的”",
-        "en": "Iran warns ships it's 'unacceptable and dangerous' to transit the Strait of Hormuz without their approval",
-        "de": "Iran warnt Schiffe, dass es 'unacceptable and dangerous' ist, die Straße von Hormuz ohne ihre Genehmigung zu durchqueren"
+        "zh": "微软的股票在6月遭遇历史性抛售，投资者对重度支出感到不安",
+        "en": "Microsoft’s stock is suffering a historic June rout as investors balk at heavy spending",
+        "de": "Microsofts Aktien leiden unter einem historischen Juni-Absturz, da Investoren sich gegen hohe Ausgaben sträuben"
       },
       "summary": {
-        "zh": "伊朗发出严厉警告，强调其对霍尔木兹海峡的控制权，抵制未经其授权的通行，这一警告突显了德黑兰的决心。",
-        "en": "Iran issued a stern warning emphasizing its control over the Strait of Hormuz, resisting transits that bypass its authorization, underscoring Tehran's resolve.",
-        "de": "Iran gab eine strenge Warnung heraus, die seine Kontrolle über die Straße von Hormuz betont und Transite ablehnt, die seine Genehmigung umgehen, was den Entschluss Teherans unterstreicht."
+        "zh": "微软的股票在6月经历了历史性的抛售，投资者对公司的重度支出表示担忧，这可能影响其未来的市场表现。",
+        "en": "Microsoft's stock has experienced a historic rout in June as investors express concerns over the company's heavy spending, which may affect its future market performance.",
+        "de": "Microsofts Aktien haben im Juni einen historischen Rückgang erlebt, da Investoren Bedenken hinsichtlich der hohen Ausgaben des Unternehmens äußern, was sich auf die zukünftige Marktleistung auswirken könnte."
       },
-      "source": "CNBC – Markets",
+      "source": "MarketWatch – Top Stories",
       "date": "2026-06-25",
-      "url": "https://www.cnbc.com/2026/06/25/iran-navy-shipping-recovery-strait-of-hormuz-unauthorized-routes-us-fragile-mou-.html"
+      "url": "https://www.marketwatch.com/story/microsofts-stock-is-suffering-a-historic-june-rout-as-investors-balk-at-heavy-spending-9afaef1b?mod=mw_rss_topstories"
     }
   ]
 }
