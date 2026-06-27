@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T18:08:14.634885+00:00",
+  "generatedAt": "2026-06-27T07:36:29.965721+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Umgestaltung des Einzelhandels für das KI-Zeitalter"
       },
       "summary": {
-        "zh": "人工智能正在迅速重塑零售行业，但这种变化并不一定会立刻被消费者注意到。最大的转变可能在于零售商如何利用AI来优化运营和客户体验。",
-        "en": "Artificial intelligence is rapidly reshaping retail, but not in ways consumers might immediately notice. The biggest transformation may lie in how retailers leverage AI to optimize operations and enhance customer experiences.",
-        "de": "Künstliche Intelligenz verändert den Einzelhandel schnell, jedoch nicht in einer Weise, die den Verbrauchern sofort auffällt. Die größte Transformation könnte darin liegen, wie Einzelhändler KI nutzen, um den Betrieb zu optimieren und das Kundenerlebnis zu verbessern."
+        "zh": "人工智能正在迅速重塑零售行业，但并非消费者立即能察觉的方式。最大的转变可能在于零售商如何利用AI优化运营和客户体验。",
+        "en": "Artificial intelligence is rapidly reshaping retail, but not in ways that consumers might immediately notice. The biggest transformation may lie in how retailers leverage AI to optimize operations and customer experiences.",
+        "de": "Künstliche Intelligenz verändert den Einzelhandel schnell, jedoch nicht auf eine Weise, die Verbraucher sofort bemerken könnten. Die größte Transformation könnte darin liegen, wie Einzelhändler KI nutzen, um ihre Abläufe und Kundenerfahrungen zu optimieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-25",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "IBM推出的芯片技术可能帮助摩尔定律再延续十年",
+        "zh": "IBM推出的芯片技术可能帮助延续摩尔定律十年",
         "en": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
         "de": "IBM hat Chiptechnologie vorgestellt, die helfen könnte, das Moore'sche Gesetz um ein weiteres Jahrzehnt zu verlängern"
       },
       "summary": {
-        "zh": "IBM推出了一种新原型芯片，面积仅为指甲大小，拥有约1000亿个晶体管，这一密度是该公司现有技术的两倍。这项技术可能会推动计算能力的进一步提升。",
-        "en": "IBM has introduced a new prototype chip that contains around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company's existing technology. This advancement could drive further enhancements in computing power.",
-        "de": "IBM hat einen neuen Prototyp-Chip vorgestellt, der etwa 100 Milliarden Transistoren auf einer Fläche von der Größe eines Fingernagels enthält, was die doppelte Dichte der bestehenden Technologie des Unternehmens darstellt. Dieser Fortschritt könnte weitere Verbesserungen der Rechenleistung vorantreiben."
+        "zh": "IBM推出了一款新原型芯片，拥有约1000亿个晶体管，面积仅为指甲大小，这一密度是公司之前产品的两倍。此技术可能为摩尔定律的延续提供支持。",
+        "en": "IBM has unveiled a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company's previous products. This technology could support the continuation of Moore's Law.",
+        "de": "IBM hat einen neuen Prototyp-Chip mit rund 100 Milliarden Transistoren auf einer Fläche von der Größe eines Fingernagels vorgestellt, was die doppelte Dichte der vorherigen Produkte des Unternehmens darstellt. Diese Technologie könnte die Fortsetzung des Moore'schen Gesetzes unterstützen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-25",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "Notion因大多数用户使用AI代理而终止Skiff影响的电子邮件应用",
         "en": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-        "de": "Notion beendet die von Skiff beeinflusste E-Mail-App, da die meisten Benutzer stattdessen KI-Agenten verwenden"
+        "de": "Notion beendet Skiff-beeinflusste E-Mail-App, da die meisten Nutzer stattdessen KI-Agenten verwenden"
       },
       "summary": {
-        "zh": "Notion决定停止其受Skiff影响的电子邮件应用程序，原因是大多数用户更倾向于使用AI代理来管理他们的收件箱。这一转变反映了AI在日常工具中的日益重要性。",
-        "en": "Notion has decided to discontinue its Skiff-influenced email application, as most users prefer to use AI agents to manage their inboxes. This shift reflects the growing importance of AI in everyday tools.",
-        "de": "Notion hat beschlossen, die von Skiff beeinflusste E-Mail-Anwendung einzustellen, da die meisten Benutzer es vorziehen, KI-Agenten zur Verwaltung ihrer Postfächer zu verwenden. Dieser Wandel spiegelt die wachsende Bedeutung von KI in alltäglichen Werkzeugen wider."
+        "zh": "Notion决定停止支持受Skiff影响的电子邮件应用程序，原因是大多数用户选择使用AI代理来管理他们的收件箱。",
+        "en": "Notion has decided to discontinue support for the Skiff-influenced email app, citing that most users prefer to use AI agents to manage their inboxes.",
+        "de": "Notion hat beschlossen, die Unterstützung für die von Skiff beeinflusste E-Mail-App einzustellen, da die meisten Nutzer es vorziehen, KI-Agenten zur Verwaltung ihrer Postfächer zu verwenden."
       },
       "source": "Ars Technica – AI",
       "date": "2026-06-25",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国宣布以色列与黎巴嫩之间的框架协议",
-        "en": "US announces framework agreement between Israel and Lebanon",
-        "de": "USA kündigen Rahmenvereinbarung zwischen Israel und Libanon an"
+        "zh": "谁从非洲的黄金中获利？",
+        "en": "Who profits from Africa’s gold?",
+        "de": "Wer profitiert von Afrikas Gold?"
       },
       "summary": {
-        "zh": "美国国务卿马尔科·鲁比奥宣布在华盛顿特区进行的会谈后达成的以色列与黎巴嫩之间的框架协议。这一协议旨在缓解两国之间的紧张关系。",
-        "en": "US Secretary of State Marco Rubio announced a framework agreement between Israel and Lebanon following talks in Washington, DC. The agreement aims to ease tensions between the two nations.",
-        "de": "US-Außenminister Marco Rubio kündigte eine Rahmenvereinbarung zwischen Israel und Libanon nach Gesprächen in Washington, DC, an. Die Vereinbarung soll die Spannungen zwischen den beiden Nationen verringern."
+        "zh": "非洲各国政府寻求对黄金的更大控制权，但其大部分价值仍然流向国外。这引发了对资源管理和经济独立性的广泛讨论。",
+        "en": "African governments seek greater control over gold, but much of its value continues to flow abroad. This raises widespread discussions about resource management and economic independence.",
+        "de": "Afrikanische Regierungen streben eine größere Kontrolle über Gold an, doch ein Großteil seines Wertes fließt weiterhin ins Ausland. Dies wirft weitreichende Diskussionen über Ressourcenmanagement und wirtschaftliche Unabhängigkeit auf."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-26",
-      "url": "https://www.aljazeera.com/news/2026/6/26/us-announces-framework-agreement-between-israel-and-lebanon?traffic_source=rss"
+      "date": "2026-06-27",
+      "url": "https://www.aljazeera.com/economy/2026/6/27/who-profits-from-africas-gold?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "尼日利亚拉各斯建筑倒塌造成九人遇难",
-        "en": "Nine people killed in building collapse in Lagos, Nigeria",
-        "de": "Neun Menschen bei Gebäudeeinsturz in Lagos, Nigeria, getötet"
+        "zh": "美国对伊朗的打击后，局势紧张",
+        "en": "US strikes Iran after attack on cargo ship",
+        "de": "US schlägt Iran nach Angriff auf Frachtschiff"
       },
       "summary": {
-        "zh": "尼日利亚拉各斯的一栋建筑物倒塌，造成九人遇难，二十七人受伤。州长已下令对周边地区进行安全检查。",
-        "en": "A building collapse in Lagos, Nigeria, has resulted in nine fatalities and twenty-seven injuries. The governor has ordered safety checks in the surrounding area.",
-        "de": "Ein Gebäudeeinsturz in Lagos, Nigeria, hat neun Todesopfer und siebenundzwanzig Verletzte gefordert. Der Gouverneur hat Sicherheitsüberprüfungen in der Umgebung angeordnet."
+        "zh": "美国中央司令部表示，已对伊朗的导弹和无人机储存设施进行了打击，此次行动是对最近在海上袭击的回应，局势进一步紧张。",
+        "en": "The US Central Command reported that it has struck missile and drone storage facilities in Iran in response to a recent maritime attack, escalating tensions further.",
+        "de": "Das US-Zentralkommando berichtete, dass es Raketen- und Drohnenlagerstätten im Iran angegriffen hat, als Reaktion auf einen kürzlichen maritimen Angriff, was die Spannungen weiter eskaliert."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-26",
-      "url": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-06-27",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国纽约市为一百万个受监管公寓冻结租金",
-        "en": "New York City freezes rents for one million regulated apartments",
-        "de": "New York City friert die Mieten für eine Million regulierte Wohnungen ein"
+        "zh": "伊朗和美国互相指责攻击，威胁脆弱的停火",
+        "en": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+        "de": "Iran und die USA geben sich gegenseitig die Schuld für Angriffe und bedrohen fragile Waffenruhe"
       },
       "summary": {
-        "zh": "纽约市的租金冻结措施满足了市长佐赫兰·曼达尼的一个重要竞选承诺，影响到一百万个受监管的公寓。",
-        "en": "New York City's rent freeze fulfills a key campaign promise from Mayor Zohran Mamdani, impacting one million regulated apartments.",
-        "de": "Die Mietpreisbremse in New York City erfüllt ein wichtiges Wahlversprechen von Bürgermeister Zohran Mamdani und betrifft eine Million regulierte Wohnungen."
+        "zh": "伊朗和美国之间的紧张局势加剧，双方相互指责对方的攻击行为，威胁到脆弱的停火协议。",
+        "en": "Tensions between Iran and the US have escalated as both sides trade blame for attacks, threatening the fragile ceasefire agreement.",
+        "de": "Die Spannungen zwischen Iran und den USA haben sich verschärft, da beide Seiten sich gegenseitig die Schuld für Angriffe geben und die fragile Waffenruhe bedrohen."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-26",
-      "url": "https://www.aljazeera.com/economy/2026/6/26/new-york-city-freezes-rents-for-one-million-regulated-apartments?traffic_source=rss"
+      "date": "2026-06-27",
+      "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "霍尔木兹海峡的航运在美伊协议一周后反弹，但脆弱的信心威胁复苏",
-        "en": "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery",
-        "de": "Der Versand im Persischen Golf erholt sich eine Woche nach dem US-Iran-Abkommen – aber fragile Zuversicht bedroht die Erholung"
-      },
-      "summary": {
-        "zh": "在美国和伊朗签署临时和平协议一周后，霍尔木兹海峡的航运流量有所恢复。然而，脆弱的信心可能会影响这一复苏的持续性。",
-        "en": "Shipping traffic through the Strait of Hormuz has rebounded one week after the U.S. and Iran signed an interim peace deal. However, fragile confidence may threaten the sustainability of this recovery.",
-        "de": "Der Schiffsverkehr durch die Straße von Hormuz hat sich eine Woche nach dem Abschluss eines vorläufigen Friedensabkommens zwischen den USA und dem Iran erholt. Fragile Zuversicht könnte jedoch die Nachhaltigkeit dieser Erholung gefährden."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-06-26",
-      "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "核心通胀率在五月达到3.4%，为2023年十月以来最高",
+        "zh": "核心通胀率在5月达到3.4%，为2023年10月以来最高",
         "en": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
-        "de": "Die Kerninflationsrate erreichte im Mai 3,4%, den höchsten Wert seit Oktober 2023, zeigt der bevorzugte Maßstab der Fed"
+        "de": "Kerninflationsrate erreicht im Mai 3,4 %, der höchste Wert seit Oktober 2023, zeigt der bevorzugte Maßstab der Fed"
       },
       "summary": {
-        "zh": "根据美联储的首选指标，五月的核心通胀率达到了3.4%，是自2023年十月以来的最高水平。这一数据可能会影响未来的货币政策。",
-        "en": "According to the Fed's preferred gauge, the core inflation rate reached 3.4% in May, the highest level since October 2023. This data may influence future monetary policy.",
-        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflationsrate im Mai 3,4%, den höchsten Wert seit Oktober 2023. Diese Daten könnten die zukünftige Geldpolitik beeinflussen."
+        "zh": "根据美联储的首选指标，5月份的核心通胀率达到了3.4%，这是自2023年10月以来的最高水平。这一数据可能对未来的货币政策产生影响。",
+        "en": "According to the Fed's preferred gauge, the core inflation rate hit 3.4% in May, the highest level since October 2023. This data could influence future monetary policy.",
+        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflationsrate im Mai 3,4 %, den höchsten Wert seit Oktober 2023. Diese Daten könnten zukünftige Geldpolitik beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-25",
       "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "特朗普承诺在历史性地震后迅速回应委内瑞拉",
-        "en": "Trump pledges rapid U.S. response for Venezuela after historic earthquakes kill hundreds",
-        "de": "Trump verspricht schnelle US-Reaktion für Venezuela nach historischen Erdbeben, die Hunderte getötet haben"
+        "zh": "美国对伊朗石油制裁的豁免释放数十亿收入",
+        "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+        "de": "Die USA erteilen umfassende Ausnahmen von Iran-Ölsanktionen und schalten Milliarden von Einnahmen für Teheran frei"
       },
       "summary": {
-        "zh": "特朗普承诺在委内瑞拉发生的历史性地震后迅速提供美国援助，这一举动反映了特朗普政府与委内瑞拉临时政府之间的外交重组。",
-        "en": "Trump has pledged a swift U.S. response following historic earthquakes in Venezuela that have killed hundreds, reflecting a degree of diplomatic realignment between the Trump administration and the Venezuelan interim government.",
-        "de": "Trump hat eine schnelle US-Reaktion auf die historischen Erdbeben in Venezuela versprochen, die Hunderte getötet haben, was auf eine gewisse diplomatische Neuausrichtung zwischen der Trump-Administration und der venezolanischen Übergangsregierung hinweist."
+        "zh": "美国对伊朗石油制裁的全面豁免使德黑兰解锁了数十亿美元的收入，这一举措可能会影响全球油市的动态。",
+        "en": "The sweeping waivers on Iran oil sanctions issued by the US have unlocked billions in revenue for Tehran, a move that could affect global oil market dynamics.",
+        "de": "Die umfassenden Ausnahmen von den Iran-Ölsanktionen, die von den USA erteilt wurden, haben Milliarden von Einnahmen für Teheran freigesetzt, eine Maßnahme, die die Dynamik des globalen Ölmarktes beeinflussen könnte."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-25",
-      "url": "https://www.cnbc.com/2026/06/25/venezuela-earthquakes-casualties-trump-pledges-support-aids-oil-.html"
+      "date": "2026-06-23",
+      "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "特斯拉和Waymo在机器人出租车竞赛中对决",
+        "en": "Tesla and Waymo duel in the robotaxi race — but the company spending the most builds no cars at all",
+        "de": "Tesla und Waymo duellieren sich im Robotaxi-Rennen – aber das Unternehmen, das am meisten ausgibt, baut überhaupt keine Autos"
+      },
+      "summary": {
+        "zh": "特斯拉和Waymo在机器人出租车市场展开竞争，而Uber则悄然投入5亿美元以确保其在这一领域的领先地位。",
+        "en": "Tesla and Waymo are competing in the robotaxi market, while Uber quietly invests $500 million to secure its leading position in this space.",
+        "de": "Tesla und Waymo konkurrieren im Robotaxi-Markt, während Uber stillschweigend 500 Millionen Dollar investiert, um seine führende Position in diesem Bereich zu sichern."
+      },
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-26",
+      "url": "https://www.marketwatch.com/story/tesla-and-waymo-are-chasing-the-robotaxi-dream-but-the-company-spending-the-most-to-win-builds-no-cars-at-all-0d8682b9?mod=mw_rss_topstories"
     }
   ]
 }
