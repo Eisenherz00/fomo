@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-28T08:03:18.479748+00:00",
+  "generatedAt": "2026-06-28T17:40:14.654068+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：脑溶解热浪和前所未有的OpenAI限制：这是今天的下载，我们的工作日通讯，提供有关技术世界的每日动态。",
+        "zh": "下载：脑溶解热浪和前所未有的OpenAI限制：这是今天的下载，我们的工作日通讯，提供了关于技术世界的每日信息。",
         "en": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: hirnschmelzende Hitzewellen und beispiellose OpenAI-Beschränkungen: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der eine tägliche Dosis dessen bietet, was in der Welt der Technologie passiert."
+        "de": "Der Download: Gehirnverschmelzende Hitzewellen und beispiellose OpenAI-Beschränkungen: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der eine tägliche Dosis dessen bietet, was in der Welt der Technologie vor sich geht."
       },
       "summary": {
-        "zh": "本期下载涵盖了欧洲的热浪对电网的影响，以及IBM的新芯片技术如何延续摩尔定律。OpenAI的限制措施也引起了广泛关注。",
-        "en": "This edition of The Download covers the impact of Europe’s heatwave on the power grid and how IBM's new chip technology could extend Moore's Law. The restrictions imposed by OpenAI have also garnered significant attention.",
-        "de": "Diese Ausgabe des Downloads behandelt die Auswirkungen der Hitzewelle in Europa auf das Stromnetz und wie IBMs neue Chiptechnologie das Moore'sche Gesetz verlängern könnte. Die von OpenAI auferlegten Beschränkungen haben ebenfalls erhebliche Aufmerksamkeit erregt."
+        "zh": "本期下载讨论了当前的热浪对人类健康的影响，以及OpenAI实施的新限制，可能会对人工智能的使用产生深远影响。",
+        "en": "This edition of The Download discusses the current heatwaves' impact on human health and the new restrictions imposed by OpenAI, which could have far-reaching effects on the use of artificial intelligence.",
+        "de": "In dieser Ausgabe des Downloads wird die Auswirkung der aktuellen Hitzewellen auf die menschliche Gesundheit sowie die neuen Beschränkungen von OpenAI erörtert, die weitreichende Auswirkungen auf die Nutzung von Künstlicher Intelligenz haben könnten."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-26",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "热浪影响你的大脑。科学家们正在试图弄清楚原因。",
+        "zh": "热浪影响你的大脑。科学家们试图弄清楚原因。",
         "en": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-        "de": "Hitzewellen beeinträchtigen dein Gehirn. Wissenschaftler versuchen herauszufinden, warum."
+        "de": "Hitzewellen beeinflussen dein Gehirn. Wissenschaftler versuchen herauszufinden, warum."
       },
       "summary": {
-        "zh": "科学家们正在研究热浪如何影响大脑的功能，尤其是在极端高温下的心理和生理反应。这一研究可能为应对气候变化带来新的见解。",
-        "en": "Scientists are investigating how heat waves affect brain function, particularly the psychological and physiological responses during extreme temperatures. This research may provide new insights into coping with climate change.",
-        "de": "Wissenschaftler untersuchen, wie Hitzewellen die Gehirnfunktion beeinflussen, insbesondere die psychologischen und physiologischen Reaktionen bei extremen Temperaturen. Diese Forschung könnte neue Erkenntnisse zur Bewältigung des Klimawandels liefern."
+        "zh": "科学家们正在研究热浪如何影响大脑功能，尤其是在极端高温下人们的认知能力和情绪反应。",
+        "en": "Scientists are investigating how heatwaves affect brain function, particularly cognitive abilities and emotional responses during extreme temperatures.",
+        "de": "Wissenschaftler untersuchen, wie Hitzewellen die Gehirnfunktion beeinflussen, insbesondere die kognitiven Fähigkeiten und emotionalen Reaktionen bei extremen Temperaturen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-26",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "IBM推出的芯片技术可能帮助延续摩尔定律十年。",
         "en": "IBM has unveiled chip technology that could help extend Moore’s Law another decade.",
-        "de": "IBM hat Chiptechnologie vorgestellt, die dazu beitragen könnte, das Moore'sche Gesetz um ein weiteres Jahrzehnt zu verlängern."
+        "de": "IBM hat eine Chiptechnologie vorgestellt, die helfen könnte, das Moore'sche Gesetz um ein weiteres Jahrzehnt zu verlängern."
       },
       "summary": {
-        "zh": "IBM展示了一种新原型芯片，具有约1000亿个晶体管，密度是公司现有芯片的两倍。这一技术进步可能会推动计算能力的进一步提升。",
-        "en": "IBM has showcased a new prototype chip with around 100 billion transistors, which is twice the density of the company's existing chips. This technological advancement could drive further improvements in computing power.",
-        "de": "IBM hat einen neuen Prototyp-Chip mit etwa 100 Milliarden Transistoren vorgestellt, der die doppelte Dichte der bestehenden Chips des Unternehmens aufweist. Dieser technologische Fortschritt könnte weitere Verbesserungen der Rechenleistung vorantreiben."
+        "zh": "IBM展示了一种新原型芯片，具有约1000亿个晶体管，密度是公司现有芯片的两倍，这可能会推动计算能力的进一步提升。",
+        "en": "IBM has showcased a new prototype chip with around 100 billion transistors, which is twice the density of the company's existing chips, potentially driving further advancements in computing power.",
+        "de": "IBM hat einen neuen Prototyp-Chip mit etwa 100 Milliarden Transistoren vorgestellt, der die doppelte Dichte der bestehenden Chips des Unternehmens aufweist und möglicherweise weitere Fortschritte in der Rechenleistung vorantreibt."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-25",
@@ -54,46 +54,46 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "刚果民主共和国球迷庆祝进入世界杯淘汰赛阶段。",
-        "en": "DR Congo fans celebrate reaching World Cup knockout stage.",
-        "de": "Die Fans der DR Kongo feiern den Einzug in die K.-o.-Runde der Weltmeisterschaft."
+        "zh": "以色列袭击黎巴嫩，考验刚刚达成的和平协议。",
+        "en": "Israel strikes Lebanon, testing days-old peace deal.",
+        "de": "Israel greift Libanon an und testet den erst wenige Tage alten Friedensvertrag."
       },
       "summary": {
-        "zh": "刚果民主共和国的球迷们庆祝他们的球队历史性地进入世界杯淘汰赛阶段。这一成就激发了全国的欢庆气氛。",
-        "en": "Fans in the Democratic Republic of Congo are celebrating their team's historic advancement to the World Cup knockout stage. This achievement has sparked a nationwide festive atmosphere.",
-        "de": "Die Fans in der Demokratischen Republik Kongo feiern den historischen Fortschritt ihrer Mannschaft in die K.-o.-Runde der Weltmeisterschaft. Dieser Erfolg hat eine landesweite festliche Atmosphäre ausgelöst."
+        "zh": "以色列对黎巴嫩的袭击引发了对新达成的和平协议的质疑，真主党称该协议为投降。",
+        "en": "Israel's strikes on Lebanon raise questions about the newly established peace deal, with Hezbollah calling it a surrender.",
+        "de": "Die Angriffe Israels auf Libanon werfen Fragen zu dem neu geschlossenen Friedensvertrag auf, wobei die Hisbollah ihn als Kapitulation bezeichnet."
       },
       "source": "Al Jazeera",
       "date": "2026-06-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/dr-congo-fans-celebrate-reaching-world-cup-knockout-stage?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "加沙儿童承受以色列持续攻击的代价。",
-        "en": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks.",
-        "de": "‘Zwischen Schmerz und Angst’: Kinder im Gazastreifen tragen die Kosten der anhaltenden israelischen Angriffe."
+        "zh": "伊拉克在反腐败突袭中逮捕高级官员。",
+        "en": "Iraq arrests senior officials in anti-corruption raids.",
+        "de": "Irak verhaftet hochrangige Beamte bei Anti-Korruptions-Razzien."
       },
       "summary": {
-        "zh": "尽管在2025年10月达成了停火协议，加沙的儿童仍在以色列的攻击中遭受痛苦。这一局势引发了国际社会的广泛关注。",
-        "en": "Despite a ceasefire reached in October 2025, children in Gaza continue to suffer due to ongoing Israeli attacks. This situation has drawn significant international attention.",
-        "de": "Trotz eines im Oktober 2025 erzielten Waffenstillstands leiden Kinder im Gazastreifen weiterhin unter den anhaltenden israelischen Angriffen. Diese Situation hat erhebliche internationale Aufmerksamkeit auf sich gezogen."
+        "zh": "伊拉克安全部队在巴格达进行突袭，逮捕了多名政治家和高级官员，显示出反腐败斗争的决心。",
+        "en": "Iraqi security forces conducted dawn raids in Baghdad, arresting several politicians and senior officials, demonstrating a commitment to the anti-corruption fight.",
+        "de": "Irakische Sicherheitskräfte führten frühmorgens Razzien in Bagdad durch und verhafteten mehrere Politiker und hochrangige Beamte, was das Engagement im Kampf gegen Korruption zeigt."
       },
       "source": "Al Jazeera",
       "date": "2026-06-28",
-      "url": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国和伊朗相互发起攻击，指责对方违反停火协议。",
+        "zh": "美国和伊朗互相攻击，指责对方违反停火协议。",
         "en": "US and Iran exchange strikes and accuse each other of violating ceasefire.",
         "de": "USA und Iran tauschen Angriffe aus und beschuldigen sich gegenseitig, den Waffenstillstand verletzt zu haben."
       },
       "summary": {
-        "zh": "美国和伊朗之间的紧张局势加剧，双方相互指责对方违反停火协议。此事件可能会进一步加剧中东地区的冲突。",
-        "en": "Tensions between the US and Iran have escalated, with both sides accusing each other of violating the ceasefire. This incident could further exacerbate conflicts in the Middle East.",
-        "de": "Die Spannungen zwischen den USA und dem Iran haben sich verschärft, da beide Seiten sich gegenseitig beschuldigen, den Waffenstillstand verletzt zu haben. Dieses Ereignis könnte die Konflikte im Nahen Osten weiter verschärfen."
+        "zh": "美国和伊朗之间的紧张局势加剧，双方互相指责对方违反停火协议，导致地区局势更加复杂。",
+        "en": "Tensions between the US and Iran escalate as both sides accuse each other of violating the ceasefire, complicating the regional situation further.",
+        "de": "Die Spannungen zwischen den USA und dem Iran eskalieren, da beide Seiten sich gegenseitig beschuldigen, den Waffenstillstand verletzt zu haben, was die regionale Situation weiter kompliziert."
       },
       "source": "BBC News – World",
       "date": "2026-06-28",
@@ -104,14 +104,14 @@
     {
       "id": "stk-1",
       "title": {
-        "zh": "霍尔木兹海的航运在美伊协议一周后反弹——但脆弱的信心威胁着复苏。",
+        "zh": "霍尔木兹海峡的航运在美伊协议一周后反弹，但脆弱的信心威胁恢复。",
         "en": "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery.",
-        "de": "Der Versand im Persischen Golf erholt sich eine Woche nach dem US-Iran-Deal – aber das fragile Vertrauen bedroht die Erholung."
+        "de": "Der Schiffsverkehr im Persischen Golf erholt sich eine Woche nach dem US-Iran-Abkommen – aber das fragile Vertrauen bedroht die Erholung."
       },
       "summary": {
-        "zh": "在美伊达成临时和平协议一周后，霍尔木兹海的航运流量有所恢复。然而，市场信心仍然脆弱，可能影响未来的恢复进程。",
-        "en": "Shipping traffic in the Strait of Hormuz has seen a rebound one week after the U.S.-Iran interim peace deal. However, market confidence remains fragile, potentially impacting future recovery.",
-        "de": "Der Versandverkehr im Hormus-Golf hat sich eine Woche nach dem US-Iran-Übergangs-Friedensabkommen erholt. Das Marktvertrauen bleibt jedoch fragil, was die zukünftige Erholung beeinträchtigen könnte."
+        "zh": "在美伊达成临时和平协议一周后，霍尔木兹海峡的航运流量有所回升，但由于信心脆弱，复苏面临挑战。",
+        "en": "Shipping traffic through the Strait of Hormuz has rebounded one week after the U.S.-Iran interim peace deal, but fragile confidence poses challenges to recovery.",
+        "de": "Der Schiffsverkehr durch die Straße von Hormuz hat sich eine Woche nach dem vorläufigen Friedensabkommen zwischen den USA und dem Iran erholt, doch das fragile Vertrauen stellt Herausforderungen für die Erholung dar."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-26",
@@ -122,12 +122,12 @@
       "title": {
         "zh": "核心通胀率在5月达到3.4%，为2023年10月以来的最高水平。",
         "en": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows.",
-        "de": "Die Kerninflationsrate erreichte im Mai 3,4 %, den höchsten Stand seit Oktober 2023, zeigt das bevorzugte Maß der Fed."
+        "de": "Die Kerninflationsrate erreichte im Mai 3,4 %, den höchsten Stand seit Oktober 2023, zeigt der bevorzugte Indikator der Fed."
       },
       "summary": {
-        "zh": "根据美联储的首选指标，5月份的核心通胀率达到了3.4%，是自2023年10月以来的最高水平。这一数据可能会影响未来的货币政策。",
-        "en": "The core inflation rate reached 3.4% in May, the highest level since October 2023, according to the Fed's preferred gauge. This data may influence future monetary policy.",
-        "de": "Die Kerninflationsrate erreichte im Mai 3,4 %, den höchsten Stand seit Oktober 2023, gemäß dem bevorzugten Maß der Fed. Diese Daten könnten die zukünftige Geldpolitik beeinflussen."
+        "zh": "根据美联储的首选指标，5月的核心通胀率达到了3.4%，这表明经济面临上行压力，可能影响未来的货币政策。",
+        "en": "According to the Fed's preferred gauge, the core inflation rate reached 3.4% in May, indicating upward pressure on the economy that may influence future monetary policy.",
+        "de": "Laut dem bevorzugten Indikator der Fed erreichte die Kerninflationsrate im Mai 3,4 %, was auf einen Aufwärtsdruck auf die Wirtschaft hinweist, der die zukünftige Geldpolitik beeinflussen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-25",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国对伊朗石油制裁的广泛豁免，解锁数十亿美元的收入。",
+        "zh": "美国对伊朗石油实施广泛制裁豁免，为德黑兰解锁数十亿收入。",
         "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran.",
         "de": "Die USA erteilen umfassende Ausnahmen von den Iran-Öl-Sanktionen und schalten Milliarden von Einnahmen für Teheran frei."
       },
       "summary": {
-        "zh": "美国政府宣布对伊朗石油的制裁豁免，预计将为德黑兰解锁数十亿美元的收入。这一举措可能会改变中东的经济格局。",
-        "en": "The U.S. government has announced waivers for sanctions on Iranian oil, expected to unlock billions in revenue for Tehran. This move could alter the economic landscape in the Middle East.",
-        "de": "Die US-Regierung hat Ausnahmen von den Sanktionen gegen iranisches Öl angekündigt, die voraussichtlich Milliarden von Einnahmen für Teheran freischalten werden. Dieser Schritt könnte die wirtschaftliche Landschaft im Nahen Osten verändern."
+        "zh": "美国对伊朗石油的制裁豁免为德黑兰提供了经济救助，可能会影响全球石油市场的动态。",
+        "en": "The U.S. sanctions waivers on Iranian oil provide Tehran with an economic lifeline, potentially affecting the dynamics of the global oil market.",
+        "de": "Die Ausnahmen von den US-Sanktionen auf iranisches Öl bieten Teheran eine wirtschaftliche Lebensader, die möglicherweise die Dynamik des globalen Ölmarktes beeinflusst."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-23",
