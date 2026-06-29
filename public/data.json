@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-28T17:40:14.654068+00:00",
+  "generatedAt": "2026-06-29T09:16:28.247271+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：脑溶解热浪和前所未有的OpenAI限制：这是今天的下载，我们的工作日通讯，提供了关于技术世界的每日信息。",
-        "en": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: Gehirnverschmelzende Hitzewellen und beispiellose OpenAI-Beschränkungen: Dies ist die heutige Ausgabe des Downloads, unseres wöchentlichen Newsletters, der eine tägliche Dosis dessen bietet, was in der Welt der Technologie vor sich geht."
+        "zh": "重新定位零售以适应人工智能时代",
+        "en": "Repositioning retail for the AI era",
+        "de": "Neuorientierung des Einzelhandels für das KI-Zeitalter"
       },
       "summary": {
-        "zh": "本期下载讨论了当前的热浪对人类健康的影响，以及OpenAI实施的新限制，可能会对人工智能的使用产生深远影响。",
-        "en": "This edition of The Download discusses the current heatwaves' impact on human health and the new restrictions imposed by OpenAI, which could have far-reaching effects on the use of artificial intelligence.",
-        "de": "In dieser Ausgabe des Downloads wird die Auswirkung der aktuellen Hitzewellen auf die menschliche Gesundheit sowie die neuen Beschränkungen von OpenAI erörtert, die weitreichende Auswirkungen auf die Nutzung von Künstlicher Intelligenz haben könnten."
+        "zh": "人工智能正在迅速重塑零售行业，但消费者可能不会立即注意到这些变化。最大的转变可能在于零售商如何利用AI来优化运营和客户体验。",
+        "en": "Artificial intelligence is rapidly reshaping retail, but consumers might not immediately notice these changes. The biggest transformation may lie in how retailers leverage AI to optimize operations and enhance customer experiences.",
+        "de": "Künstliche Intelligenz verändert den Einzelhandel schnell, aber die Verbraucher werden diese Veränderungen möglicherweise nicht sofort bemerken. Die größte Transformation könnte darin liegen, wie Einzelhändler KI nutzen, um Abläufe zu optimieren und das Kundenerlebnis zu verbessern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-26",
-      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
+      "date": "2026-06-25",
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "热浪影响你的大脑。科学家们试图弄清楚原因。",
-        "en": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-        "de": "Hitzewellen beeinflussen dein Gehirn. Wissenschaftler versuchen herauszufinden, warum."
+        "zh": "IBM推出可延续摩尔定律十年的芯片技术",
+        "en": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+        "de": "IBM hat Chiptechnologie vorgestellt, die helfen könnte, das Moore'sche Gesetz um ein weiteres Jahrzehnt zu verlängern"
       },
       "summary": {
-        "zh": "科学家们正在研究热浪如何影响大脑功能，尤其是在极端高温下人们的认知能力和情绪反应。",
-        "en": "Scientists are investigating how heatwaves affect brain function, particularly cognitive abilities and emotional responses during extreme temperatures.",
-        "de": "Wissenschaftler untersuchen, wie Hitzewellen die Gehirnfunktion beeinflussen, insbesondere die kognitiven Fähigkeiten und emotionalen Reaktionen bei extremen Temperaturen."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-06-26",
-      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "IBM推出的芯片技术可能帮助延续摩尔定律十年。",
-        "en": "IBM has unveiled chip technology that could help extend Moore’s Law another decade.",
-        "de": "IBM hat eine Chiptechnologie vorgestellt, die helfen könnte, das Moore'sche Gesetz um ein weiteres Jahrzehnt zu verlängern."
-      },
-      "summary": {
-        "zh": "IBM展示了一种新原型芯片，具有约1000亿个晶体管，密度是公司现有芯片的两倍，这可能会推动计算能力的进一步提升。",
-        "en": "IBM has showcased a new prototype chip with around 100 billion transistors, which is twice the density of the company's existing chips, potentially driving further advancements in computing power.",
-        "de": "IBM hat einen neuen Prototyp-Chip mit etwa 100 Milliarden Transistoren vorgestellt, der die doppelte Dichte der bestehenden Chips des Unternehmens aufweist und möglicherweise weitere Fortschritte in der Rechenleistung vorantreibt."
+        "zh": "IBM推出了一种新原型芯片，具有约1000亿个晶体管，面积仅相当于指甲大小，这一密度是公司以往产品的两倍。",
+        "en": "IBM has introduced a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company's previous products.",
+        "de": "IBM hat einen neuen Prototyp-Chip mit rund 100 Milliarden Transistoren auf einer Fläche in der Größe eines Fingernagels vorgestellt, was die doppelte Dichte der bisherigen Produkte des Unternehmens ist."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-25",
       "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "微软发现新的轻量级后门程序窃取加密货币",
+        "en": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+        "de": "Microsoft entdeckt neue leichte Hintertür, die Kryptowährung stiehlt"
+      },
+      "summary": {
+        "zh": "微软发现了一种新的自传播恶意软件，能够通过USB传播并通过Tor进行通信，专门用于窃取加密货币。",
+        "en": "Microsoft has discovered a new self-propagating malware that spreads over USB and communicates over Tor, specifically designed to steal cryptocurrency.",
+        "de": "Microsoft hat eine neue selbstverbreitende Malware entdeckt, die sich über USB verbreitet und über Tor kommuniziert, speziell entwickelt, um Kryptowährung zu stehlen."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-06-18",
+      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列袭击黎巴嫩，考验刚刚达成的和平协议。",
-        "en": "Israel strikes Lebanon, testing days-old peace deal.",
-        "de": "Israel greift Libanon an und testet den erst wenige Tage alten Friedensvertrag."
+        "zh": "委内瑞拉救援人员争分夺秒寻找更多幸存者",
+        "en": "Venezuela rescuers race against the clock to find more survivors",
+        "de": "Rettungskräfte in Venezuela kämpfen gegen die Zeit, um weitere Überlebende zu finden"
       },
       "summary": {
-        "zh": "以色列对黎巴嫩的袭击引发了对新达成的和平协议的质疑，真主党称该协议为投降。",
-        "en": "Israel's strikes on Lebanon raise questions about the newly established peace deal, with Hezbollah calling it a surrender.",
-        "de": "Die Angriffe Israels auf Libanon werfen Fragen zu dem neu geschlossenen Friedensvertrag auf, wobei die Hisbollah ihn als Kapitulation bezeichnet."
+        "zh": "委内瑞拉的救援人员正在努力寻找在最近的地震中幸存的人，时间紧迫，许多人仍被困在废墟中。",
+        "en": "Rescuers in Venezuela are working tirelessly to find survivors from the recent earthquakes, with time running out as many remain trapped under the rubble.",
+        "de": "Rettungskräfte in Venezuela arbeiten unermüdlich daran, Überlebende der jüngsten Erdbeben zu finden, während die Zeit drängt und viele unter den Trümmern eingeschlossen sind."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-28",
-      "url": "https://www.aljazeera.com/news/2026/6/28/israel-strikes-lebanon-testing-days-old-peace-deal?traffic_source=rss"
+      "date": "2026-06-29",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuela-rescuers-race-against-the-clock-to-find-more-survivors?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊拉克在反腐败突袭中逮捕高级官员。",
-        "en": "Iraq arrests senior officials in anti-corruption raids.",
-        "de": "Irak verhaftet hochrangige Beamte bei Anti-Korruptions-Razzien."
+        "zh": "南韩总统宣布超过1万亿美元的人工智能和芯片投资计划",
+        "en": "South Korea announces more than $1 trillion AI, chip investment drive",
+        "de": "Südkorea kündigt Investitionsoffensive von über 1 Billion Dollar in KI und Chips an"
       },
       "summary": {
-        "zh": "伊拉克安全部队在巴格达进行突袭，逮捕了多名政治家和高级官员，显示出反腐败斗争的决心。",
-        "en": "Iraqi security forces conducted dawn raids in Baghdad, arresting several politicians and senior officials, demonstrating a commitment to the anti-corruption fight.",
-        "de": "Irakische Sicherheitskräfte führten frühmorgens Razzien in Bagdad durch und verhafteten mehrere Politiker und hochrangige Beamte, was das Engagement im Kampf gegen Korruption zeigt."
+        "zh": "南韩总统将这一推动视为在人工智能浪潮中确保国家主导地位的竞赛，计划投资超过1万亿美元。",
+        "en": "The South Korean president frames this push as a race against time to secure the country's dominance in the AI boom, planning to invest over $1 trillion.",
+        "de": "Der südkoreanische Präsident betrachtet diesen Vorstoß als Wettlauf gegen die Zeit, um die Dominanz des Landes im KI-Boom zu sichern, und plant, über 1 Billion Dollar zu investieren."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/iraq-arrests-senior-officials-in-anti-corruption-raids?traffic_source=rss"
+      "date": "2026-06-29",
+      "url": "https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国和伊朗互相攻击，指责对方违反停火协议。",
-        "en": "US and Iran exchange strikes and accuse each other of violating ceasefire.",
-        "de": "USA und Iran tauschen Angriffe aus und beschuldigen sich gegenseitig, den Waffenstillstand verletzt zu haben."
+        "zh": "美国表示已同意在与伊朗的交火后“停火”",
+        "en": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+        "de": "Die USA geben an, nach einem Austausch von Angriffen mit dem Iran 'zurückzutreten' zu sein"
       },
       "summary": {
-        "zh": "美国和伊朗之间的紧张局势加剧，双方互相指责对方违反停火协议，导致地区局势更加复杂。",
-        "en": "Tensions between the US and Iran escalate as both sides accuse each other of violating the ceasefire, complicating the regional situation further.",
-        "de": "Die Spannungen zwischen den USA und dem Iran eskalieren, da beide Seiten sich gegenseitig beschuldigen, den Waffenstillstand verletzt zu haben, was die regionale Situation weiter kompliziert."
+        "zh": "美国和伊朗之间的交火导致了紧张局势升级，双方互相指责违反停火协议，现已达成停火协议。",
+        "en": "The exchange of strikes between the US and Iran has escalated tensions, with both sides accusing each other of violating the ceasefire agreement, but a ceasefire has now been agreed.",
+        "de": "Der Austausch von Angriffen zwischen den USA und dem Iran hat die Spannungen verschärft, wobei beide Seiten sich gegenseitig beschuldigen, das Waffenstillstandsabkommen verletzt zu haben, aber nun wurde ein Waffenstillstand vereinbart."
       },
       "source": "BBC News – World",
-      "date": "2026-06-28",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
+      "date": "2026-06-29",
+      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "霍尔木兹海峡的航运在美伊协议一周后反弹，但脆弱的信心威胁恢复。",
-        "en": "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery.",
-        "de": "Der Schiffsverkehr im Persischen Golf erholt sich eine Woche nach dem US-Iran-Abkommen – aber das fragile Vertrauen bedroht die Erholung."
+        "zh": "中国扩大对日本的出口限制，目标是无人机制造商、核企业和国防机构",
+        "en": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
+        "de": "China erweitert Exportbeschränkungen für Japan und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab"
       },
       "summary": {
-        "zh": "在美伊达成临时和平协议一周后，霍尔木兹海峡的航运流量有所回升，但由于信心脆弱，复苏面临挑战。",
-        "en": "Shipping traffic through the Strait of Hormuz has rebounded one week after the U.S.-Iran interim peace deal, but fragile confidence poses challenges to recovery.",
-        "de": "Der Schiffsverkehr durch die Straße von Hormuz hat sich eine Woche nach dem vorläufigen Friedensabkommen zwischen den USA und dem Iran erholt, doch das fragile Vertrauen stellt Herausforderungen für die Erholung dar."
+        "zh": "中国对日本的出口限制扩大，涉及无人机制造商、核能公司和国防研究机构，进一步加剧了两国之间的紧张关系。",
+        "en": "China has expanded its export curbs on Japan, targeting drone manufacturers, nuclear firms, and defense research institutes, further escalating tensions between the two countries.",
+        "de": "China hat seine Exportbeschränkungen für Japan ausgeweitet und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab, was die Spannungen zwischen den beiden Ländern weiter verschärft."
       },
       "source": "CNBC – Markets",
-      "date": "2026-06-26",
-      "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html"
+      "date": "2026-06-29",
+      "url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "核心通胀率在5月达到3.4%，为2023年10月以来的最高水平。",
-        "en": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows.",
-        "de": "Die Kerninflationsrate erreichte im Mai 3,4 %, den höchsten Stand seit Oktober 2023, zeigt der bevorzugte Indikator der Fed."
+        "zh": "中央银行警告人工智能热潮可能引发股市下跌并危及经济",
+        "en": "The central bank of central banks warns AI frenzy could trigger stock-market slump and jeopardize economy",
+        "de": "Die Zentralbank der Zentralbanken warnt, dass die KI-Euphorie einen Rückgang des Aktienmarktes auslösen und die Wirtschaft gefährden könnte"
       },
       "summary": {
-        "zh": "根据美联储的首选指标，5月的核心通胀率达到了3.4%，这表明经济面临上行压力，可能影响未来的货币政策。",
-        "en": "According to the Fed's preferred gauge, the core inflation rate reached 3.4% in May, indicating upward pressure on the economy that may influence future monetary policy.",
-        "de": "Laut dem bevorzugten Indikator der Fed erreichte die Kerninflationsrate im Mai 3,4 %, was auf einen Aufwärtsdruck auf die Wirtschaft hinweist, der die zukünftige Geldpolitik beeinflussen könnte."
+        "zh": "中央银行警告称，当前的股市估值过高、投资者过于自满，以及信贷市场的潜在连锁反应，可能会导致经济不稳定。",
+        "en": "The central bank warns that current stock market valuations, investor complacency, and potential knock-on effects in credit markets could lead to economic instability.",
+        "de": "Die Zentralbank warnt, dass die aktuellen Bewertungen des Aktienmarktes, die Selbstzufriedenheit der Anleger und mögliche Folgewirkungen in den Kreditmärkten zu wirtschaftlicher Instabilität führen könnten."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-06-25",
-      "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-29",
+      "url": "https://www.marketwatch.com/story/the-central-bank-of-central-banks-warns-ai-frenzy-could-trigger-stock-market-slump-and-jeopardize-economy-4d24b0a1?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国对伊朗石油实施广泛制裁豁免，为德黑兰解锁数十亿收入。",
-        "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran.",
-        "de": "Die USA erteilen umfassende Ausnahmen von den Iran-Öl-Sanktionen und schalten Milliarden von Einnahmen für Teheran frei."
+        "zh": "油价上涨，股指期货小幅上涨，美国和伊朗据报同意停止攻击",
+        "en": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
+        "de": "Ölpreise steigen, Aktienfutures steigen leicht, da die USA und der Iran Berichten zufolge zustimmen, Angriffe zu stoppen"
       },
       "summary": {
-        "zh": "美国对伊朗石油的制裁豁免为德黑兰提供了经济救助，可能会影响全球石油市场的动态。",
-        "en": "The U.S. sanctions waivers on Iranian oil provide Tehran with an economic lifeline, potentially affecting the dynamics of the global oil market.",
-        "de": "Die Ausnahmen von den US-Sanktionen auf iranisches Öl bieten Teheran eine wirtschaftliche Lebensader, die möglicherweise die Dynamik des globalen Ölmarktes beeinflusst."
+        "zh": "在美国和伊朗据报同意停止攻击后，油价上涨，股指期货小幅上涨，市场信心有所恢复。",
+        "en": "Following reports that the US and Iran have agreed to halt attacks, oil prices have risen and stock index futures have edged higher, indicating a recovery in market confidence.",
+        "de": "Nach Berichten, dass die USA und der Iran zugestimmt haben, Angriffe zu stoppen, sind die Ölpreise gestiegen und die Aktienindex-Futures haben leicht zugelegt, was auf eine Erholung des Marktvertrauens hindeutet."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-06-23",
-      "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-06-29",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories"
     }
   ]
 }
