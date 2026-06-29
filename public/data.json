@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-06-29T09:16:28.247271+00:00",
+  "generatedAt": "2026-06-29T18:28:03.360307+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "重新定位零售以适应人工智能时代",
-        "en": "Repositioning retail for the AI era",
-        "de": "Neuorientierung des Einzelhandels für das KI-Zeitalter"
+        "zh": "AI代理不是你的“同事”",
+        "en": "AI agents are not your “coworkers”",
+        "de": "KI-Agenten sind nicht Ihre „Kollegen“"
       },
       "summary": {
-        "zh": "人工智能正在迅速重塑零售行业，但消费者可能不会立即注意到这些变化。最大的转变可能在于零售商如何利用AI来优化运营和客户体验。",
-        "en": "Artificial intelligence is rapidly reshaping retail, but consumers might not immediately notice these changes. The biggest transformation may lie in how retailers leverage AI to optimize operations and enhance customer experiences.",
-        "de": "Künstliche Intelligenz verändert den Einzelhandel schnell, aber die Verbraucher werden diese Veränderungen möglicherweise nicht sofort bemerken. Die größte Transformation könnte darin liegen, wie Einzelhändler KI nutzen, um Abläufe zu optimieren und das Kundenerlebnis zu verbessern."
+        "zh": "随着企业对人工智能的投资激增，许多人误解了AI代理的角色。它们并不是人类同事，而是工具，旨在提高工作效率。",
+        "en": "As enterprise investment in AI surges, many misunderstand the role of AI agents. They are not human coworkers but tools designed to enhance productivity.",
+        "de": "Mit dem Anstieg der Unternehmensinvestitionen in KI missverstehen viele die Rolle von KI-Agenten. Sie sind keine menschlichen Kollegen, sondern Werkzeuge, die darauf abzielen, die Produktivität zu steigern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-25",
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+      "date": "2026-06-29",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "IBM推出可延续摩尔定律十年的芯片技术",
-        "en": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-        "de": "IBM hat Chiptechnologie vorgestellt, die helfen könnte, das Moore'sche Gesetz um ein weiteres Jahrzehnt zu verlängern"
+        "zh": "技术前沿的代理信心",
+        "en": "Agent confidence on the technical frontier",
+        "de": "Agentenvertrauen an der technischen Front"
       },
       "summary": {
-        "zh": "IBM推出了一种新原型芯片，具有约1000亿个晶体管，面积仅相当于指甲大小，这一密度是公司以往产品的两倍。",
-        "en": "IBM has introduced a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company's previous products.",
-        "de": "IBM hat einen neuen Prototyp-Chip mit rund 100 Milliarden Transistoren auf einer Fläche in der Größe eines Fingernagels vorgestellt, was die doppelte Dichte der bisherigen Produkte des Unternehmens ist."
+        "zh": "Gartner预测2026年将是企业在人工智能项目上进行战略对齐的“拐点年”。企业投资正在快速增长，反映出对AI的信心。",
+        "en": "Gartner predicts that 2026 will be an 'inflection year' for enterprises to align their AI projects strategically. Investment in AI is rapidly increasing, reflecting confidence in the technology.",
+        "de": "Gartner prognostiziert, dass 2026 ein „Wendepunktjahr“ für Unternehmen sein wird, um ihre KI-Projekte strategisch auszurichten. Die Investitionen in KI steigen schnell an, was das Vertrauen in die Technologie widerspiegelt."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-25",
-      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
+      "date": "2026-06-29",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "微软发现新的轻量级后门程序窃取加密货币",
-        "en": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
-        "de": "Microsoft entdeckt neue leichte Hintertür, die Kryptowährung stiehlt"
+        "zh": "下载：指标弱点和人工智能大象警告",
+        "en": "The Download: metric weaknesses and AI elephant warnings",
+        "de": "Der Download: Metrikschwächen und KI-Elefantenwarnungen"
       },
       "summary": {
-        "zh": "微软发现了一种新的自传播恶意软件，能够通过USB传播并通过Tor进行通信，专门用于窃取加密货币。",
-        "en": "Microsoft has discovered a new self-propagating malware that spreads over USB and communicates over Tor, specifically designed to steal cryptocurrency.",
-        "de": "Microsoft hat eine neue selbstverbreitende Malware entdeckt, die sich über USB verbreitet und über Tor kommuniziert, speziell entwickelt, um Kryptowährung zu stehlen."
+        "zh": "在今天的技术新闻中，讨论了人工智能领域的指标弱点以及对未来发展的警告。这些问题可能会影响AI的应用和发展。",
+        "en": "Today's technology news discusses metric weaknesses in the AI field and warnings about future developments. These issues could impact the application and growth of AI.",
+        "de": "Die heutigen Technologieneuigkeiten behandeln Metrikschwächen im KI-Bereich und Warnungen vor zukünftigen Entwicklungen. Diese Probleme könnten die Anwendung und das Wachstum von KI beeinflussen."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-06-18",
-      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/"
+      "source": "MIT Technology Review",
+      "date": "2026-06-29",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "委内瑞拉救援人员争分夺秒寻找更多幸存者",
-        "en": "Venezuela rescuers race against the clock to find more survivors",
-        "de": "Rettungskräfte in Venezuela kämpfen gegen die Zeit, um weitere Überlebende zu finden"
+        "zh": "政府能解决全球住房危机吗？",
+        "en": "Can governments fix the global housing crisis?",
+        "de": "Können Regierungen die globale Wohnungsnot beheben?"
       },
       "summary": {
-        "zh": "委内瑞拉的救援人员正在努力寻找在最近的地震中幸存的人，时间紧迫，许多人仍被困在废墟中。",
-        "en": "Rescuers in Venezuela are working tirelessly to find survivors from the recent earthquakes, with time running out as many remain trapped under the rubble.",
-        "de": "Rettungskräfte in Venezuela arbeiten unermüdlich daran, Überlebende der jüngsten Erdbeben zu finden, während die Zeit drängt und viele unter den Trümmern eingeschlossen sind."
+        "zh": "全球住房危机日益严重，从摩天大楼到贫民窟，拥有一个栖身之所变得愈发困难。各国政府面临着解决这一问题的压力。",
+        "en": "The global housing crisis is worsening, making it increasingly difficult to secure a roof over one's head, from skyscrapers to slums. Governments are under pressure to address this issue.",
+        "de": "Die globale Wohnungsnot verschärft sich, was es zunehmend schwierig macht, ein Dach über dem Kopf zu sichern, von Wolkenkratzern bis hin zu Slums. Regierungen stehen unter Druck, dieses Problem anzugehen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuela-rescuers-race-against-the-clock-to-find-more-survivors?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/29/can-governments-fix-the-global-housing-crisis?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "南韩总统宣布超过1万亿美元的人工智能和芯片投资计划",
-        "en": "South Korea announces more than $1 trillion AI, chip investment drive",
-        "de": "Südkorea kündigt Investitionsoffensive von über 1 Billion Dollar in KI und Chips an"
+        "zh": "英国候任首相誓言改革政治",
+        "en": "UK’s prime minister-in-waiting vows to shake up politics",
+        "de": "Der britische Premierminister in spe verspricht, die Politik aufzumischen"
       },
       "summary": {
-        "zh": "南韩总统将这一推动视为在人工智能浪潮中确保国家主导地位的竞赛，计划投资超过1万亿美元。",
-        "en": "The South Korean president frames this push as a race against time to secure the country's dominance in the AI boom, planning to invest over $1 trillion.",
-        "de": "Der südkoreanische Präsident betrachtet diesen Vorstoß als Wettlauf gegen die Zeit, um die Dominanz des Landes im KI-Boom zu sichern, und plant, über 1 Billion Dollar zu investieren."
+        "zh": "安迪·伯纳姆，英国可能的下一任领导人，在演讲中承诺将进行激进的政治改革，以应对国家面临的挑战。",
+        "en": "Andy Burnham, likely the next leader of the UK, pledged during a speech to enact radical political reforms to address the challenges facing the nation.",
+        "de": "Andy Burnham, wahrscheinlich der nächste Führer des Vereinigten Königreichs, versprach in einer Rede, radikale politische Reformen durchzuführen, um die Herausforderungen des Landes anzugehen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-29",
-      "url": "https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/2026/6/29/uks-prime-minister-in-waiting-vows-to-shake-up-politics?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国表示已同意在与伊朗的交火后“停火”",
-        "en": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-        "de": "Die USA geben an, nach einem Austausch von Angriffen mit dem Iran 'zurückzutreten' zu sein"
+        "zh": "美国最高法院阻止特朗普解雇美联储的丽莎·库克",
+        "en": "Supreme Court blocks Trump’s bid to fire US Federal Reserve’s Lisa Cook",
+        "de": "Der Oberste Gerichtshof blockiert Trumps Versuch, die US-Notenbank-Gouverneurin Lisa Cook zu entlassen"
       },
       "summary": {
-        "zh": "美国和伊朗之间的交火导致了紧张局势升级，双方互相指责违反停火协议，现已达成停火协议。",
-        "en": "The exchange of strikes between the US and Iran has escalated tensions, with both sides accusing each other of violating the ceasefire agreement, but a ceasefire has now been agreed.",
-        "de": "Der Austausch von Angriffen zwischen den USA und dem Iran hat die Spannungen verschärft, wobei beide Seiten sich gegenseitig beschuldigen, das Waffenstillstandsabkommen verletzt zu haben, aber nun wurde ein Waffenstillstand vereinbart."
+        "zh": "美国最高法院阻止特朗普解雇美联储理事丽莎·库克的尝试，此举被视为中央银行独立性的胜利。",
+        "en": "The Supreme Court blocked Trump's attempt to fire Federal Reserve governor Lisa Cook, seen as a victory for the independence of the central bank.",
+        "de": "Der Oberste Gerichtshof blockierte Trumps Versuch, die Gouverneurin der Federal Reserve, Lisa Cook, zu entlassen, was als Sieg für die Unabhängigkeit der Zentralbank angesehen wird."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-06-29",
-      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "中国扩大对日本的出口限制，目标是无人机制造商、核企业和国防机构",
+        "zh": "中国扩大对日本的出口限制，针对无人机制造商、核企业和国防机构",
         "en": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
-        "de": "China erweitert Exportbeschränkungen für Japan und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab"
+        "de": "China weitet Exportbeschränkungen für Japan aus und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab"
       },
       "summary": {
-        "zh": "中国对日本的出口限制扩大，涉及无人机制造商、核能公司和国防研究机构，进一步加剧了两国之间的紧张关系。",
-        "en": "China has expanded its export curbs on Japan, targeting drone manufacturers, nuclear firms, and defense research institutes, further escalating tensions between the two countries.",
-        "de": "China hat seine Exportbeschränkungen für Japan ausgeweitet und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab, was die Spannungen zwischen den beiden Ländern weiter verschärft."
+        "zh": "中国对日本的出口限制扩大，涉及无人机制造商和国防机构，这可能会影响两国的经济关系。",
+        "en": "China has expanded its export restrictions on Japan, targeting drone manufacturers and defense institutes, which may impact the economic relations between the two countries.",
+        "de": "China hat seine Exportbeschränkungen für Japan ausgeweitet und zielt auf Drohnenhersteller und Verteidigungsinstitute ab, was die wirtschaftlichen Beziehungen zwischen den beiden Ländern beeinträchtigen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-06-29",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "中央银行警告人工智能热潮可能引发股市下跌并危及经济",
-        "en": "The central bank of central banks warns AI frenzy could trigger stock-market slump and jeopardize economy",
-        "de": "Die Zentralbank der Zentralbanken warnt, dass die KI-Euphorie einen Rückgang des Aktienmarktes auslösen und die Wirtschaft gefährden könnte"
+        "zh": "霍尔木兹海峡的航运在美伊协议一周后反弹，但脆弱的信心威胁复苏",
+        "en": "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery",
+        "de": "Der Versand im Persischen Golf erholt sich eine Woche nach dem US-Iran-Abkommen – aber das fragile Vertrauen bedroht die Erholung"
       },
       "summary": {
-        "zh": "中央银行警告称，当前的股市估值过高、投资者过于自满，以及信贷市场的潜在连锁反应，可能会导致经济不稳定。",
-        "en": "The central bank warns that current stock market valuations, investor complacency, and potential knock-on effects in credit markets could lead to economic instability.",
-        "de": "Die Zentralbank warnt, dass die aktuellen Bewertungen des Aktienmarktes, die Selbstzufriedenheit der Anleger und mögliche Folgewirkungen in den Kreditmärkten zu wirtschaftlicher Instabilität führen könnten."
+        "zh": "在美国和伊朗达成协议一周后，霍尔木兹海峡的航运恢复，但由于信心脆弱，复苏面临威胁。",
+        "en": "Shipping traffic in the Strait of Hormuz is recovering one week after the U.S. and Iran reached an agreement, but fragile confidence threatens the recovery.",
+        "de": "Der Schiffsverkehr im Persischen Golf erholt sich eine Woche nach dem US-Iran-Abkommen, aber das fragile Vertrauen bedroht die Erholung."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-06-29",
-      "url": "https://www.marketwatch.com/story/the-central-bank-of-central-banks-warns-ai-frenzy-could-trigger-stock-market-slump-and-jeopardize-economy-4d24b0a1?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-06-26",
+      "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "油价上涨，股指期货小幅上涨，美国和伊朗据报同意停止攻击",
-        "en": "Oil prices, stock futures inch higher as U.S. and Iran reportedly agree to halt attacks",
-        "de": "Ölpreise steigen, Aktienfutures steigen leicht, da die USA und der Iran Berichten zufolge zustimmen, Angriffe zu stoppen"
+        "zh": "美国对伊朗石油制裁的豁免释放数十亿美元收入",
+        "en": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+        "de": "Die USA erteilen umfassende Ausnahmen von den Iran-Ölsanktionen und erschließen Milliarden von Einnahmen für Teheran"
       },
       "summary": {
-        "zh": "在美国和伊朗据报同意停止攻击后，油价上涨，股指期货小幅上涨，市场信心有所恢复。",
-        "en": "Following reports that the US and Iran have agreed to halt attacks, oil prices have risen and stock index futures have edged higher, indicating a recovery in market confidence.",
-        "de": "Nach Berichten, dass die USA und der Iran zugestimmt haben, Angriffe zu stoppen, sind die Ölpreise gestiegen und die Aktienindex-Futures haben leicht zugelegt, was auf eine Erholung des Marktvertrauens hindeutet."
+        "zh": "美国对伊朗的石油制裁豁免释放了数十亿美元的收入，为德黑兰提供了经济支持，促进了和平协议的谈判。",
+        "en": "The U.S. has issued waivers for Iran's oil sanctions, unlocking billions in revenue for Tehran, providing economic support and facilitating negotiations towards a peace deal.",
+        "de": "Die USA haben Ausnahmen von den Iran-Ölsanktionen erteilt, die Milliarden von Einnahmen für Teheran freisetzen, wirtschaftliche Unterstützung bieten und die Verhandlungen über ein Friedensabkommen erleichtern."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-06-29",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-inch-higher-as-u-s-and-iran-trade-more-airstrikes-3fc66beb?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-06-23",
+      "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
     }
   ]
 }
