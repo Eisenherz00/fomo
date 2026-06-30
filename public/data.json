@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-06-30T08:06:22.962902+00:00",
+  "generatedAt": "2026-06-30T18:17:34.863386+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "AI代理不是你的“同事”",
-        "en": "AI agents are not your “coworkers”",
-        "de": "KI-Agenten sind nicht Ihre „Kollegen“"
+        "zh": "圆桌会议：长寿的下一个前沿：“重编程”你的身体",
+        "en": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+        "de": "Runden Tische: Die nächste Grenze der Langlebigkeit: „Reprogrammierung“ Ihres Körpers"
       },
       "summary": {
-        "zh": "这篇文章探讨了AI代理与人类同事之间的区别，强调AI并不具备人类的情感和意识，因此不能被视为真正的同事。",
-        "en": "This article explores the distinction between AI agents and human coworkers, emphasizing that AI lacks human emotions and consciousness, and therefore cannot be considered true colleagues.",
-        "de": "Dieser Artikel untersucht den Unterschied zwischen KI-Agenten und menschlichen Kollegen und betont, dass KI keine menschlichen Emotionen und kein Bewusstsein hat und daher nicht als echte Kollegen betrachtet werden kann."
+        "zh": "数十亿美元正涌入逆转衰老的努力，科学家们探索将细胞恢复到年轻状态的方法。",
+        "en": "Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a youthful state.",
+        "de": "Milliarden von Dollar fließen in Bemühungen zur Umkehrung des Alterns, während Wissenschaftler Wege erkunden, um Zellen in einen jugendlichen Zustand zurückzuführen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-29",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
+      "date": "2026-06-30",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "技术前沿的代理信心",
-        "en": "Agent confidence on the technical frontier",
-        "de": "Agentenvertrauen an der technischen Front"
+        "zh": "下载：AI“同事”和高空互联网",
+        "en": "The Download: AI “coworkers” and stratospheric internet",
+        "de": "Der Download: KI-„Kollegen“ und stratosphärisches Internet"
       },
       "summary": {
-        "zh": "企业对AI的投资正在迅速增长，Gartner预测2026年将是企业将AI项目与战略业务对齐的“拐点年”。",
-        "en": "Enterprise investment in AI is booming, with Gartner predicting that 2026 will be an 'inflection year' for organizations to align their AI projects with strategic business goals.",
-        "de": "Die Investitionen von Unternehmen in KI boomen, wobei Gartner prognostiziert, dass 2026 ein 'Wendepunktjahr' für Organisationen sein wird, um ihre KI-Projekte mit strategischen Geschäftszielen in Einklang zu bringen."
+        "zh": "今天的下载版提供了关于技术世界的最新动态，包括AI同事的崛起和高空互联网的进展。",
+        "en": "Today’s edition of The Download provides updates on the world of technology, including the rise of AI coworkers and advancements in stratospheric internet.",
+        "de": "Die heutige Ausgabe des Downloads bietet Updates aus der Technikwelt, einschließlich des Aufstiegs von KI-Kollegen und Fortschritten im stratosphärischen Internet."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-29",
-      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+      "date": "2026-06-30",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：指标弱点和AI大象警告",
-        "en": "The Download: metric weaknesses and AI elephant warnings",
-        "de": "Der Download: Metrikschwächen und KI-Elefantenwarnungen"
+        "zh": "农业准备好迎接AI，但其数据却不够",
+        "en": "Agriculture is ready for AI, but its data isn’t",
+        "de": "Die Landwirtschaft ist bereit für KI, aber ihre Daten sind es nicht"
       },
       "summary": {
-        "zh": "本期《下载》提供了有关技术世界的最新动态，包括对AI指标的警告和潜在的弱点分析。",
-        "en": "This edition of The Download provides the latest updates from the tech world, including warnings about AI metrics and potential weaknesses.",
-        "de": "Diese Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich Warnungen vor KI-Metriken und potenziellen Schwächen."
+        "zh": "人工智能正在改变农业的可能性，但行业领导者在投资AI之前应谨慎，确保数据基础设施到位。",
+        "en": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be cautious about investing in AI without ensuring data infrastructure is in place.",
+        "de": "Künstliche Intelligenz verändert, was in der Landwirtschaft möglich ist, aber Branchenführer sollten vorsichtig sein, in KI zu investieren, ohne sicherzustellen, dass die Dateninfrastruktur vorhanden ist."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-29",
-      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
+      "date": "2026-06-30",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "每位首相如何破坏英国经济",
-        "en": "How each prime minister broke Britain’s economy",
-        "de": "Wie jeder Premierminister die britische Wirtschaft ruiniert hat"
+        "zh": "美国热浪将考验电网，因AI驱动的能源需求飙升",
+        "en": "US heatwave to test power grid amid soaring AI-driven energy demand",
+        "de": "US-Hitzewelle wird das Stromnetz auf die Probe stellen, während die von KI getriebenen Energienachfrage steigt"
       },
       "summary": {
-        "zh": "这篇文章分析了历任首相对英国经济造成的影响，探讨了政策失误和经济衰退的原因。",
-        "en": "This article analyzes the impact of successive prime ministers on the British economy, exploring the reasons behind policy failures and economic downturns.",
-        "de": "Dieser Artikel analysiert die Auswirkungen auf die britische Wirtschaft durch aufeinanderfolgende Premierminister und untersucht die Gründe für politische Misserfolge und wirtschaftliche Rückgänge."
+        "zh": "电网运营商警告称，美国的热浪可能在独立日前夕将电力需求推向创纪录水平。",
+        "en": "Grid operators warn the US heatwave could send electricity demand near record levels before Fourth of July weekend.",
+        "de": "Netzbetreiber warnen, dass die US-Hitzewelle die Stromnachfrage vor dem Unabhängigkeitstag auf Rekordniveaus treiben könnte."
       },
       "source": "Al Jazeera",
       "date": "2026-06-30",
-      "url": "https://www.aljazeera.com/video/money-works/2026/6/30/how-each-prime-minister-broke-britains-economy?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "在世界杯上，媒体设立了道德检查站",
-        "en": "At the World Cup, the media has set up a moral checkpoint",
-        "de": "Bei der Weltmeisterschaft hat die Medien einen moralischen Kontrollpunkt eingerichtet"
+        "zh": "美国最高法院维持变性人体育禁令",
+        "en": "US Supreme Court upholds transgender sports ban",
+        "de": "US-Oberster Gerichtshof bestätigt Verbot von Transgender-Sport"
       },
       "summary": {
-        "zh": "这篇文章讨论了在世界杯期间，媒体如何对来自全球南方的足球运动员进行政治质疑，而美国和欧洲球员则不受此影响。",
-        "en": "This article discusses how, during the World Cup, the media questions footballers from the Global South about politics, while US and European players are not subjected to the same scrutiny.",
-        "de": "Dieser Artikel erörtert, wie die Medien während der Weltmeisterschaft Fußballspieler aus dem Globalen Süden über Politik befragen, während US-amerikanische und europäische Spieler nicht derselben Prüfung unterzogen werden."
+        "zh": "最高法院以9-0的裁决决定，州法律并未违反《第九条公民权利法案》。",
+        "en": "The court decided 9-0 that the state laws do not violate the Title IX civil rights statute.",
+        "de": "Das Gericht entschied mit 9 zu 0, dass die Landesgesetze das Titel-IX-Bürgerrechtsgesetz nicht verletzen."
       },
       "source": "Al Jazeera",
       "date": "2026-06-30",
-      "url": "https://www.aljazeera.com/opinions/2026/6/30/at-the-world-cup-the-media-has-set-up-a-moral-checkpoint?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-upholds-transgender-sports-ban?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "刚果民主共和国确认1307例埃博拉病例，包括377例死亡",
-        "en": "DR Congo says 1,307 Ebola cases confirmed, including 377 deaths",
-        "de": "Die DR Kongo bestätigt 1.307 Ebola-Fälle, darunter 377 Todesfälle"
+        "zh": "联合国警告埃博拉可能使非洲损失36亿美元和就业",
+        "en": "UN warns Ebola could cost Africa $3.6bn and jobs",
+        "de": "UN warnt, dass Ebola Afrika 3,6 Milliarden Dollar und Arbeitsplätze kosten könnte"
       },
       "summary": {
-        "zh": "刚果民主共和国报告了埃博拉疫情的最新进展，病例数量持续上升，疫情已扩散至第四个省。",
-        "en": "The Democratic Republic of Congo reports the latest developments in the Ebola outbreak, with case numbers continuing to rise and the outbreak spreading to a fourth province.",
-        "de": "Die Demokratische Republik Kongo berichtet über die neuesten Entwicklungen im Ebola-Ausbruch, wobei die Fallzahlen weiter steigen und der Ausbruch auf eine vierte Provinz übergreift."
+        "zh": "刚果民主共和国的最新埃博拉疫情已感染1307人，自5月以来已造成377人死亡。",
+        "en": "The latest Ebola outbreak in DRC has infected 1,307 people and claimed 377 lives since May.",
+        "de": "Der jüngste Ebola-Ausbruch in der DR Kongo hat seit Mai 1.307 Menschen infiziert und 377 Leben gefordert."
       },
       "source": "Al Jazeera",
       "date": "2026-06-30",
-      "url": "https://www.aljazeera.com/news/2026/6/30/dr-congo-says-1307-ebola-cases-confirmed-including-377-deaths?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/6/30/un-warns-ebola-could-cost-africa-3-6bn-and-jobs?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "中国扩大对日本的出口限制，针对无人机制造商、核企业和国防机构",
-        "en": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
-        "de": "China weitet Exportbeschränkungen für Japan aus und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab"
+        "zh": "亚马逊投资10亿美元，追随Palantir的AI战略",
+        "en": "Amazon is laying out $1 billion to follow Palantir’s AI playbook",
+        "de": "Amazon investiert 1 Milliarde Dollar, um Palantirs KI-Strategie zu folgen"
       },
       "summary": {
-        "zh": "中国对日本的出口限制扩大，涉及无人机制造商和国防研究机构，可能对相关行业产生重大影响。",
-        "en": "China has expanded its export restrictions on Japan, targeting drone manufacturers and defense research institutes, which could have significant implications for the affected industries.",
-        "de": "China hat seine Exportbeschränkungen für Japan ausgeweitet und zielt auf Drohnenhersteller und Verteidigungsforschungsinstitute ab, was erhebliche Auswirkungen auf die betroffenen Branchen haben könnte."
+        "zh": "亚马逊正在向客户直接派遣工程师，以增强人工智能能力，计划投资10亿美元。",
+        "en": "Amazon is sending engineers directly to clients to bolster artificial intelligence capabilities, planning to invest $1 billion.",
+        "de": "Amazon schickt Ingenieure direkt zu Kunden, um die Fähigkeiten der künstlichen Intelligenz zu stärken, und plant, 1 Milliarde Dollar zu investieren."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-06-29",
-      "url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
+      "source": "MarketWatch",
+      "date": "2026-06-30",
+      "url": "https://www.marketwatch.com/story/amazon-is-laying-out-1-billion-to-follow-palantirs-ai-playbook-7d9ff6e4?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "霍尔木兹海峡的航运在美伊协议一周后反弹，但脆弱的信心威胁复苏",
-        "en": "Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery",
-        "de": "Der Versand im Golf von Hormuz erholt sich eine Woche nach dem US-Iran-Deal – aber fragiles Vertrauen bedroht die Erholung"
+        "zh": "中国扩大对日本的出口限制，针对无人机制造商、核企业和国防机构",
+        "en": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
+        "de": "China erweitert Exportbeschränkungen gegenüber Japan und zielt auf Drohnenhersteller, Atomunternehmen und Verteidigungsinstitute ab"
       },
       "summary": {
-        "zh": "在美国和伊朗签署临时和平协议一周后，霍尔木兹海峡的航运流量有所恢复，但信心仍然脆弱，复苏面临挑战。",
-        "en": "Shipping traffic through the Strait of Hormuz has rebounded one week after the U.S. and Iran signed an interim peace deal, but fragile confidence poses challenges to the recovery.",
-        "de": "Der Versandverkehr durch die Straße von Hormuz hat sich eine Woche nach der Unterzeichnung eines vorläufigen Friedensabkommens zwischen den USA und dem Iran erholt, aber fragiles Vertrauen stellt Herausforderungen für die Erholung dar."
+        "zh": "中国将四个日本政府国防研究机构列入黑名单，并对数十家日本公司实施更严格的出口限制。",
+        "en": "China blacklisted four of Japan's government defense research institutes and placed dozens more Japanese firms under tightened export restrictions.",
+        "de": "China hat vier japanische Regierungsverteidigungsforschungsinstitute auf die schwarze Liste gesetzt und Dutzende weiterer japanischer Firmen unter verschärfte Exportbeschränkungen gestellt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-06-26",
-      "url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html"
+      "source": "CNBC",
+      "date": "2026-06-29",
+      "url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "核心通胀率在5月达到3.4%，为2023年10月以来的最高水平",
-        "en": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows",
-        "de": "Die Kerninflationsrate erreichte im Mai 3,4 %, den höchsten Stand seit Oktober 2023, zeigt der bevorzugte Maßstab der Fed"
+        "zh": "6月工厂裁员接近金融危机和Covid水平，标准普尔表示",
+        "en": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+        "de": "Fabrikschließungen im Juni nähern sich den Niveaus der Finanzkrise und von Covid, sagt S&P"
       },
       "summary": {
-        "zh": "根据美联储的首选指标，5月份核心通胀率达到3.4%，为2023年10月以来的最高水平，反映出经济的持续压力。",
-        "en": "According to the Fed's preferred gauge, the core inflation rate hit 3.4% in May, the highest level since October 2023, reflecting ongoing economic pressures.",
-        "de": "Laut dem bevorzugten Maßstab der Fed erreichte die Kerninflationsrate im Mai 3,4 %, den höchsten Stand seit Oktober 2023, was auf anhaltenden wirtschaftlichen Druck hinweist."
+        "zh": "尽管标准普尔的制造业指数超出预期，但6月的裁员主要是由于库存重建，且伴随大规模裁员。",
+        "en": "Although S&P's manufacturing index exceeded expectations, job cuts in June were largely due to inventory rebuilding and accompanied by significant layoffs.",
+        "de": "Obwohl der Fertigungsindex von S&P die Erwartungen übertraf, waren die Arbeitsplatzverluste im Juni hauptsächlich auf den Wiederaufbau von Beständen zurückzuführen und gingen mit erheblichen Entlassungen einher."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-06-25",
-      "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html"
+      "source": "CNBC",
+      "date": "2026-06-23",
+      "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
     }
   ]
 }
