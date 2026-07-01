@@ -1,40 +1,24 @@
 {
-  "generatedAt": "2026-06-30T18:17:34.863386+00:00",
+  "generatedAt": "2026-07-01T08:36:57.778981+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "圆桌会议：长寿的下一个前沿：“重编程”你的身体",
-        "en": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
-        "de": "Runden Tische: Die nächste Grenze der Langlebigkeit: „Reprogrammierung“ Ihres Körpers"
+        "zh": "Claude Science是Anthropic最新的旗舰产品",
+        "en": "Claude Science is Anthropic’s newest flagship product",
+        "de": "Claude Science ist das neueste Flaggschiffprodukt von Anthropic"
       },
       "summary": {
-        "zh": "数十亿美元正涌入逆转衰老的努力，科学家们探索将细胞恢复到年轻状态的方法。",
-        "en": "Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a youthful state.",
-        "de": "Milliarden von Dollar fließen in Bemühungen zur Umkehrung des Alterns, während Wissenschaftler Wege erkunden, um Zellen in einen jugendlichen Zustand zurückzuführen."
+        "zh": "Anthropic在一场针对制药高管、生物科技创始人和研究人员的活动中宣布了Claude Science，这是一个重要的新产品。",
+        "en": "Anthropic announced Claude Science, a major new product, at an event for pharmaceutical executives, biotech founders, and researchers.",
+        "de": "Anthropic kündigte Claude Science, ein wichtiges neues Produkt, bei einer Veranstaltung für Pharma-Manager, Biotech-Gründer und Forscher an."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-30",
-      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/"
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
     },
     {
       "id": "ai-2",
-      "title": {
-        "zh": "下载：AI“同事”和高空互联网",
-        "en": "The Download: AI “coworkers” and stratospheric internet",
-        "de": "Der Download: KI-„Kollegen“ und stratosphärisches Internet"
-      },
-      "summary": {
-        "zh": "今天的下载版提供了关于技术世界的最新动态，包括AI同事的崛起和高空互联网的进展。",
-        "en": "Today’s edition of The Download provides updates on the world of technology, including the rise of AI coworkers and advancements in stratospheric internet.",
-        "de": "Die heutige Ausgabe des Downloads bietet Updates aus der Technikwelt, einschließlich des Aufstiegs von KI-Kollegen und Fortschritten im stratosphärischen Internet."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-06-30",
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
-    },
-    {
-      "id": "ai-3",
       "title": {
         "zh": "农业准备好迎接AI，但其数据却不够",
         "en": "Agriculture is ready for AI, but its data isn’t",
@@ -42,112 +26,128 @@
       },
       "summary": {
         "zh": "人工智能正在改变农业的可能性，但行业领导者在投资AI之前应谨慎，确保数据基础设施到位。",
-        "en": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be cautious about investing in AI without ensuring data infrastructure is in place.",
-        "de": "Künstliche Intelligenz verändert, was in der Landwirtschaft möglich ist, aber Branchenführer sollten vorsichtig sein, in KI zu investieren, ohne sicherzustellen, dass die Dateninfrastruktur vorhanden ist."
+        "en": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the data groundwork.",
+        "de": "Künstliche Intelligenz verändert die Möglichkeiten in der Landwirtschaft, aber Branchenführer sollten vorsichtig sein, in KI zu investieren, ohne zuvor die Datenbasis zu schaffen."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-30",
       "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "新攻击提供了AI浏览器是坏主意的另一个理由",
+        "en": "New attack provides one more reason why AI browsers are a bad idea",
+        "de": "Neuer Angriff liefert einen weiteren Grund, warum KI-Browser eine schlechte Idee sind"
+      },
+      "summary": {
+        "zh": "一项新攻击表明，告知大型语言模型错误的信息足以使其遵循禁止的指令，这进一步证明了AI浏览器的风险。",
+        "en": "A new attack shows that telling an LLM incorrect information is enough to make it follow forbidden instructions, further highlighting the risks of AI browsers.",
+        "de": "Ein neuer Angriff zeigt, dass es ausreicht, einem LLM falsche Informationen zu geben, um es dazu zu bringen, verbotene Anweisungen zu befolgen, was die Risiken von KI-Browsern weiter verdeutlicht."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-06-30",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国热浪将考验电网，因AI驱动的能源需求飙升",
-        "en": "US heatwave to test power grid amid soaring AI-driven energy demand",
-        "de": "US-Hitzewelle wird das Stromnetz auf die Probe stellen, während die von KI getriebenen Energienachfrage steigt"
+        "zh": "特朗普官员表示白宫将对出生公民权决定进行斗争",
+        "en": "Trump official says White House will fight birthright citizenship decision",
+        "de": "Trump-Beamter sagt, das Weiße Haus werde gegen die Entscheidung zur Geburtsrechtseinbürgerung kämpfen"
       },
       "summary": {
-        "zh": "电网运营商警告称，美国的热浪可能在独立日前夕将电力需求推向创纪录水平。",
-        "en": "Grid operators warn the US heatwave could send electricity demand near record levels before Fourth of July weekend.",
-        "de": "Netzbetreiber warnen, dass die US-Hitzewelle die Stromnachfrage vor dem Unabhängigkeitstag auf Rekordniveaus treiben könnte."
+        "zh": "一名白宫顾问告诉阿尔贾泽拉，特朗普政府将继续“斗争”以结束出生公民权。",
+        "en": "A White House adviser told Al Jazeera the Trump administration will continue ‘fighting’ to end birthright citizenship.",
+        "de": "Ein Berater des Weißen Hauses sagte Al Jazeera, dass die Trump-Administration weiterhin 'kämpfen' werde, um das Geburtsrecht auf Staatsbürgerschaft zu beenden."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-30",
-      "url": "https://www.aljazeera.com/news/2026/6/30/us-heatwave-to-test-power-grid-amid-soaring-ai-driven-energy-demand?traffic_source=rss"
+      "date": "2026-07-01",
+      "url": "https://www.aljazeera.com/video/2026/7/1/trump-official-says-white-house-will-fight-birthright-citizenship-decision?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国最高法院维持变性人体育禁令",
-        "en": "US Supreme Court upholds transgender sports ban",
-        "de": "US-Oberster Gerichtshof bestätigt Verbot von Transgender-Sport"
+        "zh": "美国最高法院维持出生公民权，给特朗普带来重创",
+        "en": "US Supreme Court upholds birthright citizenship in blow to Trump",
+        "de": "Der US Supreme Court bestätigt das Geburtsrecht auf Staatsbürgerschaft und trifft Trump schwer"
       },
       "summary": {
-        "zh": "最高法院以9-0的裁决决定，州法律并未违反《第九条公民权利法案》。",
-        "en": "The court decided 9-0 that the state laws do not violate the Title IX civil rights statute.",
-        "de": "Das Gericht entschied mit 9 zu 0, dass die Landesgesetze das Titel-IX-Bürgerrechtsgesetz nicht verletzen."
+        "zh": "这一裁决对特朗普的移民议程是一个重大挫折，并受到民权组织的欢迎。",
+        "en": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
+        "de": "Das Urteil ist ein schwerer Rückschlag für Donald Trumps Einwanderungsagenda und wurde von Bürgerrechtsgruppen begrüßt."
       },
-      "source": "Al Jazeera",
-      "date": "2026-06-30",
-      "url": "https://www.aljazeera.com/news/2026/6/30/us-supreme-court-upholds-transgender-sports-ban?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-07-01",
+      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "联合国警告埃博拉可能使非洲损失36亿美元和就业",
-        "en": "UN warns Ebola could cost Africa $3.6bn and jobs",
-        "de": "UN warnt, dass Ebola Afrika 3,6 Milliarden Dollar und Arbeitsplätze kosten könnte"
+        "zh": "民主社会主义者基罗斯在科罗拉多初选中击败长期现任者",
+        "en": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
+        "de": "Der demokratische Sozialist Kiros besiegt den langjährigen Amtsinhaber bei den Vorwahlen in Colorado"
       },
       "summary": {
-        "zh": "刚果民主共和国的最新埃博拉疫情已感染1307人，自5月以来已造成377人死亡。",
-        "en": "The latest Ebola outbreak in DRC has infected 1,307 people and claimed 377 lives since May.",
-        "de": "Der jüngste Ebola-Ausbruch in der DR Kongo hat seit Mai 1.307 Menschen infiziert und 377 Leben gefordert."
+        "zh": "前律师梅拉特·基罗斯在科罗拉多州初选中击败了长期现任者，批评民主党支持以色列在加沙的战争。",
+        "en": "Former lawyer Melat Kiros, 29, has criticized Democrats for support of Israel during its genocidal war on Gaza.",
+        "de": "Die ehemalige Anwältin Melat Kiros, 29, hat die Demokraten für ihre Unterstützung Israels während seines völkermörderischen Krieges gegen Gaza kritisiert."
       },
       "source": "Al Jazeera",
-      "date": "2026-06-30",
-      "url": "https://www.aljazeera.com/news/2026/6/30/un-warns-ebola-could-cost-africa-3-6bn-and-jobs?traffic_source=rss"
+      "date": "2026-07-01",
+      "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "亚马逊投资10亿美元，追随Palantir的AI战略",
-        "en": "Amazon is laying out $1 billion to follow Palantir’s AI playbook",
-        "de": "Amazon investiert 1 Milliarde Dollar, um Palantirs KI-Strategie zu folgen"
+        "zh": "北海石油和可再生能源：英国新首相面临决定性能源政策选择",
+        "en": "North Sea oil and renewables: The UK’s next PM faces a defining energy policy decision",
+        "de": "Nordseeöl und erneuerbare Energien: Der nächste Premierminister des Vereinigten Königreichs steht vor einer entscheidenden energiepolitischen Entscheidung"
       },
       "summary": {
-        "zh": "亚马逊正在向客户直接派遣工程师，以增强人工智能能力，计划投资10亿美元。",
-        "en": "Amazon is sending engineers directly to clients to bolster artificial intelligence capabilities, planning to invest $1 billion.",
-        "de": "Amazon schickt Ingenieure direkt zu Kunden, um die Fähigkeiten der künstlichen Intelligenz zu stärken, und plant, 1 Milliarde Dollar zu investieren."
+        "zh": "安迪·伯纳姆可能面临北海石油钻探的早期考验，因为能源冲击重新引发了英国能源安全的辩论。",
+        "en": "Andy Burnham could face an early test over North Sea oil drilling as energy shocks revive the UK energy security debate.",
+        "de": "Andy Burnham könnte sich einer frühen Prüfung bezüglich der Nordseeölbohrungen stellen müssen, da Energie-Schocks die Debatte über die Energiesicherheit im Vereinigten Königreich neu entfacht haben."
       },
-      "source": "MarketWatch",
-      "date": "2026-06-30",
-      "url": "https://www.marketwatch.com/story/amazon-is-laying-out-1-billion-to-follow-palantirs-ai-playbook-7d9ff6e4?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-01",
+      "url": "https://www.cnbc.com/2026/07/01/burnham-north-sea-oil-energy-security.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国扩大对日本的出口限制，针对无人机制造商、核企业和国防机构",
+        "zh": "中国扩大对日本的出口限制，针对无人机制造商、核公司和国防机构",
         "en": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
-        "de": "China erweitert Exportbeschränkungen gegenüber Japan und zielt auf Drohnenhersteller, Atomunternehmen und Verteidigungsinstitute ab"
+        "de": "China weitet Exportbeschränkungen für Japan aus und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab"
       },
       "summary": {
         "zh": "中国将四个日本政府国防研究机构列入黑名单，并对数十家日本公司实施更严格的出口限制。",
         "en": "China blacklisted four of Japan's government defense research institutes and placed dozens more Japanese firms under tightened export restrictions.",
         "de": "China hat vier japanische Regierungsverteidigungsforschungsinstitute auf die schwarze Liste gesetzt und Dutzende weiterer japanischer Firmen unter verschärfte Exportbeschränkungen gestellt."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-06-29",
       "url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "6月工厂裁员接近金融危机和Covid水平，标准普尔表示",
-        "en": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
-        "de": "Fabrikschließungen im Juni nähern sich den Niveaus der Finanzkrise und von Covid, sagt S&P"
+        "zh": "比特币ETF本应使抛售变得不那么痛苦，这一理论正在接受考验",
+        "en": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
+        "de": "Bitcoin-ETFs sollten Verkäufe weniger schmerzhaft machen. Diese Theorie wird auf die Probe gestellt."
       },
       "summary": {
-        "zh": "尽管标准普尔的制造业指数超出预期，但6月的裁员主要是由于库存重建，且伴随大规模裁员。",
-        "en": "Although S&P's manufacturing index exceeded expectations, job cuts in June were largely due to inventory rebuilding and accompanied by significant layoffs.",
-        "de": "Obwohl der Fertigungsindex von S&P die Erwartungen übertraf, waren die Arbeitsplatzverluste im Juni hauptsächlich auf den Wiederaufbau von Beständen zurückzuführen und gingen mit erheblichen Entlassungen einher."
+        "zh": "加密投资者希望通过机构的增加采用和加密友好的政府来帮助最大的加密货币避免抛售，但这一理论正面临考验。",
+        "en": "Crypto investors had hoped that increased institutional adoption and a crypto-friendly administration could help the largest cryptocurrency avoid selloffs, but that theory is being tested.",
+        "de": "Krypto-Investoren hatten gehofft, dass eine erhöhte institutionelle Akzeptanz und eine krypto-freundliche Verwaltung der größten Kryptowährung helfen könnten, Verkäufe zu vermeiden, aber diese Theorie wird auf die Probe gestellt."
       },
-      "source": "CNBC",
-      "date": "2026-06-23",
-      "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-01",
+      "url": "https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories"
     }
   ]
 }
