@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-01T08:36:57.778981+00:00",
+  "generatedAt": "2026-07-01T18:20:07.174342+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "Claude Science是Anthropic最新的旗舰产品",
-        "en": "Claude Science is Anthropic’s newest flagship product",
-        "de": "Claude Science ist das neueste Flaggschiffprodukt von Anthropic"
+        "zh": "大型语言模型陷入集体思维的困境。这家初创公司试图将它们解救出来。",
+        "en": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "de": "LLMs stecken in einer Gruppendenk-Falle. Dieses Startup versucht, sie herauszuholen."
       },
       "summary": {
-        "zh": "Anthropic在一场针对制药高管、生物科技创始人和研究人员的活动中宣布了Claude Science，这是一个重要的新产品。",
-        "en": "Anthropic announced Claude Science, a major new product, at an event for pharmaceutical executives, biotech founders, and researchers.",
-        "de": "Anthropic kündigte Claude Science, ein wichtiges neues Produkt, bei einer Veranstaltung für Pharma-Manager, Biotech-Gründer und Forscher an."
+        "zh": "一项新研究表明，大型语言模型（LLMs）在生成内容时受到集体思维的影响。为了解决这个问题，一家初创公司正在开发新的方法，以提高模型的多样性和创造力。",
+        "en": "A new study indicates that large language models (LLMs) are influenced by groupthink when generating content. To address this issue, a startup is developing new methods to enhance the diversity and creativity of the models.",
+        "de": "Eine neue Studie zeigt, dass große Sprachmodelle (LLMs) beim Generieren von Inhalten von Gruppendenken beeinflusst werden. Um dieses Problem anzugehen, entwickelt ein Startup neue Methoden zur Verbesserung der Vielfalt und Kreativität der Modelle."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-30",
-      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+      "date": "2026-07-01",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "农业准备好迎接AI，但其数据却不够",
-        "en": "Agriculture is ready for AI, but its data isn’t",
-        "de": "Die Landwirtschaft ist bereit für KI, aber ihre Daten sind es nicht"
+        "zh": "下载：Anthropic推出Claude Science，加州的碳肥料数学",
+        "en": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+        "de": "Der Download: Anthropic startet Claude Science und Kaliforniens Kohlenstoffdünger-Mathematik"
       },
       "summary": {
-        "zh": "人工智能正在改变农业的可能性，但行业领导者在投资AI之前应谨慎，确保数据基础设施到位。",
-        "en": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the data groundwork.",
-        "de": "Künstliche Intelligenz verändert die Möglichkeiten in der Landwirtschaft, aber Branchenführer sollten vorsichtig sein, in KI zu investieren, ohne zuvor die Datenbasis zu schaffen."
+        "zh": "Anthropic最近推出了其新产品Claude Science，旨在推动科学研究和应用。该产品的发布引发了对加州碳肥料政策的讨论。",
+        "en": "Anthropic recently launched its new product Claude Science, aimed at advancing scientific research and applications. The release has sparked discussions about California's carbon manure policies.",
+        "de": "Anthropic hat kürzlich sein neues Produkt Claude Science eingeführt, das darauf abzielt, die wissenschaftliche Forschung und Anwendungen voranzutreiben. Die Veröffentlichung hat Diskussionen über Kaliforniens Kohlenstoffdüngerpolitik ausgelöst."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-30",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+      "date": "2026-07-01",
+      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "新攻击提供了AI浏览器是坏主意的另一个理由",
-        "en": "New attack provides one more reason why AI browsers are a bad idea",
-        "de": "Neuer Angriff liefert einen weiteren Grund, warum KI-Browser eine schlechte Idee sind"
+        "zh": "农业已经准备好迎接人工智能，但其数据却不够",
+        "en": "Agriculture is ready for AI, but its data isn’t",
+        "de": "Die Landwirtschaft ist bereit für KI, aber ihre Daten sind es nicht"
       },
       "summary": {
-        "zh": "一项新攻击表明，告知大型语言模型错误的信息足以使其遵循禁止的指令，这进一步证明了AI浏览器的风险。",
-        "en": "A new attack shows that telling an LLM incorrect information is enough to make it follow forbidden instructions, further highlighting the risks of AI browsers.",
-        "de": "Ein neuer Angriff zeigt, dass es ausreicht, einem LLM falsche Informationen zu geben, um es dazu zu bringen, verbotene Anweisungen zu befolgen, was die Risiken von KI-Browsern weiter verdeutlicht."
+        "zh": "尽管人工智能在农业领域的潜力巨大，但行业领导者在投资之前需要确保数据的质量和可用性。文章探讨了农业数据的现状和挑战。",
+        "en": "Despite the immense potential of AI in agriculture, industry leaders need to ensure data quality and availability before investing. The article discusses the current state and challenges of agricultural data.",
+        "de": "Trotz des enormen Potenzials von KI in der Landwirtschaft müssen die Branchenführer die Datenqualität und -verfügbarkeit sicherstellen, bevor sie investieren. Der Artikel erörtert den aktuellen Stand und die Herausforderungen der Agrardaten."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-06-30",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普官员表示白宫将对出生公民权决定进行斗争",
-        "en": "Trump official says White House will fight birthright citizenship decision",
-        "de": "Trump-Beamter sagt, das Weiße Haus werde gegen die Entscheidung zur Geburtsrechtseinbürgerung kämpfen"
+        "zh": "美国表示不会同意续签USMCA",
+        "en": "US says it won’t agree to renew USMCA",
+        "de": "Die USA sagen, dass sie nicht zustimmen werden, das USMCA zu verlängern"
       },
       "summary": {
-        "zh": "一名白宫顾问告诉阿尔贾泽拉，特朗普政府将继续“斗争”以结束出生公民权。",
-        "en": "A White House adviser told Al Jazeera the Trump administration will continue ‘fighting’ to end birthright citizenship.",
-        "de": "Ein Berater des Weißen Hauses sagte Al Jazeera, dass die Trump-Administration weiterhin 'kämpfen' werde, um das Geburtsrecht auf Staatsbürgerschaft zu beenden."
+        "zh": "美国政府宣布不会同意续签美墨加协定（USMCA），该协定于2020年7月1日生效，计划在16年后到期。这一决定可能影响北美贸易关系。",
+        "en": "The U.S. government announced it will not agree to renew the United States-Mexico-Canada Agreement (USMCA), which took effect on July 1, 2020, and is set to expire after 16 years. This decision could impact North American trade relations.",
+        "de": "Die US-Regierung gab bekannt, dass sie nicht zustimmen wird, das US-Mexiko-Kanada-Abkommen (USMCA) zu verlängern, das am 1. Juli 2020 in Kraft trat und nach 16 Jahren auslaufen soll. Diese Entscheidung könnte die nordamerikanischen Handelsbeziehungen beeinflussen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-01",
-      "url": "https://www.aljazeera.com/video/2026/7/1/trump-official-says-white-house-will-fight-birthright-citizenship-decision?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/7/1/us-says-it-wont-agree-to-renew-usmca?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国最高法院维持出生公民权，给特朗普带来重创",
-        "en": "US Supreme Court upholds birthright citizenship in blow to Trump",
-        "de": "Der US Supreme Court bestätigt das Geburtsrecht auf Staatsbürgerschaft und trifft Trump schwer"
+        "zh": "三人在墨西哥城的世界杯庆祝活动中遇难",
+        "en": "Three dead after massive World Cup celebrations in Mexico City",
+        "de": "Drei Tote nach massiven Weltmeisterschaftsfeiern in Mexiko-Stadt"
       },
       "summary": {
-        "zh": "这一裁决对特朗普的移民议程是一个重大挫折，并受到民权组织的欢迎。",
-        "en": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups.",
-        "de": "Das Urteil ist ein schwerer Rückschlag für Donald Trumps Einwanderungsagenda und wurde von Bürgerrechtsgruppen begrüßt."
+        "zh": "在墨西哥城庆祝世界杯的活动中，三人不幸遇难。卫生官员表示，这些庆祝活动吸引了超过一百万人参与。",
+        "en": "Three people tragically died during the World Cup celebrations in Mexico City. Health officials reported that the celebrations attracted over one million participants.",
+        "de": "Drei Personen starben tragischerweise während der Weltmeisterschaftsfeiern in Mexiko-Stadt. Gesundheitsbehörden berichteten, dass die Feiern über eine Million Teilnehmer anzogen."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-07-01",
-      "url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "民主社会主义者基罗斯在科罗拉多初选中击败长期现任者",
-        "en": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
-        "de": "Der demokratische Sozialist Kiros besiegt den langjährigen Amtsinhaber bei den Vorwahlen in Colorado"
+        "zh": "心理压力加剧，以色列战争抹去黎巴嫩村庄",
+        "en": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
+        "de": "Psychologischer Druck steigt, während libanesische Dörfer durch Israels Krieg ausgelöscht werden"
       },
       "summary": {
-        "zh": "前律师梅拉特·基罗斯在科罗拉多州初选中击败了长期现任者，批评民主党支持以色列在加沙的战争。",
-        "en": "Former lawyer Melat Kiros, 29, has criticized Democrats for support of Israel during its genocidal war on Gaza.",
-        "de": "Die ehemalige Anwältin Melat Kiros, 29, hat die Demokraten für ihre Unterstützung Israels während seines völkermörderischen Krieges gegen Gaza kritisiert."
+        "zh": "以色列的战争导致黎巴嫩村庄被摧毁，居民面临着巨大的心理压力。文章探讨了战争对人们身份和情感的影响。",
+        "en": "Israel's war has led to the destruction of Lebanese villages, leaving residents with immense psychological stress. The article explores the impact of war on people's identity and emotions.",
+        "de": "Der Krieg Israels hat zur Zerstörung libanesischer Dörfer geführt, was die Bewohner mit immensem psychologischen Stress zurücklässt. Der Artikel untersucht die Auswirkungen des Krieges auf die Identität und Emotionen der Menschen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-01",
-      "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
+        "zh": "私人部门在6月新增98,000个职位，低于预期，ADP报告称",
+        "en": "Private payrolls rose by 98,000 in June, less than expected, ADP reports",
+        "de": "Die privaten Gehälter stiegen im Juni um 98.000, weniger als erwartet, berichtet ADP"
+      },
+      "summary": {
+        "zh": "根据ADP的报告，6月份私人部门新增的就业岗位数量低于预期，增加了98,000个职位，主要集中在医疗保健相关行业。",
+        "en": "According to ADP's report, the number of jobs added in the private sector in June was below expectations, with an increase of 98,000 positions, primarily focused on healthcare-related sectors.",
+        "de": "Laut dem Bericht von ADP lag die Anzahl der im Juni im privaten Sektor hinzugefügten Arbeitsplätze unter den Erwartungen, mit einem Anstieg um 98.000 Stellen, die hauptsächlich auf den Gesundheitssektor ausgerichtet sind."
+      },
+      "source": "CNBC",
+      "date": "2026-07-01",
+      "url": "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
         "zh": "北海石油和可再生能源：英国新首相面临决定性能源政策选择",
         "en": "North Sea oil and renewables: The UK’s next PM faces a defining energy policy decision",
         "de": "Nordseeöl und erneuerbare Energien: Der nächste Premierminister des Vereinigten Königreichs steht vor einer entscheidenden energiepolitischen Entscheidung"
       },
       "summary": {
-        "zh": "安迪·伯纳姆可能面临北海石油钻探的早期考验，因为能源冲击重新引发了英国能源安全的辩论。",
-        "en": "Andy Burnham could face an early test over North Sea oil drilling as energy shocks revive the UK energy security debate.",
-        "de": "Andy Burnham könnte sich einer frühen Prüfung bezüglich der Nordseeölbohrungen stellen müssen, da Energie-Schocks die Debatte über die Energiesicherheit im Vereinigten Königreich neu entfacht haben."
+        "zh": "随着能源危机的加剧，英国新首相安迪·伯纳姆可能面临关于北海石油钻探的重大政策决策，这将影响国家的能源安全。",
+        "en": "As the energy crisis intensifies, the UK's new Prime Minister Andy Burnham may face significant policy decisions regarding North Sea oil drilling, which will impact national energy security.",
+        "de": "Mit der Verschärfung der Energiekrise könnte der neue Premierminister des Vereinigten Königreichs, Andy Burnham, vor bedeutenden politischen Entscheidungen bezüglich der Ölbohrungen in der Nordsee stehen, die die nationale Energiesicherheit beeinflussen werden."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-07-01",
       "url": "https://www.cnbc.com/2026/07/01/burnham-north-sea-oil-energy-security.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "中国扩大对日本的出口限制，针对无人机制造商、核公司和国防机构",
-        "en": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
-        "de": "China weitet Exportbeschränkungen für Japan aus und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab"
-      },
-      "summary": {
-        "zh": "中国将四个日本政府国防研究机构列入黑名单，并对数十家日本公司实施更严格的出口限制。",
-        "en": "China blacklisted four of Japan's government defense research institutes and placed dozens more Japanese firms under tightened export restrictions.",
-        "de": "China hat vier japanische Regierungsverteidigungsforschungsinstitute auf die schwarze Liste gesetzt und Dutzende weiterer japanischer Firmen unter verschärfte Exportbeschränkungen gestellt."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-06-29",
-      "url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "比特币ETF本应使抛售变得不那么痛苦，这一理论正在接受考验",
-        "en": "Bitcoin ETFs were supposed to make selloffs less painful. That theory is being put to the test.",
-        "de": "Bitcoin-ETFs sollten Verkäufe weniger schmerzhaft machen. Diese Theorie wird auf die Probe gestellt."
+        "zh": "中国扩大对日本的出口限制，针对无人机制造商、核企业和国防机构",
+        "en": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
+        "de": "China erweitert die Exportbeschränkungen für Japan und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute"
       },
       "summary": {
-        "zh": "加密投资者希望通过机构的增加采用和加密友好的政府来帮助最大的加密货币避免抛售，但这一理论正面临考验。",
-        "en": "Crypto investors had hoped that increased institutional adoption and a crypto-friendly administration could help the largest cryptocurrency avoid selloffs, but that theory is being tested.",
-        "de": "Krypto-Investoren hatten gehofft, dass eine erhöhte institutionelle Akzeptanz und eine krypto-freundliche Verwaltung der größten Kryptowährung helfen könnten, Verkäufe zu vermeiden, aber diese Theorie wird auf die Probe gestellt."
+        "zh": "中国对日本的出口限制进一步扩大，涉及无人机制造商、核企业和国防机构，可能会对两国的贸易关系产生重大影响。",
+        "en": "China has further widened its export restrictions on Japan, targeting drone manufacturers, nuclear firms, and defense institutes, which could significantly impact trade relations between the two countries.",
+        "de": "China hat seine Exportbeschränkungen für Japan weiter ausgeweitet und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab, was die Handelsbeziehungen zwischen den beiden Ländern erheblich beeinflussen könnte."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-01",
-      "url": "https://www.marketwatch.com/story/bitcoin-etfs-were-supposed-to-make-selloffs-less-painful-that-theory-is-being-put-to-the-test-f70ba3c6?mod=mw_rss_topstories"
+      "source": "CNBC",
+      "date": "2026-06-29",
+      "url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
     }
   ]
 }
