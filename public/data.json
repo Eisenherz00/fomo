@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-02T07:51:06.717649+00:00",
+  "generatedAt": "2026-07-02T18:08:42.381913+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "大型语言模型陷入群体思维的困境。这家初创公司试图将它们解救出来。",
-        "en": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "de": "LLMs stecken in einer Gruppendenkfalle. Dieses Startup versucht, sie herauszuholen."
+        "zh": "通过人工智能实现运营卓越：精益六西格玛和业务流程管理（BPM）等框架因其承诺在混乱中提供清晰而获得了关注",
+        "en": "Achieving operational excellence with AI: Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way",
+        "de": "Erreichung operativer Exzellenz mit KI: Rahmenwerke wie Lean Six Sigma und Geschäftsprozessmanagement (BPM) gewannen zunächst an Bedeutung, weil sie Klarheit im Chaos versprachen – einen strukturierten Ansatz"
       },
       "summary": {
-        "zh": "一项新研究指出，当前的大型语言模型（LLMs）在生成内容时受到群体思维的限制。一家初创公司正在开发新技术，以打破这种模式并提升模型的创造力。",
-        "en": "A new study points out that current large language models (LLMs) are limited by groupthink in content generation. A startup is developing new technology to break this pattern and enhance the models' creativity.",
-        "de": "Eine neue Studie weist darauf hin, dass aktuelle große Sprachmodelle (LLMs) bei der Inhaltserzeugung durch Gruppendenken eingeschränkt sind. Ein Startup entwickelt neue Technologien, um dieses Muster zu durchbrechen und die Kreativität der Modelle zu steigern."
+        "zh": "人工智能正在改变企业运营的方式，精益六西格玛和业务流程管理等框架提供了一种结构化的方法来应对复杂性。这些框架的应用有助于提高效率和降低成本。",
+        "en": "Artificial intelligence is transforming the way businesses operate, with frameworks like Lean Six Sigma and business process management offering a structured approach to tackle complexity. The application of these frameworks aids in improving efficiency and reducing costs.",
+        "de": "Künstliche Intelligenz transformiert die Art und Weise, wie Unternehmen arbeiten, wobei Rahmenwerke wie Lean Six Sigma und Geschäftsprozessmanagement einen strukturierten Ansatz bieten, um Komplexität zu bewältigen. Die Anwendung dieser Rahmenwerke hilft, die Effizienz zu steigern und Kosten zu senken."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-01",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
+      "date": "2026-07-02",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：Anthropic推出Claude Science，加州的碳肥料数学",
-        "en": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-        "de": "Der Download: Anthropic bringt Claude Science heraus und Kaliforniens Kohlenstoffdünger-Mathematik"
+        "zh": "教人工智能与涡轮机一起运行：人工智能可能通过聊天机器人和图像生成器吸引了公众的想象力，但其最重要的用例之一是",
+        "en": "Teaching AI to run with the turbines: Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a",
+        "de": "KI beibringen, mit Turbinen zu laufen: Künstliche Intelligenz hat möglicherweise die öffentliche Vorstellungskraft durch Chatbots und Bildgeneratoren erfasst, aber einige ihrer folgenreichsten Anwendungsfälle sind"
       },
       "summary": {
-        "zh": "Anthropic最近推出了其新产品Claude Science，旨在推动科学研究与人工智能的结合。此外，加州在碳肥料的计算方法上也取得了进展。",
-        "en": "Anthropic recently launched its new product Claude Science, aimed at promoting the integration of scientific research and artificial intelligence. Additionally, California has made progress in the calculation methods for carbon manure.",
-        "de": "Anthropic hat kürzlich sein neues Produkt Claude Science eingeführt, das darauf abzielt, die Integration von wissenschaftlicher Forschung und künstlicher Intelligenz zu fördern. Darüber hinaus hat Kalifornien Fortschritte bei den Berechnungsmethoden für Kohlenstoffdünger gemacht."
+        "zh": "人工智能的应用正在扩展到更复杂的领域，如与涡轮机的协作。这种技术的进步可能会对能源生产和管理产生深远的影响。",
+        "en": "The application of artificial intelligence is expanding into more complex areas, such as collaboration with turbines. This technological advancement could have profound implications for energy production and management.",
+        "de": "Die Anwendung von Künstlicher Intelligenz erweitert sich auf komplexere Bereiche, wie die Zusammenarbeit mit Turbinen. Dieser technologische Fortschritt könnte tiefgreifende Auswirkungen auf die Energieproduktion und -verwaltung haben."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-01",
-      "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
+      "date": "2026-07-02",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "农业准备好迎接人工智能，但其数据却不够",
-        "en": "Agriculture is ready for AI, but its data isn’t",
-        "de": "Die Landwirtschaft ist bereit für KI, aber ihre Daten sind es nicht"
+        "zh": "下载：一家初创公司为人工智能的集体思维问题提供了解决方案：这是我们今天的下载版，我们的工作日通讯提供了关于科技世界的日常动态。",
+        "en": "The Download: a startup has a solution for AI’s groupthink problem: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
+        "de": "Der Download: Ein Startup hat eine Lösung für das Gruppen-Denken-Problem der KI: Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich über das Geschehen in der Technologiewelt informiert."
       },
       "summary": {
-        "zh": "尽管人工智能在农业中的应用潜力巨大，但行业领导者在投资之前需要确保数据的质量和可用性，以避免潜在的失败。",
-        "en": "Despite the immense potential of AI applications in agriculture, industry leaders need to ensure data quality and availability before investing to avoid potential failures.",
-        "de": "Trotz des enormen Potenzials von KI-Anwendungen in der Landwirtschaft müssen die Branchenführer die Datenqualität und -verfügbarkeit sicherstellen, bevor sie investieren, um potenzielle Misserfolge zu vermeiden."
+        "zh": "一家初创公司正在开发解决方案，以应对人工智能在集体思维方面的挑战。这一创新可能会改变AI模型的决策过程，提高其多样性和创造力。",
+        "en": "A startup is developing solutions to address the challenges of groupthink in artificial intelligence. This innovation could transform the decision-making processes of AI models, enhancing their diversity and creativity.",
+        "de": "Ein Startup entwickelt Lösungen, um die Herausforderungen des Gruppen-Denkens in der Künstlichen Intelligenz anzugehen. Diese Innovation könnte die Entscheidungsprozesse von KI-Modellen transformieren und deren Vielfalt und Kreativität verbessern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-06-30",
-      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+      "date": "2026-07-02",
+      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "南非反移民抗议活动中逮捕人数超过900人",
-        "en": "More than 900 arrested during South Africa’s antimigrant protests",
-        "de": "Mehr als 900 während der antimigrantischen Proteste in Südafrika verhaftet"
+        "zh": "北美热浪可能对世界杯产生的影响：哪些主办城市和比赛面临最大的风险？国际足联正在采取什么措施来保护球员，球迷如何保持安全？",
+        "en": "How the North American heatwave could impact the FIFA World Cup: Which host cities and matches face the biggest risks? What is FIFA doing to protect players and how can fans stay safe?",
+        "de": "Wie die nordamerikanische Hitzewelle die FIFA-Weltmeisterschaft beeinflussen könnte: Welche Gastgeberstädte und Spiele sind am stärksten gefährdet? Was tut die FIFA, um die Spieler zu schützen, und wie können Fans sicher bleiben?"
       },
       "summary": {
-        "zh": "南非因外籍人士问题引发的抗议活动导致超过900人被捕，显示出该国日益加剧的仇外情绪。",
-        "en": "Protests in South Africa over issues related to foreigners have led to the arrest of over 900 individuals, highlighting the country's escalating xenophobic sentiments.",
-        "de": "Proteste in Südafrika über Fragen im Zusammenhang mit Ausländern haben zur Festnahme von über 900 Personen geführt, was die zunehmenden fremdenfeindlichen Stimmungen im Land verdeutlicht."
+        "zh": "北美的热浪可能会对即将举行的世界杯产生重大影响，特别是在主办城市和比赛安排方面。国际足联正在采取措施确保球员和观众的安全。",
+        "en": "The North American heatwave could have significant implications for the upcoming World Cup, particularly regarding host cities and match arrangements. FIFA is taking measures to ensure the safety of players and spectators.",
+        "de": "Die nordamerikanische Hitzewelle könnte erhebliche Auswirkungen auf die bevorstehende Weltmeisterschaft haben, insbesondere in Bezug auf die Gastgeberstädte und Spielanordnungen. Die FIFA ergreift Maßnahmen, um die Sicherheit der Spieler und Zuschauer zu gewährleisten."
       },
       "source": "Al Jazeera",
       "date": "2026-07-02",
-      "url": "https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/2/how-the-north-american-heatwave-could-impact-the-fifa-world-cup?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "中国的新民族团结法扩展其法律影响力至海外",
-        "en": "China’s new ethnic unity law extends its legal reach overseas",
-        "de": "Chinas neues Gesetz zur ethnischen Einheit erweitert seine rechtlichen Reichweiten ins Ausland"
+        "zh": "大马士革咖啡馆发生致命爆炸，造成6人死亡，22人受伤：在大马士革的阿尔-希贾兹地区，一枚爆炸装置在一家咖啡馆爆炸，造成至少6人死亡，22人受伤。",
+        "en": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured: At least 6 people were killed and 22 injured after an explosive device detonated in a café in Damascus' Al-Hijaz area.",
+        "de": "Tödliche Explosion in einem Café in Damaskus: Mindestens 6 Tote und 22 Verletzte, nachdem ein Sprengsatz in einem Café im Al-Hijaz-Viertel von Damaskus detonierte."
       },
       "summary": {
-        "zh": "中国的新民族团结法被批评为可能为跨国镇压提供法律依据，而非促进民族和谐。",
-        "en": "China's new ethnic unity law has been criticized for potentially providing a legal basis for transnational repression rather than promoting ethnic harmony.",
-        "de": "Chinas neues Gesetz zur ethnischen Einheit wird kritisiert, weil es möglicherweise eine rechtliche Grundlage für transnationale Repressionen bietet, anstatt ethnische Harmonie zu fördern."
+        "zh": "在大马士革的一家咖啡馆发生的爆炸造成了至少6人死亡和22人受伤。这一事件突显了该地区的安全形势依然严峻。",
+        "en": "An explosion at a café in Damascus has resulted in at least 6 deaths and 22 injuries. This incident underscores the ongoing security challenges in the region.",
+        "de": "Eine Explosion in einem Café in Damaskus hat mindestens 6 Tote und 22 Verletzte gefordert. Dieser Vorfall verdeutlicht die anhaltenden Sicherheitsherausforderungen in der Region."
       },
       "source": "Al Jazeera",
       "date": "2026-07-02",
-      "url": "https://www.aljazeera.com/news/2026/7/2/chinas-new-ethnic-unity-law-extends-its-legal-reach-overseas?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "马耳他一名商人在著名记者谋杀案中受审",
-        "en": "Businessman on trial in Malta over prominent journalist’s murder",
-        "de": "Geschäftsmann in Malta wegen Mordes an prominenter Journalistin vor Gericht"
+        "zh": "德国检察官指控乌克兰下令袭击北溪管道：一名前乌克兰士兵被指控犯有“战争罪”，并领导一组潜水员炸毁北溪管道。",
+        "en": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack: Former Ukrainian soldier accused of 'war crime' and leading a team of divers to blow up Nord Stream pipelines.",
+        "de": "Deutsche Staatsanwälte behaupten, die Ukraine habe den Angriff auf die Nord-Stream-Pipeline befohlen: Ein ehemaliger ukrainischer Soldat wird beschuldigt, ein 'Kriegsverbrechen' begangen und ein Team von Tauchern geleitet zu haben, um die Nord-Stream-Pipelines in die Luft zu sprengen."
       },
       "summary": {
-        "zh": "马耳他商人Yorgen Fenech因被控策划谋杀记者达芙妮·卡鲁阿纳·加利齐亚而受审，案件引发了对新闻自由的广泛关注。",
-        "en": "Malta businessman Yorgen Fenech is on trial for allegedly orchestrating the murder of journalist Daphne Caruana Galizia, a case that has drawn widespread attention to press freedom.",
-        "de": "Der maltesische Geschäftsmann Yorgen Fenech steht wegen des Vorwurfs, den Mord an der Journalistin Daphne Caruana Galizia orchestriert zu haben, vor Gericht, ein Fall, der große Aufmerksamkeit auf die Pressefreiheit lenkt."
+        "zh": "德国检察官指控乌克兰下令袭击北溪管道，涉及一名前乌克兰士兵的“战争罪”指控。这一指控可能会加剧乌克兰与西方国家之间的紧张关系。",
+        "en": "German prosecutors allege that Ukraine ordered the attack on the Nord Stream pipeline, involving 'war crime' charges against a former Ukrainian soldier. This allegation could escalate tensions between Ukraine and Western nations.",
+        "de": "Deutsche Staatsanwälte behaupten, die Ukraine habe den Angriff auf die Nord-Stream-Pipeline befohlen, wobei ein ehemaliger ukrainischer Soldat wegen 'Kriegsverbrechen' angeklagt wird. Diese Anschuldigung könnte die Spannungen zwischen der Ukraine und den westlichen Nationen verschärfen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-02",
-      "url": "https://www.aljazeera.com/news/2026/7/2/businessman-on-trial-in-malta-over-prominent-journalists-murder?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "世界杯可能使6月就业报告增加40,000个职位，高盛估计",
-        "en": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
-        "de": "Die Weltmeisterschaft könnte den Arbeitsbericht für Juni um 40.000 Stellen ankurbeln, schätzt Goldman"
+        "zh": "求职者放弃：劳动参与率降至50年来最低，除了疫情期间：失业率的下降在某种程度上为原本不乐观的就业报告提供了一些积极因素——但原因却不尽如人意。",
+        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era: A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
+        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära: Ein Rückgang der Arbeitslosenquote half, einen positiven Aspekt in einem ansonsten trüben Arbeitsbericht zu finden – aber aus den falschen Gründen."
       },
       "summary": {
-        "zh": "高盛预计，2026年世界杯将为美国6月的就业报告增加40,000个职位，反映出体育赛事对经济的积极影响。",
-        "en": "Goldman Sachs estimates that the 2026 World Cup will add 40,000 jobs to the U.S. June employment report, reflecting the positive economic impact of sporting events.",
-        "de": "Goldman Sachs schätzt, dass die Weltmeisterschaft 2026 dem Arbeitsbericht der USA im Juni 40.000 Stellen hinzufügen wird, was die positiven wirtschaftlichen Auswirkungen von Sportereignissen widerspiegelt."
+        "zh": "美国的劳动参与率降至50年来的最低水平，反映出求职者的放弃现象。尽管失业率有所下降，但这一趋势并未能掩盖就业市场的整体疲软。",
+        "en": "The labor force participation rate in the U.S. has fallen to its lowest level in 50 years, reflecting a trend of job seekers giving up. Although the unemployment rate has decreased, this trend does not mask the overall weakness in the job market.",
+        "de": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, was einen Trend zeigt, dass Stellenbewerber aufgeben. Obwohl die Arbeitslosenquote gesunken ist, kaschiert dieser Trend nicht die allgemeine Schwäche des Arbeitsmarktes."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-01",
-      "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html"
+      "date": "2026-07-02",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "私营部门6月新增98,000个职位，低于预期，ADP报告",
-        "en": "Private payrolls rose by 98,000 in June, less than expected, ADP reports",
-        "de": "Die privaten Löhne stiegen im Juni um 98.000, weniger als erwartet, berichtet ADP"
+        "zh": "美国6月就业增长放缓，非农就业人数仅增加57,000；失业率为4.2%：6月非农就业人数预计将增加115,000，失业率保持在4.3%。",
+        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%: Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
+        "de": "Die Schaffung von Arbeitsplätzen in den USA kühlt sich im Juni mit einem Anstieg der Löhne um nur 57.000 ab; die Arbeitslosenquote liegt bei 4,2 %: Die Zahl der Nichtlandwirtschaftlichen Löhne sollte im Juni um 115.000 steigen, und die Arbeitslosenquote sollte bei 4,3 % bleiben."
       },
       "summary": {
-        "zh": "根据ADP的报告，6月私营部门新增职位数量低于预期，显示出经济复苏的步伐可能放缓。",
-        "en": "According to ADP's report, the number of jobs added in the private sector in June fell short of expectations, indicating that the pace of economic recovery may be slowing.",
-        "de": "Laut dem Bericht von ADP blieb die Zahl der im Juni im privaten Sektor hinzugefügten Stellen hinter den Erwartungen zurück, was darauf hindeutet, dass das Tempo der wirtschaftlichen Erholung möglicherweise langsamer wird."
+        "zh": "美国6月的就业增长显著放缓，非农就业人数仅增加57,000，低于预期。这一数据反映出经济复苏的脆弱性。",
+        "en": "U.S. job growth significantly cooled in June, with nonfarm payrolls increasing by only 57,000, falling short of expectations. This data reflects the fragility of the economic recovery.",
+        "de": "Das Beschäftigungswachstum in den USA hat sich im Juni erheblich verlangsamt, da die Zahl der Nichtlandwirtschaftlichen Löhne nur um 57.000 gestiegen ist, was die Erwartungen nicht erfüllt. Diese Daten spiegeln die Fragilität der wirtschaftlichen Erholung wider."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-01",
-      "url": "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html"
+      "date": "2026-07-02",
+      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "英国家庭面临艰难的消费环境，通货膨胀和支出压力加剧",
-        "en": "UK households face tough spending backdrop amid inflation and spending pressures",
-        "de": "Britische Haushalte sehen sich angesichts von Inflation und Ausgabendruck einem schwierigen Ausgabenumfeld gegenüber"
+        "zh": "世界杯可能使6月就业报告增加40,000，高盛估计：根据道琼斯的共识，非农就业人数预计将增加115,000。",
+        "en": "World Cup could boost the June jobs report by 40,000, Goldman estimates: Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
+        "de": "Die Weltmeisterschaft könnte den Arbeitsbericht für Juni um 40.000 erhöhen, schätzt Goldman: Die Zahl der Nichtlandwirtschaftlichen Löhne wird laut Konsens von Dow Jones voraussichtlich um 115.000 steigen."
       },
       "summary": {
-        "zh": "由于通货膨胀和支出压力，英国家庭面临严峻的消费环境，可能会影响零售和消费品行业的表现。",
-        "en": "UK households are facing a tough spending environment due to inflation and spending pressures, which may impact the performance of the retail and consumer goods sectors.",
-        "de": "Britische Haushalte sehen sich aufgrund von Inflation und Ausgabendruck einem schwierigen Ausgabenumfeld gegenüber, was sich auf die Leistung des Einzelhandels und der Konsumgüterbranche auswirken könnte."
+        "zh": "高盛估计，世界杯可能会使6月的就业报告增加40,000个岗位。这一预测显示了体育赛事对经济的潜在积极影响。",
+        "en": "Goldman Sachs estimates that the World Cup could add 40,000 jobs to the June employment report. This forecast highlights the potential positive impact of sporting events on the economy.",
+        "de": "Goldman Sachs schätzt, dass die Weltmeisterschaft dem Arbeitsbericht für Juni 40.000 Arbeitsplätze hinzufügen könnte. Diese Prognose hebt die potenziell positiven Auswirkungen von Sportereignissen auf die Wirtschaft hervor."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-01",
-      "url": "https://www.cnbc.com/2026/07/01/burnham-north-sea-oil-energy-security.html"
+      "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html"
     }
   ]
 }
