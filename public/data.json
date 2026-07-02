@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-01T18:20:07.174342+00:00",
+  "generatedAt": "2026-07-02T07:51:06.717649+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "大型语言模型陷入集体思维的困境。这家初创公司试图将它们解救出来。",
+        "zh": "大型语言模型陷入群体思维的困境。这家初创公司试图将它们解救出来。",
         "en": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "de": "LLMs stecken in einer Gruppendenk-Falle. Dieses Startup versucht, sie herauszuholen."
+        "de": "LLMs stecken in einer Gruppendenkfalle. Dieses Startup versucht, sie herauszuholen."
       },
       "summary": {
-        "zh": "一项新研究表明，大型语言模型（LLMs）在生成内容时受到集体思维的影响。为了解决这个问题，一家初创公司正在开发新的方法，以提高模型的多样性和创造力。",
-        "en": "A new study indicates that large language models (LLMs) are influenced by groupthink when generating content. To address this issue, a startup is developing new methods to enhance the diversity and creativity of the models.",
-        "de": "Eine neue Studie zeigt, dass große Sprachmodelle (LLMs) beim Generieren von Inhalten von Gruppendenken beeinflusst werden. Um dieses Problem anzugehen, entwickelt ein Startup neue Methoden zur Verbesserung der Vielfalt und Kreativität der Modelle."
+        "zh": "一项新研究指出，当前的大型语言模型（LLMs）在生成内容时受到群体思维的限制。一家初创公司正在开发新技术，以打破这种模式并提升模型的创造力。",
+        "en": "A new study points out that current large language models (LLMs) are limited by groupthink in content generation. A startup is developing new technology to break this pattern and enhance the models' creativity.",
+        "de": "Eine neue Studie weist darauf hin, dass aktuelle große Sprachmodelle (LLMs) bei der Inhaltserzeugung durch Gruppendenken eingeschränkt sind. Ein Startup entwickelt neue Technologien, um dieses Muster zu durchbrechen und die Kreativität der Modelle zu steigern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-01",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "下载：Anthropic推出Claude Science，加州的碳肥料数学",
         "en": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-        "de": "Der Download: Anthropic startet Claude Science und Kaliforniens Kohlenstoffdünger-Mathematik"
+        "de": "Der Download: Anthropic bringt Claude Science heraus und Kaliforniens Kohlenstoffdünger-Mathematik"
       },
       "summary": {
-        "zh": "Anthropic最近推出了其新产品Claude Science，旨在推动科学研究和应用。该产品的发布引发了对加州碳肥料政策的讨论。",
-        "en": "Anthropic recently launched its new product Claude Science, aimed at advancing scientific research and applications. The release has sparked discussions about California's carbon manure policies.",
-        "de": "Anthropic hat kürzlich sein neues Produkt Claude Science eingeführt, das darauf abzielt, die wissenschaftliche Forschung und Anwendungen voranzutreiben. Die Veröffentlichung hat Diskussionen über Kaliforniens Kohlenstoffdüngerpolitik ausgelöst."
+        "zh": "Anthropic最近推出了其新产品Claude Science，旨在推动科学研究与人工智能的结合。此外，加州在碳肥料的计算方法上也取得了进展。",
+        "en": "Anthropic recently launched its new product Claude Science, aimed at promoting the integration of scientific research and artificial intelligence. Additionally, California has made progress in the calculation methods for carbon manure.",
+        "de": "Anthropic hat kürzlich sein neues Produkt Claude Science eingeführt, das darauf abzielt, die Integration von wissenschaftlicher Forschung und künstlicher Intelligenz zu fördern. Darüber hinaus hat Kalifornien Fortschritte bei den Berechnungsmethoden für Kohlenstoffdünger gemacht."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-01",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "农业已经准备好迎接人工智能，但其数据却不够",
+        "zh": "农业准备好迎接人工智能，但其数据却不够",
         "en": "Agriculture is ready for AI, but its data isn’t",
         "de": "Die Landwirtschaft ist bereit für KI, aber ihre Daten sind es nicht"
       },
       "summary": {
-        "zh": "尽管人工智能在农业领域的潜力巨大，但行业领导者在投资之前需要确保数据的质量和可用性。文章探讨了农业数据的现状和挑战。",
-        "en": "Despite the immense potential of AI in agriculture, industry leaders need to ensure data quality and availability before investing. The article discusses the current state and challenges of agricultural data.",
-        "de": "Trotz des enormen Potenzials von KI in der Landwirtschaft müssen die Branchenführer die Datenqualität und -verfügbarkeit sicherstellen, bevor sie investieren. Der Artikel erörtert den aktuellen Stand und die Herausforderungen der Agrardaten."
+        "zh": "尽管人工智能在农业中的应用潜力巨大，但行业领导者在投资之前需要确保数据的质量和可用性，以避免潜在的失败。",
+        "en": "Despite the immense potential of AI applications in agriculture, industry leaders need to ensure data quality and availability before investing to avoid potential failures.",
+        "de": "Trotz des enormen Potenzials von KI-Anwendungen in der Landwirtschaft müssen die Branchenführer die Datenqualität und -verfügbarkeit sicherstellen, bevor sie investieren, um potenzielle Misserfolge zu vermeiden."
       },
       "source": "MIT Technology Review",
       "date": "2026-06-30",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国表示不会同意续签USMCA",
-        "en": "US says it won’t agree to renew USMCA",
-        "de": "Die USA sagen, dass sie nicht zustimmen werden, das USMCA zu verlängern"
+        "zh": "南非反移民抗议活动中逮捕人数超过900人",
+        "en": "More than 900 arrested during South Africa’s antimigrant protests",
+        "de": "Mehr als 900 während der antimigrantischen Proteste in Südafrika verhaftet"
       },
       "summary": {
-        "zh": "美国政府宣布不会同意续签美墨加协定（USMCA），该协定于2020年7月1日生效，计划在16年后到期。这一决定可能影响北美贸易关系。",
-        "en": "The U.S. government announced it will not agree to renew the United States-Mexico-Canada Agreement (USMCA), which took effect on July 1, 2020, and is set to expire after 16 years. This decision could impact North American trade relations.",
-        "de": "Die US-Regierung gab bekannt, dass sie nicht zustimmen wird, das US-Mexiko-Kanada-Abkommen (USMCA) zu verlängern, das am 1. Juli 2020 in Kraft trat und nach 16 Jahren auslaufen soll. Diese Entscheidung könnte die nordamerikanischen Handelsbeziehungen beeinflussen."
+        "zh": "南非因外籍人士问题引发的抗议活动导致超过900人被捕，显示出该国日益加剧的仇外情绪。",
+        "en": "Protests in South Africa over issues related to foreigners have led to the arrest of over 900 individuals, highlighting the country's escalating xenophobic sentiments.",
+        "de": "Proteste in Südafrika über Fragen im Zusammenhang mit Ausländern haben zur Festnahme von über 900 Personen geführt, was die zunehmenden fremdenfeindlichen Stimmungen im Land verdeutlicht."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-01",
-      "url": "https://www.aljazeera.com/economy/2026/7/1/us-says-it-wont-agree-to-renew-usmca?traffic_source=rss"
+      "date": "2026-07-02",
+      "url": "https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "三人在墨西哥城的世界杯庆祝活动中遇难",
-        "en": "Three dead after massive World Cup celebrations in Mexico City",
-        "de": "Drei Tote nach massiven Weltmeisterschaftsfeiern in Mexiko-Stadt"
+        "zh": "中国的新民族团结法扩展其法律影响力至海外",
+        "en": "China’s new ethnic unity law extends its legal reach overseas",
+        "de": "Chinas neues Gesetz zur ethnischen Einheit erweitert seine rechtlichen Reichweiten ins Ausland"
       },
       "summary": {
-        "zh": "在墨西哥城庆祝世界杯的活动中，三人不幸遇难。卫生官员表示，这些庆祝活动吸引了超过一百万人参与。",
-        "en": "Three people tragically died during the World Cup celebrations in Mexico City. Health officials reported that the celebrations attracted over one million participants.",
-        "de": "Drei Personen starben tragischerweise während der Weltmeisterschaftsfeiern in Mexiko-Stadt. Gesundheitsbehörden berichteten, dass die Feiern über eine Million Teilnehmer anzogen."
+        "zh": "中国的新民族团结法被批评为可能为跨国镇压提供法律依据，而非促进民族和谐。",
+        "en": "China's new ethnic unity law has been criticized for potentially providing a legal basis for transnational repression rather than promoting ethnic harmony.",
+        "de": "Chinas neues Gesetz zur ethnischen Einheit wird kritisiert, weil es möglicherweise eine rechtliche Grundlage für transnationale Repressionen bietet, anstatt ethnische Harmonie zu fördern."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-01",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/three-dead-after-massive-world-cup-celebrations-in-mexico-city?traffic_source=rss"
+      "date": "2026-07-02",
+      "url": "https://www.aljazeera.com/news/2026/7/2/chinas-new-ethnic-unity-law-extends-its-legal-reach-overseas?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "心理压力加剧，以色列战争抹去黎巴嫩村庄",
-        "en": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-        "de": "Psychologischer Druck steigt, während libanesische Dörfer durch Israels Krieg ausgelöscht werden"
+        "zh": "马耳他一名商人在著名记者谋杀案中受审",
+        "en": "Businessman on trial in Malta over prominent journalist’s murder",
+        "de": "Geschäftsmann in Malta wegen Mordes an prominenter Journalistin vor Gericht"
       },
       "summary": {
-        "zh": "以色列的战争导致黎巴嫩村庄被摧毁，居民面临着巨大的心理压力。文章探讨了战争对人们身份和情感的影响。",
-        "en": "Israel's war has led to the destruction of Lebanese villages, leaving residents with immense psychological stress. The article explores the impact of war on people's identity and emotions.",
-        "de": "Der Krieg Israels hat zur Zerstörung libanesischer Dörfer geführt, was die Bewohner mit immensem psychologischen Stress zurücklässt. Der Artikel untersucht die Auswirkungen des Krieges auf die Identität und Emotionen der Menschen."
+        "zh": "马耳他商人Yorgen Fenech因被控策划谋杀记者达芙妮·卡鲁阿纳·加利齐亚而受审，案件引发了对新闻自由的广泛关注。",
+        "en": "Malta businessman Yorgen Fenech is on trial for allegedly orchestrating the murder of journalist Daphne Caruana Galizia, a case that has drawn widespread attention to press freedom.",
+        "de": "Der maltesische Geschäftsmann Yorgen Fenech steht wegen des Vorwurfs, den Mord an der Journalistin Daphne Caruana Galizia orchestriert zu haben, vor Gericht, ein Fall, der große Aufmerksamkeit auf die Pressefreiheit lenkt."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-01",
-      "url": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss"
+      "date": "2026-07-02",
+      "url": "https://www.aljazeera.com/news/2026/7/2/businessman-on-trial-in-malta-over-prominent-journalists-murder?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "私人部门在6月新增98,000个职位，低于预期，ADP报告称",
-        "en": "Private payrolls rose by 98,000 in June, less than expected, ADP reports",
-        "de": "Die privaten Gehälter stiegen im Juni um 98.000, weniger als erwartet, berichtet ADP"
+        "zh": "世界杯可能使6月就业报告增加40,000个职位，高盛估计",
+        "en": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+        "de": "Die Weltmeisterschaft könnte den Arbeitsbericht für Juni um 40.000 Stellen ankurbeln, schätzt Goldman"
       },
       "summary": {
-        "zh": "根据ADP的报告，6月份私人部门新增的就业岗位数量低于预期，增加了98,000个职位，主要集中在医疗保健相关行业。",
-        "en": "According to ADP's report, the number of jobs added in the private sector in June was below expectations, with an increase of 98,000 positions, primarily focused on healthcare-related sectors.",
-        "de": "Laut dem Bericht von ADP lag die Anzahl der im Juni im privaten Sektor hinzugefügten Arbeitsplätze unter den Erwartungen, mit einem Anstieg um 98.000 Stellen, die hauptsächlich auf den Gesundheitssektor ausgerichtet sind."
+        "zh": "高盛预计，2026年世界杯将为美国6月的就业报告增加40,000个职位，反映出体育赛事对经济的积极影响。",
+        "en": "Goldman Sachs estimates that the 2026 World Cup will add 40,000 jobs to the U.S. June employment report, reflecting the positive economic impact of sporting events.",
+        "de": "Goldman Sachs schätzt, dass die Weltmeisterschaft 2026 dem Arbeitsbericht der USA im Juni 40.000 Stellen hinzufügen wird, was die positiven wirtschaftlichen Auswirkungen von Sportereignissen widerspiegelt."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-07-01",
-      "url": "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html"
+      "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "北海石油和可再生能源：英国新首相面临决定性能源政策选择",
-        "en": "North Sea oil and renewables: The UK’s next PM faces a defining energy policy decision",
-        "de": "Nordseeöl und erneuerbare Energien: Der nächste Premierminister des Vereinigten Königreichs steht vor einer entscheidenden energiepolitischen Entscheidung"
+        "zh": "私营部门6月新增98,000个职位，低于预期，ADP报告",
+        "en": "Private payrolls rose by 98,000 in June, less than expected, ADP reports",
+        "de": "Die privaten Löhne stiegen im Juni um 98.000, weniger als erwartet, berichtet ADP"
       },
       "summary": {
-        "zh": "随着能源危机的加剧，英国新首相安迪·伯纳姆可能面临关于北海石油钻探的重大政策决策，这将影响国家的能源安全。",
-        "en": "As the energy crisis intensifies, the UK's new Prime Minister Andy Burnham may face significant policy decisions regarding North Sea oil drilling, which will impact national energy security.",
-        "de": "Mit der Verschärfung der Energiekrise könnte der neue Premierminister des Vereinigten Königreichs, Andy Burnham, vor bedeutenden politischen Entscheidungen bezüglich der Ölbohrungen in der Nordsee stehen, die die nationale Energiesicherheit beeinflussen werden."
+        "zh": "根据ADP的报告，6月私营部门新增职位数量低于预期，显示出经济复苏的步伐可能放缓。",
+        "en": "According to ADP's report, the number of jobs added in the private sector in June fell short of expectations, indicating that the pace of economic recovery may be slowing.",
+        "de": "Laut dem Bericht von ADP blieb die Zahl der im Juni im privaten Sektor hinzugefügten Stellen hinter den Erwartungen zurück, was darauf hindeutet, dass das Tempo der wirtschaftlichen Erholung möglicherweise langsamer wird."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-07-01",
-      "url": "https://www.cnbc.com/2026/07/01/burnham-north-sea-oil-energy-security.html"
+      "url": "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "中国扩大对日本的出口限制，针对无人机制造商、核企业和国防机构",
-        "en": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
-        "de": "China erweitert die Exportbeschränkungen für Japan und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute"
+        "zh": "英国家庭面临艰难的消费环境，通货膨胀和支出压力加剧",
+        "en": "UK households face tough spending backdrop amid inflation and spending pressures",
+        "de": "Britische Haushalte sehen sich angesichts von Inflation und Ausgabendruck einem schwierigen Ausgabenumfeld gegenüber"
       },
       "summary": {
-        "zh": "中国对日本的出口限制进一步扩大，涉及无人机制造商、核企业和国防机构，可能会对两国的贸易关系产生重大影响。",
-        "en": "China has further widened its export restrictions on Japan, targeting drone manufacturers, nuclear firms, and defense institutes, which could significantly impact trade relations between the two countries.",
-        "de": "China hat seine Exportbeschränkungen für Japan weiter ausgeweitet und zielt auf Drohnenhersteller, Nuklearunternehmen und Verteidigungsinstitute ab, was die Handelsbeziehungen zwischen den beiden Ländern erheblich beeinflussen könnte."
+        "zh": "由于通货膨胀和支出压力，英国家庭面临严峻的消费环境，可能会影响零售和消费品行业的表现。",
+        "en": "UK households are facing a tough spending environment due to inflation and spending pressures, which may impact the performance of the retail and consumer goods sectors.",
+        "de": "Britische Haushalte sehen sich aufgrund von Inflation und Ausgabendruck einem schwierigen Ausgabenumfeld gegenüber, was sich auf die Leistung des Einzelhandels und der Konsumgüterbranche auswirken könnte."
       },
-      "source": "CNBC",
-      "date": "2026-06-29",
-      "url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
+      "source": "CNBC – Markets",
+      "date": "2026-07-01",
+      "url": "https://www.cnbc.com/2026/07/01/burnham-north-sea-oil-energy-security.html"
     }
   ]
 }
