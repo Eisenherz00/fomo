@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-03T07:48:18.445269+00:00",
+  "generatedAt": "2026-07-03T17:53:57.833462+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "通过人工智能实现运营卓越：精益六西格玛和业务流程管理（BPM）等框架因其承诺在混乱中提供清晰而获得关注",
-        "en": "Achieving operational excellence with AI: Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos",
-        "de": "Operational Excellence mit KI erreichen: Rahmenwerke wie Lean Six Sigma und Business Process Management (BPM) gewannen an Bedeutung, weil sie Klarheit im Chaos versprachen"
+        "zh": "实现运营卓越与人工智能",
+        "en": "Achieving operational excellence with AI",
+        "de": "Erreichen von betrieblicher Exzellenz mit KI"
       },
       "summary": {
-        "zh": "人工智能在运营卓越方面的应用正在获得关注，尤其是精益六西格玛和业务流程管理等框架，它们提供了一种在复杂环境中实现清晰的结构化方法。",
-        "en": "The application of AI in achieving operational excellence is gaining attention, particularly frameworks like Lean Six Sigma and business process management, which provide a structured approach to clarity in complex environments.",
-        "de": "Die Anwendung von KI zur Erreichung operativer Exzellenz gewinnt an Bedeutung, insbesondere Rahmenwerke wie Lean Six Sigma und Business Process Management, die einen strukturierten Ansatz zur Klarheit in komplexen Umgebungen bieten."
+        "zh": "本文探讨了如何通过人工智能实现运营卓越，强调了精益六西格玛和业务流程管理等框架的重要性。",
+        "en": "This article discusses how to achieve operational excellence through artificial intelligence, emphasizing the importance of frameworks like Lean Six Sigma and business process management.",
+        "de": "Dieser Artikel erörtert, wie man betriebliche Exzellenz durch künstliche Intelligenz erreicht, und hebt die Bedeutung von Rahmenwerken wie Lean Six Sigma und Geschäftsprozessmanagement hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-02",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "教人工智能与涡轮机一起运行：人工智能可能通过聊天机器人和图像生成器捕获公众想象，但其一些最重要的应用案例",
-        "en": "Teaching AI to run with the turbines: Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases",
-        "de": "KI beibringen, mit Turbinen zu laufen: Künstliche Intelligenz hat möglicherweise die öffentliche Vorstellungskraft durch Chatbots und Bildgeneratoren erfasst, aber einige ihrer bedeutendsten Anwendungsfälle"
+        "zh": "教人工智能与涡轮机一起运行",
+        "en": "Teaching AI to run with the turbines",
+        "de": "KI beibringen, mit den Turbinen zu laufen"
       },
       "summary": {
-        "zh": "人工智能的应用正在扩展到更复杂的领域，例如与涡轮机的协作，这表明其在工业和能源领域的潜力。",
-        "en": "The application of AI is expanding into more complex domains, such as collaboration with turbines, indicating its potential in industrial and energy sectors.",
-        "de": "Die Anwendung von KI erweitert sich auf komplexere Bereiche, wie die Zusammenarbeit mit Turbinen, was auf ihr Potenzial in der Industrie und im Energiesektor hinweist."
+        "zh": "本文探讨了人工智能在涡轮机运行中的应用，强调了其在能源领域的重要性。",
+        "en": "This article explores the application of artificial intelligence in turbine operations, highlighting its significance in the energy sector.",
+        "de": "Dieser Artikel untersucht die Anwendung von künstlicher Intelligenz im Betrieb von Turbinen und hebt deren Bedeutung im Energiesektor hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-02",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：一家初创公司为人工智能的群体思维问题提供解决方案：这是今天的下载，我们的工作日通讯，提供有关技术世界的最新动态。",
-        "en": "The Download: a startup has a solution for AI’s groupthink problem: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
-        "de": "Der Download: Ein Startup hat eine Lösung für das Gruppen-Denken-Problem der KI: Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich über das Geschehen in der Technologiewelt informiert."
+        "zh": "LLMs陷入群体思维的槽糕境地",
+        "en": "LLMs are stuck in a groupthink groove",
+        "de": "LLMs stecken in einer Gruppendenk-Falle"
       },
       "summary": {
-        "zh": "一家公司正在开发解决方案，以应对人工智能系统在决策过程中可能出现的群体思维问题，这一问题可能影响其有效性和创新性。",
-        "en": "A company is developing solutions to address the groupthink problem that can arise in AI systems during decision-making processes, a challenge that may impact their effectiveness and innovation.",
-        "de": "Ein Unternehmen entwickelt Lösungen, um das Gruppen-Denken-Problem anzugehen, das in KI-Systemen während Entscheidungsprozessen auftreten kann, eine Herausforderung, die ihre Effektivität und Innovation beeinträchtigen könnte."
+        "zh": "本文讨论了大型语言模型（LLMs）在群体思维中的局限性，并介绍了一家初创公司试图解决这一问题。",
+        "en": "This article discusses the limitations of large language models (LLMs) in groupthink and introduces a startup attempting to address this issue.",
+        "de": "Dieser Artikel erörtert die Einschränkungen großer Sprachmodelle (LLMs) im Gruppendenken und stellt ein Startup vor, das versucht, dieses Problem zu lösen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-02",
-      "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
+      "date": "2026-07-01",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "欧洲的极端夏季是新常态吗？科学界的看法：世卫组织警告欧洲必须像应对冬季流感一样计划应对高温",
-        "en": "Are Europe’s extreme summers the new normal? What the science says: WHO warns Europe must 'plan for heat like winter flu' as experts reveal how permanent this summer's extreme heat is.",
-        "de": "Sind Europas extreme Sommer die neue Normalität? Was die Wissenschaft sagt: Die WHO warnt, dass Europa 'für Hitze wie für die Wintergrippe planen' muss, während Experten enthüllen, wie dauerhaft die extreme Hitze dieses Sommers ist."
+        "zh": "巴基斯坦公交车坠毁造成40人遇难",
+        "en": "Pakistan bus crash kills 40",
+        "de": "Busunfall in Pakistan fordert 40 Todesopfer"
       },
       "summary": {
-        "zh": "世卫组织警告称，欧洲需要为极端高温做好准备，并将其视为新的常态，专家们正在研究这种极端天气的长期影响。",
-        "en": "The WHO warns that Europe needs to prepare for extreme heat as a new normal, with experts studying the long-term impacts of such extreme weather.",
-        "de": "Die WHO warnt, dass Europa sich auf extreme Hitze als neue Normalität vorbereiten muss, während Experten die langfristigen Auswirkungen solcher extremen Wetterbedingungen untersuchen."
+        "zh": "在巴基斯坦，一辆客运巴士坠入峡谷，导致至少40人遇难，另有8人受伤。",
+        "en": "In Pakistan, a passenger bus plunged into a ravine, resulting in at least 40 fatalities and eight injuries.",
+        "de": "In Pakistan stürzte ein Passagierbus in eine Schlucht, was mindestens 40 Todesopfer und acht Verletzte zur Folge hatte."
       },
       "source": "Al Jazeera",
       "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "德尔西·罗德里格斯回应公众对政府反应的愤怒：德尔西·罗德里格斯表示，80%的倒塌建筑是私营开发的。",
-        "en": "Delcy Rodriguez responds to public anger at government response: Delcy Rodriguez says 80% of the buildings that collapsed in earthquakes were privately developed.",
-        "de": "Delcy Rodriguez reagiert auf die öffentliche Wut über die Regierungsreaktion: Delcy Rodriguez sagt, dass 80 % der bei Erdbeben eingestürzten Gebäude privat entwickelt wurden."
+        "zh": "德国梅尔斯为北约支出辩护，特朗普称其“荒谬”",
+        "en": "Germany’s Merz defends NATO spending after Trump calls it ‘ridiculous’",
+        "de": "Deutschlands Merz verteidigt NATO-Ausgaben, nachdem Trump sie als 'lächerlich' bezeichnete"
       },
       "summary": {
-        "zh": "德尔西·罗德里格斯回应公众对政府在地震后反应的愤怒，指出大部分倒塌建筑是私营部门开发的，这引发了对建筑安全的质疑。",
-        "en": "Delcy Rodriguez responds to public anger regarding the government's response after the earthquakes, pointing out that most of the collapsed buildings were developed by the private sector, raising questions about building safety.",
-        "de": "Delcy Rodriguez reagiert auf die öffentliche Wut über die Reaktion der Regierung nach den Erdbeben und weist darauf hin, dass die meisten eingestürzten Gebäude vom Privatsektor entwickelt wurden, was Fragen zur Gebäudesicherheit aufwirft."
+        "zh": "德国政治家梅尔斯在特朗普称北约支出“荒谬”后为其辩护，正值北约领导人将在安卡拉举行会议之际。",
+        "en": "German politician Merz defends NATO spending after Trump labeled it 'ridiculous', coinciding with an upcoming NATO leaders' meeting in Ankara.",
+        "de": "Der deutsche Politiker Merz verteidigt die NATO-Ausgaben, nachdem Trump sie als 'lächerlich' bezeichnet hat, was mit einem bevorstehenden NATO-Gipfel in Ankara zusammenfällt."
       },
       "source": "Al Jazeera",
       "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/3/germanys-merz-defends-nato-spending-after-trump-calls-it-ridiculous?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗准备为哈梅内伊的七天葬礼做准备：前最高领袖阿里·哈梅内伊的灵柩已经准备好，伊朗准备举行为期七天的葬礼。",
-        "en": "Khamenei’s coffin readied as Iran prepares for seven-day funeral: Former Supreme Leader Ali Khamenei's coffin has been readied as Iran prepares for seven-day funeral.",
-        "de": "Khameneis Sarg bereitgestellt, während Iran sich auf eine siebentägige Beerdigung vorbereitet: Der Sarg des ehemaligen Obersten Führers Ali Khamenei wurde bereitgestellt, während Iran sich auf eine siebentägige Beerdigung vorbereitet."
+        "zh": "法国6月创纪录的高温导致死亡人数上升",
+        "en": "Hottest June on record in France as heatwave deaths rise to alarming levels",
+        "de": "Heißester Juni seit Aufzeichnung in Frankreich, während die Todesfälle durch Hitzewelle alarmierend steigen"
       },
       "summary": {
-        "zh": "伊朗为前最高领袖阿里·哈梅内伊的葬礼做准备，预计将举行为期七天的哀悼活动，吸引大量民众参与。",
-        "en": "Iran is preparing for a seven-day mourning period for former Supreme Leader Ali Khamenei, with extensive public participation expected during the funeral events.",
-        "de": "Iran bereitet sich auf eine siebentägige Trauerzeit für den ehemaligen Obersten Führer Ali Khamenei vor, wobei eine umfangreiche öffentliche Teilnahme während der Trauerveranstaltungen erwartet wird."
+        "zh": "法国6月的平均气温创下历史新高，热浪导致的死亡人数也急剧上升。",
+        "en": "France recorded its hottest June on record, with a sharp rise in deaths attributed to the heatwave.",
+        "de": "Frankreich verzeichnete den heißesten Juni aller Zeiten, mit einem drastischen Anstieg der durch die Hitzewelle verursachten Todesfälle."
       },
       "source": "Al Jazeera",
       "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "求职者放弃：劳动参与率降至50年来最低水平（不包括新冠疫情期间）：失业率的下降在某种程度上为本来不乐观的就业报告提供了一些积极因素，但原因却并不理想。",
-        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era: A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
-        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära: Ein Rückgang der Arbeitslosenquote trug dazu bei, einen positiven Aspekt in einem ansonsten düsteren Arbeitsmarktbericht zu bieten – jedoch aus den falschen Gründen."
+        "zh": "拉加德为早期退出欧洲央行留有余地，考虑法国政治",
+        "en": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+        "de": "Christine Lagarde lässt Tür für frühen Ausstieg der EZB offen, während sie über französische Politik nachdenkt"
       },
       "summary": {
-        "zh": "劳动参与率降至50年来的最低水平，反映出求职者的放弃现象，尽管失业率有所下降，但这一趋势并未带来积极的就业前景。",
-        "en": "The labor force participation rate has fallen to its lowest level in 50 years, reflecting a trend of job seekers giving up, and while the unemployment rate has decreased, this trend does not indicate a positive employment outlook.",
-        "de": "Die Erwerbsbeteiligungsquote ist auf den niedrigsten Stand seit 50 Jahren gefallen, was einen Trend zeigt, dass sich Arbeitssuchende zurückziehen, und obwohl die Arbeitslosenquote gesunken ist, deutet dieser Trend nicht auf eine positive Beschäftigungsperspektive hin."
+        "zh": "欧洲央行行长拉加德未排除提前结束任期的可能性，同时考虑参与法国政治。",
+        "en": "European Central Bank President Christine Lagarde has not ruled out the possibility of an early end to her term while contemplating a foray into French politics.",
+        "de": "Die Präsidentin der Europäischen Zentralbank, Christine Lagarde, hat die Möglichkeit eines vorzeitigen Endes ihrer Amtszeit nicht ausgeschlossen, während sie über einen Einstieg in die französische Politik nachdenkt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-07-03",
+      "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "求职者放弃：劳动参与率降至50年来最低",
+        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "de": "Arbeitsuchende geben auf: Die Erwerbsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
+      },
+      "summary": {
+        "zh": "美国的劳动参与率降至50年来的最低水平，反映出求职者的放弃现象。",
+        "en": "The labor force participation rate in the U.S. has fallen to its lowest level in 50 years, reflecting a trend of job seekers giving up.",
+        "de": "Die Erwerbsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, was einen Trend zeigt, dass Arbeitsuchende aufgeben."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
       "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "美国6月就业增长放缓，新增就业人数仅为57,000；失业率为4.2%：非农就业人数预计在6月增长115,000，失业率保持在4.3%。",
-        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%: Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
-        "de": "Die Beschäftigung in den USA kühlt im Juni mit einem Anstieg der Löhne um nur 57.000; die Arbeitslosenquote liegt bei 4,2 %: Die Zahl der Nichtlandwirtschaftlichen Arbeitsplätze sollte im Juni um 115.000 steigen, und die Arbeitslosenquote sollte stabil bei 4,3 % bleiben."
+        "zh": "美国6月就业增长放缓，失业率为4.2%",
+        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+        "de": "Die US-Arbeitsplatzschaffung kühlt sich im Juni mit einem Stellenwachstum von nur 57.000 ab; Arbeitslosenquote bei 4,2%"
       },
       "summary": {
-        "zh": "美国6月的就业增长显著放缓，新增就业人数远低于预期，失业率略有下降，反映出经济放缓的迹象。",
-        "en": "U.S. job creation in June significantly slowed, with new payrolls far below expectations, and the unemployment rate slightly decreased, reflecting signs of an economic slowdown.",
-        "de": "Die Schaffung von Arbeitsplätzen in den USA verlangsamte sich im Juni erheblich, wobei die neuen Löhne weit unter den Erwartungen lagen, und die Arbeitslosenquote leicht sank, was auf Anzeichen einer wirtschaftlichen Verlangsamung hinweist."
+        "zh": "美国6月的非农就业人数增长仅为57,000，失业率为4.2%，显示出就业市场的放缓。",
+        "en": "In June, U.S. nonfarm payrolls grew by only 57,000, with an unemployment rate of 4.2%, indicating a slowdown in the job market.",
+        "de": "Im Juni wuchsen die US-Nichtlandwirtschaftsgehälter nur um 57.000, bei einer Arbeitslosenquote von 4,2%, was auf eine Abkühlung des Arbeitsmarktes hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
       "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "世界杯可能使6月就业报告增加40,000个职位，高盛估计：非农就业人数预计将增加115,000，根据道琼斯的共识。",
-        "en": "World Cup could boost the June jobs report by 40,000, Goldman estimates: Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
-        "de": "Die Weltmeisterschaft könnte den Arbeitsmarktbericht für Juni um 40.000 Stellen ankurbeln, schätzt Goldman: Die Zahl der Nichtlandwirtschaftlichen Arbeitsplätze wird voraussichtlich um 115.000 steigen, gemäß dem Konsens von Dow Jones."
-      },
-      "summary": {
-        "zh": "高盛估计，世界杯将为6月的就业报告增加40,000个职位，尽管整体就业增长依然疲软，这一事件可能会对经济产生短期积极影响。",
-        "en": "Goldman estimates that the World Cup could add 40,000 jobs to the June jobs report, although overall job growth remains weak, this event may have a short-term positive impact on the economy.",
-        "de": "Goldman schätzt, dass die Weltmeisterschaft dem Arbeitsmarktbericht für Juni 40.000 Stellen hinzufügen könnte, obwohl das gesamte Beschäftigungswachstum schwach bleibt, könnte dieses Ereignis kurzfristig positive Auswirkungen auf die Wirtschaft haben."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-01",
-      "url": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html"
     }
   ]
 }
