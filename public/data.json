@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-02T18:08:42.381913+00:00",
+  "generatedAt": "2026-07-03T07:48:18.445269+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "通过人工智能实现运营卓越：精益六西格玛和业务流程管理（BPM）等框架因其承诺在混乱中提供清晰而获得了关注",
-        "en": "Achieving operational excellence with AI: Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way",
-        "de": "Erreichung operativer Exzellenz mit KI: Rahmenwerke wie Lean Six Sigma und Geschäftsprozessmanagement (BPM) gewannen zunächst an Bedeutung, weil sie Klarheit im Chaos versprachen – einen strukturierten Ansatz"
+        "zh": "通过人工智能实现运营卓越：精益六西格玛和业务流程管理（BPM）等框架因其承诺在混乱中提供清晰而获得关注",
+        "en": "Achieving operational excellence with AI: Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos",
+        "de": "Operational Excellence mit KI erreichen: Rahmenwerke wie Lean Six Sigma und Business Process Management (BPM) gewannen an Bedeutung, weil sie Klarheit im Chaos versprachen"
       },
       "summary": {
-        "zh": "人工智能正在改变企业运营的方式，精益六西格玛和业务流程管理等框架提供了一种结构化的方法来应对复杂性。这些框架的应用有助于提高效率和降低成本。",
-        "en": "Artificial intelligence is transforming the way businesses operate, with frameworks like Lean Six Sigma and business process management offering a structured approach to tackle complexity. The application of these frameworks aids in improving efficiency and reducing costs.",
-        "de": "Künstliche Intelligenz transformiert die Art und Weise, wie Unternehmen arbeiten, wobei Rahmenwerke wie Lean Six Sigma und Geschäftsprozessmanagement einen strukturierten Ansatz bieten, um Komplexität zu bewältigen. Die Anwendung dieser Rahmenwerke hilft, die Effizienz zu steigern und Kosten zu senken."
+        "zh": "人工智能在运营卓越方面的应用正在获得关注，尤其是精益六西格玛和业务流程管理等框架，它们提供了一种在复杂环境中实现清晰的结构化方法。",
+        "en": "The application of AI in achieving operational excellence is gaining attention, particularly frameworks like Lean Six Sigma and business process management, which provide a structured approach to clarity in complex environments.",
+        "de": "Die Anwendung von KI zur Erreichung operativer Exzellenz gewinnt an Bedeutung, insbesondere Rahmenwerke wie Lean Six Sigma und Business Process Management, die einen strukturierten Ansatz zur Klarheit in komplexen Umgebungen bieten."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-02",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "教人工智能与涡轮机一起运行：人工智能可能通过聊天机器人和图像生成器吸引了公众的想象力，但其最重要的用例之一是",
-        "en": "Teaching AI to run with the turbines: Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases a",
-        "de": "KI beibringen, mit Turbinen zu laufen: Künstliche Intelligenz hat möglicherweise die öffentliche Vorstellungskraft durch Chatbots und Bildgeneratoren erfasst, aber einige ihrer folgenreichsten Anwendungsfälle sind"
+        "zh": "教人工智能与涡轮机一起运行：人工智能可能通过聊天机器人和图像生成器捕获公众想象，但其一些最重要的应用案例",
+        "en": "Teaching AI to run with the turbines: Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases",
+        "de": "KI beibringen, mit Turbinen zu laufen: Künstliche Intelligenz hat möglicherweise die öffentliche Vorstellungskraft durch Chatbots und Bildgeneratoren erfasst, aber einige ihrer bedeutendsten Anwendungsfälle"
       },
       "summary": {
-        "zh": "人工智能的应用正在扩展到更复杂的领域，如与涡轮机的协作。这种技术的进步可能会对能源生产和管理产生深远的影响。",
-        "en": "The application of artificial intelligence is expanding into more complex areas, such as collaboration with turbines. This technological advancement could have profound implications for energy production and management.",
-        "de": "Die Anwendung von Künstlicher Intelligenz erweitert sich auf komplexere Bereiche, wie die Zusammenarbeit mit Turbinen. Dieser technologische Fortschritt könnte tiefgreifende Auswirkungen auf die Energieproduktion und -verwaltung haben."
+        "zh": "人工智能的应用正在扩展到更复杂的领域，例如与涡轮机的协作，这表明其在工业和能源领域的潜力。",
+        "en": "The application of AI is expanding into more complex domains, such as collaboration with turbines, indicating its potential in industrial and energy sectors.",
+        "de": "Die Anwendung von KI erweitert sich auf komplexere Bereiche, wie die Zusammenarbeit mit Turbinen, was auf ihr Potenzial in der Industrie und im Energiesektor hinweist."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-02",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：一家初创公司为人工智能的集体思维问题提供了解决方案：这是我们今天的下载版，我们的工作日通讯提供了关于科技世界的日常动态。",
+        "zh": "下载：一家初创公司为人工智能的群体思维问题提供解决方案：这是今天的下载，我们的工作日通讯，提供有关技术世界的最新动态。",
         "en": "The Download: a startup has a solution for AI’s groupthink problem: This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology.",
         "de": "Der Download: Ein Startup hat eine Lösung für das Gruppen-Denken-Problem der KI: Dies ist die heutige Ausgabe von The Download, unserem Wochentags-Newsletter, der täglich über das Geschehen in der Technologiewelt informiert."
       },
       "summary": {
-        "zh": "一家初创公司正在开发解决方案，以应对人工智能在集体思维方面的挑战。这一创新可能会改变AI模型的决策过程，提高其多样性和创造力。",
-        "en": "A startup is developing solutions to address the challenges of groupthink in artificial intelligence. This innovation could transform the decision-making processes of AI models, enhancing their diversity and creativity.",
-        "de": "Ein Startup entwickelt Lösungen, um die Herausforderungen des Gruppen-Denkens in der Künstlichen Intelligenz anzugehen. Diese Innovation könnte die Entscheidungsprozesse von KI-Modellen transformieren und deren Vielfalt und Kreativität verbessern."
+        "zh": "一家公司正在开发解决方案，以应对人工智能系统在决策过程中可能出现的群体思维问题，这一问题可能影响其有效性和创新性。",
+        "en": "A company is developing solutions to address the groupthink problem that can arise in AI systems during decision-making processes, a challenge that may impact their effectiveness and innovation.",
+        "de": "Ein Unternehmen entwickelt Lösungen, um das Gruppen-Denken-Problem anzugehen, das in KI-Systemen während Entscheidungsprozessen auftreten kann, eine Herausforderung, die ihre Effektivität und Innovation beeinträchtigen könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-02",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "北美热浪可能对世界杯产生的影响：哪些主办城市和比赛面临最大的风险？国际足联正在采取什么措施来保护球员，球迷如何保持安全？",
-        "en": "How the North American heatwave could impact the FIFA World Cup: Which host cities and matches face the biggest risks? What is FIFA doing to protect players and how can fans stay safe?",
-        "de": "Wie die nordamerikanische Hitzewelle die FIFA-Weltmeisterschaft beeinflussen könnte: Welche Gastgeberstädte und Spiele sind am stärksten gefährdet? Was tut die FIFA, um die Spieler zu schützen, und wie können Fans sicher bleiben?"
+        "zh": "欧洲的极端夏季是新常态吗？科学界的看法：世卫组织警告欧洲必须像应对冬季流感一样计划应对高温",
+        "en": "Are Europe’s extreme summers the new normal? What the science says: WHO warns Europe must 'plan for heat like winter flu' as experts reveal how permanent this summer's extreme heat is.",
+        "de": "Sind Europas extreme Sommer die neue Normalität? Was die Wissenschaft sagt: Die WHO warnt, dass Europa 'für Hitze wie für die Wintergrippe planen' muss, während Experten enthüllen, wie dauerhaft die extreme Hitze dieses Sommers ist."
       },
       "summary": {
-        "zh": "北美的热浪可能会对即将举行的世界杯产生重大影响，特别是在主办城市和比赛安排方面。国际足联正在采取措施确保球员和观众的安全。",
-        "en": "The North American heatwave could have significant implications for the upcoming World Cup, particularly regarding host cities and match arrangements. FIFA is taking measures to ensure the safety of players and spectators.",
-        "de": "Die nordamerikanische Hitzewelle könnte erhebliche Auswirkungen auf die bevorstehende Weltmeisterschaft haben, insbesondere in Bezug auf die Gastgeberstädte und Spielanordnungen. Die FIFA ergreift Maßnahmen, um die Sicherheit der Spieler und Zuschauer zu gewährleisten."
+        "zh": "世卫组织警告称，欧洲需要为极端高温做好准备，并将其视为新的常态，专家们正在研究这种极端天气的长期影响。",
+        "en": "The WHO warns that Europe needs to prepare for extreme heat as a new normal, with experts studying the long-term impacts of such extreme weather.",
+        "de": "Die WHO warnt, dass Europa sich auf extreme Hitze als neue Normalität vorbereiten muss, während Experten die langfristigen Auswirkungen solcher extremen Wetterbedingungen untersuchen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-02",
-      "url": "https://www.aljazeera.com/news/2026/7/2/how-the-north-american-heatwave-could-impact-the-fifa-world-cup?traffic_source=rss"
+      "date": "2026-07-03",
+      "url": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "大马士革咖啡馆发生致命爆炸，造成6人死亡，22人受伤：在大马士革的阿尔-希贾兹地区，一枚爆炸装置在一家咖啡馆爆炸，造成至少6人死亡，22人受伤。",
-        "en": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured: At least 6 people were killed and 22 injured after an explosive device detonated in a café in Damascus' Al-Hijaz area.",
-        "de": "Tödliche Explosion in einem Café in Damaskus: Mindestens 6 Tote und 22 Verletzte, nachdem ein Sprengsatz in einem Café im Al-Hijaz-Viertel von Damaskus detonierte."
+        "zh": "德尔西·罗德里格斯回应公众对政府反应的愤怒：德尔西·罗德里格斯表示，80%的倒塌建筑是私营开发的。",
+        "en": "Delcy Rodriguez responds to public anger at government response: Delcy Rodriguez says 80% of the buildings that collapsed in earthquakes were privately developed.",
+        "de": "Delcy Rodriguez reagiert auf die öffentliche Wut über die Regierungsreaktion: Delcy Rodriguez sagt, dass 80 % der bei Erdbeben eingestürzten Gebäude privat entwickelt wurden."
       },
       "summary": {
-        "zh": "在大马士革的一家咖啡馆发生的爆炸造成了至少6人死亡和22人受伤。这一事件突显了该地区的安全形势依然严峻。",
-        "en": "An explosion at a café in Damascus has resulted in at least 6 deaths and 22 injuries. This incident underscores the ongoing security challenges in the region.",
-        "de": "Eine Explosion in einem Café in Damaskus hat mindestens 6 Tote und 22 Verletzte gefordert. Dieser Vorfall verdeutlicht die anhaltenden Sicherheitsherausforderungen in der Region."
+        "zh": "德尔西·罗德里格斯回应公众对政府在地震后反应的愤怒，指出大部分倒塌建筑是私营部门开发的，这引发了对建筑安全的质疑。",
+        "en": "Delcy Rodriguez responds to public anger regarding the government's response after the earthquakes, pointing out that most of the collapsed buildings were developed by the private sector, raising questions about building safety.",
+        "de": "Delcy Rodriguez reagiert auf die öffentliche Wut über die Reaktion der Regierung nach den Erdbeben und weist darauf hin, dass die meisten eingestürzten Gebäude vom Privatsektor entwickelt wurden, was Fragen zur Gebäudesicherheit aufwirft."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss"
+      "date": "2026-07-03",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "德国检察官指控乌克兰下令袭击北溪管道：一名前乌克兰士兵被指控犯有“战争罪”，并领导一组潜水员炸毁北溪管道。",
-        "en": "German prosecutors allege Ukraine ordered Nord Stream pipeline attack: Former Ukrainian soldier accused of 'war crime' and leading a team of divers to blow up Nord Stream pipelines.",
-        "de": "Deutsche Staatsanwälte behaupten, die Ukraine habe den Angriff auf die Nord-Stream-Pipeline befohlen: Ein ehemaliger ukrainischer Soldat wird beschuldigt, ein 'Kriegsverbrechen' begangen und ein Team von Tauchern geleitet zu haben, um die Nord-Stream-Pipelines in die Luft zu sprengen."
+        "zh": "伊朗准备为哈梅内伊的七天葬礼做准备：前最高领袖阿里·哈梅内伊的灵柩已经准备好，伊朗准备举行为期七天的葬礼。",
+        "en": "Khamenei’s coffin readied as Iran prepares for seven-day funeral: Former Supreme Leader Ali Khamenei's coffin has been readied as Iran prepares for seven-day funeral.",
+        "de": "Khameneis Sarg bereitgestellt, während Iran sich auf eine siebentägige Beerdigung vorbereitet: Der Sarg des ehemaligen Obersten Führers Ali Khamenei wurde bereitgestellt, während Iran sich auf eine siebentägige Beerdigung vorbereitet."
       },
       "summary": {
-        "zh": "德国检察官指控乌克兰下令袭击北溪管道，涉及一名前乌克兰士兵的“战争罪”指控。这一指控可能会加剧乌克兰与西方国家之间的紧张关系。",
-        "en": "German prosecutors allege that Ukraine ordered the attack on the Nord Stream pipeline, involving 'war crime' charges against a former Ukrainian soldier. This allegation could escalate tensions between Ukraine and Western nations.",
-        "de": "Deutsche Staatsanwälte behaupten, die Ukraine habe den Angriff auf die Nord-Stream-Pipeline befohlen, wobei ein ehemaliger ukrainischer Soldat wegen 'Kriegsverbrechen' angeklagt wird. Diese Anschuldigung könnte die Spannungen zwischen der Ukraine und den westlichen Nationen verschärfen."
+        "zh": "伊朗为前最高领袖阿里·哈梅内伊的葬礼做准备，预计将举行为期七天的哀悼活动，吸引大量民众参与。",
+        "en": "Iran is preparing for a seven-day mourning period for former Supreme Leader Ali Khamenei, with extensive public participation expected during the funeral events.",
+        "de": "Iran bereitet sich auf eine siebentägige Trauerzeit für den ehemaligen Obersten Führer Ali Khamenei vor, wobei eine umfangreiche öffentliche Teilnahme während der Trauerveranstaltungen erwartet wird."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-02",
-      "url": "https://www.aljazeera.com/news/2026/7/2/german-prosecutors-allege-ukraine-ordered-nord-stream-pipeline-attack?traffic_source=rss"
+      "date": "2026-07-03",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "求职者放弃：劳动参与率降至50年来最低，除了疫情期间：失业率的下降在某种程度上为原本不乐观的就业报告提供了一些积极因素——但原因却不尽如人意。",
+        "zh": "求职者放弃：劳动参与率降至50年来最低水平（不包括新冠疫情期间）：失业率的下降在某种程度上为本来不乐观的就业报告提供了一些积极因素，但原因却并不理想。",
         "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era: A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
-        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära: Ein Rückgang der Arbeitslosenquote half, einen positiven Aspekt in einem ansonsten trüben Arbeitsbericht zu finden – aber aus den falschen Gründen."
+        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära: Ein Rückgang der Arbeitslosenquote trug dazu bei, einen positiven Aspekt in einem ansonsten düsteren Arbeitsmarktbericht zu bieten – jedoch aus den falschen Gründen."
       },
       "summary": {
-        "zh": "美国的劳动参与率降至50年来的最低水平，反映出求职者的放弃现象。尽管失业率有所下降，但这一趋势并未能掩盖就业市场的整体疲软。",
-        "en": "The labor force participation rate in the U.S. has fallen to its lowest level in 50 years, reflecting a trend of job seekers giving up. Although the unemployment rate has decreased, this trend does not mask the overall weakness in the job market.",
-        "de": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, was einen Trend zeigt, dass Stellenbewerber aufgeben. Obwohl die Arbeitslosenquote gesunken ist, kaschiert dieser Trend nicht die allgemeine Schwäche des Arbeitsmarktes."
+        "zh": "劳动参与率降至50年来的最低水平，反映出求职者的放弃现象，尽管失业率有所下降，但这一趋势并未带来积极的就业前景。",
+        "en": "The labor force participation rate has fallen to its lowest level in 50 years, reflecting a trend of job seekers giving up, and while the unemployment rate has decreased, this trend does not indicate a positive employment outlook.",
+        "de": "Die Erwerbsbeteiligungsquote ist auf den niedrigsten Stand seit 50 Jahren gefallen, was einen Trend zeigt, dass sich Arbeitssuchende zurückziehen, und obwohl die Arbeitslosenquote gesunken ist, deutet dieser Trend nicht auf eine positive Beschäftigungsperspektive hin."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国6月就业增长放缓，非农就业人数仅增加57,000；失业率为4.2%：6月非农就业人数预计将增加115,000，失业率保持在4.3%。",
+        "zh": "美国6月就业增长放缓，新增就业人数仅为57,000；失业率为4.2%：非农就业人数预计在6月增长115,000，失业率保持在4.3%。",
         "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%: Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
-        "de": "Die Schaffung von Arbeitsplätzen in den USA kühlt sich im Juni mit einem Anstieg der Löhne um nur 57.000 ab; die Arbeitslosenquote liegt bei 4,2 %: Die Zahl der Nichtlandwirtschaftlichen Löhne sollte im Juni um 115.000 steigen, und die Arbeitslosenquote sollte bei 4,3 % bleiben."
+        "de": "Die Beschäftigung in den USA kühlt im Juni mit einem Anstieg der Löhne um nur 57.000; die Arbeitslosenquote liegt bei 4,2 %: Die Zahl der Nichtlandwirtschaftlichen Arbeitsplätze sollte im Juni um 115.000 steigen, und die Arbeitslosenquote sollte stabil bei 4,3 % bleiben."
       },
       "summary": {
-        "zh": "美国6月的就业增长显著放缓，非农就业人数仅增加57,000，低于预期。这一数据反映出经济复苏的脆弱性。",
-        "en": "U.S. job growth significantly cooled in June, with nonfarm payrolls increasing by only 57,000, falling short of expectations. This data reflects the fragility of the economic recovery.",
-        "de": "Das Beschäftigungswachstum in den USA hat sich im Juni erheblich verlangsamt, da die Zahl der Nichtlandwirtschaftlichen Löhne nur um 57.000 gestiegen ist, was die Erwartungen nicht erfüllt. Diese Daten spiegeln die Fragilität der wirtschaftlichen Erholung wider."
+        "zh": "美国6月的就业增长显著放缓，新增就业人数远低于预期，失业率略有下降，反映出经济放缓的迹象。",
+        "en": "U.S. job creation in June significantly slowed, with new payrolls far below expectations, and the unemployment rate slightly decreased, reflecting signs of an economic slowdown.",
+        "de": "Die Schaffung von Arbeitsplätzen in den USA verlangsamte sich im Juni erheblich, wobei die neuen Löhne weit unter den Erwartungen lagen, und die Arbeitslosenquote leicht sank, was auf Anzeichen einer wirtschaftlichen Verlangsamung hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "世界杯可能使6月就业报告增加40,000，高盛估计：根据道琼斯的共识，非农就业人数预计将增加115,000。",
+        "zh": "世界杯可能使6月就业报告增加40,000个职位，高盛估计：非农就业人数预计将增加115,000，根据道琼斯的共识。",
         "en": "World Cup could boost the June jobs report by 40,000, Goldman estimates: Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
-        "de": "Die Weltmeisterschaft könnte den Arbeitsbericht für Juni um 40.000 erhöhen, schätzt Goldman: Die Zahl der Nichtlandwirtschaftlichen Löhne wird laut Konsens von Dow Jones voraussichtlich um 115.000 steigen."
+        "de": "Die Weltmeisterschaft könnte den Arbeitsmarktbericht für Juni um 40.000 Stellen ankurbeln, schätzt Goldman: Die Zahl der Nichtlandwirtschaftlichen Arbeitsplätze wird voraussichtlich um 115.000 steigen, gemäß dem Konsens von Dow Jones."
       },
       "summary": {
-        "zh": "高盛估计，世界杯可能会使6月的就业报告增加40,000个岗位。这一预测显示了体育赛事对经济的潜在积极影响。",
-        "en": "Goldman Sachs estimates that the World Cup could add 40,000 jobs to the June employment report. This forecast highlights the potential positive impact of sporting events on the economy.",
-        "de": "Goldman Sachs schätzt, dass die Weltmeisterschaft dem Arbeitsbericht für Juni 40.000 Arbeitsplätze hinzufügen könnte. Diese Prognose hebt die potenziell positiven Auswirkungen von Sportereignissen auf die Wirtschaft hervor."
+        "zh": "高盛估计，世界杯将为6月的就业报告增加40,000个职位，尽管整体就业增长依然疲软，这一事件可能会对经济产生短期积极影响。",
+        "en": "Goldman estimates that the World Cup could add 40,000 jobs to the June jobs report, although overall job growth remains weak, this event may have a short-term positive impact on the economy.",
+        "de": "Goldman schätzt, dass die Weltmeisterschaft dem Arbeitsmarktbericht für Juni 40.000 Stellen hinzufügen könnte, obwohl das gesamte Beschäftigungswachstum schwach bleibt, könnte dieses Ereignis kurzfristig positive Auswirkungen auf die Wirtschaft haben."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-01",
