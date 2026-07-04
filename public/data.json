@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-07-03T17:53:57.833462+00:00",
+  "generatedAt": "2026-07-04T07:24:33.622500+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "实现运营卓越与人工智能",
-        "en": "Achieving operational excellence with AI",
-        "de": "Erreichen von betrieblicher Exzellenz mit KI"
+        "zh": "一种能够复活死者眼球的设备可能使眼睛移植成为可能",
+        "en": "A device that revives eyeballs from dead donors could make eye transplants possible",
+        "de": "Ein Gerät, das Augen von toten Spendern wiederbelebt, könnte Augentransplantationen möglich machen"
       },
       "summary": {
-        "zh": "本文探讨了如何通过人工智能实现运营卓越，强调了精益六西格玛和业务流程管理等框架的重要性。",
-        "en": "This article discusses how to achieve operational excellence through artificial intelligence, emphasizing the importance of frameworks like Lean Six Sigma and business process management.",
-        "de": "Dieser Artikel erörtert, wie man betriebliche Exzellenz durch künstliche Intelligenz erreicht, und hebt die Bedeutung von Rahmenwerken wie Lean Six Sigma und Geschäftsprozessmanagement hervor."
+        "zh": "移植整个人眼并不容易，手术复杂且眼睛在离开身体后会迅速退化。新开发的设备可能改变这一现状，使眼睛移植成为可能。",
+        "en": "Transplanting a whole human eye is challenging due to the complexity of the surgery and the rapid degeneration of eyes once removed from the body. A newly developed device may change this, making eye transplants feasible.",
+        "de": "Die Transplantation eines gesamten menschlichen Auges ist aufgrund der Komplexität der Operation und der schnellen Degeneration der Augen nach der Entfernung aus dem Körper eine Herausforderung. Ein neu entwickeltes Gerät könnte dies ändern und Augentransplantationen möglich machen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-02",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+      "date": "2026-07-03",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "教人工智能与涡轮机一起运行",
+        "zh": "教AI与涡轮机一起运行",
         "en": "Teaching AI to run with the turbines",
         "de": "KI beibringen, mit den Turbinen zu laufen"
       },
       "summary": {
-        "zh": "本文探讨了人工智能在涡轮机运行中的应用，强调了其在能源领域的重要性。",
-        "en": "This article explores the application of artificial intelligence in turbine operations, highlighting its significance in the energy sector.",
-        "de": "Dieser Artikel untersucht die Anwendung von künstlicher Intelligenz im Betrieb von Turbinen und hebt deren Bedeutung im Energiesektor hervor."
+        "zh": "人工智能的应用不仅限于聊天机器人和图像生成器，其在能源领域的潜在应用也日益受到关注。研究者们正在探索如何将AI与涡轮机结合，以提高效率。",
+        "en": "AI applications extend beyond chatbots and image generators, with increasing attention on its potential uses in the energy sector. Researchers are exploring how to integrate AI with turbines to enhance efficiency.",
+        "de": "KI-Anwendungen gehen über Chatbots und Bildgeneratoren hinaus, da das Interesse an ihren potenziellen Anwendungen im Energiesektor zunimmt. Forscher untersuchen, wie KI mit Turbinen integriert werden kann, um die Effizienz zu steigern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-02",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "LLMs陷入群体思维的槽糕境地",
-        "en": "LLMs are stuck in a groupthink groove",
-        "de": "LLMs stecken in einer Gruppendenk-Falle"
+        "zh": "美国提供1000万美元以获取有关Signal和WhatsApp黑客团伙的信息",
+        "en": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+        "de": "Die USA bieten 10 Millionen Dollar für Informationen über die Gruppe hinter der Signal- und WhatsApp-Hackerei"
       },
       "summary": {
-        "zh": "本文讨论了大型语言模型（LLMs）在群体思维中的局限性，并介绍了一家初创公司试图解决这一问题。",
-        "en": "This article discusses the limitations of large language models (LLMs) in groupthink and introduces a startup attempting to address this issue.",
-        "de": "Dieser Artikel erörtert die Einschränkungen großer Sprachmodelle (LLMs) im Gruppendenken und stellt ein Startup vor, das versucht, dieses Problem zu lösen."
+        "zh": "美国政府为获取有关两个俄罗斯国家支持的黑客团伙的信息提供了1000万美元的奖励。这些团伙自3月以来一直在进行针对Signal和WhatsApp的攻击。",
+        "en": "The U.S. government has offered a $10 million reward for information on two Russia-backed hacking groups. These groups have been conducting attacks on Signal and WhatsApp since at least March.",
+        "de": "Die US-Regierung hat eine Belohnung von 10 Millionen Dollar für Informationen über zwei von Russland unterstützte Hackergruppen angeboten. Diese Gruppen führen seit mindestens März Angriffe auf Signal und WhatsApp durch."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-07-01",
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
+      "source": "Ars Technica – AI",
+      "date": "2026-06-29",
+      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "巴基斯坦公交车坠毁造成40人遇难",
-        "en": "Pakistan bus crash kills 40",
-        "de": "Busunfall in Pakistan fordert 40 Todesopfer"
+        "zh": "在250岁时，美国仍在决定谁属于这里",
+        "en": "At 250, America is still deciding who belongs",
+        "de": "Mit 250 Jahren entscheidet Amerika immer noch, wer dazugehört"
       },
       "summary": {
-        "zh": "在巴基斯坦，一辆客运巴士坠入峡谷，导致至少40人遇难，另有8人受伤。",
-        "en": "In Pakistan, a passenger bus plunged into a ravine, resulting in at least 40 fatalities and eight injuries.",
-        "de": "In Pakistan stürzte ein Passagierbus in eine Schlucht, was mindestens 40 Todesopfer und acht Verletzte zur Folge hatte."
+        "zh": "尽管出生公民权得以保留，但关于谁被完全承认为美国人的斗争仍在继续。美国的身份认同问题在250周年之际显得尤为重要。",
+        "en": "While birthright citizenship has survived, the struggle over who is fully recognized as American continues. The issue of identity in America is particularly significant as the nation celebrates its 250th anniversary.",
+        "de": "Obwohl das Geburtsrecht auf Staatsbürgerschaft überlebt hat, setzt sich der Kampf darüber, wer vollständig als Amerikaner anerkannt wird, fort. Die Frage der Identität in Amerika ist besonders bedeutend, da die Nation ihr 250-jähriges Bestehen feiert."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/pakistan-bus-crash-kills-40?traffic_source=rss"
+      "date": "2026-07-04",
+      "url": "https://www.aljazeera.com/opinions/2026/7/4/at-250-america-is-still-deciding-who-belongs?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "德国梅尔斯为北约支出辩护，特朗普称其“荒谬”",
-        "en": "Germany’s Merz defends NATO spending after Trump calls it ‘ridiculous’",
-        "de": "Deutschlands Merz verteidigt NATO-Ausgaben, nachdem Trump sie als 'lächerlich' bezeichnete"
+        "zh": "特朗普在美国250周年庆典上称共产主义是“致命威胁”",
+        "en": "Trump calls communism a ‘mortal threat’ at US 250th birthday event",
+        "de": "Trump bezeichnet Kommunismus als 'tödliche Bedrohung' bei der 250. Geburtstagsfeier der USA"
       },
       "summary": {
-        "zh": "德国政治家梅尔斯在特朗普称北约支出“荒谬”后为其辩护，正值北约领导人将在安卡拉举行会议之际。",
-        "en": "German politician Merz defends NATO spending after Trump labeled it 'ridiculous', coinciding with an upcoming NATO leaders' meeting in Ankara.",
-        "de": "Der deutsche Politiker Merz verteidigt die NATO-Ausgaben, nachdem Trump sie als 'lächerlich' bezeichnet hat, was mit einem bevorstehenden NATO-Gipfel in Ankara zusammenfällt."
+        "zh": "特朗普在美国250周年庆典上发言，称共产主义是对美国的“致命威胁”。他的言论引发了广泛的讨论和争议。",
+        "en": "During the U.S. 250th birthday event, Trump stated that communism poses a 'mortal threat' to America. His remarks have sparked widespread discussion and controversy.",
+        "de": "Bei der Feier zum 250. Geburtstag der USA erklärte Trump, dass der Kommunismus eine 'tödliche Bedrohung' für Amerika darstellt. Seine Bemerkungen haben eine weitreichende Diskussion und Kontroversen ausgelöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/news/2026/7/3/germanys-merz-defends-nato-spending-after-trump-calls-it-ridiculous?traffic_source=rss"
+      "date": "2026-07-04",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/trump-calls-communism-a-mortal-threat-at-us-250th-birthday-event?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "法国6月创纪录的高温导致死亡人数上升",
-        "en": "Hottest June on record in France as heatwave deaths rise to alarming levels",
-        "de": "Heißester Juni seit Aufzeichnung in Frankreich, während die Todesfälle durch Hitzewelle alarmierend steigen"
+        "zh": "以色列真的会在加沙建立定居点吗？",
+        "en": "Could Israel really build settlements in Gaza?",
+        "de": "Könnte Israel wirklich Siedlungen im Gazastreifen bauen?"
       },
       "summary": {
-        "zh": "法国6月的平均气温创下历史新高，热浪导致的死亡人数也急剧上升。",
-        "en": "France recorded its hottest June on record, with a sharp rise in deaths attributed to the heatwave.",
-        "de": "Frankreich verzeichnete den heißesten Juni aller Zeiten, mit einem drastischen Anstieg der durch die Hitzewelle verursachten Todesfälle."
+        "zh": "在经历了一场灭绝战争和饥荒后，以色列的主要政治人物表示他们现在准备在加沙定居。这一提议引发了国际社会的广泛关注。",
+        "en": "After a genocidal war and famine, leading Israeli politicians claim they are now ready to settle Gaza. This proposal has drawn significant international attention.",
+        "de": "Nach einem völkermörderischen Krieg und einer Hungersnot behaupten führende israelische Politiker, dass sie jetzt bereit sind, im Gazastreifen zu siedeln. Dieser Vorschlag hat erhebliche internationale Aufmerksamkeit erregt."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-03",
-      "url": "https://www.aljazeera.com/news/2026/7/3/hottest-june-on-record-in-france-as-heatwave-deaths-rise-to-alarming-levels?traffic_source=rss"
+      "date": "2026-07-04",
+      "url": "https://www.aljazeera.com/news/2026/7/4/could-israel-really-build-settlements-in-gaza?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "拉加德为早期退出欧洲央行留有余地，考虑法国政治",
-        "en": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
-        "de": "Christine Lagarde lässt Tür für frühen Ausstieg der EZB offen, während sie über französische Politik nachdenkt"
-      },
-      "summary": {
-        "zh": "欧洲央行行长拉加德未排除提前结束任期的可能性，同时考虑参与法国政治。",
-        "en": "European Central Bank President Christine Lagarde has not ruled out the possibility of an early end to her term while contemplating a foray into French politics.",
-        "de": "Die Präsidentin der Europäischen Zentralbank, Christine Lagarde, hat die Möglichkeit eines vorzeitigen Endes ihrer Amtszeit nicht ausgeschlossen, während sie über einen Einstieg in die französische Politik nachdenkt."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-03",
-      "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "求职者放弃：劳动参与率降至50年来最低",
+        "zh": "美国求职者放弃：劳动参与率降至50年来最低水平",
         "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
-        "de": "Arbeitsuchende geben auf: Die Erwerbsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
+        "de": "Stellensuchende geben auf: Die Erwerbsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
       },
       "summary": {
-        "zh": "美国的劳动参与率降至50年来的最低水平，反映出求职者的放弃现象。",
-        "en": "The labor force participation rate in the U.S. has fallen to its lowest level in 50 years, reflecting a trend of job seekers giving up.",
-        "de": "Die Erwerbsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, was einen Trend zeigt, dass Arbeitsuchende aufgeben."
+        "zh": "美国的劳动参与率降至50年来的最低水平，反映出求职者的放弃趋势。尽管失业率有所下降，但这一现象引发了对劳动市场的担忧。",
+        "en": "The labor force participation rate in the U.S. has fallen to its lowest level in 50 years, reflecting a trend of job seekers giving up. Despite a drop in the unemployment rate, this phenomenon raises concerns about the labor market.",
+        "de": "Die Erwerbsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, was einen Trend zeigt, dass Stellensuchende aufgeben. Trotz eines Rückgangs der Arbeitslosenquote wirft dieses Phänomen Bedenken hinsichtlich des Arbeitsmarktes auf."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
       "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "美国6月就业增长放缓，失业率为4.2%",
+        "zh": "美国6月就业增长放缓，非农就业人数仅增长57,000；失业率为4.2%",
         "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "de": "Die US-Arbeitsplatzschaffung kühlt sich im Juni mit einem Stellenwachstum von nur 57.000 ab; Arbeitslosenquote bei 4,2%"
+        "de": "Die US-Beschäftigung wächst im Juni nur um 57.000; Arbeitslosenquote bei 4,2%"
       },
       "summary": {
-        "zh": "美国6月的非农就业人数增长仅为57,000，失业率为4.2%，显示出就业市场的放缓。",
-        "en": "In June, U.S. nonfarm payrolls grew by only 57,000, with an unemployment rate of 4.2%, indicating a slowdown in the job market.",
-        "de": "Im Juni wuchsen die US-Nichtlandwirtschaftsgehälter nur um 57.000, bei einer Arbeitslosenquote von 4,2%, was auf eine Abkühlung des Arbeitsmarktes hinweist."
+        "zh": "美国6月的非农就业人数增长仅为57,000，低于预期的115,000。这一数据反映出就业市场的疲软迹象，失业率为4.2%。",
+        "en": "In June, U.S. nonfarm payrolls grew by just 57,000, falling short of the expected 115,000. This data reflects signs of weakness in the job market, with the unemployment rate at 4.2%.",
+        "de": "Im Juni wuchs die Zahl der nichtlandwirtschaftlichen Beschäftigten in den USA nur um 57.000 und lag damit unter den erwarteten 115.000. Diese Daten spiegeln Anzeichen von Schwäche auf dem Arbeitsmarkt wider, die Arbeitslosenquote liegt bei 4,2%."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
       "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "欧洲希望重新平衡与北京的贸易，但无法摆脱中国空调",
+        "en": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
+        "de": "Europa will den Handel mit Peking neu ausbalancieren, kann aber nicht auf chinesische Klimaanlagen verzichten"
+      },
+      "summary": {
+        "zh": "尽管欧洲希望重新平衡与中国的贸易关系，但由于历史性热浪的影响，需求激增使得这一目标变得更加复杂。中国制造的空调在欧洲的需求急剧上升。",
+        "en": "While Europe aims to rebalance its trade relationship with China, the unprecedented demand for Chinese-made air conditioners due to a historic heatwave complicates this goal. The surge in demand highlights the challenges faced by Brussels.",
+        "de": "Während Europa beabsichtigt, seine Handelsbeziehungen zu China neu auszubalancieren, kompliziert die beispiellose Nachfrage nach in China hergestellten Klimaanlagen aufgrund einer historischen Hitzewelle dieses Ziel. Der Anstieg der Nachfrage verdeutlicht die Herausforderungen, vor denen Brüssel steht."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-07-02",
+      "url": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html"
     }
   ]
 }
