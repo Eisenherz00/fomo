@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-05T07:44:02.888814+00:00",
+  "generatedAt": "2026-07-05T17:35:26.251579+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "一种可以使死者眼球复活的设备可能使眼睛移植成为可能",
+        "zh": "一种可以复活死者眼球的设备可能使眼睛移植成为可能",
         "en": "A device that revives eyeballs from dead donors could make eye transplants possible",
-        "de": "Ein Gerät, das Augen von verstorbenen Spendern wiederbelebt, könnte Augentransplantationen ermöglichen"
+        "de": "Ein Gerät, das Augen von toten Spendern wiederbelebt, könnte Augentransplantationen möglich machen"
       },
       "summary": {
-        "zh": "移植整个人眼并不容易，手术复杂且眼睛在离开身体后会迅速退化。新设备的出现可能改变这一现状。",
-        "en": "Transplanting a whole human eye is not easy, as the surgery is complex and the eyes begin to degenerate once removed from the body. The emergence of this new device could change that.",
-        "de": "Die Transplantation eines gesamten menschlichen Auges ist nicht einfach, da die Operation komplex ist und die Augen nach der Entfernung aus dem Körper zu degenerieren beginnen. Das Auftauchen dieses neuen Geräts könnte das ändern."
+        "zh": "移植整个人眼并不容易，手术难度大，眼睛在离开身体后会迅速退化。新设备的出现可能改变这一现状。",
+        "en": "Transplanting a whole human eye is challenging, and the eyes begin to degenerate once removed from the body. The emergence of this new device could change that.",
+        "de": "Die Transplantation eines ganzen menschlichen Auges ist eine Herausforderung, und die Augen beginnen zu degenerieren, sobald sie aus dem Körper entfernt werden. Das Auftauchen dieses neuen Geräts könnte das ändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-03",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "教人工智能与涡轮机一起运行",
         "en": "Teaching AI to run with the turbines",
-        "de": "KI beibringen, mit den Turbinen zu arbeiten"
+        "de": "KI beibringen, mit den Turbinen zu laufen"
       },
       "summary": {
-        "zh": "人工智能在聊天机器人和图像生成器中引起了公众的想象，但其最重要的应用案例在于工业和能源领域。",
-        "en": "Artificial intelligence has captured public imagination through chatbots and image generators, but its most significant use cases lie in industrial and energy sectors.",
-        "de": "Künstliche Intelligenz hat die öffentliche Vorstellungskraft durch Chatbots und Bildgeneratoren gefesselt, aber ihre bedeutendsten Anwendungsfälle liegen in der Industrie und im Energiesektor."
+        "zh": "人工智能在聊天机器人和图像生成器方面引起了公众的关注，但其一些最重要的应用案例在于工业领域。",
+        "en": "Artificial intelligence has captured public attention through chatbots and image generators, but some of its most significant use cases are in industrial applications.",
+        "de": "Künstliche Intelligenz hat die öffentliche Aufmerksamkeit durch Chatbots und Bildgeneratoren auf sich gezogen, aber einige ihrer bedeutendsten Anwendungsfälle liegen im industriellen Bereich."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-02",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "美国提供1000万美元以获取有关信号和WhatsApp黑客团体的信息",
+        "zh": "美国提供1000万美元以获取有关Signal和WhatsApp黑客活动背后团体的信息",
         "en": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-        "de": "Die USA bieten 10 Millionen Dollar für Informationen über die Gruppe hinter der Signal- und WhatsApp-Hacking-Welle"
+        "de": "Die USA bieten 10 Millionen Dollar für Informationen über die Gruppe hinter der Signal- und WhatsApp-Hacking-Serie"
       },
       "summary": {
-        "zh": "美国政府正在寻找有关两个与俄罗斯国家有关的黑客团体的信息，这些团体自三月以来一直在进行网络攻击。",
-        "en": "The U.S. government is seeking information on two hacker groups linked to the Russian state that have been conducting cyberattacks since at least March.",
-        "de": "Die US-Regierung sucht Informationen über zwei Hackergruppen, die mit dem russischen Staat in Verbindung stehen und seit mindestens März Cyberangriffe durchführen."
+        "zh": "美国政府为获取有关两个俄罗斯国家团体的信息提供了1000万美元的奖励，这些团体自3月以来一直在进行黑客活动。",
+        "en": "The U.S. government is offering a $10 million reward for information on two Russian state groups that have been conducting hacking activities since March.",
+        "de": "Die US-Regierung bietet eine Belohnung von 10 Millionen Dollar für Informationen über zwei russische Staatsgruppen, die seit März Hackeraktivitäten durchführen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-06-29",
@@ -54,84 +54,84 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普在风暴延误的250周年纪念演讲中赞扬美国人",
-        "en": "Trump lauds Americans in storm-delayed 250th anniversary speech",
-        "de": "Trump lobt Amerikaner in seiner durch einen Sturm verzögerten Rede zum 250. Jubiläum"
+        "zh": "也门重新冲突中50名胡塞武装分子被杀",
+        "en": "50 Houthi fighters killed in renewed clashes in Yemen",
+        "de": "50 Huthi-Kämpfer bei erneuten Kämpfen im Jemen getötet"
       },
       "summary": {
-        "zh": "特朗普在美国250周年纪念演讲中称赞美国人为“历史悠久和英雄般的人”，尽管演讲因恶劣天气而受到影响。",
-        "en": "Trump praised Americans as 'a historic and heroic people' in a speech marking the nation's 250th anniversary, despite the event being disrupted by severe weather.",
-        "de": "Trump lobte die Amerikaner als 'ein historisches und heldenhaftes Volk' in einer Rede zum 250. Jubiläum der Nation, obwohl die Veranstaltung durch schlechtes Wetter gestört wurde."
+        "zh": "也门政府官员表示，胡塞武装发起了针对南部霍代达军营的突袭，导致50名胡塞武装分子死亡。",
+        "en": "Yemeni government officials report that Houthi fighters launched a surprise offensive targeting army barracks in southern Hodeidah, resulting in the deaths of 50 fighters.",
+        "de": "Jemenitische Regierungsbeamte berichten, dass Huthi-Kämpfer eine Überraschungsoffensive auf Armeebarracken im südlichen Hodeidah gestartet haben, was zum Tod von 50 Kämpfern führte."
       },
       "source": "Al Jazeera",
       "date": "2026-07-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "白人至上主义者在华盛顿特区游行庆祝自由250周年",
-        "en": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
-        "de": "Weiße Nationalisten marschieren in Washington DC vor den Feierlichkeiten zum Freedom 250"
+        "zh": "超级台风巴维威胁关岛，带来灾难性风暴和洪水",
+        "en": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
+        "de": "Super-Taifun Bavi bedroht Guam mit katastrophalen Winden und Überschwemmungen"
       },
       "summary": {
-        "zh": "在自由250周年庆祝活动前，数百名蒙面白人至上主义者在华盛顿特区游行，显示出社会分歧的加剧。",
-        "en": "Ahead of the Freedom 250 celebrations, hundreds of masked white nationalists marched in Washington DC, highlighting increasing societal divisions.",
-        "de": "Vor den Feierlichkeiten zum Freedom 250 marschierten Hunderte von maskierten weißen Nationalisten in Washington DC, was die zunehmenden gesellschaftlichen Spaltungen verdeutlicht."
+        "zh": "超级台风巴维预计将在周一早上登陆，带来超过160英里每小时的风速和近11米高的浪潮。",
+        "en": "Super Typhoon Bavi is expected to make landfall on Monday morning, bringing winds exceeding 160 mph and waves nearly 11 meters high.",
+        "de": "Super-Taifun Bavi wird voraussichtlich am Montagmorgen auf Land treffen und Winde von über 160 mph sowie Wellen von fast 11 Metern Höhe mit sich bringen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰袭击俄罗斯圣彼得堡的主要石油终端",
-        "en": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "de": "Die Ukraine greift einen wichtigen Ölhafen in St. Petersburg, Russland, an"
+        "zh": "伊朗最高领袖缺席，高级官员出席阿亚图拉的葬礼",
+        "en": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "de": "Irans oberster Führer abwesend, während hochrangige Beamte an der Beerdigung des Ayatollahs teilnehmen"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基表示，目标是关键基础设施，产生俄罗斯战争的收入，这一袭击表明冲突的升级。",
-        "en": "Ukrainian President Zelensky stated that the target was key infrastructure generating revenue for Russia's war, indicating an escalation in the conflict.",
-        "de": "Der ukrainische Präsident Zelensky erklärte, dass das Ziel eine Schlüssel-Infrastruktur sei, die Einnahmen für den Krieg Russlands generiert, was auf eine Eskalation des Konflikts hinweist."
+        "zh": "自美国与以色列对伊朗的战争开始以来，莫赫塔巴·哈梅内伊自那次袭击以来未曾公开露面。",
+        "en": "Mojtaba Khamenei has not been seen in public since the attack that killed his father at the outset of the U.S.-Israel war with Iran.",
+        "de": "Mojtaba Khamenei wurde seit dem Angriff, der seinen Vater zu Beginn des US-Israel-Kriegs mit Iran tötete, nicht mehr in der Öffentlichkeit gesehen."
       },
       "source": "BBC News – World",
-      "date": "2026-07-04",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
+      "date": "2026-07-05",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "求职者放弃：劳动参与率降至50年来最低水平",
-        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
-        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
-      },
-      "summary": {
-        "zh": "尽管失业率下降，但劳动参与率降至50年来的最低水平，反映出求职者的失望和市场的疲软。",
-        "en": "Despite a drop in the unemployment rate, the labor force participation rate has fallen to its lowest level in 50 years, reflecting the disappointment of job seekers and a weak market.",
-        "de": "Trotz eines Rückgangs der Arbeitslosenquote ist die Erwerbsbeteiligungsquote auf den niedrigsten Stand seit 50 Jahren gefallen, was die Enttäuschung der Arbeitssuchenden und einen schwachen Markt widerspiegelt."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "美国6月就业增长放缓，工资单增长仅为57,000；失业率为4.2%",
+        "zh": "美国6月就业增长放缓，非农就业人数仅增长57,000，失业率为4.2%",
         "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "de": "Die US-Arbeitsplatzschaffung kühlt im Juni mit einem Anstieg der Löhne um nur 57.000; Arbeitslosenquote bei 4,2%"
+        "de": "Die US-Arbeitsplatzschaffung kühlt sich im Juni mit einem Anstieg der Löhne um nur 57.000 ab; Arbeitslosenquote bei 4,2%"
       },
       "summary": {
-        "zh": "6月的非农就业人数增长仅为57,000，低于预期的115,000，失业率略微下降至4.2%。",
-        "en": "Nonfarm payrolls grew by just 57,000 in June, below the expected 115,000, with the unemployment rate slightly decreasing to 4.2%.",
-        "de": "Die Zahl der nichtlandwirtschaftlichen Beschäftigten stieg im Juni nur um 57.000, was unter den erwarteten 115.000 liegt, während die Arbeitslosenquote leicht auf 4,2 % sank."
+        "zh": "6月非农就业人数预计将增加115,000，但实际增长仅为57,000，失业率略微下降至4.2%。",
+        "en": "Nonfarm payrolls were expected to rise by 115,000 in June, but the actual growth was only 57,000, with the unemployment rate slightly decreasing to 4.2%.",
+        "de": "Die nichtlandwirtschaftlichen Löhne sollten im Juni um 115.000 steigen, tatsächlich betrug das Wachstum jedoch nur 57.000, während die Arbeitslosenquote leicht auf 4,2 % sank."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
       "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "求职者放弃：劳动参与率降至50年来最低水平",
+        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "de": "Stellenbewerber geben auf: Die Erwerbsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
+      },
+      "summary": {
+        "zh": "尽管失业率有所下降，但劳动参与率降至50年来的最低水平，反映出求职者的放弃情况。",
+        "en": "Despite a drop in the unemployment rate, the labor force participation rate has fallen to its lowest level in 50 years, indicating a trend of job seekers giving up.",
+        "de": "Trotz eines Rückgangs der Arbeitslosenquote ist die Erwerbsquote auf den niedrigsten Stand seit 50 Jahren gefallen, was auf einen Trend hinweist, dass Arbeitssuchende aufgeben."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-07-02",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
     },
     {
       "id": "stk-3",
@@ -141,9 +141,9 @@
         "de": "Europa will den Handel mit Peking neu ausbalancieren, kann aber auf chinesische Klimaanlagen nicht verzichten"
       },
       "summary": {
-        "zh": "历史性的热浪导致欧洲对中国制造的空调需求激增，突显了布鲁塞尔在重新平衡贸易方面面临的挑战。",
-        "en": "A historic heat wave has driven unprecedented demand for Chinese-made air conditioners in Europe, underscoring the challenges Brussels faces in rebalancing trade.",
-        "de": "Eine historische Hitzewelle hat die Nachfrage nach in China hergestellten Klimaanlagen in Europa in die Höhe getrieben und verdeutlicht die Herausforderungen, vor denen Brüssel beim Rebalancieren des Handels steht."
+        "zh": "历史性的热浪导致欧洲对中国制造的空调需求激增，凸显了布鲁塞尔在重新平衡贸易方面面临的挑战。",
+        "en": "A historic heat wave has driven unprecedented demand for Chinese-made air conditioners in Europe, highlighting the challenges Brussels faces in rebalancing trade.",
+        "de": "Eine historische Hitzewelle hat die Nachfrage nach in China hergestellten Klimaanlagen in Europa in die Höhe getrieben, was die Herausforderungen hervorhebt, denen sich Brüssel bei der Neuausbalancierung des Handels gegenübersieht."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
