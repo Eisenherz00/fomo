@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-06T08:47:16.793377+00:00",
+  "generatedAt": "2026-07-06T18:23:21.598589+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "一种能够复活死者眼球的装置可能使眼睛移植成为可能",
-        "en": "A device that revives eyeballs from dead donors could make eye transplants possible",
-        "de": "Ein Gerät, das Augen von toten Spendern wiederbelebt, könnte Augentransplantationen möglich machen"
+        "zh": "您家在OpenAI的300美元投资",
+        "en": "Your family’s $300 stake in OpenAI",
+        "de": "Ihr Familienanteil von 300 Dollar an OpenAI"
       },
       "summary": {
-        "zh": "移植整个人眼并不容易，手术难度大，眼睛在离开身体后会迅速退化。新开发的装置可能改变这一现状，使眼睛移植成为可能。",
-        "en": "Transplanting a whole human eye is challenging, as the surgery is difficult and the eyes begin to degenerate once removed from the body. The newly developed device may change this situation, making eye transplants feasible.",
-        "de": "Die Transplantation eines ganzen menschlichen Auges ist eine Herausforderung, da die Operation schwierig ist und die Augen nach dem Entfernen aus dem Körper zu degenerieren beginnen. Das neu entwickelte Gerät könnte diese Situation ändern und Augentransplantationen möglich machen."
+        "zh": "OpenAI的CEO S讨论了家庭在OpenAI的投资，强调了AI技术的潜力和未来的影响。",
+        "en": "OpenAI CEO S discusses the family's investment in OpenAI, emphasizing the potential and future impact of AI technology.",
+        "de": "OpenAI-CEO S diskutiert die Investition der Familie in OpenAI und hebt das Potenzial und die zukünftigen Auswirkungen der KI-Technologie hervor."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-03",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
+      "date": "2026-07-06",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "实现运营卓越与人工智能",
-        "en": "Achieving operational excellence with AI",
-        "de": "Betriebliche Exzellenz mit KI erreichen"
+        "zh": "南韩最热门的新单身汉是芯片工人",
+        "en": "South Korea’s hottest new bachelors are chip workers",
+        "de": "Südkoreas heißeste neue Junggesellen sind Chip-Arbeiter"
       },
       "summary": {
-        "zh": "框架如精益六西格玛和业务流程管理因其在混乱中提供清晰的结构而受到关注。人工智能的引入正改变这些框架的应用。",
-        "en": "Frameworks like Lean Six Sigma and business process management have gained attention for providing clarity in chaos. The introduction of AI is transforming the application of these frameworks.",
-        "de": "Rahmenwerke wie Lean Six Sigma und Geschäftsprozessmanagement haben aufgrund ihrer Fähigkeit, Klarheit im Chaos zu schaffen, an Bedeutung gewonnen. Die Einführung von KI verändert die Anwendung dieser Rahmenwerke."
+        "zh": "南韩半导体行业的单身男性在婚配市场上受到追捧，反映出技术行业对个人生活的影响。",
+        "en": "Single men in South Korea's semiconductor industry are in high demand on the matchmaking market, reflecting the impact of the tech industry on personal lives.",
+        "de": "Alleinstehende Männer in der südkoreanischen Halbleiterindustrie sind auf dem Heiratsmarkt sehr gefragt, was den Einfluss der Technologiebranche auf das persönliche Leben widerspiegelt."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-02",
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+      "date": "2026-07-06",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "新发现的PamStealer并不是典型的macOS恶意软件",
-        "en": "Newly discovered PamStealer isn't your typical macOS malware",
-        "de": "Neu entdeckter PamStealer ist kein typisches macOS-Malware"
+        "zh": "教AI与涡轮机一起运行",
+        "en": "Teaching AI to run with the turbines",
+        "de": "KI beibringen, mit den Turbinen zu laufen"
       },
       "summary": {
-        "zh": "PamStealer的发现突显了对Mac信息窃取者的关注增加。该恶意软件使用巧妙的手段保持隐蔽性。",
-        "en": "The discovery of PamStealer highlights the increasing focus on Mac infostealers. This malware employs clever tactics to remain stealthy.",
-        "de": "Die Entdeckung von PamStealer hebt die zunehmende Aufmerksamkeit auf Mac-Infostealer hervor. Diese Malware verwendet clevere Taktiken, um im Verborgenen zu bleiben."
+        "zh": "AI的应用不仅限于聊天机器人和图像生成，还包括在能源领域的关键应用，如涡轮机管理。",
+        "en": "AI applications extend beyond chatbots and image generation to critical uses in the energy sector, such as turbine management.",
+        "de": "KI-Anwendungen gehen über Chatbots und Bildgenerierung hinaus und finden wichtige Anwendungen im Energiesektor, wie z.B. im Turbinenmanagement."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-07-02",
-      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/"
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列士兵向巴勒斯坦人汽车投掷震撼弹的瞬间",
-        "en": "Moment Israeli soldier hurls stun grenade into Palestinians’ car",
-        "de": "Moment, in dem ein israelischer Soldat eine Blendgranate in das Auto von Palästinensern wirft"
+        "zh": "弗拉维奥·博尔索纳罗请求特朗普推迟对巴西的关税",
+        "en": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
+        "de": "Flavio Bolsonaro bittet Trump, die Zölle auf Brasilien bis nach der Wahl zu verschieben"
       },
       "summary": {
-        "zh": "监控视频显示一名以色列士兵向一辆载有年轻巴勒斯坦人的汽车投掷震撼弹，引发广泛关注。",
-        "en": "Security camera footage shows an Israeli soldier throwing a stun grenade into a car carrying young Palestinians, raising widespread concern.",
-        "de": "Überwachungsvideo zeigt, wie ein israelischer Soldat eine Blendgranate in ein Auto wirft, das junge Palästinenser transportiert, was weit verbreitete Besorgnis auslöst."
+        "zh": "巴西总统卢拉指责博尔索纳罗的儿子在提议的美国关税中起到了推波助澜的作用。",
+        "en": "Brazilian President Lula accuses Bolsonaro's son of playing a role in triggering the proposed US tariffs.",
+        "de": "Der brasilianische Präsident Lula beschuldigt den Sohn von Bolsonaro, eine Rolle bei der Auslösung der vorgeschlagenen US-Zölle gespielt zu haben."
       },
       "source": "Al Jazeera",
       "date": "2026-07-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/moment-israeli-soldier-hurls-stun-grenade-into-palestinians-car?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "中国导弹试验引发澳大利亚、新西兰、日本的批评",
-        "en": "China missile test draws criticism from Australia, New Zealand, Japan",
-        "de": "Chinas Raketentest stößt auf Kritik aus Australien, Neuseeland und Japan"
+        "zh": "乌克兰警告拦截导弹短缺，基辅地区23人遇难",
+        "en": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
+        "de": "Ukraine warnt vor einem Mangel an Abfangraketen, während 23 im Gebiet Kiew getötet wurden"
       },
       "summary": {
-        "zh": "中国军方在太平洋进行的弹道导弹试射引发了澳大利亚、新西兰和日本的关切，三国对此表示批评。",
-        "en": "China's military test-launch of a ballistic missile in the Pacific has raised concerns from Australia, New Zealand, and Japan, with all three countries expressing criticism.",
-        "de": "Der Teststart einer ballistischen Rakete durch das chinesische Militär im Pazifik hat Bedenken in Australien, Neuseeland und Japan ausgelöst, wobei alle drei Länder Kritik geäußert haben."
+        "zh": "乌克兰总统泽连斯基表示，周日对基辅的“重大俄罗斯攻击”造成了68枚导弹和351架无人机的袭击。",
+        "en": "Ukrainian President Zelensky states that Sunday's 'massive Russian attack' on Kyiv involved 68 missiles and 351 strike drones.",
+        "de": "Der ukrainische Präsident Selenskyj erklärt, dass der 'massive russische Angriff' auf Kiew am Sonntag 68 Raketen und 351 Angriffs-Drohnen umfasste."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-07-06",
-      "url": "https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰遭俄袭击致11人遇难，正值北约峰会前夕",
-        "en": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
-        "de": "Russische Angriffe auf die Ukraine töten 11 am Vorabend des NATO-Gipfels, sagen die Behörden"
+        "zh": "前叙利亚情报局长在奥地利因酷刑被定罪",
+        "en": "Ex-Syrian intelligence chief in Raqqa convicted of torture in Austria",
+        "de": "Ehemaliger syrischer Geheimdienstchef in Raqqa wegen Folter in Österreich verurteilt"
       },
       "summary": {
-        "zh": "乌克兰当局称，在北约峰会前夕，俄罗斯的袭击导致11人遇难，乌克兰总统警告可能会发生攻击。",
-        "en": "Ukrainian authorities report that Russian attacks have killed 11 on the eve of the NATO summit, with President Zelenskyy warning of possible attacks.",
-        "de": "Ukrainische Behörden berichten, dass russische Angriffe am Vorabend des NATO-Gipfels 11 Menschen getötet haben, während Präsident Selenskyj vor möglichen Angriffen warnt."
+        "zh": "前叙利亚官员在维也纳受审，被控对反对派实施酷刑，法院认定其负有责任。",
+        "en": "Former Syrian officials were tried in Vienna for crimes against opponents of the former Syrian leader Bashar al-Assad, with the court finding them responsible for torture.",
+        "de": "Ehemalige syrische Beamte wurden in Wien wegen Verbrechen gegen Gegner des ehemaligen syrischen Führers Bashar al-Assad vor Gericht gestellt, wobei das Gericht sie für Folter verantwortlich befand."
       },
       "source": "Al Jazeera",
       "date": "2026-07-06",
-      "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say"
+      "url": "https://www.aljazeera.com/news/2026/7/6/ex-syrian-intelligence-chief-in-raqqa-convicted-of-torture-in-austria?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国就业创造在6月份降温，非农就业人数增长仅57,000；失业率为4.2%",
-        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "de": "Die US-Beschäftigung kühlt im Juni mit einem Anstieg der Löhne um nur 57.000; Arbeitslosenquote bei 4,2%"
+        "zh": "求职者放弃：劳动参与率降至50年来最低水平",
+        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
       },
       "summary": {
-        "zh": "6月份的非农就业人数增长仅为57,000，低于预期的115,000，失业率为4.2%。这一数据反映出美国就业市场的冷却迹象。",
-        "en": "In June, nonfarm payrolls grew by just 57,000, below the expected 115,000, with the unemployment rate at 4.2%. This data reflects signs of cooling in the U.S. job market.",
-        "de": "Im Juni wuchs die Zahl der nicht landwirtschaftlichen Beschäftigten nur um 57.000, was unter den erwarteten 115.000 liegt, während die Arbeitslosenquote bei 4,2% lag. Diese Daten spiegeln Anzeichen einer Abkühlung auf dem US-Arbeitsmarkt wider."
+        "zh": "尽管失业率下降，但劳动参与率降至50年来的最低水平，反映出求职者的失望情绪。",
+        "en": "Despite a drop in the unemployment rate, the labor force participation rate has fallen to its lowest level in 50 years, reflecting the despair among job seekers.",
+        "de": "Trotz eines Rückgangs der Arbeitslosenquote ist die Erwerbsbeteiligungsquote auf den niedrigsten Stand seit 50 Jahren gefallen, was die Verzweiflung unter den Arbeitssuchenden widerspiegelt."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
+      "date": "2026-07-02",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "美国6月就业增长降温，非农就业人数仅增长57,000",
+        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+        "de": "US-Arbeitsplatzschaffung kühlt sich im Juni mit einem Anstieg der Löhne um nur 57.000; Arbeitslosenquote bei 4,2%"
+      },
+      "summary": {
+        "zh": "6月份的非农就业人数增长低于预期，失业率保持在4.2%。",
+        "en": "June's nonfarm payroll growth fell short of expectations, with the unemployment rate holding steady at 4.2%.",
+        "de": "Das Wachstum der Nonfarm-Löhne im Juni blieb hinter den Erwartungen zurück, während die Arbeitslosenquote bei 4,2% stabil blieb."
+      },
+      "source": "CNBC",
       "date": "2026-07-02",
       "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
         "zh": "欧洲希望重新平衡与北京的贸易，但无法放弃中国空调",
         "en": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
         "de": "Europa will den Handel mit Peking neu ausbalancieren, kann aber auf chinesische Klimaanlagen nicht verzichten"
       },
       "summary": {
-        "zh": "由于历史性的热浪，欧洲对中国制造的空调的需求激增，凸显了布鲁塞尔在重新平衡贸易方面面临的挑战。",
-        "en": "Due to a historic heat wave, demand for Chinese-made air conditioners in Europe has surged, highlighting the challenges Brussels faces in rebalancing trade.",
-        "de": "Aufgrund einer historischen Hitzewelle ist die Nachfrage nach in China hergestellten Klimaanlagen in Europa gestiegen, was die Herausforderungen hervorhebt, vor denen Brüssel beim Rebalancieren des Handels steht."
+        "zh": "由于历史性的热浪，欧洲对中国制造的空调的需求激增，突显了布鲁塞尔在贸易平衡方面面临的挑战。",
+        "en": "Due to a historic heatwave, demand for Chinese-made air conditioners in Europe has surged, highlighting the challenges Brussels faces in trade rebalancing.",
+        "de": "Aufgrund einer historischen Hitzewelle ist die Nachfrage nach in China hergestellten Klimaanlagen in Europa gestiegen, was die Herausforderungen verdeutlicht, mit denen Brüssel beim Handelsausgleich konfrontiert ist."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-07-02",
       "url": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "OPEC+再次提高产量水平，尽管原油价格下跌",
-        "en": "OPEC+ raises output levels again despite tumbling crude prices",
-        "de": "OPEC+ erhöht erneut die Produktionsniveaus trotz fallender Rohölpreise"
-      },
-      "summary": {
-        "zh": "主要石油生产国同意再次适度增加原油生产，尽管价格持续下跌，这一决定反映了市场的复杂性。",
-        "en": "Major oil producers have agreed to modestly increase crude production again, despite falling prices, reflecting the complexities of the market.",
-        "de": "Wichtige Ölproduzenten haben sich erneut darauf geeinigt, die Rohölproduktion moderat zu erhöhen, trotz fallender Preise, was die Komplexität des Marktes widerspiegelt."
-      },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-05",
-      "url": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories"
     }
   ]
 }
