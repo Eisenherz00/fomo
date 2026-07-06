@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-05T17:35:26.251579+00:00",
+  "generatedAt": "2026-07-06T08:47:16.793377+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "一种可以复活死者眼球的设备可能使眼睛移植成为可能",
+        "zh": "一种能够复活死者眼球的装置可能使眼睛移植成为可能",
         "en": "A device that revives eyeballs from dead donors could make eye transplants possible",
         "de": "Ein Gerät, das Augen von toten Spendern wiederbelebt, könnte Augentransplantationen möglich machen"
       },
       "summary": {
-        "zh": "移植整个人眼并不容易，手术难度大，眼睛在离开身体后会迅速退化。新设备的出现可能改变这一现状。",
-        "en": "Transplanting a whole human eye is challenging, and the eyes begin to degenerate once removed from the body. The emergence of this new device could change that.",
-        "de": "Die Transplantation eines ganzen menschlichen Auges ist eine Herausforderung, und die Augen beginnen zu degenerieren, sobald sie aus dem Körper entfernt werden. Das Auftauchen dieses neuen Geräts könnte das ändern."
+        "zh": "移植整个人眼并不容易，手术难度大，眼睛在离开身体后会迅速退化。新开发的装置可能改变这一现状，使眼睛移植成为可能。",
+        "en": "Transplanting a whole human eye is challenging, as the surgery is difficult and the eyes begin to degenerate once removed from the body. The newly developed device may change this situation, making eye transplants feasible.",
+        "de": "Die Transplantation eines ganzen menschlichen Auges ist eine Herausforderung, da die Operation schwierig ist und die Augen nach dem Entfernen aus dem Körper zu degenerieren beginnen. Das neu entwickelte Gerät könnte diese Situation ändern und Augentransplantationen möglich machen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-03",
@@ -20,98 +20,98 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "教人工智能与涡轮机一起运行",
-        "en": "Teaching AI to run with the turbines",
-        "de": "KI beibringen, mit den Turbinen zu laufen"
+        "zh": "实现运营卓越与人工智能",
+        "en": "Achieving operational excellence with AI",
+        "de": "Betriebliche Exzellenz mit KI erreichen"
       },
       "summary": {
-        "zh": "人工智能在聊天机器人和图像生成器方面引起了公众的关注，但其一些最重要的应用案例在于工业领域。",
-        "en": "Artificial intelligence has captured public attention through chatbots and image generators, but some of its most significant use cases are in industrial applications.",
-        "de": "Künstliche Intelligenz hat die öffentliche Aufmerksamkeit durch Chatbots und Bildgeneratoren auf sich gezogen, aber einige ihrer bedeutendsten Anwendungsfälle liegen im industriellen Bereich."
+        "zh": "框架如精益六西格玛和业务流程管理因其在混乱中提供清晰的结构而受到关注。人工智能的引入正改变这些框架的应用。",
+        "en": "Frameworks like Lean Six Sigma and business process management have gained attention for providing clarity in chaos. The introduction of AI is transforming the application of these frameworks.",
+        "de": "Rahmenwerke wie Lean Six Sigma und Geschäftsprozessmanagement haben aufgrund ihrer Fähigkeit, Klarheit im Chaos zu schaffen, an Bedeutung gewonnen. Die Einführung von KI verändert die Anwendung dieser Rahmenwerke."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-02",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "美国提供1000万美元以获取有关Signal和WhatsApp黑客活动背后团体的信息",
-        "en": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-        "de": "Die USA bieten 10 Millionen Dollar für Informationen über die Gruppe hinter der Signal- und WhatsApp-Hacking-Serie"
+        "zh": "新发现的PamStealer并不是典型的macOS恶意软件",
+        "en": "Newly discovered PamStealer isn't your typical macOS malware",
+        "de": "Neu entdeckter PamStealer ist kein typisches macOS-Malware"
       },
       "summary": {
-        "zh": "美国政府为获取有关两个俄罗斯国家团体的信息提供了1000万美元的奖励，这些团体自3月以来一直在进行黑客活动。",
-        "en": "The U.S. government is offering a $10 million reward for information on two Russian state groups that have been conducting hacking activities since March.",
-        "de": "Die US-Regierung bietet eine Belohnung von 10 Millionen Dollar für Informationen über zwei russische Staatsgruppen, die seit März Hackeraktivitäten durchführen."
+        "zh": "PamStealer的发现突显了对Mac信息窃取者的关注增加。该恶意软件使用巧妙的手段保持隐蔽性。",
+        "en": "The discovery of PamStealer highlights the increasing focus on Mac infostealers. This malware employs clever tactics to remain stealthy.",
+        "de": "Die Entdeckung von PamStealer hebt die zunehmende Aufmerksamkeit auf Mac-Infostealer hervor. Diese Malware verwendet clevere Taktiken, um im Verborgenen zu bleiben."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-06-29",
-      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
+      "date": "2026-07-02",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "也门重新冲突中50名胡塞武装分子被杀",
-        "en": "50 Houthi fighters killed in renewed clashes in Yemen",
-        "de": "50 Huthi-Kämpfer bei erneuten Kämpfen im Jemen getötet"
+        "zh": "以色列士兵向巴勒斯坦人汽车投掷震撼弹的瞬间",
+        "en": "Moment Israeli soldier hurls stun grenade into Palestinians’ car",
+        "de": "Moment, in dem ein israelischer Soldat eine Blendgranate in das Auto von Palästinensern wirft"
       },
       "summary": {
-        "zh": "也门政府官员表示，胡塞武装发起了针对南部霍代达军营的突袭，导致50名胡塞武装分子死亡。",
-        "en": "Yemeni government officials report that Houthi fighters launched a surprise offensive targeting army barracks in southern Hodeidah, resulting in the deaths of 50 fighters.",
-        "de": "Jemenitische Regierungsbeamte berichten, dass Huthi-Kämpfer eine Überraschungsoffensive auf Armeebarracken im südlichen Hodeidah gestartet haben, was zum Tod von 50 Kämpfern führte."
+        "zh": "监控视频显示一名以色列士兵向一辆载有年轻巴勒斯坦人的汽车投掷震撼弹，引发广泛关注。",
+        "en": "Security camera footage shows an Israeli soldier throwing a stun grenade into a car carrying young Palestinians, raising widespread concern.",
+        "de": "Überwachungsvideo zeigt, wie ein israelischer Soldat eine Blendgranate in ein Auto wirft, das junge Palästinenser transportiert, was weit verbreitete Besorgnis auslöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-05",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss"
+      "date": "2026-07-06",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/moment-israeli-soldier-hurls-stun-grenade-into-palestinians-car?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "超级台风巴维威胁关岛，带来灾难性风暴和洪水",
-        "en": "Super Typhoon Bavi threatens Guam with catastrophic winds and flooding",
-        "de": "Super-Taifun Bavi bedroht Guam mit katastrophalen Winden und Überschwemmungen"
+        "zh": "中国导弹试验引发澳大利亚、新西兰、日本的批评",
+        "en": "China missile test draws criticism from Australia, New Zealand, Japan",
+        "de": "Chinas Raketentest stößt auf Kritik aus Australien, Neuseeland und Japan"
       },
       "summary": {
-        "zh": "超级台风巴维预计将在周一早上登陆，带来超过160英里每小时的风速和近11米高的浪潮。",
-        "en": "Super Typhoon Bavi is expected to make landfall on Monday morning, bringing winds exceeding 160 mph and waves nearly 11 meters high.",
-        "de": "Super-Taifun Bavi wird voraussichtlich am Montagmorgen auf Land treffen und Winde von über 160 mph sowie Wellen von fast 11 Metern Höhe mit sich bringen."
+        "zh": "中国军方在太平洋进行的弹道导弹试射引发了澳大利亚、新西兰和日本的关切，三国对此表示批评。",
+        "en": "China's military test-launch of a ballistic missile in the Pacific has raised concerns from Australia, New Zealand, and Japan, with all three countries expressing criticism.",
+        "de": "Der Teststart einer ballistischen Rakete durch das chinesische Militär im Pazifik hat Bedenken in Australien, Neuseeland und Japan ausgelöst, wobei alle drei Länder Kritik geäußert haben."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-05",
-      "url": "https://www.aljazeera.com/news/2026/7/5/super-typhoon-bavi-threatens-guam-with-catastrophic-winds-and-flooding?traffic_source=rss"
+      "date": "2026-07-06",
+      "url": "https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗最高领袖缺席，高级官员出席阿亚图拉的葬礼",
-        "en": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-        "de": "Irans oberster Führer abwesend, während hochrangige Beamte an der Beerdigung des Ayatollahs teilnehmen"
+        "zh": "乌克兰遭俄袭击致11人遇难，正值北约峰会前夕",
+        "en": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
+        "de": "Russische Angriffe auf die Ukraine töten 11 am Vorabend des NATO-Gipfels, sagen die Behörden"
       },
       "summary": {
-        "zh": "自美国与以色列对伊朗的战争开始以来，莫赫塔巴·哈梅内伊自那次袭击以来未曾公开露面。",
-        "en": "Mojtaba Khamenei has not been seen in public since the attack that killed his father at the outset of the U.S.-Israel war with Iran.",
-        "de": "Mojtaba Khamenei wurde seit dem Angriff, der seinen Vater zu Beginn des US-Israel-Kriegs mit Iran tötete, nicht mehr in der Öffentlichkeit gesehen."
+        "zh": "乌克兰当局称，在北约峰会前夕，俄罗斯的袭击导致11人遇难，乌克兰总统警告可能会发生攻击。",
+        "en": "Ukrainian authorities report that Russian attacks have killed 11 on the eve of the NATO summit, with President Zelenskyy warning of possible attacks.",
+        "de": "Ukrainische Behörden berichten, dass russische Angriffe am Vorabend des NATO-Gipfels 11 Menschen getötet haben, während Präsident Selenskyj vor möglichen Angriffen warnt."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-05",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-06",
+      "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国6月就业增长放缓，非农就业人数仅增长57,000，失业率为4.2%",
+        "zh": "美国就业创造在6月份降温，非农就业人数增长仅57,000；失业率为4.2%",
         "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "de": "Die US-Arbeitsplatzschaffung kühlt sich im Juni mit einem Anstieg der Löhne um nur 57.000 ab; Arbeitslosenquote bei 4,2%"
+        "de": "Die US-Beschäftigung kühlt im Juni mit einem Anstieg der Löhne um nur 57.000; Arbeitslosenquote bei 4,2%"
       },
       "summary": {
-        "zh": "6月非农就业人数预计将增加115,000，但实际增长仅为57,000，失业率略微下降至4.2%。",
-        "en": "Nonfarm payrolls were expected to rise by 115,000 in June, but the actual growth was only 57,000, with the unemployment rate slightly decreasing to 4.2%.",
-        "de": "Die nichtlandwirtschaftlichen Löhne sollten im Juni um 115.000 steigen, tatsächlich betrug das Wachstum jedoch nur 57.000, während die Arbeitslosenquote leicht auf 4,2 % sank."
+        "zh": "6月份的非农就业人数增长仅为57,000，低于预期的115,000，失业率为4.2%。这一数据反映出美国就业市场的冷却迹象。",
+        "en": "In June, nonfarm payrolls grew by just 57,000, below the expected 115,000, with the unemployment rate at 4.2%. This data reflects signs of cooling in the U.S. job market.",
+        "de": "Im Juni wuchs die Zahl der nicht landwirtschaftlichen Beschäftigten nur um 57.000, was unter den erwarteten 115.000 liegt, während die Arbeitslosenquote bei 4,2% lag. Diese Daten spiegeln Anzeichen einer Abkühlung auf dem US-Arbeitsmarkt wider."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "求职者放弃：劳动参与率降至50年来最低水平",
-        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
-        "de": "Stellenbewerber geben auf: Die Erwerbsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
-      },
-      "summary": {
-        "zh": "尽管失业率有所下降，但劳动参与率降至50年来的最低水平，反映出求职者的放弃情况。",
-        "en": "Despite a drop in the unemployment rate, the labor force participation rate has fallen to its lowest level in 50 years, indicating a trend of job seekers giving up.",
-        "de": "Trotz eines Rückgangs der Arbeitslosenquote ist die Erwerbsquote auf den niedrigsten Stand seit 50 Jahren gefallen, was auf einen Trend hinweist, dass Arbeitssuchende aufgeben."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
         "zh": "欧洲希望重新平衡与北京的贸易，但无法放弃中国空调",
         "en": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
         "de": "Europa will den Handel mit Peking neu ausbalancieren, kann aber auf chinesische Klimaanlagen nicht verzichten"
       },
       "summary": {
-        "zh": "历史性的热浪导致欧洲对中国制造的空调需求激增，凸显了布鲁塞尔在重新平衡贸易方面面临的挑战。",
-        "en": "A historic heat wave has driven unprecedented demand for Chinese-made air conditioners in Europe, highlighting the challenges Brussels faces in rebalancing trade.",
-        "de": "Eine historische Hitzewelle hat die Nachfrage nach in China hergestellten Klimaanlagen in Europa in die Höhe getrieben, was die Herausforderungen hervorhebt, denen sich Brüssel bei der Neuausbalancierung des Handels gegenübersieht."
+        "zh": "由于历史性的热浪，欧洲对中国制造的空调的需求激增，凸显了布鲁塞尔在重新平衡贸易方面面临的挑战。",
+        "en": "Due to a historic heat wave, demand for Chinese-made air conditioners in Europe has surged, highlighting the challenges Brussels faces in rebalancing trade.",
+        "de": "Aufgrund einer historischen Hitzewelle ist die Nachfrage nach in China hergestellten Klimaanlagen in Europa gestiegen, was die Herausforderungen hervorhebt, vor denen Brüssel beim Rebalancieren des Handels steht."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-02",
       "url": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "OPEC+再次提高产量水平，尽管原油价格下跌",
+        "en": "OPEC+ raises output levels again despite tumbling crude prices",
+        "de": "OPEC+ erhöht erneut die Produktionsniveaus trotz fallender Rohölpreise"
+      },
+      "summary": {
+        "zh": "主要石油生产国同意再次适度增加原油生产，尽管价格持续下跌，这一决定反映了市场的复杂性。",
+        "en": "Major oil producers have agreed to modestly increase crude production again, despite falling prices, reflecting the complexities of the market.",
+        "de": "Wichtige Ölproduzenten haben sich erneut darauf geeinigt, die Rohölproduktion moderat zu erhöhen, trotz fallender Preise, was die Komplexität des Marktes widerspiegelt."
+      },
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-05",
+      "url": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories"
     }
   ]
 }
