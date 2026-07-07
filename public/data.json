@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T18:23:21.598589+00:00",
+  "generatedAt": "2026-07-07T07:59:47.596979+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Ihr Familienanteil von 300 Dollar an OpenAI"
       },
       "summary": {
-        "zh": "OpenAI的CEO S讨论了家庭在OpenAI的投资，强调了AI技术的潜力和未来的影响。",
-        "en": "OpenAI CEO S discusses the family's investment in OpenAI, emphasizing the potential and future impact of AI technology.",
-        "de": "OpenAI-CEO S diskutiert die Investition der Familie in OpenAI und hebt das Potenzial und die zukünftigen Auswirkungen der KI-Technologie hervor."
+        "zh": "OpenAI的CEO S讨论了家庭如何通过小额投资参与人工智能的未来。这一投资可能在未来带来显著的回报。",
+        "en": "OpenAI's CEO S discusses how families can participate in the future of AI through small investments. This investment could yield significant returns in the future.",
+        "de": "Der CEO von OpenAI, S, diskutiert, wie Familien durch kleine Investitionen an der Zukunft der KI teilnehmen können. Diese Investition könnte in Zukunft erhebliche Renditen bringen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-06",
@@ -20,134 +20,134 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "南韩最热门的新单身汉是芯片工人",
-        "en": "South Korea’s hottest new bachelors are chip workers",
-        "de": "Südkoreas heißeste neue Junggesellen sind Chip-Arbeiter"
+        "zh": "下载：韩国最热门的单身汉和先进的眼角膜移植",
+        "en": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+        "de": "Der Download: Südkoreas heißeste Junggesellen und fortschrittliche Augentransplantationen"
       },
       "summary": {
-        "zh": "南韩半导体行业的单身男性在婚配市场上受到追捧，反映出技术行业对个人生活的影响。",
-        "en": "Single men in South Korea's semiconductor industry are in high demand on the matchmaking market, reflecting the impact of the tech industry on personal lives.",
-        "de": "Alleinstehende Männer in der südkoreanischen Halbleiterindustrie sind auf dem Heiratsmarkt sehr gefragt, was den Einfluss der Technologiebranche auf das persönliche Leben widerspiegelt."
+        "zh": "今天的下载版介绍了韩国的单身汉和眼角膜移植的最新进展。这些技术进步可能会改变眼科手术的未来。",
+        "en": "Today's edition of The Download features South Korea's bachelors and the latest advancements in eye transplants. These technological advancements could change the future of ophthalmic surgery.",
+        "de": "Die heutige Ausgabe des Downloads behandelt Südkoreas Junggesellen und die neuesten Fortschritte bei Augentransplantationen. Diese technologischen Fortschritte könnten die Zukunft der Augenheilkunde verändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-06",
-      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/"
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "教AI与涡轮机一起运行",
-        "en": "Teaching AI to run with the turbines",
-        "de": "KI beibringen, mit den Turbinen zu laufen"
+        "zh": "一种可以复活死者眼球的设备可能使眼角膜移植成为可能",
+        "en": "A device that revives eyeballs from dead donors could make eye transplants possible",
+        "de": "Ein Gerät, das Augen von toten Spendern wiederbelebt, könnte Augentransplantationen möglich machen"
       },
       "summary": {
-        "zh": "AI的应用不仅限于聊天机器人和图像生成，还包括在能源领域的关键应用，如涡轮机管理。",
-        "en": "AI applications extend beyond chatbots and image generation to critical uses in the energy sector, such as turbine management.",
-        "de": "KI-Anwendungen gehen über Chatbots und Bildgenerierung hinaus und finden wichtige Anwendungen im Energiesektor, wie z.B. im Turbinenmanagement."
+        "zh": "研究人员开发了一种设备，可以在眼球从尸体取出后延缓其退化，从而提高眼角膜移植的成功率。这项技术可能会拯救更多的视力。",
+        "en": "Researchers have developed a device that can delay the degeneration of eyeballs after they are removed from a body, potentially increasing the success rate of eye transplants. This technology could save more sight.",
+        "de": "Forscher haben ein Gerät entwickelt, das die Degeneration von Augen verzögern kann, nachdem sie aus einem Körper entfernt wurden, was die Erfolgsquote von Augentransplantationen erhöhen könnte. Diese Technologie könnte mehr Sehkraft retten."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-02",
-      "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
+      "date": "2026-07-03",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "弗拉维奥·博尔索纳罗请求特朗普推迟对巴西的关税",
-        "en": "Flavio Bolsonaro asks Trump to delay tariffs on Brazil until after election",
-        "de": "Flavio Bolsonaro bittet Trump, die Zölle auf Brasilien bis nach der Wahl zu verschieben"
+        "zh": "北约土耳其峰会直播：特朗普与领导人将在安卡拉会晤",
+        "en": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
+        "de": "NATOs Türkei-Gipfel live: Trump und Führer treffen sich in Ankara"
       },
       "summary": {
-        "zh": "巴西总统卢拉指责博尔索纳罗的儿子在提议的美国关税中起到了推波助澜的作用。",
-        "en": "Brazilian President Lula accuses Bolsonaro's son of playing a role in triggering the proposed US tariffs.",
-        "de": "Der brasilianische Präsident Lula beschuldigt den Sohn von Bolsonaro, eine Rolle bei der Auslösung der vorgeschlagenen US-Zölle gespielt zu haben."
+        "zh": "北约峰会在土耳其安卡拉召开，预计国防开支和对乌克兰军事需求的支持将成为主要议题。特朗普与其他领导人将讨论这些重要问题。",
+        "en": "The NATO summit is taking place in Ankara, Turkey, with defense spending and support for Ukraine's military needs expected to be key topics. Trump and other leaders will discuss these important issues.",
+        "de": "Der NATO-Gipfel findet in Ankara, Türkei, statt, wobei Verteidigungsausgaben und Unterstützung für die militärischen Bedürfnisse der Ukraine voraussichtlich zentrale Themen sein werden. Trump und andere Führer werden diese wichtigen Themen diskutieren."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-06",
-      "url": "https://www.aljazeera.com/news/2026/7/6/flavio-bolsonaro-asks-trump-to-delay-tariffs-on-brazil-until-after-election?traffic_source=rss"
+      "date": "2026-07-07",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乌克兰警告拦截导弹短缺，基辅地区23人遇难",
-        "en": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-        "de": "Ukraine warnt vor einem Mangel an Abfangraketen, während 23 im Gebiet Kiew getötet wurden"
+        "zh": "法国上诉法院将裁决勒庞定罪 - 这到底是怎么回事",
+        "en": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
+        "de": "Frankreichs Berufungsgericht wird über die Verurteilung von Le Pen entscheiden – worum es geht"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基表示，周日对基辅的“重大俄罗斯攻击”造成了68枚导弹和351架无人机的袭击。",
-        "en": "Ukrainian President Zelensky states that Sunday's 'massive Russian attack' on Kyiv involved 68 missiles and 351 strike drones.",
-        "de": "Der ukrainische Präsident Selenskyj erklärt, dass der 'massive russische Angriff' auf Kiew am Sonntag 68 Raketen und 351 Angriffs-Drohnen umfasste."
+        "zh": "法国极右翼领导人勒庞的定罪可能会阻止她在2027年竞选总统。上诉法院的裁决将对法国政治产生重大影响。",
+        "en": "The conviction of far-right leader Le Pen could prevent her from running for president in 2027. The ruling by the Court of Appeal will have significant implications for French politics.",
+        "de": "Die Verurteilung der rechtsextremen Führerin Le Pen könnte sie daran hindern, 2027 für das Präsidentenamt zu kandidieren. Das Urteil des Berufungsgerichts wird erhebliche Auswirkungen auf die französische Politik haben."
       },
-      "source": "BBC News",
-      "date": "2026-07-06",
-      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-07",
+      "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "前叙利亚情报局长在奥地利因酷刑被定罪",
-        "en": "Ex-Syrian intelligence chief in Raqqa convicted of torture in Austria",
-        "de": "Ehemaliger syrischer Geheimdienstchef in Raqqa wegen Folter in Österreich verurteilt"
+        "zh": "泽伦斯基在北约会议上要求空中防御系统",
+        "en": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+        "de": "Zelensky drängt die NATO auf Luftverteidigungssysteme nach intensiven russischen Angriffen"
       },
       "summary": {
-        "zh": "前叙利亚官员在维也纳受审，被控对反对派实施酷刑，法院认定其负有责任。",
-        "en": "Former Syrian officials were tried in Vienna for crimes against opponents of the former Syrian leader Bashar al-Assad, with the court finding them responsible for torture.",
-        "de": "Ehemalige syrische Beamte wurden in Wien wegen Verbrechen gegen Gegner des ehemaligen syrischen Führers Bashar al-Assad vor Gericht gestellt, wobei das Gericht sie für Folter verantwortlich befand."
+        "zh": "乌克兰总统泽伦斯基将在土耳其的北约会议上争取更多的拦截导弹，以应对俄罗斯的强烈打击。他的请求反映了乌克兰对安全援助的迫切需求。",
+        "en": "Ukrainian President Zelensky will push for more interceptor missiles at the NATO meeting in Turkey in response to intense Russian strikes. His request reflects Ukraine's urgent need for security assistance.",
+        "de": "Der ukrainische Präsident Zelensky wird auf dem NATO-Treffen in der Türkei auf mehr Abfangraketen drängen, um auf die intensiven russischen Angriffe zu reagieren. Seine Bitte spiegelt den dringenden Bedarf der Ukraine an Sicherheitsunterstützung wider."
       },
-      "source": "Al Jazeera",
-      "date": "2026-07-06",
-      "url": "https://www.aljazeera.com/news/2026/7/6/ex-syrian-intelligence-chief-in-raqqa-convicted-of-torture-in-austria?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-07-07",
+      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "求职者放弃：劳动参与率降至50年来最低水平",
-        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
-        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
+        "zh": "拉加德为提前离开欧洲央行留出余地，因为她考虑法国政治",
+        "en": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+        "de": "Christine Lagarde lässt Tür für vorzeitigen ECB-Austritt offen, während sie über französische Politik nachdenkt"
       },
       "summary": {
-        "zh": "尽管失业率下降，但劳动参与率降至50年来的最低水平，反映出求职者的失望情绪。",
-        "en": "Despite a drop in the unemployment rate, the labor force participation rate has fallen to its lowest level in 50 years, reflecting the despair among job seekers.",
-        "de": "Trotz eines Rückgangs der Arbeitslosenquote ist die Erwerbsbeteiligungsquote auf den niedrigsten Stand seit 50 Jahren gefallen, was die Verzweiflung unter den Arbeitssuchenden widerspiegelt."
+        "zh": "欧洲央行行长拉加德未排除提前结束任期的可能性，因她考虑参与法国政治。这一决定可能会影响市场对欧洲央行政策的预期。",
+        "en": "European Central Bank President Lagarde has not ruled out the possibility of an early exit from her term as she considers a foray into French politics. This decision could impact market expectations regarding ECB policies.",
+        "de": "Die Präsidentin der Europäischen Zentralbank, Lagarde, hat die Möglichkeit eines vorzeitigen Austritts aus ihrer Amtszeit nicht ausgeschlossen, während sie über einen Einstieg in die französische Politik nachdenkt. Diese Entscheidung könnte die Markterwartungen hinsichtlich der EZB-Politik beeinflussen."
       },
-      "source": "CNBC",
-      "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+      "source": "CNBC – Markets",
+      "date": "2026-07-03",
+      "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国6月就业增长降温，非农就业人数仅增长57,000",
-        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "de": "US-Arbeitsplatzschaffung kühlt sich im Juni mit einem Anstieg der Löhne um nur 57.000; Arbeitslosenquote bei 4,2%"
+        "zh": "求职者放弃：劳动参与率降至50年来最低",
+        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "de": "Arbeitsuchende geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
       },
       "summary": {
-        "zh": "6月份的非农就业人数增长低于预期，失业率保持在4.2%。",
-        "en": "June's nonfarm payroll growth fell short of expectations, with the unemployment rate holding steady at 4.2%.",
-        "de": "Das Wachstum der Nonfarm-Löhne im Juni blieb hinter den Erwartungen zurück, während die Arbeitslosenquote bei 4,2% stabil blieb."
+        "zh": "美国的劳动参与率降至50年来的最低水平，表明求职者对就业市场的失望。这一趋势可能会影响经济复苏的前景。",
+        "en": "The labor force participation rate in the U.S. has fallen to its lowest level in 50 years, indicating job seekers' disappointment with the job market. This trend may impact the outlook for economic recovery.",
+        "de": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, was auf die Enttäuschung der Arbeitssuchenden über den Arbeitsmarkt hinweist. Dieser Trend könnte die Aussichten für die wirtschaftliche Erholung beeinflussen."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "欧洲希望重新平衡与北京的贸易，但无法放弃中国空调",
-        "en": "Europe wants to rebalance trade with Beijing, but can't quit Chinese air conditioners",
-        "de": "Europa will den Handel mit Peking neu ausbalancieren, kann aber auf chinesische Klimaanlagen nicht verzichten"
+        "zh": "6月份美国就业增长降温，非农就业人数增长仅57,000；失业率为4.2%",
+        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+        "de": "Die US-Beschäftigung wächst im Juni nur um 57.000; Arbeitslosenquote bei 4,2%"
       },
       "summary": {
-        "zh": "由于历史性的热浪，欧洲对中国制造的空调的需求激增，突显了布鲁塞尔在贸易平衡方面面临的挑战。",
-        "en": "Due to a historic heatwave, demand for Chinese-made air conditioners in Europe has surged, highlighting the challenges Brussels faces in trade rebalancing.",
-        "de": "Aufgrund einer historischen Hitzewelle ist die Nachfrage nach in China hergestellten Klimaanlagen in Europa gestiegen, was die Herausforderungen verdeutlicht, mit denen Brüssel beim Handelsausgleich konfrontiert ist."
+        "zh": "6月份美国非农就业人数增长仅57,000，低于预期。这一数据反映出经济增长放缓的迹象，失业率保持在4.2%。",
+        "en": "In June, U.S. nonfarm payrolls grew by only 57,000, falling short of expectations. This data reflects signs of slowing economic growth, with the unemployment rate holding steady at 4.2%.",
+        "de": "Im Juni wuchs die Zahl der nicht landwirtschaftlichen Beschäftigten in den USA nur um 57.000 und blieb damit hinter den Erwartungen zurück. Diese Daten spiegeln Anzeichen einer verlangsamten wirtschaftlichen Entwicklung wider, während die Arbeitslosenquote bei 4,2% stabil bleibt."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html"
+      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
     }
   ]
 }
