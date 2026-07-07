@@ -1,99 +1,99 @@
 {
-  "generatedAt": "2026-07-07T07:59:47.596979+00:00",
+  "generatedAt": "2026-07-07T18:25:20.004782+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "您家在OpenAI的300美元投资",
-        "en": "Your family’s $300 stake in OpenAI",
-        "de": "Ihr Familienanteil von 300 Dollar an OpenAI"
+        "zh": "下载：您在OpenAI的股份，以及财政部的AI警告",
+        "en": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+        "de": "Der Download: Ihr Anteil an OpenAI und die AI-Warnung des Finanzministeriums"
       },
       "summary": {
-        "zh": "OpenAI的CEO S讨论了家庭如何通过小额投资参与人工智能的未来。这一投资可能在未来带来显著的回报。",
-        "en": "OpenAI's CEO S discusses how families can participate in the future of AI through small investments. This investment could yield significant returns in the future.",
-        "de": "Der CEO von OpenAI, S, diskutiert, wie Familien durch kleine Investitionen an der Zukunft der KI teilnehmen können. Diese Investition könnte in Zukunft erhebliche Renditen bringen."
+        "zh": "本期《下载》提供了有关OpenAI股份的信息，并讨论了财政部对人工智能的警告，强调了该技术的潜在风险和影响。",
+        "en": "This edition of The Download provides information on OpenAI shares and discusses the Treasury's warning about artificial intelligence, highlighting the potential risks and impacts of the technology.",
+        "de": "Diese Ausgabe des Downloads bietet Informationen zu OpenAI-Aktien und erörtert die Warnung des Finanzministeriums vor künstlicher Intelligenz, wobei die potenziellen Risiken und Auswirkungen der Technologie hervorgehoben werden."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-06",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
+      "date": "2026-07-07",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：韩国最热门的单身汉和先进的眼角膜移植",
-        "en": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-        "de": "Der Download: Südkoreas heißeste Junggesellen und fortschrittliche Augentransplantationen"
+        "zh": "IT领导者需要扩展的AI架构基础要素",
+        "en": "The foundational elements of AI architecture that IT leaders need to scale",
+        "de": "Die grundlegenden Elemente der KI-Architektur, die IT-Leiter zur Skalierung benötigen"
       },
       "summary": {
-        "zh": "今天的下载版介绍了韩国的单身汉和眼角膜移植的最新进展。这些技术进步可能会改变眼科手术的未来。",
-        "en": "Today's edition of The Download features South Korea's bachelors and the latest advancements in eye transplants. These technological advancements could change the future of ophthalmic surgery.",
-        "de": "Die heutige Ausgabe des Downloads behandelt Südkoreas Junggesellen und die neuesten Fortschritte bei Augentransplantationen. Diese technologischen Fortschritte könnten die Zukunft der Augenheilkunde verändern."
+        "zh": "随着人工智能能力的快速发展，组织正在扩展其用例，IT领导者需要理解和实施AI架构的基础要素以支持这一进程。",
+        "en": "As AI capabilities rapidly advance, organizations are expanding their use cases, and IT leaders need to understand and implement the foundational elements of AI architecture to support this process.",
+        "de": "Mit dem rasanten Fortschritt der KI-Fähigkeiten erweitern Organisationen ihre Anwendungsfälle, und IT-Leiter müssen die grundlegenden Elemente der KI-Architektur verstehen und umsetzen, um diesen Prozess zu unterstützen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-06",
-      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/"
+      "date": "2026-07-07",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "一种可以复活死者眼球的设备可能使眼角膜移植成为可能",
-        "en": "A device that revives eyeballs from dead donors could make eye transplants possible",
-        "de": "Ein Gerät, das Augen von toten Spendern wiederbelebt, könnte Augentransplantationen möglich machen"
+        "zh": "美国提供1000万美元以获取有关Signal和WhatsApp黑客团体的信息",
+        "en": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+        "de": "Die USA bieten 10 Millionen Dollar für Informationen über die Gruppe hinter der Signal- und WhatsApp-Hacking-Welle"
       },
       "summary": {
-        "zh": "研究人员开发了一种设备，可以在眼球从尸体取出后延缓其退化，从而提高眼角膜移植的成功率。这项技术可能会拯救更多的视力。",
-        "en": "Researchers have developed a device that can delay the degeneration of eyeballs after they are removed from a body, potentially increasing the success rate of eye transplants. This technology could save more sight.",
-        "de": "Forscher haben ein Gerät entwickelt, das die Degeneration von Augen verzögern kann, nachdem sie aus einem Körper entfernt wurden, was die Erfolgsquote von Augentransplantationen erhöhen könnte. Diese Technologie könnte mehr Sehkraft retten."
+        "zh": "美国政府提供1000万美元的奖励，以获取有关两个俄罗斯国家支持的团体的信息，这些团体自3月以来一直在进行Signal和WhatsApp的黑客攻击。",
+        "en": "The US government is offering a $10 million reward for information on two Russian state-sponsored groups that have been conducting hacking attacks on Signal and WhatsApp since March.",
+        "de": "Die US-Regierung bietet eine Belohnung von 10 Millionen Dollar für Informationen über zwei von Russland unterstützte Gruppen, die seit März Hacking-Angriffe auf Signal und WhatsApp durchführen."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-07-03",
-      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
+      "source": "Ars Technica – AI",
+      "date": "2026-06-29",
+      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "北约土耳其峰会直播：特朗普与领导人将在安卡拉会晤",
-        "en": "NATO’s Turkiye summit live: Trump, leaders to meet in Ankara",
-        "de": "NATOs Türkei-Gipfel live: Trump und Führer treffen sich in Ankara"
+        "zh": "马宏会见叙利亚的沙拉，爆炸造成多人受伤",
+        "en": "Several hurt in Damascus blasts as Macron meets Syria’s Sharaa",
+        "de": "Mehrere Verletzte bei Explosionen in Damaskus, während Macron Syriens Sharaa trifft"
       },
       "summary": {
-        "zh": "北约峰会在土耳其安卡拉召开，预计国防开支和对乌克兰军事需求的支持将成为主要议题。特朗普与其他领导人将讨论这些重要问题。",
-        "en": "The NATO summit is taking place in Ankara, Turkey, with defense spending and support for Ukraine's military needs expected to be key topics. Trump and other leaders will discuss these important issues.",
-        "de": "Der NATO-Gipfel findet in Ankara, Türkei, statt, wobei Verteidigungsausgaben und Unterstützung für die militärischen Bedürfnisse der Ukraine voraussichtlich zentrale Themen sein werden. Trump und andere Führer werden diese wichtigen Themen diskutieren."
+        "zh": "在法国总统马克龙与叙利亚外长沙拉会晤期间，叙利亚首都发生爆炸，造成多人受伤，突显了该地区的紧张局势。",
+        "en": "Explosions occurred in the Syrian capital during French President Macron's meeting with Foreign Minister Sharaa, resulting in several injuries and highlighting the tensions in the region.",
+        "de": "Während des Treffens von Präsident Macron mit dem syrischen Außenminister Sharaa kam es in der syrischen Hauptstadt zu Explosionen, die mehrere Verletzte zur Folge hatten und die Spannungen in der Region verdeutlichten."
       },
       "source": "Al Jazeera",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/several-hurt-in-damascus-blasts-as-macron-meets-syrias-sharaa?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "法国上诉法院将裁决勒庞定罪 - 这到底是怎么回事",
-        "en": "France’s Court of Appeal to rule on Le Pen conviction – what it’s all about",
-        "de": "Frankreichs Berufungsgericht wird über die Verurteilung von Le Pen entscheiden – worum es geht"
+        "zh": "中国中部龙卷风造成17人遇难，台风巴维在海上逼近",
+        "en": "Tornadoes kill 17 in central China as Typhoon Bavi looms offshore",
+        "de": "Tornadoes töten 17 in Zentralchina, während Taifun Bavi vor der Küste lauert"
       },
       "summary": {
-        "zh": "法国极右翼领导人勒庞的定罪可能会阻止她在2027年竞选总统。上诉法院的裁决将对法国政治产生重大影响。",
-        "en": "The conviction of far-right leader Le Pen could prevent her from running for president in 2027. The ruling by the Court of Appeal will have significant implications for French politics.",
-        "de": "Die Verurteilung der rechtsextremen Führerin Le Pen könnte sie daran hindern, 2027 für das Präsidentenamt zu kandidieren. Das Urteil des Berufungsgerichts wird erhebliche Auswirkungen auf die französische Politik haben."
+        "zh": "在中国中部，龙卷风造成17人遇难，习近平主席呼吁进行全面响应，以应对即将来临的台风巴维。",
+        "en": "In central China, tornadoes have killed 17 people, with President Xi urging an 'all out' response to address the impending Typhoon Bavi.",
+        "de": "In Zentralchina haben Tornados 17 Menschen getötet, während Präsident Xi zu einer 'vollständigen' Reaktion auf den bevorstehenden Taifun Bavi aufgerufen hat."
       },
       "source": "Al Jazeera",
       "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/news/2026/7/7/frances-court-of-appeal-to-rule-on-le-pen-conviction-what-its-all-about?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/7/tornadoes-kill-17-in-central-china-as-typhoon-bavi-looms-offshore?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "泽伦斯基在北约会议上要求空中防御系统",
-        "en": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-        "de": "Zelensky drängt die NATO auf Luftverteidigungssysteme nach intensiven russischen Angriffen"
+        "zh": "泽连斯基在俄罗斯猛烈打击后向北约施压寻求防空系统",
+        "en": "Zelensky presses Nato for air defence systems after intense Russian strikes",
+        "de": "Zelensky drängt die NATO nach intensiven russischen Angriffen auf Luftverteidigungssysteme"
       },
       "summary": {
-        "zh": "乌克兰总统泽伦斯基将在土耳其的北约会议上争取更多的拦截导弹，以应对俄罗斯的强烈打击。他的请求反映了乌克兰对安全援助的迫切需求。",
-        "en": "Ukrainian President Zelensky will push for more interceptor missiles at the NATO meeting in Turkey in response to intense Russian strikes. His request reflects Ukraine's urgent need for security assistance.",
-        "de": "Der ukrainische Präsident Zelensky wird auf dem NATO-Treffen in der Türkei auf mehr Abfangraketen drängen, um auf die intensiven russischen Angriffe zu reagieren. Seine Bitte spiegelt den dringenden Bedarf der Ukraine an Sicherheitsunterstützung wider."
+        "zh": "乌克兰总统泽连斯基在俄罗斯的猛烈打击后，呼吁北约提供防空系统，强调这一需求应成为本周土耳其峰会的关键成果之一。",
+        "en": "Ukrainian President Zelensky is urging NATO for air defense systems following intense Russian strikes, emphasizing that this demand should be one of the key outcomes of this week's summit in Turkey.",
+        "de": "Der ukrainische Präsident Zelensky drängt die NATO nach intensiven russischen Angriffen auf Luftverteidigungssysteme und betont, dass diese Forderung eines der Hauptziele des dieswöchigen Gipfels in der Türkei sein sollte."
       },
       "source": "BBC News – World",
       "date": "2026-07-07",
@@ -104,50 +104,50 @@
     {
       "id": "stk-1",
       "title": {
-        "zh": "拉加德为提前离开欧洲央行留出余地，因为她考虑法国政治",
-        "en": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
-        "de": "Christine Lagarde lässt Tür für vorzeitigen ECB-Austritt offen, während sie über französische Politik nachdenkt"
+        "zh": "美贸易逆差在人工智能支出激增中飙升",
+        "en": "US trade deficit surges amid artificial intelligence spending boom",
+        "de": "Das US-Handelsdefizit steigt im Zuge des Booms der Ausgaben für künstliche Intelligenz"
       },
       "summary": {
-        "zh": "欧洲央行行长拉加德未排除提前结束任期的可能性，因她考虑参与法国政治。这一决定可能会影响市场对欧洲央行政策的预期。",
-        "en": "European Central Bank President Lagarde has not ruled out the possibility of an early exit from her term as she considers a foray into French politics. This decision could impact market expectations regarding ECB policies.",
-        "de": "Die Präsidentin der Europäischen Zentralbank, Lagarde, hat die Möglichkeit eines vorzeitigen Austritts aus ihrer Amtszeit nicht ausgeschlossen, während sie über einen Einstieg in die französische Politik nachdenkt. Diese Entscheidung könnte die Markterwartungen hinsichtlich der EZB-Politik beeinflussen."
+        "zh": "美国的贸易逆差在5月份飙升至776亿美元，主要由于药品和半导体的进口超过出口，这一现象与人工智能支出激增有关。",
+        "en": "The US trade deficit surged to $77.6 billion in May, primarily driven by imports outpacing exports in pharmaceuticals and semiconductors, a trend linked to the boom in artificial intelligence spending.",
+        "de": "Das US-Handelsdefizit stieg im Mai auf 77,6 Milliarden Dollar, hauptsächlich bedingt durch einen Anstieg der Importe gegenüber den Exporten in den Bereichen Pharmazeutika und Halbleiter, ein Trend, der mit dem Boom der Ausgaben für künstliche Intelligenz verbunden ist."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-03",
-      "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
+      "source": "Al Jazeera",
+      "date": "2026-07-07",
+      "url": "https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom?traffic_source=rss"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "求职者放弃：劳动参与率降至50年来最低",
-        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
-        "de": "Arbeitsuchende geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
+        "zh": "特斯拉股票因SpaceX合并潜力可能上涨20%",
+        "en": "Tesla’s stock could rise 20% thanks to the potential for a SpaceX merger, analyst says",
+        "de": "Die Tesla-Aktien könnten um 20 % steigen, dank des Potenzials für eine SpaceX-Fusion, sagt ein Analyst"
       },
       "summary": {
-        "zh": "美国的劳动参与率降至50年来的最低水平，表明求职者对就业市场的失望。这一趋势可能会影响经济复苏的前景。",
-        "en": "The labor force participation rate in the U.S. has fallen to its lowest level in 50 years, indicating job seekers' disappointment with the job market. This trend may impact the outlook for economic recovery.",
-        "de": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, was auf die Enttäuschung der Arbeitssuchenden über den Arbeitsmarkt hinweist. Dieser Trend könnte die Aussichten für die wirtschaftliche Erholung beeinflussen."
+        "zh": "分析师表示，由于SpaceX合并的潜力，特斯拉的股票可能上涨20%。市场对埃隆·马斯克的两家公司合并的可能性越来越感兴趣。",
+        "en": "Analysts suggest that Tesla's stock could rise by 20% due to the potential for a SpaceX merger, with market interest in the likelihood of a merger between Elon Musk's two major companies increasing.",
+        "de": "Analysten schlagen vor, dass die Aktien von Tesla aufgrund des Potenzials für eine Fusion mit SpaceX um 20 % steigen könnten, da das Marktinteresse an der Wahrscheinlichkeit einer Fusion zwischen Elon Musks beiden großen Unternehmen zunimmt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-07",
+      "url": "https://www.marketwatch.com/story/teslas-stock-could-rise-20-thanks-to-the-potential-for-a-spacex-merger-analyst-says-0d64693e?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "6月份美国就业增长降温，非农就业人数增长仅57,000；失业率为4.2%",
-        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "de": "Die US-Beschäftigung wächst im Juni nur um 57.000; Arbeitslosenquote bei 4,2%"
+        "zh": "里维安股票销售引发近两年来最严重的股票下跌",
+        "en": "Rivian’s stock sale triggers worst rout for the shares in nearly two years",
+        "de": "Der Aktienverkauf von Rivian löst den schlimmsten Rückgang der Aktien seit fast zwei Jahren aus"
       },
       "summary": {
-        "zh": "6月份美国非农就业人数增长仅57,000，低于预期。这一数据反映出经济增长放缓的迹象，失业率保持在4.2%。",
-        "en": "In June, U.S. nonfarm payrolls grew by only 57,000, falling short of expectations. This data reflects signs of slowing economic growth, with the unemployment rate holding steady at 4.2%.",
-        "de": "Im Juni wuchs die Zahl der nicht landwirtschaftlichen Beschäftigten in den USA nur um 57.000 und blieb damit hinter den Erwartungen zurück. Diese Daten spiegeln Anzeichen einer verlangsamten wirtschaftlichen Entwicklung wider, während die Arbeitslosenquote bei 4,2% stabil bleibt."
+        "zh": "里维安的股票因现金问题而下跌13%，这是近两年来最严重的股票下跌，市场对电动汽车制造商的财务状况表示担忧。",
+        "en": "Rivian's stock fell by 13% due to cash concerns, marking the worst rout for the shares in nearly two years, as the market expresses worries about the electric vehicle manufacturer's financial health.",
+        "de": "Die Aktien von Rivian fielen um 13 % aufgrund von Bedenken hinsichtlich der Liquidität, was den schlimmsten Rückgang der Aktien seit fast zwei Jahren markiert, da der Markt Bedenken hinsichtlich der finanziellen Gesundheit des Elektrofahrzeugherstellers äußert."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-07",
+      "url": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories"
     }
   ]
 }
