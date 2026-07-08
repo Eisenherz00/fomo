@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-08T07:05:13.332973+00:00",
+  "generatedAt": "2026-07-08T17:55:51.068978+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：您在OpenAI的股份，以及财政部的AI警告",
-        "en": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-        "de": "Der Download: Ihr Anteil an OpenAI und die AI-Warnung des Finanzministeriums"
+        "zh": "EmTech AI 2026：人工智能平台的崛起",
+        "en": "EmTech AI 2026: The Rise of the AI Platform",
+        "de": "EmTech AI 2026: Der Aufstieg der KI-Plattform"
       },
       "summary": {
-        "zh": "今天的《下载》提供了有关OpenAI股份和财政部对人工智能的警告的最新信息。",
-        "en": "Today's Download provides the latest information on OpenAI stakes and the Treasury's warning regarding artificial intelligence.",
-        "de": "Der heutige Download bietet die neuesten Informationen zu OpenAI-Anteilen und der Warnung des Finanzministeriums bezüglich künstlicher Intelligenz."
+        "zh": "2026年，人工智能平台的崛起正在改变技术生态系统，推动各行业的创新和效率提升。",
+        "en": "In 2026, the rise of AI platforms is transforming the technology ecosystem, driving innovation and efficiency across various industries.",
+        "de": "Im Jahr 2026 verändert der Aufstieg der KI-Plattformen das Technologiekosmos und treibt Innovation und Effizienz in verschiedenen Branchen voran."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-07",
-      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/"
+      "date": "2026-07-08",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "IT领导者需要扩展的AI架构基础要素",
-        "en": "The foundational elements of AI architecture that IT leaders need to scale",
-        "de": "Die grundlegenden Elemente der KI-Architektur, die IT-Leiter zur Skalierung benötigen"
+        "zh": "黑客可以使用9种最流行的人工智能工具组装大型僵尸网络",
+        "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
       },
       "summary": {
-        "zh": "随着AI能力的快速发展，组织正在扩大其用例，IT领导者需要了解AI架构的基础要素以实现扩展。",
-        "en": "As AI capabilities rapidly advance, organizations are expanding their use cases, and IT leaders need to understand the foundational elements of AI architecture to scale.",
-        "de": "Mit dem rasanten Fortschritt der KI-Fähigkeiten erweitern Organisationen ihre Anwendungsfälle, und IT-Leiter müssen die grundlegenden Elemente der KI-Architektur verstehen, um zu skalieren."
+        "zh": "黑客利用流行的人工智能工具来创建大规模的僵尸网络，利用这些工具的局限性进行攻击。",
+        "en": "Hackers are leveraging popular AI tools to create large-scale botnets, exploiting the limitations of these tools for attacks.",
+        "de": "Hacker nutzen beliebte KI-Tools, um groß angelegte Botnetze zu erstellen und die Einschränkungen dieser Tools für Angriffe auszunutzen."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-07-07",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
+      "source": "Ars Technica – AI",
+      "date": "2026-07-08",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "新发现的PamStealer不是典型的macOS恶意软件",
-        "en": "Newly discovered PamStealer isn't your typical macOS malware",
-        "de": "Neu entdeckter PamStealer ist kein typisches macOS-Malware"
+        "zh": "美国稀土流向亚洲，国内需求缓慢增长",
+        "en": "US rare earths flow to Asia as domestic demand is slow to emerge",
+        "de": "US-Rohstoffe fließen nach Asien, während die inländische Nachfrage langsam wächst"
       },
       "summary": {
-        "zh": "PamStealer的发现突显了对Mac信息窃取者的增加努力，这种恶意软件采用了巧妙的手段以保持隐蔽。",
-        "en": "The discovery of PamStealer underscores the increased effort being poured into Mac infostealers, with this malware employing clever tradecraft to remain stealthy.",
-        "de": "Die Entdeckung von PamStealer unterstreicht die verstärkten Bemühungen, die in Mac-Infostealer investiert werden, wobei diese Malware clevere Techniken verwendet, um im Verborgenen zu bleiben."
+        "zh": "美国的稀土资源正在流向亚洲，尽管国内需求尚未显现，矿业公司仍在努力开发国内供应链。",
+        "en": "US rare earth resources are flowing to Asia, despite slow domestic demand, as mining companies work to develop a domestic supply chain.",
+        "de": "US-Rohstoffe fließen nach Asien, trotz langsamer inländischer Nachfrage, während Bergbauunternehmen daran arbeiten, eine inländische Lieferkette zu entwickeln."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-07-02",
-      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/"
+      "date": "2026-07-08",
+      "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗经济面临脆弱停火考验的漫长复苏之路",
-        "en": "Iran’s economy faces long road to recovery as fragile truce tested",
-        "de": "Irans Wirtschaft steht vor einem langen Weg zur Erholung, während die fragile Waffenruhe getestet wird"
+        "zh": "北约承诺为乌克兰提供700亿欧元，特朗普赞扬和平“进展”",
+        "en": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
+        "de": "NATO verspricht 70 Milliarden Euro für die Ukraine, während Trump den Frieden 'Fortschritt' lobt"
       },
       "summary": {
-        "zh": "分析人士表示，经历两场战争后，工业设施的破坏可能需要数年才能恢复。",
-        "en": "Analysts say that the devastation of industrial facilities from two wars may take years to reverse.",
-        "de": "Analysten sagen, dass die Verwüstung der Industrieanlagen durch zwei Kriege Jahre in Anspruch nehmen könnte, um umgekehrt zu werden."
+        "zh": "北约宣布将向乌克兰提供700亿欧元的支持，特朗普在与泽连斯基的友好会晤中赞扬了和平进展。",
+        "en": "NATO has announced a pledge of 70 billion euros in support for Ukraine, with Trump praising peace progress during a friendly meeting with Zelenskyy.",
+        "de": "Die NATO hat eine Zusage von 70 Milliarden Euro zur Unterstützung der Ukraine angekündigt, während Trump den Fortschritt des Friedens während eines freundlichen Treffens mit Zelenskyy lobte."
       },
       "source": "Al Jazeera",
       "date": "2026-07-08",
-      "url": "https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "在联合国，古巴呼吁支持反对“无情”的美国封锁",
-        "en": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
-        "de": "Bei den Vereinten Nationen mobilisiert Kuba Unterstützung gegen die 'rücksichtslosen' US-Blockade"
+        "zh": "美国指控印度犯罪头目参与锡克活动家暗杀案",
+        "en": "US charges Indian crime leader in Sikh activist’s assassination",
+        "de": "US-Anklage gegen indischen Verbrechensführer im Mord an Sikh-Aktivisten"
       },
       "summary": {
-        "zh": "华盛顿与哈瓦那之间的外交紧张关系在最近几个月加剧。",
-        "en": "Diplomatic tensions between Washington and Havana have widened in recent months.",
-        "de": "Die diplomatischen Spannungen zwischen Washington und Havanna haben sich in den letzten Monaten verschärft."
+        "zh": "美国指控一名印度犯罪头目与锡克活动家的暗杀案有关，此事件加剧了印度与加拿大之间的紧张关系。",
+        "en": "The US has charged an Indian crime leader in connection with the assassination of a Sikh activist, heightening tensions between India and Canada.",
+        "de": "Die USA haben einen indischen Verbrechensführer im Zusammenhang mit dem Mord an einem Sikh-Aktivisten angeklagt, was die Spannungen zwischen Indien und Kanada erhöht."
       },
       "source": "Al Jazeera",
       "date": "2026-07-08",
-      "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "法国，姆巴佩在世界杯四分之一决赛中对阵摩洛哥",
-        "en": "France, Mbappe play Morocco in FIFA World Cup quarterfinal",
-        "de": "Frankreich, Mbappe spielt gegen Marokko im Viertelfinale der FIFA-Weltmeisterschaft"
+        "zh": "特朗普表示停火已“结束”，美国与伊朗互相打击",
+        "en": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+        "de": "Trump sagt, der Waffenstillstand sei 'vorbei', nachdem die USA und der Iran Angriffe austauschten"
       },
       "summary": {
-        "zh": "姆巴佩带领法国队在2022年世界杯中击败摩洛哥后，双方再次交锋。",
-        "en": "Kylian Mbappe leads France into a rematch after Les Bleus beat Morocco in the 2022 World Cup.",
-        "de": "Kylian Mbappe führt Frankreich in ein Rematch, nachdem Les Bleus Marokko in der WM 2022 besiegt haben."
+        "zh": "特朗普在北约峰会前表示，美国与伊朗之间的停火已结束，双方互相进行了军事打击。",
+        "en": "Trump stated that the ceasefire between the US and Iran is over, following military strikes exchanged between the two nations.",
+        "de": "Trump erklärte, dass der Waffenstillstand zwischen den USA und dem Iran vorbei sei, nachdem die beiden Länder militärische Angriffe ausgetauscht hatten."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-07-08",
-      "url": "https://www.aljazeera.com/sports/2026/7/8/france-vs-morocco-key-talking-points-mbappe-world-cup-quarterfinal-what-we-know?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美联储主席拉加德未排除提前结束任期的可能性",
-        "en": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
-        "de": "Christine Lagarde lässt Tür für vorzeitigen ECB-Austritt offen, während sie über französische Politik nachdenkt"
+        "zh": "保险巨头表示将转向人工智能以取代多达1800个职位",
+        "en": "Insurance giant says it’s turning to AI to replace as many as 1,800 jobs",
+        "de": "Versicherungsgigant sagt, dass er auf KI umschwenkt, um bis zu 1.800 Stellen zu ersetzen"
       },
       "summary": {
-        "zh": "欧洲央行行长拉加德未排除提前结束任期的可能性，同时考虑参与法国政治。",
-        "en": "European Central Bank President Lagarde has not ruled out an early end to her term while considering a foray into French politics.",
-        "de": "Die Präsidentin der Europäischen Zentralbank, Lagarde, hat einen vorzeitigen Ende ihrer Amtszeit nicht ausgeschlossen, während sie über einen Einstieg in die französische Politik nachdenkt."
+        "zh": "安联合作伙伴公司计划通过人工智能取代多达1800个职位，反映出行业对自动化的日益依赖。",
+        "en": "Allianz Partners plans to replace up to 1,800 jobs with AI, reflecting the industry's increasing reliance on automation.",
+        "de": "Allianz Partners plant, bis zu 1.800 Stellen durch KI zu ersetzen, was die zunehmende Abhängigkeit der Branche von Automatisierung widerspiegelt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-03",
-      "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-08",
+      "url": "https://www.marketwatch.com/story/insurance-giant-says-its-turning-to-ai-to-replace-as-many-as-1-800-jobs-13e60de2?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "求职者放弃：劳动力参与率降至50年来最低水平",
-        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
-        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
+        "zh": "油价在特朗普表示美伊停火结束后触及两周高点",
+        "en": "Oil prices touch two-week highs after Trump suggests U.S.-Iran cease-fire is over",
+        "de": "Ölpreise erreichen zweiwöchige Höchststände, nachdem Trump andeutet, dass der US-Iran-Waffenstillstand vorbei ist"
       },
       "summary": {
-        "zh": "失业率的下降为整体疲软的就业报告提供了一些积极因素，但原因并不理想。",
-        "en": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
-        "de": "Ein Rückgang der Arbeitslosenquote sorgte für einen positiven Aspekt in einem ansonsten düsteren Arbeitsbericht – aber aus den falschen Gründen."
+        "zh": "在特朗普表示美伊停火结束后，油价触及两周以来的最高水平，市场对未来局势的担忧加剧。",
+        "en": "Oil prices have reached their highest levels in two weeks following Trump's statement that the US-Iran ceasefire is over, raising market concerns about future developments.",
+        "de": "Die Ölpreise haben nach Trumps Aussage, dass der US-Iran-Waffenstillstand vorbei ist, ihre höchsten Werte seit zwei Wochen erreicht, was die Marktsorgen über zukünftige Entwicklungen verstärkt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-08",
+      "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国6月就业增长降温，非农就业人数增长仅57,000",
-        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "de": "Die Schaffung von Arbeitsplätzen in den USA kühlt sich im Juni mit einem Anstieg der Löhne um nur 57.000; Arbeitslosenquote bei 4,2%"
+        "zh": "为什么股市最大的滞后者可能是您抵御夏季抛售的最佳防御",
+        "en": "Why the stock market’s biggest laggards might be your best defense against a summer selloff",
+        "de": "Warum die größten Verlierer des Aktienmarktes Ihre beste Verteidigung gegen einen Sommerverkauf sein könnten"
       },
       "summary": {
-        "zh": "非农就业人数预计将增长115,000，而失业率保持在4.3%。",
-        "en": "Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
-        "de": "Die Nonfarm-Löhne sollten im Juni um 115.000 steigen, und die Arbeitslosenquote sollte bei 4,3% bleiben."
+        "zh": "低波动性股票在经历了长时间的表现不佳后，正在成为投资者在夏季抛售中的最佳防御选择。",
+        "en": "Low-volatility stocks are emerging as the best defense for investors against summer selloffs after a prolonged period of underperformance.",
+        "de": "Aktien mit niedriger Volatilität erweisen sich nach einer längeren Phase der Underperformance als die beste Verteidigung für Investoren gegen Sommerverkäufe."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-08",
+      "url": "https://www.marketwatch.com/story/why-the-stock-markets-biggest-laggards-might-be-your-best-defense-against-a-summer-selloff-be079d8e?mod=mw_rss_topstories"
     }
   ]
 }
