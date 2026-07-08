@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T18:25:20.004782+00:00",
+  "generatedAt": "2026-07-08T07:05:13.332973+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Ihr Anteil an OpenAI und die AI-Warnung des Finanzministeriums"
       },
       "summary": {
-        "zh": "本期《下载》提供了有关OpenAI股份的信息，并讨论了财政部对人工智能的警告，强调了该技术的潜在风险和影响。",
-        "en": "This edition of The Download provides information on OpenAI shares and discusses the Treasury's warning about artificial intelligence, highlighting the potential risks and impacts of the technology.",
-        "de": "Diese Ausgabe des Downloads bietet Informationen zu OpenAI-Aktien und erörtert die Warnung des Finanzministeriums vor künstlicher Intelligenz, wobei die potenziellen Risiken und Auswirkungen der Technologie hervorgehoben werden."
+        "zh": "今天的《下载》提供了有关OpenAI股份和财政部对人工智能的警告的最新信息。",
+        "en": "Today's Download provides the latest information on OpenAI stakes and the Treasury's warning regarding artificial intelligence.",
+        "de": "Der heutige Download bietet die neuesten Informationen zu OpenAI-Anteilen und der Warnung des Finanzministeriums bezüglich künstlicher Intelligenz."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-07",
@@ -25,9 +25,9 @@
         "de": "Die grundlegenden Elemente der KI-Architektur, die IT-Leiter zur Skalierung benötigen"
       },
       "summary": {
-        "zh": "随着人工智能能力的快速发展，组织正在扩展其用例，IT领导者需要理解和实施AI架构的基础要素以支持这一进程。",
-        "en": "As AI capabilities rapidly advance, organizations are expanding their use cases, and IT leaders need to understand and implement the foundational elements of AI architecture to support this process.",
-        "de": "Mit dem rasanten Fortschritt der KI-Fähigkeiten erweitern Organisationen ihre Anwendungsfälle, und IT-Leiter müssen die grundlegenden Elemente der KI-Architektur verstehen und umsetzen, um diesen Prozess zu unterstützen."
+        "zh": "随着AI能力的快速发展，组织正在扩大其用例，IT领导者需要了解AI架构的基础要素以实现扩展。",
+        "en": "As AI capabilities rapidly advance, organizations are expanding their use cases, and IT leaders need to understand the foundational elements of AI architecture to scale.",
+        "de": "Mit dem rasanten Fortschritt der KI-Fähigkeiten erweitern Organisationen ihre Anwendungsfälle, und IT-Leiter müssen die grundlegenden Elemente der KI-Architektur verstehen, um zu skalieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-07",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "美国提供1000万美元以获取有关Signal和WhatsApp黑客团体的信息",
-        "en": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-        "de": "Die USA bieten 10 Millionen Dollar für Informationen über die Gruppe hinter der Signal- und WhatsApp-Hacking-Welle"
+        "zh": "新发现的PamStealer不是典型的macOS恶意软件",
+        "en": "Newly discovered PamStealer isn't your typical macOS malware",
+        "de": "Neu entdeckter PamStealer ist kein typisches macOS-Malware"
       },
       "summary": {
-        "zh": "美国政府提供1000万美元的奖励，以获取有关两个俄罗斯国家支持的团体的信息，这些团体自3月以来一直在进行Signal和WhatsApp的黑客攻击。",
-        "en": "The US government is offering a $10 million reward for information on two Russian state-sponsored groups that have been conducting hacking attacks on Signal and WhatsApp since March.",
-        "de": "Die US-Regierung bietet eine Belohnung von 10 Millionen Dollar für Informationen über zwei von Russland unterstützte Gruppen, die seit März Hacking-Angriffe auf Signal und WhatsApp durchführen."
+        "zh": "PamStealer的发现突显了对Mac信息窃取者的增加努力，这种恶意软件采用了巧妙的手段以保持隐蔽。",
+        "en": "The discovery of PamStealer underscores the increased effort being poured into Mac infostealers, with this malware employing clever tradecraft to remain stealthy.",
+        "de": "Die Entdeckung von PamStealer unterstreicht die verstärkten Bemühungen, die in Mac-Infostealer investiert werden, wobei diese Malware clevere Techniken verwendet, um im Verborgenen zu bleiben."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-06-29",
-      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
+      "date": "2026-07-02",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "马宏会见叙利亚的沙拉，爆炸造成多人受伤",
-        "en": "Several hurt in Damascus blasts as Macron meets Syria’s Sharaa",
-        "de": "Mehrere Verletzte bei Explosionen in Damaskus, während Macron Syriens Sharaa trifft"
+        "zh": "伊朗经济面临脆弱停火考验的漫长复苏之路",
+        "en": "Iran’s economy faces long road to recovery as fragile truce tested",
+        "de": "Irans Wirtschaft steht vor einem langen Weg zur Erholung, während die fragile Waffenruhe getestet wird"
       },
       "summary": {
-        "zh": "在法国总统马克龙与叙利亚外长沙拉会晤期间，叙利亚首都发生爆炸，造成多人受伤，突显了该地区的紧张局势。",
-        "en": "Explosions occurred in the Syrian capital during French President Macron's meeting with Foreign Minister Sharaa, resulting in several injuries and highlighting the tensions in the region.",
-        "de": "Während des Treffens von Präsident Macron mit dem syrischen Außenminister Sharaa kam es in der syrischen Hauptstadt zu Explosionen, die mehrere Verletzte zur Folge hatten und die Spannungen in der Region verdeutlichten."
+        "zh": "分析人士表示，经历两场战争后，工业设施的破坏可能需要数年才能恢复。",
+        "en": "Analysts say that the devastation of industrial facilities from two wars may take years to reverse.",
+        "de": "Analysten sagen, dass die Verwüstung der Industrieanlagen durch zwei Kriege Jahre in Anspruch nehmen könnte, um umgekehrt zu werden."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/several-hurt-in-damascus-blasts-as-macron-meets-syrias-sharaa?traffic_source=rss"
+      "date": "2026-07-08",
+      "url": "https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "中国中部龙卷风造成17人遇难，台风巴维在海上逼近",
-        "en": "Tornadoes kill 17 in central China as Typhoon Bavi looms offshore",
-        "de": "Tornadoes töten 17 in Zentralchina, während Taifun Bavi vor der Küste lauert"
+        "zh": "在联合国，古巴呼吁支持反对“无情”的美国封锁",
+        "en": "At UN, Cuba rallies support against ‘ruthless’ US blockade",
+        "de": "Bei den Vereinten Nationen mobilisiert Kuba Unterstützung gegen die 'rücksichtslosen' US-Blockade"
       },
       "summary": {
-        "zh": "在中国中部，龙卷风造成17人遇难，习近平主席呼吁进行全面响应，以应对即将来临的台风巴维。",
-        "en": "In central China, tornadoes have killed 17 people, with President Xi urging an 'all out' response to address the impending Typhoon Bavi.",
-        "de": "In Zentralchina haben Tornados 17 Menschen getötet, während Präsident Xi zu einer 'vollständigen' Reaktion auf den bevorstehenden Taifun Bavi aufgerufen hat."
+        "zh": "华盛顿与哈瓦那之间的外交紧张关系在最近几个月加剧。",
+        "en": "Diplomatic tensions between Washington and Havana have widened in recent months.",
+        "de": "Die diplomatischen Spannungen zwischen Washington und Havanna haben sich in den letzten Monaten verschärft."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/news/2026/7/7/tornadoes-kill-17-in-central-china-as-typhoon-bavi-looms-offshore?traffic_source=rss"
+      "date": "2026-07-08",
+      "url": "https://www.aljazeera.com/news/2026/7/8/at-un-cuba-rallies-support-against-ruthless-us-blockade?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "泽连斯基在俄罗斯猛烈打击后向北约施压寻求防空系统",
-        "en": "Zelensky presses Nato for air defence systems after intense Russian strikes",
-        "de": "Zelensky drängt die NATO nach intensiven russischen Angriffen auf Luftverteidigungssysteme"
+        "zh": "法国，姆巴佩在世界杯四分之一决赛中对阵摩洛哥",
+        "en": "France, Mbappe play Morocco in FIFA World Cup quarterfinal",
+        "de": "Frankreich, Mbappe spielt gegen Marokko im Viertelfinale der FIFA-Weltmeisterschaft"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基在俄罗斯的猛烈打击后，呼吁北约提供防空系统，强调这一需求应成为本周土耳其峰会的关键成果之一。",
-        "en": "Ukrainian President Zelensky is urging NATO for air defense systems following intense Russian strikes, emphasizing that this demand should be one of the key outcomes of this week's summit in Turkey.",
-        "de": "Der ukrainische Präsident Zelensky drängt die NATO nach intensiven russischen Angriffen auf Luftverteidigungssysteme und betont, dass diese Forderung eines der Hauptziele des dieswöchigen Gipfels in der Türkei sein sollte."
+        "zh": "姆巴佩带领法国队在2022年世界杯中击败摩洛哥后，双方再次交锋。",
+        "en": "Kylian Mbappe leads France into a rematch after Les Bleus beat Morocco in the 2022 World Cup.",
+        "de": "Kylian Mbappe führt Frankreich in ein Rematch, nachdem Les Bleus Marokko in der WM 2022 besiegt haben."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-07",
-      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-08",
+      "url": "https://www.aljazeera.com/sports/2026/7/8/france-vs-morocco-key-talking-points-mbappe-world-cup-quarterfinal-what-we-know?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美贸易逆差在人工智能支出激增中飙升",
-        "en": "US trade deficit surges amid artificial intelligence spending boom",
-        "de": "Das US-Handelsdefizit steigt im Zuge des Booms der Ausgaben für künstliche Intelligenz"
+        "zh": "美联储主席拉加德未排除提前结束任期的可能性",
+        "en": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+        "de": "Christine Lagarde lässt Tür für vorzeitigen ECB-Austritt offen, während sie über französische Politik nachdenkt"
       },
       "summary": {
-        "zh": "美国的贸易逆差在5月份飙升至776亿美元，主要由于药品和半导体的进口超过出口，这一现象与人工智能支出激增有关。",
-        "en": "The US trade deficit surged to $77.6 billion in May, primarily driven by imports outpacing exports in pharmaceuticals and semiconductors, a trend linked to the boom in artificial intelligence spending.",
-        "de": "Das US-Handelsdefizit stieg im Mai auf 77,6 Milliarden Dollar, hauptsächlich bedingt durch einen Anstieg der Importe gegenüber den Exporten in den Bereichen Pharmazeutika und Halbleiter, ein Trend, der mit dem Boom der Ausgaben für künstliche Intelligenz verbunden ist."
+        "zh": "欧洲央行行长拉加德未排除提前结束任期的可能性，同时考虑参与法国政治。",
+        "en": "European Central Bank President Lagarde has not ruled out an early end to her term while considering a foray into French politics.",
+        "de": "Die Präsidentin der Europäischen Zentralbank, Lagarde, hat einen vorzeitigen Ende ihrer Amtszeit nicht ausgeschlossen, während sie über einen Einstieg in die französische Politik nachdenkt."
       },
-      "source": "Al Jazeera",
-      "date": "2026-07-07",
-      "url": "https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom?traffic_source=rss"
+      "source": "CNBC – Markets",
+      "date": "2026-07-03",
+      "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "特斯拉股票因SpaceX合并潜力可能上涨20%",
-        "en": "Tesla’s stock could rise 20% thanks to the potential for a SpaceX merger, analyst says",
-        "de": "Die Tesla-Aktien könnten um 20 % steigen, dank des Potenzials für eine SpaceX-Fusion, sagt ein Analyst"
+        "zh": "求职者放弃：劳动力参与率降至50年来最低水平",
+        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
       },
       "summary": {
-        "zh": "分析师表示，由于SpaceX合并的潜力，特斯拉的股票可能上涨20%。市场对埃隆·马斯克的两家公司合并的可能性越来越感兴趣。",
-        "en": "Analysts suggest that Tesla's stock could rise by 20% due to the potential for a SpaceX merger, with market interest in the likelihood of a merger between Elon Musk's two major companies increasing.",
-        "de": "Analysten schlagen vor, dass die Aktien von Tesla aufgrund des Potenzials für eine Fusion mit SpaceX um 20 % steigen könnten, da das Marktinteresse an der Wahrscheinlichkeit einer Fusion zwischen Elon Musks beiden großen Unternehmen zunimmt."
+        "zh": "失业率的下降为整体疲软的就业报告提供了一些积极因素，但原因并不理想。",
+        "en": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
+        "de": "Ein Rückgang der Arbeitslosenquote sorgte für einen positiven Aspekt in einem ansonsten düsteren Arbeitsbericht – aber aus den falschen Gründen."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-07",
-      "url": "https://www.marketwatch.com/story/teslas-stock-could-rise-20-thanks-to-the-potential-for-a-spacex-merger-analyst-says-0d64693e?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-02",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "里维安股票销售引发近两年来最严重的股票下跌",
-        "en": "Rivian’s stock sale triggers worst rout for the shares in nearly two years",
-        "de": "Der Aktienverkauf von Rivian löst den schlimmsten Rückgang der Aktien seit fast zwei Jahren aus"
+        "zh": "美国6月就业增长降温，非农就业人数增长仅57,000",
+        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+        "de": "Die Schaffung von Arbeitsplätzen in den USA kühlt sich im Juni mit einem Anstieg der Löhne um nur 57.000; Arbeitslosenquote bei 4,2%"
       },
       "summary": {
-        "zh": "里维安的股票因现金问题而下跌13%，这是近两年来最严重的股票下跌，市场对电动汽车制造商的财务状况表示担忧。",
-        "en": "Rivian's stock fell by 13% due to cash concerns, marking the worst rout for the shares in nearly two years, as the market expresses worries about the electric vehicle manufacturer's financial health.",
-        "de": "Die Aktien von Rivian fielen um 13 % aufgrund von Bedenken hinsichtlich der Liquidität, was den schlimmsten Rückgang der Aktien seit fast zwei Jahren markiert, da der Markt Bedenken hinsichtlich der finanziellen Gesundheit des Elektrofahrzeugherstellers äußert."
+        "zh": "非农就业人数预计将增长115,000，而失业率保持在4.3%。",
+        "en": "Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
+        "de": "Die Nonfarm-Löhne sollten im Juni um 115.000 steigen, und die Arbeitslosenquote sollte bei 4,3% bleiben."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-07",
-      "url": "https://www.marketwatch.com/story/rivians-stock-sale-triggers-worst-rout-for-the-shares-in-nearly-two-years-6791789e?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-02",
+      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
     }
   ]
 }
