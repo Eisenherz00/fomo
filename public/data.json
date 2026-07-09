@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-07-09T08:07:35.353963+00:00",
+  "generatedAt": "2026-07-09T18:14:55.162292+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "EmTech AI 2026：人工智能平台的崛起",
-        "en": "EmTech AI 2026: The Rise of the AI Platform",
-        "de": "EmTech AI 2026: Der Aufstieg der KI-Plattform"
+        "zh": "下载：核能里程碑，中国关注英伟达芯片",
+        "en": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+        "de": "Der Download: Ein nukleares Wahrzeichen, und China schaut auf Nvidia-Chips"
       },
       "summary": {
-        "zh": "2026年人工智能平台的崛起正在改变技术格局，推动各行业的创新和发展。企业正在加速采用AI平台，以提高效率和竞争力。",
-        "en": "The rise of AI platforms in 2026 is transforming the technological landscape, driving innovation and development across industries. Companies are accelerating the adoption of AI platforms to enhance efficiency and competitiveness.",
-        "de": "Der Aufstieg der KI-Plattformen im Jahr 2026 verändert die technologische Landschaft und treibt Innovation und Entwicklung in verschiedenen Branchen voran. Unternehmen beschleunigen die Einführung von KI-Plattformen, um Effizienz und Wettbewerbsfähigkeit zu steigern."
+        "zh": "今天的《下载》报道了美国核能的一个重要里程碑，以及中国对Nvidia芯片的关注，显示出全球技术领域的动态变化。",
+        "en": "Today's edition of The Download covers a significant milestone in U.S. nuclear energy and China's interest in Nvidia chips, highlighting the dynamic changes in the global tech landscape.",
+        "de": "Die heutige Ausgabe des Downloads behandelt einen bedeutenden Meilenstein in der US-Kernenergie und Chinas Interesse an Nvidia-Chips, was die dynamischen Veränderungen in der globalen Technologielandschaft unterstreicht."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-08",
-      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
+      "date": "2026-07-09",
+      "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：蠕虫对抗污染，地球工程面临现实",
-        "en": "The Download: worms fight pollution, and geoengineering faces reality",
-        "de": "Der Download: Würmer kämpfen gegen Verschmutzung, und Geoengineering steht vor der Realität"
+        "zh": "四个核反应堆在美国达成重大里程碑",
+        "en": "Four nuclear reactors hit a big milestone in the US",
+        "de": "Vier Kernreaktoren erreichen einen großen Meilenstein in den USA"
       },
       "summary": {
-        "zh": "本期下载介绍了利用蠕虫对抗污染的创新方法，以及地球工程面临的现实挑战。这些技术可能在环境保护中发挥重要作用。",
-        "en": "This edition of The Download discusses innovative methods of using worms to combat pollution and the real challenges faced by geoengineering. These technologies could play a significant role in environmental protection.",
-        "de": "In dieser Ausgabe des Downloads werden innovative Methoden zur Bekämpfung von Verschmutzung durch Würmer und die realen Herausforderungen des Geoengineerings behandelt. Diese Technologien könnten eine wichtige Rolle beim Umweltschutz spielen."
+        "zh": "美国的四个核反应堆达成了一个重要的里程碑，标志着核能发展的新阶段，具有重要的象征意义。",
+        "en": "Four nuclear reactors in the U.S. have reached an important milestone, marking a new phase in nuclear energy development with significant symbolic implications.",
+        "de": "Vier Kernreaktoren in den USA haben einen wichtigen Meilenstein erreicht, der eine neue Phase in der Entwicklung der Kernenergie markiert und bedeutende symbolische Implikationen hat."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-08",
-      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
+      "date": "2026-07-09",
+      "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "黑客可以利用9种流行的人工智能工具组装大型僵尸网络",
+        "zh": "黑客可以使用9种流行的AI工具组装大型僵尸网络",
         "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnets zusammenzustellen"
+        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
       },
       "summary": {
-        "zh": "最新研究表明，黑客可以利用多种流行的人工智能工具来组装大型僵尸网络，这一发现引发了对网络安全的担忧。",
-        "en": "Recent research indicates that hackers can utilize various popular AI tools to assemble massive botnets, raising concerns about cybersecurity.",
-        "de": "Jüngste Forschungen zeigen, dass Hacker verschiedene beliebte KI-Tools nutzen können, um massive Botnets zusammenzustellen, was Bedenken hinsichtlich der Cybersicherheit aufwirft."
+        "zh": "研究表明，黑客利用流行的人工智能工具可以轻松组装大型僵尸网络，这引发了对网络安全的新担忧。",
+        "en": "Research indicates that hackers can easily assemble massive botnets using popular AI tools, raising new concerns about cybersecurity.",
+        "de": "Forschungen zeigen, dass Hacker mit beliebten KI-Tools problemlos massive Botnetze zusammenstellen können, was neue Bedenken hinsichtlich der Cybersicherheit aufwirft."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-08",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "热带风暴梅萨克造成中国南方洪水，39人遇难",
-        "en": "Flooding from Tropical Storm Maysak kills 39 in southern China",
-        "de": "Überschwemmungen durch den tropischen Sturm Maysak fordern 39 Todesopfer im Süden Chinas"
+        "zh": "以色列对加沙的攻击在24小时内造成10人死亡，尽管有‘停火’",
+        "en": "Israeli attacks on Gaza kill 10 people in 24 hours despite ‘ceasefire’",
+        "de": "Israelische Angriffe auf Gaza töten innerhalb von 24 Stunden 10 Menschen trotz 'Waffenstillstand'"
       },
       "summary": {
-        "zh": "热带风暴梅萨克导致中国广西地区发生严重洪水，造成39人遇难，约130,000人被迫撤离，救援工作正在进行中。",
-        "en": "Tropical Storm Maysak has caused severe flooding in the Guangxi region of China, resulting in 39 fatalities and the evacuation of approximately 130,000 people, with rescue efforts underway.",
-        "de": "Der tropische Sturm Maysak hat im Guangxi-Gebiet Chinas schwere Überschwemmungen verursacht, die zu 39 Todesfällen und der Evakuierung von etwa 130.000 Menschen geführt haben, während die Rettungsarbeiten im Gange sind."
+        "zh": "以色列对加沙的空袭导致10人死亡，尽管存在停火协议，世界中央厨房对此次致命袭击表示谴责，并呼吁追究责任。",
+        "en": "Israeli airstrikes on Gaza have resulted in 10 deaths within 24 hours despite a ceasefire agreement, with World Central Kitchen condemning the deadly attack and calling for accountability.",
+        "de": "Israelische Luftangriffe auf Gaza haben innerhalb von 24 Stunden zu 10 Todesfällen geführt, trotz eines Waffenstillstands, wobei die World Central Kitchen den tödlichen Angriff verurteilt und zur Rechenschaft zieht."
       },
       "source": "Al Jazeera",
       "date": "2026-07-09",
-      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列空袭造成加沙9人遇难，包括两名儿童",
-        "en": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
-        "de": "Fotos: Israelische Angriffe töten neun Menschen, darunter zwei Kinder, im Gazastreifen"
+        "zh": "墨西哥将就ICE相关公民死亡事件向美国提起刑事投诉",
+        "en": "Mexico to seek US criminal complaints over ICE-related deaths of citizens",
+        "de": "Mexiko wird in den USA strafrechtliche Beschwerden über ICE-bezogene Todesfälle von Bürgern einreichen"
       },
       "summary": {
-        "zh": "以色列的空袭和枪击事件导致加沙地区9名巴勒斯坦人遇难，包括两名儿童，尽管双方达成了停火协议。",
-        "en": "Israeli airstrikes and gunfire have resulted in the deaths of nine Palestinians in Gaza, including two children, despite a ceasefire agreement between the parties.",
-        "de": "Israelische Luftangriffe und Schüsse haben im Gazastreifen neun Palästinenser getötet, darunter zwei Kinder, trotz eines Waffenstillstands zwischen den Parteien."
+        "zh": "墨西哥政府宣布将对ICE拘留期间公民死亡事件采取强硬措施，寻求在美国提起刑事投诉，这是其迄今为止最强烈的回应。",
+        "en": "The Mexican government has announced a strong response to the deaths of citizens in ICE custody, seeking to file criminal complaints in the U.S., marking its strongest stance yet.",
+        "de": "Die mexikanische Regierung hat eine starke Antwort auf die Todesfälle von Bürgern in ICE-Haft angekündigt und strebt an, in den USA strafrechtliche Beschwerden einzureichen, was ihre bisher stärkste Haltung darstellt."
       },
       "source": "Al Jazeera",
       "date": "2026-07-09",
-      "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/9/mexico-to-seek-us-criminal-complaints-over-ice-related-deaths-of-citizens?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普表示将把叙利亚从恐怖主义国家名单中移除",
-        "en": "Trump says he will remove Syria from the state sponsor of terrorism list",
-        "de": "Trump sagt, dass er Syrien von der Liste der staatlichen Terrorismusunterstützer streichen wird"
+        "zh": "巴勒斯坦立法选举定于11月28日举行",
+        "en": "Palestinian legislative elections set for November 28",
+        "de": "Palästinensische Parlamentswahlen für den 28. November angesetzt"
       },
       "summary": {
-        "zh": "美国总统特朗普在北约峰会上表示，将把叙利亚从美国的恐怖主义国家支持者名单中移除，此举引发了广泛关注。",
-        "en": "U.S. President Trump announced at the NATO summit that he will remove Syria from the U.S. state sponsor of terrorism list, a move that has garnered significant attention.",
-        "de": "US-Präsident Trump kündigte auf dem NATO-Gipfel an, dass er Syrien von der Liste der staatlichen Terrorismusunterstützer der USA streichen wird, eine Entscheidung, die erhebliche Aufmerksamkeit auf sich gezogen hat."
+        "zh": "巴勒斯坦总统马哈茂德·阿巴斯宣布，20年来首次举行立法选举，定于11月28日进行。",
+        "en": "Palestinian President Mahmoud Abbas has announced the first legislative elections in 20 years, scheduled for November 28.",
+        "de": "Der palästinensische Präsident Mahmoud Abbas hat die ersten Parlamentswahlen seit 20 Jahren angekündigt, die für den 28. November angesetzt sind."
       },
       "source": "Al Jazeera",
       "date": "2026-07-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/trump-says-he-will-remove-syria-from-the-state-sponsor-of-terrorism-list?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/9/palestinian-legislative-elections-set-for-november-28?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -106,12 +106,12 @@
       "title": {
         "zh": "中国6月消费者价格增长减弱，生产者通胀升至近4年高点",
         "en": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
-        "de": "Chinas Verbraucherpreisanstieg schwächt sich im Juni ab, während die Produzenteninflation auf fast 4-Jahres-Hoch steigt"
+        "de": "Chinas Verbraucherpreisanstieg schwächt sich im Juni ab, während die Produzenteninflation auf fast 4-Jahreshoch steigt"
       },
       "summary": {
-        "zh": "中国6月的消费者价格增长疲软，而生产者通胀则升至近四年来的最高水平，投资者对中国经济的两极化增长趋势表示关注。",
-        "en": "Consumer price growth in China weakened in June, while producer inflation rose to its highest level in nearly four years, leading investors to express concerns about the two-speed growth of the Chinese economy.",
-        "de": "Das Wachstum der Verbraucherpreise in China schwächte sich im Juni ab, während die Produzenteninflation auf den höchsten Stand seit fast vier Jahren stieg, was bei den Investoren Besorgnis über das zweigleisige Wachstum der chinesischen Wirtschaft auslöste."
+        "zh": "中国6月的消费者价格增长减弱，而生产者通胀则上升至近四年来的最高水平，反映出国内需求疲软与出口强劲的经济特征。",
+        "en": "China's consumer price growth weakened in June while producer inflation rose to a near four-year high, reflecting the economic characteristics of weak domestic demand and strong exports.",
+        "de": "Chinas Verbraucherpreisanstieg schwächte sich im Juni ab, während die Produzenteninflation auf ein fast vierjähriges Hoch stieg, was die wirtschaftlichen Merkmale schwacher inländischer Nachfrage und starker Exporte widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-09",
@@ -120,34 +120,33 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国6月就业增长放缓，失业率为4.2%",
-        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "de": "Die US-Beschäftigung wächst im Juni langsamer, mit einem Anstieg der Löhne um nur 57.000; Arbeitslosenquote bei 4,2%"
+        "zh": "求职者放弃：劳动参与率降至50年来最低水平",
+        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era"
       },
       "summary": {
-        "zh": "美国6月的非农就业人数仅增加57,000，低于预期，失业率保持在4.2%。这一数据反映出就业市场的疲软迹象。",
-        "en": "In June, U.S. nonfarm payrolls increased by only 57,000, falling short of expectations, while the unemployment rate remained steady at 4.2%. This data reflects signs of weakness in the labor market.",
-        "de": "Im Juni stiegen die US-Nichtlandwirtschaftlichen Löhne nur um 57.000, was hinter den Erwartungen zurückblieb, während die Arbeitslosenquote bei 4,2% stabil blieb. Diese Daten spiegeln Anzeichen von Schwäche auf dem Arbeitsmarkt wider."
+        "zh": "美国的劳动参与率降至50年来的最低水平，反映出求职者的放弃现象，尽管失业率有所下降。",
+        "en": "The labor force participation rate in the U.S. has fallen to its lowest level in 50 years, reflecting a trend of job seekers giving up, even as the unemployment rate has decreased.",
+        "de": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, was einen Trend zeigt, dass Arbeitssuchende aufgeben, obwohl die Arbeitslosenquote gesunken ist."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+      "date": "2026-07-09",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "油价因美国对伊朗的额外打击而上涨",
-        "en": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran",
-        "de": "Ölpreise steigen nach Stunden weiter an, nachdem US-Truppen zusätzliche Angriffe auf den Iran durchführen"
+        "zh": "房价创历史新高，加深可负担性危机",
+        "en": "Home prices hit new all-time high, deepening affordability woes",
+        "de": "Die Immobilienpreise erreichen ein neues Allzeithoch und vertiefen die Erschwinglichkeitsprobleme"
       },
       "summary": {
-        "zh": "在美国军队对伊朗进行额外打击后，油价在盘后交易中继续上涨，市场对中东局势的紧张感到担忧。",
-        "en": "Following additional strikes by U.S. forces on Iran, oil prices continued to rise in after-hours trading, with markets concerned about the escalating tensions in the Middle East.",
-        "de": "Nach zusätzlichen Angriffen der US-Truppen auf den Iran stiegen die Ölpreise im nachbörslichen Handel weiter an, da die Märkte besorgt über die eskalierenden Spannungen im Nahen Osten sind."
+        "zh": "最新数据显示，房价持续上涨，尽管买家从市场上撤退，但仍创下历史新高，进一步加深了可负担性危机。",
+        "en": "Recent data shows that home prices continue to rise, hitting a new all-time high even as buyers retreat from the market, further deepening the affordability crisis.",
+        "de": "Aktuelle Daten zeigen, dass die Immobilienpreise weiter steigen und ein neues Allzeithoch erreichen, während Käufer den Markt verlassen, was die Erschwinglichkeitskrise weiter vertieft."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-07-08",
-      "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories"
+      "date": "2026-07-09",
+      "url": "https://www.marketwatch.com/story/home-prices-hit-a-new-all-time-high-this-summer-2808d1a3?mod=mw_rss_topstories"
     }
   ]
 }
