@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T17:55:51.068978+00:00",
+  "generatedAt": "2026-07-09T08:07:35.353963+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "EmTech AI 2026: Der Aufstieg der KI-Plattform"
       },
       "summary": {
-        "zh": "2026年，人工智能平台的崛起正在改变技术生态系统，推动各行业的创新和效率提升。",
-        "en": "In 2026, the rise of AI platforms is transforming the technology ecosystem, driving innovation and efficiency across various industries.",
-        "de": "Im Jahr 2026 verändert der Aufstieg der KI-Plattformen das Technologiekosmos und treibt Innovation und Effizienz in verschiedenen Branchen voran."
+        "zh": "2026年人工智能平台的崛起正在改变技术格局，推动各行业的创新和发展。企业正在加速采用AI平台，以提高效率和竞争力。",
+        "en": "The rise of AI platforms in 2026 is transforming the technological landscape, driving innovation and development across industries. Companies are accelerating the adoption of AI platforms to enhance efficiency and competitiveness.",
+        "de": "Der Aufstieg der KI-Plattformen im Jahr 2026 verändert die technologische Landschaft und treibt Innovation und Entwicklung in verschiedenen Branchen voran. Unternehmen beschleunigen die Einführung von KI-Plattformen, um Effizienz und Wettbewerbsfähigkeit zu steigern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-08",
@@ -20,134 +20,134 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "黑客可以使用9种最流行的人工智能工具组装大型僵尸网络",
-        "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
+        "zh": "下载：蠕虫对抗污染，地球工程面临现实",
+        "en": "The Download: worms fight pollution, and geoengineering faces reality",
+        "de": "Der Download: Würmer kämpfen gegen Verschmutzung, und Geoengineering steht vor der Realität"
       },
       "summary": {
-        "zh": "黑客利用流行的人工智能工具来创建大规模的僵尸网络，利用这些工具的局限性进行攻击。",
-        "en": "Hackers are leveraging popular AI tools to create large-scale botnets, exploiting the limitations of these tools for attacks.",
-        "de": "Hacker nutzen beliebte KI-Tools, um groß angelegte Botnetze zu erstellen und die Einschränkungen dieser Tools für Angriffe auszunutzen."
+        "zh": "本期下载介绍了利用蠕虫对抗污染的创新方法，以及地球工程面临的现实挑战。这些技术可能在环境保护中发挥重要作用。",
+        "en": "This edition of The Download discusses innovative methods of using worms to combat pollution and the real challenges faced by geoengineering. These technologies could play a significant role in environmental protection.",
+        "de": "In dieser Ausgabe des Downloads werden innovative Methoden zur Bekämpfung von Verschmutzung durch Würmer und die realen Herausforderungen des Geoengineerings behandelt. Diese Technologien könnten eine wichtige Rolle beim Umweltschutz spielen."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-07-08",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
+      "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "美国稀土流向亚洲，国内需求缓慢增长",
-        "en": "US rare earths flow to Asia as domestic demand is slow to emerge",
-        "de": "US-Rohstoffe fließen nach Asien, während die inländische Nachfrage langsam wächst"
+        "zh": "黑客可以利用9种流行的人工智能工具组装大型僵尸网络",
+        "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnets zusammenzustellen"
       },
       "summary": {
-        "zh": "美国的稀土资源正在流向亚洲，尽管国内需求尚未显现，矿业公司仍在努力开发国内供应链。",
-        "en": "US rare earth resources are flowing to Asia, despite slow domestic demand, as mining companies work to develop a domestic supply chain.",
-        "de": "US-Rohstoffe fließen nach Asien, trotz langsamer inländischer Nachfrage, während Bergbauunternehmen daran arbeiten, eine inländische Lieferkette zu entwickeln."
+        "zh": "最新研究表明，黑客可以利用多种流行的人工智能工具来组装大型僵尸网络，这一发现引发了对网络安全的担忧。",
+        "en": "Recent research indicates that hackers can utilize various popular AI tools to assemble massive botnets, raising concerns about cybersecurity.",
+        "de": "Jüngste Forschungen zeigen, dass Hacker verschiedene beliebte KI-Tools nutzen können, um massive Botnets zusammenzustellen, was Bedenken hinsichtlich der Cybersicherheit aufwirft."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-08",
-      "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/"
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "北约承诺为乌克兰提供700亿欧元，特朗普赞扬和平“进展”",
-        "en": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-        "de": "NATO verspricht 70 Milliarden Euro für die Ukraine, während Trump den Frieden 'Fortschritt' lobt"
+        "zh": "热带风暴梅萨克造成中国南方洪水，39人遇难",
+        "en": "Flooding from Tropical Storm Maysak kills 39 in southern China",
+        "de": "Überschwemmungen durch den tropischen Sturm Maysak fordern 39 Todesopfer im Süden Chinas"
       },
       "summary": {
-        "zh": "北约宣布将向乌克兰提供700亿欧元的支持，特朗普在与泽连斯基的友好会晤中赞扬了和平进展。",
-        "en": "NATO has announced a pledge of 70 billion euros in support for Ukraine, with Trump praising peace progress during a friendly meeting with Zelenskyy.",
-        "de": "Die NATO hat eine Zusage von 70 Milliarden Euro zur Unterstützung der Ukraine angekündigt, während Trump den Fortschritt des Friedens während eines freundlichen Treffens mit Zelenskyy lobte."
+        "zh": "热带风暴梅萨克导致中国广西地区发生严重洪水，造成39人遇难，约130,000人被迫撤离，救援工作正在进行中。",
+        "en": "Tropical Storm Maysak has caused severe flooding in the Guangxi region of China, resulting in 39 fatalities and the evacuation of approximately 130,000 people, with rescue efforts underway.",
+        "de": "Der tropische Sturm Maysak hat im Guangxi-Gebiet Chinas schwere Überschwemmungen verursacht, die zu 39 Todesfällen und der Evakuierung von etwa 130.000 Menschen geführt haben, während die Rettungsarbeiten im Gange sind."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-08",
-      "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss"
+      "date": "2026-07-09",
+      "url": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国指控印度犯罪头目参与锡克活动家暗杀案",
-        "en": "US charges Indian crime leader in Sikh activist’s assassination",
-        "de": "US-Anklage gegen indischen Verbrechensführer im Mord an Sikh-Aktivisten"
+        "zh": "以色列空袭造成加沙9人遇难，包括两名儿童",
+        "en": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+        "de": "Fotos: Israelische Angriffe töten neun Menschen, darunter zwei Kinder, im Gazastreifen"
       },
       "summary": {
-        "zh": "美国指控一名印度犯罪头目与锡克活动家的暗杀案有关，此事件加剧了印度与加拿大之间的紧张关系。",
-        "en": "The US has charged an Indian crime leader in connection with the assassination of a Sikh activist, heightening tensions between India and Canada.",
-        "de": "Die USA haben einen indischen Verbrechensführer im Zusammenhang mit dem Mord an einem Sikh-Aktivisten angeklagt, was die Spannungen zwischen Indien und Kanada erhöht."
+        "zh": "以色列的空袭和枪击事件导致加沙地区9名巴勒斯坦人遇难，包括两名儿童，尽管双方达成了停火协议。",
+        "en": "Israeli airstrikes and gunfire have resulted in the deaths of nine Palestinians in Gaza, including two children, despite a ceasefire agreement between the parties.",
+        "de": "Israelische Luftangriffe und Schüsse haben im Gazastreifen neun Palästinenser getötet, darunter zwei Kinder, trotz eines Waffenstillstands zwischen den Parteien."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-08",
-      "url": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss"
+      "date": "2026-07-09",
+      "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普表示停火已“结束”，美国与伊朗互相打击",
-        "en": "Trump says ceasefire is 'over' after US and Iran trade strikes",
-        "de": "Trump sagt, der Waffenstillstand sei 'vorbei', nachdem die USA und der Iran Angriffe austauschten"
+        "zh": "特朗普表示将把叙利亚从恐怖主义国家名单中移除",
+        "en": "Trump says he will remove Syria from the state sponsor of terrorism list",
+        "de": "Trump sagt, dass er Syrien von der Liste der staatlichen Terrorismusunterstützer streichen wird"
       },
       "summary": {
-        "zh": "特朗普在北约峰会前表示，美国与伊朗之间的停火已结束，双方互相进行了军事打击。",
-        "en": "Trump stated that the ceasefire between the US and Iran is over, following military strikes exchanged between the two nations.",
-        "de": "Trump erklärte, dass der Waffenstillstand zwischen den USA und dem Iran vorbei sei, nachdem die beiden Länder militärische Angriffe ausgetauscht hatten."
+        "zh": "美国总统特朗普在北约峰会上表示，将把叙利亚从美国的恐怖主义国家支持者名单中移除，此举引发了广泛关注。",
+        "en": "U.S. President Trump announced at the NATO summit that he will remove Syria from the U.S. state sponsor of terrorism list, a move that has garnered significant attention.",
+        "de": "US-Präsident Trump kündigte auf dem NATO-Gipfel an, dass er Syrien von der Liste der staatlichen Terrorismusunterstützer der USA streichen wird, eine Entscheidung, die erhebliche Aufmerksamkeit auf sich gezogen hat."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-08",
-      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-09",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/9/trump-says-he-will-remove-syria-from-the-state-sponsor-of-terrorism-list?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "保险巨头表示将转向人工智能以取代多达1800个职位",
-        "en": "Insurance giant says it’s turning to AI to replace as many as 1,800 jobs",
-        "de": "Versicherungsgigant sagt, dass er auf KI umschwenkt, um bis zu 1.800 Stellen zu ersetzen"
+        "zh": "中国6月消费者价格增长减弱，生产者通胀升至近4年高点",
+        "en": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
+        "de": "Chinas Verbraucherpreisanstieg schwächt sich im Juni ab, während die Produzenteninflation auf fast 4-Jahres-Hoch steigt"
       },
       "summary": {
-        "zh": "安联合作伙伴公司计划通过人工智能取代多达1800个职位，反映出行业对自动化的日益依赖。",
-        "en": "Allianz Partners plans to replace up to 1,800 jobs with AI, reflecting the industry's increasing reliance on automation.",
-        "de": "Allianz Partners plant, bis zu 1.800 Stellen durch KI zu ersetzen, was die zunehmende Abhängigkeit der Branche von Automatisierung widerspiegelt."
+        "zh": "中国6月的消费者价格增长疲软，而生产者通胀则升至近四年来的最高水平，投资者对中国经济的两极化增长趋势表示关注。",
+        "en": "Consumer price growth in China weakened in June, while producer inflation rose to its highest level in nearly four years, leading investors to express concerns about the two-speed growth of the Chinese economy.",
+        "de": "Das Wachstum der Verbraucherpreise in China schwächte sich im Juni ab, während die Produzenteninflation auf den höchsten Stand seit fast vier Jahren stieg, was bei den Investoren Besorgnis über das zweigleisige Wachstum der chinesischen Wirtschaft auslöste."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-08",
-      "url": "https://www.marketwatch.com/story/insurance-giant-says-its-turning-to-ai-to-replace-as-many-as-1-800-jobs-13e60de2?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-09",
+      "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "油价在特朗普表示美伊停火结束后触及两周高点",
-        "en": "Oil prices touch two-week highs after Trump suggests U.S.-Iran cease-fire is over",
-        "de": "Ölpreise erreichen zweiwöchige Höchststände, nachdem Trump andeutet, dass der US-Iran-Waffenstillstand vorbei ist"
+        "zh": "美国6月就业增长放缓，失业率为4.2%",
+        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+        "de": "Die US-Beschäftigung wächst im Juni langsamer, mit einem Anstieg der Löhne um nur 57.000; Arbeitslosenquote bei 4,2%"
       },
       "summary": {
-        "zh": "在特朗普表示美伊停火结束后，油价触及两周以来的最高水平，市场对未来局势的担忧加剧。",
-        "en": "Oil prices have reached their highest levels in two weeks following Trump's statement that the US-Iran ceasefire is over, raising market concerns about future developments.",
-        "de": "Die Ölpreise haben nach Trumps Aussage, dass der US-Iran-Waffenstillstand vorbei ist, ihre höchsten Werte seit zwei Wochen erreicht, was die Marktsorgen über zukünftige Entwicklungen verstärkt."
+        "zh": "美国6月的非农就业人数仅增加57,000，低于预期，失业率保持在4.2%。这一数据反映出就业市场的疲软迹象。",
+        "en": "In June, U.S. nonfarm payrolls increased by only 57,000, falling short of expectations, while the unemployment rate remained steady at 4.2%. This data reflects signs of weakness in the labor market.",
+        "de": "Im Juni stiegen die US-Nichtlandwirtschaftlichen Löhne nur um 57.000, was hinter den Erwartungen zurückblieb, während die Arbeitslosenquote bei 4,2% stabil blieb. Diese Daten spiegeln Anzeichen von Schwäche auf dem Arbeitsmarkt wider."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-08",
-      "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-02",
+      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "为什么股市最大的滞后者可能是您抵御夏季抛售的最佳防御",
-        "en": "Why the stock market’s biggest laggards might be your best defense against a summer selloff",
-        "de": "Warum die größten Verlierer des Aktienmarktes Ihre beste Verteidigung gegen einen Sommerverkauf sein könnten"
+        "zh": "油价因美国对伊朗的额外打击而上涨",
+        "en": "Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran",
+        "de": "Ölpreise steigen nach Stunden weiter an, nachdem US-Truppen zusätzliche Angriffe auf den Iran durchführen"
       },
       "summary": {
-        "zh": "低波动性股票在经历了长时间的表现不佳后，正在成为投资者在夏季抛售中的最佳防御选择。",
-        "en": "Low-volatility stocks are emerging as the best defense for investors against summer selloffs after a prolonged period of underperformance.",
-        "de": "Aktien mit niedriger Volatilität erweisen sich nach einer längeren Phase der Underperformance als die beste Verteidigung für Investoren gegen Sommerverkäufe."
+        "zh": "在美国军队对伊朗进行额外打击后，油价在盘后交易中继续上涨，市场对中东局势的紧张感到担忧。",
+        "en": "Following additional strikes by U.S. forces on Iran, oil prices continued to rise in after-hours trading, with markets concerned about the escalating tensions in the Middle East.",
+        "de": "Nach zusätzlichen Angriffen der US-Truppen auf den Iran stiegen die Ölpreise im nachbörslichen Handel weiter an, da die Märkte besorgt über die eskalierenden Spannungen im Nahen Osten sind."
       },
       "source": "MarketWatch – Top Stories",
       "date": "2026-07-08",
-      "url": "https://www.marketwatch.com/story/why-the-stock-markets-biggest-laggards-might-be-your-best-defense-against-a-summer-selloff-be079d8e?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories"
     }
   ]
 }
