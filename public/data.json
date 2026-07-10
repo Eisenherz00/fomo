@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-07-10T08:00:06.214115+00:00",
+  "generatedAt": "2026-07-10T18:05:22.189773+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "Anthropic发现了一个隐藏空间，Claude在其中思考概念",
+        "zh": "下载：Claude的内部工作和OpenAI的“超级应用”",
+        "en": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+        "de": "Der Download: Claudes innere Funktionsweise und OpenAIs „Super-App“"
+      },
+      "summary": {
+        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括Claude的内部工作和OpenAI的超级应用的最新进展。",
+        "en": "Today's edition of The Download provides the latest updates from the world of technology, including insights into Claude's inner workings and developments regarding OpenAI's super app.",
+        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich Einblicke in Claudes innere Funktionsweise und Entwicklungen bezüglich OpenAIs Super-App."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-07-10",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "Anthropic发现Claude思考概念的隐藏空间",
         "en": "Anthropic found a hidden space where Claude puzzles over concepts",
         "de": "Anthropic fand einen versteckten Raum, in dem Claude über Konzepte nachdenkt"
       },
       "summary": {
-        "zh": "AI公司Anthropic开发了一种技术，使其能够更清晰地了解大型语言模型内部的运作。这一发现为理解AI的工作原理提供了新的视角。",
-        "en": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models. This discovery offers new insights into understanding AI operations.",
-        "de": "Das KI-Unternehmen Anthropic hat eine Technik entwickelt, die ihm den klarsten Einblick in das gibt, was in großen Sprachmodellen wirklich vor sich geht. Diese Entdeckung bietet neue Einblicke in das Verständnis von KI-Operationen."
+        "zh": "AI公司Anthropic开发了一种新技术，使其能够更清楚地了解大型语言模型内部的工作机制，揭示了Claude在思考概念时的隐藏空间。",
+        "en": "AI firm Anthropic has developed a new technique that provides clearer insights into the inner workings of large language models, revealing a hidden space where Claude puzzles over concepts.",
+        "de": "Die KI-Firma Anthropic hat eine neue Technik entwickelt, die klarere Einblicke in die Funktionsweise großer Sprachmodelle bietet und einen versteckten Raum offenbart, in dem Claude über Konzepte nachdenkt."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-09",
       "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "补丁修复Windows Defender零日漏洞，可能允许攻击者填满硬盘",
-        "en": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
-        "de": "Patch für Windows Defender 0-Day könnte Angreifern erlauben, die Festplatte zu füllen"
-      },
-      "summary": {
-        "zh": "Windows Defender的一个零日漏洞被发现，攻击者可能利用该漏洞填满用户的硬盘。此事件引发了对网络安全的关注。",
-        "en": "A zero-day vulnerability in Windows Defender has been discovered, potentially allowing attackers to fill users' hard disks. This incident raises concerns about cybersecurity.",
-        "de": "Eine Zero-Day-Sicherheitsanfälligkeit in Windows Defender wurde entdeckt, die Angreifern möglicherweise ermöglicht, die Festplatten der Benutzer zu füllen. Dieser Vorfall wirft Bedenken hinsichtlich der Cybersicherheit auf."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-07-09",
-      "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "黑客可以使用9种最流行的AI工具组装大型僵尸网络",
+        "zh": "黑客可以使用9种最受欢迎的AI工具组装庞大的僵尸网络",
         "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnets zusammenzustellen"
+        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
       },
       "summary": {
-        "zh": "研究表明，黑客能够利用流行的AI工具创建大规模的僵尸网络。这一趋势引发了对AI技术滥用的担忧。",
-        "en": "Research indicates that hackers can leverage popular AI tools to create large-scale botnets. This trend raises concerns about the misuse of AI technology.",
-        "de": "Forschungen zeigen, dass Hacker beliebte KI-Tools nutzen können, um großangelegte Botnets zu erstellen. Dieser Trend wirft Bedenken hinsichtlich des Missbrauchs von KI-Technologie auf."
+        "zh": "研究表明，黑客能够利用多种流行的AI工具来组装大规模的僵尸网络，这一现象引发了对网络安全的担忧。",
+        "en": "Research indicates that hackers can leverage various popular AI tools to assemble massive botnets, raising concerns about cybersecurity.",
+        "de": "Forschungen zeigen, dass Hacker verschiedene beliebte KI-Tools nutzen können, um massive Botnetze zusammenzustellen, was Bedenken hinsichtlich der Cybersicherheit aufwirft."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-08",
@@ -54,50 +54,49 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国正在建立针对伊朗的新压力架构",
-        "en": "The US is building a new pressure architecture against Iran",
-        "de": "Die USA bauen eine neue Druckarchitektur gegen den Iran auf"
+        "zh": "俄罗斯攻击造成四人死亡，乌克兰继续瞄准石油基础设施",
+        "en": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
+        "de": "Russische Angriffe töten vier, während die Ukraine weiterhin Öl-Infrastruktur angreift"
       },
       "summary": {
-        "zh": "美国正在通过重塑伊朗周边地区来削弱德黑兰，特朗普的北约外交是这一更广泛努力的一部分。",
-        "en": "The US is working to weaken Tehran by reshaping the region around it, with Trump's NATO diplomacy being part of this broader effort.",
-        "de": "Die USA arbeiten daran, Teheran zu schwächen, indem sie die Region um es herum umgestalten, wobei Trumps NATO-Diplomatie Teil dieses umfassenderen Bemühens ist."
+        "zh": "乌克兰官员表示，俄罗斯对克拉马托尔斯克的攻击造成四人死亡，包括一名青少年，并造成九人受伤。",
+        "en": "Ukrainian officials report that Russia's attack on Kramatorsk killed four, including a teenager, and injured nine.",
+        "de": "Ukrainische Beamte berichten, dass der russische Angriff auf Kramatorsk vier Menschen, darunter einen Teenager, tötete und neun verletzte."
       },
       "source": "Al Jazeera",
       "date": "2026-07-10",
-      "url": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乌克兰特工被控谋杀摩纳哥炸弹嫌疑人，改变了故事",
-        "en": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-        "de": "Ukrainischer Agent, der des Mordes an einem Bombenverdächtigen aus Monaco beschuldigt wird, ändert die Geschichte"
+        "zh": "特朗普暗示在霍尔木兹海域交火后进一步与伊朗谈判",
+        "en": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
+        "de": "Trump deutet nach Schusswechsel über Hormuz auf weitere Iran-Verhandlungen hin"
       },
       "summary": {
-        "zh": "一名与乌克兰安全服务有关的两名男子被指控杀害安娜斯塔西娅·别列佐夫斯卡，并将她的尸体抛弃在树林中。案件的细节引发了广泛关注。",
-        "en": "Two men linked to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in the woods. The details of the case have drawn significant attention.",
-        "de": "Zwei Männer, die mit den Sicherheitsdiensten der Ukraine in Verbindung stehen, werden beschuldigt, Anastasiia Berezovska getötet und ihren Körper im Wald entsorgt zu haben. Die Einzelheiten des Falls haben erhebliche Aufmerksamkeit erregt."
+        "zh": "特朗普表示，美国已同意继续与伊朗进行谈判，尽管新一轮攻击威胁着全面恢复战争。",
+        "en": "Trump stated that the U.S. has agreed to continue negotiations with Iran, despite new attacks threatening a full resumption of war.",
+        "de": "Trump erklärte, dass die USA zugestimmt haben, die Verhandlungen mit dem Iran fortzusetzen, trotz neuer Angriffe, die eine vollständige Wiederaufnahme des Krieges bedrohen."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-10",
+      "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "巴勒斯坦人在以色列空袭中遇难的世界杯放映组织者哀悼",
-        "en": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "de": "Palästinenser trauern um den in einem israelischen Angriff getöteten Organisator von WM-Übertragungen in Gaza"
+        "zh": "特朗普拒绝签署美国住房法案，因投票法案僵局",
+        "en": "Trump refuses to sign US housing bill over voting act standoff"
       },
       "summary": {
-        "zh": "人道主义工作者穆罕默德·阿尔-瓦希迪在以色列-哈马斯战争期间成为著名的人道主义人物，最近在空袭中遇难。",
-        "en": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war and was recently killed in an airstrike.",
-        "de": "Der Hilfsarbeiter Mohammed al-Wahidi war während des Israel-Hamas-Kriegs zu einer prominenten humanitären Figur geworden und wurde kürzlich bei einem Luftangriff getötet."
+        "zh": "特朗普拒绝签署住房法案，尽管该法案将在午夜成为法律，无论他是否签字。",
+        "en": "Trump refuses to sign the housing bill, although it will become law at midnight with or without his signature.",
+        "de": "Trump weigert sich, das Wohnungsbaugesetz zu unterzeichnen, obwohl es um Mitternacht mit oder ohne seine Unterschrift Gesetz werden wird."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-09",
-      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-10",
+      "url": "https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -106,12 +105,12 @@
       "title": {
         "zh": "中国6月消费者价格增长减弱，生产者通胀升至近4年高点",
         "en": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
-        "de": "Chinas Verbraucherpreisanstieg schwächt sich im Juni ab, während die Produzenteninflation auf fast 4-Jahres-Hoch steigt"
+        "de": "Chinas Verbraucherpreisanstieg schwächt sich im Juni ab, während die Erzeugerinflation auf fast 4-Jahreshoch steigt"
       },
       "summary": {
-        "zh": "中国的消费者价格增长在6月减弱，而生产者通胀则升至近四年来的最高水平。投资者对中国经济的两极化增长持日益关注的态度。",
-        "en": "China's consumer price growth weakened in June, while producer inflation rose to its highest level in nearly four years. Investors are increasingly concerned about the two-speed growth of the Chinese economy.",
-        "de": "Das Wachstum der Verbraucherpreise in China schwächte sich im Juni ab, während die Produzenteninflation auf den höchsten Stand seit fast vier Jahren stieg. Investoren sind zunehmend besorgt über das zweigleisige Wachstum der chinesischen Wirtschaft."
+        "zh": "投资者越来越认为，中国的双速增长，强劲的出口和疲软的国内需求，将成为中国经济的长期特征。",
+        "en": "Investors increasingly view China's two-speed growth, characterized by robust exports and tepid domestic demand, as a defining long-term feature of the Chinese economy.",
+        "de": "Investoren betrachten Chinas zweigleisiges Wachstum, das durch robuste Exporte und schwache Inlandsnachfrage gekennzeichnet ist, zunehmend als ein prägendes langfristiges Merkmal der chinesischen Wirtschaft."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-09",
@@ -120,34 +119,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "SK海力士在美国首次公开募股中筹集265亿美元",
-        "en": "South Korea’s SK Hynix raises $26.5bn in record-breaking US IPO",
-        "de": "SK Hynix aus Südkorea erzielt 26,5 Milliarden US-Dollar bei einem Rekord-IPO in den USA"
+        "zh": "美国劳动力参与率降至50年来最低水平，求职者放弃",
+        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+        "de": "Job-Suchende geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
       },
       "summary": {
-        "zh": "韩国芯片巨头SK海力士在美国首次公开募股中筹集了265亿美元，创下外国公司在美国上市的最大规模。这一事件引发了市场的广泛关注。",
-        "en": "South Korean chip giant SK Hynix raised $26.5 billion in a record-breaking IPO in the US, marking the largest debut by a foreign firm in the US. This event has garnered significant market attention.",
-        "de": "Der südkoreanische Chipgigant SK Hynix hat bei einem Rekord-IPO in den USA 26,5 Milliarden US-Dollar gesammelt, was den größten Debüt eines ausländischen Unternehmens in den USA markiert. Dieses Ereignis hat erhebliche Aufmerksamkeit auf dem Markt erregt."
+        "zh": "失业率的下降为本次令人失望的就业报告提供了一些积极因素，但原因却是错误的。",
+        "en": "The drop in the unemployment rate provided some upside to an otherwise disappointing jobs report, but it was for all the wrong reasons.",
+        "de": "Der Rückgang der Arbeitslosenquote brachte einige positive Aspekte in einen ansonsten enttäuschenden Arbeitsmarktbericht, jedoch aus den falschen Gründen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-07-10",
-      "url": "https://www.aljazeera.com/economy/2026/7/10/south-koreas-sk-hynix-raises-26-5bn-in-record-breaking-us-ipo?traffic_source=rss"
+      "source": "CNBC – Markets",
+      "date": "2026-07-09",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "易捷航空的竞标战爆发，阿波罗超越竞争对手的私募股权集团的出价",
-        "en": "Bidding war breaks out for easyJet as Apollo tops rival private-equity group’s bid",
-        "de": "Bietergefecht um easyJet bricht aus, da Apollo das Angebot einer rivalisierenden Private-Equity-Gruppe übertrifft"
+        "zh": "美国6月就业增长放缓，非农就业人数仅增加57,000；失业率为4.2%",
+        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+        "de": "US-Arbeitsplatzschaffung kühlt sich im Juni mit einem Wachstum der Löhne um nur 57.000 ab; Arbeitslosenquote bei 4,2%"
       },
       "summary": {
-        "zh": "易捷航空的竞标战正在进行，阿波罗投资公司超越了竞争对手的出价。这一事件可能会对航空市场产生重大影响。",
-        "en": "A bidding war is underway for easyJet, with Apollo surpassing a rival private-equity group's bid. This event could have significant implications for the airline market.",
-        "de": "Ein Bietergefecht um easyJet ist im Gange, wobei Apollo das Angebot einer rivalisierenden Private-Equity-Gruppe übertrifft. Dieses Ereignis könnte erhebliche Auswirkungen auf den Flugmarkt haben."
+        "zh": "6月非农就业人数预计将增加115,000，而失业率保持在4.3%。",
+        "en": "Nonfarm payrolls were expected to rise by 115,000 in June, with the unemployment rate holding steady at 4.3%.",
+        "de": "Die Nonfarm-Löhne sollten im Juni um 115.000 steigen, während die Arbeitslosenquote bei 4,3% stabil bleiben sollte."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-10",
-      "url": "https://www.marketwatch.com/story/bidding-war-breaks-out-for-easyjet-as-apollo-tops-rival-private-equity-groups-bid-d75ffd3c?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-02",
+      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
     }
   ]
 }
