@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T18:05:22.189773+00:00",
+  "generatedAt": "2026-07-11T06:36:57.547620+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Claudes innere Funktionsweise und OpenAIs „Super-App“"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括Claude的内部工作和OpenAI的超级应用的最新进展。",
-        "en": "Today's edition of The Download provides the latest updates from the world of technology, including insights into Claude's inner workings and developments regarding OpenAI's super app.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich Einblicke in Claudes innere Funktionsweise und Entwicklungen bezüglich OpenAIs Super-App."
+        "zh": "本期《下载》提供了关于Claude的内部工作和OpenAI新“超级应用”的最新信息，展示了技术领域的最新动态。",
+        "en": "This edition of The Download provides the latest insights into Claude's inner workings and OpenAI's new 'super app', showcasing the latest developments in the tech sector.",
+        "de": "Diese Ausgabe des Downloads bietet die neuesten Einblicke in Claudes innere Funktionsweise und OpenAIs neue „Super-App“ und zeigt die neuesten Entwicklungen im Technologiesektor."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-10",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "Anthropic发现Claude思考概念的隐藏空间",
         "en": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "de": "Anthropic fand einen versteckten Raum, in dem Claude über Konzepte nachdenkt"
+        "de": "Anthropic fand einen verborgenen Raum, in dem Claude über Konzepte nachdenkt"
       },
       "summary": {
-        "zh": "AI公司Anthropic开发了一种新技术，使其能够更清楚地了解大型语言模型内部的工作机制，揭示了Claude在思考概念时的隐藏空间。",
-        "en": "AI firm Anthropic has developed a new technique that provides clearer insights into the inner workings of large language models, revealing a hidden space where Claude puzzles over concepts.",
-        "de": "Die KI-Firma Anthropic hat eine neue Technik entwickelt, die klarere Einblicke in die Funktionsweise großer Sprachmodelle bietet und einen versteckten Raum offenbart, in dem Claude über Konzepte nachdenkt."
+        "zh": "Anthropic开发了一种新技术，使其能够更清晰地观察大型语言模型内部的运作，揭示了Claude在理解概念时的思考过程。",
+        "en": "Anthropic has developed a new technique that allows it to observe the inner workings of large language models more clearly, revealing Claude's thought processes in understanding concepts.",
+        "de": "Anthropic hat eine neue Technik entwickelt, die es ermöglicht, die inneren Abläufe großer Sprachmodelle klarer zu beobachten und Claudes Denkprozesse beim Verständnis von Konzepten zu enthüllen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-09",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "黑客可以使用9种最受欢迎的AI工具组装庞大的僵尸网络",
+        "zh": "黑客可以使用9种最流行的AI工具组装大型僵尸网络",
         "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
         "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
       },
       "summary": {
-        "zh": "研究表明，黑客能够利用多种流行的AI工具来组装大规模的僵尸网络，这一现象引发了对网络安全的担忧。",
-        "en": "Research indicates that hackers can leverage various popular AI tools to assemble massive botnets, raising concerns about cybersecurity.",
-        "de": "Forschungen zeigen, dass Hacker verschiedene beliebte KI-Tools nutzen können, um massive Botnetze zusammenzustellen, was Bedenken hinsichtlich der Cybersicherheit aufwirft."
+        "zh": "研究表明，黑客能够利用流行的AI工具来组装大规模的僵尸网络，这一现象引发了对网络安全的广泛关注。",
+        "en": "Research indicates that hackers can utilize popular AI tools to assemble massive botnets, raising significant concerns about cybersecurity.",
+        "de": "Forschungen zeigen, dass Hacker beliebte KI-Tools nutzen können, um massive Botnetze zusammenzustellen, was erhebliche Bedenken hinsichtlich der Cybersicherheit aufwirft."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-08",
@@ -54,99 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯攻击造成四人死亡，乌克兰继续瞄准石油基础设施",
-        "en": "Russian attacks kill four as Ukraine continues to target oil infrastructure",
-        "de": "Russische Angriffe töten vier, während die Ukraine weiterhin Öl-Infrastruktur angreift"
+        "zh": "委内瑞拉医生在地震后将餐厅改造成诊所",
+        "en": "Venezuelan doctors convert restaurant into a clinic after earthquake",
+        "de": "Venezolanische Ärzte verwandeln Restaurant nach Erdbeben in eine Klinik"
       },
       "summary": {
-        "zh": "乌克兰官员表示，俄罗斯对克拉马托尔斯克的攻击造成四人死亡，包括一名青少年，并造成九人受伤。",
-        "en": "Ukrainian officials report that Russia's attack on Kramatorsk killed four, including a teenager, and injured nine.",
-        "de": "Ukrainische Beamte berichten, dass der russische Angriff auf Kramatorsk vier Menschen, darunter einen Teenager, tötete und neun verletzte."
+        "zh": "在委内瑞拉的拉瓜伊拉，志愿者将一家快餐店改造成紧急诊所，以应对地震后的医疗需求。",
+        "en": "In La Guaira, Venezuela, volunteers have transformed a fast-food restaurant into an emergency clinic to address medical needs following an earthquake.",
+        "de": "In La Guaira, Venezuela, haben Freiwillige ein Fast-Food-Restaurant in eine Notfallklinik umgewandelt, um den medizinischen Bedarf nach einem Erdbeben zu decken."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-10",
-      "url": "https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss"
+      "date": "2026-07-11",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/venezuelan-doctors-convert-restaurant-into-a-clinic-after-earthquake?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普暗示在霍尔木兹海域交火后进一步与伊朗谈判",
-        "en": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-        "de": "Trump deutet nach Schusswechsel über Hormuz auf weitere Iran-Verhandlungen hin"
+        "zh": "美国希望伊朗承诺停止在霍尔木兹海峡向船只开火",
+        "en": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+        "de": "Die USA wollen, dass Iran verspricht, das Schießen auf Schiffe im Persischen Golf einzustellen"
       },
       "summary": {
-        "zh": "特朗普表示，美国已同意继续与伊朗进行谈判，尽管新一轮攻击威胁着全面恢复战争。",
-        "en": "Trump stated that the U.S. has agreed to continue negotiations with Iran, despite new attacks threatening a full resumption of war.",
-        "de": "Trump erklärte, dass die USA zugestimmt haben, die Verhandlungen mit dem Iran fortzusetzen, trotz neuer Angriffe, die eine vollständige Wiederaufnahme des Krieges bedrohen."
+        "zh": "美国副总统JD·范斯将参与即将于周六在阿曼恢复的谈判，旨在促使伊朗承诺停止在霍尔木兹海峡的攻击行为。",
+        "en": "US Vice President JD Vance is set to participate in negotiations resuming on Saturday in Oman, aimed at urging Iran to pledge to cease attacks on ships in the Strait of Hormuz.",
+        "de": "Der US-Vizepräsident JD Vance wird an Verhandlungen teilnehmen, die am Samstag in Oman wieder aufgenommen werden, um Iran zu drängen, das Versprechen abzugeben, Angriffe auf Schiffe im Persischen Golf einzustellen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-07-10",
-      "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-07-11",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普拒绝签署美国住房法案，因投票法案僵局",
-        "en": "Trump refuses to sign US housing bill over voting act standoff"
+        "zh": "Meta因隐私反弹而撤回Instagram的AI图像功能",
+        "en": "Meta backtracks on AI-image feature for Instagram due to privacy backlash",
+        "de": "Meta zieht die KI-Bildfunktion für Instagram aufgrund von Datenschutzreaktionen zurück"
       },
       "summary": {
-        "zh": "特朗普拒绝签署住房法案，尽管该法案将在午夜成为法律，无论他是否签字。",
-        "en": "Trump refuses to sign the housing bill, although it will become law at midnight with or without his signature.",
-        "de": "Trump weigert sich, das Wohnungsbaugesetz zu unterzeichnen, obwohl es um Mitternacht mit oder ohne seine Unterschrift Gesetz werden wird."
+        "zh": "Meta在推出AI图像功能后面临广泛的隐私和同意问题，决定撤回该功能以应对用户的强烈反对。",
+        "en": "Meta has decided to retract its AI image feature for Instagram following widespread backlash over privacy and consent issues from users.",
+        "de": "Meta hat beschlossen, die KI-Bildfunktion für Instagram aufgrund weit verbreiteter Rückmeldungen von Nutzern zu Datenschutz- und Einwilligungsfragen zurückzuziehen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-10",
-      "url": "https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss"
+      "date": "2026-07-11",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/meta-backtracks-on-ai-image-feature-for-instagram-due-to-privacy-backlash?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "中国6月消费者价格增长减弱，生产者通胀升至近4年高点",
-        "en": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
-        "de": "Chinas Verbraucherpreisanstieg schwächt sich im Juni ab, während die Erzeugerinflation auf fast 4-Jahreshoch steigt"
+        "zh": "苹果起诉OpenAI，指控其盗窃机密信息——并称这只是“冰山一角”",
+        "en": "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’",
+        "de": "Apple verklagt OpenAI wegen angeblichen Diebstahls vertraulicher Informationen – und sagt, das sei nur „die Spitze des Eisbergs“"
       },
       "summary": {
-        "zh": "投资者越来越认为，中国的双速增长，强劲的出口和疲软的国内需求，将成为中国经济的长期特征。",
-        "en": "Investors increasingly view China's two-speed growth, characterized by robust exports and tepid domestic demand, as a defining long-term feature of the Chinese economy.",
-        "de": "Investoren betrachten Chinas zweigleisiges Wachstum, das durch robuste Exporte und schwache Inlandsnachfrage gekennzeichnet ist, zunehmend als ein prägendes langfristiges Merkmal der chinesischen Wirtschaft."
+        "zh": "苹果公司在一项诉讼中指控OpenAI进行不当行为，称其新兴的硬件业务存在严重问题，并暗示可能还有更多问题待揭露。",
+        "en": "Apple has filed a lawsuit against OpenAI, alleging misconduct and claiming that its nascent hardware business is deeply flawed, suggesting that there may be more issues to uncover.",
+        "de": "Apple hat eine Klage gegen OpenAI eingereicht und behauptet, dass Fehlverhalten vorliegt und dass das aufstrebende Hardwaregeschäft von OpenAI schwerwiegende Mängel aufweist, was darauf hindeutet, dass es möglicherweise weitere Probleme zu entdecken gibt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-09",
-      "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-10",
+      "url": "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国劳动力参与率降至50年来最低水平，求职者放弃",
-        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
-        "de": "Job-Suchende geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
+        "zh": "Meta的股票复苏，创下多年来最佳周表现",
+        "en": "Meta’s stock roars back to life as it notches its best week in years",
+        "de": "Metas Aktie erwacht zum Leben und erzielt die beste Woche seit Jahren"
       },
       "summary": {
-        "zh": "失业率的下降为本次令人失望的就业报告提供了一些积极因素，但原因却是错误的。",
-        "en": "The drop in the unemployment rate provided some upside to an otherwise disappointing jobs report, but it was for all the wrong reasons.",
-        "de": "Der Rückgang der Arbeitslosenquote brachte einige positive Aspekte in einen ansonsten enttäuschenden Arbeitsmarktbericht, jedoch aus den falschen Gründen."
+        "zh": "Meta的股票因其新的低成本AI定价和基础设施计划而受到投资者的热烈追捧，创下多年来的最佳周表现。",
+        "en": "Meta's stock has seen a resurgence due to investor enthusiasm for its new low-cost AI pricing and infrastructure plans, achieving its best week in years.",
+        "de": "Metas Aktie hat aufgrund des Anlegerinteresses an den neuen kostengünstigen KI-Preismodellen und Infrastrukturplänen einen Aufschwung erlebt und die beste Woche seit Jahren erzielt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-09",
-      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-10",
+      "url": "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国6月就业增长放缓，非农就业人数仅增加57,000；失业率为4.2%",
-        "en": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
-        "de": "US-Arbeitsplatzschaffung kühlt sich im Juni mit einem Wachstum der Löhne um nur 57.000 ab; Arbeitslosenquote bei 4,2%"
+        "zh": "SK海力士的股票在纳斯达克首秀中大幅上涨",
+        "en": "SK Hynix’s stock sees double-digit pop in Nasdaq debut",
+        "de": "SK Hynixs Aktie erlebt bei Nasdaq-Debüt einen zweistelligen Anstieg"
       },
       "summary": {
-        "zh": "6月非农就业人数预计将增加115,000，而失业率保持在4.3%。",
-        "en": "Nonfarm payrolls were expected to rise by 115,000 in June, with the unemployment rate holding steady at 4.3%.",
-        "de": "Die Nonfarm-Löhne sollten im Juni um 115.000 steigen, während die Arbeitslosenquote bei 4,3% stabil bleiben sollte."
+        "zh": "韩国内存芯片制造商SK海力士的美国存托凭证在周五开始交易，并在首日交易中上涨近13%。",
+        "en": "South Korean memory chip maker SK Hynix's American depositary receipts began trading on Friday, logging gains of nearly 13% on their debut.",
+        "de": "Die amerikanischen Depotzertifikate des südkoreanischen Speicherchip-Herstellers SK Hynix begannen am Freitag mit dem Handel und verzeichneten am Debüt fast 13 % Zuwachs."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-02",
-      "url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-10",
+      "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories"
     }
   ]
 }
