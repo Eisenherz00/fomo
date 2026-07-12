@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T17:27:02.061009+00:00",
+  "generatedAt": "2026-07-12T07:07:52.052457+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Claudes innere Funktionsweise und OpenAIs „Super-App“"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于Claude的内部工作和OpenAI新推出的“超级应用”的最新消息。",
-        "en": "Today's edition of The Download provides the latest on Claude's inner workings and OpenAI's newly launched 'super app'.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Informationen über Claudes innere Funktionsweise und die neu eingeführte 'Super-App' von OpenAI."
+        "zh": "今天的《下载》提供了关于Claude的内部工作和OpenAI新推出的“超级应用”的最新信息。",
+        "en": "Today's edition of The Download provides the latest insights into Claude's inner workings and the newly launched 'super app' by OpenAI.",
+        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Einblicke in Claudes innere Funktionsweise und die neu eingeführte „Super-App“ von OpenAI."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-10",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "Anthropic发现Claude思考概念的隐藏空间",
+        "zh": "Anthropic发现了一个隐藏空间，Claude在其中思考概念",
         "en": "Anthropic found a hidden space where Claude puzzles over concepts",
         "de": "Anthropic fand einen versteckten Raum, in dem Claude über Konzepte nachdenkt"
       },
       "summary": {
         "zh": "AI公司Anthropic开发了一种技术，使其能够更清晰地了解大型语言模型内部的运作机制。",
-        "en": "AI firm Anthropic has developed a technique that provides a clearer understanding of the internal workings of large language models.",
-        "de": "Die KI-Firma Anthropic hat eine Technik entwickelt, die ein klareres Verständnis der internen Funktionsweise großer Sprachmodelle ermöglicht."
+        "en": "AI firm Anthropic has developed a technique that provides a clearer understanding of the inner workings of large language models.",
+        "de": "Die KI-Firma Anthropic hat eine Technik entwickelt, die ein klareres Verständnis der inneren Funktionsweise großer Sprachmodelle ermöglicht."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-09",
@@ -41,9 +41,9 @@
         "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
       },
       "summary": {
-        "zh": "黑客利用大型语言模型的局限性，能够通过9种流行的AI工具组装强大的僵尸网络。",
-        "en": "Hackers are leveraging the limitations of large language models to assemble powerful botnets using nine popular AI tools.",
-        "de": "Hacker nutzen die Einschränkungen großer Sprachmodelle, um mit neun beliebten KI-Tools leistungsstarke Botnetze zusammenzustellen."
+        "zh": "研究表明，黑客利用大型语言模型的局限性来创建强大的僵尸网络，称为“HalluSquatting”。",
+        "en": "Research indicates that hackers are leveraging the limitations of large language models to create powerful botnets, referred to as 'HalluSquatting'.",
+        "de": "Forschungen zeigen, dass Hacker die Einschränkungen großer Sprachmodelle nutzen, um leistungsstarke Botnetze zu erstellen, die als „HalluSquatting“ bezeichnet werden."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-08",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "由于山体滑坡威胁印度村庄，进行撤离，建筑公司被指责",
-        "en": "Evacuations as landslide threatens Indian village, construction firm blamed",
-        "de": "Evakuierungen, da ein Erdrutsch ein indisches Dorf bedroht, Bauunternehmen beschuldigt"
+        "zh": "美国参议员林赛·格雷厄姆去世",
+        "en": "US Senator Lindsey Graham passes away",
+        "de": "US-Senator Lindsey Graham verstorben"
       },
       "summary": {
-        "zh": "在印度希姆拉，因大雨引发的山体滑坡迫使村民撤离，建筑公司被指责为事故的原因。",
-        "en": "In Shimla, India, a landslide triggered by heavy rains has forced villagers to evacuate, with a construction firm being blamed for the incident.",
-        "de": "In Shimla, Indien, hat ein durch starke Regenfälle ausgelöster Erdrutsch die Dorfbewohner zur Evakuierung gezwungen, wobei ein Bauunternehmen für den Vorfall verantwortlich gemacht wird."
+        "zh": "这是一个突发新闻，林赛·格雷厄姆参议员的去世引发了广泛的关注和哀悼。",
+        "en": "This is a breaking news story, and the passing of Senator Lindsey Graham has sparked widespread attention and mourning.",
+        "de": "Dies ist eine Breaking-News-Geschichte, und der Tod von Senator Lindsey Graham hat weit verbreitete Aufmerksamkeit und Trauer ausgelöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/evacuations-as-landslide-threatens-indian-village-construction-firm-blamed?traffic_source=rss"
+      "date": "2026-07-12",
+      "url": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗-美国言辞加剧，霍尔木兹航运成为焦点",
-        "en": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-        "de": "Hormuz-Shipping im Fokus, während die Rhetorik zwischen Iran und den USA ansteigt"
+        "zh": "加纳奴隶制道歉：为什么许多后代认为言辞不足以弥补",
+        "en": "Ghana slavery apology: Why many descendants say words are not enough",
+        "de": "Ghana Sklaverei Entschuldigung: Warum viele Nachkommen sagen, dass Worte nicht genug sind"
       },
       "summary": {
-        "zh": "分析人士表示，尽管攻击和威胁的交换，外交的门仍然敞开。",
-        "en": "Analysts say that despite the exchange of attacks and threats, the door to diplomacy remains open.",
-        "de": "Analysten sagen, dass trotz des Austauschs von Angriffen und Drohungen die Tür zur Diplomatie offen bleibt."
+        "zh": "后代们表示，象征性的道歉无法弥补几代人所遭受的损失和不公。",
+        "en": "Descendants express that symbolic apologies cannot repair generations of loss and injustice.",
+        "de": "Nachkommen äußern, dass symbolische Entschuldigungen Generationen von Verlust und Ungerechtigkeit nicht reparieren können."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-11",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss"
+      "date": "2026-07-12",
+      "url": "https://www.aljazeera.com/news/2026/7/12/ghana-slavery-apology-why-many-descendants-say-words-are-not-enough?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "摩尔多瓦总统提名商人瓦西尔·托凡为总理",
-        "en": "Moldova’s president nominates businessman Vasile Tofan as prime minister",
-        "de": "Moldovas Präsident nominiert den Geschäftsmann Vasile Tofan zum Ministerpräsidenten"
+        "zh": "卡塔尔现代化的建筑师哈马德·本·哈利法·阿尔萨尼去世",
+        "en": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
+        "de": "Scheich Hamad bin Khalifa Al Thani, Architekt des modernen Katar"
       },
       "summary": {
-        "zh": "摩尔多瓦总统提名商人瓦西尔·托凡为新总理，此前前总理亚历山大·穆特纽已于本月早些时候辞职。",
-        "en": "Moldova's president has nominated businessman Vasile Tofan as the new prime minister following the resignation of former prime minister Alexandru Munteanu earlier this month.",
-        "de": "Der Präsident Moldawiens hat den Geschäftsmann Vasile Tofan zum neuen Ministerpräsidenten nominiert, nachdem der ehemalige Ministerpräsident Alexandru Munteanu Anfang dieses Monats zurückgetreten ist."
+        "zh": "哈马德·本·哈利法·阿尔萨尼被认为是卡塔尔现代化的关键人物，他的去世标志着一个时代的结束。",
+        "en": "Sheikh Hamad bin Khalifa Al Thani is regarded as a key figure in the modernization of Qatar, and his passing marks the end of an era.",
+        "de": "Scheich Hamad bin Khalifa Al Thani gilt als Schlüsselfigur bei der Modernisierung Katars, und sein Tod markiert das Ende einer Ära."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-11",
-      "url": "https://www.aljazeera.com/news/2026/7/11/moldovas-president-nominates-businessman-vasile-tofan-as-prime-minister?traffic_source=rss"
+      "date": "2026-07-12",
+      "url": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "“乐趣通胀”影响家庭：为什么呆在家里不再是节省开支的办法",
-        "en": "‘Funflation’ hits home: Why staying in isn't the cost-saver it used to be",
+        "zh": "“乐趣通胀”影响家庭：为什么待在家里不再是省钱的办法",
+        "en": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
         "de": "„Funflation“ trifft zu Hause: Warum das Verweilen zu Hause nicht mehr die Kostenersparnis ist, die es einmal war"
       },
       "summary": {
-        "zh": "随着价格上涨，像流媒体电影或玩视频游戏等家庭娱乐活动开始对家庭预算造成压力。",
-        "en": "As prices rise, at-home pastimes like streaming movies or playing video games are starting to strain household budgets.",
-        "de": "Mit steigenden Preisen beginnen Freizeitaktivitäten zu Hause wie das Streamen von Filmen oder das Spielen von Videospielen, die Haushaltsbudgets zu belasten."
+        "zh": "由于价格上涨，家庭在家中娱乐的成本增加，导致“乐趣通胀”现象的出现。",
+        "en": "Due to rising prices, the cost of home entertainment has increased, leading to the emergence of the phenomenon termed 'funflation'.",
+        "de": "Durch steigende Preise sind die Kosten für die Unterhaltung zu Hause gestiegen, was zur Entstehung des Phänomens „Funflation“ geführt hat."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-11",
@@ -122,12 +122,12 @@
       "title": {
         "zh": "中国6月消费者价格增长减弱，生产者通胀升至近4年高点",
         "en": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
-        "de": "Chinas Verbraucherpreisanstieg schwächt sich im Juni ab, während die Produzenteninflation auf fast 4-Jahres-Hoch steigt"
+        "de": "Chinas Verbraucherpreiswachstum schwächt sich im Juni ab, während die Produzenteninflation auf fast 4-Jahres-Hoch steigt"
       },
       "summary": {
-        "zh": "投资者越来越多地将中国的两速增长视为中国经济的长期特征，出口强劲而国内需求疲软。",
-        "en": "Investors are increasingly viewing China's two-speed growth, characterized by robust exports and tepid domestic demand, as a defining long-term feature of the Chinese economy.",
-        "de": "Investoren betrachten Chinas zweigleisiges Wachstum, das durch robuste Exporte und schwache Inlandsnachfrage gekennzeichnet ist, zunehmend als ein prägendes langfristiges Merkmal der chinesischen Wirtschaft."
+        "zh": "投资者越来越关注中国经济的双重增长特征，出口强劲而国内需求疲软。",
+        "en": "Investors are increasingly focused on the dual growth characteristics of the Chinese economy, with robust exports and tepid domestic demand.",
+        "de": "Investoren konzentrieren sich zunehmend auf die dualen Wachstumsmerkmale der chinesischen Wirtschaft, mit robusten Exporten und schwacher inländischer Nachfrage."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-09",
@@ -138,12 +138,12 @@
       "title": {
         "zh": "求职者放弃：劳动参与率降至50年来最低水平",
         "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
-        "de": "Stellenbewerber geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
+        "de": "Stellensuchende geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
       },
       "summary": {
-        "zh": "尽管失业率有所下降，但劳动参与率降至50年来最低水平，反映出求职者的放弃趋势。",
-        "en": "Despite a drop in the unemployment rate, the labor force participation rate has fallen to its lowest level in 50 years, reflecting a trend of job seekers giving up.",
-        "de": "Trotz eines Rückgangs der Arbeitslosenquote ist die Erwerbsbeteiligungsquote auf den niedrigsten Stand seit 50 Jahren gefallen, was einen Trend zeigt, dass Stellenbewerber aufgeben."
+        "zh": "尽管失业率有所下降，但劳动参与率降至50年来的最低水平，反映出求职者的失望情绪。",
+        "en": "Despite a drop in the unemployment rate, the labor force participation rate has fallen to its lowest level in 50 years, reflecting the disappointment among job seekers.",
+        "de": "Trotz eines Rückgangs der Arbeitslosenquote ist die Erwerbsbeteiligungsquote auf den niedrigsten Stand seit 50 Jahren gefallen, was die Enttäuschung der Arbeitssuchenden widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-09",
