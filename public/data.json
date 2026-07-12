@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-12T07:07:52.052457+00:00",
+  "generatedAt": "2026-07-12T17:30:28.825719+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "下载：Claude的内部工作和OpenAI的“超级应用”",
         "en": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-        "de": "Der Download: Claudes innere Funktionsweise und OpenAIs „Super-App“"
+        "de": "Der Download: Claudes innere Abläufe und OpenAIs „Super-App“"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于Claude的内部工作和OpenAI新推出的“超级应用”的最新信息。",
-        "en": "Today's edition of The Download provides the latest insights into Claude's inner workings and the newly launched 'super app' by OpenAI.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Einblicke in Claudes innere Funktionsweise und die neu eingeführte „Super-App“ von OpenAI."
+        "zh": "今天的下载提供了有关技术世界的最新动态，包括Claude的内部工作和OpenAI的超级应用的最新消息。",
+        "en": "Today's Download provides the latest updates from the world of technology, including insights into Claude's inner workings and OpenAI's super app.",
+        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich Einblicke in Claudes innere Abläufe und OpenAIs Super-App."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-10",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "Anthropic发现了一个隐藏空间，Claude在其中思考概念",
+        "zh": "Anthropic发现Claude思考概念的隐藏空间",
         "en": "Anthropic found a hidden space where Claude puzzles over concepts",
         "de": "Anthropic fand einen versteckten Raum, in dem Claude über Konzepte nachdenkt"
       },
       "summary": {
         "zh": "AI公司Anthropic开发了一种技术，使其能够更清晰地了解大型语言模型内部的运作机制。",
-        "en": "AI firm Anthropic has developed a technique that provides a clearer understanding of the inner workings of large language models.",
-        "de": "Die KI-Firma Anthropic hat eine Technik entwickelt, die ein klareres Verständnis der inneren Funktionsweise großer Sprachmodelle ermöglicht."
+        "en": "AI firm Anthropic has developed a technique that offers a clearer glimpse into the inner workings of large language models.",
+        "de": "Die KI-Firma Anthropic hat eine Technik entwickelt, die einen klareren Einblick in die Funktionsweise großer Sprachmodelle bietet."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-09",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "黑客可以使用9种最流行的AI工具组装大型僵尸网络",
+        "zh": "黑客可以使用9种流行的AI工具组装大型僵尸网络",
         "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
         "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
       },
       "summary": {
-        "zh": "研究表明，黑客利用大型语言模型的局限性来创建强大的僵尸网络，称为“HalluSquatting”。",
-        "en": "Research indicates that hackers are leveraging the limitations of large language models to create powerful botnets, referred to as 'HalluSquatting'.",
-        "de": "Forschungen zeigen, dass Hacker die Einschränkungen großer Sprachmodelle nutzen, um leistungsstarke Botnetze zu erstellen, die als „HalluSquatting“ bezeichnet werden."
+        "zh": "研究表明，黑客利用大型语言模型的局限性，能够通过9种流行的AI工具创建庞大的僵尸网络。",
+        "en": "Research indicates that hackers can leverage the limitations of large language models to create massive botnets using nine popular AI tools.",
+        "de": "Forschungen zeigen, dass Hacker die Einschränkungen großer Sprachmodelle nutzen können, um mit neun beliebten KI-Tools massive Botnetze zu erstellen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-08",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国参议员林赛·格雷厄姆去世",
-        "en": "US Senator Lindsey Graham passes away",
-        "de": "US-Senator Lindsey Graham verstorben"
+        "zh": "卡塔尔的父亲埃米尔谢赫哈马德在多哈举行葬礼祈祷",
+        "en": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad in Doha",
+        "de": "Beerdigungsgebete für Katars Vateremir Sheikh Hamad in Doha abgehalten"
       },
       "summary": {
-        "zh": "这是一个突发新闻，林赛·格雷厄姆参议员的去世引发了广泛的关注和哀悼。",
-        "en": "This is a breaking news story, and the passing of Senator Lindsey Graham has sparked widespread attention and mourning.",
-        "de": "Dies ist eine Breaking-News-Geschichte, und der Tod von Senator Lindsey Graham hat weit verbreitete Aufmerksamkeit und Trauer ausgelöst."
+        "zh": "卡塔尔的父亲埃米尔谢赫哈马德·本·哈利法·阿尔·萨尼在多哈的国家清真寺举行了葬礼祈祷。",
+        "en": "Funeral prayers for Qatar's Father Emir Sheikh Hamad bin Khalifa Al Thani were held at the national mosque in Doha.",
+        "de": "Die Beerdigungsgebete für Katars Vateremir Sheikh Hamad bin Khalifa Al Thani wurden in der nationalen Moschee in Doha abgehalten."
       },
       "source": "Al Jazeera",
       "date": "2026-07-12",
-      "url": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "加纳奴隶制道歉：为什么许多后代认为言辞不足以弥补",
-        "en": "Ghana slavery apology: Why many descendants say words are not enough",
-        "de": "Ghana Sklaverei Entschuldigung: Warum viele Nachkommen sagen, dass Worte nicht genug sind"
+        "zh": "美国在霍尔木兹海峡的存在是战略成功还是外交失败？",
+        "en": "Iran war: US strategic success or diplomatic failure?",
+        "de": "Iran-Krieg: Strategischer Erfolg oder diplomatisches Versagen der USA?"
       },
       "summary": {
-        "zh": "后代们表示，象征性的道歉无法弥补几代人所遭受的损失和不公。",
-        "en": "Descendants express that symbolic apologies cannot repair generations of loss and injustice.",
-        "de": "Nachkommen äußern, dass symbolische Entschuldigungen Generationen von Verlust und Ungerechtigkeit nicht reparieren können."
+        "zh": "在关于美国与以色列在伊朗的战争的讨论中，Marc Lamont Hill挑战了前美国外交官Heino Klinck。",
+        "en": "In a discussion about the US-Israeli war in Iran, Marc Lamont Hill challenges former US diplomat Heino Klinck.",
+        "de": "In einer Diskussion über den US-israelischen Krieg im Iran stellt Marc Lamont Hill den ehemaligen US-Diplomaten Heino Klinck in Frage."
       },
       "source": "Al Jazeera",
       "date": "2026-07-12",
-      "url": "https://www.aljazeera.com/news/2026/7/12/ghana-slavery-apology-why-many-descendants-say-words-are-not-enough?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "卡塔尔现代化的建筑师哈马德·本·哈利法·阿尔萨尼去世",
-        "en": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
-        "de": "Scheich Hamad bin Khalifa Al Thani, Architekt des modernen Katar"
+        "zh": "美国参议员、特朗普密友林赛·格雷厄姆因“短暂和突发的疾病”去世",
+        "en": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "de": "US-Senator und enger Trump-Verbündeter Lindsey Graham stirbt nach 'kurzer und plötzlicher Krankheit'"
       },
       "summary": {
-        "zh": "哈马德·本·哈利法·阿尔萨尼被认为是卡塔尔现代化的关键人物，他的去世标志着一个时代的结束。",
-        "en": "Sheikh Hamad bin Khalifa Al Thani is regarded as a key figure in the modernization of Qatar, and his passing marks the end of an era.",
-        "de": "Scheich Hamad bin Khalifa Al Thani gilt als Schlüsselfigur bei der Modernisierung Katars, und sein Tod markiert das Ende einer Ära."
+        "zh": "特朗普称71岁的南卡罗来纳州参议员林赛·格雷厄姆为“真正的美国爱国者”，并表示将“非常想念”他。",
+        "en": "Trump called 71-year-old South Carolina senator Lindsey Graham a 'true American patriot' who will be 'greatly missed.'",
+        "de": "Trump nannte den 71-jährigen Senator aus South Carolina, Lindsey Graham, einen 'wahren amerikanischen Patrioten', der 'sehr vermisst werden wird'."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-07-12",
-      "url": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "“乐趣通胀”影响家庭：为什么待在家里不再是省钱的办法",
-        "en": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
-        "de": "„Funflation“ trifft zu Hause: Warum das Verweilen zu Hause nicht mehr die Kostenersparnis ist, die es einmal war"
+        "zh": "‘乐趣通胀’影响家庭：为什么待在家里不再是省钱的选择",
+        "en": "‘Funflation’ hits home: Why staying in isn't the cost-saver it used to be",
+        "de": "‚Funflation‘ trifft zu Hause: Warum das Verweilen zu Hause nicht mehr die Kostenersparnis ist, die es einmal war"
       },
       "summary": {
-        "zh": "由于价格上涨，家庭在家中娱乐的成本增加，导致“乐趣通胀”现象的出现。",
-        "en": "Due to rising prices, the cost of home entertainment has increased, leading to the emergence of the phenomenon termed 'funflation'.",
-        "de": "Durch steigende Preise sind die Kosten für die Unterhaltung zu Hause gestiegen, was zur Entstehung des Phänomens „Funflation“ geführt hat."
+        "zh": "随着价格上涨，家庭娱乐活动如观看电影或玩视频游戏的成本正在增加，导致“乐趣通胀”现象。",
+        "en": "As prices rise, the cost of at-home pastimes like streaming movies or playing video games is increasing, leading to the phenomenon of 'funflation.'",
+        "de": "Mit steigenden Preisen steigen die Kosten für Freizeitbeschäftigungen zu Hause wie das Streamen von Filmen oder das Spielen von Videospielen, was zum Phänomen der ‚Funflation‘ führt."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-11",
@@ -125,9 +125,9 @@
         "de": "Chinas Verbraucherpreiswachstum schwächt sich im Juni ab, während die Produzenteninflation auf fast 4-Jahres-Hoch steigt"
       },
       "summary": {
-        "zh": "投资者越来越关注中国经济的双重增长特征，出口强劲而国内需求疲软。",
-        "en": "Investors are increasingly focused on the dual growth characteristics of the Chinese economy, with robust exports and tepid domestic demand.",
-        "de": "Investoren konzentrieren sich zunehmend auf die dualen Wachstumsmerkmale der chinesischen Wirtschaft, mit robusten Exporten und schwacher inländischer Nachfrage."
+        "zh": "中国的消费者价格增长放缓，而生产者价格通胀则达到近四年来的最高水平，反映出经济的两极分化特征。",
+        "en": "China's consumer price growth weakened while producer inflation reached a near four-year high, reflecting the dual-speed nature of the economy.",
+        "de": "Das Verbraucherpreiswachstum in China hat sich abgeschwächt, während die Produzenteninflation ein fast vierjähriges Hoch erreicht hat, was die zweigleisige Natur der Wirtschaft widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-09",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "求职者放弃：劳动参与率降至50年来最低水平",
-        "en": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
-        "de": "Stellensuchende geben auf: Die Erwerbsbeteiligungsquote fällt auf den niedrigsten Stand seit 50 Jahren, außerhalb der Covid-Ära"
+        "zh": "随着收益季节的开始，股市反弹更多地依赖于AI而非石油",
+        "en": "The stock-market rally now hinges more on AI than oil",
+        "de": "Die Aktienmarktrally hängt jetzt mehr von KI als von Öl ab"
       },
       "summary": {
-        "zh": "尽管失业率有所下降，但劳动参与率降至50年来的最低水平，反映出求职者的失望情绪。",
-        "en": "Despite a drop in the unemployment rate, the labor force participation rate has fallen to its lowest level in 50 years, reflecting the disappointment among job seekers.",
-        "de": "Trotz eines Rückgangs der Arbeitslosenquote ist die Erwerbsbeteiligungsquote auf den niedrigsten Stand seit 50 Jahren gefallen, was die Enttäuschung der Arbeitssuchenden widerspiegelt."
+        "zh": "随着收益季节的开始，投资者对AI投资的关注度上升，成为股市反弹的主要驱动力。",
+        "en": "As earnings season kicks off, investor focus on AI investments is rising, becoming a key driver of the stock market rally.",
+        "de": "Mit dem Beginn der Berichtssaison steigt der Fokus der Investoren auf KI-Investitionen und wird zu einem wichtigen Treiber der Aktienmarktrally."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-09",
-      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-12",
+      "url": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories"
     }
   ]
 }
