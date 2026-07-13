@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-13T07:49:09.937254+00:00",
+  "generatedAt": "2026-07-13T18:14:46.980469+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：Claude的内部工作和OpenAI的“超级应用”",
+        "zh": "下载：捐赠者概念上限和人工智能的世界模型",
+        "en": "The Download: a donor conception cap and world models for AI",
+        "de": "Der Download: eine Obergrenze für Spenderkonzeption und Weltmodelle für KI"
+      },
+      "summary": {
+        "zh": "今天的下载提供了关于技术世界的最新动态，包括捐赠者概念的限制和人工智能的世界模型。",
+        "en": "Today's Download provides the latest updates from the tech world, including limits on donor conception and world models for AI.",
+        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich der Grenzen für Spenderkonzeption und Weltmodelle für KI."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-07-13",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "下载：克劳德的内部运作和OpenAI的“超级应用”",
         "en": "The Download: Claude’s inner workings and OpenAI’s “super app”",
         "de": "Der Download: Claudes innere Funktionsweise und OpenAIs „Super-App“"
       },
       "summary": {
-        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括Claude的内部工作和OpenAI的超级应用的最新消息。",
-        "en": "Today's edition of The Download provides the latest updates from the world of technology, including insights into Claude's inner workings and OpenAI's super app.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich Einblicke in Claudes innere Funktionsweise und OpenAIs Super-App."
+        "zh": "本期下载探讨了Claude的内部工作原理以及OpenAI正在开发的“超级应用”。",
+        "en": "This edition of The Download explores Claude's inner workings and the 'super app' being developed by OpenAI.",
+        "de": "Diese Ausgabe des Downloads untersucht Claudes innere Funktionsweise und die von OpenAI entwickelte „Super-App“."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-10",
       "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "Anthropic发现Claude思考概念的隐藏空间",
+        "zh": "人工智能公司Anthropic发现了一个隐藏空间，Claude在其中思考概念",
         "en": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "de": "Anthropic fand einen versteckten Raum, in dem Claude über Konzepte nachdenkt"
+        "de": "Anthropic hat einen versteckten Raum gefunden, in dem Claude über Konzepte nachdenkt"
       },
       "summary": {
-        "zh": "AI公司Anthropic开发了一种技术，使其能够更清晰地了解大型语言模型内部的运作机制，尤其是Claude的思维过程。",
-        "en": "The AI firm Anthropic has developed a technique that provides a clearer understanding of the inner workings of large language models, particularly Claude's thought processes.",
-        "de": "Das KI-Unternehmen Anthropic hat eine Technik entwickelt, die ein klareres Verständnis der inneren Funktionsweise großer Sprachmodelle, insbesondere von Claudes Denkprozessen, ermöglicht."
+        "zh": "Anthropic开发了一种技术，使其能够更清晰地了解大型语言模型内部的运作机制。",
+        "en": "Anthropic has developed a technique that provides a clearer insight into the workings of large language models.",
+        "de": "Anthropic hat eine Technik entwickelt, die einen klareren Einblick in die Funktionsweise großer Sprachmodelle bietet."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-09",
       "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "黑客可以使用9种最流行的AI工具组装大型僵尸网络",
-        "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
-      },
-      "summary": {
-        "zh": "研究表明，黑客能够利用流行的AI工具来创建大型僵尸网络，利用这些工具的局限性进行攻击。",
-        "en": "Research indicates that hackers can leverage popular AI tools to create massive botnets, exploiting the limitations of these tools for attacks.",
-        "de": "Forschungen zeigen, dass Hacker beliebte KI-Tools nutzen können, um massive Botnetze zu erstellen und die Einschränkungen dieser Tools für Angriffe auszunutzen."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-07-08",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "在伊朗，佩泽什基安将成为失败谅解备忘录的替罪羊",
-        "en": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
-        "de": "In Iran wird Pezeshkian der Sündenbock für das gescheiterte MoU sein"
+        "zh": "如何Lyhanna的谋杀案揭示了法国的儿童虐待问题",
+        "en": "How Lyhanna’s murder case is shedding light on child abuse in France",
+        "de": "Wie der Mordfall Lyhanna das Thema Kindesmissbrauch in Frankreich beleuchtet"
       },
       "summary": {
-        "zh": "将所有责任归咎于伊朗总统掩盖了德黑兰内部竞争派系之间的紧张关系。",
-        "en": "Placing all the blame on the Iranian president obscures the tensions between competing factions in Tehran.",
-        "de": "Die gesamte Schuld dem iranischen Präsidenten zuzuschreiben, verdeckt die Spannungen zwischen konkurrierenden Fraktionen in Teheran."
+        "zh": "11岁Lyhanna的强奸和谋杀揭露了法国多年警察和司法系统的失误。",
+        "en": "The rape and murder of 11-year-old Lyhanna has exposed years of alleged police and judicial failures in France.",
+        "de": "Die Vergewaltigung und Ermordung der 11-jährigen Lyhanna hat Jahre angeblicher polizeilicher und gerichtlicher Mängel in Frankreich aufgedeckt."
       },
       "source": "Al Jazeera",
       "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/7/13/how-lyhannas-murder-case-is-shedding-light-on-child-abuse-in-france?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗袭击巴林、科威特和约旦的美国军事基地",
-        "en": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
-        "de": "Iran greift US-Militärbasen in Bahrain, Kuwait und Jordanien an"
+        "zh": "DR刚果埃博拉中心的工作人员罢工，病毒继续传播",
+        "en": "Staff at DR Congo Ebola centre strike as virus continues spreading",
+        "de": "Mitarbeiter des Ebola-Zentrums in der DR Kongo streiken, während sich das Virus weiter ausbreitet"
       },
       "summary": {
-        "zh": "伊朗对海湾国家发动攻击，目标是驻扎在巴林、科威特和约旦的美国军事资产。",
-        "en": "Iran launches attacks on Gulf states, targeting US military assets in Bahrain, Kuwait, and Jordan.",
-        "de": "Iran startet Angriffe auf Golfstaaten und zielt auf US-Militärvermögen in Bahrain, Kuwait und Jordanien."
+        "zh": "由于迟发的工资，刚果民主共和国的埃博拉中心工作人员罢工，公共卫生官员确认病毒已传播到两个新省。",
+        "en": "Staff at the Ebola center in the Democratic Republic of Congo are striking over late payments as public health officials confirm the virus has spread to two more provinces.",
+        "de": "Mitarbeiter des Ebola-Zentrums in der Demokratischen Republik Kongo streiken wegen verspäteter Zahlungen, während die Gesundheitsbehörden bestätigen, dass sich das Virus auf zwei weitere Provinzen ausgeweitet hat."
       },
       "source": "Al Jazeera",
       "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/13/staff-at-congo-ebola-centre-strike-as-virus-continues-spreading?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国参议员林赛·格雷厄姆因“短暂和突发的疾病”去世",
-        "en": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-        "de": "US-Senator und enger Trump-Verbündeter Lindsey Graham stirbt nach 'kurzer und plötzlicher Krankheit'"
+        "zh": "美国对古巴旅游部和国有企业实施新制裁",
+        "en": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
+        "de": "Die USA verhängen neue Sanktionen gegen das kubanische Tourismusministerium und staatliche Unternehmen"
       },
       "summary": {
-        "zh": "71岁的南卡罗来纳州参议员的发言人表示，初步调查结果显示格雷厄姆的死因与他的心脏有关。",
-        "en": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
-        "de": "Ein Sprecher des 71-jährigen Senators aus South Carolina sagt, erste Ergebnisse deuten darauf hin, dass Grahams Todesursache mit seinem Herzen zusammenhängt."
+        "zh": "美国财政部发布的新指令对古巴的旅游部和国有企业实施了制裁。",
+        "en": "The US Treasury Department has posted a new directive imposing sanctions on Cuba's tourism ministry and state-owned companies.",
+        "de": "Das US-Finanzministerium hat eine neue Anordnung veröffentlicht, die Sanktionen gegen das kubanische Tourismusministerium und staatliche Unternehmen verhängt."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-12",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-13",
+      "url": "https://www.aljazeera.com/economy/2026/7/13/us-imposes-new-sanctions-on-cuba-tourism-ministry-state-owned-companies?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "‘乐趣通胀’影响家庭：为什么待在家里不再是节省开支的好方法",
-        "en": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
-        "de": "‚Funflation‘ trifft zu Hause: Warum das Verweilen zu Hause nicht mehr die Kostenersparnis ist, die es einmal war"
+        "zh": "印度6月通胀加速至4.38%，超出预期",
+        "en": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
+        "de": "Indiens Inflation beschleunigt sich im Juni auf 4,38 % und übertrifft die Prognosen"
       },
       "summary": {
-        "zh": "随着价格上涨，像观看电影或玩视频游戏等在家消遣的活动开始对家庭预算造成压力。",
-        "en": "As prices rise, at-home pastimes like streaming movies or playing video games are beginning to strain household budgets.",
-        "de": "Mit steigenden Preisen beginnen Freizeitbeschäftigungen zu Hause wie das Streamen von Filmen oder das Spielen von Videospielen, die Haushaltsbudgets zu belasten."
+        "zh": "印度的通胀已连续第八个月上升，食品和能源价格因伊朗战争和降雨不足而上涨。",
+        "en": "India's inflation has risen for the eighth consecutive month, driven by rising food and energy prices due to the Iran war and deficient rainfall.",
+        "de": "Die Inflation in Indien ist im achten Monat in Folge gestiegen, bedingt durch steigende Lebensmittel- und Energiepreise aufgrund des Iran-Kriegs und unzureichenden Niederschlags."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-12",
-      "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html"
+      "date": "2026-07-13",
+      "url": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国6月消费者价格增长减弱，生产者通胀升至近4年高点",
-        "en": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
-        "de": "Chinas Verbraucherpreisanstieg schwächt sich im Juni ab, während die Produzenteninflation auf den höchsten Stand seit fast 4 Jahren steigt"
+        "zh": "‘乐趣通胀’影响家庭：为什么待在家里不再是省钱的选择",
+        "en": "‘Funflation’ hits home: Why staying in isn't the cost-saver it used to be",
+        "de": "„Funflation“ trifft zu Hause: Warum das Verweilen zu Hause nicht mehr die Kostenersparnis ist, die es einmal war"
       },
       "summary": {
-        "zh": "投资者越来越多地将中国的双速增长视为其经济长期特征，出口强劲而国内需求疲软。",
-        "en": "Investors increasingly view China's two-speed growth with robust export and tepid domestic demand as a defining long-term feature of the Chinese economy.",
-        "de": "Investoren sehen Chinas zweigleisiges Wachstum mit robusten Exporten und schwacher Inlandsnachfrage zunehmend als prägendes langfristiges Merkmal der chinesischen Wirtschaft."
+        "zh": "随着价格上涨，家庭娱乐活动如观看电影或玩视频游戏的费用也在增加。",
+        "en": "As prices rise, the costs of at-home pastimes like streaming movies or playing video games are also increasing.",
+        "de": "Mit steigenden Preisen steigen auch die Kosten für Freizeitaktivitäten zu Hause wie das Streamen von Filmen oder das Spielen von Videospielen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-09",
-      "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
+      "date": "2026-07-13",
+      "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "随着收益季节的开始，股市反弹更依赖于AI而非石油",
-        "en": "The stock-market rally now hinges more on AI than oil",
-        "de": "Der Aktienmarktaufschwung hängt jetzt mehr von KI als von Öl ab"
+        "zh": "中国6月消费者价格增长减弱，生产者通胀升至近4年高点",
+        "en": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
+        "de": "Chinas Verbraucherpreiswachstum schwächt sich im Juni ab, während die Produzenteninflation auf den höchsten Stand seit fast 4 Jahren steigt"
       },
       "summary": {
-        "zh": "随着收益季节的到来，AI投资成为市场关注的焦点，超越了传统的石油市场。",
-        "en": "As earnings season kicks off, AI investment has become the focal point of the market, surpassing traditional oil markets.",
-        "de": "Mit dem Beginn der Berichtssaison ist die KI-Investition zum Mittelpunkt des Marktes geworden und hat die traditionellen Ölmärkte übertroffen."
+        "zh": "投资者越来越将中国的双速增长视为中国经济的长期特征，出口强劲而国内需求疲软。",
+        "en": "Investors increasingly view China's two-speed growth, with robust exports and tepid domestic demand, as a defining long-term feature of the Chinese economy.",
+        "de": "Investoren betrachten Chinas zweigleisiges Wachstum, mit robusten Exporten und schwacher Inlandsnachfrage, zunehmend als ein prägendes langfristiges Merkmal der chinesischen Wirtschaft."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-12",
-      "url": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-09",
+      "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
     }
   ]
 }
