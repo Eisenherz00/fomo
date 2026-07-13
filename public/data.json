@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-12T17:30:28.825719+00:00",
+  "generatedAt": "2026-07-13T07:49:09.937254+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "下载：Claude的内部工作和OpenAI的“超级应用”",
         "en": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-        "de": "Der Download: Claudes innere Abläufe und OpenAIs „Super-App“"
+        "de": "Der Download: Claudes innere Funktionsweise und OpenAIs „Super-App“"
       },
       "summary": {
-        "zh": "今天的下载提供了有关技术世界的最新动态，包括Claude的内部工作和OpenAI的超级应用的最新消息。",
-        "en": "Today's Download provides the latest updates from the world of technology, including insights into Claude's inner workings and OpenAI's super app.",
-        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich Einblicke in Claudes innere Abläufe und OpenAIs Super-App."
+        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括Claude的内部工作和OpenAI的超级应用的最新消息。",
+        "en": "Today's edition of The Download provides the latest updates from the world of technology, including insights into Claude's inner workings and OpenAI's super app.",
+        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich Einblicke in Claudes innere Funktionsweise und OpenAIs Super-App."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-10",
@@ -25,9 +25,9 @@
         "de": "Anthropic fand einen versteckten Raum, in dem Claude über Konzepte nachdenkt"
       },
       "summary": {
-        "zh": "AI公司Anthropic开发了一种技术，使其能够更清晰地了解大型语言模型内部的运作机制。",
-        "en": "AI firm Anthropic has developed a technique that offers a clearer glimpse into the inner workings of large language models.",
-        "de": "Die KI-Firma Anthropic hat eine Technik entwickelt, die einen klareren Einblick in die Funktionsweise großer Sprachmodelle bietet."
+        "zh": "AI公司Anthropic开发了一种技术，使其能够更清晰地了解大型语言模型内部的运作机制，尤其是Claude的思维过程。",
+        "en": "The AI firm Anthropic has developed a technique that provides a clearer understanding of the inner workings of large language models, particularly Claude's thought processes.",
+        "de": "Das KI-Unternehmen Anthropic hat eine Technik entwickelt, die ein klareres Verständnis der inneren Funktionsweise großer Sprachmodelle, insbesondere von Claudes Denkprozessen, ermöglicht."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-09",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "黑客可以使用9种流行的AI工具组装大型僵尸网络",
+        "zh": "黑客可以使用9种最流行的AI工具组装大型僵尸网络",
         "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
         "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
       },
       "summary": {
-        "zh": "研究表明，黑客利用大型语言模型的局限性，能够通过9种流行的AI工具创建庞大的僵尸网络。",
-        "en": "Research indicates that hackers can leverage the limitations of large language models to create massive botnets using nine popular AI tools.",
-        "de": "Forschungen zeigen, dass Hacker die Einschränkungen großer Sprachmodelle nutzen können, um mit neun beliebten KI-Tools massive Botnetze zu erstellen."
+        "zh": "研究表明，黑客能够利用流行的AI工具来创建大型僵尸网络，利用这些工具的局限性进行攻击。",
+        "en": "Research indicates that hackers can leverage popular AI tools to create massive botnets, exploiting the limitations of these tools for attacks.",
+        "de": "Forschungen zeigen, dass Hacker beliebte KI-Tools nutzen können, um massive Botnetze zu erstellen und die Einschränkungen dieser Tools für Angriffe auszunutzen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-08",
@@ -54,46 +54,46 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "卡塔尔的父亲埃米尔谢赫哈马德在多哈举行葬礼祈祷",
-        "en": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad in Doha",
-        "de": "Beerdigungsgebete für Katars Vateremir Sheikh Hamad in Doha abgehalten"
+        "zh": "在伊朗，佩泽什基安将成为失败谅解备忘录的替罪羊",
+        "en": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
+        "de": "In Iran wird Pezeshkian der Sündenbock für das gescheiterte MoU sein"
       },
       "summary": {
-        "zh": "卡塔尔的父亲埃米尔谢赫哈马德·本·哈利法·阿尔·萨尼在多哈的国家清真寺举行了葬礼祈祷。",
-        "en": "Funeral prayers for Qatar's Father Emir Sheikh Hamad bin Khalifa Al Thani were held at the national mosque in Doha.",
-        "de": "Die Beerdigungsgebete für Katars Vateremir Sheikh Hamad bin Khalifa Al Thani wurden in der nationalen Moschee in Doha abgehalten."
+        "zh": "将所有责任归咎于伊朗总统掩盖了德黑兰内部竞争派系之间的紧张关系。",
+        "en": "Placing all the blame on the Iranian president obscures the tensions between competing factions in Tehran.",
+        "de": "Die gesamte Schuld dem iranischen Präsidenten zuzuschreiben, verdeckt die Spannungen zwischen konkurrierenden Fraktionen in Teheran."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-12",
-      "url": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss"
+      "date": "2026-07-13",
+      "url": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国在霍尔木兹海峡的存在是战略成功还是外交失败？",
-        "en": "Iran war: US strategic success or diplomatic failure?",
-        "de": "Iran-Krieg: Strategischer Erfolg oder diplomatisches Versagen der USA?"
+        "zh": "伊朗袭击巴林、科威特和约旦的美国军事基地",
+        "en": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
+        "de": "Iran greift US-Militärbasen in Bahrain, Kuwait und Jordanien an"
       },
       "summary": {
-        "zh": "在关于美国与以色列在伊朗的战争的讨论中，Marc Lamont Hill挑战了前美国外交官Heino Klinck。",
-        "en": "In a discussion about the US-Israeli war in Iran, Marc Lamont Hill challenges former US diplomat Heino Klinck.",
-        "de": "In einer Diskussion über den US-israelischen Krieg im Iran stellt Marc Lamont Hill den ehemaligen US-Diplomaten Heino Klinck in Frage."
+        "zh": "伊朗对海湾国家发动攻击，目标是驻扎在巴林、科威特和约旦的美国军事资产。",
+        "en": "Iran launches attacks on Gulf states, targeting US military assets in Bahrain, Kuwait, and Jordan.",
+        "de": "Iran startet Angriffe auf Golfstaaten und zielt auf US-Militärvermögen in Bahrain, Kuwait und Jordanien."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-12",
-      "url": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss"
+      "date": "2026-07-13",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国参议员、特朗普密友林赛·格雷厄姆因“短暂和突发的疾病”去世",
+        "zh": "美国参议员林赛·格雷厄姆因“短暂和突发的疾病”去世",
         "en": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
         "de": "US-Senator und enger Trump-Verbündeter Lindsey Graham stirbt nach 'kurzer und plötzlicher Krankheit'"
       },
       "summary": {
-        "zh": "特朗普称71岁的南卡罗来纳州参议员林赛·格雷厄姆为“真正的美国爱国者”，并表示将“非常想念”他。",
-        "en": "Trump called 71-year-old South Carolina senator Lindsey Graham a 'true American patriot' who will be 'greatly missed.'",
-        "de": "Trump nannte den 71-jährigen Senator aus South Carolina, Lindsey Graham, einen 'wahren amerikanischen Patrioten', der 'sehr vermisst werden wird'."
+        "zh": "71岁的南卡罗来纳州参议员的发言人表示，初步调查结果显示格雷厄姆的死因与他的心脏有关。",
+        "en": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
+        "de": "Ein Sprecher des 71-jährigen Senators aus South Carolina sagt, erste Ergebnisse deuten darauf hin, dass Grahams Todesursache mit seinem Herzen zusammenhängt."
       },
       "source": "BBC News – World",
       "date": "2026-07-12",
@@ -104,17 +104,17 @@
     {
       "id": "stk-1",
       "title": {
-        "zh": "‘乐趣通胀’影响家庭：为什么待在家里不再是省钱的选择",
-        "en": "‘Funflation’ hits home: Why staying in isn't the cost-saver it used to be",
+        "zh": "‘乐趣通胀’影响家庭：为什么待在家里不再是节省开支的好方法",
+        "en": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
         "de": "‚Funflation‘ trifft zu Hause: Warum das Verweilen zu Hause nicht mehr die Kostenersparnis ist, die es einmal war"
       },
       "summary": {
-        "zh": "随着价格上涨，家庭娱乐活动如观看电影或玩视频游戏的成本正在增加，导致“乐趣通胀”现象。",
-        "en": "As prices rise, the cost of at-home pastimes like streaming movies or playing video games is increasing, leading to the phenomenon of 'funflation.'",
-        "de": "Mit steigenden Preisen steigen die Kosten für Freizeitbeschäftigungen zu Hause wie das Streamen von Filmen oder das Spielen von Videospielen, was zum Phänomen der ‚Funflation‘ führt."
+        "zh": "随着价格上涨，像观看电影或玩视频游戏等在家消遣的活动开始对家庭预算造成压力。",
+        "en": "As prices rise, at-home pastimes like streaming movies or playing video games are beginning to strain household budgets.",
+        "de": "Mit steigenden Preisen beginnen Freizeitbeschäftigungen zu Hause wie das Streamen von Filmen oder das Spielen von Videospielen, die Haushaltsbudgets zu belasten."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html"
     },
     {
@@ -122,12 +122,12 @@
       "title": {
         "zh": "中国6月消费者价格增长减弱，生产者通胀升至近4年高点",
         "en": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
-        "de": "Chinas Verbraucherpreiswachstum schwächt sich im Juni ab, während die Produzenteninflation auf fast 4-Jahres-Hoch steigt"
+        "de": "Chinas Verbraucherpreisanstieg schwächt sich im Juni ab, während die Produzenteninflation auf den höchsten Stand seit fast 4 Jahren steigt"
       },
       "summary": {
-        "zh": "中国的消费者价格增长放缓，而生产者价格通胀则达到近四年来的最高水平，反映出经济的两极分化特征。",
-        "en": "China's consumer price growth weakened while producer inflation reached a near four-year high, reflecting the dual-speed nature of the economy.",
-        "de": "Das Verbraucherpreiswachstum in China hat sich abgeschwächt, während die Produzenteninflation ein fast vierjähriges Hoch erreicht hat, was die zweigleisige Natur der Wirtschaft widerspiegelt."
+        "zh": "投资者越来越多地将中国的双速增长视为其经济长期特征，出口强劲而国内需求疲软。",
+        "en": "Investors increasingly view China's two-speed growth with robust export and tepid domestic demand as a defining long-term feature of the Chinese economy.",
+        "de": "Investoren sehen Chinas zweigleisiges Wachstum mit robusten Exporten und schwacher Inlandsnachfrage zunehmend als prägendes langfristiges Merkmal der chinesischen Wirtschaft."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-09",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "随着收益季节的开始，股市反弹更多地依赖于AI而非石油",
+        "zh": "随着收益季节的开始，股市反弹更依赖于AI而非石油",
         "en": "The stock-market rally now hinges more on AI than oil",
-        "de": "Die Aktienmarktrally hängt jetzt mehr von KI als von Öl ab"
+        "de": "Der Aktienmarktaufschwung hängt jetzt mehr von KI als von Öl ab"
       },
       "summary": {
-        "zh": "随着收益季节的开始，投资者对AI投资的关注度上升，成为股市反弹的主要驱动力。",
-        "en": "As earnings season kicks off, investor focus on AI investments is rising, becoming a key driver of the stock market rally.",
-        "de": "Mit dem Beginn der Berichtssaison steigt der Fokus der Investoren auf KI-Investitionen und wird zu einem wichtigen Treiber der Aktienmarktrally."
+        "zh": "随着收益季节的到来，AI投资成为市场关注的焦点，超越了传统的石油市场。",
+        "en": "As earnings season kicks off, AI investment has become the focal point of the market, surpassing traditional oil markets.",
+        "de": "Mit dem Beginn der Berichtssaison ist die KI-Investition zum Mittelpunkt des Marktes geworden und hat die traditionellen Ölmärkte übertroffen."
       },
       "source": "MarketWatch – Top Stories",
       "date": "2026-07-12",
