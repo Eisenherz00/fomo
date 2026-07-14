@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-07-13T18:14:46.980469+00:00",
+  "generatedAt": "2026-07-14T06:36:08.804678+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：捐赠者概念上限和人工智能的世界模型",
-        "en": "The Download: a donor conception cap and world models for AI",
-        "de": "Der Download: eine Obergrenze für Spenderkonzeption und Weltmodelle für KI"
+        "zh": "Anthropic最新的AI发现展示了什么——以及没有展示什么",
+        "en": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "de": "Was Anthropics neueste KI-Entdeckung zeigt – und was nicht"
       },
       "summary": {
-        "zh": "今天的下载提供了关于技术世界的最新动态，包括捐赠者概念的限制和人工智能的世界模型。",
-        "en": "Today's Download provides the latest updates from the tech world, including limits on donor conception and world models for AI.",
-        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich der Grenzen für Spenderkonzeption und Weltmodelle für KI."
+        "zh": "Anthropic的最新研究揭示了大型语言模型内部运作的清晰视角，尽管仍有许多未解之谜。该技术为理解AI的思维过程提供了新的工具。",
+        "en": "Anthropic's latest research offers a clearer view of the inner workings of large language models, although many mysteries remain unsolved. This technique provides new tools for understanding AI's thought processes.",
+        "de": "Anthropics neueste Forschung bietet einen klareren Blick auf die inneren Abläufe großer Sprachmodelle, obwohl viele Rätsel ungelöst bleiben. Diese Technik bietet neue Werkzeuge zum Verständnis der Denkprozesse von KI."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-07-13",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "下载：捐赠者概念上限和AI的世界模型",
+        "en": "The Download: a donor conception cap and world models for AI",
+        "de": "Der Download: Eine Obergrenze für Spenderkonzeptionen und Weltmodelle für KI"
+      },
+      "summary": {
+        "zh": "本期下载讨论了捐赠者概念的限制以及AI世界模型的发展，强调了技术在生育和AI领域的影响。",
+        "en": "This edition of The Download discusses limits on donor conception and the development of AI world models, highlighting the impact of technology in reproductive and AI fields.",
+        "de": "Diese Ausgabe des Downloads behandelt die Grenzen der Spenderkonzeption und die Entwicklung von KI-Weltmodellen und hebt die Auswirkungen der Technologie in den Bereichen Fortpflanzung und KI hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-13",
       "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "下载：克劳德的内部运作和OpenAI的“超级应用”",
-        "en": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-        "de": "Der Download: Claudes innere Funktionsweise und OpenAIs „Super-App“"
-      },
-      "summary": {
-        "zh": "本期下载探讨了Claude的内部工作原理以及OpenAI正在开发的“超级应用”。",
-        "en": "This edition of The Download explores Claude's inner workings and the 'super app' being developed by OpenAI.",
-        "de": "Diese Ausgabe des Downloads untersucht Claudes innere Funktionsweise und die von OpenAI entwickelte „Super-App“."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-07-10",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "人工智能公司Anthropic发现了一个隐藏空间，Claude在其中思考概念",
-        "en": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "de": "Anthropic hat einen versteckten Raum gefunden, in dem Claude über Konzepte nachdenkt"
+        "zh": "黑客可以使用9种最流行的AI工具组装大型僵尸网络",
+        "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
       },
       "summary": {
-        "zh": "Anthropic开发了一种技术，使其能够更清晰地了解大型语言模型内部的运作机制。",
-        "en": "Anthropic has developed a technique that provides a clearer insight into the workings of large language models.",
-        "de": "Anthropic hat eine Technik entwickelt, die einen klareren Einblick in die Funktionsweise großer Sprachmodelle bietet."
+        "zh": "研究表明，黑客利用流行的AI工具来组建大规模的僵尸网络，利用其能力进行网络攻击。这一趋势引发了对网络安全的担忧。",
+        "en": "Research indicates that hackers are using popular AI tools to assemble massive botnets, leveraging their capabilities for cyber attacks. This trend raises concerns about cybersecurity.",
+        "de": "Forschungen zeigen, dass Hacker beliebte KI-Tools nutzen, um massive Botnetze zusammenzustellen und deren Fähigkeiten für Cyberangriffe auszunutzen. Dieser Trend wirft Bedenken hinsichtlich der Cybersicherheit auf."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-07-09",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+      "source": "Ars Technica – AI",
+      "date": "2026-07-08",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "如何Lyhanna的谋杀案揭示了法国的儿童虐待问题",
-        "en": "How Lyhanna’s murder case is shedding light on child abuse in France",
-        "de": "Wie der Mordfall Lyhanna das Thema Kindesmissbrauch in Frankreich beleuchtet"
+        "zh": "特朗普威胁攻击伊朗境内的“镐山”核设施",
+        "en": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
+        "de": "Trump droht mit einem Angriff auf die ‘Pickaxe Mountain’-Nuklearanlage im Iran"
       },
       "summary": {
-        "zh": "11岁Lyhanna的强奸和谋杀揭露了法国多年警察和司法系统的失误。",
-        "en": "The rape and murder of 11-year-old Lyhanna has exposed years of alleged police and judicial failures in France.",
-        "de": "Die Vergewaltigung und Ermordung der 11-jährigen Lyhanna hat Jahre angeblicher polizeilicher und gerichtlicher Mängel in Frankreich aufgedeckt."
+        "zh": "美国总统特朗普威胁要攻击伊朗一处地下核设施，称其为“镐山”。这一声明引发了国际社会的广泛关注。",
+        "en": "U.S. President Trump has threatened to attack an underground nuclear facility in Iran, referred to as 'Pickaxe Mountain.' This statement has drawn significant international attention.",
+        "de": "US-Präsident Trump hat mit einem Angriff auf eine unterirdische Nuklearanlage im Iran gedroht, die als 'Pickaxe Mountain' bezeichnet wird. Diese Aussage hat erhebliche internationale Aufmerksamkeit erregt."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/features/2026/7/13/how-lyhannas-murder-case-is-shedding-light-on-child-abuse-in-france?traffic_source=rss"
+      "date": "2026-07-14",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "DR刚果埃博拉中心的工作人员罢工，病毒继续传播",
-        "en": "Staff at DR Congo Ebola centre strike as virus continues spreading",
-        "de": "Mitarbeiter des Ebola-Zentrums in der DR Kongo streiken, während sich das Virus weiter ausbreitet"
+        "zh": "墨西哥的谢因鲍姆宣布在美国对ICE死亡事件提起刑事指控请求",
+        "en": "Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths",
+        "de": "Mexikos Sheinbaum kündigt Antrag auf Strafverfolgung in den USA wegen ICE-Todesfällen an"
       },
       "summary": {
-        "zh": "由于迟发的工资，刚果民主共和国的埃博拉中心工作人员罢工，公共卫生官员确认病毒已传播到两个新省。",
-        "en": "Staff at the Ebola center in the Democratic Republic of Congo are striking over late payments as public health officials confirm the virus has spread to two more provinces.",
-        "de": "Mitarbeiter des Ebola-Zentrums in der Demokratischen Republik Kongo streiken wegen verspäteter Zahlungen, während die Gesundheitsbehörden bestätigen, dass sich das Virus auf zwei weitere Provinzen ausgeweitet hat."
+        "zh": "墨西哥政府将正式要求美国检方对在移民行动中死亡的公民提起诉讼，此举引发了两国间的紧张关系。",
+        "en": "The Mexican government will formally request U.S. prosecutors to file charges regarding the deaths of its citizens during immigration operations, escalating tensions between the two countries.",
+        "de": "Die mexikanische Regierung wird formell die US-Staatsanwälte auffordern, Anklage wegen der Todesfälle ihrer Bürger während der Einwanderungsoperationen zu erheben, was die Spannungen zwischen den beiden Ländern verschärft."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/news/2026/7/13/staff-at-congo-ebola-centre-strike-as-virus-continues-spreading?traffic_source=rss"
+      "date": "2026-07-14",
+      "url": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国对古巴旅游部和国有企业实施新制裁",
-        "en": "US imposes new sanctions on Cuba tourism ministry, state-owned companies",
-        "de": "Die USA verhängen neue Sanktionen gegen das kubanische Tourismusministerium und staatliche Unternehmen"
+        "zh": "巴西法院禁止博索纳罗的儿子在90天内探视前总统",
+        "en": "Brazil court bars Bolsonaro’s son from visiting ex-president for 90 days",
+        "de": "Brasilianisches Gericht verbietet Bolsonaros Sohn, den Ex-Präsidenten 90 Tage lang zu besuchen"
       },
       "summary": {
-        "zh": "美国财政部发布的新指令对古巴的旅游部和国有企业实施了制裁。",
-        "en": "The US Treasury Department has posted a new directive imposing sanctions on Cuba's tourism ministry and state-owned companies.",
-        "de": "Das US-Finanzministerium hat eine neue Anordnung veröffentlicht, die Sanktionen gegen das kubanische Tourismusministerium und staatliche Unternehmen verhängt."
+        "zh": "巴西最高法院禁止前总统博索纳罗的儿子在社交媒体上发布内容后探视其父，反映出政治局势的紧张。",
+        "en": "Brazil's Supreme Court has barred the son of former President Bolsonaro from visiting his father after a social media post, reflecting the tense political climate.",
+        "de": "Der Oberste Gerichtshof Brasiliens hat dem Sohn des ehemaligen Präsidenten Bolsonaro verboten, seinen Vater nach einem Social-Media-Beitrag zu besuchen, was das angespannte politische Klima widerspiegelt."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-13",
-      "url": "https://www.aljazeera.com/economy/2026/7/13/us-imposes-new-sanctions-on-cuba-tourism-ministry-state-owned-companies?traffic_source=rss"
+      "date": "2026-07-14",
+      "url": "https://www.aljazeera.com/news/2026/7/14/brazil-court-bars-bolsonaros-son-from-visiting-ex-president-for-90-days?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -109,9 +109,9 @@
         "de": "Indiens Inflation beschleunigt sich im Juni auf 4,38 % und übertrifft die Prognosen"
       },
       "summary": {
-        "zh": "印度的通胀已连续第八个月上升，食品和能源价格因伊朗战争和降雨不足而上涨。",
-        "en": "India's inflation has risen for the eighth consecutive month, driven by rising food and energy prices due to the Iran war and deficient rainfall.",
-        "de": "Die Inflation in Indien ist im achten Monat in Folge gestiegen, bedingt durch steigende Lebensmittel- und Energiepreise aufgrund des Iran-Kriegs und unzureichenden Niederschlags."
+        "zh": "印度的通货膨胀率在6月达到了4.38%，这是连续第八个月上升，主要受到食品和能源价格上涨的影响。",
+        "en": "India's inflation rate reached 4.38% in June, marking the eighth consecutive month of increase, primarily driven by rising food and energy prices.",
+        "de": "Die Inflationsrate Indiens erreichte im Juni 4,38 %, was den achten aufeinanderfolgenden Anstieg markiert, der hauptsächlich durch steigende Lebensmittel- und Energiepreise getrieben wird."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-13",
@@ -122,12 +122,12 @@
       "title": {
         "zh": "‘乐趣通胀’影响家庭：为什么待在家里不再是省钱的选择",
         "en": "‘Funflation’ hits home: Why staying in isn't the cost-saver it used to be",
-        "de": "„Funflation“ trifft zu Hause: Warum das Verweilen zu Hause nicht mehr die Kostenersparnis ist, die es einmal war"
+        "de": "‘Funflation’ trifft die Haushalte: Warum das Verweilen zu Hause nicht mehr die Kostenersparnis ist, die es einmal war"
       },
       "summary": {
-        "zh": "随着价格上涨，家庭娱乐活动如观看电影或玩视频游戏的费用也在增加。",
-        "en": "As prices rise, the costs of at-home pastimes like streaming movies or playing video games are also increasing.",
-        "de": "Mit steigenden Preisen steigen auch die Kosten für Freizeitaktivitäten zu Hause wie das Streamen von Filmen oder das Spielen von Videospielen."
+        "zh": "由于价格上涨，家庭在家中娱乐的成本显著增加，导致“乐趣通胀”现象的出现。",
+        "en": "Due to rising prices, the cost of home entertainment has significantly increased, leading to the emergence of the phenomenon known as 'funflation.'",
+        "de": "Aufgrund steigender Preise sind die Kosten für die Unterhaltung zu Hause erheblich gestiegen, was zur Entstehung des Phänomens 'Funflation' geführt hat."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-13",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "中国6月消费者价格增长减弱，生产者通胀升至近4年高点",
-        "en": "China consumer price growth weakens in June while producer inflation rises to near 4-year high",
-        "de": "Chinas Verbraucherpreiswachstum schwächt sich im Juni ab, während die Produzenteninflation auf den höchsten Stand seit fast 4 Jahren steigt"
+        "zh": "‘借贷狂潮’是股市的警告信号",
+        "en": "Why a borrowing binge by investors is a warning sign for the stock market",
+        "de": "Warum ein Kreditrausch der Investoren ein Warnsignal für den Aktienmarkt ist"
       },
       "summary": {
-        "zh": "投资者越来越将中国的双速增长视为中国经济的长期特征，出口强劲而国内需求疲软。",
-        "en": "Investors increasingly view China's two-speed growth, with robust exports and tepid domestic demand, as a defining long-term feature of the Chinese economy.",
-        "de": "Investoren betrachten Chinas zweigleisiges Wachstum, mit robusten Exporten und schwacher Inlandsnachfrage, zunehmend als ein prägendes langfristiges Merkmal der chinesischen Wirtschaft."
+        "zh": "投资者借贷购买股票的现象日益严重，反映出市场贪婪的迹象，这可能会对股市产生负面影响。",
+        "en": "The phenomenon of investors borrowing to purchase stocks is becoming increasingly prevalent, reflecting signs of greed in the market, which could negatively impact the stock market.",
+        "de": "Das Phänomen, dass Investoren Kredite aufnehmen, um Aktien zu kaufen, wird zunehmend verbreitet und spiegelt Anzeichen von Gier auf dem Markt wider, was sich negativ auf den Aktienmarkt auswirken könnte."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-09",
-      "url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-13",
+      "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories"
     }
   ]
 }
