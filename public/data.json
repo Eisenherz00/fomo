@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-07-15T06:37:10.277431+00:00",
+  "generatedAt": "2026-07-15T17:42:48.236188+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：Claude的内部工作原理，以及世界模型的未来",
-        "en": "The Download: Claude’s inner workings, and the future of world models",
-        "de": "Der Download: Claudes innere Funktionsweise und die Zukunft der Weltmodelle"
+        "zh": "认识GPT-Red：OpenAI构建的LLM超级黑客，以提高其模型的安全性",
+        "en": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "de": "Lernen Sie GPT-Red kennen: einen LLM-Super-Hacker, den OpenAI entwickelt hat, um seine Modelle sicherer zu machen"
       },
       "summary": {
-        "zh": "本期下载提供了关于Claude的内部工作原理的深入分析，以及世界模型在未来人工智能中的潜在应用。",
-        "en": "This edition of The Download provides an in-depth analysis of Claude's inner workings and the potential applications of world models in future AI.",
-        "de": "Diese Ausgabe des Downloads bietet eine eingehende Analyse von Claudes inneren Abläufen und den potenziellen Anwendungen von Weltmodellen in der zukünftigen KI."
+        "zh": "OpenAI开发了一款名为GPT-Red的LLM超级黑客，作为其其他模型的对抗伙伴，旨在增强其对网络攻击的防御能力。",
+        "en": "OpenAI has developed an LLM super-hacker named GPT-Red, which serves as a sparring partner for its other models to enhance their defenses against cyber attacks.",
+        "de": "OpenAI hat einen LLM-Super-Hacker namens GPT-Red entwickelt, der als Sparringspartner für seine anderen Modelle dient, um deren Verteidigung gegen Cyberangriffe zu verbessern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-14",
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
+      "date": "2026-07-15",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "PsiQuantum计划用光制造一个巨大的量子计算机",
+        "zh": "PsiQuantum计划利用光制造大型量子计算机",
         "en": "PsiQuantum has a plan to make a massive quantum computer out of light",
         "de": "PsiQuantum hat einen Plan, einen massiven Quantencomputer aus Licht zu bauen"
       },
       "summary": {
-        "zh": "PsiQuantum的计划是建造一个巨大的量子计算机，该计算机将利用光作为其主要构建材料，可能会改变世界。",
-        "en": "PsiQuantum's plan is to build a massive quantum computer that will use light as its primary building material, potentially changing the world.",
-        "de": "Der Plan von PsiQuantum ist es, einen massiven Quantencomputer zu bauen, der Licht als Hauptbaumaterial nutzt und möglicherweise die Welt verändern wird."
+        "zh": "PsiQuantum提出了一项计划，利用光来构建一台大型量子计算机，该计算机可能会改变世界。",
+        "en": "PsiQuantum has proposed a plan to build a massive quantum computer using light, which could change the world.",
+        "de": "PsiQuantum hat einen Plan vorgeschlagen, einen massiven Quantencomputer aus Licht zu bauen, der die Welt verändern könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-14",
@@ -36,118 +36,117 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "关于Anthropic最新AI发现的分析",
-        "en": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-        "de": "Was Anthropics neueste KI-Entdeckung zeigt – und was nicht"
+        "zh": "微软的安全启动已被破坏十年，直到现在才被发现",
+        "en": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+        "de": "Microsofts Secure Boot ist seit einem Jahrzehnt kaputt und niemand hat es bis jetzt bemerkt"
       },
       "summary": {
-        "zh": "这篇文章分析了Anthropic最新的AI发现，探讨了其在理解大型语言模型方面的意义与局限性。",
-        "en": "This article analyzes Anthropic's latest AI discovery, exploring its significance and limitations in understanding large language models.",
-        "de": "Dieser Artikel analysiert Anthropics neueste KI-Entdeckung und untersucht deren Bedeutung und Einschränkungen beim Verständnis großer Sprachmodelle."
+        "zh": "微软的安全启动功能由于未被撤销的旧“垫片”而被轻易绕过，直到现在才被发现。",
+        "en": "Microsoft's Secure Boot feature has been easily bypassed due to old 'shims' that were never revoked, only now coming to light.",
+        "de": "Die Secure Boot-Funktion von Microsoft wurde aufgrund alter 'Shims', die nie widerrufen wurden, leicht umgangen und kommt erst jetzt ans Licht."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-07-13",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      "source": "Ars Technica – AI",
+      "date": "2026-07-14",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普威胁轰炸桥梁和电厂，除非伊朗恢复谈判",
-        "en": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-        "de": "Trump droht, Brücken und Kraftwerke zu bombardieren, wenn Iran die Gespräche nicht wieder aufnimmt"
+        "zh": "在参议院确认听证会上，托德·布兰奇对特朗普的忠诚受到质疑",
+        "en": "Todd Blanche’s loyalty to Trump questioned in Senate confirmation hearing",
+        "de": "Todd Blanches Loyalität zu Trump wird in der Bestätigungsanhörung des Senats in Frage gestellt"
       },
       "summary": {
-        "zh": "特朗普在两国连续交火的背景下发表了这一威胁，表明美国与伊朗之间的紧张局势正在加剧。",
-        "en": "Trump issued this threat amid ongoing exchanges of fire between the two countries, indicating that tensions between the U.S. and Iran are escalating.",
-        "de": "Trump äußerte diese Drohung vor dem Hintergrund anhaltender Gefechte zwischen den beiden Ländern, was darauf hindeutet, dass die Spannungen zwischen den USA und dem Iran zunehmen."
+        "zh": "在参议院的确认听证会上，托德·布兰奇的行为引发了对他作为司法部领导的独立性的质疑。",
+        "en": "During the Senate confirmation hearing, Todd Blanche's actions raised questions about his independence as the head of the Department of Justice.",
+        "de": "Während der Bestätigungsanhörung des Senats wurden Todd Blanches Handlungen in Frage gestellt, die seine Unabhängigkeit als Leiter des Justizministeriums betreffen."
       },
-      "source": "BBC News",
+      "source": "Al Jazeera",
       "date": "2026-07-15",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/15/todd-blanches-loyalty-to-trump-questioned-in-senate-confirmation-hearing?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普欢迎伊拉克总理到白宫，承诺“很多交易”",
-        "en": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
-        "de": "Trump empfängt den irakischen Premierminister im Weißen Haus und verspricht 'viele Geschäfte'"
+        "zh": "为什么右翼政党在拉丁美洲崛起？",
+        "en": "Why are right-wing parties gaining ground in Latin America?",
+        "de": "Warum gewinnen rechte Parteien in Lateinamerika an Boden?"
       },
       "summary": {
-        "zh": "特朗普与伊拉克总理阿里·扎伊迪在白宫会面，双方承诺深化经济关系，推动双边合作。",
-        "en": "Trump met with Iraqi Prime Minister Ali al-Zaidi at the White House, pledging to deepen economic ties and promote bilateral cooperation.",
-        "de": "Trump traf sich im Weißen Haus mit dem irakischen Premierminister Ali al-Zaidi und versprach, die wirtschaftlichen Beziehungen zu vertiefen und die bilaterale Zusammenarbeit zu fördern."
+        "zh": "最近的几次选举加强了拉丁美洲部分地区的保守力量，反映了右翼政党的崛起。",
+        "en": "Recent elections have strengthened conservative forces across parts of Latin America, reflecting the rise of right-wing parties.",
+        "de": "Jüngste Wahlen haben die konservativen Kräfte in Teilen Lateinamerikas gestärkt, was den Aufstieg der rechten Parteien widerspiegelt."
       },
       "source": "Al Jazeera",
       "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/why-are-right-wing-parties-gaining-ground-in-latin-america?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国近75%的人认为政治中金钱过多",
-        "en": "Nearly 75% of Americans think there’s too much money in politics",
-        "de": "Fast 75 % der Amerikaner glauben, dass es zu viel Geld in der Politik gibt"
+        "zh": "泽连斯基支持国家能源公司首席执行官科列茨基担任新乌克兰总理",
+        "en": "Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM",
+        "de": "Zelenskyy unterstützt den Chef des staatlichen Energieunternehmens Koretskyi als neuen Premierminister der Ukraine"
       },
       "summary": {
-        "zh": "调查显示，越来越多的美国人对政治资金的影响表示担忧，认为即将到来的选举将是历史上最昂贵的选举之一。",
-        "en": "Surveys show that an increasing number of Americans are concerned about the influence of money in politics, believing that the upcoming elections will be among the most expensive in history.",
-        "de": "Umfragen zeigen, dass immer mehr Amerikaner besorgt über den Einfluss von Geld in der Politik sind und glauben, dass die bevorstehenden Wahlen zu den teuersten in der Geschichte gehören werden."
+        "zh": "乌克兰总统泽连斯基支持国家能源公司首席执行官科列茨基担任新总理，预计议会将在周四投票。",
+        "en": "Ukrainian President Zelenskyy supports state energy company chief Koretskyi for the new prime minister, with a parliamentary vote expected on Thursday.",
+        "de": "Der ukrainische Präsident Zelenskyy unterstützt den Chef des staatlichen Energieunternehmens Koretskyi als neuen Premierminister, wobei eine Abstimmung im Parlament am Donnerstag erwartet wird."
       },
       "source": "Al Jazeera",
       "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/15/zelenskyy-backs-state-energy-company-chief-koretskyi-for-new-pm?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "中国第二季度增长放缓至自2022年以来的最低水平，投资下滑，刺激呼声高涨",
-        "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Forderungen nach Stimulus zunehmen"
+        "zh": "6月份批发价格意外下降0.3%，汽油大幅下跌",
+        "en": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
+        "de": "Die Großhandelspreise sind im Juni unerwartet um 0,3 % gefallen, da die Benzinpreise stark gesunken sind"
       },
       "summary": {
-        "zh": "中国的第二季度经济增长未能达到政府设定的目标，投资下滑引发了对经济刺激措施的呼声。",
-        "en": "China's second-quarter economic growth fell short of government targets, with declining investment prompting calls for economic stimulus.",
-        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal blieb hinter den staatlichen Zielen zurück, was aufgrund sinkender Investitionen Forderungen nach wirtschaftlichen Stimuli auslöste."
+        "zh": "由于能源成本的缓解，6月份批发价格意外下降，尤其是汽油价格大幅下跌。",
+        "en": "Wholesale prices unexpectedly declined in June due to easing energy costs, particularly with a significant drop in gasoline prices.",
+        "de": "Die Großhandelspreise sind im Juni unerwartet gefallen, da die Energiekosten gesenkt wurden, insbesondere mit einem signifikanten Rückgang der Benzinpreise."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-07-15",
-      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
+      "url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者价格在6月份同比上涨3.5%，低于预期",
-        "en": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
-        "de": "Die Verbraucherpreise stiegen im Juni im Jahresvergleich um 3,5 %, weniger als erwartet, da die Energiepreise sanken"
+        "zh": "中国第二季度增长放缓至2022年以来最低，投资下滑，刺激呼声加大",
+        "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls"
       },
       "summary": {
-        "zh": "尽管6月份的消费者价格指数上涨，但由于能源价格的放缓，涨幅低于预期。",
-        "en": "Although the consumer price index rose in June, the increase was less than expected due to a slowdown in energy prices.",
-        "de": "Obwohl der Verbraucherpreisindex im Juni stieg, war der Anstieg aufgrund eines Rückgangs der Energiepreise geringer als erwartet."
+        "zh": "中国第二季度的经济增长低于北京设定的全年增长目标范围，投资下滑引发了对刺激措施的呼声。",
+        "en": "China's second-quarter economic growth fell below Beijing's full-year target range, prompting calls for stimulus as investment slumps.",
+        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel unter die von Peking festgelegte Zielspanne für das gesamte Jahr, was Forderungen nach Stimulusmaßnahmen auslöste, da die Investitionen zurückgingen."
       },
-      "source": "CNBC",
-      "date": "2026-07-14",
-      "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
+      "source": "CNBC – Markets",
+      "date": "2026-07-15",
+      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "印度6月份通胀加速至4.38%，超出预期",
-        "en": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
-        "de": "Indiens Inflation beschleunigt sich im Juni auf 4,38 % und übertrifft die Prognosen"
+        "zh": "美国炼油商在伊朗战争引发的巨大繁荣中可能利润增长超过三倍",
+        "en": "America’s oil refiners could more than triple profits as Iran war sparks massive boom",
+        "de": "Amerikas Ölraffinerien könnten ihre Gewinne mehr als verdreifachen, da der Iran-Krieg einen massiven Boom auslöst"
       },
       "summary": {
-        "zh": "印度的通货膨胀在6月份加速，主要受到食品和能源价格上涨的影响，超出了经济学家的预期。",
-        "en": "India's inflation accelerated in June, primarily driven by rising food and energy prices, exceeding economists' forecasts.",
-        "de": "Die Inflation in Indien beschleunigte sich im Juni, hauptsächlich bedingt durch steigende Lebensmittel- und Energiepreise, und übertraf die Prognosen der Ökonomen."
+        "zh": "由于供应中断，美国炼油商预计将报告历史性的利润激增，可能利润增长超过三倍。",
+        "en": "U.S. oil refiners are expected to report a historic profit surge due to supply disruptions caused by the Iran war, potentially tripling their profits.",
+        "de": "Die US-Ölraffinerien werden voraussichtlich aufgrund von Lieferunterbrechungen durch den Iran-Krieg einen historischen Gewinnanstieg melden, der ihre Gewinne möglicherweise mehr als verdreifacht."
       },
-      "source": "CNBC",
-      "date": "2026-07-13",
-      "url": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-15",
+      "url": "https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories"
     }
   ]
 }
