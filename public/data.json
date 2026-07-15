@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-14T06:36:08.804678+00:00",
+  "generatedAt": "2026-07-15T06:37:10.277431+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "Anthropic最新的AI发现展示了什么——以及没有展示什么",
-        "en": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-        "de": "Was Anthropics neueste KI-Entdeckung zeigt – und was nicht"
+        "zh": "下载：Claude的内部工作原理，以及世界模型的未来",
+        "en": "The Download: Claude’s inner workings, and the future of world models",
+        "de": "Der Download: Claudes innere Funktionsweise und die Zukunft der Weltmodelle"
       },
       "summary": {
-        "zh": "Anthropic的最新研究揭示了大型语言模型内部运作的清晰视角，尽管仍有许多未解之谜。该技术为理解AI的思维过程提供了新的工具。",
-        "en": "Anthropic's latest research offers a clearer view of the inner workings of large language models, although many mysteries remain unsolved. This technique provides new tools for understanding AI's thought processes.",
-        "de": "Anthropics neueste Forschung bietet einen klareren Blick auf die inneren Abläufe großer Sprachmodelle, obwohl viele Rätsel ungelöst bleiben. Diese Technik bietet neue Werkzeuge zum Verständnis der Denkprozesse von KI."
+        "zh": "本期下载提供了关于Claude的内部工作原理的深入分析，以及世界模型在未来人工智能中的潜在应用。",
+        "en": "This edition of The Download provides an in-depth analysis of Claude's inner workings and the potential applications of world models in future AI.",
+        "de": "Diese Ausgabe des Downloads bietet eine eingehende Analyse von Claudes inneren Abläufen und den potenziellen Anwendungen von Weltmodellen in der zukünftigen KI."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-13",
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      "date": "2026-07-14",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：捐赠者概念上限和AI的世界模型",
-        "en": "The Download: a donor conception cap and world models for AI",
-        "de": "Der Download: Eine Obergrenze für Spenderkonzeptionen und Weltmodelle für KI"
+        "zh": "PsiQuantum计划用光制造一个巨大的量子计算机",
+        "en": "PsiQuantum has a plan to make a massive quantum computer out of light",
+        "de": "PsiQuantum hat einen Plan, einen massiven Quantencomputer aus Licht zu bauen"
       },
       "summary": {
-        "zh": "本期下载讨论了捐赠者概念的限制以及AI世界模型的发展，强调了技术在生育和AI领域的影响。",
-        "en": "This edition of The Download discusses limits on donor conception and the development of AI world models, highlighting the impact of technology in reproductive and AI fields.",
-        "de": "Diese Ausgabe des Downloads behandelt die Grenzen der Spenderkonzeption und die Entwicklung von KI-Weltmodellen und hebt die Auswirkungen der Technologie in den Bereichen Fortpflanzung und KI hervor."
+        "zh": "PsiQuantum的计划是建造一个巨大的量子计算机，该计算机将利用光作为其主要构建材料，可能会改变世界。",
+        "en": "PsiQuantum's plan is to build a massive quantum computer that will use light as its primary building material, potentially changing the world.",
+        "de": "Der Plan von PsiQuantum ist es, einen massiven Quantencomputer zu bauen, der Licht als Hauptbaumaterial nutzt und möglicherweise die Welt verändern wird."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-13",
-      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/"
+      "date": "2026-07-14",
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "黑客可以使用9种最流行的AI工具组装大型僵尸网络",
-        "en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-        "de": "Hacker können 9 der beliebtesten KI-Tools verwenden, um massive Botnetze zusammenzustellen"
+        "zh": "关于Anthropic最新AI发现的分析",
+        "en": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "de": "Was Anthropics neueste KI-Entdeckung zeigt – und was nicht"
       },
       "summary": {
-        "zh": "研究表明，黑客利用流行的AI工具来组建大规模的僵尸网络，利用其能力进行网络攻击。这一趋势引发了对网络安全的担忧。",
-        "en": "Research indicates that hackers are using popular AI tools to assemble massive botnets, leveraging their capabilities for cyber attacks. This trend raises concerns about cybersecurity.",
-        "de": "Forschungen zeigen, dass Hacker beliebte KI-Tools nutzen, um massive Botnetze zusammenzustellen und deren Fähigkeiten für Cyberangriffe auszunutzen. Dieser Trend wirft Bedenken hinsichtlich der Cybersicherheit auf."
+        "zh": "这篇文章分析了Anthropic最新的AI发现，探讨了其在理解大型语言模型方面的意义与局限性。",
+        "en": "This article analyzes Anthropic's latest AI discovery, exploring its significance and limitations in understanding large language models.",
+        "de": "Dieser Artikel analysiert Anthropics neueste KI-Entdeckung und untersucht deren Bedeutung und Einschränkungen beim Verständnis großer Sprachmodelle."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-07-08",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
+      "source": "MIT Technology Review",
+      "date": "2026-07-13",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普威胁攻击伊朗境内的“镐山”核设施",
-        "en": "Trump threatens to attack ‘Pickaxe Mountain’ a nuclear facility inside Iran",
-        "de": "Trump droht mit einem Angriff auf die ‘Pickaxe Mountain’-Nuklearanlage im Iran"
+        "zh": "特朗普威胁轰炸桥梁和电厂，除非伊朗恢复谈判",
+        "en": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+        "de": "Trump droht, Brücken und Kraftwerke zu bombardieren, wenn Iran die Gespräche nicht wieder aufnimmt"
       },
       "summary": {
-        "zh": "美国总统特朗普威胁要攻击伊朗一处地下核设施，称其为“镐山”。这一声明引发了国际社会的广泛关注。",
-        "en": "U.S. President Trump has threatened to attack an underground nuclear facility in Iran, referred to as 'Pickaxe Mountain.' This statement has drawn significant international attention.",
-        "de": "US-Präsident Trump hat mit einem Angriff auf eine unterirdische Nuklearanlage im Iran gedroht, die als 'Pickaxe Mountain' bezeichnet wird. Diese Aussage hat erhebliche internationale Aufmerksamkeit erregt."
+        "zh": "特朗普在两国连续交火的背景下发表了这一威胁，表明美国与伊朗之间的紧张局势正在加剧。",
+        "en": "Trump issued this threat amid ongoing exchanges of fire between the two countries, indicating that tensions between the U.S. and Iran are escalating.",
+        "de": "Trump äußerte diese Drohung vor dem Hintergrund anhaltender Gefechte zwischen den beiden Ländern, was darauf hindeutet, dass die Spannungen zwischen den USA und dem Iran zunehmen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-07-14",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-threatens-to-attack-pickaxe-mountain-a-nuclear-facility-inside-ira?traffic_source=rss"
+      "source": "BBC News",
+      "date": "2026-07-15",
+      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "墨西哥的谢因鲍姆宣布在美国对ICE死亡事件提起刑事指控请求",
-        "en": "Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths",
-        "de": "Mexikos Sheinbaum kündigt Antrag auf Strafverfolgung in den USA wegen ICE-Todesfällen an"
+        "zh": "特朗普欢迎伊拉克总理到白宫，承诺“很多交易”",
+        "en": "Trump welcomes Iraqi PM to White House, vows ‘a lot of deals’",
+        "de": "Trump empfängt den irakischen Premierminister im Weißen Haus und verspricht 'viele Geschäfte'"
       },
       "summary": {
-        "zh": "墨西哥政府将正式要求美国检方对在移民行动中死亡的公民提起诉讼，此举引发了两国间的紧张关系。",
-        "en": "The Mexican government will formally request U.S. prosecutors to file charges regarding the deaths of its citizens during immigration operations, escalating tensions between the two countries.",
-        "de": "Die mexikanische Regierung wird formell die US-Staatsanwälte auffordern, Anklage wegen der Todesfälle ihrer Bürger während der Einwanderungsoperationen zu erheben, was die Spannungen zwischen den beiden Ländern verschärft."
+        "zh": "特朗普与伊拉克总理阿里·扎伊迪在白宫会面，双方承诺深化经济关系，推动双边合作。",
+        "en": "Trump met with Iraqi Prime Minister Ali al-Zaidi at the White House, pledging to deepen economic ties and promote bilateral cooperation.",
+        "de": "Trump traf sich im Weißen Haus mit dem irakischen Premierminister Ali al-Zaidi und versprach, die wirtschaftlichen Beziehungen zu vertiefen und die bilaterale Zusammenarbeit zu fördern."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-14",
-      "url": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths?traffic_source=rss"
+      "date": "2026-07-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/aje-onl-nf_trump-welcomes-iraqi-pm-to-white-house-140726?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "巴西法院禁止博索纳罗的儿子在90天内探视前总统",
-        "en": "Brazil court bars Bolsonaro’s son from visiting ex-president for 90 days",
-        "de": "Brasilianisches Gericht verbietet Bolsonaros Sohn, den Ex-Präsidenten 90 Tage lang zu besuchen"
+        "zh": "美国近75%的人认为政治中金钱过多",
+        "en": "Nearly 75% of Americans think there’s too much money in politics",
+        "de": "Fast 75 % der Amerikaner glauben, dass es zu viel Geld in der Politik gibt"
       },
       "summary": {
-        "zh": "巴西最高法院禁止前总统博索纳罗的儿子在社交媒体上发布内容后探视其父，反映出政治局势的紧张。",
-        "en": "Brazil's Supreme Court has barred the son of former President Bolsonaro from visiting his father after a social media post, reflecting the tense political climate.",
-        "de": "Der Oberste Gerichtshof Brasiliens hat dem Sohn des ehemaligen Präsidenten Bolsonaro verboten, seinen Vater nach einem Social-Media-Beitrag zu besuchen, was das angespannte politische Klima widerspiegelt."
+        "zh": "调查显示，越来越多的美国人对政治资金的影响表示担忧，认为即将到来的选举将是历史上最昂贵的选举之一。",
+        "en": "Surveys show that an increasing number of Americans are concerned about the influence of money in politics, believing that the upcoming elections will be among the most expensive in history.",
+        "de": "Umfragen zeigen, dass immer mehr Amerikaner besorgt über den Einfluss von Geld in der Politik sind und glauben, dass die bevorstehenden Wahlen zu den teuersten in der Geschichte gehören werden."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-14",
-      "url": "https://www.aljazeera.com/news/2026/7/14/brazil-court-bars-bolsonaros-son-from-visiting-ex-president-for-90-days?traffic_source=rss"
+      "date": "2026-07-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/nearly-75-of-americans-think-theres-too-much-money-in-politics?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "印度6月通胀加速至4.38%，超出预期",
-        "en": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
-        "de": "Indiens Inflation beschleunigt sich im Juni auf 4,38 % und übertrifft die Prognosen"
+        "zh": "中国第二季度增长放缓至自2022年以来的最低水平，投资下滑，刺激呼声高涨",
+        "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Forderungen nach Stimulus zunehmen"
       },
       "summary": {
-        "zh": "印度的通货膨胀率在6月达到了4.38%，这是连续第八个月上升，主要受到食品和能源价格上涨的影响。",
-        "en": "India's inflation rate reached 4.38% in June, marking the eighth consecutive month of increase, primarily driven by rising food and energy prices.",
-        "de": "Die Inflationsrate Indiens erreichte im Juni 4,38 %, was den achten aufeinanderfolgenden Anstieg markiert, der hauptsächlich durch steigende Lebensmittel- und Energiepreise getrieben wird."
+        "zh": "中国的第二季度经济增长未能达到政府设定的目标，投资下滑引发了对经济刺激措施的呼声。",
+        "en": "China's second-quarter economic growth fell short of government targets, with declining investment prompting calls for economic stimulus.",
+        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal blieb hinter den staatlichen Zielen zurück, was aufgrund sinkender Investitionen Forderungen nach wirtschaftlichen Stimuli auslöste."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-13",
-      "url": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html"
+      "source": "CNBC",
+      "date": "2026-07-15",
+      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "‘乐趣通胀’影响家庭：为什么待在家里不再是省钱的选择",
-        "en": "‘Funflation’ hits home: Why staying in isn't the cost-saver it used to be",
-        "de": "‘Funflation’ trifft die Haushalte: Warum das Verweilen zu Hause nicht mehr die Kostenersparnis ist, die es einmal war"
+        "zh": "消费者价格在6月份同比上涨3.5%，低于预期",
+        "en": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
+        "de": "Die Verbraucherpreise stiegen im Juni im Jahresvergleich um 3,5 %, weniger als erwartet, da die Energiepreise sanken"
       },
       "summary": {
-        "zh": "由于价格上涨，家庭在家中娱乐的成本显著增加，导致“乐趣通胀”现象的出现。",
-        "en": "Due to rising prices, the cost of home entertainment has significantly increased, leading to the emergence of the phenomenon known as 'funflation.'",
-        "de": "Aufgrund steigender Preise sind die Kosten für die Unterhaltung zu Hause erheblich gestiegen, was zur Entstehung des Phänomens 'Funflation' geführt hat."
+        "zh": "尽管6月份的消费者价格指数上涨，但由于能源价格的放缓，涨幅低于预期。",
+        "en": "Although the consumer price index rose in June, the increase was less than expected due to a slowdown in energy prices.",
+        "de": "Obwohl der Verbraucherpreisindex im Juni stieg, war der Anstieg aufgrund eines Rückgangs der Energiepreise geringer als erwartet."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-13",
-      "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html"
+      "source": "CNBC",
+      "date": "2026-07-14",
+      "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "‘借贷狂潮’是股市的警告信号",
-        "en": "Why a borrowing binge by investors is a warning sign for the stock market",
-        "de": "Warum ein Kreditrausch der Investoren ein Warnsignal für den Aktienmarkt ist"
+        "zh": "印度6月份通胀加速至4.38%，超出预期",
+        "en": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
+        "de": "Indiens Inflation beschleunigt sich im Juni auf 4,38 % und übertrifft die Prognosen"
       },
       "summary": {
-        "zh": "投资者借贷购买股票的现象日益严重，反映出市场贪婪的迹象，这可能会对股市产生负面影响。",
-        "en": "The phenomenon of investors borrowing to purchase stocks is becoming increasingly prevalent, reflecting signs of greed in the market, which could negatively impact the stock market.",
-        "de": "Das Phänomen, dass Investoren Kredite aufnehmen, um Aktien zu kaufen, wird zunehmend verbreitet und spiegelt Anzeichen von Gier auf dem Markt wider, was sich negativ auf den Aktienmarkt auswirken könnte."
+        "zh": "印度的通货膨胀在6月份加速，主要受到食品和能源价格上涨的影响，超出了经济学家的预期。",
+        "en": "India's inflation accelerated in June, primarily driven by rising food and energy prices, exceeding economists' forecasts.",
+        "de": "Die Inflation in Indien beschleunigte sich im Juni, hauptsächlich bedingt durch steigende Lebensmittel- und Energiepreise, und übertraf die Prognosen der Ökonomen."
       },
-      "source": "MarketWatch – Top Stories",
+      "source": "CNBC",
       "date": "2026-07-13",
-      "url": "https://www.marketwatch.com/story/why-a-borrowing-binge-by-investors-is-a-warning-sign-for-the-stock-market-996ee446?mod=mw_rss_topstories"
+      "url": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html"
     }
   ]
 }
