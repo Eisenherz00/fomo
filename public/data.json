@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T17:42:48.236188+00:00",
+  "generatedAt": "2026-07-16T07:02:22.751977+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Lernen Sie GPT-Red kennen: einen LLM-Super-Hacker, den OpenAI entwickelt hat, um seine Modelle sicherer zu machen"
       },
       "summary": {
-        "zh": "OpenAI开发了一款名为GPT-Red的LLM超级黑客，作为其其他模型的对抗伙伴，旨在增强其对网络攻击的防御能力。",
-        "en": "OpenAI has developed an LLM super-hacker named GPT-Red, which serves as a sparring partner for its other models to enhance their defenses against cyber attacks.",
-        "de": "OpenAI hat einen LLM-Super-Hacker namens GPT-Red entwickelt, der als Sparringspartner für seine anderen Modelle dient, um deren Verteidigung gegen Cyberangriffe zu verbessern."
+        "zh": "OpenAI开发了一个名为GPT-Red的LLM超级黑客，作为其他模型的对抗伙伴，帮助增强其网络安全防御能力。",
+        "en": "OpenAI has developed an LLM super-hacker named GPT-Red, which serves as a sparring partner for its other models to enhance their cybersecurity defenses.",
+        "de": "OpenAI hat einen LLM-Super-Hacker namens GPT-Red entwickelt, der als Sparringspartner für seine anderen Modelle dient, um deren Cybersicherheitsabwehr zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-15",
@@ -20,133 +20,134 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "PsiQuantum计划利用光制造大型量子计算机",
-        "en": "PsiQuantum has a plan to make a massive quantum computer out of light",
-        "de": "PsiQuantum hat einen Plan, einen massiven Quantencomputer aus Licht zu bauen"
+        "zh": "下载：有用的量子机器和创纪录的海底隧道",
+        "en": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+        "de": "Der Download: eine nützliche Quantenmaschine und ein rekordverdächtiger Unterwassertunnel"
       },
       "summary": {
-        "zh": "PsiQuantum提出了一项计划，利用光来构建一台大型量子计算机，该计算机可能会改变世界。",
-        "en": "PsiQuantum has proposed a plan to build a massive quantum computer using light, which could change the world.",
-        "de": "PsiQuantum hat einen Plan vorgeschlagen, einen massiven Quantencomputer aus Licht zu bauen, der die Welt verändern könnte."
+        "zh": "今天的下载版介绍了一台有用的量子机器和一个创纪录的海底隧道，展示了技术领域的最新进展。",
+        "en": "Today's edition of The Download features a useful quantum machine and a record-breaking subsea tunnel, showcasing the latest advancements in technology.",
+        "de": "Die heutige Ausgabe des Downloads präsentiert eine nützliche Quantenmaschine und einen rekordverdächtigen Unterwassertunnel und zeigt die neuesten Fortschritte in der Technologie."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-14",
-      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
+      "date": "2026-07-15",
+      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "微软的安全启动已被破坏十年，直到现在才被发现",
-        "en": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-        "de": "Microsofts Secure Boot ist seit einem Jahrzehnt kaputt und niemand hat es bis jetzt bemerkt"
+        "zh": "PsiQuantum计划用光制造一个巨大的量子计算机",
+        "en": "PsiQuantum has a plan to make a massive quantum computer out of light",
+        "de": "PsiQuantum hat einen Plan, einen massiven Quantencomputer aus Licht zu bauen"
       },
       "summary": {
-        "zh": "微软的安全启动功能由于未被撤销的旧“垫片”而被轻易绕过，直到现在才被发现。",
-        "en": "Microsoft's Secure Boot feature has been easily bypassed due to old 'shims' that were never revoked, only now coming to light.",
-        "de": "Die Secure Boot-Funktion von Microsoft wurde aufgrund alter 'Shims', die nie widerrufen wurden, leicht umgangen und kommt erst jetzt ans Licht."
+        "zh": "PsiQuantum正在计划构建一个巨大的量子计算机，该计算机将利用光的特性，可能会改变世界。",
+        "en": "PsiQuantum is planning to build a massive quantum computer that will harness the properties of light, potentially changing the world.",
+        "de": "PsiQuantum plant den Bau eines massiven Quantencomputers, der die Eigenschaften von Licht nutzen wird und möglicherweise die Welt verändern könnte."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-07-14",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/"
+      "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "在参议院确认听证会上，托德·布兰奇对特朗普的忠诚受到质疑",
-        "en": "Todd Blanche’s loyalty to Trump questioned in Senate confirmation hearing",
-        "de": "Todd Blanches Loyalität zu Trump wird in der Bestätigungsanhörung des Senats in Frage gestellt"
+        "zh": "特朗普的情报主管提名人不愿承认拜登赢得2020年选举",
+        "en": "Trump’s intelligence chief nominee won’t say Biden won 2020 election",
+        "de": "Trumps Kandidat für den Geheimdienstchef will nicht sagen, dass Biden die Wahl 2020 gewonnen hat"
       },
       "summary": {
-        "zh": "在参议院的确认听证会上，托德·布兰奇的行为引发了对他作为司法部领导的独立性的质疑。",
-        "en": "During the Senate confirmation hearing, Todd Blanche's actions raised questions about his independence as the head of the Department of Justice.",
-        "de": "Während der Bestätigungsanhörung des Senats wurden Todd Blanches Handlungen in Frage gestellt, die seine Unabhängigkeit als Leiter des Justizministeriums betreffen."
+        "zh": "特朗普提名的情报主管杰伊·克莱顿未能直接承认拜登在2020年选举中获胜，反映出党内的分歧。",
+        "en": "Jay Clayton, Trump's nominee for intelligence chief, failed to directly acknowledge that Biden won the 2020 election, reflecting divisions within the party.",
+        "de": "Jay Clayton, Trumps Kandidat für den Geheimdienstchef, hat es versäumt, direkt anzuerkennen, dass Biden die Wahl 2020 gewonnen hat, was die Spaltungen innerhalb der Partei widerspiegelt."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/news/2026/7/15/todd-blanches-loyalty-to-trump-questioned-in-senate-confirmation-hearing?traffic_source=rss"
+      "date": "2026-07-16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_trumps-intel-nominee-wont-say-biden-won-160726?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "为什么右翼政党在拉丁美洲崛起？",
-        "en": "Why are right-wing parties gaining ground in Latin America?",
-        "de": "Warum gewinnen rechte Parteien in Lateinamerika an Boden?"
+        "zh": "英国提议对青少年实施自愿的社交媒体宵禁",
+        "en": "UK proposes voluntary overnight social media curfew for older teens",
+        "de": "Vereinigtes Königreich schlägt freiwillige nächtliche Social-Media-Sperre für ältere Teenager vor"
       },
       "summary": {
-        "zh": "最近的几次选举加强了拉丁美洲部分地区的保守力量，反映了右翼政党的崛起。",
-        "en": "Recent elections have strengthened conservative forces across parts of Latin America, reflecting the rise of right-wing parties.",
-        "de": "Jüngste Wahlen haben die konservativen Kräfte in Teilen Lateinamerikas gestärkt, was den Aufstieg der rechten Parteien widerspiegelt."
+        "zh": "英国政府提出对青少年实施自愿的社交媒体宵禁，以应对数字伤害问题，这一措施是在上个月宣布的未成年人社交媒体禁令之后。",
+        "en": "The UK government has proposed a voluntary overnight social media curfew for older teens to address digital harm, following last month's announcement of a ban on social media for under-16s.",
+        "de": "Die britische Regierung hat eine freiwillige nächtliche Social-Media-Sperre für ältere Teenager vorgeschlagen, um digitalen Schaden zu bekämpfen, nachdem letzten Monat ein Verbot für unter 16-Jährige angekündigt wurde."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/why-are-right-wing-parties-gaining-ground-in-latin-america?traffic_source=rss"
+      "date": "2026-07-16",
+      "url": "https://www.aljazeera.com/news/2026/7/16/uk-proposes-voluntary-overnight-social-media-curfew-for-older-teens?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "泽连斯基支持国家能源公司首席执行官科列茨基担任新乌克兰总理",
-        "en": "Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM",
-        "de": "Zelenskyy unterstützt den Chef des staatlichen Energieunternehmens Koretskyi als neuen Premierminister der Ukraine"
+        "zh": "前美国大使称伊朗误判特朗普的决心",
+        "en": "Former US Ambassador says Iran miscalculated Trump’s resolve",
+        "de": "Ehemaliger US-Botschafter sagt, Iran habe Trumps Entschlossenheit falsch eingeschätzt"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基支持国家能源公司首席执行官科列茨基担任新总理，预计议会将在周四投票。",
-        "en": "Ukrainian President Zelenskyy supports state energy company chief Koretskyi for the new prime minister, with a parliamentary vote expected on Thursday.",
-        "de": "Der ukrainische Präsident Zelenskyy unterstützt den Chef des staatlichen Energieunternehmens Koretskyi als neuen Premierminister, wobei eine Abstimmung im Parlament am Donnerstag erwartet wird."
+        "zh": "前美国大使表示，美国与伊朗之间的夜间袭击是自谅解协议以来最为激烈的，伊朗对特朗普的决心存在误判。",
+        "en": "A former US ambassador stated that the nighttime strikes between the US and Iran have been the heaviest since the Memorandum of Understanding, indicating Iran miscalculated Trump's resolve.",
+        "de": "Ein ehemaliger US-Botschafter erklärte, dass die nächtlichen Angriffe zwischen den USA und dem Iran die heftigsten seit dem Memorandum of Understanding waren, was darauf hindeutet, dass Iran Trumps Entschlossenheit falsch eingeschätzt hat."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-15",
-      "url": "https://www.aljazeera.com/news/2026/7/15/zelenskyy-backs-state-energy-company-chief-koretskyi-for-new-pm?traffic_source=rss"
+      "date": "2026-07-16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "6月份批发价格意外下降0.3%，汽油大幅下跌",
-        "en": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
-        "de": "Die Großhandelspreise sind im Juni unerwartet um 0,3 % gefallen, da die Benzinpreise stark gesunken sind"
+        "zh": "世界杯为酒吧和餐馆带来急需的提振，消费者发出警告信号，美联储表示",
+        "en": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
+        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen notwendigen Auftrieb, während Verbraucher Warnsignale senden, sagt die Fed"
       },
       "summary": {
-        "zh": "由于能源成本的缓解，6月份批发价格意外下降，尤其是汽油价格大幅下跌。",
-        "en": "Wholesale prices unexpectedly declined in June due to easing energy costs, particularly with a significant drop in gasoline prices.",
-        "de": "Die Großhandelspreise sind im Juni unerwartet gefallen, da die Energiekosten gesenkt wurden, insbesondere mit einem signifikanten Rückgang der Benzinpreise."
+        "zh": "美联储的最新《米色书》显示，尽管世界杯为酒吧和餐馆带来了短期提振，但并未转化为更广泛的经济增长。",
+        "en": "The latest edition of the Fed's Beige Book indicates that while the World Cup provided a short-term boost for bars and restaurants, it did not translate into broader economic growth.",
+        "de": "Die neueste Ausgabe des Beige Book der Fed zeigt, dass die Weltmeisterschaft zwar kurzfristig einen Auftrieb für Bars und Restaurants brachte, dies jedoch nicht in ein breiteres Wirtschaftswachstum umschlug."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-07-15",
+      "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "6月批发价格意外下降0.3%，汽油大幅下跌",
+        "en": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
+        "de": "Die Großhandelspreise sanken im Juni unerwartet um 0,3 % aufgrund eines starken Rückgangs der Benzinpreise"
+      },
+      "summary": {
+        "zh": "由于汽油价格大幅下跌，6月的批发价格意外下降0.3%，这与消费者价格的放缓趋势相一致。",
+        "en": "Wholesale prices unexpectedly declined by 0.3% in June due to a significant drop in gasoline prices, aligning with the trend of easing consumer prices.",
+        "de": "Die Großhandelspreise sanken im Juni unerwartet um 0,3 % aufgrund eines signifikanten Rückgangs der Benzinpreise, was mit dem Trend sinkender Verbraucherpreise übereinstimmt."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
       "url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "中国第二季度增长放缓至2022年以来最低，投资下滑，刺激呼声加大",
-        "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls"
+        "zh": "中国第二季度增长放缓至自2022年以来的最低水平，刺激了对刺激措施的呼声",
+        "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen, was die Forderungen nach Stimulusmaßnahmen anheizt"
       },
       "summary": {
-        "zh": "中国第二季度的经济增长低于北京设定的全年增长目标范围，投资下滑引发了对刺激措施的呼声。",
-        "en": "China's second-quarter economic growth fell below Beijing's full-year target range, prompting calls for stimulus as investment slumps.",
-        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel unter die von Peking festgelegte Zielspanne für das gesamte Jahr, was Forderungen nach Stimulusmaßnahmen auslöste, da die Investitionen zurückgingen."
+        "zh": "中国第二季度的经济增长降至自2022年以来的最低水平，低于北京设定的4.5%至5%的年度增长目标，促使对经济刺激的呼声加大。",
+        "en": "China's economic growth in the second quarter fell to its lowest level since 2022, below Beijing's annual growth target range of 4.5% to 5%, increasing calls for economic stimulus.",
+        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel auf den niedrigsten Stand seit 2022, unter das jährliche Wachstumsziel von 4,5 % bis 5 % der Regierung in Peking, was die Forderungen nach wirtschaftlichen Stimuli verstärkte."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
       "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "美国炼油商在伊朗战争引发的巨大繁荣中可能利润增长超过三倍",
-        "en": "America’s oil refiners could more than triple profits as Iran war sparks massive boom",
-        "de": "Amerikas Ölraffinerien könnten ihre Gewinne mehr als verdreifachen, da der Iran-Krieg einen massiven Boom auslöst"
-      },
-      "summary": {
-        "zh": "由于供应中断，美国炼油商预计将报告历史性的利润激增，可能利润增长超过三倍。",
-        "en": "U.S. oil refiners are expected to report a historic profit surge due to supply disruptions caused by the Iran war, potentially tripling their profits.",
-        "de": "Die US-Ölraffinerien werden voraussichtlich aufgrund von Lieferunterbrechungen durch den Iran-Krieg einen historischen Gewinnanstieg melden, der ihre Gewinne möglicherweise mehr als verdreifacht."
-      },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-15",
-      "url": "https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories"
     }
   ]
 }
