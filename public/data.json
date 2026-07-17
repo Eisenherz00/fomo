@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-16T17:43:44.057398+00:00",
+  "generatedAt": "2026-07-17T06:40:10.011108+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "OpenAI推出GPT-Red，热泵在美国的崛起",
-        "en": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-        "de": "Der Download: OpenAI präsentiert GPT-Red und Wärmepumpen steigen in den USA"
+        "en": "OpenAI unveils GPT-Red and heat pumps rise in the US",
+        "de": "OpenAI präsentiert GPT-Red und Wärmepumpen steigen in den USA"
       },
       "summary": {
-        "zh": "OpenAI推出了GPT-Red，这是一个旨在增强其模型安全性的LLM超级黑客。同时，美国热泵的销售也在不断增长。",
-        "en": "OpenAI has launched GPT-Red, an LLM super-hacker designed to enhance the safety of its models. Meanwhile, sales of heat pumps are on the rise in the US.",
-        "de": "OpenAI hat GPT-Red vorgestellt, einen LLM-Super-Hacker, der entwickelt wurde, um die Sicherheit seiner Modelle zu erhöhen. Gleichzeitig steigen die Verkaufszahlen von Wärmepumpen in den USA."
+        "zh": "OpenAI发布了新的GPT-Red模型，旨在增强其其他模型的安全性。同时，美国的热泵销售也在持续增长，尽管夏季高温。",
+        "en": "OpenAI has released a new model called GPT-Red, designed to enhance the safety of its other models. Meanwhile, sales of heat pumps continue to rise in the US, despite the summer heat.",
+        "de": "OpenAI hat ein neues Modell namens GPT-Red veröffentlicht, das darauf abzielt, die Sicherheit seiner anderen Modelle zu erhöhen. Gleichzeitig steigen die Verkaufszahlen von Wärmepumpen in den USA weiter, trotz der Sommerhitze."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-16",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "认识GPT-Red：OpenAI构建的LLM超级黑客以提高模型安全性",
+        "zh": "OpenAI打造的LLM超级黑客GPT-Red",
         "en": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "de": "Lernen Sie GPT-Red kennen: Ein LLM-Super-Hacker, den OpenAI entwickelt hat, um seine Modelle sicherer zu machen"
+        "de": "Lernen Sie GPT-Red kennen: einen LLM-Super-Hacker, den OpenAI entwickelt hat, um seine Modelle sicherer zu machen"
       },
       "summary": {
-        "zh": "OpenAI开发的GPT-Red被用作其他模型的对抗伙伴，以增强其防御能力，抵御网络攻击。",
-        "en": "OpenAI's GPT-Red is used as a sparring partner for its other models to enhance their defenses against cyber attacks.",
-        "de": "Der GPT-Red von OpenAI wird als Sparringspartner für andere Modelle verwendet, um deren Verteidigung gegen Cyberangriffe zu verbessern."
+        "zh": "OpenAI开发了GPT-Red，一个LLM超级黑客，用作其他模型的训练伙伴，以提高其防御能力。该模型的推出旨在应对网络攻击的威胁。",
+        "en": "OpenAI has developed GPT-Red, an LLM super-hacker that serves as a training partner for its other models to enhance their defenses. The model's release aims to address the threats of cyberattacks.",
+        "de": "OpenAI hat GPT-Red entwickelt, einen LLM-Super-Hacker, der als Trainingspartner für seine anderen Modelle dient, um deren Verteidigungen zu verbessern. Die Veröffentlichung des Modells zielt darauf ab, die Bedrohungen durch Cyberangriffe anzugehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-15",
@@ -36,116 +36,116 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "能源首次公开募股激增，投资者寻找参与AI繁荣的方式",
-        "en": "Energy IPOs surge as investors hunt for ways to play AI boom",
-        "de": "Energie-IPO steigen, während Investoren nach Möglichkeiten suchen, am KI-Boom teilzuhaben"
+        "zh": "HP因“卡特尔化”被罚14亿卢比",
+        "en": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
+        "de": "HP wegen „Kartellbildung“ bei Tintenpatronen, Tonern und PCs mit 1,4 Milliarden Rupien bestraft"
       },
       "summary": {
-        "zh": "随着投资者寻找参与人工智能繁荣的机会，能源行业的首次公开募股以最快的速度增长。",
-        "en": "As investors seek opportunities to participate in the AI boom, energy sector IPOs are rising at the fastest pace this century.",
-        "de": "Während Investoren nach Möglichkeiten suchen, am KI-Boom teilzuhaben, steigen die IPOs im Energiesektor in diesem Jahrhundert am schnellsten."
+        "zh": "HP因在墨盒、碳粉和个人电脑的销售中被指控进行卡特尔化而被罚款14亿卢比。此事件引发了对公司销售策略的关注。",
+        "en": "HP has been fined 1.4 billion rupees for alleged cartelization in the sale of ink cartridges, toners, and PCs. This incident has raised concerns about the company's sales strategies.",
+        "de": "HP wurde wegen angeblicher Kartellbildung beim Verkauf von Tintenpatronen, Tonern und PCs mit 1,4 Milliarden Rupien bestraft. Dieser Vorfall hat Bedenken hinsichtlich der Verkaufsstrategien des Unternehmens aufgeworfen."
       },
-      "source": "Ars Technica",
+      "source": "Ars Technica – AI",
       "date": "2026-07-16",
-      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
+      "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国批准近20亿美元对沙特阿拉伯的武器销售",
-        "en": "US approves nearly $2bn in weapons sale to Saudi Arabia",
-        "de": "Die USA genehmigen fast 2 Milliarden Dollar an Waffenverkäufen an Saudi-Arabien"
+        "zh": "习近平表示AI“不应是单一国家的独奏表演”",
+        "en": "China’s Xi says AI ‘should not be a solo performance by a single country’",
+        "de": "Chinas Xi sagt, KI „sollte keine Soloaufführung eines einzelnen Landes sein“"
       },
       "summary": {
-        "zh": "美国批准了一项近20亿美元的武器销售，旨在增强沙特阿拉伯的空中防御系统，以应对与伊朗支持的胡塞武装的紧张局势。",
-        "en": "The US has approved a nearly $2 billion weapons sale aimed at bolstering Saudi Arabia's air defense systems amid escalating tensions with Iran-backed Houthis.",
-        "de": "Die USA haben einen Waffenverkauf im Wert von fast 2 Milliarden Dollar genehmigt, um die Luftverteidigungssysteme Saudi-Arabiens inmitten der eskalierenden Spannungen mit den vom Iran unterstützten Houthi-Rebellen zu stärken."
+        "zh": "在上海的一次会议上，中国领导人习近平呼吁在人工智能技术的发展中加强国际合作，强调全球共同努力的重要性。",
+        "en": "During a conference in Shanghai, Chinese leader Xi Jinping called for increased international cooperation in the development of artificial intelligence technology, emphasizing the importance of global collaboration.",
+        "de": "Bei einer Konferenz in Shanghai forderte der chinesische Führer Xi Jinping eine verstärkte internationale Zusammenarbeit bei der Entwicklung von Künstlicher Intelligenz, wobei er die Bedeutung globaler Zusammenarbeit betonte."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-16",
-      "url": "https://www.aljazeera.com/news/2026/7/16/us-approves-nearly-2bn-in-weapons-sale-to-saudi-arabia?traffic_source=rss"
+      "date": "2026-07-17",
+      "url": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "基辅罕见抗议国防部长被解职",
-        "en": "Rare protests in Kyiv over dismissal of defence minister",
-        "de": "Seltene Proteste in Kiew über die Entlassung des Verteidigungsministers"
+        "zh": "德克萨斯州洪水肆虐州西南部地区",
+        "en": "Texas floods ravage through southwestern areas of state",
+        "de": "Texas-Fluten verwüsten den Südwesten des Bundesstaates"
       },
       "summary": {
-        "zh": "在基辅，因乌克兰总统泽连斯基解职国防部长而爆发了罕见的抗议活动，显示出公众对政府决策的不满。",
-        "en": "Rare protests erupted in Kyiv following President Zelenskyy's dismissal of the defense minister, reflecting public dissatisfaction with government decisions.",
-        "de": "In Kiew brachen seltene Proteste aus, nachdem Präsident Selenskyj den Verteidigungsminister entlassen hatte, was die Unzufriedenheit der Öffentlichkeit mit den Regierungsentscheidungen widerspiegelt."
+        "zh": "德克萨斯州西南部地区遭遇严重洪水，导致至少两人遇难，超过200人被救援。灾后恢复工作面临挑战。",
+        "en": "Severe floods in the southwestern areas of Texas have resulted in at least two fatalities and over 200 rescues. Recovery efforts are facing significant challenges.",
+        "de": "Schwere Überschwemmungen in den südwestlichen Gebieten von Texas haben zu mindestens zwei Todesfällen und über 200 Rettungen geführt. Die Wiederherstellungsarbeiten stehen vor erheblichen Herausforderungen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss"
+      "date": "2026-07-17",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普限制学生、交流访问者和记者的签证期限",
-        "en": "Trump limits length of visas for students, exchange visitors, journalists",
-        "de": "Trump beschränkt die Dauer von Visa für Studenten, Austauschbesucher und Journalisten"
+        "zh": "特朗普关于选举安全的争议演讲要点",
+        "en": "Key takeaways from Donald Trump’s controversial speech on election security",
+        "de": "Wichtige Erkenntnisse aus Donald Trumps umstrittenem Vortrag zur Wahl-Sicherheit"
       },
       "summary": {
-        "zh": "特朗普实施新规，限制学生和外国媒体的签证期限，结束无限期逗留的做法。",
-        "en": "Trump has implemented new rules limiting the duration of visas for students and foreign media, ending the practice of open-ended stays.",
-        "de": "Trump hat neue Regeln eingeführt, die die Dauer von Visa für Studenten und ausländische Medien beschränken und die Praxis unbegrenzter Aufenthalte beenden."
+        "zh": "特朗普在关于选举安全的演讲中声称中国和“深层国家”操纵了美国选民，但批评者认为他的说法具有误导性。",
+        "en": "In his speech on election security, Trump claimed that China and 'deep state' actors deceived US voters, but critics argue that his claims were misleading.",
+        "de": "In seiner Rede zur Wahl-Sicherheit behauptete Trump, dass China und Akteure des „tiefen Staates“ die US-Wähler getäuscht hätten, Kritiker argumentieren jedoch, dass seine Behauptungen irreführend waren."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-16",
-      "url": "https://www.aljazeera.com/news/2026/7/16/trump-limits-length-of-visas-for-students-exchange-visitors-journalists?traffic_source=rss"
+      "date": "2026-07-17",
+      "url": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "世界杯为酒吧和餐厅提供了所需的提振，消费者发出警告信号，联邦储备表示",
+        "zh": "世界杯为酒吧和餐馆带来急需的提振",
         "en": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
-        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen notwendigen Schub, während Verbraucher Warnsignale senden, sagt die Fed"
+        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen dringend benötigten Auftrieb, während Verbraucher Warnsignale senden, sagt die Fed"
       },
       "summary": {
-        "zh": "联邦储备的最新报告显示，尽管世界杯为酒吧和餐厅带来了短期提振，但并未转化为更广泛的经济增长。",
-        "en": "The latest report from the Fed indicates that while the World Cup provided a short-term boost for bars and restaurants, it did not translate into broader economic growth.",
-        "de": "Der neueste Bericht der Fed zeigt, dass die Weltmeisterschaft zwar kurzfristig einen Schub für Bars und Restaurants gegeben hat, sich dies jedoch nicht in ein breiteres Wirtschaftswachstum umsetzen ließ."
+        "zh": "美联储的最新报告指出，世界杯为酒吧和餐馆带来了急需的经济提振，但并未能转化为更广泛的经济增长。",
+        "en": "The latest report from the Fed indicates that the World Cup provided a much-needed economic boost for bars and restaurants, but it has not translated into broader economic growth.",
+        "de": "Der neueste Bericht der Fed zeigt, dass die Weltmeisterschaft Bars und Restaurants einen dringend benötigten wirtschaftlichen Auftrieb gegeben hat, sich jedoch nicht in ein breiteres Wirtschaftswachstum übersetzt hat."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-07-15",
       "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "6月份批发价格意外下降0.3%，汽油大幅下跌",
+        "zh": "6月批发价格意外下降0.3%",
         "en": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
-        "de": "Die Großhandelspreise sanken im Juni unerwartet um 0,3 % aufgrund eines starken Rückgangs der Benzinpreise"
+        "de": "Die Großhandelspreise sind im Juni unerwartet um 0,3 % gesunken, da die Benzinpreise stark gefallen sind"
       },
       "summary": {
-        "zh": "由于汽油价格大幅下跌，6月份的批发价格意外下降0.3%。",
-        "en": "Wholesale prices unexpectedly declined by 0.3% in June due to a significant drop in gasoline prices.",
-        "de": "Die Großhandelspreise sanken im Juni unerwartet um 0,3 % aufgrund eines signifikanten Rückgangs der Benzinpreise."
+        "zh": "由于汽油价格大幅下跌，6月的批发价格意外下降0.3%。这一趋势反映了能源成本的缓解。",
+        "en": "Wholesale prices unexpectedly declined by 0.3% in June due to a significant drop in gasoline prices. This trend reflects easing energy costs.",
+        "de": "Die Großhandelspreise sind im Juni unerwartet um 0,3 % gesunken, was auf einen signifikanten Rückgang der Benzinpreise zurückzuführen ist. Dieser Trend spiegelt die sinkenden Energiekosten wider."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-07-15",
       "url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "中国第二季度增长放缓，刺激了对刺激措施的呼声",
+        "zh": "中国第二季度增长放缓，刺激呼声上升",
         "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Rufe nach Stimulusmaßnahmen laut werden"
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Forderungen nach Stimulus steigen"
       },
       "summary": {
         "zh": "中国第二季度的经济增长放缓至自2022年以来的最低水平，投资下滑引发了对刺激措施的呼声。",
-        "en": "China's economic growth in the second quarter slowed to its lowest level since 2022, with declining investment prompting calls for stimulus measures.",
-        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal verlangsamte sich auf den niedrigsten Stand seit 2022, wobei sinkende Investitionen die Rufe nach Stimulusmaßnahmen auslösten."
+        "en": "China's economic growth in the second quarter slowed to its lowest level since 2022, with declining investment fueling calls for stimulus measures.",
+        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal verlangsamte sich auf den niedrigsten Stand seit 2022, wobei rückläufige Investitionen die Forderungen nach Konjunkturmaßnahmen anheizten."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-07-15",
       "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
     }
