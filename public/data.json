@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-17T17:34:45.951957+00:00",
+  "generatedAt": "2026-07-18T06:29:04.721776+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
+        "zh": "下载：围绝经期错误信息与中国最新的人工智能飞跃",
         "en": "The Download: perimenopause misinformation and China’s latest AI leap",
         "de": "Der Download: Fehlinformationen zur Perimenopause und Chinas neuester KI-Sprung"
       },
       "summary": {
-        "zh": "本期下载介绍了围绝经期的错误信息以及中国在人工智能领域的最新进展。",
+        "zh": "本期下载涵盖了围绝经期的错误信息以及中国在人工智能领域的最新进展。",
         "en": "This edition of The Download covers misinformation surrounding perimenopause and China's latest advancements in AI.",
-        "de": "Diese Ausgabe des Downloads behandelt Fehlinformationen zur Perimenopause und Chinas neueste Fortschritte im Bereich der KI."
+        "de": "Diese Ausgabe des Downloads behandelt Fehlinformationen zur Perimenopause und die neuesten Fortschritte Chinas im Bereich KI."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-17",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "微软的安全启动已被破坏十年，直到现在才被发现",
+        "zh": "微软的安全启动已经被破坏十年，直到现在才被发现",
         "en": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-        "de": "Microsofts Secure Boot ist seit einem Jahrzehnt kompromittiert und niemand hat es bis jetzt bemerkt"
+        "de": "Microsofts Secure Boot ist seit einem Jahrzehnt kompromittiert, und niemand hat es bis jetzt bemerkt"
       },
       "summary": {
-        "zh": "微软的安全启动功能由于未被撤销的旧“垫片”而被轻易绕过，直到现在才被发现。",
-        "en": "Microsoft's Secure Boot feature has been easily bypassed due to old 'shims' that were never revoked, only now being discovered.",
-        "de": "Die Secure Boot-Funktion von Microsoft konnte aufgrund alter 'Shims', die nie widerrufen wurden, leicht umgangen werden, was erst jetzt entdeckt wird."
+        "zh": "微软的安全启动功能存在十年的漏洞，直到最近才被发现，这可能导致安全风险。",
+        "en": "Microsoft's Secure Boot feature has had a vulnerability for a decade, recently discovered, posing potential security risks.",
+        "de": "Die Secure Boot-Funktion von Microsoft hatte ein Jahrzehnt lang eine Schwachstelle, die kürzlich entdeckt wurde und potenzielle Sicherheitsrisiken birgt."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-16",
@@ -36,82 +36,81 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "OpenAI推出GPT-Red，帮助提升模型安全性",
-        "en": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "de": "Lernen Sie GPT-Red kennen: einen LLM-Super-Hacker, den OpenAI entwickelt hat, um seine Modelle sicherer zu machen"
+        "zh": "与俄罗斯的精英黑客一起使用Clickfix感染设备",
+        "en": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
+        "de": "Jetzt verwenden sogar Russlands elitärste Hacker Clickfix, um Geräte zu infizieren"
       },
       "summary": {
-        "zh": "OpenAI开发了一个名为GPT-Red的LLM超级黑客，用于帮助其其他模型增强对网络攻击的防御能力。",
-        "en": "OpenAI has developed an LLM super-hacker named GPT-Red to help its other models enhance their defenses against cyberattacks.",
-        "de": "OpenAI hat einen LLM-Super-Hacker namens GPT-Red entwickelt, um seinen anderen Modellen zu helfen, ihre Abwehrkräfte gegen Cyberangriffe zu stärken."
+        "zh": "俄罗斯的精英黑客开始使用Clickfix这一社会工程技术来感染设备，显示出网络攻击手段的演变。",
+        "en": "Elite Russian hackers are now using Clickfix, a social engineering technique, to infect devices, showcasing the evolution of cyberattack methods.",
+        "de": "Elitärste russische Hacker verwenden jetzt Clickfix, eine Technik der sozialen Manipulation, um Geräte zu infizieren, was die Evolution der Methoden von Cyberangriffen zeigt."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-07-15",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+      "source": "Ars Technica – AI",
+      "date": "2026-07-16",
+      "url": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗军队：导弹和无人机袭击美国在海湾国家的目标",
-        "en": "Iranian forces: missiles and drones fired at US targets in Gulf States",
-        "de": "Iranische Streitkräfte: Raketen und Drohnen auf US-Ziele in den Golfstaaten abgefeuert"
+        "zh": "特朗普威胁对加拿大的关税，因火灾导致“肮脏”空气进入美国城市",
+        "en": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+        "de": "Trump droht mit neuen Zöllen auf Kanada wegen Bränden, die 'schmutzige' Luft in US-Städte senden"
       },
       "summary": {
-        "zh": "伊朗军队向美国在海湾国家的目标发射了导弹和无人机，局势紧张加剧。",
-        "en": "Iranian forces have launched missiles and drones at US targets in the Gulf States, escalating tensions.",
-        "de": "Iranische Streitkräfte haben Raketen und Drohnen auf US-Ziele in den Golfstaaten abgefeuert, was die Spannungen verschärft."
+        "zh": "特朗普因加拿大的火灾导致美国城市空气质量下降而威胁实施新的关税，强调气候变化的共同责任。",
+        "en": "Trump threatens new tariffs on Canada due to fires sending poor air quality into US cities, emphasizing shared responsibility for climate change.",
+        "de": "Trump droht mit neuen Zöllen auf Kanada aufgrund von Bränden, die die Luftqualität in US-Städten beeinträchtigen, und betont die gemeinsame Verantwortung für den Klimawandel."
       },
-      "source": "Al Jazeera",
-      "date": "2026-07-17",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-07-18",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普声称中国干预2020年选举并质疑投票安全",
-        "en": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-        "de": "Trump behauptet, China habe sich in die Wahlen 2020 eingemischt und stellt die Wahl-Sicherheit vor den Zwischenwahlen in Frage"
+        "zh": "乌克兰士兵对国防部长的罢免感到愤怒，士兵告诉BBC",
+        "en": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
+        "de": "Viele ukrainische Soldaten sind empört über die Abberufung des Verteidigungsministers, berichten Truppen der BBC"
       },
       "summary": {
-        "zh": "特朗普声称中国在2020年选举中干预，并质疑即将到来的中期选举的投票安全性。",
-        "en": "Trump claims that China meddled in the 2020 election and questions the security of voting ahead of the midterms.",
-        "de": "Trump behauptet, dass China sich in die Wahlen 2020 eingemischt hat und stellt die Sicherheit der Wahlen vor den Zwischenwahlen in Frage."
+        "zh": "乌克兰士兵对国防部长的罢免表示愤怒，抗议活动在全国范围内爆发，士兵们对这一决定表示强烈不满。",
+        "en": "Ukrainian soldiers express outrage over the removal of the defense minister, with protests erupting nationwide as troops voice strong discontent with the decision.",
+        "de": "Ukrainische Soldaten äußern Empörung über die Abberufung des Verteidigungsministers, während landesweit Proteste ausbrechen und die Truppen ihren starken Unmut über die Entscheidung äußern."
       },
       "source": "BBC News – World",
       "date": "2026-07-17",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列对加沙的袭击造成14人死亡，包括参加葬礼的哀悼者",
-        "en": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
-        "de": "Israelische Angriffe auf Gaza töten 14, darunter Trauernde, die an einer Beerdigung teilnehmen"
+        "zh": "美国对伊朗的第七次空袭切断了南部村庄的水源",
+        "en": "Eine siebte Nacht von US-Luftangriffen schneidet Wasser zu Dörfern im Süden Irans ab"
       },
       "summary": {
-        "zh": "以色列对加沙的袭击导致14人死亡，其中包括参加葬礼的哀悼者，伤亡人数还在增加。",
-        "en": "Israeli attacks on Gaza have resulted in 14 deaths, including mourners attending a funeral, with casualties continuing to rise.",
-        "de": "Israelische Angriffe auf Gaza haben 14 Todesopfer gefordert, darunter Trauernde, die an einer Beerdigung teilnehmen, während die Opferzahlen weiter steigen."
+        "zh": "美国对伊朗的连续空袭导致南部村庄的水源被切断，局势日益紧张。",
+        "en": "The ongoing US airstrikes in Iran have cut off water supplies to villages in the south, escalating tensions in the region.",
+        "de": "Die laufenden US-Luftangriffe im Iran haben die Wasserversorgung für Dörfer im Süden unterbrochen und die Spannungen in der Region verschärft."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-17",
-      "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss"
+      "date": "2026-07-18",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "进口价格意外上涨，中国商品成本达到2008年以来最高",
+        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来的最高水平",
         "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
         "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "进口价格意外上涨0.3%，中国商品成本达到自2008年以来的最高水平，尽管能源价格有所下降。",
-        "en": "Import prices unexpectedly rose by 0.3%, with costs of goods from China reaching their highest level since 2008, despite a drop in energy prices.",
-        "de": "Die Importpreise stiegen unerwartet um 0,3 %, während die Kosten für Waren aus China den höchsten Stand seit 2008 erreichten, trotz eines Rückgangs der Energiepreise."
+        "zh": "进口价格意外上涨0.3%，主要由于来自中国的商品成本上升，尽管能源成本有所下降。",
+        "en": "Import prices unexpectedly rose by 0.3%, primarily due to increased costs of goods from China, despite a drop in energy prices.",
+        "de": "Die Importpreise stiegen unerwartet um 0,3 %, hauptsächlich aufgrund gestiegener Kosten für Waren aus China, obwohl die Energiepreise gesunken sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-17",
@@ -120,14 +119,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国第二季度增长放缓，刺激呼声高涨",
+        "zh": "中国的季度增长放缓至2022年以来的最低水平，刺激了刺激措施的呼声",
         "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Forderungen nach Stimuli zunehmen"
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und Forderungen nach Konjunkturmaßnahmen laut werden"
       },
       "summary": {
-        "zh": "中国第二季度的经济增长低于北京的全年目标范围，投资放缓引发了对刺激措施的呼声。",
-        "en": "China's second-quarter economic growth fell below Beijing's full-year target range, prompting calls for stimulus as investment slumps.",
-        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel unter die Jahresziele Pekings, was Forderungen nach Stimuli aufgrund des Rückgangs der Investitionen auslöste."
+        "zh": "中国第二季度的经济增长放缓至2022年以来的最低水平，促使对刺激措施的呼声日益高涨。",
+        "en": "China's economic growth in the second quarter slowed to its lowest level since 2022, prompting increasing calls for stimulus measures.",
+        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal verlangsamte sich auf den niedrigsten Stand seit 2022, was die Forderungen nach Konjunkturmaßnahmen verstärkte."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
@@ -136,18 +135,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "批发价格在6月意外下降0.3%",
-        "en": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
-        "de": "Die Großhandelspreise sanken im Juni unerwartet um 0,3 % aufgrund eines starken Rückgangs der Benzinpreise"
+        "zh": "芯片股票已进入熊市，BofA分析师表示无需恐慌",
+        "en": "Chip stocks have entered a bear market. A BofA analyst says not to panic.",
+        "de": "Chip-Aktien sind in einen Bärenmarkt eingetreten. Ein Analyst von BofA sagt, man solle nicht in Panik geraten."
       },
       "summary": {
-        "zh": "由于汽油价格大幅下降，6月批发价格意外下降0.3%。",
-        "en": "Wholesale prices unexpectedly declined by 0.3% in June due to a significant drop in gasoline prices.",
-        "de": "Die Großhandelspreise sanken im Juni unerwartet um 0,3 % aufgrund eines signifikanten Rückgangs der Benzinpreise."
+        "zh": "芯片股票已进入熊市，分析师建议投资者保持冷静，不必恐慌。",
+        "en": "Chip stocks have entered a bear market, with analysts advising investors to remain calm and not panic.",
+        "de": "Chip-Aktien sind in einen Bärenmarkt eingetreten, wobei Analysten den Anlegern raten, ruhig zu bleiben und nicht in Panik zu geraten."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-15",
-      "url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-17",
+      "url": "https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17?mod=mw_rss_topstories"
     }
   ]
 }
