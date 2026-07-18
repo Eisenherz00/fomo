@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-18T06:29:04.721776+00:00",
+  "generatedAt": "2026-07-18T17:27:07.174392+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：围绝经期错误信息与中国最新的人工智能飞跃",
+        "zh": "下载：围绕围绝经期的错误信息和中国最新的人工智能飞跃",
         "en": "The Download: perimenopause misinformation and China’s latest AI leap",
         "de": "Der Download: Fehlinformationen zur Perimenopause und Chinas neuester KI-Sprung"
       },
       "summary": {
-        "zh": "本期下载涵盖了围绝经期的错误信息以及中国在人工智能领域的最新进展。",
+        "zh": "本期《下载》报道了围绝经期的错误信息以及中国在人工智能领域的最新进展。",
         "en": "This edition of The Download covers misinformation surrounding perimenopause and China's latest advancements in AI.",
-        "de": "Diese Ausgabe des Downloads behandelt Fehlinformationen zur Perimenopause und die neuesten Fortschritte Chinas im Bereich KI."
+        "de": "In dieser Ausgabe des Downloads wird über Fehlinformationen zur Perimenopause und die neuesten Fortschritte Chinas im Bereich KI berichtet."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-17",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "微软的安全启动已经被破坏十年，直到现在才被发现",
+        "zh": "微软的安全启动已经被破坏了十年，直到现在没有人注意到",
         "en": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
         "de": "Microsofts Secure Boot ist seit einem Jahrzehnt kompromittiert, und niemand hat es bis jetzt bemerkt"
       },
       "summary": {
-        "zh": "微软的安全启动功能存在十年的漏洞，直到最近才被发现，这可能导致安全风险。",
-        "en": "Microsoft's Secure Boot feature has had a vulnerability for a decade, recently discovered, posing potential security risks.",
-        "de": "Die Secure Boot-Funktion von Microsoft hatte ein Jahrzehnt lang eine Schwachstelle, die kürzlich entdeckt wurde und potenzielle Sicherheitsrisiken birgt."
+        "zh": "微软的安全启动功能存在漏洞，许多用户未曾察觉，直到最近才被曝光。",
+        "en": "Microsoft's Secure Boot feature has vulnerabilities that many users were unaware of until recently.",
+        "de": "Die Secure Boot-Funktion von Microsoft weist Schwachstellen auf, von denen viele Benutzer bis vor kurzem nichts wussten."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-16",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "与俄罗斯的精英黑客一起使用Clickfix感染设备",
+        "zh": "现在，即使是俄罗斯最精英的黑客也在使用Clickfix来感染设备",
         "en": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
         "de": "Jetzt verwenden sogar Russlands elitärste Hacker Clickfix, um Geräte zu infizieren"
       },
       "summary": {
-        "zh": "俄罗斯的精英黑客开始使用Clickfix这一社会工程技术来感染设备，显示出网络攻击手段的演变。",
-        "en": "Elite Russian hackers are now using Clickfix, a social engineering technique, to infect devices, showcasing the evolution of cyberattack methods.",
-        "de": "Elitärste russische Hacker verwenden jetzt Clickfix, eine Technik der sozialen Manipulation, um Geräte zu infizieren, was die Evolution der Methoden von Cyberangriffen zeigt."
+        "zh": "Clickfix已成为俄罗斯顶级黑客的工具，主要用于通过社交工程技术感染设备。",
+        "en": "Clickfix has become a tool for Russia's elite hackers, primarily used to infect devices through social engineering techniques.",
+        "de": "Clickfix ist ein Werkzeug für Russlands Elite-Hacker geworden, das hauptsächlich zur Infektion von Geräten durch Social-Engineering-Techniken verwendet wird."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-16",
@@ -54,49 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普威胁对加拿大的关税，因火灾导致“肮脏”空气进入美国城市",
-        "en": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-        "de": "Trump droht mit neuen Zöllen auf Kanada wegen Bränden, die 'schmutzige' Luft in US-Städte senden"
+        "zh": "美国重新对伊朗港口实施海上封锁后会发生什么？",
+        "en": "What to expect after the US reimposes naval blockade on Iran’s ports?",
+        "de": "Was ist nach der erneuten Verhängung einer Seeblockade der USA gegen die iranischen Häfen zu erwarten?"
       },
       "summary": {
-        "zh": "特朗普因加拿大的火灾导致美国城市空气质量下降而威胁实施新的关税，强调气候变化的共同责任。",
-        "en": "Trump threatens new tariffs on Canada due to fires sending poor air quality into US cities, emphasizing shared responsibility for climate change.",
-        "de": "Trump droht mit neuen Zöllen auf Kanada aufgrund von Bränden, die die Luftqualität in US-Städten beeinträchtigen, und betont die gemeinsame Verantwortung für den Klimawandel."
+        "zh": "美国对伊朗港口重新实施海上封锁可能会加大对伊朗公众的压力，并对全球能源市场产生影响。",
+        "en": "The US reimposing a naval blockade on Iran's ports is expected to increase pressure on the Iranian public and affect global energy markets.",
+        "de": "Die erneute Seeblockade der USA gegen die iranischen Häfen wird voraussichtlich den Druck auf die iranische Öffentlichkeit erhöhen und die globalen Energiemärkte beeinflussen."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-07-18",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乌克兰士兵对国防部长的罢免感到愤怒，士兵告诉BBC",
-        "en": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-        "de": "Viele ukrainische Soldaten sind empört über die Abberufung des Verteidigungsministers, berichten Truppen der BBC"
+        "zh": "比利时禁止从以色列定居点进口",
+        "en": "Belgium bans imports from Israeli settlements in occupied Palestine",
+        "de": "Belgien verbietet Importe aus israelischen Siedlungen im besetzten Palästina"
       },
       "summary": {
-        "zh": "乌克兰士兵对国防部长的罢免表示愤怒，抗议活动在全国范围内爆发，士兵们对这一决定表示强烈不满。",
-        "en": "Ukrainian soldiers express outrage over the removal of the defense minister, with protests erupting nationwide as troops voice strong discontent with the decision.",
-        "de": "Ukrainische Soldaten äußern Empörung über die Abberufung des Verteidigungsministers, während landesweit Proteste ausbrechen und die Truppen ihren starken Unmut über die Entscheidung äußern."
+        "zh": "比利时的这一决定是在欧盟外交部长未能就全面禁止非法定居点贸易达成一致的背景下作出的。",
+        "en": "Belgium's decision comes amid a deadlock among EU foreign ministers over a bloc-wide ban on illegal settlement trade.",
+        "de": "Die Entscheidung Belgiens erfolgt vor dem Hintergrund eines Stillstands unter den EU-Außenministern über ein europaweites Verbot des Handels mit illegalen Siedlungen."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-17",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-18",
+      "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国对伊朗的第七次空袭切断了南部村庄的水源",
-        "en": "Eine siebte Nacht von US-Luftangriffen schneidet Wasser zu Dörfern im Süden Irans ab"
+        "zh": "伊拉克在总理访问华盛顿期间与美国公司签署48项协议",
+        "en": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
+        "de": "Irak unterzeichnet 48 Verträge mit US-Unternehmen während des Besuchs des Premierministers in Washington"
       },
       "summary": {
-        "zh": "美国对伊朗的连续空袭导致南部村庄的水源被切断，局势日益紧张。",
-        "en": "The ongoing US airstrikes in Iran have cut off water supplies to villages in the south, escalating tensions in the region.",
-        "de": "Die laufenden US-Luftangriffe im Iran haben die Wasserversorgung für Dörfer im Süden unterbrochen und die Spannungen in der Region verschärft."
+        "zh": "伊拉克在总理访问华盛顿期间签署了多项协议，包括重建长期停用的伊拉克-叙利亚原油管道。",
+        "en": "During the Prime Minister's visit to Washington, Iraq signed multiple agreements, including rebuilding the long-defunct Iraq-Syria crude oil pipeline.",
+        "de": "Während des Besuchs des Premierministers in Washington unterzeichnete der Irak mehrere Vereinbarungen, darunter den Wiederaufbau der seit langem stillgelegten Irak-Syrien-Öl-Pipeline."
       },
       "source": "Al Jazeera",
       "date": "2026-07-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -108,9 +109,9 @@
         "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "进口价格意外上涨0.3%，主要由于来自中国的商品成本上升，尽管能源成本有所下降。",
-        "en": "Import prices unexpectedly rose by 0.3%, primarily due to increased costs of goods from China, despite a drop in energy prices.",
-        "de": "Die Importpreise stiegen unerwartet um 0,3 %, hauptsächlich aufgrund gestiegener Kosten für Waren aus China, obwohl die Energiepreise gesunken sind."
+        "zh": "进口价格在本月上涨0.3%，尽管能源价格下降，但其他商品的价格上涨抵消了这一影响。",
+        "en": "Import prices rose by 0.3% this month, as a drop in energy prices was offset by increases in other goods.",
+        "de": "Die Importpreise stiegen in diesem Monat um 0,3 %, da ein Rückgang der Energiepreise durch Preiserhöhungen bei anderen Waren ausgeglichen wurde."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-17",
@@ -119,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国的季度增长放缓至2022年以来的最低水平，刺激了刺激措施的呼声",
+        "zh": "中国第二季度增长放缓至2022年以来的最低水平，刺激呼声加剧",
         "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und Forderungen nach Konjunkturmaßnahmen laut werden"
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen, was die Forderungen nach Stimulus anheizt"
       },
       "summary": {
-        "zh": "中国第二季度的经济增长放缓至2022年以来的最低水平，促使对刺激措施的呼声日益高涨。",
-        "en": "China's economic growth in the second quarter slowed to its lowest level since 2022, prompting increasing calls for stimulus measures.",
-        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal verlangsamte sich auf den niedrigsten Stand seit 2022, was die Forderungen nach Konjunkturmaßnahmen verstärkte."
+        "zh": "中国第二季度的经济增长低于北京设定的年度增长目标，促使对经济刺激的呼声加剧。",
+        "en": "China's economic growth in the second quarter fell below Beijing's annual growth target, intensifying calls for economic stimulus.",
+        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel unter das jährliche Wachstumsziel Pekings, was die Forderungen nach wirtschaftlichen Stimuli verstärkte."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
@@ -135,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "芯片股票已进入熊市，BofA分析师表示无需恐慌",
-        "en": "Chip stocks have entered a bear market. A BofA analyst says not to panic.",
-        "de": "Chip-Aktien sind in einen Bärenmarkt eingetreten. Ein Analyst von BofA sagt, man solle nicht in Panik geraten."
+        "zh": "消费者价格在6月上涨3.5%，低于预期",
+        "en": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
+        "de": "Die Verbraucherpreise stiegen im Juni jährlich um 3,5 %, weniger als erwartet, da die Energiepreise nachließen"
       },
       "summary": {
-        "zh": "芯片股票已进入熊市，分析师建议投资者保持冷静，不必恐慌。",
-        "en": "Chip stocks have entered a bear market, with analysts advising investors to remain calm and not panic.",
-        "de": "Chip-Aktien sind in einen Bärenmarkt eingetreten, wobei Analysten den Anlegern raten, ruhig zu bleiben und nicht in Panik zu geraten."
+        "zh": "6月消费者价格指数的年增长率为3.5%，低于预期的3.8%。",
+        "en": "The annual growth rate of the consumer price index in June was 3.5%, lower than the expected 3.8%.",
+        "de": "Die jährliche Wachstumsrate des Verbraucherpreisindex im Juni betrug 3,5 %, was unter den erwarteten 3,8 % lag."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-17",
-      "url": "https://www.marketwatch.com/story/chip-stocks-enter-bear-market-territory-a-bofa-analyst-says-not-to-panic-4d34df17?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-14",
+      "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
     }
   ]
 }
