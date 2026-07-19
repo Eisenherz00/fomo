@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-18T17:27:07.174392+00:00",
+  "generatedAt": "2026-07-19T07:06:18.585363+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：围绕围绝经期的错误信息和中国最新的人工智能飞跃",
+        "zh": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
         "en": "The Download: perimenopause misinformation and China’s latest AI leap",
-        "de": "Der Download: Fehlinformationen zur Perimenopause und Chinas neuester KI-Sprung"
+        "de": "Der Download: Fehlinformationen über die Perimenopause und Chinas neuester KI-Sprung"
       },
       "summary": {
         "zh": "本期《下载》报道了围绝经期的错误信息以及中国在人工智能领域的最新进展。",
-        "en": "This edition of The Download covers misinformation surrounding perimenopause and China's latest advancements in AI.",
-        "de": "In dieser Ausgabe des Downloads wird über Fehlinformationen zur Perimenopause und die neuesten Fortschritte Chinas im Bereich KI berichtet."
+        "en": "This edition of The Download covers misinformation surrounding perimenopause and the latest advancements in AI from China.",
+        "de": "In dieser Ausgabe des Downloads wird über Fehlinformationen zur Perimenopause und die neuesten Fortschritte in der KI aus China berichtet."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-17",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "微软的安全启动已经被破坏了十年，直到现在没有人注意到",
+        "zh": "微软的安全启动在十年内被破解，直到现在没有人注意到",
         "en": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-        "de": "Microsofts Secure Boot ist seit einem Jahrzehnt kompromittiert, und niemand hat es bis jetzt bemerkt"
+        "de": "Microsofts Secure Boot wurde seit einem Jahrzehnt umgangen, und niemand hat es bis jetzt bemerkt"
       },
       "summary": {
-        "zh": "微软的安全启动功能存在漏洞，许多用户未曾察觉，直到最近才被曝光。",
-        "en": "Microsoft's Secure Boot feature has vulnerabilities that many users were unaware of until recently.",
-        "de": "Die Secure Boot-Funktion von Microsoft weist Schwachstellen auf, von denen viele Benutzer bis vor kurzem nichts wussten."
+        "zh": "微软的安全启动功能存在漏洞，过去十年中未被发现，导致安全性受到威胁。",
+        "en": "Microsoft's Secure Boot feature has had vulnerabilities for a decade that went unnoticed, posing security risks.",
+        "de": "Die Secure Boot-Funktion von Microsoft weist seit einem Jahrzehnt Schwachstellen auf, die unbemerkt blieben und Sicherheitsrisiken darstellen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-16",
@@ -36,82 +36,82 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "现在，即使是俄罗斯最精英的黑客也在使用Clickfix来感染设备",
-        "en": "Now, even Russia's most elite hackers are using Clickfix to infect devices",
-        "de": "Jetzt verwenden sogar Russlands elitärste Hacker Clickfix, um Geräte zu infizieren"
+        "zh": "OpenAI推出GPT-Red，旨在增强模型安全性",
+        "en": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "de": "Lernen Sie GPT-Red kennen: einen LLM-Super-Hacker, den OpenAI entwickelt hat, um seine Modelle sicherer zu machen"
       },
       "summary": {
-        "zh": "Clickfix已成为俄罗斯顶级黑客的工具，主要用于通过社交工程技术感染设备。",
-        "en": "Clickfix has become a tool for Russia's elite hackers, primarily used to infect devices through social engineering techniques.",
-        "de": "Clickfix ist ein Werkzeug für Russlands Elite-Hacker geworden, das hauptsächlich zur Infektion von Geräten durch Social-Engineering-Techniken verwendet wird."
+        "zh": "OpenAI推出了一款名为GPT-Red的超级黑客LLM，旨在增强其其他模型的安全防御。",
+        "en": "OpenAI has launched a super-hacker LLM named GPT-Red designed to enhance the security defenses of its other models.",
+        "de": "OpenAI hat einen Super-Hacker-LLM namens GPT-Red eingeführt, der entwickelt wurde, um die Sicherheitsabwehr seiner anderen Modelle zu verbessern."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-07-16",
-      "url": "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/"
+      "source": "MIT Technology Review",
+      "date": "2026-07-15",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国重新对伊朗港口实施海上封锁后会发生什么？",
-        "en": "What to expect after the US reimposes naval blockade on Iran’s ports?",
-        "de": "Was ist nach der erneuten Verhängung einer Seeblockade der USA gegen die iranischen Häfen zu erwarten?"
+        "zh": "美国连续第八夜轰炸伊朗",
+        "en": "US bombs Iran for eighth-straight night",
+        "de": "Die USA bombardieren den Iran in der achten Nacht in Folge"
       },
       "summary": {
-        "zh": "美国对伊朗港口重新实施海上封锁可能会加大对伊朗公众的压力，并对全球能源市场产生影响。",
-        "en": "The US reimposing a naval blockade on Iran's ports is expected to increase pressure on the Iranian public and affect global energy markets.",
-        "de": "Die erneute Seeblockade der USA gegen die iranischen Häfen wird voraussichtlich den Druck auf die iranische Öffentlichkeit erhöhen und die globalen Energiemärkte beeinflussen."
+        "zh": "美国在约旦的两名士兵被伊朗袭击致死后，连续第八夜对伊朗发动空袭。",
+        "en": "The US has launched airstrikes on Iran for the eighth consecutive night following the deaths of two American soldiers in an Iranian attack in Jordan.",
+        "de": "Die USA haben in der achten Nacht in Folge Luftangriffe auf den Iran gestartet, nachdem zwei amerikanische Soldaten bei einem iranischen Angriff in Jordanien getötet wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-18",
-      "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss"
+      "date": "2026-07-19",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "比利时禁止从以色列定居点进口",
-        "en": "Belgium bans imports from Israeli settlements in occupied Palestine",
-        "de": "Belgien verbietet Importe aus israelischen Siedlungen im besetzten Palästina"
+        "zh": "美国与伊朗互相攻击，导致两名美国士兵在约旦遇难",
+        "en": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+        "de": "USA und Iran tauschen Angriffe aus, nachdem zwei US-Soldaten in Jordanien getötet wurden"
       },
       "summary": {
-        "zh": "比利时的这一决定是在欧盟外交部长未能就全面禁止非法定居点贸易达成一致的背景下作出的。",
-        "en": "Belgium's decision comes amid a deadlock among EU foreign ministers over a bloc-wide ban on illegal settlement trade.",
-        "de": "Die Entscheidung Belgiens erfolgt vor dem Hintergrund eines Stillstands unter den EU-Außenministern über ein europaweites Verbot des Handels mit illegalen Siedlungen."
+        "zh": "在约旦两名美国士兵被杀后，美国和伊朗互相袭击，局势持续紧张。",
+        "en": "Following the killing of two US soldiers in Jordan, the US and Iran have exchanged strikes, escalating tensions.",
+        "de": "Nach dem Tod von zwei US-Soldaten in Jordanien haben die USA und der Iran Angriffe ausgetauscht, was die Spannungen verschärft."
       },
-      "source": "Al Jazeera",
-      "date": "2026-07-18",
-      "url": "https://www.aljazeera.com/news/2026/7/18/belgium-bans-imports-from-israeli-settlements-in-occupied-palestine?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-07-19",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊拉克在总理访问华盛顿期间与美国公司签署48项协议",
-        "en": "Iraq signs 48 deals with US companies during PM’s visit to Washington",
-        "de": "Irak unterzeichnet 48 Verträge mit US-Unternehmen während des Besuchs des Premierministers in Washington"
+        "zh": "塔特兄弟因强奸和性贩运指控在迈阿密被捕",
+        "en": "Tate brothers arrested in Miami on rape and sex trafficking charges",
+        "de": "Tate-Brüder in Miami wegen Vergewaltigung und Menschenhandel festgenommen"
       },
       "summary": {
-        "zh": "伊拉克在总理访问华盛顿期间签署了多项协议，包括重建长期停用的伊拉克-叙利亚原油管道。",
-        "en": "During the Prime Minister's visit to Washington, Iraq signed multiple agreements, including rebuilding the long-defunct Iraq-Syria crude oil pipeline.",
-        "de": "Während des Besuchs des Premierministers in Washington unterzeichnete der Irak mehrere Vereinbarungen, darunter den Wiederaufbau der seit langem stillgelegten Irak-Syrien-Öl-Pipeline."
+        "zh": "因强奸和性贩运指控，争议性影响者安德鲁和特里斯坦·塔特在迈阿密被捕。",
+        "en": "Controversial influencers Andrew and Tristan Tate have been arrested in Miami on charges of rape and sex trafficking.",
+        "de": "Die umstrittenen Influencer Andrew und Tristan Tate wurden in Miami wegen Vergewaltigung und Menschenhandels festgenommen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-18",
-      "url": "https://www.aljazeera.com/news/2026/7/18/iraq-signs-48-deals-with-us-companies-during-pms-visit-to-washington?traffic_source=rss"
+      "date": "2026-07-19",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来的最高水平",
+        "zh": "进口价格意外上涨，中国商品成本达到2008年以来的最高水平",
         "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-        "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
+        "de": "Importpreise verzeichnen überraschenden Anstieg, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "进口价格在本月上涨0.3%，尽管能源价格下降，但其他商品的价格上涨抵消了这一影响。",
-        "en": "Import prices rose by 0.3% this month, as a drop in energy prices was offset by increases in other goods.",
-        "de": "Die Importpreise stiegen in diesem Monat um 0,3 %, da ein Rückgang der Energiepreise durch Preiserhöhungen bei anderen Waren ausgeglichen wurde."
+        "zh": "进口价格意外上涨0.3%，主要由于中国商品成本达到自2008年以来的最高水平。",
+        "en": "Import prices unexpectedly rose by 0.3%, primarily due to the highest costs of goods from China since 2008.",
+        "de": "Die Importpreise stiegen unerwartet um 0,3 %, hauptsächlich aufgrund der höchsten Kosten für Waren aus China seit 2008."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-17",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国第二季度增长放缓至2022年以来的最低水平，刺激呼声加剧",
-        "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen, was die Forderungen nach Stimulus anheizt"
+        "zh": "全球杯为酒吧和餐馆带来急需的提振，消费者发出警告信号",
+        "en": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
+        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen notwendigen Schub, während Verbraucher Warnsignale senden, sagt die Fed"
       },
       "summary": {
-        "zh": "中国第二季度的经济增长低于北京设定的年度增长目标，促使对经济刺激的呼声加剧。",
-        "en": "China's economic growth in the second quarter fell below Beijing's annual growth target, intensifying calls for economic stimulus.",
-        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel unter das jährliche Wachstumsziel Pekings, was die Forderungen nach wirtschaftlichen Stimuli verstärkte."
+        "zh": "尽管世界杯为酒吧和餐馆带来了短期提振，但美联储警告消费者支出可能出现放缓。",
+        "en": "While the World Cup provided a temporary boost for bars and restaurants, the Fed warns of potential slowing in consumer spending.",
+        "de": "Obwohl die Weltmeisterschaft Bars und Restaurants einen vorübergehenden Schub gab, warnt die Fed vor einer möglichen Verlangsamung der Verbraucherausgaben."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
-      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
+      "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "消费者价格在6月上涨3.5%，低于预期",
-        "en": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
-        "de": "Die Verbraucherpreise stiegen im Juni jährlich um 3,5 %, weniger als erwartet, da die Energiepreise nachließen"
+        "zh": "中国第二季度增长放缓，刺激经济刺激呼声高涨",
+        "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Rufe nach Konjunkturmaßnahmen lauter werden"
       },
       "summary": {
-        "zh": "6月消费者价格指数的年增长率为3.5%，低于预期的3.8%。",
-        "en": "The annual growth rate of the consumer price index in June was 3.5%, lower than the expected 3.8%.",
-        "de": "Die jährliche Wachstumsrate des Verbraucherpreisindex im Juni betrug 3,5 %, was unter den erwarteten 3,8 % lag."
+        "zh": "中国第二季度的经济增长率降至2022年以来的最低水平，促使对经济刺激的呼声上升。",
+        "en": "China's economic growth rate in the second quarter fell to its lowest level since 2022, prompting calls for economic stimulus.",
+        "de": "Die Wirtschafts Wachstumsrate Chinas im zweiten Quartal fiel auf den niedrigsten Stand seit 2022, was die Rufe nach wirtschaftlichen Anreizen verstärkte."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-14",
-      "url": "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html"
+      "date": "2026-07-15",
+      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
     }
   ]
 }
