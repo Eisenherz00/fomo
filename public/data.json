@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-19T07:06:18.585363+00:00",
+  "generatedAt": "2026-07-19T17:29:37.396346+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：围绝经期错误信息和中国最新的人工智能飞跃",
+        "zh": "下载：围绕围绝经期的误信息和中国最新的人工智能飞跃",
         "en": "The Download: perimenopause misinformation and China’s latest AI leap",
-        "de": "Der Download: Fehlinformationen über die Perimenopause und Chinas neuester KI-Sprung"
+        "de": "Der Download: Fehlinformationen zur Perimenopause und Chinas neuester KI-Sprung"
       },
       "summary": {
-        "zh": "本期《下载》报道了围绝经期的错误信息以及中国在人工智能领域的最新进展。",
-        "en": "This edition of The Download covers misinformation surrounding perimenopause and the latest advancements in AI from China.",
-        "de": "In dieser Ausgabe des Downloads wird über Fehlinformationen zur Perimenopause und die neuesten Fortschritte in der KI aus China berichtet."
+        "zh": "今天的下载版介绍了围绝经期的误信息以及中国在人工智能领域的最新进展。",
+        "en": "Today's edition of The Download covers misinformation surrounding perimenopause and China's latest advancements in AI.",
+        "de": "Die heutige Ausgabe des Downloads behandelt Fehlinformationen zur Perimenopause und die neuesten Fortschritte Chinas im Bereich KI."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-17",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "微软的安全启动在十年内被破解，直到现在没有人注意到",
+        "zh": "微软的安全启动已被破坏十年，直到现在才被发现",
         "en": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-        "de": "Microsofts Secure Boot wurde seit einem Jahrzehnt umgangen, und niemand hat es bis jetzt bemerkt"
+        "de": "Microsofts Secure Boot ist seit einem Jahrzehnt kompromittiert, und niemand hat es bis jetzt bemerkt"
       },
       "summary": {
-        "zh": "微软的安全启动功能存在漏洞，过去十年中未被发现，导致安全性受到威胁。",
-        "en": "Microsoft's Secure Boot feature has had vulnerabilities for a decade that went unnoticed, posing security risks.",
-        "de": "Die Secure Boot-Funktion von Microsoft weist seit einem Jahrzehnt Schwachstellen auf, die unbemerkt blieben und Sicherheitsrisiken darstellen."
+        "zh": "微软的安全启动功能由于未被撤销的旧“垫片”而容易被绕过，这一问题在过去十年中未被发现。",
+        "en": "Microsoft's Secure Boot has been vulnerable to bypass due to old 'shims' that were never revoked, a flaw that went unnoticed for a decade.",
+        "de": "Microsofts Secure Boot war aufgrund alter 'Shims', die nie widerrufen wurden, anfällig für Umgehungen, ein Mangel, der ein Jahrzehnt lang unbemerkt blieb."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-16",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "OpenAI推出GPT-Red，旨在增强模型安全性",
+        "zh": "OpenAI推出GPT-Red，旨在提高模型的安全性",
         "en": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
         "de": "Lernen Sie GPT-Red kennen: einen LLM-Super-Hacker, den OpenAI entwickelt hat, um seine Modelle sicherer zu machen"
       },
       "summary": {
-        "zh": "OpenAI推出了一款名为GPT-Red的超级黑客LLM，旨在增强其其他模型的安全防御。",
-        "en": "OpenAI has launched a super-hacker LLM named GPT-Red designed to enhance the security defenses of its other models.",
-        "de": "OpenAI hat einen Super-Hacker-LLM namens GPT-Red eingeführt, der entwickelt wurde, um die Sicherheitsabwehr seiner anderen Modelle zu verbessern."
+        "zh": "OpenAI开发了一个名为GPT-Red的LLM超级黑客，旨在作为其他模型的对抗伙伴，以增强其网络安全防御能力。",
+        "en": "OpenAI has developed an LLM super-hacker called GPT-Red, designed to act as a sparring partner for its other models to enhance their cybersecurity defenses.",
+        "de": "OpenAI hat einen LLM-Super-Hacker namens GPT-Red entwickelt, der als Sparringspartner für seine anderen Modelle fungieren soll, um deren Cybersicherheitsabwehr zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-15",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国连续第八夜轰炸伊朗",
-        "en": "US bombs Iran for eighth-straight night",
-        "de": "Die USA bombardieren den Iran in der achten Nacht in Folge"
+        "zh": "叙利亚的阿尔-沙拉重新调整安全和情报领导层",
+        "en": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
+        "de": "Syriens Al-Sharaa stellt die Sicherheits- und Geheimdienstführung um"
       },
       "summary": {
-        "zh": "美国在约旦的两名士兵被伊朗袭击致死后，连续第八夜对伊朗发动空袭。",
-        "en": "The US has launched airstrikes on Iran for the eighth consecutive night following the deaths of two American soldiers in an Iranian attack in Jordan.",
-        "de": "Die USA haben in der achten Nacht in Folge Luftangriffe auf den Iran gestartet, nachdem zwei amerikanische Soldaten bei einem iranischen Angriff in Jordanien getötet wurden."
+        "zh": "叙利亚政府表示，此次人事调整将加强安全，并为重建铺平道路。",
+        "en": "The Syrian government states that this reshuffle will strengthen security and pave the way for reconstruction.",
+        "de": "Die syrische Regierung erklärt, dass diese Umstrukturierung die Sicherheit stärken und den Weg für den Wiederaufbau ebnen wird."
       },
       "source": "Al Jazeera",
       "date": "2026-07-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国与伊朗互相攻击，导致两名美国士兵在约旦遇难",
-        "en": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-        "de": "USA und Iran tauschen Angriffe aus, nachdem zwei US-Soldaten in Jordanien getötet wurden"
+        "zh": "以色列定居者在马萨费尔·亚塔纵火焚烧房屋和清真寺",
+        "en": "Israeli settlers torch homes and mosque in Masafer Yatta",
+        "de": "Israelische Siedler setzen Häuser und Moscheen in Masafer Yatta in Brand"
       },
       "summary": {
-        "zh": "在约旦两名美国士兵被杀后，美国和伊朗互相袭击，局势持续紧张。",
-        "en": "Following the killing of two US soldiers in Jordan, the US and Iran have exchanged strikes, escalating tensions.",
-        "de": "Nach dem Tod von zwei US-Soldaten in Jordanien haben die USA und der Iran Angriffe ausgetauscht, was die Spannungen verschärft."
+        "zh": "视频显示以色列定居者袭击位于希伯伦南部的巴勒斯坦村庄阿尔图瓦尼。",
+        "en": "Videos show Israeli settlers attacking the Palestinian village of al Tuwani in Masafer Yatta, south of Hebron.",
+        "de": "Videos zeigen israelische Siedler, die das palästinensische Dorf al Tuwani in Masafer Yatta, südlich von Hebron, angreifen."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-07-19",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "塔特兄弟因强奸和性贩运指控在迈阿密被捕",
-        "en": "Tate brothers arrested in Miami on rape and sex trafficking charges",
-        "de": "Tate-Brüder in Miami wegen Vergewaltigung und Menschenhandel festgenommen"
+        "zh": "美国和伊朗在约旦交火，导致两名美国士兵死亡",
+        "en": "US and Iran trade fire after two US soldiers killed in Jordan",
+        "de": "USA und Iran tauschen Feuer aus, nachdem zwei US-Soldaten in Jordanien getötet wurden"
       },
       "summary": {
-        "zh": "因强奸和性贩运指控，争议性影响者安德鲁和特里斯坦·塔特在迈阿密被捕。",
-        "en": "Controversial influencers Andrew and Tristan Tate have been arrested in Miami on charges of rape and sex trafficking.",
-        "de": "Die umstrittenen Influencer Andrew und Tristan Tate wurden in Miami wegen Vergewaltigung und Menschenhandels festgenommen."
+        "zh": "科威特表示，电力和水厂在第二次袭击后着火，伊朗称美国的空袭击中了正在建设中的核设施。",
+        "en": "Kuwait reports that an electricity and water plant is on fire after the second attack in two days, while Iran claims US strikes hit an under-construction nuclear facility.",
+        "de": "Kuwait berichtet, dass ein Strom- und Wasserwerk nach dem zweiten Angriff innerhalb von zwei Tagen in Brand steht, während Iran behauptet, US-Luftangriffe hätten eine im Bau befindliche Nuklearanlage getroffen."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-07-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "进口价格意外上涨，中国商品成本达到2008年以来的最高水平",
+        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来的最高水平",
         "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
         "de": "Importpreise verzeichnen überraschenden Anstieg, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "进口价格意外上涨0.3%，主要由于中国商品成本达到自2008年以来的最高水平。",
-        "en": "Import prices unexpectedly rose by 0.3%, primarily due to the highest costs of goods from China since 2008.",
-        "de": "Die Importpreise stiegen unerwartet um 0,3 %, hauptsächlich aufgrund der höchsten Kosten für Waren aus China seit 2008."
+        "zh": "进口价格在一个月内上涨了0.3%，尽管能源价格下跌，但其他商品的价格上涨抵消了这一影响。",
+        "en": "Import prices rose by 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.",
+        "de": "Die Importpreise stiegen im Monat um 0,3 %, da ein Rückgang der Energiepreise durch Anstiege an anderer Stelle mehr als ausgeglichen wurde."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-17",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "全球杯为酒吧和餐馆带来急需的提振，消费者发出警告信号",
+        "zh": "世界杯为酒吧和餐馆带来急需的提振，消费者发出警告信号",
         "en": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
-        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen notwendigen Schub, während Verbraucher Warnsignale senden, sagt die Fed"
+        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen dringend benötigten Auftrieb, während Verbraucher Warnsignale senden, sagt die Fed"
       },
       "summary": {
-        "zh": "尽管世界杯为酒吧和餐馆带来了短期提振，但美联储警告消费者支出可能出现放缓。",
-        "en": "While the World Cup provided a temporary boost for bars and restaurants, the Fed warns of potential slowing in consumer spending.",
-        "de": "Obwohl die Weltmeisterschaft Bars und Restaurants einen vorübergehenden Schub gab, warnt die Fed vor einer möglichen Verlangsamung der Verbraucherausgaben."
+        "zh": "美联储的最新报告显示，世界杯并未必能转化为更广泛的经济增长，尽管酒吧和餐馆受益于这一赛事。",
+        "en": "The latest edition of the Fed's Beige Book indicated that the soccer tournament wasn't necessarily translating to broader economic growth.",
+        "de": "Die neueste Ausgabe des Beige Book der Fed deutet darauf hin, dass das Fußballturnier nicht unbedingt zu einem breiteren Wirtschaftswachstum führt."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "中国第二季度增长放缓，刺激经济刺激呼声高涨",
+        "zh": "中国第二季度增长放缓，刺激呼声加剧",
         "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Rufe nach Konjunkturmaßnahmen lauter werden"
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Forderungen nach Stimuli zunehmen"
       },
       "summary": {
-        "zh": "中国第二季度的经济增长率降至2022年以来的最低水平，促使对经济刺激的呼声上升。",
-        "en": "China's economic growth rate in the second quarter fell to its lowest level since 2022, prompting calls for economic stimulus.",
-        "de": "Die Wirtschafts Wachstumsrate Chinas im zweiten Quartal fiel auf den niedrigsten Stand seit 2022, was die Rufe nach wirtschaftlichen Anreizen verstärkte."
+        "zh": "中国第二季度的增长低于北京设定的年度增长目标范围，促使对经济刺激措施的呼声加大。",
+        "en": "China's second-quarter growth fell below Beijing's full-year growth target range, increasing calls for economic stimulus.",
+        "de": "Das Wachstum Chinas im zweiten Quartal fiel unter die von Peking festgelegte Wachstumszielspanne für das Gesamtjahr, was die Forderungen nach wirtschaftlichen Stimuli verstärkte."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
