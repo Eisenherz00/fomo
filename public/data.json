@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-19T17:29:37.396346+00:00",
+  "generatedAt": "2026-07-20T07:41:51.325524+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：围绕围绝经期的误信息和中国最新的人工智能飞跃",
+        "zh": "下载：围绕围绝经期的错误信息和中国最新的人工智能飞跃",
         "en": "The Download: perimenopause misinformation and China’s latest AI leap",
         "de": "Der Download: Fehlinformationen zur Perimenopause und Chinas neuester KI-Sprung"
       },
       "summary": {
-        "zh": "今天的下载版介绍了围绝经期的误信息以及中国在人工智能领域的最新进展。",
-        "en": "Today's edition of The Download covers misinformation surrounding perimenopause and China's latest advancements in AI.",
-        "de": "Die heutige Ausgabe des Downloads behandelt Fehlinformationen zur Perimenopause und die neuesten Fortschritte Chinas im Bereich KI."
+        "zh": "本期下载涵盖了围绝经期的误解以及中国在人工智能领域的最新进展，强调了科技在现代生活中的重要性。",
+        "en": "This edition of The Download covers misconceptions about perimenopause and China's latest advancements in AI, highlighting the importance of technology in modern life.",
+        "de": "Diese Ausgabe des Downloads behandelt Missverständnisse über die Perimenopause und Chinas neueste Fortschritte in der KI und hebt die Bedeutung von Technologie im modernen Leben hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-17",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "微软的安全启动已被破坏十年，直到现在才被发现",
+        "zh": "微软的安全启动在十年内被破解，直到现在没有人注意到",
         "en": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
-        "de": "Microsofts Secure Boot ist seit einem Jahrzehnt kompromittiert, und niemand hat es bis jetzt bemerkt"
+        "de": "Microsofts Secure Boot ist seit einem Jahrzehnt kompromittiert und niemand hat es bis jetzt bemerkt"
       },
       "summary": {
-        "zh": "微软的安全启动功能由于未被撤销的旧“垫片”而容易被绕过，这一问题在过去十年中未被发现。",
-        "en": "Microsoft's Secure Boot has been vulnerable to bypass due to old 'shims' that were never revoked, a flaw that went unnoticed for a decade.",
-        "de": "Microsofts Secure Boot war aufgrund alter 'Shims', die nie widerrufen wurden, anfällig für Umgehungen, ein Mangel, der ein Jahrzehnt lang unbemerkt blieb."
+        "zh": "微软的安全启动功能存在漏洞，过去十年中未被发现，这一发现引发了对其安全性的广泛关注。",
+        "en": "Microsoft's Secure Boot feature has vulnerabilities that went unnoticed for a decade, raising widespread concerns about its security.",
+        "de": "Die Secure Boot-Funktion von Microsoft weist Schwachstellen auf, die ein Jahrzehnt lang unbemerkt blieben, was weitreichende Bedenken hinsichtlich ihrer Sicherheit aufwirft."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-16",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "OpenAI推出GPT-Red，旨在提高模型的安全性",
+        "zh": "OpenAI推出GPT-Red，旨在提升模型安全性",
         "en": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
         "de": "Lernen Sie GPT-Red kennen: einen LLM-Super-Hacker, den OpenAI entwickelt hat, um seine Modelle sicherer zu machen"
       },
       "summary": {
-        "zh": "OpenAI开发了一个名为GPT-Red的LLM超级黑客，旨在作为其他模型的对抗伙伴，以增强其网络安全防御能力。",
-        "en": "OpenAI has developed an LLM super-hacker called GPT-Red, designed to act as a sparring partner for its other models to enhance their cybersecurity defenses.",
-        "de": "OpenAI hat einen LLM-Super-Hacker namens GPT-Red entwickelt, der als Sparringspartner für seine anderen Modelle fungieren soll, um deren Cybersicherheitsabwehr zu verbessern."
+        "zh": "OpenAI推出了GPT-Red，一个旨在增强其模型安全性的超级黑客，旨在提升网络防御能力。",
+        "en": "OpenAI has launched GPT-Red, a super-hacker designed to enhance the security of its models and improve cyber defense capabilities.",
+        "de": "OpenAI hat GPT-Red, einen Super-Hacker, eingeführt, der entwickelt wurde, um die Sicherheit seiner Modelle zu verbessern und die Cyber-Abwehrfähigkeiten zu stärken."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-15",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "叙利亚的阿尔-沙拉重新调整安全和情报领导层",
-        "en": "Syria’s Al-Sharaa reshuffles security and intelligence leadership",
-        "de": "Syriens Al-Sharaa stellt die Sicherheits- und Geheimdienstführung um"
+        "zh": "特朗普：最新对伊朗的打击是为了纪念被杀的美国军人",
+        "en": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
+        "de": "Trump: Neueste Angriffe auf den Iran ‚zu Ehren‘ gefallener US-Soldaten"
       },
       "summary": {
-        "zh": "叙利亚政府表示，此次人事调整将加强安全，并为重建铺平道路。",
-        "en": "The Syrian government states that this reshuffle will strengthen security and pave the way for reconstruction.",
-        "de": "Die syrische Regierung erklärt, dass diese Umstrukturierung die Sicherheit stärken und den Weg für den Wiederaufbau ebnen wird."
+        "zh": "特朗普表示，针对伊朗的最新军事打击是为了纪念被杀的美国军人，这一声明引发了对美国军事行动的进一步讨论。",
+        "en": "Trump stated that the latest military strikes against Iran were carried out in honor of killed US military personnel, prompting further discussion on US military actions.",
+        "de": "Trump erklärte, dass die neuesten Militärschläge gegen den Iran zu Ehren gefallener US-Soldaten durchgeführt wurden, was zu weiteren Diskussionen über US-Militäraktionen führte."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-19",
-      "url": "https://www.aljazeera.com/news/2026/7/19/syrias-al-sharaa-reshuffles-security-and-intelligence-leadership?traffic_source=rss"
+      "date": "2026-07-20",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列定居者在马萨费尔·亚塔纵火焚烧房屋和清真寺",
-        "en": "Israeli settlers torch homes and mosque in Masafer Yatta",
-        "de": "Israelische Siedler setzen Häuser und Moscheen in Masafer Yatta in Brand"
+        "zh": "美国发布第九夜连续对伊朗的打击视频",
+        "en": "US releases footage of ninth consecutive night of strikes on Iran",
+        "de": "Die USA veröffentlichen Aufnahmen der neunten aufeinanderfolgenden Nacht von Angriffen auf den Iran"
       },
       "summary": {
-        "zh": "视频显示以色列定居者袭击位于希伯伦南部的巴勒斯坦村庄阿尔图瓦尼。",
-        "en": "Videos show Israeli settlers attacking the Palestinian village of al Tuwani in Masafer Yatta, south of Hebron.",
-        "de": "Videos zeigen israelische Siedler, die das palästinensische Dorf al Tuwani in Masafer Yatta, südlich von Hebron, angreifen."
+        "zh": "美国军方发布了对伊朗连续第九夜的军事打击视频，显示了冲突的升级和持续的军事行动。",
+        "en": "The US military released footage of its ninth consecutive night of strikes on Iran, showcasing the escalation of conflict and ongoing military operations.",
+        "de": "Das US-Militär veröffentlichte Aufnahmen seiner neunten aufeinanderfolgenden Nacht von Angriffen auf den Iran und zeigte die Eskalation des Konflikts und die laufenden Militäraktionen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss"
+      "date": "2026-07-20",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国和伊朗在约旦交火，导致两名美国士兵死亡",
-        "en": "US and Iran trade fire after two US soldiers killed in Jordan",
-        "de": "USA und Iran tauschen Feuer aus, nachdem zwei US-Soldaten in Jordanien getötet wurden"
+        "zh": "休斯顿继续抗议ICE杀害洛伦佐·萨尔加多·阿劳霍事件",
+        "en": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
+        "de": "Proteste in Houston setzen sich fort nach dem ICE-Tod von Lorenzo Salgado Araujo"
       },
       "summary": {
-        "zh": "科威特表示，电力和水厂在第二次袭击后着火，伊朗称美国的空袭击中了正在建设中的核设施。",
-        "en": "Kuwait reports that an electricity and water plant is on fire after the second attack in two days, while Iran claims US strikes hit an under-construction nuclear facility.",
-        "de": "Kuwait berichtet, dass ein Strom- und Wasserwerk nach dem zweiten Angriff innerhalb von zwei Tagen in Brand steht, während Iran behauptet, US-Luftangriffe hätten eine im Bau befindliche Nuklearanlage getroffen."
+        "zh": "在德克萨斯州休斯顿，数百名示威者继续抗议ICE杀害52岁墨西哥男子洛伦佐·萨尔加多·阿劳霍事件，要求正义。",
+        "en": "In Houston, Texas, hundreds of demonstrators continue to protest the ICE killing of 52-year-old Mexican man Lorenzo Salgado Araujo, demanding justice.",
+        "de": "In Houston, Texas, setzen Hunderte von Demonstranten ihre Proteste gegen den ICE-Tod des 52-jährigen Mexikaners Lorenzo Salgado Araujo fort und fordern Gerechtigkeit."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-19",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-20",
+      "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来的最高水平",
+        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来最高",
         "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-        "de": "Importpreise verzeichnen überraschenden Anstieg, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
+        "de": "Importpreise zeigen überraschenden Anstieg, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "进口价格在一个月内上涨了0.3%，尽管能源价格下跌，但其他商品的价格上涨抵消了这一影响。",
-        "en": "Import prices rose by 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.",
-        "de": "Die Importpreise stiegen im Monat um 0,3 %, da ein Rückgang der Energiepreise durch Anstiege an anderer Stelle mehr als ausgeglichen wurde."
+        "zh": "进口价格意外上涨0.3%，这是由于能源成本下降被其他商品价格上涨所抵消，显示出市场的复杂性。",
+        "en": "Import prices unexpectedly rose by 0.3%, as a drop in energy costs was offset by increases in other goods, highlighting the complexity of the market.",
+        "de": "Die Importpreise stiegen unerwartet um 0,3 %, da ein Rückgang der Energiekosten durch Anstiege bei anderen Waren ausgeglichen wurde, was die Komplexität des Marktes verdeutlicht."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-17",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "世界杯为酒吧和餐馆带来急需的提振，消费者发出警告信号",
+        "zh": "世界杯为酒吧和餐馆提供了急需的提振，消费者发出警告信号，联邦储备表示",
         "en": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
-        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen dringend benötigten Auftrieb, während Verbraucher Warnsignale senden, sagt die Fed"
+        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen dringend benötigten Aufschwung, während die Verbraucher Warnsignale senden, sagt die Fed"
       },
       "summary": {
-        "zh": "美联储的最新报告显示，世界杯并未必能转化为更广泛的经济增长，尽管酒吧和餐馆受益于这一赛事。",
-        "en": "The latest edition of the Fed's Beige Book indicated that the soccer tournament wasn't necessarily translating to broader economic growth.",
-        "de": "Die neueste Ausgabe des Beige Book der Fed deutet darauf hin, dass das Fußballturnier nicht unbedingt zu einem breiteren Wirtschaftswachstum führt."
+        "zh": "虽然世界杯为酒吧和餐馆带来了短期的经济提振，但美联储警告消费者支出可能面临挑战。",
+        "en": "While the World Cup provided a temporary economic boost for bars and restaurants, the Fed warns that consumer spending may face challenges.",
+        "de": "Während die Weltmeisterschaft Bars und Restaurants einen vorübergehenden wirtschaftlichen Aufschwung bescherte, warnt die Fed, dass die Verbraucherausgaben vor Herausforderungen stehen könnten."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "中国第二季度增长放缓，刺激呼声加剧",
+        "zh": "中国第二季度增长放缓，投资下滑，刺激呼声高涨",
         "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Forderungen nach Stimuli zunehmen"
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Rufe nach Stimuli lauter werden"
       },
       "summary": {
-        "zh": "中国第二季度的增长低于北京设定的年度增长目标范围，促使对经济刺激措施的呼声加大。",
-        "en": "China's second-quarter growth fell below Beijing's full-year growth target range, increasing calls for economic stimulus.",
-        "de": "Das Wachstum Chinas im zweiten Quartal fiel unter die von Peking festgelegte Wachstumszielspanne für das Gesamtjahr, was die Forderungen nach wirtschaftlichen Stimuli verstärkte."
+        "zh": "中国第二季度的经济增长降至2022年以来的最低水平，投资下滑引发了对经济刺激措施的呼声。",
+        "en": "China's economic growth in the second quarter fell to its lowest level since 2022, with declining investment prompting calls for economic stimulus.",
+        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel auf den niedrigsten Stand seit 2022, wobei sinkende Investitionen die Rufe nach wirtschaftlichen Anreizen verstärkten."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
