@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-07-21T07:11:55.990459+00:00",
+  "generatedAt": "2026-07-21T17:49:14.987997+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "中国的人工智能模型使特朗普的人工智能世界陷入自我战争",
-        "en": "China’s AI models have Trump’s AI world at war with itself",
-        "de": "Chinas KI-Modelle haben Trumps KI-Welt in einen Krieg gegen sich selbst gestürzt"
+        "zh": "下载：中美人工智能分歧与创纪录的版权赔偿",
+        "en": "The Download: Chinese AI divides the White House, and a record copyright payout",
+        "de": "Der Download: Chinesische KI spaltet das Weiße Haus und eine Rekordzahlung für Urheberrechte"
       },
       "summary": {
-        "zh": "中国的人工智能模型正在挑战美国的AI生态系统，导致内部冲突和竞争加剧。特朗普的AI政策在这一背景下显得更加复杂。",
-        "en": "China's AI models are challenging the U.S. AI ecosystem, leading to increased internal conflict and competition. Trump's AI policies appear more complicated in this context.",
-        "de": "Chinas KI-Modelle stellen das KI-Ökosystem der USA in Frage und führen zu verstärkten internen Konflikten und Wettbewerbsdruck. Trumps KI-Politik erscheint in diesem Kontext komplizierter."
+        "zh": "本期《下载》讨论了中国人工智能在美国政府内部引发的分歧，以及一项创纪录的版权赔偿案。",
+        "en": "This edition of The Download discusses the divisions caused by Chinese AI within the U.S. government and a record copyright payout.",
+        "de": "In dieser Ausgabe des Downloads werden die durch chinesische KI im US-Regierung verursachten Spaltungen und eine Rekordzahlung für Urheberrechte behandelt."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-20",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
+      "date": "2026-07-21",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "AI招聘偏见和天气数据破坏：下载",
-        "en": "The Download: AI hiring biases, and weather data sabotage",
-        "de": "Der Download: KI-Einstellungsbias und Sabotage von Wetterdaten"
+        "zh": "通过材料科学创新推动下一代人工智能",
+        "en": "Advancing next-gen AI with materials science innovation",
+        "de": "Fortschritte bei der nächsten Generation von KI durch Innovationen in der Materialwissenschaft"
       },
       "summary": {
-        "zh": "今天的下载报告了人工智能招聘中的偏见以及天气数据被破坏的风险。两者都对决策过程产生了深远影响。",
-        "en": "Today's Download reports on biases in AI hiring and the risks of weather data sabotage. Both have profound implications for decision-making processes.",
-        "de": "Der heutige Download berichtet über Vorurteile bei der KI-Einstellung und die Risiken der Sabotage von Wetterdaten. Beides hat tiefgreifende Auswirkungen auf Entscheidungsprozesse."
+        "zh": "这篇文章探讨了材料科学如何推动下一代人工智能的发展，强调了算法和计算能力之外的重要性。",
+        "en": "This article explores how materials science can drive the development of next-gen AI, highlighting its importance beyond algorithms and computing power.",
+        "de": "Dieser Artikel untersucht, wie Materialwissenschaften die Entwicklung der nächsten Generation von KI vorantreiben können, und hebt deren Bedeutung über Algorithmen und Rechenleistung hinaus hervor."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-20",
-      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
+      "date": "2026-07-21",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "人工智能在招聘中比人类更容易形成偏见",
-        "en": "AI is more likely than humans to form biases when hiring",
-        "de": "KI neigt eher dazu, bei der Einstellung Vorurteile zu bilden als Menschen"
+        "zh": "中国的人工智能模型让特朗普的人工智能世界自相残杀",
+        "en": "China’s AI models have Trump’s AI world at war with itself",
+        "de": "Chinas KI-Modelle haben Trumps KI-Welt in einen inneren Konflikt gestürzt"
       },
       "summary": {
-        "zh": "研究表明，人工智能在招聘过程中可能会比人类更容易形成偏见，这引发了对其使用的伦理和有效性的担忧。",
-        "en": "Research indicates that AI may be more prone to forming biases in hiring processes than humans, raising ethical and effectiveness concerns about its use.",
-        "de": "Forschungen zeigen, dass KI bei Einstellungsprozessen anfälliger für Vorurteile sein kann als Menschen, was ethische und effektive Bedenken hinsichtlich ihrer Verwendung aufwirft."
+        "zh": "这篇文章讨论了中国的人工智能模型如何在特朗普的支持者中引发分歧，导致内部冲突。",
+        "en": "This article discusses how China's AI models have caused divisions among Trump supporters, leading to internal conflict.",
+        "de": "Dieser Artikel behandelt, wie Chinas KI-Modelle unter den Unterstützern von Trump Spaltungen verursacht haben, die zu internen Konflikten führen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-20",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "世界杯：梅西感谢阿根廷球迷，但“伤口需要时间愈合”",
-        "en": "World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’",
-        "de": "Weltmeisterschaft: Messi dankt den argentinischen Fans, aber „die Wunde wird Zeit zum Heilen brauchen“"
+        "zh": "特朗普承诺帮助黎巴嫩，但未提供以色列撤军的时间表",
+        "en": "Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
+        "de": "Trump verspricht, dem Libanon zu helfen, gibt aber keinen Zeitrahmen für den Rückzug Israels an"
       },
       "summary": {
-        "zh": "阿根廷在决赛中以1-0输给西班牙，梅西在赛后感谢了球迷，并表示这场失利需要时间来愈合。",
-        "en": "Argentina lost 1-0 to Spain in the final, and Messi thanked fans afterward, stating that this loss will take time to heal.",
-        "de": "Argentinien verlor im Finale 1-0 gegen Spanien, und Messi dankte den Fans und erklärte, dass diese Niederlage Zeit zum Heilen brauchen wird."
+        "zh": "特朗普在与黎巴嫩总统会谈时承诺提供支持，但未能提供以色列撤军的具体时间表。",
+        "en": "Trump promised support during talks with Lebanon's president but failed to provide a specific timeline for Israeli withdrawal.",
+        "de": "Trump versprach während Gesprächen mit dem Präsidenten des Libanon Unterstützung, konnte jedoch keinen konkreten Zeitrahmen für den Rückzug Israels angeben."
       },
       "source": "Al Jazeera",
       "date": "2026-07-21",
-      "url": "https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/21/trump-vows-to-help-lebanon-but-offers-no-timeline-for-israeli-withdrawal?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "‘批评以色列’：文件揭示以色列如何审查全球非政府组织",
-        "en": "‘Critic to Israel’: Document reveals how Israel scrutinised global NGOs",
-        "de": "„Kritiker Israels“: Dokument zeigt, wie Israel globale NGOs überwacht hat"
+        "zh": "印度反对派领导人甘地在抗议中被警方拘留",
+        "en": "Police detain Indian opposition leader Gandhi as protests continue to grow",
+        "de": "Polizei nimmt indischen Oppositionsführer Gandhi fest, während die Proteste weiter zunehmen"
       },
       "summary": {
-        "zh": "一份内部政府文件显示，以色列收集了关于其怀疑支持BDS的组织的数据，这引发了对其透明度和人权的担忧。",
-        "en": "An internal government document reveals that Israel collected data on organizations it suspected of supporting BDS, raising concerns about its transparency and human rights.",
-        "de": "Ein internes Regierungsdokument zeigt, dass Israel Daten über Organisationen gesammelt hat, von denen es vermutete, dass sie BDS unterstützen, was Bedenken hinsichtlich seiner Transparenz und Menschenrechte aufwirft."
+        "zh": "在抗议活动中，印度反对派领导人甘地被警方拘留，抗议者要求莫迪辞职。",
+        "en": "Indian opposition leader Gandhi was detained by police during protests demanding Modi's resignation.",
+        "de": "Der indische Oppositionsführer Gandhi wurde von der Polizei während Protesten festgenommen, die den Rücktritt von Modi forderten."
       },
       "source": "Al Jazeera",
       "date": "2026-07-21",
-      "url": "https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/21/police-arrest-indian-opposition-leader-gandhi-as-protests-continue-to-grow?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "‘我们只想活着’：加沙的巴勒斯坦人对哈马斯选举的反应",
-        "en": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
-        "de": "„Wir wollen nur leben“: Palästinenser im Gazastreifen reagieren auf die Hamas-Wahl"
+        "zh": "美国对伊朗发起新一轮打击，特朗普警告将报复士兵死亡",
+        "en": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "de": "Die USA starten neue Angriffe auf den Iran, während Trump vor Vergeltung für den Tod von Soldaten warnt"
       },
       "summary": {
-        "zh": "在哈马斯选举后，加沙的巴勒斯坦人反应不一，表达了对未来的不同期待和对生活状况的担忧。",
-        "en": "After the Hamas election, Palestinians in Gaza had mixed reactions, expressing different hopes for the future and concerns about their living conditions.",
-        "de": "Nach der Hamas-Wahl hatten Palästinenser im Gazastreifen gemischte Reaktionen und äußerten unterschiedliche Hoffnungen für die Zukunft sowie Bedenken hinsichtlich ihrer Lebensbedingungen."
+        "zh": "美国对伊朗进行新一轮军事打击，特朗普警告将对士兵的死亡进行报复。",
+        "en": "The U.S. has launched new military strikes on Iran, with Trump warning of retaliation for the deaths of soldiers.",
+        "de": "Die USA haben neue militärische Angriffe auf den Iran gestartet, während Trump vor Vergeltung für den Tod von Soldaten warnt."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-07-21",
-      "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来最高",
+        "zh": "进口价格意外上涨，中国商品成本达到2008年以来最高",
         "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
         "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "进口价格在本月意外上涨0.3%，主要由于来自中国的商品成本飙升，尽管能源价格有所下降。",
-        "en": "Import prices unexpectedly rose by 0.3% this month, primarily due to soaring costs of goods from China, despite a drop in energy prices.",
-        "de": "Die Importpreise stiegen diesen Monat unerwartet um 0,3 %, hauptsächlich aufgrund der steigenden Kosten für Waren aus China, obwohl die Energiepreise gesunken sind."
+        "zh": "进口价格意外上涨0.3%，主要由于中国商品成本的增加，尽管能源价格有所下降。",
+        "en": "Import prices unexpectedly rose by 0.3%, primarily due to increased costs of goods from China, despite a drop in energy prices.",
+        "de": "Die Importpreise stiegen unerwartet um 0,3 %, hauptsächlich aufgrund gestiegener Kosten für Waren aus China, obwohl die Energiepreise gesunken sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-17",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "世界杯为酒吧和餐馆提供了急需的提振，消费者发出警告信号，联邦储备委员会表示",
+        "zh": "世界杯给酒吧和餐馆带来急需的提振，消费者发出警告信号",
         "en": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
-        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen notwendigen Auftrieb, während Verbraucher Warnsignale senden, sagt die Fed"
+        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen nötigen Aufschwung, während Verbraucher Warnsignale senden, sagt die Fed"
       },
       "summary": {
-        "zh": "尽管世界杯为酒吧和餐馆带来了短期的经济提振，但美联储警告称消费者支出仍然显示出疲软的迹象。",
-        "en": "While the World Cup provided a short-term economic boost for bars and restaurants, the Fed warns that consumer spending still shows signs of weakness.",
-        "de": "Obwohl die Weltmeisterschaft Bars und Restaurants kurzfristig einen wirtschaftlichen Auftrieb gab, warnt die Fed, dass die Verbraucherausgaben weiterhin Anzeichen von Schwäche zeigen."
+        "zh": "尽管世界杯为酒吧和餐馆带来了短期的提振，但美联储指出消费者支出仍然存在警告信号。",
+        "en": "While the World Cup provided a short-term boost for bars and restaurants, the Fed noted warning signs in consumer spending.",
+        "de": "Während die Weltmeisterschaft kurzfristig einen Aufschwung für Bars und Restaurants brachte, stellte die Fed Warnsignale im Verbraucherverhalten fest."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "中国第二季度增长放缓，刺激呼吁刺激措施",
+        "zh": "中国第二季度增长放缓至2022年以来最低，刺激呼声高涨",
         "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und Stimulusaufrufe anheizen"
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Forderungen nach Stimulus zunehmen"
       },
       "summary": {
-        "zh": "中国第二季度的经济增长降至自2022年以来的最低水平，投资下滑引发了对刺激措施的呼吁。",
-        "en": "China's economic growth in the second quarter fell to its lowest level since 2022, with declining investment prompting calls for stimulus measures.",
-        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel auf den niedrigsten Stand seit 2022, wobei rückläufige Investitionen zu Forderungen nach Konjunkturmaßnahmen führten."
+        "zh": "中国第二季度的经济增长降至自2022年以来的最低水平，促使人们呼吁采取刺激措施以应对投资下滑。",
+        "en": "China's economic growth in the second quarter fell to its lowest level since 2022, prompting calls for stimulus measures to address the decline in investment.",
+        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel auf den niedrigsten Stand seit 2022, was Forderungen nach Stimulusmaßnahmen zur Bekämpfung des Rückgangs der Investitionen nach sich zog."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
