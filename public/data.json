@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-07-20T18:25:57.827585+00:00",
+  "generatedAt": "2026-07-21T07:11:55.990459+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "AI招聘偏见和天气数据破坏：今天的下载",
+        "zh": "中国的人工智能模型使特朗普的人工智能世界陷入自我战争",
+        "en": "China’s AI models have Trump’s AI world at war with itself",
+        "de": "Chinas KI-Modelle haben Trumps KI-Welt in einen Krieg gegen sich selbst gestürzt"
+      },
+      "summary": {
+        "zh": "中国的人工智能模型正在挑战美国的AI生态系统，导致内部冲突和竞争加剧。特朗普的AI政策在这一背景下显得更加复杂。",
+        "en": "China's AI models are challenging the U.S. AI ecosystem, leading to increased internal conflict and competition. Trump's AI policies appear more complicated in this context.",
+        "de": "Chinas KI-Modelle stellen das KI-Ökosystem der USA in Frage und führen zu verstärkten internen Konflikten und Wettbewerbsdruck. Trumps KI-Politik erscheint in diesem Kontext komplizierter."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-07-20",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "AI招聘偏见和天气数据破坏：下载",
         "en": "The Download: AI hiring biases, and weather data sabotage",
         "de": "Der Download: KI-Einstellungsbias und Sabotage von Wetterdaten"
       },
       "summary": {
-        "zh": "今天的下载涵盖了AI招聘中的偏见问题，以及天气数据破坏的风险上升。随着AI在招聘过程中的使用增加，偏见的可能性也随之上升。",
-        "en": "Today's Download covers the issue of biases in AI hiring and the rising risk of weather data sabotage. As AI becomes more prevalent in the hiring process, the potential for bias increases.",
-        "de": "Der heutige Download behandelt das Thema Vorurteile bei der KI-Einstellung und das steigende Risiko von Wetterdatensabotage. Mit der zunehmenden Verwendung von KI im Einstellungsprozess steigt auch das Potenzial für Vorurteile."
+        "zh": "今天的下载报告了人工智能招聘中的偏见以及天气数据被破坏的风险。两者都对决策过程产生了深远影响。",
+        "en": "Today's Download reports on biases in AI hiring and the risks of weather data sabotage. Both have profound implications for decision-making processes.",
+        "de": "Der heutige Download berichtet über Vorurteile bei der KI-Einstellung und die Risiken der Sabotage von Wetterdaten. Beides hat tiefgreifende Auswirkungen auf Entscheidungsprozesse."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-20",
       "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "AI比人类更容易在招聘中形成偏见",
+        "zh": "人工智能在招聘中比人类更容易形成偏见",
         "en": "AI is more likely than humans to form biases when hiring",
-        "de": "KI bildet eher Vorurteile bei Einstellungen als Menschen"
+        "de": "KI neigt eher dazu, bei der Einstellung Vorurteile zu bilden als Menschen"
       },
       "summary": {
-        "zh": "AI在招聘过程中可能会比人类更容易形成偏见，这引发了对其公正性的质疑。求职者的简历可能在任何人看到之前就被AI筛选。",
-        "en": "AI is more likely to form biases in the hiring process than humans, raising concerns about its fairness. Job applicants' resumes may be screened by AI before any human sees them.",
-        "de": "KI hat eine höhere Wahrscheinlichkeit, im Einstellungsprozess Vorurteile zu bilden als Menschen, was Bedenken hinsichtlich ihrer Fairness aufwirft. Lebensläufe von Bewerbern könnten von KI gesichtet werden, bevor ein Mensch sie sieht."
+        "zh": "研究表明，人工智能在招聘过程中可能会比人类更容易形成偏见，这引发了对其使用的伦理和有效性的担忧。",
+        "en": "Research indicates that AI may be more prone to forming biases in hiring processes than humans, raising ethical and effectiveness concerns about its use.",
+        "de": "Forschungen zeigen, dass KI bei Einstellungsprozessen anfälliger für Vorurteile sein kann als Menschen, was ethische und effektive Bedenken hinsichtlich ihrer Verwendung aufwirft."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-20",
       "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "HP因“卡特尔化”被罚14亿卢比",
-        "en": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-        "de": "HP wegen „Kartellbildung“ bei Tintenpatronen, Tonern und PCs mit 1,4 Milliarden Rupien belegt"
-      },
-      "summary": {
-        "zh": "HP因在墨盒、碳粉和个人电脑的市场上形成卡特尔而被罚款14亿卢比。此举引发了对其商业行为的广泛关注。",
-        "en": "HP has been fined 1.4 billion rupees for forming a cartel in the market for ink cartridges, toners, and PCs. This has raised significant scrutiny over its business practices.",
-        "de": "HP wurde mit 1,4 Milliarden Rupien bestraft, weil es ein Kartell im Markt für Tintenpatronen, Toner und PCs gebildet hat. Dies hat erhebliche Aufmerksamkeit auf seine Geschäftspraktiken gelenkt."
-      },
-      "source": "Ars Technica",
-      "date": "2026-07-16",
-      "url": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国-伊朗紧张局势扰乱市场，汽油价格上涨",
-        "en": "Petrol prices climb as US–Iran tensions disrupt markets",
-        "de": "Benzinpreise steigen, da US-Iran-Spannungen die Märkte stören"
+        "zh": "世界杯：梅西感谢阿根廷球迷，但“伤口需要时间愈合”",
+        "en": "World Cup: Messi thanks Argentina fans but ‘wound will take time to heal’",
+        "de": "Weltmeisterschaft: Messi dankt den argentinischen Fans, aber „die Wunde wird Zeit zum Heilen brauchen“"
       },
       "summary": {
-        "zh": "由于美国与伊朗之间的紧张局势，汽油价格已达到每加仑4.00美元，消费者面临连续第二周的成本上涨。",
-        "en": "Due to rising tensions between the US and Iran, petrol prices have reached $4.00 per gallon, marking the second consecutive week of increased costs for consumers.",
-        "de": "Aufgrund der steigenden Spannungen zwischen den USA und dem Iran haben die Benzinpreise 4,00 USD pro Gallone erreicht, was die zweite aufeinanderfolgende Woche mit steigenden Kosten für Verbraucher markiert."
+        "zh": "阿根廷在决赛中以1-0输给西班牙，梅西在赛后感谢了球迷，并表示这场失利需要时间来愈合。",
+        "en": "Argentina lost 1-0 to Spain in the final, and Messi thanked fans afterward, stating that this loss will take time to heal.",
+        "de": "Argentinien verlor im Finale 1-0 gegen Spanien, und Messi dankte den Fans und erklärte, dass diese Niederlage Zeit zum Heilen brauchen wird."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-20",
-      "url": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss"
+      "date": "2026-07-21",
+      "url": "https://www.aljazeera.com/sports/2026/7/21/world-cup-messi-thanks-argentina-fans-wound-will-take-time-to-heal?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "墨西哥毒枭伊斯梅尔·“埃尔·马约”·赞巴达在美国被判终身监禁",
-        "en": "Mexican drug lord Ismael ‘El Mayo’ Zambada sentenced to life in US prison",
-        "de": "Mexikanischer Drogenboss Ismael ‚El Mayo‘ Zambada zu lebenslanger Haft in den USA verurteilt"
+        "zh": "‘批评以色列’：文件揭示以色列如何审查全球非政府组织",
+        "en": "‘Critic to Israel’: Document reveals how Israel scrutinised global NGOs",
+        "de": "„Kritiker Israels“: Dokument zeigt, wie Israel globale NGOs überwacht hat"
       },
       "summary": {
-        "zh": "美国法官对伊斯梅尔·赞巴达判处终身监禁，他因数十年来领导墨西哥最暴力的毒品卡特尔之一而受到指控。",
-        "en": "A US judge has sentenced Ismael Zambada to life in prison for leading one of Mexico's most violent drug cartels for decades.",
-        "de": "Ein US-Richter hat Ismael Zambada zu lebenslanger Haft verurteilt, weil er jahrzehntelang eines der gewalttätigsten Drogenkartelle Mexikos geleitet hat."
+        "zh": "一份内部政府文件显示，以色列收集了关于其怀疑支持BDS的组织的数据，这引发了对其透明度和人权的担忧。",
+        "en": "An internal government document reveals that Israel collected data on organizations it suspected of supporting BDS, raising concerns about its transparency and human rights.",
+        "de": "Ein internes Regierungsdokument zeigt, dass Israel Daten über Organisationen gesammelt hat, von denen es vermutete, dass sie BDS unterstützen, was Bedenken hinsichtlich seiner Transparenz und Menschenrechte aufwirft."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-20",
-      "url": "https://www.aljazeera.com/news/2026/7/20/mexican-drug-lord-ismael-el-mayo-zambada-sentenced-to-life-in-us-prison?traffic_source=rss"
+      "date": "2026-07-21",
+      "url": "https://www.aljazeera.com/news/2026/7/21/critic-to-israel-document-reveals-how-israel-scrutinised-global-ngos?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普表示美国袭击伊朗是为了“纪念”被杀的美国士兵",
-        "en": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-        "de": "Trump sagt, US-Angriffe auf den Iran seien zu Ehren der gefallenen amerikanischen Soldaten erfolgt"
+        "zh": "‘我们只想活着’：加沙的巴勒斯坦人对哈马斯选举的反应",
+        "en": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
+        "de": "„Wir wollen nur leben“: Palästinenser im Gazastreifen reagieren auf die Hamas-Wahl"
       },
       "summary": {
-        "zh": "特朗普表示，美国对伊朗的袭击是为了纪念被杀的美国士兵，伊朗对此作出回应，攻击叙利亚和约旦的目标。",
-        "en": "Trump stated that US strikes against Iran were conducted in 'honour' of American soldiers killed, to which Iran responded with attacks on targets in Syria and Jordan.",
-        "de": "Trump erklärte, dass die US-Angriffe auf den Iran zu Ehren der gefallenen amerikanischen Soldaten durchgeführt wurden, woraufhin der Iran mit Angriffen auf Ziele in Syrien und Jordanien reagierte."
+        "zh": "在哈马斯选举后，加沙的巴勒斯坦人反应不一，表达了对未来的不同期待和对生活状况的担忧。",
+        "en": "After the Hamas election, Palestinians in Gaza had mixed reactions, expressing different hopes for the future and concerns about their living conditions.",
+        "de": "Nach der Hamas-Wahl hatten Palästinenser im Gazastreifen gemischte Reaktionen und äußerten unterschiedliche Hoffnungen für die Zukunft sowie Bedenken hinsichtlich ihrer Lebensbedingungen."
       },
-      "source": "BBC News",
-      "date": "2026-07-20",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-21",
+      "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -109,45 +109,45 @@
         "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "进口价格在本月上涨了0.3%，由于能源价格的下降被其他领域的上涨所抵消。这是自2008年以来中国商品成本的最高水平。",
-        "en": "Import prices rose by 0.3% this month, as a drop in energy prices was offset by increases in other areas. This marks the highest level of costs for goods from China since 2008.",
-        "de": "Die Importpreise stiegen in diesem Monat um 0,3 %, da ein Rückgang der Energiepreise durch Anstiege in anderen Bereichen ausgeglichen wurde. Dies markiert den höchsten Stand der Kosten für Waren aus China seit 2008."
+        "zh": "进口价格在本月意外上涨0.3%，主要由于来自中国的商品成本飙升，尽管能源价格有所下降。",
+        "en": "Import prices unexpectedly rose by 0.3% this month, primarily due to soaring costs of goods from China, despite a drop in energy prices.",
+        "de": "Die Importpreise stiegen diesen Monat unerwartet um 0,3 %, hauptsächlich aufgrund der steigenden Kosten für Waren aus China, obwohl die Energiepreise gesunken sind."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-07-17",
       "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "特斯拉投资者在财报前分享最迫切的问题",
-        "en": "Tesla investors share their most burning questions ahead of earnings",
-        "de": "Tesla-Investoren teilen ihre drängendsten Fragen vor den Ergebnissen"
+        "zh": "世界杯为酒吧和餐馆提供了急需的提振，消费者发出警告信号，联邦储备委员会表示",
+        "en": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
+        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen notwendigen Auftrieb, während Verbraucher Warnsignale senden, sagt die Fed"
       },
       "summary": {
-        "zh": "特斯拉投资者在财报发布前提出了他们最关心的问题，关注公司短期目标的实现。",
-        "en": "Tesla investors have raised their most pressing questions ahead of the earnings report, focusing on the achievement of the company's short-term goals.",
-        "de": "Tesla-Investoren haben vor dem Ergebnisbericht ihre drängendsten Fragen aufgeworfen und sich auf die Erreichung der kurzfristigen Ziele des Unternehmens konzentriert."
+        "zh": "尽管世界杯为酒吧和餐馆带来了短期的经济提振，但美联储警告称消费者支出仍然显示出疲软的迹象。",
+        "en": "While the World Cup provided a short-term economic boost for bars and restaurants, the Fed warns that consumer spending still shows signs of weakness.",
+        "de": "Obwohl die Weltmeisterschaft Bars und Restaurants kurzfristig einen wirtschaftlichen Auftrieb gab, warnt die Fed, dass die Verbraucherausgaben weiterhin Anzeichen von Schwäche zeigen."
       },
-      "source": "MarketWatch",
-      "date": "2026-07-20",
-      "url": "https://www.marketwatch.com/story/tesla-investors-share-their-most-burning-questions-ahead-of-earnings-7065c7c5?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-15",
+      "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "AMD股票上涨，微软新交易只是部分原因",
-        "en": "AMD’s stock climbs, and a new Microsoft deal is only part of the reason",
-        "de": "AMD-Aktien steigen, und ein neuer Microsoft-Deal ist nur ein Teil des Grundes"
+        "zh": "中国第二季度增长放缓，刺激呼吁刺激措施",
+        "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
+        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und Stimulusaufrufe anheizen"
       },
       "summary": {
-        "zh": "AMD的股票在周一上涨，投资者对即将举行的大型产品活动感到兴奋，微软的新交易也推动了股价。",
-        "en": "AMD's stock rose on Monday as investors were excited about an upcoming major product event, with the new Microsoft deal also contributing to the stock's increase.",
-        "de": "Die Aktien von AMD stiegen am Montag, da die Investoren auf ein bevorstehendes großes Produktevent gespannt waren, wobei der neue Microsoft-Deal ebenfalls zur Kurssteigerung beitrug."
+        "zh": "中国第二季度的经济增长降至自2022年以来的最低水平，投资下滑引发了对刺激措施的呼吁。",
+        "en": "China's economic growth in the second quarter fell to its lowest level since 2022, with declining investment prompting calls for stimulus measures.",
+        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel auf den niedrigsten Stand seit 2022, wobei rückläufige Investitionen zu Forderungen nach Konjunkturmaßnahmen führten."
       },
-      "source": "MarketWatch",
-      "date": "2026-07-20",
-      "url": "https://www.marketwatch.com/story/amds-stock-climbs-and-a-new-microsoft-deal-is-only-part-of-the-reason-de78df49?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-15",
+      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
     }
   ]
 }
