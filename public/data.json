@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T17:49:14.987997+00:00",
+  "generatedAt": "2026-07-22T07:13:33.742083+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Chinesische KI spaltet das Weiße Haus und eine Rekordzahlung für Urheberrechte"
       },
       "summary": {
-        "zh": "本期《下载》讨论了中国人工智能在美国政府内部引发的分歧，以及一项创纪录的版权赔偿案。",
-        "en": "This edition of The Download discusses the divisions caused by Chinese AI within the U.S. government and a record copyright payout.",
-        "de": "In dieser Ausgabe des Downloads werden die durch chinesische KI im US-Regierung verursachten Spaltungen und eine Rekordzahlung für Urheberrechte behandelt."
+        "zh": "本期《下载》报道了中国人工智能在美国白宫内部引发的分歧，以及一项创纪录的版权赔偿案。",
+        "en": "This edition of The Download covers the divisions caused by Chinese AI within the U.S. White House and a record copyright payout.",
+        "de": "In dieser Ausgabe des Downloads wird über die durch chinesische KI im Weißen Haus der USA verursachten Spaltungen und eine Rekordzahlung für Urheberrechte berichtet."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-21",
@@ -25,9 +25,9 @@
         "de": "Fortschritte bei der nächsten Generation von KI durch Innovationen in der Materialwissenschaft"
       },
       "summary": {
-        "zh": "这篇文章探讨了材料科学如何推动下一代人工智能的发展，强调了算法和计算能力之外的重要性。",
-        "en": "This article explores how materials science can drive the development of next-gen AI, highlighting its importance beyond algorithms and computing power.",
-        "de": "Dieser Artikel untersucht, wie Materialwissenschaften die Entwicklung der nächsten Generation von KI vorantreiben können, und hebt deren Bedeutung über Algorithmen und Rechenleistung hinaus hervor."
+        "zh": "文章探讨了材料科学如何推动下一代人工智能的发展，强调了算法和计算能力之外的创新。",
+        "en": "The article discusses how materials science is driving the advancement of next-gen AI, emphasizing innovations beyond algorithms and computing power.",
+        "de": "Der Artikel erörtert, wie Materialwissenschaften den Fortschritt der nächsten Generation von KI vorantreiben und hebt Innovationen jenseits von Algorithmen und Rechenleistung hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-21",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "中国的人工智能模型让特朗普的人工智能世界自相残杀",
+        "zh": "中国的人工智能模型使特朗普的人工智能世界陷入内战",
         "en": "China’s AI models have Trump’s AI world at war with itself",
         "de": "Chinas KI-Modelle haben Trumps KI-Welt in einen inneren Konflikt gestürzt"
       },
       "summary": {
-        "zh": "这篇文章讨论了中国的人工智能模型如何在特朗普的支持者中引发分歧，导致内部冲突。",
-        "en": "This article discusses how China's AI models have caused divisions among Trump supporters, leading to internal conflict.",
-        "de": "Dieser Artikel behandelt, wie Chinas KI-Modelle unter den Unterstützern von Trump Spaltungen verursacht haben, die zu internen Konflikten führen."
+        "zh": "这篇文章分析了中国人工智能模型对美国政治和商业环境的影响，特别是在特朗普时代的背景下。",
+        "en": "This article analyzes the impact of Chinese AI models on the U.S. political and business landscape, particularly in the context of the Trump era.",
+        "de": "Dieser Artikel analysiert die Auswirkungen chinesischer KI-Modelle auf die politische und wirtschaftliche Landschaft der USA, insbesondere im Kontext der Trump-Ära."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-20",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普承诺帮助黎巴嫩，但未提供以色列撤军的时间表",
-        "en": "Trump vows to help Lebanon but offers no timeline for Israeli withdrawal",
-        "de": "Trump verspricht, dem Libanon zu helfen, gibt aber keinen Zeitrahmen für den Rückzug Israels an"
+        "zh": "巴基斯坦控制的克什米尔选举能否克服暴力夏季？",
+        "en": "Can Pakistan-administered Kashmir’s election overcome a violent summer?",
+        "de": "Kann die Wahl im von Pakistan verwalteten Kaschmir einen gewalttätigen Sommer überwinden?"
       },
       "summary": {
-        "zh": "特朗普在与黎巴嫩总统会谈时承诺提供支持，但未能提供以色列撤军的具体时间表。",
-        "en": "Trump promised support during talks with Lebanon's president but failed to provide a specific timeline for Israeli withdrawal.",
-        "de": "Trump versprach während Gesprächen mit dem Präsidenten des Libanon Unterstützung, konnte jedoch keinen konkreten Zeitrahmen für den Rückzug Israels angeben."
+        "zh": "在经历数月抗议和镇压后，巴基斯坦控制的克什米尔即将举行选举，前景充满不确定性。",
+        "en": "After months of protests and crackdowns, Pakistan-administered Kashmir heads into elections clouded by uncertainty.",
+        "de": "Nach monatelangen Protesten und Repressionen steht das von Pakistan verwaltete Kaschmir vor Wahlen, die von Unsicherheit geprägt sind."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-21",
-      "url": "https://www.aljazeera.com/news/2026/7/21/trump-vows-to-help-lebanon-but-offers-no-timeline-for-israeli-withdrawal?traffic_source=rss"
+      "date": "2026-07-22",
+      "url": "https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "印度反对派领导人甘地在抗议中被警方拘留",
-        "en": "Police detain Indian opposition leader Gandhi as protests continue to grow",
-        "de": "Polizei nimmt indischen Oppositionsführer Gandhi fest, während die Proteste weiter zunehmen"
+        "zh": "美国在第11个连续夜晚的袭击中扩大打击",
+        "en": "US expands strikes on 11th straight night of attacks",
+        "de": "Die USA erweitern ihre Angriffe in der 11. Nacht in Folge"
       },
       "summary": {
-        "zh": "在抗议活动中，印度反对派领导人甘地被警方拘留，抗议者要求莫迪辞职。",
-        "en": "Indian opposition leader Gandhi was detained by police during protests demanding Modi's resignation.",
-        "de": "Der indische Oppositionsführer Gandhi wurde von der Polizei während Protesten festgenommen, die den Rücktritt von Modi forderten."
+        "zh": "美国军方在连续第11个夜晚的袭击中扩大了打击范围，涉及之前未被攻击的伊朗省份。",
+        "en": "The U.S. military’s 11th consecutive night of strikes extended to Iranian provinces not previously hit.",
+        "de": "Die Angriffe des US-Militärs in der 11. Nacht in Folge wurden auf iranische Provinzen ausgeweitet, die zuvor nicht angegriffen wurden."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-21",
-      "url": "https://www.aljazeera.com/news/2026/7/21/police-arrest-indian-opposition-leader-gandhi-as-protests-continue-to-grow?traffic_source=rss"
+      "date": "2026-07-22",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国对伊朗发起新一轮打击，特朗普警告将报复士兵死亡",
-        "en": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-        "de": "Die USA starten neue Angriffe auf den Iran, während Trump vor Vergeltung für den Tod von Soldaten warnt"
+        "zh": "泽连斯基解雇乌克兰最高军官，抗议持续数天",
+        "en": "Zelensky sacks Ukraine's top army commander after days of protests",
+        "de": "Zelensky entlässt den obersten Militärkommandeur der Ukraine nach Tagen der Proteste"
       },
       "summary": {
-        "zh": "美国对伊朗进行新一轮军事打击，特朗普警告将对士兵的死亡进行报复。",
-        "en": "The U.S. has launched new military strikes on Iran, with Trump warning of retaliation for the deaths of soldiers.",
-        "de": "Die USA haben neue militärische Angriffe auf den Iran gestartet, während Trump vor Vergeltung für den Tod von Soldaten warnt."
+        "zh": "乌克兰总统泽连斯基在经历数天抗议后，解雇了最高军官奥列克桑德·西尔斯基。",
+        "en": "Ukrainian President Zelensky dismissed top army commander Oleksandr Syrskyi after backlash over the removal of popular Defense Minister Mykhailo Fedorov.",
+        "de": "Der ukrainische Präsident Zelensky entließ den obersten Militärkommandeur Oleksandr Syrskyi nach dem Widerstand gegen die Abberufung des beliebten Verteidigungsministers Mykhailo Fedorov."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-21",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+      "source": "BBC News",
+      "date": "2026-07-22",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
+        "zh": "特朗普计划从2028年开始对仿制药征收关税，推迟两年测试美国本土化推动",
+        "en": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
+        "de": "Trump plant ab 2028 Zölle auf Generika mit zweijähriger Verzögerung zur Prüfung des US-Onshoring-Vorstoßes"
+      },
+      "summary": {
+        "zh": "特朗普的最新关税措施强调了将低成本药品生产带回美国的目标，但取代印度等既有供应商并不容易。",
+        "en": "Trump's latest tariff salvo underscores his goal of reshoring low-cost drug production, but displacing established suppliers like India won't be easy.",
+        "de": "Trumps neueste Zollmaßnahme unterstreicht sein Ziel, die kostengünstige Arzneimittelproduktion zurück in die USA zu holen, aber das Ablösen etablierter Anbieter wie Indien wird nicht einfach sein."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-07-22",
+      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
         "zh": "进口价格意外上涨，中国商品成本达到2008年以来最高",
         "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
         "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "进口价格意外上涨0.3%，主要由于中国商品成本的增加，尽管能源价格有所下降。",
-        "en": "Import prices unexpectedly rose by 0.3%, primarily due to increased costs of goods from China, despite a drop in energy prices.",
-        "de": "Die Importpreise stiegen unerwartet um 0,3 %, hauptsächlich aufgrund gestiegener Kosten für Waren aus China, obwohl die Energiepreise gesunken sind."
+        "zh": "进口价格上涨0.3%，由于能源价格下降被其他商品的价格上涨所抵消。",
+        "en": "Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.",
+        "de": "Die Importpreise stiegen im Monat um 0,3 %, da ein Rückgang der Energiepreise durch Preiserhöhungen an anderer Stelle mehr als ausgeglichen wurde."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-17",
       "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "世界杯给酒吧和餐馆带来急需的提振，消费者发出警告信号",
+        "zh": "世界杯为酒吧和餐馆带来急需的提振，消费者发出警告信号，美联储表示",
         "en": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
-        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen nötigen Aufschwung, während Verbraucher Warnsignale senden, sagt die Fed"
+        "de": "Die Weltmeisterschaft gab Bars und Restaurants einen dringend benötigten Auftrieb, während Verbraucher Warnsignale senden, sagt die Fed"
       },
       "summary": {
-        "zh": "尽管世界杯为酒吧和餐馆带来了短期的提振，但美联储指出消费者支出仍然存在警告信号。",
-        "en": "While the World Cup provided a short-term boost for bars and restaurants, the Fed noted warning signs in consumer spending.",
-        "de": "Während die Weltmeisterschaft kurzfristig einen Aufschwung für Bars und Restaurants brachte, stellte die Fed Warnsignale im Verbraucherverhalten fest."
+        "zh": "美联储的最新报告指出，尽管世界杯为酒吧和餐馆带来了提振，但并未必然转化为更广泛的经济增长。",
+        "en": "The latest edition of the Fed's Beige Book indicated that the soccer tournament wasn't necessarily translating to broader economic growth.",
+        "de": "Die neueste Ausgabe des Beige Book der Fed deutete darauf hin, dass das Fußballturnier nicht unbedingt zu einem breiteren wirtschaftlichen Wachstum führte."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-15",
       "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "中国第二季度增长放缓至2022年以来最低，刺激呼声高涨",
-        "en": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-        "de": "China verzeichnet das langsamste Quartalswachstum seit 2022, da die Investitionen zurückgehen und die Forderungen nach Stimulus zunehmen"
-      },
-      "summary": {
-        "zh": "中国第二季度的经济增长降至自2022年以来的最低水平，促使人们呼吁采取刺激措施以应对投资下滑。",
-        "en": "China's economic growth in the second quarter fell to its lowest level since 2022, prompting calls for stimulus measures to address the decline in investment.",
-        "de": "Das Wirtschaftswachstum Chinas im zweiten Quartal fiel auf den niedrigsten Stand seit 2022, was Forderungen nach Stimulusmaßnahmen zur Bekämpfung des Rückgangs der Investitionen nach sich zog."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-15",
-      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
     }
   ]
 }
