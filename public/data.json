@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T17:45:35.654507+00:00",
+  "generatedAt": "2026-07-23T07:07:07.530298+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: NASAs neues Weltraumteleskop und OpenAIs autonomer Hacker"
       },
       "summary": {
-        "zh": "今天的下载版中，NASA的新太空望远镜和OpenAI的自主黑客成为焦点。该望远镜将于下个月发射，旨在进行精确的天文观测。",
-        "en": "Today's edition of The Download focuses on NASA's new space telescope and OpenAI's autonomous hacker. The telescope is set to launch next month, aiming for precise astronomical observations.",
-        "de": "Die heutige Ausgabe des Downloads konzentriert sich auf NASAs neues Weltraumteleskop und OpenAIs autonomen Hacker. Das Teleskop soll nächsten Monat starten und zielt auf präzise astronomische Beobachtungen ab."
+        "zh": "今天的《下载》报道了NASA的新太空望远镜和OpenAI的自主黑客。这些技术进展可能会对未来的科学研究和网络安全产生深远影响。",
+        "en": "Today's edition of The Download covers NASA's new space telescope and OpenAI's autonomous hacker. These technological advancements could have significant implications for future scientific research and cybersecurity.",
+        "de": "Die heutige Ausgabe des Downloads behandelt NASAs neues Weltraumteleskop und OpenAIs autonomen Hacker. Diese technologischen Fortschritte könnten erhebliche Auswirkungen auf zukünftige wissenschaftliche Forschungen und Cybersicherheit haben."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-22",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "NASA的新太空望远镜上的变形镜可能揭示类似于我们自己的木星",
+        "zh": "NASA的新太空望远镜上的变形镜可能揭示类似于我们的木星",
         "en": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-        "de": "Formverändernde Spiegel auf NASAs neuem Weltraumteleskop könnten Jupiters wie unseren enthüllen"
+        "de": "Formverändernde Spiegel auf NASAs neuem Weltraumteleskop könnten Jupiter-ähnliche Planeten enthüllen"
       },
       "summary": {
-        "zh": "NASA的南希·格雷斯·罗曼太空望远镜将于下个月发射，计划进行精确的天文观测，寻找类似于我们太阳系的行星。",
-        "en": "NASA's Nancy Grace Roman Space Telescope is set to launch next month, aiming for precise astronomical observations to search for planets similar to those in our solar system.",
-        "de": "Das Nancy Grace Roman Weltraumteleskop von NASA soll nächsten Monat starten und zielt darauf ab, präzise astronomische Beobachtungen durchzuführen, um Planeten zu suchen, die unseren im Sonnensystem ähnlich sind."
+        "zh": "NASA的南希·格雷斯·罗曼太空望远镜即将发射，旨在通过变形镜进行精确观测，寻找类似于我们的木星的行星。这一技术创新可能会改变我们对宇宙的理解。",
+        "en": "NASA's Nancy Grace Roman Space Telescope is set to launch soon, aiming to use shape-shifting mirrors for precise observations in the search for Jupiter-like planets. This technological innovation could transform our understanding of the universe.",
+        "de": "Das Nancy Grace Roman-Weltraumteleskop von NASA soll bald starten und plant, formverändernde Spiegel für präzise Beobachtungen bei der Suche nach Jupiter-ähnlichen Planeten zu verwenden. Diese technologische Innovation könnte unser Verständnis des Universums verändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-22",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "中国的AI模型使特朗普的AI世界陷入内战",
         "en": "China’s AI models have Trump’s AI world at war with itself",
-        "de": "Chinas KI-Modelle haben Trumps KI-Welt in einen Krieg gegen sich selbst gestürzt"
+        "de": "Chinas KI-Modelle haben Trumps KI-Welt in einen inneren Konflikt gestürzt"
       },
       "summary": {
-        "zh": "中国的AI技术正在影响美国的AI政策和市场，导致内部冲突和竞争加剧。此现象反映了全球技术竞争的复杂性。",
-        "en": "China's AI technology is influencing U.S. AI policies and markets, leading to increased internal conflicts and competition. This phenomenon reflects the complexities of global technological competition.",
-        "de": "Chinas KI-Technologie beeinflusst die US-KI-Politik und -Märkte und führt zu verstärkten internen Konflikten und Wettbewerbsdruck. Dieses Phänomen spiegelt die Komplexität des globalen Technologiewettbewerbs wider."
+        "zh": "中国的AI模型正在引发特朗普支持者之间的分歧，导致AI领域出现内战。这一现象反映了AI技术在政治和社会中的复杂影响。",
+        "en": "China's AI models are causing divisions among Trump supporters, leading to a civil war within the AI community. This phenomenon reflects the complex impact of AI technology on politics and society.",
+        "de": "Chinas KI-Modelle führen zu Spaltungen unter Trumps Anhängern und verursachen einen inneren Konflikt innerhalb der KI-Community. Dieses Phänomen spiegelt die komplexen Auswirkungen der KI-Technologie auf Politik und Gesellschaft wider."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-20",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "哈马斯新领导人呼吁在加沙实现永久停火",
-        "en": "Hamas’s new leader calls for permanent Gaza ceasefire",
-        "de": "Hamas' neuer Führer fordert einen dauerhaften Waffenstillstand in Gaza"
+        "zh": "也门人在胡塞封锁沙特阿拉伯的反应中夹在希望与恐惧之间",
+        "en": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
+        "de": "Zwischen Hoffnung und Angst: Jemeniten reagieren auf die Houthi-Blockade gegen Saudi-Arabien"
       },
       "summary": {
-        "zh": "哈马斯新任政治首席哈利勒·阿尔哈亚在首次讲话中呼吁在加沙实现永久停火，强调和平的重要性。",
-        "en": "Hamas's newly elected political chief Khalil al-Hayya called for a permanent ceasefire in Gaza during his first speech, emphasizing the importance of peace.",
-        "de": "Der neu gewählte politische Chef von Hamas, Khalil al-Hayya, forderte in seiner ersten Rede einen dauerhaften Waffenstillstand in Gaza und betonte die Bedeutung des Friedens."
+        "zh": "也门人对胡塞组织对沙特阿拉伯的海上封锁感到恐惧，担心这可能重新点燃战争，加深短缺并加剧饥饿。",
+        "en": "Yemenis fear that the Houthi maritime blockade on Saudi Arabia could reignite war, deepen shortages, and worsen hunger.",
+        "de": "Die Jemeniten befürchten, dass die maritime Blockade der Houthis gegen Saudi-Arabien den Krieg neu entfachen, Engpässe vertiefen und Hunger verschärfen könnte."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss"
+      "date": "2026-07-23",
+      "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "伊朗司法机构警告“渗透者”，宣布新一轮处决",
-        "en": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
-        "de": "Irans Justiz warnt vor 'Infiltratoren' und kündigt neue Hinrichtungen an"
+        "zh": "美国对伊朗的攻击持续第12夜，众议院批准国防支出",
+        "en": "US attacks Iran for 12th night as the House approves defence spending",
+        "de": "Die USA greifen Iran zum 12. Mal in Folge an, während das Repräsentantenhaus die Verteidigungsausgaben genehmigt"
       },
       "summary": {
-        "zh": "伊朗司法机构针对安全罪行的案件进行起诉，并宣布将执行新的死刑，显示出对内部威胁的高度警惕。",
-        "en": "Iran's judiciary is prosecuting cases related to security offenses and has announced new executions, demonstrating heightened vigilance against internal threats.",
-        "de": "Irans Justiz verfolgt Fälle im Zusammenhang mit Sicherheitsvergehen und hat neue Hinrichtungen angekündigt, was auf eine erhöhte Wachsamkeit gegenüber internen Bedrohungen hinweist."
+        "zh": "美国对伊朗的攻击已经持续了12个晚上，众议院批准了国防支出。这一局势加剧了地区紧张局势。",
+        "en": "The US has been attacking Iran for the 12th consecutive night as the House approves defense spending. This situation escalates regional tensions.",
+        "de": "Die USA greifen Iran nun bereits zum 12. Mal in Folge an, während das Repräsentantenhaus die Verteidigungsausgaben genehmigt. Diese Situation eskaliert die regionalen Spannungen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-22",
-      "url": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss"
+      "date": "2026-07-23",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普威胁如果霍尔木兹海袭击持续将针对伊朗的桥梁和电厂",
-        "en": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-        "de": "Trump droht, Irans Brücken und Kraftwerke anzugreifen, wenn die Angriffe im Hormus anhalten"
+        "zh": "沙特阿拉伯与美国达成民用核协议",
+        "en": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
+        "de": "Saudi-Arabien und die USA einigen sich auf einen wegweisenden Atomdeal für zivile Zwecke"
       },
       "summary": {
-        "zh": "特朗普表示，如果伊朗军队继续在霍尔木兹海峡袭击美国船只，美国将采取回应措施，可能会针对伊朗的基础设施。",
-        "en": "Trump stated that the U.S. will respond if Iranian forces continue to attack ships in the Strait of Hormuz, potentially targeting Iranian infrastructure.",
-        "de": "Trump erklärte, dass die USA reagieren werden, wenn iranische Streitkräfte weiterhin Schiffe im Hormus angreifen, möglicherweise mit Angriffen auf die iranische Infrastruktur."
+        "zh": "美国和沙特阿拉伯达成了一项民用核协议，允许沙特建造核反应堆。这一协议可能会改变中东地区的核能格局。",
+        "en": "The US and Saudi Arabia have reached a civilian nuclear deal allowing Riyadh to build nuclear reactors. This agreement could reshape the nuclear energy landscape in the Middle East.",
+        "de": "Die USA und Saudi-Arabien haben einen zivilen Atomdeal vereinbart, der Riad den Bau von Kernreaktoren ermöglicht. Dieses Abkommen könnte die Landschaft der Kernenergie im Nahen Osten umgestalten."
       },
-      "source": "BBC News",
-      "date": "2026-07-22",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-23",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "凯文·沃什关注三个关键短语。美联储观察者如何解读它们",
-        "en": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
-        "de": "Kevin Warsh hat sich auf drei Schlüsselphrasen konzentriert. Wie Fed-Beobachter sie interpretieren"
+        "zh": "随着伊朗危机加剧，牛市面临美联储加息的更高可能性",
+        "en": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+        "de": "Der Bullenmarkt sieht sich einer höheren Wahrscheinlichkeit einer Zinserhöhung der Fed gegenüber, da sich die Iran-Krise verschärft"
       },
       "summary": {
-        "zh": "凯文·沃什在五次公开演讲中频繁使用“家庭争斗”、“第一原则”和“通货膨胀是选择”等短语，反映了他对美联储政策的看法。",
-        "en": "Kevin Warsh has frequently used phrases like 'family fight,' 'first principles,' and 'inflation is a choice' in five public appearances, reflecting his views on Federal Reserve policy.",
-        "de": "Kevin Warsh hat in fünf öffentlichen Auftritten häufig Phrasen wie 'Familienkampf', 'erste Prinzipien' und 'Inflation ist eine Wahl' verwendet, was seine Ansichten zur Geldpolitik der Federal Reserve widerspiegelt."
+        "zh": "随着伊朗危机的加剧，国债收益率接近自伊朗战争开始以来的最高水平，市场对美联储加息的预期增加。",
+        "en": "As the Iran crisis intensifies, Treasury yields are approaching the highest levels seen since the Iran war began, increasing market expectations for a Fed rate hike.",
+        "de": "Mit der Verschärfung der Iran-Krise nähern sich die Treasury-Renditen den höchsten Niveaus seit Beginn des Iran-Kriegs, was die Markterwartungen an eine Zinserhöhung der Fed erhöht."
       },
-      "source": "CNBC",
-      "date": "2026-07-22",
-      "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html"
+      "source": "MarketWatch",
+      "date": "2026-07-23",
+      "url": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普计划从2028年开始对仿制药征收关税，推迟两年测试美国本土化推动",
-        "en": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
-        "de": "Trump plant von 2028 an Zölle auf Generika mit zweijähriger Verzögerung zur Prüfung des US-Onshoring-Vorstoßes"
+        "zh": "ServiceNow的股票因网络安全收益显示出势头而上涨",
+        "en": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
+        "de": "Die Aktie von ServiceNow steigt, da die Gewinne Schwung im Bereich Cybersicherheit zeigen"
       },
       "summary": {
-        "zh": "特朗普的关税计划旨在推动美国本土化药品生产，但在替代现有供应商方面面临挑战。",
-        "en": "Trump's tariff plan aims to promote U.S. domestic drug production but faces challenges in displacing existing suppliers.",
-        "de": "Trumps Zollplan zielt darauf ab, die inländische Arzneimittelproduktion in den USA zu fördern, sieht sich jedoch Herausforderungen gegenüber, bestehende Anbieter zu verdrängen."
+        "zh": "在软件市场情绪低迷的背景下，ServiceNow的股票因其在网络安全领域的强劲收益而上涨。",
+        "en": "Against a gloomy backdrop for software sentiment, ServiceNow's stock has risen due to strong earnings momentum in cybersecurity.",
+        "de": "Vor dem trüben Hintergrund der Software-Stimmung ist die Aktie von ServiceNow aufgrund starker Gewinnimpulse im Bereich Cybersicherheit gestiegen."
       },
-      "source": "CNBC",
-      "date": "2026-07-22",
-      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
+      "source": "MarketWatch",
+      "date": "2026-07-23",
+      "url": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "全球油价在伊朗战争局势恶化后保持上涨",
-        "en": "Global oil prices hold gains after topping $95 a barrel for the first time in 6 weeks as hopes dim for de-escalation of Iran war",
-        "de": "Die globalen Ölpreise halten ihre Gewinne, nachdem sie zum ersten Mal seit 6 Wochen über 95 $ pro Barrel gestiegen sind, während die Hoffnungen auf eine Deeskalation des Iran-Kriegs schwinden"
+        "zh": "IBM刚刚下调了前景，但并没有像投资者担心的那样严重",
+        "en": "IBM just cut its outlook, but not by as much as investors feared",
+        "de": "IBM hat gerade seine Prognose gesenkt, jedoch nicht so stark, wie es die Anleger befürchtet hatten"
       },
       "summary": {
-        "zh": "全球油价在伊朗战争局势恶化的背景下上涨，首次突破每桶95美元，反映出市场对局势的担忧。",
-        "en": "Global oil prices have risen, surpassing $95 a barrel for the first time in six weeks amid worsening tensions in the Iran war, reflecting market concerns.",
-        "de": "Die globalen Ölpreise sind gestiegen und haben zum ersten Mal seit sechs Wochen die Marke von 95 $ pro Barrel überschritten, was die Besorgnis des Marktes über die sich verschärfenden Spannungen im Iran-Krieg widerspiegelt."
+        "zh": "IBM的最新财报显示，尽管下调了前景，但情况并没有投资者预期的那么糟糕，导致其股票出现反弹。",
+        "en": "IBM's latest earnings report shows that despite cutting its outlook, the situation is not as dire as investors had feared, leading to a rebound in its stock.",
+        "de": "Der jüngste Gewinnbericht von IBM zeigt, dass die Situation trotz der Senkung der Prognose nicht so schlimm ist, wie es die Anleger befürchtet hatten, was zu einem Anstieg der Aktie führte."
       },
       "source": "MarketWatch",
-      "date": "2026-07-22",
-      "url": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories"
+      "date": "2026-07-23",
+      "url": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories"
     }
   ]
 }
