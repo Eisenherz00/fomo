@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-23T07:07:07.530298+00:00",
+  "generatedAt": "2026-07-23T17:51:52.064625+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：NASA的新太空望远镜和OpenAI的自主黑客",
-        "en": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-        "de": "Der Download: NASAs neues Weltraumteleskop und OpenAIs autonomer Hacker"
+        "zh": "超冷肾脏在猪体内移植，标志性成就",
+        "en": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+        "de": "Superkühlte Nieren wurden in Schweine transplantiert – ein „Meilenstein“"
       },
       "summary": {
-        "zh": "今天的《下载》报道了NASA的新太空望远镜和OpenAI的自主黑客。这些技术进展可能会对未来的科学研究和网络安全产生深远影响。",
-        "en": "Today's edition of The Download covers NASA's new space telescope and OpenAI's autonomous hacker. These technological advancements could have significant implications for future scientific research and cybersecurity.",
-        "de": "Die heutige Ausgabe des Downloads behandelt NASAs neues Weltraumteleskop und OpenAIs autonomen Hacker. Diese technologischen Fortschritte könnten erhebliche Auswirkungen auf zukünftige wissenschaftliche Forschungen und Cybersicherheit haben."
+        "zh": "在器官捐赠中，时间至关重要。超冷肾脏的成功移植被认为是器官移植领域的一项重大突破。",
+        "en": "In organ donation, time is crucial. The successful transplantation of supercooled kidneys is considered a significant breakthrough in the field of organ transplantation.",
+        "de": "Bei der Organtransplantation ist Zeit entscheidend. Die erfolgreiche Transplantation von superkühlten Nieren wird als bedeutender Durchbruch im Bereich der Organtransplantation angesehen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-22",
-      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/"
+      "date": "2026-07-23",
+      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "NASA的新太空望远镜上的变形镜可能揭示类似于我们的木星",
-        "en": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
-        "de": "Formverändernde Spiegel auf NASAs neuem Weltraumteleskop könnten Jupiter-ähnliche Planeten enthüllen"
+        "zh": "AI如何帮助科学家设计下一代药物",
+        "en": "How AI helps scientists design the next generation of medicines",
+        "de": "Wie KI Wissenschaftlern hilft, die nächste Generation von Medikamenten zu entwerfen"
       },
       "summary": {
-        "zh": "NASA的南希·格雷斯·罗曼太空望远镜即将发射，旨在通过变形镜进行精确观测，寻找类似于我们的木星的行星。这一技术创新可能会改变我们对宇宙的理解。",
-        "en": "NASA's Nancy Grace Roman Space Telescope is set to launch soon, aiming to use shape-shifting mirrors for precise observations in the search for Jupiter-like planets. This technological innovation could transform our understanding of the universe.",
-        "de": "Das Nancy Grace Roman-Weltraumteleskop von NASA soll bald starten und plant, formverändernde Spiegel für präzise Beobachtungen bei der Suche nach Jupiter-ähnlichen Planeten zu verwenden. Diese technologische Innovation könnte unser Verständnis des Universums verändern."
+        "zh": "设计和开发新药是一项昂贵且容易失败的科学挑战。AI的应用正在改变这一过程，帮助科学家更高效地创造新药。",
+        "en": "Designing and developing new medicines is an expensive and failure-prone scientific challenge. The application of AI is transforming this process, helping scientists create new drugs more efficiently.",
+        "de": "Die Gestaltung und Entwicklung neuer Medikamente ist eine teure und fehleranfällige wissenschaftliche Herausforderung. Der Einsatz von KI verändert diesen Prozess und hilft Wissenschaftlern, neue Medikamente effizienter zu entwickeln."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-22",
-      "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/"
+      "date": "2026-07-23",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "中国的AI模型使特朗普的AI世界陷入内战",
-        "en": "China’s AI models have Trump’s AI world at war with itself",
-        "de": "Chinas KI-Modelle haben Trumps KI-Welt in einen inneren Konflikt gestürzt"
+        "zh": "推进下一代AI与材料科学创新",
+        "en": "Advancing next-gen AI with materials science innovation",
+        "de": "Fortschritte bei der nächsten Generation von KI durch Innovationen in der Materialwissenschaft"
       },
       "summary": {
-        "zh": "中国的AI模型正在引发特朗普支持者之间的分歧，导致AI领域出现内战。这一现象反映了AI技术在政治和社会中的复杂影响。",
-        "en": "China's AI models are causing divisions among Trump supporters, leading to a civil war within the AI community. This phenomenon reflects the complex impact of AI technology on politics and society.",
-        "de": "Chinas KI-Modelle führen zu Spaltungen unter Trumps Anhängern und verursachen einen inneren Konflikt innerhalb der KI-Community. Dieses Phänomen spiegelt die komplexen Auswirkungen der KI-Technologie auf Politik und Gesellschaft wider."
+        "zh": "AI的讨论通常集中在算法和计算能力上，而材料科学的创新正在推动下一代AI的发展。",
+        "en": "Discussions about AI often center on algorithms and computing power, while innovations in materials science are driving the advancement of next-gen AI.",
+        "de": "Diskussionen über KI konzentrieren sich oft auf Algorithmen und Rechenleistung, während Innovationen in der Materialwissenschaft den Fortschritt der nächsten Generation von KI vorantreiben."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-20",
-      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
+      "date": "2026-07-21",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "也门人在胡塞封锁沙特阿拉伯的反应中夹在希望与恐惧之间",
-        "en": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
-        "de": "Zwischen Hoffnung und Angst: Jemeniten reagieren auf die Houthi-Blockade gegen Saudi-Arabien"
+        "zh": "油价首次突破100美元，中东冲突加剧",
+        "en": "Oil surges past $100 in a first since May as Middle East conflicts rage",
+        "de": "Ölpreise steigen auf über 100 Dollar, erstmals seit Mai, während die Konflikte im Nahen Osten wüten"
       },
       "summary": {
-        "zh": "也门人对胡塞组织对沙特阿拉伯的海上封锁感到恐惧，担心这可能重新点燃战争，加深短缺并加剧饥饿。",
-        "en": "Yemenis fear that the Houthi maritime blockade on Saudi Arabia could reignite war, deepen shortages, and worsen hunger.",
-        "de": "Die Jemeniten befürchten, dass die maritime Blockade der Houthis gegen Saudi-Arabien den Krieg neu entfachen, Engpässe vertiefen und Hunger verschärfen könnte."
+        "zh": "由于也门胡塞武装声称袭击了沙特阿拉伯的油轮，油价在连续上涨五天后突破了100美元。",
+        "en": "Oil prices have surged past $100 for the first time in five days after Yemen's Houthis claimed to have struck Saudi oil tankers.",
+        "de": "Die Ölpreise sind zum ersten Mal seit fünf Tagen auf über 100 Dollar gestiegen, nachdem die Houthis im Jemen behaupteten, sie hätten saudische Öltanker angegriffen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-23",
-      "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国对伊朗的攻击持续第12夜，众议院批准国防支出",
-        "en": "US attacks Iran for 12th night as the House approves defence spending",
-        "de": "Die USA greifen Iran zum 12. Mal in Folge an, während das Repräsentantenhaus die Verteidigungsausgaben genehmigt"
+        "zh": "特朗普：美沙核协议取决于沙特加入亚伯拉罕协议",
+        "en": "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
+        "de": "Trump: US-saudischer Nuklearvertrag hängt von Saudi-Arabiens Beitritt zu den Abraham-Vereinbarungen ab"
       },
       "summary": {
-        "zh": "美国对伊朗的攻击已经持续了12个晚上，众议院批准了国防支出。这一局势加剧了地区紧张局势。",
-        "en": "The US has been attacking Iran for the 12th consecutive night as the House approves defense spending. This situation escalates regional tensions.",
-        "de": "Die USA greifen Iran nun bereits zum 12. Mal in Folge an, während das Repräsentantenhaus die Verteidigungsausgaben genehmigt. Diese Situation eskaliert die regionalen Spannungen."
+        "zh": "美国与沙特阿拉伯达成了一项民用核合作协议，特朗普表示该协议的达成取决于沙特加入亚伯拉罕协议。",
+        "en": "The US and Saudi Arabia have reached a civilian nuclear cooperation deal, with Trump stating that its success hinges on Saudi Arabia joining the Abraham Accords.",
+        "de": "Die USA und Saudi-Arabien haben ein Abkommen über zivile Nuklearkooperation erzielt, wobei Trump erklärt, dass der Erfolg davon abhängt, dass Saudi-Arabien den Abraham-Vereinbarungen beitritt."
       },
       "source": "Al Jazeera",
       "date": "2026-07-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/trump-us-saudi-nuclear-deal-hinges-on-saudi-joining-abraham-accords?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "沙特阿拉伯与美国达成民用核协议",
-        "en": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
-        "de": "Saudi-Arabien und die USA einigen sich auf einen wegweisenden Atomdeal für zivile Zwecke"
+        "zh": "美国众议院首次投票限制伊朗战争",
+        "en": "US House votes to limit Iran war for first time since ceasefire breakdown",
+        "de": "US-Repräsentantenhaus stimmt erstmals seit dem Zusammenbruch des Waffenstillstands für eine Begrenzung des Iran-Kriegs"
       },
       "summary": {
-        "zh": "美国和沙特阿拉伯达成了一项民用核协议，允许沙特建造核反应堆。这一协议可能会改变中东地区的核能格局。",
-        "en": "The US and Saudi Arabia have reached a civilian nuclear deal allowing Riyadh to build nuclear reactors. This agreement could reshape the nuclear energy landscape in the Middle East.",
-        "de": "Die USA und Saudi-Arabien haben einen zivilen Atomdeal vereinbart, der Riad den Bau von Kernreaktoren ermöglicht. Dieses Abkommen könnte die Landschaft der Kernenergie im Nahen Osten umgestalten."
+        "zh": "美国众议院投票通过了一项决议，旨在限制对伊朗的军事行动，这是自停火破裂以来的首次尝试。",
+        "en": "The US House has voted on a resolution aimed at limiting military action against Iran, marking the first such attempt since the ceasefire breakdown.",
+        "de": "Das US-Repräsentantenhaus hat über einen Beschluss abgestimmt, der darauf abzielt, militärische Maßnahmen gegen den Iran zu begrenzen, was den ersten solchen Versuch seit dem Zusammenbruch des Waffenstillstands darstellt."
       },
       "source": "Al Jazeera",
       "date": "2026-07-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "随着伊朗危机加剧，牛市面临美联储加息的更高可能性",
-        "en": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
-        "de": "Der Bullenmarkt sieht sich einer höheren Wahrscheinlichkeit einer Zinserhöhung der Fed gegenüber, da sich die Iran-Krise verschärft"
+        "zh": "全球油价在胡塞武装袭击沙特油轮后突破100美元",
+        "en": "Global oil tops $100 after Houthis strike Saudi tankers and Trump threatens ‘military punishment’ on Iran",
+        "de": "Globales Öl übersteigt 100 Dollar nach dem Angriff der Houthis auf saudische Tanker und Trumps Drohung mit ‚militärischer Bestrafung‘ gegen den Iran"
       },
       "summary": {
-        "zh": "随着伊朗危机的加剧，国债收益率接近自伊朗战争开始以来的最高水平，市场对美联储加息的预期增加。",
-        "en": "As the Iran crisis intensifies, Treasury yields are approaching the highest levels seen since the Iran war began, increasing market expectations for a Fed rate hike.",
-        "de": "Mit der Verschärfung der Iran-Krise nähern sich die Treasury-Renditen den höchsten Niveaus seit Beginn des Iran-Kriegs, was die Markterwartungen an eine Zinserhöhung der Fed erhöht."
+        "zh": "由于也门胡塞武装袭击沙特油轮，全球油价在周四大幅上涨，布伦特原油价格首次突破100美元。",
+        "en": "Global oil prices surged sharply on Thursday, with Brent crude topping $100 a barrel for the first time after Yemen's Houthis attacked Saudi tankers.",
+        "de": "Die globalen Ölpreise stiegen am Donnerstag stark an, wobei Brent-Rohöl zum ersten Mal über 100 Dollar pro Barrel stieg, nachdem die Houthis im Jemen saudische Tanker angegriffen hatten."
       },
       "source": "MarketWatch",
       "date": "2026-07-23",
-      "url": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "ServiceNow的股票因网络安全收益显示出势头而上涨",
-        "en": "ServiceNow’s stock rises as earnings show momentum in cybersecurity",
-        "de": "Die Aktie von ServiceNow steigt, da die Gewinne Schwung im Bereich Cybersicherheit zeigen"
+        "zh": "洛克希德·马丁的股票在25年来表现最佳",
+        "en": "Lockheed Martin’s stock has best day in 25 years as push to build more missiles faster pays off",
+        "de": "Lockheed Martins Aktie hat den besten Tag seit 25 Jahren, da der Druck, mehr Raketen schneller zu bauen, sich auszahlt"
       },
       "summary": {
-        "zh": "在软件市场情绪低迷的背景下，ServiceNow的股票因其在网络安全领域的强劲收益而上涨。",
-        "en": "Against a gloomy backdrop for software sentiment, ServiceNow's stock has risen due to strong earnings momentum in cybersecurity.",
-        "de": "Vor dem trüben Hintergrund der Software-Stimmung ist die Aktie von ServiceNow aufgrund starker Gewinnimpulse im Bereich Cybersicherheit gestiegen."
+        "zh": "洛克希德·马丁因增加导弹生产而实现了收益超出预期，股票大幅上涨，创下25年来的最佳表现。",
+        "en": "Lockheed Martin's stock surged as increased missile production led to earnings that exceeded expectations, marking its best performance in 25 years.",
+        "de": "Die Aktie von Lockheed Martin stieg stark an, da die erhöhte Raketenproduktion zu Gewinnen führte, die die Erwartungen übertrafen, was die beste Leistung seit 25 Jahren markiert."
       },
       "source": "MarketWatch",
       "date": "2026-07-23",
-      "url": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "IBM刚刚下调了前景，但并没有像投资者担心的那样严重",
-        "en": "IBM just cut its outlook, but not by as much as investors feared",
-        "de": "IBM hat gerade seine Prognose gesenkt, jedoch nicht so stark, wie es die Anleger befürchtet hatten"
+        "zh": "资本成本上升开始影响股市",
+        "en": "The rising cost of capital for companies today is starting to spook the stock market",
+        "de": "Die steigenden Kapitalkosten für Unternehmen beginnen, den Aktienmarkt zu beunruhigen"
       },
       "summary": {
-        "zh": "IBM的最新财报显示，尽管下调了前景，但情况并没有投资者预期的那么糟糕，导致其股票出现反弹。",
-        "en": "IBM's latest earnings report shows that despite cutting its outlook, the situation is not as dire as investors had feared, leading to a rebound in its stock.",
-        "de": "Der jüngste Gewinnbericht von IBM zeigt, dass die Situation trotz der Senkung der Prognose nicht so schlimm ist, wie es die Anleger befürchtet hatten, was zu einem Anstieg der Aktie führte."
+        "zh": "由于资本成本上升，市场对企业支出的担忧加剧，导致股市出现波动。",
+        "en": "Rising capital costs are increasing concerns about corporate spending, leading to volatility in the stock market.",
+        "de": "Steigende Kapitalkosten erhöhen die Bedenken hinsichtlich der Unternehmensausgaben, was zu Volatilität auf dem Aktienmarkt führt."
       },
       "source": "MarketWatch",
       "date": "2026-07-23",
-      "url": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/the-rising-cost-of-capital-for-companies-today-is-starting-to-spook-the-stock-market-the-worry-is-the-spending-might-not-pay-off-de4c69e4?mod=mw_rss_topstories"
     }
   ]
 }
