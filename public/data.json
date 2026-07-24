@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-23T17:51:52.064625+00:00",
+  "generatedAt": "2026-07-24T07:09:26.902212+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "超冷肾脏在猪体内移植，标志性成就",
+        "zh": "超冷肾脏已成功移植到猪体内，标志性成就",
         "en": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
         "de": "Superkühlte Nieren wurden in Schweine transplantiert – ein „Meilenstein“"
       },
       "summary": {
-        "zh": "在器官捐赠中，时间至关重要。超冷肾脏的成功移植被认为是器官移植领域的一项重大突破。",
-        "en": "In organ donation, time is crucial. The successful transplantation of supercooled kidneys is considered a significant breakthrough in the field of organ transplantation.",
-        "de": "Bei der Organtransplantation ist Zeit entscheidend. Die erfolgreiche Transplantation von superkühlten Nieren wird als bedeutender Durchbruch im Bereich der Organtransplantation angesehen."
+        "zh": "在器官捐献中，时间至关重要。超冷肾脏的成功移植为器官移植领域带来了新的希望，可能会改善器官保存和移植的效果。",
+        "en": "In organ donation, time is crucial. The successful transplantation of supercooled kidneys offers new hope for the field of organ transplantation, potentially improving organ preservation and transplant outcomes.",
+        "de": "Bei der Organtransplantation ist Zeit entscheidend. Die erfolgreiche Transplantation von superkühlten Nieren bietet neue Hoffnung für das Gebiet der Organtransplantation und könnte die Organerhaltung und Transplantationsergebnisse verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-23",
@@ -25,9 +25,9 @@
         "de": "Wie KI Wissenschaftlern hilft, die nächste Generation von Medikamenten zu entwerfen"
       },
       "summary": {
-        "zh": "设计和开发新药是一项昂贵且容易失败的科学挑战。AI的应用正在改变这一过程，帮助科学家更高效地创造新药。",
-        "en": "Designing and developing new medicines is an expensive and failure-prone scientific challenge. The application of AI is transforming this process, helping scientists create new drugs more efficiently.",
-        "de": "Die Gestaltung und Entwicklung neuer Medikamente ist eine teure und fehleranfällige wissenschaftliche Herausforderung. Der Einsatz von KI verändert diesen Prozess und hilft Wissenschaftlern, neue Medikamente effizienter zu entwickeln."
+        "zh": "新药的设计和开发是一个昂贵且容易失败的科学挑战。AI的应用可以加速这一过程，降低成本，提高成功率。",
+        "en": "Designing and developing new medicines is an expensive and failure-prone scientific challenge. The application of AI can accelerate this process, reduce costs, and increase success rates.",
+        "de": "Die Entwicklung neuer Medikamente ist eine teure und fehleranfällige wissenschaftliche Herausforderung. Der Einsatz von KI kann diesen Prozess beschleunigen, die Kosten senken und die Erfolgsquote erhöhen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-23",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "推进下一代AI与材料科学创新",
-        "en": "Advancing next-gen AI with materials science innovation",
-        "de": "Fortschritte bei der nächsten Generation von KI durch Innovationen in der Materialwissenschaft"
+        "zh": "能源首次公开募股激增，投资者寻找AI繁荣的投资机会",
+        "en": "Energy IPOs surge as investors hunt for ways to play AI boom",
+        "de": "Energie-IPO's steigen, während Investoren nach Möglichkeiten suchen, vom KI-Boom zu profitieren"
       },
       "summary": {
-        "zh": "AI的讨论通常集中在算法和计算能力上，而材料科学的创新正在推动下一代AI的发展。",
-        "en": "Discussions about AI often center on algorithms and computing power, while innovations in materials science are driving the advancement of next-gen AI.",
-        "de": "Diskussionen über KI konzentrieren sich oft auf Algorithmen und Rechenleistung, während Innovationen in der Materialwissenschaft den Fortschritt der nächsten Generation von KI vorantreiben."
+        "zh": "随着投资者寻找参与AI繁荣的机会，能源领域的首次公开募股数量激增。这表明市场对AI相关技术的强烈兴趣。",
+        "en": "As investors seek opportunities to participate in the AI boom, the number of IPOs in the energy sector has surged. This indicates strong market interest in AI-related technologies.",
+        "de": "Während Investoren nach Möglichkeiten suchen, am KI-Boom teilzuhaben, hat die Anzahl der IPOs im Energiesektor zugenommen. Dies zeigt das starke Marktinteresse an KI-bezogenen Technologien."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-07-21",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+      "source": "Ars Technica – AI",
+      "date": "2026-07-16",
+      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "油价首次突破100美元，中东冲突加剧",
-        "en": "Oil surges past $100 in a first since May as Middle East conflicts rage",
-        "de": "Ölpreise steigen auf über 100 Dollar, erstmals seit Mai, während die Konflikte im Nahen Osten wüten"
+        "zh": "‘崩溃’：路障和互联网黑暗使巴基斯坦克什米尔处于停滞状态",
+        "en": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
+        "de": "‘Zusammengebrochen’: Straßensperren und Internetausfall lassen das pakistanische Kaschmir im Ungewissen"
       },
       "summary": {
-        "zh": "由于也门胡塞武装声称袭击了沙特阿拉伯的油轮，油价在连续上涨五天后突破了100美元。",
-        "en": "Oil prices have surged past $100 for the first time in five days after Yemen's Houthis claimed to have struck Saudi oil tankers.",
-        "de": "Die Ölpreise sind zum ersten Mal seit fünf Tagen auf über 100 Dollar gestiegen, nachdem die Houthis im Jemen behaupteten, sie hätten saudische Öltanker angegriffen."
+        "zh": "巴基斯坦克什米尔的居民面临日益加剧的困境，互联网限制和道路封闭已经持续到第二个月，影响了即将举行的选举。",
+        "en": "Residents of Pakistani Kashmir are facing mounting hardships as internet restrictions and road closures stretch into a second month, impacting upcoming elections.",
+        "de": "Die Bewohner von Pakistanisch-Kaschmir sehen sich zunehmenden Schwierigkeiten gegenüber, da Internetbeschränkungen und Straßensperren in den zweiten Monat gehen und die bevorstehenden Wahlen beeinträchtigen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-23",
-      "url": "https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss"
+      "date": "2026-07-24",
+      "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普：美沙核协议取决于沙特加入亚伯拉罕协议",
-        "en": "Trump: US-Saudi nuclear deal hinges on Saudi joining Abraham Accords",
-        "de": "Trump: US-saudischer Nuklearvertrag hängt von Saudi-Arabiens Beitritt zu den Abraham-Vereinbarungen ab"
+        "zh": "乌克兰将军能否改变与俄罗斯战争的方向？",
+        "en": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
+        "de": "Mykhailo Drapatyi: Kann der neue ukrainische Armeekommandeur die Richtung des Krieges gegen Russland ändern?"
       },
       "summary": {
-        "zh": "美国与沙特阿拉伯达成了一项民用核合作协议，特朗普表示该协议的达成取决于沙特加入亚伯拉罕协议。",
-        "en": "The US and Saudi Arabia have reached a civilian nuclear cooperation deal, with Trump stating that its success hinges on Saudi Arabia joining the Abraham Accords.",
-        "de": "Die USA und Saudi-Arabien haben ein Abkommen über zivile Nuklearkooperation erzielt, wobei Trump erklärt, dass der Erfolg davon abhängt, dass Saudi-Arabien den Abraham-Vereinbarungen beitritt."
+        "zh": "新任乌克兰军队首席指挥官德拉帕提在2014年因在马里乌波尔的勇敢表现而成为偶像。他能否带领军队走向胜利？",
+        "en": "Newly appointed Ukrainian army chief Mykhailo Drapatyi became an icon in 2014 for his daring actions in Mariupol. Can he lead his military to victory?",
+        "de": "Der neu ernannte ukrainische Armeekommandeur Mykhailo Drapatyi wurde 2014 für seine waghalsigen Aktionen in Mariupol zum Idol. Kann er seine Armee zum Sieg führen?"
       },
       "source": "Al Jazeera",
-      "date": "2026-07-23",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/trump-us-saudi-nuclear-deal-hinges-on-saudi-joining-abraham-accords?traffic_source=rss"
+      "date": "2026-07-24",
+      "url": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国众议院首次投票限制伊朗战争",
-        "en": "US House votes to limit Iran war for first time since ceasefire breakdown",
-        "de": "US-Repräsentantenhaus stimmt erstmals seit dem Zusammenbruch des Waffenstillstands für eine Begrenzung des Iran-Kriegs"
+        "zh": "美国对数十个贸易伙伴实施新一轮关税",
+        "en": "US hits dozens of trading partners with new wave of tariffs",
+        "de": "Die USA treffen Dutzende von Handelspartnern mit einer neuen Welle von Zöllen"
       },
       "summary": {
-        "zh": "美国众议院投票通过了一项决议，旨在限制对伊朗的军事行动，这是自停火破裂以来的首次尝试。",
-        "en": "The US House has voted on a resolution aimed at limiting military action against Iran, marking the first such attempt since the ceasefire breakdown.",
-        "de": "Das US-Repräsentantenhaus hat über einen Beschluss abgestimmt, der darauf abzielt, militärische Maßnahmen gegen den Iran zu begrenzen, was den ersten solchen Versuch seit dem Zusammenbruch des Waffenstillstands darstellt."
+        "zh": "美国因强迫劳动问题对数十个贸易伙伴实施新关税，尽管大多数国家表示将继续谈判。",
+        "en": "The U.S. has imposed new tariffs on dozens of trading partners citing forced labor concerns, although most countries signaled plans to continue negotiations.",
+        "de": "Die USA haben neue Zölle auf Dutzende von Handelspartnern verhängt, die mit Bedenken hinsichtlich Zwangsarbeit begründet sind, obwohl die meisten Länder Pläne signalisierten, die Verhandlungen fortzusetzen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-07-23",
-      "url": "https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-07-24",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "全球油价在胡塞武装袭击沙特油轮后突破100美元",
-        "en": "Global oil tops $100 after Houthis strike Saudi tankers and Trump threatens ‘military punishment’ on Iran",
-        "de": "Globales Öl übersteigt 100 Dollar nach dem Angriff der Houthis auf saudische Tanker und Trumps Drohung mit ‚militärischer Bestrafung‘ gegen den Iran"
+        "zh": "特朗普的新全球关税因强迫劳动理由遭到贸易伙伴的反对",
+        "en": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
+        "de": "Trumps neue globale Zölle stoßen bei Handelspartnern auf Ablehnung wegen der Begründung durch Zwangsarbeit"
       },
       "summary": {
-        "zh": "由于也门胡塞武装袭击沙特油轮，全球油价在周四大幅上涨，布伦特原油价格首次突破100美元。",
-        "en": "Global oil prices surged sharply on Thursday, with Brent crude topping $100 a barrel for the first time after Yemen's Houthis attacked Saudi tankers.",
-        "de": "Die globalen Ölpreise stiegen am Donnerstag stark an, wobei Brent-Rohöl zum ersten Mal über 100 Dollar pro Barrel stieg, nachdem die Houthis im Jemen saudische Tanker angegriffen hatten."
+        "zh": "特朗普的新全球关税因强迫劳动的理由遭到贸易伙伴的反对，但大多数国家表示将继续谈判。",
+        "en": "Trump's new global tariffs have drawn rebukes from trade partners over the justification of forced labor, but most countries indicated plans to continue negotiations.",
+        "de": "Trumps neue globale Zölle haben bei Handelspartnern aufgrund der Begründung durch Zwangsarbeit Kritik ausgelöst, aber die meisten Länder haben Pläne signalisiert, die Verhandlungen fortzusetzen."
       },
-      "source": "MarketWatch",
-      "date": "2026-07-23",
-      "url": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-24",
+      "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "洛克希德·马丁的股票在25年来表现最佳",
-        "en": "Lockheed Martin’s stock has best day in 25 years as push to build more missiles faster pays off",
-        "de": "Lockheed Martins Aktie hat den besten Tag seit 25 Jahren, da der Druck, mehr Raketen schneller zu bauen, sich auszahlt"
+        "zh": "特朗普计划从2028年开始对仿制药征收关税",
+        "en": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
+        "de": "Trump plant ab 2028 Zölle auf Generika mit einer zweijährigen Verzögerung zur Prüfung des Onshoring-Vorstoßes der USA"
       },
       "summary": {
-        "zh": "洛克希德·马丁因增加导弹生产而实现了收益超出预期，股票大幅上涨，创下25年来的最佳表现。",
-        "en": "Lockheed Martin's stock surged as increased missile production led to earnings that exceeded expectations, marking its best performance in 25 years.",
-        "de": "Die Aktie von Lockheed Martin stieg stark an, da die erhöhte Raketenproduktion zu Gewinnen führte, die die Erwartungen übertrafen, was die beste Leistung seit 25 Jahren markiert."
+        "zh": "特朗普计划从2028年开始对仿制药征收关税，旨在推动美国本土生产，但取代印度等现有供应商并不容易。",
+        "en": "Trump plans to impose tariffs on generic drugs starting in 2028, aimed at promoting U.S. domestic production, but displacing established suppliers like India won't be easy.",
+        "de": "Trump plant, ab 2028 Zölle auf Generika zu erheben, um die inländische Produktion in den USA zu fördern, aber die Ablösung etablierter Anbieter wie Indien wird nicht einfach sein."
       },
-      "source": "MarketWatch",
-      "date": "2026-07-23",
-      "url": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-22",
+      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "资本成本上升开始影响股市",
-        "en": "The rising cost of capital for companies today is starting to spook the stock market",
-        "de": "Die steigenden Kapitalkosten für Unternehmen beginnen, den Aktienmarkt zu beunruhigen"
+        "zh": "S&P 500闪现卖出信号，期权交易者准备迎接苹果、Meta和微软的剧烈波动",
+        "en": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+        "de": "S&P 500 zeigt Verkaufssignale – Optionshändler bereiten sich auf wilde Schwankungen bei Apple, Meta und Microsoft vor"
       },
       "summary": {
-        "zh": "由于资本成本上升，市场对企业支出的担忧加剧，导致股市出现波动。",
-        "en": "Rising capital costs are increasing concerns about corporate spending, leading to volatility in the stock market.",
-        "de": "Steigende Kapitalkosten erhöhen die Bedenken hinsichtlich der Unternehmensausgaben, was zu Volatilität auf dem Aktienmarkt führt."
+        "zh": "投资者对苹果、Meta和微软等大型股票的剧烈波动感到紧张，S&P 500指数发出卖出信号，预示着市场的不确定性。",
+        "en": "Investors are bracing for wild swings in major stocks like Apple, Meta, and Microsoft as the S&P 500 flashes sell signals, indicating market uncertainty.",
+        "de": "Investoren bereiten sich auf wilde Schwankungen bei großen Aktien wie Apple, Meta und Microsoft vor, während der S&P 500 Verkaufssignale sendet, was auf Marktunsicherheit hinweist."
       },
-      "source": "MarketWatch",
+      "source": "MarketWatch – Top Stories",
       "date": "2026-07-23",
-      "url": "https://www.marketwatch.com/story/the-rising-cost-of-capital-for-companies-today-is-starting-to-spook-the-stock-market-the-worry-is-the-spending-might-not-pay-off-de4c69e4?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories"
     }
   ]
 }
