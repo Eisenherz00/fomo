@@ -1,99 +1,99 @@
 {
-  "generatedAt": "2026-07-24T07:09:26.902212+00:00",
+  "generatedAt": "2026-07-24T17:56:14.524006+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "超冷肾脏已成功移植到猪体内，标志性成就",
-        "en": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-        "de": "Superkühlte Nieren wurden in Schweine transplantiert – ein „Meilenstein“"
+        "zh": "保持器官在体外存活的探索",
+        "en": "The quest to keep organs alive outside the body",
+        "de": "Die Suche nach der Erhaltung von Organen außerhalb des Körpers"
       },
       "summary": {
-        "zh": "在器官捐献中，时间至关重要。超冷肾脏的成功移植为器官移植领域带来了新的希望，可能会改善器官保存和移植的效果。",
-        "en": "In organ donation, time is crucial. The successful transplantation of supercooled kidneys offers new hope for the field of organ transplantation, potentially improving organ preservation and transplant outcomes.",
-        "de": "Bei der Organtransplantation ist Zeit entscheidend. Die erfolgreiche Transplantation von superkühlten Nieren bietet neue Hoffnung für das Gebiet der Organtransplantation und könnte die Organerhaltung und Transplantationsergebnisse verbessern."
+        "zh": "本文探讨了一项旨在保持器官在体外存活的努力，以应对捐赠器官短缺的问题。",
+        "en": "This article explores an effort to preserve organs outside the body to address the shortage of donor organs.",
+        "de": "Dieser Artikel untersucht einen Versuch, Organe außerhalb des Körpers zu erhalten, um dem Mangel an Spenderorganen zu begegnen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-23",
-      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"
+      "date": "2026-07-24",
+      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
     },
     {
       "id": "ai-2",
+      "title": {
+        "zh": "下载：器官移植突破和国产中国芯片",
+        "en": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+        "de": "Der Download: ein Durchbruch bei Organtransplantationen und inländische chinesische Chips"
+      },
+      "summary": {
+        "zh": "今天的下载介绍了器官移植的突破以及中国本土芯片的发展动态。",
+        "en": "Today's Download covers breakthroughs in organ transplantation and developments in homegrown Chinese chips.",
+        "de": "Der heutige Download behandelt Durchbrüche bei Organtransplantationen und Entwicklungen bei inländischen chinesischen Chips."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-07-24",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+    },
+    {
+      "id": "ai-3",
       "title": {
         "zh": "AI如何帮助科学家设计下一代药物",
         "en": "How AI helps scientists design the next generation of medicines",
         "de": "Wie KI Wissenschaftlern hilft, die nächste Generation von Medikamenten zu entwerfen"
       },
       "summary": {
-        "zh": "新药的设计和开发是一个昂贵且容易失败的科学挑战。AI的应用可以加速这一过程，降低成本，提高成功率。",
-        "en": "Designing and developing new medicines is an expensive and failure-prone scientific challenge. The application of AI can accelerate this process, reduce costs, and increase success rates.",
-        "de": "Die Entwicklung neuer Medikamente ist eine teure und fehleranfällige wissenschaftliche Herausforderung. Der Einsatz von KI kann diesen Prozess beschleunigen, die Kosten senken und die Erfolgsquote erhöhen."
+        "zh": "本文探讨了人工智能在药物设计和开发中的应用，强调其在降低成本和提高成功率方面的潜力。",
+        "en": "This article discusses the application of artificial intelligence in drug design and development, highlighting its potential to reduce costs and improve success rates.",
+        "de": "Dieser Artikel behandelt die Anwendung von Künstlicher Intelligenz im Arzneimittel-Design und in der -Entwicklung und hebt ihr Potenzial zur Senkung der Kosten und zur Verbesserung der Erfolgsquoten hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-23",
       "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "能源首次公开募股激增，投资者寻找AI繁荣的投资机会",
-        "en": "Energy IPOs surge as investors hunt for ways to play AI boom",
-        "de": "Energie-IPO's steigen, während Investoren nach Möglichkeiten suchen, vom KI-Boom zu profitieren"
-      },
-      "summary": {
-        "zh": "随着投资者寻找参与AI繁荣的机会，能源领域的首次公开募股数量激增。这表明市场对AI相关技术的强烈兴趣。",
-        "en": "As investors seek opportunities to participate in the AI boom, the number of IPOs in the energy sector has surged. This indicates strong market interest in AI-related technologies.",
-        "de": "Während Investoren nach Möglichkeiten suchen, am KI-Boom teilzuhaben, hat die Anzahl der IPOs im Energiesektor zugenommen. Dies zeigt das starke Marktinteresse an KI-bezogenen Technologien."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-07-16",
-      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "‘崩溃’：路障和互联网黑暗使巴基斯坦克什米尔处于停滞状态",
-        "en": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
-        "de": "‘Zusammengebrochen’: Straßensperren und Internetausfall lassen das pakistanische Kaschmir im Ungewissen"
+        "zh": "罗马尼亚战斗机击落疑似俄罗斯无人机",
+        "en": "Romanian jet fighter shoots down suspected Russian drone",
+        "de": "Rumänisches Jagdflugzeug schießt verdächtige russische Drohne ab"
       },
       "summary": {
-        "zh": "巴基斯坦克什米尔的居民面临日益加剧的困境，互联网限制和道路封闭已经持续到第二个月，影响了即将举行的选举。",
-        "en": "Residents of Pakistani Kashmir are facing mounting hardships as internet restrictions and road closures stretch into a second month, impacting upcoming elections.",
-        "de": "Die Bewohner von Pakistanisch-Kaschmir sehen sich zunehmenden Schwierigkeiten gegenüber, da Internetbeschränkungen und Straßensperren in den zweiten Monat gehen und die bevorstehenden Wahlen beeinträchtigen."
+        "zh": "这一事件加剧了人们对莫斯科对乌克兰的战争可能波及邻近北约国家的担忧。",
+        "en": "The incident heightens concerns that Moscow's war on Ukraine could spill over to entangle neighboring NATO states.",
+        "de": "Der Vorfall verstärkt die Bedenken, dass Moskaus Krieg gegen die Ukraine auf benachbarte NATO-Staaten übergreifen könnte."
       },
       "source": "Al Jazeera",
       "date": "2026-07-24",
-      "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乌克兰将军能否改变与俄罗斯战争的方向？",
-        "en": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
-        "de": "Mykhailo Drapatyi: Kann der neue ukrainische Armeekommandeur die Richtung des Krieges gegen Russland ändern?"
+        "zh": "美国记录2318例麻疹病例，已超过2025年总数",
+        "en": "US records 2,318 measles cases, already surpassing 2025 total",
+        "de": "Die USA verzeichnen 2.318 Masernfälle und übertreffen bereits die Gesamtzahl von 2025"
       },
       "summary": {
-        "zh": "新任乌克兰军队首席指挥官德拉帕提在2014年因在马里乌波尔的勇敢表现而成为偶像。他能否带领军队走向胜利？",
-        "en": "Newly appointed Ukrainian army chief Mykhailo Drapatyi became an icon in 2014 for his daring actions in Mariupol. Can he lead his military to victory?",
-        "de": "Der neu ernannte ukrainische Armeekommandeur Mykhailo Drapatyi wurde 2014 für seine waghalsigen Aktionen in Mariupol zum Idol. Kann er seine Armee zum Sieg führen?"
+        "zh": "科学家警告，疫苗接种率下降使得年轻儿童等脆弱群体更容易受到疾病的侵害。",
+        "en": "Scientists warn that falling vaccination rates leave vulnerable groups such as young children more exposed to disease.",
+        "de": "Wissenschaftler warnen, dass sinkende Impfquoten verletzliche Gruppen wie kleine Kinder stärker Krankheiten aussetzen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-24",
-      "url": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/24/us-records-2318-measles-cases-thus-far-in-2026-passing-2025-total?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国对数十个贸易伙伴实施新一轮关税",
-        "en": "US hits dozens of trading partners with new wave of tariffs",
-        "de": "Die USA treffen Dutzende von Handelspartnern mit einer neuen Welle von Zöllen"
+        "zh": "美国对数十个国家实施新一轮关税",
+        "en": "US hits dozens of countries with new wave of tariffs",
+        "de": "Die USA verhängen gegen Dutzende Länder eine neue Welle von Zöllen"
       },
       "summary": {
-        "zh": "美国因强迫劳动问题对数十个贸易伙伴实施新关税，尽管大多数国家表示将继续谈判。",
-        "en": "The U.S. has imposed new tariffs on dozens of trading partners citing forced labor concerns, although most countries signaled plans to continue negotiations.",
-        "de": "Die USA haben neue Zölle auf Dutzende von Handelspartnern verhängt, die mit Bedenken hinsichtlich Zwangsarbeit begründet sind, obwohl die meisten Länder Pläne signalisierten, die Verhandlungen fortzusetzen."
+        "zh": "这些关税是基于强迫劳动的担忧而实施的，取代了美国最高法院在二月份推翻的临时全球关税。",
+        "en": "These tariffs are imposed citing forced labor concerns, replacing a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+        "de": "Diese Zölle werden unter Berufung auf Bedenken hinsichtlich Zwangsarbeit verhängt und ersetzen eine vorübergehende globale Abgabe, die nach der Aufhebung der Zölle durch den Obersten Gerichtshof der USA im Februar eingeführt wurde."
       },
       "source": "BBC News – World",
       "date": "2026-07-24",
@@ -104,14 +104,14 @@
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普的新全球关税因强迫劳动理由遭到贸易伙伴的反对",
-        "en": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
-        "de": "Trumps neue globale Zölle stoßen bei Handelspartnern auf Ablehnung wegen der Begründung durch Zwangsarbeit"
+        "zh": "特朗普的新全球关税因强迫劳动理由而遭到贸易伙伴的反对",
+        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
+        "de": "Trumps neue globale Zölle stoßen bei Handelspartnern auf Ablehnung wegen der Begründung der Zwangsarbeit"
       },
       "summary": {
-        "zh": "特朗普的新全球关税因强迫劳动的理由遭到贸易伙伴的反对，但大多数国家表示将继续谈判。",
-        "en": "Trump's new global tariffs have drawn rebukes from trade partners over the justification of forced labor, but most countries indicated plans to continue negotiations.",
-        "de": "Trumps neue globale Zölle haben bei Handelspartnern aufgrund der Begründung durch Zwangsarbeit Kritik ausgelöst, aber die meisten Länder haben Pläne signalisiert, die Verhandlungen fortzusetzen."
+        "zh": "美国贸易伙伴拒绝接受特朗普新全球关税的强迫劳动理由，大多数国家表示将继续谈判。",
+        "en": "U.S. trading partners have rejected the forced labor rationale behind Trump's new global tariffs, while most signaled plans to keep negotiating.",
+        "de": "Die Handelspartner der USA haben die Begründung der Zwangsarbeit für Trumps neue globalen Zölle zurückgewiesen, während die meisten Pläne signalisierten, weiterhin zu verhandeln."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-24",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普计划从2028年开始对仿制药征收关税",
-        "en": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
-        "de": "Trump plant ab 2028 Zölle auf Generika mit einer zweijährigen Verzögerung zur Prüfung des Onshoring-Vorstoßes der USA"
+        "zh": "凯文·沃什关注三个关键短语。美联储观察者如何解读它们",
+        "en": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+        "de": "Kevin Warsh hat sich auf drei Schlüsselphrasen konzentriert. Wie Fed-Beobachter sie interpretieren"
       },
       "summary": {
-        "zh": "特朗普计划从2028年开始对仿制药征收关税，旨在推动美国本土生产，但取代印度等现有供应商并不容易。",
-        "en": "Trump plans to impose tariffs on generic drugs starting in 2028, aimed at promoting U.S. domestic production, but displacing established suppliers like India won't be easy.",
-        "de": "Trump plant, ab 2028 Zölle auf Generika zu erheben, um die inländische Produktion in den USA zu fördern, aber die Ablösung etablierter Anbieter wie Indien wird nicht einfach sein."
+        "zh": "沃什在五次公开演讲中多次提到这三个短语，反映出他对美联储政策的看法。",
+        "en": "Warsh has repeatedly mentioned these three phrases in five public appearances, reflecting his views on Federal Reserve policy.",
+        "de": "Warsh hat diese drei Phrasen in fünf öffentlichen Auftritten wiederholt erwähnt, was seine Ansichten zur Geldpolitik der Federal Reserve widerspiegelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-22",
-      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
+      "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "S&P 500闪现卖出信号，期权交易者准备迎接苹果、Meta和微软的剧烈波动",
-        "en": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
-        "de": "S&P 500 zeigt Verkaufssignale – Optionshändler bereiten sich auf wilde Schwankungen bei Apple, Meta und Microsoft vor"
+        "zh": "特朗普计划从2028年开始对仿制药征收关税，推迟两年测试美国本土化推动",
+        "en": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
+        "de": "Trump plant ab 2028 Zölle auf Generika mit zweijähriger Verzögerung zur Prüfung des US-Onshoring-Vorstoßes"
       },
       "summary": {
-        "zh": "投资者对苹果、Meta和微软等大型股票的剧烈波动感到紧张，S&P 500指数发出卖出信号，预示着市场的不确定性。",
-        "en": "Investors are bracing for wild swings in major stocks like Apple, Meta, and Microsoft as the S&P 500 flashes sell signals, indicating market uncertainty.",
-        "de": "Investoren bereiten sich auf wilde Schwankungen bei großen Aktien wie Apple, Meta und Microsoft vor, während der S&P 500 Verkaufssignale sendet, was auf Marktunsicherheit hinweist."
+        "zh": "这一关税计划强调特朗普希望将低成本药品生产带回美国，但取代印度等已建立供应商并不容易。",
+        "en": "This tariff plan underscores Trump's goal of reshoring low-cost drug production to the U.S., but displacing established suppliers like India won't be easy.",
+        "de": "Dieser Zollplan unterstreicht Trumps Ziel, die Produktion von kostengünstigen Arzneimitteln in die USA zurückzuholen, aber die Ablösung etablierter Anbieter wie Indien wird nicht einfach sein."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-23",
-      "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-22",
+      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
     }
   ]
 }
