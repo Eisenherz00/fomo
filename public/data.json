@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-25T06:39:17.058665+00:00",
+  "generatedAt": "2026-07-25T17:27:17.471935+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "保持器官在体外存活的探索",
         "en": "The quest to keep organs alive outside the body",
-        "de": "Die Suche nach der Erhaltung von Organen außerhalb des Körpers"
+        "de": "Die Suche, Organe außerhalb des Körpers am Leben zu halten"
       },
       "summary": {
-        "zh": "由于捐赠器官的短缺，科学家们正在努力寻找保持器官在体外存活的方法，以解决这一问题。",
-        "en": "Due to the shortage of donor organs, scientists are working on methods to keep organs alive outside the body to address this issue.",
-        "de": "Aufgrund des Mangels an Spenderorganen arbeiten Wissenschaftler an Methoden, um Organe außerhalb des Körpers am Leben zu erhalten, um dieses Problem anzugehen."
+        "zh": "由于供体器官短缺，科学家们正在努力开发技术，以在体外保持器官的生命。这项研究旨在解决器官捐赠的紧迫问题。",
+        "en": "Due to a shortage of donor organs, scientists are working on technologies to keep organs alive outside the body. This research aims to address the urgent issue of organ donation.",
+        "de": "Aufgrund des Mangels an Spenderorganen arbeiten Wissenschaftler an Technologien, um Organe außerhalb des Körpers am Leben zu halten. Diese Forschung zielt darauf ab, das dringende Problem der Organtransplantation anzugehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-24",
@@ -25,9 +25,9 @@
         "de": "Der Download: ein Durchbruch bei Organtransplantationen und inländische chinesische Chips"
       },
       "summary": {
-        "zh": "本期《下载》介绍了一项器官移植的突破以及中国本土芯片的发展动态。",
-        "en": "This edition of The Download covers a breakthrough in organ transplantation and developments in homegrown Chinese chips.",
-        "de": "Diese Ausgabe des Downloads behandelt einen Durchbruch bei Organtransplantationen und Entwicklungen bei inländischen chinesischen Chips."
+        "zh": "本期《下载》报道了器官移植的突破性进展以及中国本土芯片的发展。这些技术进展可能会对医疗和科技领域产生深远影响。",
+        "en": "This edition of The Download covers breakthrough advancements in organ transplantation and the development of homegrown Chinese chips. These technological advancements could have far-reaching impacts on healthcare and technology sectors.",
+        "de": "Diese Ausgabe des Downloads behandelt bahnbrechende Fortschritte bei Organtransplantationen und die Entwicklung inländischer chinesischer Chips. Diese technologischen Fortschritte könnten weitreichende Auswirkungen auf den Gesundheits- und Technologiesektor haben."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-24",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "人工智能如何帮助科学家设计下一代药物",
+        "zh": "AI如何帮助科学家设计下一代药物",
         "en": "How AI helps scientists design the next generation of medicines",
         "de": "Wie KI Wissenschaftlern hilft, die nächste Generation von Medikamenten zu entwerfen"
       },
       "summary": {
-        "zh": "人工智能正在帮助科学家们在药物设计和开发过程中提高效率，减少失败率。",
-        "en": "Artificial intelligence is helping scientists improve efficiency and reduce failure rates in the drug design and development process.",
-        "de": "Künstliche Intelligenz hilft Wissenschaftlern, die Effizienz zu verbessern und die Ausfallraten im Prozess der Arzneimittelentwicklung zu senken."
+        "zh": "人工智能正在帮助科学家们设计新一代药物，这一过程通常耗时且成本高昂。AI的应用有望加速药物开发的进程。",
+        "en": "Artificial intelligence is assisting scientists in designing the next generation of medicines, a process that is often time-consuming and costly. The application of AI is expected to accelerate the drug development process.",
+        "de": "Künstliche Intelligenz unterstützt Wissenschaftler bei der Entwicklung der nächsten Generation von Medikamenten, einem Prozess, der oft zeitaufwendig und kostspielig ist. Der Einsatz von KI wird erwartet, um den Arzneimittelentwicklungsprozess zu beschleunigen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-23",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "委内瑞拉人在毁灭性地震一个月后举行守夜",
-        "en": "Venezuelans hold vigil one month after devastating earthquakes",
-        "de": "Venezolaner halten eine Mahnwache einen Monat nach verheerenden Erdbeben"
+        "zh": "伊朗政府与国家电视台争执，调解人推动与美国的谈判",
+        "en": "Iran’s government spars with state TV as mediators push talks with US",
+        "de": "Irans Regierung streitet mit dem Staatsfernsehen, während Vermittler Gespräche mit den USA vorantreiben"
       },
       "summary": {
-        "zh": "在委内瑞拉地震一个月后，家庭仍在寻找倒塌建筑中的失踪亲人。",
-        "en": "One month after the earthquakes in Venezuela, families are still searching collapsed buildings for missing loved ones.",
-        "de": "Einen Monat nach den Erdbeben in Venezuela suchen Familien weiterhin in den eingestürzten Gebäuden nach vermissten Angehörigen."
+        "zh": "伊朗政府指责国家电视台审查其总统讲话的部分内容，媒体在推动与美国的谈判中发挥了调解作用。",
+        "en": "The Iranian government accuses state TV of censoring parts of the president's speech, while mediators play a role in pushing for talks with the US.",
+        "de": "Die iranische Regierung beschuldigt das Staatsfernsehen, Teile der Rede des Präsidenten zensiert zu haben, während Vermittler eine Rolle bei der Förderung von Gesprächen mit den USA spielen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普在重新安排的白宫记者晚会上回归",
-        "en": "‘The show must go on’: Trump returns to rescheduled White House press gala",
-        "de": "‘Die Show muss weitergehen’: Trump kehrt zur neu angesetzten Pressegalaveranstaltung im Weißen Haus zurück"
+        "zh": "‘我们做到了’：‘蟑螂’抗议推动印度部长辞职",
+        "en": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
+        "de": "‘Wir haben es geschafft’: Freude über die Proteste der ‘Kakerlaken’, die den indischen Minister zum Rücktritt drängten"
       },
       "summary": {
-        "zh": "特朗普在白宫记者晚会上开玩笑，嘲讽对手，活动因四月的一次枪击事件而中断。",
-        "en": "Trump made jokes and mocked opponents at the White House correspondents' dinner that was halted by a shooting in April.",
-        "de": "Trump machte Witze und verspottete Gegner beim Presseessen im Weißen Haus, das im April durch einen Schuss unterbrochen wurde."
+        "zh": "印度教育部长达尔梅德·普拉汉在青年抗议活动后辞职，抗议活动是针对考试泄密事件的反应。",
+        "en": "India's Education Minister Dharmendra Pradhan resigned following youth-led protests in response to exam leak incidents.",
+        "de": "Der indische Bildungsminister Dharmendra Pradhan trat nach von Jugendlichen geführten Protesten als Reaktion auf Prüfungslecks zurück."
       },
       "source": "Al Jazeera",
       "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普威胁称欧盟将因布鲁塞尔对谷歌罚款而付出“巨大代价”",
-        "en": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
-        "de": "Trump droht der EU mit ‘hohen Kosten’, nachdem Brüssel Google mit 1 Milliarde Dollar belegt hat"
+        "zh": "在基辅附近的无人机展览中，十人遇难",
+        "en": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "de": "Zehn Tote bei russischem Angriff auf Drohnenausstellung bei Kiew"
       },
       "summary": {
-        "zh": "特朗普对欧盟施加压力，因其对谷歌的罚款而发出威胁。",
-        "en": "Trump is pressuring the EU, threatening them over the fines imposed on Google.",
-        "de": "Trump übt Druck auf die EU aus und droht ihnen wegen der gegen Google verhängten Geldstrafen."
+        "zh": "在基辅附近的无人机展览中，十人遇难，事件引发了对乌克兰国防工业的关注。",
+        "en": "Ten people were killed in a Russian attack on a drone exhibition near Kyiv, raising concerns about the Ukrainian defense industry.",
+        "de": "Zehn Menschen wurden bei einem russischen Angriff auf eine Drohnenausstellung bei Kiew getötet, was Bedenken hinsichtlich der ukrainischen Verteidigungsindustrie aufwirft."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
@@ -106,12 +106,12 @@
       "title": {
         "zh": "特朗普的新全球关税因强迫劳动理由遭到贸易伙伴的反对",
         "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-        "de": "Trumps neue globale Zölle stoßen auf Ablehnung von Handelspartnern wegen der Rechtfertigung durch Zwangsarbeit"
+        "de": "Trumps neue globale Zölle stoßen bei Handelspartnern auf Ablehnung wegen der Begründung für Zwangsarbeit"
       },
       "summary": {
-        "zh": "美国贸易伙伴对特朗普的新全球关税表示反对，认为强迫劳动的理由不成立。",
-        "en": "U.S. trading partners have rejected the forced labor rationale behind Trump's new global tariffs.",
-        "de": "Die Handelspartner der USA haben die Rechtfertigung der Zwangsarbeit hinter Trumps neuen globalen Zöllen zurückgewiesen."
+        "zh": "特朗普的新全球关税因其以强迫劳动为理由而遭到贸易伙伴的反对，尽管大多数国家表示将继续谈判。",
+        "en": "Trump's new global tariffs have drawn criticism from trade partners for their justification based on forced labor, although most indicated plans to continue negotiations.",
+        "de": "Trumps neue globale Zölle wurden von Handelspartnern wegen ihrer Begründung auf der Grundlage von Zwangsarbeit kritisiert, obwohl die meisten Pläne zur Fortsetzung der Verhandlungen signalisierten."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-24",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "凯文·沃什关注三个关键短语。美联储观察者如何解读它们",
+        "zh": "凯文·沃什关注的三个关键短语",
         "en": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
-        "de": "Kevin Warsh hat sich auf drei Schlüsselphrasen konzentriert. Wie Fed-Beobachter sie interpretieren"
+        "de": "Kevin Warsh hat sich auf drei Schlüsselphrasen konzentriert. Wie die Fed-Beobachter sie interpretieren"
       },
       "summary": {
-        "zh": "凯文·沃什在公开场合中频繁使用特定短语，市场观察者对其含义进行了分析。",
-        "en": "Kevin Warsh has frequently used specific phrases in public appearances, and market watchers are analyzing their implications.",
-        "de": "Kevin Warsh hat in öffentlichen Auftritten häufig bestimmte Phrasen verwendet, und Marktbeobachter analysieren deren Auswirkungen."
+        "zh": "凯文·沃什在五次公开演讲中使用了三个关键短语，这些短语对联邦储备观察者的解读至关重要。",
+        "en": "Kevin Warsh has used three key phrases in five public appearances, which are crucial for interpretations by Federal Reserve watchers.",
+        "de": "Kevin Warsh hat in fünf öffentlichen Auftritten drei Schlüsselphrasen verwendet, die für die Interpretationen von Beobachtern der Federal Reserve entscheidend sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-22",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普计划从2028年开始对仿制药征收关税",
-        "en": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
-        "de": "Trump plant ab 2028 Zölle auf Generika mit zweijähriger Verzögerung zur Prüfung des Onshoring-Drangs in den USA"
+        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来的最高水平",
+        "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
+        "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "特朗普计划在2028年开始对仿制药征收关税，旨在推动美国本土生产。",
-        "en": "Trump plans to impose tariffs on generic drugs starting in 2028, aimed at promoting domestic production in the U.S.",
-        "de": "Trump plant, ab 2028 Zölle auf Generika zu erheben, um die inländische Produktion in den USA zu fördern."
+        "zh": "进口价格意外上涨，主要由于来自中国的商品成本达到自2008年以来的最高水平，这一变化可能影响未来的贸易政策。",
+        "en": "Import prices unexpectedly rose, primarily due to costs of goods from China reaching their highest level since 2008, a change that could impact future trade policies.",
+        "de": "Die Importpreise stiegen unerwartet, hauptsächlich aufgrund der Kosten für Waren aus China, die den höchsten Stand seit 2008 erreichten, eine Veränderung, die zukünftige Handelspolitiken beeinflussen könnte."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-22",
-      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
+      "date": "2026-07-17",
+      "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html"
     }
   ]
 }
