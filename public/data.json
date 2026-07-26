@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T17:27:17.471935+00:00",
+  "generatedAt": "2026-07-26T07:12:01.882188+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Die Suche, Organe außerhalb des Körpers am Leben zu halten"
       },
       "summary": {
-        "zh": "由于供体器官短缺，科学家们正在努力开发技术，以在体外保持器官的生命。这项研究旨在解决器官捐赠的紧迫问题。",
-        "en": "Due to a shortage of donor organs, scientists are working on technologies to keep organs alive outside the body. This research aims to address the urgent issue of organ donation.",
-        "de": "Aufgrund des Mangels an Spenderorganen arbeiten Wissenschaftler an Technologien, um Organe außerhalb des Körpers am Leben zu halten. Diese Forschung zielt darauf ab, das dringende Problem der Organtransplantation anzugehen."
+        "zh": "由于供体器官的短缺，科学家们正在努力开发新的技术，以在体外保持器官的活性。这一进展可能会改变器官移植领域的现状。",
+        "en": "Due to the shortage of donor organs, scientists are working on new technologies to keep organs viable outside the body. This advancement could change the landscape of organ transplantation.",
+        "de": "Aufgrund des Mangels an Spenderorganen arbeiten Wissenschaftler an neuen Technologien, um Organe außerhalb des Körpers lebensfähig zu halten. Dieser Fortschritt könnte die Landschaft der Organtransplantation verändern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-24",
@@ -22,12 +22,12 @@
       "title": {
         "zh": "下载：器官移植突破和中国本土芯片",
         "en": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-        "de": "Der Download: ein Durchbruch bei Organtransplantationen und inländische chinesische Chips"
+        "de": "Der Download: ein Durchbruch bei Organtransplantationen und einheimische chinesische Chips"
       },
       "summary": {
-        "zh": "本期《下载》报道了器官移植的突破性进展以及中国本土芯片的发展。这些技术进展可能会对医疗和科技领域产生深远影响。",
-        "en": "This edition of The Download covers breakthrough advancements in organ transplantation and the development of homegrown Chinese chips. These technological advancements could have far-reaching impacts on healthcare and technology sectors.",
-        "de": "Diese Ausgabe des Downloads behandelt bahnbrechende Fortschritte bei Organtransplantationen und die Entwicklung inländischer chinesischer Chips. Diese technologischen Fortschritte könnten weitreichende Auswirkungen auf den Gesundheits- und Technologiesektor haben."
+        "zh": "本期《下载》介绍了器官移植领域的突破性进展以及中国本土芯片的发展。这些技术进步可能会对医疗和科技行业产生深远影响。",
+        "en": "This edition of The Download covers breakthroughs in organ transplantation and the development of homegrown Chinese chips. These technological advancements could have far-reaching impacts on the healthcare and tech industries.",
+        "de": "Diese Ausgabe des Downloads behandelt Durchbrüche in der Organtransplantation und die Entwicklung einheimischer chinesischer Chips. Diese technologischen Fortschritte könnten weitreichende Auswirkungen auf die Gesundheits- und Technologiebranche haben."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-24",
@@ -41,9 +41,9 @@
         "de": "Wie KI Wissenschaftlern hilft, die nächste Generation von Medikamenten zu entwerfen"
       },
       "summary": {
-        "zh": "人工智能正在帮助科学家们设计新一代药物，这一过程通常耗时且成本高昂。AI的应用有望加速药物开发的进程。",
-        "en": "Artificial intelligence is assisting scientists in designing the next generation of medicines, a process that is often time-consuming and costly. The application of AI is expected to accelerate the drug development process.",
-        "de": "Künstliche Intelligenz unterstützt Wissenschaftler bei der Entwicklung der nächsten Generation von Medikamenten, einem Prozess, der oft zeitaufwendig und kostspielig ist. Der Einsatz von KI wird erwartet, um den Arzneimittelentwicklungsprozess zu beschleunigen."
+        "zh": "人工智能正在改变药物设计的方式，帮助科学家更快地开发新药。通过分析大量数据，AI能够识别潜在的药物候选者。",
+        "en": "Artificial intelligence is transforming the way drugs are designed, helping scientists develop new medications more quickly. By analyzing vast amounts of data, AI can identify potential drug candidates.",
+        "de": "Künstliche Intelligenz verändert die Art und Weise, wie Medikamente entworfen werden, und hilft Wissenschaftlern, neue Medikamente schneller zu entwickeln. Durch die Analyse großer Datenmengen kann KI potenzielle Arzneimittelkandidaten identifizieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-23",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗政府与国家电视台争执，调解人推动与美国的谈判",
-        "en": "Iran’s government spars with state TV as mediators push talks with US",
-        "de": "Irans Regierung streitet mit dem Staatsfernsehen, während Vermittler Gespräche mit den USA vorantreiben"
+        "zh": "乔舒亚两次回归击倒普伦加，准备与富里对决",
+        "en": "Joshua comes back twice to knock out Prenga and set up Fury showdown",
+        "de": "Joshua kommt zweimal zurück, um Prenga auszuknocken und ein Duell mit Fury vorzubereiten"
       },
       "summary": {
-        "zh": "伊朗政府指责国家电视台审查其总统讲话的部分内容，媒体在推动与美国的谈判中发挥了调解作用。",
-        "en": "The Iranian government accuses state TV of censoring parts of the president's speech, while mediators play a role in pushing for talks with the US.",
-        "de": "Die iranische Regierung beschuldigt das Staatsfernsehen, Teile der Rede des Präsidenten zensiert zu haben, während Vermittler eine Rolle bei der Förderung von Gesprächen mit den USA spielen."
+        "zh": "安东尼·乔舒亚在与阿尔巴尼亚拳手克里斯蒂安·普伦加的比赛中经历了两次击倒，最终在第二轮获胜，为与富里的对决铺平了道路。",
+        "en": "Anthony Joshua survived two knockdowns against Albania's Kristian Prenga before winning the fight in the second round, setting the stage for a showdown with Fury.",
+        "de": "Anthony Joshua überlebte zwei Niederschläge gegen den Albaner Kristian Prenga, bevor er den Kampf in der zweiten Runde gewann und damit den Weg für ein Duell mit Fury ebnete."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss"
+      "date": "2026-07-26",
+      "url": "https://www.aljazeera.com/sports/2026/7/26/joshua-comes-back-twice-to-knock-out-prenga-and-set-up-fury-showdown?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "‘我们做到了’：‘蟑螂’抗议推动印度部长辞职",
-        "en": "‘We have done it’: Joy as ‘Cockroach’ protests push India minister out",
-        "de": "‘Wir haben es geschafft’: Freude über die Proteste der ‘Kakerlaken’, die den indischen Minister zum Rücktritt drängten"
+        "zh": "中国南方登陆台风诺尔，数十万人撤离",
+        "en": "Typhoon Noul makes landfall in China, with hundreds of thousands evacuated",
+        "de": "Taifun Noul trifft in China auf Land, Hunderttausende werden evakuiert"
       },
       "summary": {
-        "zh": "印度教育部长达尔梅德·普拉汉在青年抗议活动后辞职，抗议活动是针对考试泄密事件的反应。",
-        "en": "India's Education Minister Dharmendra Pradhan resigned following youth-led protests in response to exam leak incidents.",
-        "de": "Der indische Bildungsminister Dharmendra Pradhan trat nach von Jugendlichen geführten Protesten als Reaktion auf Prüfungslecks zurück."
+        "zh": "台风诺尔在中国南方登陆，导致广东省和香港的数十万人撤离。强风和大雨给该地区带来了严重影响。",
+        "en": "Typhoon Noul made landfall in southern China, leading to the evacuation of hundreds of thousands in Guangdong province and Hong Kong. Strong winds and heavy rain have severely impacted the region.",
+        "de": "Der Taifun Noul traf im Süden Chinas auf Land und führte zur Evakuierung von Hunderttausenden in der Provinz Guangdong und Hongkong. Starke Winde und heftiger Regen haben die Region schwer getroffen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-25",
-      "url": "https://www.aljazeera.com/features/2026/7/25/we-have-done-it-joy-as-cockroach-protests-push-india-minister-out?traffic_source=rss"
+      "date": "2026-07-26",
+      "url": "https://www.aljazeera.com/news/2026/7/26/typhoon-noul-makes-landfall-in-china-with-hundreds-of-thousands-evacuated?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "在基辅附近的无人机展览中，十人遇难",
-        "en": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "de": "Zehn Tote bei russischem Angriff auf Drohnenausstellung bei Kiew"
+        "zh": "美国军方禁用涉嫌违反伊朗封锁的油轮",
+        "en": "US military disables tanker accused of breaking the Iran blockade",
+        "de": "US-Militär deaktiviert Tanker, der beschuldigt wird, die Iran-Blockade zu brechen"
       },
       "summary": {
-        "zh": "在基辅附近的无人机展览中，十人遇难，事件引发了对乌克兰国防工业的关注。",
-        "en": "Ten people were killed in a Russian attack on a drone exhibition near Kyiv, raising concerns about the Ukrainian defense industry.",
-        "de": "Zehn Menschen wurden bei einem russischen Angriff auf eine Drohnenausstellung bei Kiew getötet, was Bedenken hinsichtlich der ukrainischen Verteidigungsindustrie aufwirft."
+        "zh": "美国军方发布了其部队登船一艘涉嫌违反伊朗封锁的油轮的录像。此举加剧了美伊之间的紧张关系。",
+        "en": "The US military released footage showing forces boarding a tanker accused of breaking the Iran blockade. This move escalates tensions between the US and Iran.",
+        "de": "Das US-Militär veröffentlichte Aufnahmen, die zeigen, wie Truppen einen Tanker betreten, der beschuldigt wird, die Iran-Blockade zu brechen. Dieser Schritt eskaliert die Spannungen zwischen den USA und dem Iran."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-25",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-26",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -106,12 +106,12 @@
       "title": {
         "zh": "特朗普的新全球关税因强迫劳动理由遭到贸易伙伴的反对",
         "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-        "de": "Trumps neue globale Zölle stoßen bei Handelspartnern auf Ablehnung wegen der Begründung für Zwangsarbeit"
+        "de": "Trumps neuer globaler Zoll stößt auf Ablehnung von Handelspartnern wegen der Rechtfertigung von Zwangsarbeit"
       },
       "summary": {
         "zh": "特朗普的新全球关税因其以强迫劳动为理由而遭到贸易伙伴的反对，尽管大多数国家表示将继续谈判。",
-        "en": "Trump's new global tariffs have drawn criticism from trade partners for their justification based on forced labor, although most indicated plans to continue negotiations.",
-        "de": "Trumps neue globale Zölle wurden von Handelspartnern wegen ihrer Begründung auf der Grundlage von Zwangsarbeit kritisiert, obwohl die meisten Pläne zur Fortsetzung der Verhandlungen signalisierten."
+        "en": "Trump's new global tariffs have faced rebukes from trade partners over the justification of forced labor, although most countries signaled plans to continue negotiations.",
+        "de": "Trumps neue globalen Zölle haben von Handelspartnern wegen der Rechtfertigung von Zwangsarbeit Kritik erhalten, obwohl die meisten Länder signalisierten, dass sie die Verhandlungen fortsetzen wollen."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-24",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "凯文·沃什关注的三个关键短语",
+        "zh": "凯文·沃什关注三句关键短语。美联储观察者如何解读它们",
         "en": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
-        "de": "Kevin Warsh hat sich auf drei Schlüsselphrasen konzentriert. Wie die Fed-Beobachter sie interpretieren"
+        "de": "Kevin Warsh hat sich auf drei Schlüsselphrasen konzentriert. Wie Fed-Beobachter sie interpretieren"
       },
       "summary": {
-        "zh": "凯文·沃什在五次公开演讲中使用了三个关键短语，这些短语对联邦储备观察者的解读至关重要。",
-        "en": "Kevin Warsh has used three key phrases in five public appearances, which are crucial for interpretations by Federal Reserve watchers.",
-        "de": "Kevin Warsh hat in fünf öffentlichen Auftritten drei Schlüsselphrasen verwendet, die für die Interpretationen von Beobachtern der Federal Reserve entscheidend sind."
+        "zh": "凯文·沃什在五次公开演讲中多次提到三句关键短语，这些短语可能影响美联储的政策走向。",
+        "en": "Kevin Warsh has repeatedly referenced three key phrases in five public appearances, which may influence the Federal Reserve's policy direction.",
+        "de": "Kevin Warsh hat in fünf öffentlichen Auftritten wiederholt drei Schlüsselphrasen erwähnt, die die Richtung der Geldpolitik der Federal Reserve beeinflussen könnten."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-22",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来的最高水平",
-        "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-        "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
+        "zh": "特朗普计划在2028年实施通用药品关税，延迟两年测试美国本土化推动",
+        "en": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
+        "de": "Trump plant ab 2028 Zölle auf Generika mit zweijähriger Verzögerung zur Überprüfung der US-Onshoring-Initiative"
       },
       "summary": {
-        "zh": "进口价格意外上涨，主要由于来自中国的商品成本达到自2008年以来的最高水平，这一变化可能影响未来的贸易政策。",
-        "en": "Import prices unexpectedly rose, primarily due to costs of goods from China reaching their highest level since 2008, a change that could impact future trade policies.",
-        "de": "Die Importpreise stiegen unerwartet, hauptsächlich aufgrund der Kosten für Waren aus China, die den höchsten Stand seit 2008 erreichten, eine Veränderung, die zukünftige Handelspolitiken beeinflussen könnte."
+        "zh": "特朗普计划在2028年实施通用药品关税，旨在推动美国本土化生产，但取代印度等成熟供应商的过程将面临挑战。",
+        "en": "Trump plans to implement tariffs on generic drugs starting in 2028, aimed at promoting U.S. onshoring, but the process of displacing established suppliers like India will be challenging.",
+        "de": "Trump plant, ab 2028 Zölle auf Generika einzuführen, um die US-Onshoring-Initiative zu fördern, aber der Prozess, etablierte Lieferanten wie Indien zu verdrängen, wird herausfordernd sein."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-17",
-      "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html"
+      "date": "2026-07-22",
+      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
     }
   ]
 }
