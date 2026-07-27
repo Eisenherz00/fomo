@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T17:29:43.194202+00:00",
+  "generatedAt": "2026-07-27T08:03:08.814145+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Die Suche nach der Erhaltung von Organen außerhalb des Körpers"
       },
       "summary": {
-        "zh": "由于供体器官短缺，科学家们正在努力保持器官在体外存活，以应对这一挑战。",
-        "en": "Due to a shortage of donor organs, scientists are working to keep organs alive outside the body to address this challenge.",
-        "de": "Aufgrund des Mangels an Spenderorganen arbeiten Wissenschaftler daran, Organe außerhalb des Körpers am Leben zu erhalten, um dieser Herausforderung zu begegnen."
+        "zh": "由于供体器官短缺，科学家们正在努力开发在体外保持器官存活的方法，以提高移植成功率。",
+        "en": "Due to a shortage of donor organs, scientists are working on methods to keep organs alive outside the body to improve transplant success rates.",
+        "de": "Aufgrund des Mangels an Spenderorganen arbeiten Wissenschaftler an Methoden, um Organe außerhalb des Körpers am Leben zu erhalten, um die Erfolgsquote von Transplantationen zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-24",
@@ -25,9 +25,9 @@
         "de": "Der Download: ein Durchbruch bei Organtransplantationen und inländische chinesische Chips"
       },
       "summary": {
-        "zh": "本期《下载》报道了器官移植的最新突破以及中国本土芯片的发展动态。",
-        "en": "This edition of The Download covers the latest breakthroughs in organ transplantation and developments in homegrown Chinese chips.",
-        "de": "Diese Ausgabe des Downloads behandelt die neuesten Durchbrüche bei Organtransplantationen und Entwicklungen bei inländischen chinesischen Chips."
+        "zh": "本期下载涵盖了器官移植的最新突破和中国本土芯片的发展动态，展示了技术领域的最新进展。",
+        "en": "This edition of The Download covers the latest breakthroughs in organ transplantation and developments in homegrown Chinese chips, showcasing the latest advancements in technology.",
+        "de": "Diese Ausgabe des Downloads behandelt die neuesten Durchbrüche bei Organtransplantationen und Entwicklungen bei inländischen chinesischen Chips und zeigt die neuesten Fortschritte in der Technologie."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-24",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "超冷肾脏已成功移植到猪体内，标志着重要成就",
-        "en": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
-        "de": "Supergekühlte Nieren wurden in Schweine transplantiert, was einen „Meilenstein“ darstellt"
+        "zh": "AI如何帮助科学家设计下一代药物",
+        "en": "How AI helps scientists design the next generation of medicines",
+        "de": "Wie KI Wissenschaftlern hilft, die nächste Generation von Medikamenten zu entwerfen"
       },
       "summary": {
-        "zh": "科学家们成功将超冷肾脏移植到猪体内，这一成就为器官移植领域带来了新的希望。",
-        "en": "Scientists have successfully transplanted supercooled kidneys into pigs, marking a new hope for the field of organ transplantation.",
-        "de": "Wissenschaftler haben erfolgreich supergekühlte Nieren in Schweine transplantiert, was neue Hoffnung für das Gebiet der Organtransplantation bedeutet."
+        "zh": "人工智能正在改变药物设计的方式，通过加速研发过程和降低成本，帮助科学家们更快地开发新药。",
+        "en": "Artificial intelligence is transforming the way drugs are designed, helping scientists develop new medicines faster and at lower costs by accelerating the research and development process.",
+        "de": "Künstliche Intelligenz verändert die Art und Weise, wie Medikamente entworfen werden, indem sie Wissenschaftlern hilft, neue Medikamente schneller und kostengünstiger zu entwickeln, indem sie den Forschungs- und Entwicklungsprozess beschleunigt."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-23",
-      "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/"
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "‘冻结冲突’：无人机减缓哈萨克石油流动",
-        "en": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
-        "de": "‘Konflikt einfrieren’: Drohnen verlangsamen den kasachischen Ölfluss im Zuge des Russland-Ukraine-Kriegs"
+        "zh": "伊朗警告乌克兰在里海袭击后将进行报复",
+        "en": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
+        "de": "Iran warnt die Ukraine vor Vergeltung nach tödlichem Angriff im Kaspischen Meer"
       },
       "summary": {
-        "zh": "由于无人机袭击，哈萨克斯坦的石油出口受到影响，给经济和能源市场带来了风险。",
-        "en": "Kazakh oil exports have been disrupted by drone attacks, posing risks to the economy and energy markets.",
-        "de": "Die kasachischen Ölexporte wurden durch Drohnenangriffe gestört, was Risiken für die Wirtschaft und die Energiemärkte mit sich bringt."
+        "zh": "伊朗官员表示，乌克兰对伊朗船只的攻击将不会被忽视，并警告将采取报复措施。",
+        "en": "Iranian officials stated that the Ukrainian attack on an Iranian vessel will not go unanswered and warned of retaliation.",
+        "de": "Iranische Beamte erklärten, dass der ukrainische Angriff auf ein iranisches Schiff nicht unbeantwortet bleiben wird und warnten vor Vergeltung."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-26",
-      "url": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss"
+      "date": "2026-07-27",
+      "url": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "以色列阻碍黎巴嫩南部试点区的接管",
-        "en": "Israel obstructing takeover of pilot zones in Lebanon’s south",
-        "de": "Israel behindert die Übernahme von Pilotzonen im Süden Libanons"
+        "zh": "德国对以色列的武器出口许可证激增，重点关注潜艇项目",
+        "en": "German arms export licences for Israel surge with focus on sub project",
+        "de": "Deutsche Waffenexportlizenzen für Israel steigen mit Fokus auf U-Boot-Projekt"
       },
       "summary": {
-        "zh": "黎巴嫩军方指责以色列违反协议，对“试点村庄”进行炮击。",
-        "en": "Lebanon's military accuses Israel of violating agreements by shelling 'pilot villages'.",
-        "de": "Die libanesische Armee beschuldigt Israel, Vereinbarungen zu verletzen, indem es 'Pilotdörfer' beschießt."
+        "zh": "德国对以色列的武器出口许可证数量大幅增加，显示出两国在军事合作方面的紧密关系。",
+        "en": "The number of German arms export licenses for Israel has surged, reflecting the close military cooperation between the two countries.",
+        "de": "Die Anzahl der deutschen Waffenexportlizenzen für Israel ist gestiegen, was die enge militärische Zusammenarbeit zwischen den beiden Ländern widerspiegelt."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-26",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss"
+      "date": "2026-07-27",
+      "url": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "德克萨斯州参议员：内塔尼亚胡是美国的‘行走挑衅’",
-        "en": "Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans",
-        "de": "Senator Whitehouse: Netanyahu ist eine ‘laufende Provokation’ für Amerikaner"
+        "zh": "利比亚的抗议活动因电力短缺而爆发",
+        "en": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
+        "de": "Proteste in Tripolis, Libyen, brechen aus, als der Unmut über Stromausfälle wächst"
       },
       "summary": {
-        "zh": "民主党参议员谢尔顿·怀特豪斯表示，美国正变成世界上‘行为最差’的国家之一。",
-        "en": "Democratic Senator Sheldon Whitehouse states that the U.S. is becoming one of the 'worst-behaved countries' in the world.",
-        "de": "Der demokratische Senator Sheldon Whitehouse erklärt, dass die USA eines der 'schlecht-behaviorten Länder' der Welt werden."
+        "zh": "由于电力短缺，利比亚首都的抗议活动愈演愈烈，民众对政府的不满情绪不断上升。",
+        "en": "Protests in the Libyan capital have intensified due to power shortages, with public dissatisfaction towards the government growing.",
+        "de": "Die Proteste in der libyschen Hauptstadt haben sich aufgrund von Stromausfällen verschärft, wobei die Unzufriedenheit der Öffentlichkeit gegenüber der Regierung zunimmt."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-26",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss"
+      "date": "2026-07-27",
+      "url": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "特朗普的新全球关税因强迫劳动理由遭到贸易伙伴的反对",
-        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-        "de": "Trumps neue globale Zölle stoßen bei Handelspartnern auf Ablehnung wegen der Begründung für Zwangsarbeit"
+        "zh": "新加坡意外收紧货币政策，因油价上涨重燃通胀风险",
+        "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
+        "de": "Singapur zieht die Geldpolitik überraschend an, da steigende Ölpreise das Inflationsrisiko neu entfachen"
       },
       "summary": {
-        "zh": "美国贸易伙伴对特朗普新关税的强迫劳动理由表示反对，大多数国家表示将继续谈判。",
-        "en": "U.S. trading partners have rejected the forced labor rationale behind Trump's new tariffs, with most signaling plans to continue negotiations.",
-        "de": "Die Handelspartner der USA haben die Begründung für Zwangsarbeit hinter Trumps neuen Zöllen zurückgewiesen, wobei die meisten Pläne signalisierten, die Verhandlungen fortzusetzen."
+        "zh": "新加坡在意外的货币政策收紧中，因油价上涨而重燃通胀风险，显示出对经济稳定的关注。",
+        "en": "Singapore's unexpected tightening of monetary policy due to rising oil prices rekindles inflation risks, highlighting concerns over economic stability.",
+        "de": "Die unerwartete Straffung der Geldpolitik Singapurs aufgrund steigender Ölpreise entfacht erneut Inflationsrisiken und hebt Bedenken hinsichtlich der wirtschaftlichen Stabilität hervor."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-07-27",
+      "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "特朗普的新全球关税因强迫劳动理由遭到贸易伙伴的反对",
+        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
+        "de": "Trumps neue globale Zölle stoßen auf Ablehnung von Handelspartnern wegen der Begründung mit Zwangsarbeit"
+      },
+      "summary": {
+        "zh": "特朗普的新全球关税因其强迫劳动的理由遭到多个贸易伙伴的反对，尽管大多数国家表示将继续谈判。",
+        "en": "Trump's new global tariffs have faced backlash from several trade partners over the justification of forced labor, although most countries indicated they would continue negotiations.",
+        "de": "Trumps neue globalen Zölle haben von mehreren Handelspartnern aufgrund der Begründung mit Zwangsarbeit Gegenwind erhalten, obwohl die meisten Länder angaben, dass sie weiterhin verhandeln würden."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-24",
       "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "凯文·沃什关注三句关键短语",
-        "en": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
-        "de": "Kevin Warsh hat sich auf drei Schlüsselphrasen konzentriert. Wie Fed-Beobachter sie interpretieren"
-      },
-      "summary": {
-        "zh": "沃什在五次公开演讲中频繁使用特定短语，反映出他对经济政策的看法。",
-        "en": "Warsh has frequently used specific phrases in five public appearances, reflecting his views on economic policy.",
-        "de": "Warsh hat in fünf öffentlichen Auftritten häufig spezifische Phrasen verwendet, die seine Ansichten zur Wirtschaftspolitik widerspiegeln."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-22",
-      "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普计划从2028年开始征收通用药品关税",
-        "en": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
-        "de": "Trump plant ab 2028 Zölle auf Generika mit zweijähriger Verzögerung zur Prüfung des US-Onshoring-Vorstoßes"
+        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来的最高水平",
+        "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
+        "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
       },
       "summary": {
-        "zh": "特朗普的新关税计划旨在推动美国本土药品生产，但取代印度等既有供应商将面临挑战。",
-        "en": "Trump's new tariff plan aims to promote domestic drug production in the U.S., but replacing established suppliers like India will be challenging.",
-        "de": "Trumps neuer Zollplan zielt darauf ab, die inländische Arzneimittelproduktion in den USA zu fördern, aber die Ersetzung etablierter Anbieter wie Indien wird eine Herausforderung sein."
+        "zh": "由于来自中国的商品成本上涨，进口价格意外上涨，显示出全球供应链的压力。",
+        "en": "Import prices unexpectedly rose due to increased costs of goods from China, indicating pressure on global supply chains.",
+        "de": "Die Importpreise stiegen unerwartet aufgrund gestiegener Kosten für Waren aus China, was auf Druck auf die globalen Lieferketten hinweist."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-22",
-      "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
+      "date": "2026-07-17",
+      "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html"
     }
   ]
 }
