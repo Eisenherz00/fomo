@@ -1,103 +1,102 @@
 {
-  "generatedAt": "2026-07-27T08:03:08.814145+00:00",
+  "generatedAt": "2026-07-27T17:59:43.932229+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "保持器官在体外存活的探索",
-        "en": "The quest to keep organs alive outside the body",
-        "de": "Die Suche nach der Erhaltung von Organen außerhalb des Körpers"
+        "zh": "激光如何帮助为核反应堆提供燃料",
+        "en": "How lasers could help provide fuel for nuclear reactors",
+        "de": "Wie Laser helfen könnten, Brennstoff für Kernreaktoren bereitzustellen"
       },
       "summary": {
-        "zh": "由于供体器官短缺，科学家们正在努力开发在体外保持器官存活的方法，以提高移植成功率。",
-        "en": "Due to a shortage of donor organs, scientists are working on methods to keep organs alive outside the body to improve transplant success rates.",
-        "de": "Aufgrund des Mangels an Spenderorganen arbeiten Wissenschaftler an Methoden, um Organe außerhalb des Körpers am Leben zu erhalten, um die Erfolgsquote von Transplantationen zu verbessern."
+        "zh": "在肯塔基州的帕杜卡小镇外，成千上万的储存气缸中锁住了丰富的铀，这些气缸装满了来自核废料的物质。激光技术可能为核反应堆提供新的燃料来源。",
+        "en": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a nuclear facility. Laser technology could provide a new source of fuel for nuclear reactors.",
+        "de": "Außerhalb der kleinen Stadt Paducah, Kentucky, ist eine Fülle von Uran in Tausenden von Lagertanks eingeschlossen, die mit Abfallmaterial aus einer Kernanlage gefüllt sind. Lasertechnologie könnte eine neue Brennstoffquelle für Kernreaktoren bieten."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-24",
-      "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+      "date": "2026-07-27",
+      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：器官移植突破和中国本土芯片",
-        "en": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-        "de": "Der Download: ein Durchbruch bei Organtransplantationen und inländische chinesische Chips"
+        "zh": "下载：核燃料激光和器官保存进展",
+        "en": "The Download: lasers for nuclear fuel, and organ preservation advances",
+        "de": "Der Download: Laser für Kernbrennstoff und Fortschritte bei der Organerhaltung"
       },
       "summary": {
-        "zh": "本期下载涵盖了器官移植的最新突破和中国本土芯片的发展动态，展示了技术领域的最新进展。",
-        "en": "This edition of The Download covers the latest breakthroughs in organ transplantation and developments in homegrown Chinese chips, showcasing the latest advancements in technology.",
-        "de": "Diese Ausgabe des Downloads behandelt die neuesten Durchbrüche bei Organtransplantationen und Entwicklungen bei inländischen chinesischen Chips und zeigt die neuesten Fortschritte in der Technologie."
+        "zh": "今天的下载版涵盖了激光在核燃料和器官保存方面的最新进展。这些技术的进步可能会对能源和医疗领域产生深远影响。",
+        "en": "Today's edition of The Download covers the latest advancements in lasers for nuclear fuel and organ preservation. These technological advancements may have significant implications for both the energy and healthcare sectors.",
+        "de": "Die heutige Ausgabe des Downloads behandelt die neuesten Fortschritte bei Lasern für Kernbrennstoff und der Organerhaltung. Diese technologischen Fortschritte könnten erhebliche Auswirkungen auf die Energie- und Gesundheitssektoren haben."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-24",
-      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+      "date": "2026-07-27",
+      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "AI如何帮助科学家设计下一代药物",
-        "en": "How AI helps scientists design the next generation of medicines",
-        "de": "Wie KI Wissenschaftlern hilft, die nächste Generation von Medikamenten zu entwerfen"
+        "zh": "关闭AI驱动药物发现中的数据循环",
+        "en": "Closing the data loop in AI-driven drug discovery",
+        "de": "Den Datenkreis in der KI-gesteuerten Arzneimittelentdeckung schließen"
       },
       "summary": {
-        "zh": "人工智能正在改变药物设计的方式，通过加速研发过程和降低成本，帮助科学家们更快地开发新药。",
-        "en": "Artificial intelligence is transforming the way drugs are designed, helping scientists develop new medicines faster and at lower costs by accelerating the research and development process.",
-        "de": "Künstliche Intelligenz verändert die Art und Weise, wie Medikamente entworfen werden, indem sie Wissenschaftlern hilft, neue Medikamente schneller und kostengünstiger zu entwickeln, indem sie den Forschungs- und Entwicklungsprozess beschleunigt."
+        "zh": "药物发现是一项高成本、高风险的事业，面临着越来越大的市场压力。通过关闭数据循环，AI可以在药物开发中发挥更大的作用。",
+        "en": "Drug discovery is a high-cost, high-risk endeavor facing increasing market pressure. By closing the data loop, AI can play a larger role in drug development.",
+        "de": "Die Arzneimittelentdeckung ist ein kostspieliges und risikobehaftetes Unterfangen, das zunehmendem Marktdruck ausgesetzt ist. Durch das Schließen des Datenkreises kann KI eine größere Rolle bei der Arzneimittelentwicklung spielen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-23",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+      "date": "2026-07-27",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗警告乌克兰在里海袭击后将进行报复",
-        "en": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
-        "de": "Iran warnt die Ukraine vor Vergeltung nach tödlichem Angriff im Kaspischen Meer"
+        "zh": "联合国教科文组织的遗产名单能否阻止以色列对西岸塞巴斯提亚的计划？",
+        "en": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
+        "de": "Wird die UNESCO-Erbe-Liste die israelischen Pläne für Sebastia im Westjordanland stoppen?"
       },
       "summary": {
-        "zh": "伊朗官员表示，乌克兰对伊朗船只的攻击将不会被忽视，并警告将采取报复措施。",
-        "en": "Iranian officials stated that the Ukrainian attack on an Iranian vessel will not go unanswered and warned of retaliation.",
-        "de": "Iranische Beamte erklärten, dass der ukrainische Angriff auf ein iranisches Schiff nicht unbeantwortet bleiben wird und warnten vor Vergeltung."
+        "zh": "塞巴斯提亚是一个有3000年历史的遗址，面临着以色列加紧土地征用和定居点扩张的威胁。联合国教科文组织的遗产名单可能会影响这些计划。",
+        "en": "Sebastia, a 3,000-year-old site, faces threats as Israel intensifies plans for land seizures and settlement expansions. UNESCO's heritage listing may impact these plans.",
+        "de": "Sebastia, eine 3.000 Jahre alte Stätte, sieht sich Bedrohungen gegenüber, da Israel die Pläne zur Landenteignung und Siedlungserweiterung intensiviert. Die UNESCO-Erbe-Liste könnte diese Pläne beeinflussen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "德国对以色列的武器出口许可证激增，重点关注潜艇项目",
-        "en": "German arms export licences for Israel surge with focus on sub project",
-        "de": "Deutsche Waffenexportlizenzen für Israel steigen mit Fokus auf U-Boot-Projekt"
+        "zh": "委内瑞拉决定退出国际刑事法院的原因是什么？",
+        "en": "What drove Venezuela’s decision to leave the ICC?",
+        "de": "Was hat Venezuela zu seiner Entscheidung bewogen, den IStGH zu verlassen?"
       },
       "summary": {
-        "zh": "德国对以色列的武器出口许可证数量大幅增加，显示出两国在军事合作方面的紧密关系。",
-        "en": "The number of German arms export licenses for Israel has surged, reflecting the close military cooperation between the two countries.",
-        "de": "Die Anzahl der deutschen Waffenexportlizenzen für Israel ist gestiegen, was die enge militärische Zusammenarbeit zwischen den beiden Ländern widerspiegelt."
+        "zh": "国际刑事法院表示，尽管委内瑞拉退出，该国涉嫌危害人类罪的调查将继续进行。此举引发了对国际法和人权的广泛讨论。",
+        "en": "The ICC states that its investigation into alleged crimes against humanity will continue despite Venezuela's withdrawal. This move has sparked widespread discussions on international law and human rights.",
+        "de": "Der IStGH erklärt, dass seine Ermittlungen zu mutmaßlichen Verbrechen gegen die Menschlichkeit trotz des Rückzugs Venezuelas fortgesetzt werden. Dieser Schritt hat weitreichende Diskussionen über internationales Recht und Menschenrechte ausgelöst."
       },
       "source": "Al Jazeera",
       "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/news/2026/7/27/german-arms-export-licences-for-israel-surge-with-focus-on-sub-project?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/27/what-drove-venezuelas-decision-to-leave-the-icc?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "利比亚的抗议活动因电力短缺而爆发",
-        "en": "Protests erupt in Libya’s Tripoli as anger grows over power cuts",
-        "de": "Proteste in Tripolis, Libyen, brechen aus, als der Unmut über Stromausfälle wächst"
+        "zh": "印度因警官向学生抗议者开火而暂停该警官职务",
+        "en": "Indien suspendiert Polizeibeamten, der mit AK-47 auf Studentenprotestierende schoss"
       },
       "summary": {
-        "zh": "由于电力短缺，利比亚首都的抗议活动愈演愈烈，民众对政府的不满情绪不断上升。",
-        "en": "Protests in the Libyan capital have intensified due to power shortages, with public dissatisfaction towards the government growing.",
-        "de": "Die Proteste in der libyschen Hauptstadt haben sich aufgrund von Stromausfällen verschärft, wobei die Unzufriedenheit der Öffentlichkeit gegenüber der Regierung zunimmt."
+        "zh": "一名印度警官因在学生抗议泄露考试试卷时向抗议者开火而被暂停职务。此事件引发了对警察使用武力的广泛关注。",
+        "en": "An Indian police officer has been suspended after firing an AK-47 rifle at students protesting over leaked exam papers. This incident has raised widespread concerns about police use of force.",
+        "de": "Ein indischer Polizeibeamter wurde suspendiert, nachdem er mit einem AK-47-Gewehr auf Studenten geschossen hatte, die gegen die Leaks von Prüfungsunterlagen protestierten. Dieser Vorfall hat weitreichende Bedenken hinsichtlich des Polizeieinsatzes von Gewalt ausgelöst."
       },
       "source": "Al Jazeera",
       "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/news/2026/7/27/protests-erupt-in-libyas-tripoli-as-anger-grows-over-power-cuts?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/india-suspends-police-officer-for-firing-ak-47-at-student-protesters?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -106,12 +105,12 @@
       "title": {
         "zh": "新加坡意外收紧货币政策，因油价上涨重燃通胀风险",
         "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
-        "de": "Singapur zieht die Geldpolitik überraschend an, da steigende Ölpreise das Inflationsrisiko neu entfachen"
+        "de": "Singapur zieht überraschend die Geldpolitik an, da steigende Ölpreise das Inflationsrisiko neu entfachen"
       },
       "summary": {
-        "zh": "新加坡在意外的货币政策收紧中，因油价上涨而重燃通胀风险，显示出对经济稳定的关注。",
-        "en": "Singapore's unexpected tightening of monetary policy due to rising oil prices rekindles inflation risks, highlighting concerns over economic stability.",
-        "de": "Die unerwartete Straffung der Geldpolitik Singapurs aufgrund steigender Ölpreise entfacht erneut Inflationsrisiken und hebt Bedenken hinsichtlich der wirtschaftlichen Stabilität hervor."
+        "zh": "新加坡金融管理局在意外的举措中收紧了货币政策，以应对因油价上涨而重新出现的通胀风险。这一决定可能会影响经济增长前景。",
+        "en": "The Monetary Authority of Singapore has tightened monetary policy in a surprise move to address the rekindled inflation risk due to rising oil prices. This decision may impact the economic growth outlook.",
+        "de": "Die Monetary Authority of Singapore hat die Geldpolitik überraschend angezogen, um das neu entfachte Inflationsrisiko aufgrund steigender Ölpreise anzugehen. Diese Entscheidung könnte die wirtschaftlichen Wachstumsaussichten beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-27",
@@ -120,14 +119,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普的新全球关税因强迫劳动理由遭到贸易伙伴的反对",
+        "zh": "特朗普的新全球关税因强迫劳动理由受到贸易伙伴的反对",
         "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-        "de": "Trumps neue globale Zölle stoßen auf Ablehnung von Handelspartnern wegen der Begründung mit Zwangsarbeit"
+        "de": "Trumps neuer globaler Zoll stößt bei Handelspartnern auf Ablehnung wegen der Begründung von Zwangsarbeit"
       },
       "summary": {
-        "zh": "特朗普的新全球关税因其强迫劳动的理由遭到多个贸易伙伴的反对，尽管大多数国家表示将继续谈判。",
-        "en": "Trump's new global tariffs have faced backlash from several trade partners over the justification of forced labor, although most countries indicated they would continue negotiations.",
-        "de": "Trumps neue globalen Zölle haben von mehreren Handelspartnern aufgrund der Begründung mit Zwangsarbeit Gegenwind erhalten, obwohl die meisten Länder angaben, dass sie weiterhin verhandeln würden."
+        "zh": "美国贸易伙伴对特朗普的新全球关税表示反对，认为以强迫劳动为理由的关税不合理。大多数国家表示将继续谈判。",
+        "en": "U.S. trading partners have rejected the rationale behind Trump's new global tariffs based on forced labor, with most signaling plans to continue negotiations.",
+        "de": "Die Handelspartner der USA haben die Begründung für Trumps neue globalen Zölle auf der Grundlage von Zwangsarbeit zurückgewiesen, wobei die meisten signalisieren, dass sie die Verhandlungen fortsetzen wollen."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-24",
@@ -136,18 +135,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "进口价格意外上涨，来自中国的商品成本达到2008年以来的最高水平",
-        "en": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-        "de": "Importpreise steigen überraschend, da die Kosten für Waren aus China den höchsten Stand seit 2008 erreichen"
+        "zh": "凯文·沃什关注三个关键短语。美联储观察者如何解读它们",
+        "en": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+        "de": "Kevin Warsh hat sich auf drei Schlüsselphrasen konzentriert. Wie Fed-Beobachter sie interpretieren"
       },
       "summary": {
-        "zh": "由于来自中国的商品成本上涨，进口价格意外上涨，显示出全球供应链的压力。",
-        "en": "Import prices unexpectedly rose due to increased costs of goods from China, indicating pressure on global supply chains.",
-        "de": "Die Importpreise stiegen unerwartet aufgrund gestiegener Kosten für Waren aus China, was auf Druck auf die globalen Lieferketten hinweist."
+        "zh": "凯文·沃什在五次公开演讲中多次提到“家庭争斗”、“回归第一原则”和“通胀是选择”等短语。这些短语可能影响美联储的政策走向。",
+        "en": "Kevin Warsh has repeatedly mentioned phrases like 'family fight', 'returning to first principles', and 'inflation is a choice' in five public appearances. These phrases may influence the direction of Fed policy.",
+        "de": "Kevin Warsh hat in fünf öffentlichen Auftritten wiederholt Phrasen wie 'Familienkampf', 'Rückkehr zu den ersten Prinzipien' und 'Inflation ist eine Wahl' erwähnt. Diese Phrasen könnten die Richtung der Fed-Politik beeinflussen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-17",
-      "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html"
+      "date": "2026-07-22",
+      "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html"
     }
   ]
 }
