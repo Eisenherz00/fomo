@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-07-28T07:16:52.148763+00:00",
+  "generatedAt": "2026-07-28T17:49:05.798873+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "OpenAI称Hugging Face攻击前所未有。但我们以前见过这种情况。",
-        "en": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-        "de": "OpenAI nannte den Hugging Face-Angriff beispiellos. Aber wir waren schon einmal hier."
+        "zh": "下载：OpenAI的可预测黑客攻击，以及AI股票抛售",
+        "en": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+        "de": "Der Download: OpenAIs vorhersehbarer Hack und ein Verkauf von KI-Aktien"
       },
       "summary": {
-        "zh": "OpenAI对Hugging Face的攻击表示震惊，称其为前所未有的事件。然而，历史上类似的攻击案例并不少见，反映出AI领域的持续挑战。",
-        "en": "OpenAI expressed shock at the Hugging Face attack, calling it unprecedented. However, similar incidents in history highlight ongoing challenges in the AI field.",
-        "de": "OpenAI äußerte sich schockiert über den Hugging Face-Angriff und bezeichnete ihn als beispiellos. Ähnliche Vorfälle in der Geschichte verdeutlichen jedoch die anhaltenden Herausforderungen im Bereich KI."
+        "zh": "OpenAI遭遇了一次可预测的黑客攻击，同时AI股票市场经历了一次抛售。这一事件引发了对AI技术安全性的广泛讨论。",
+        "en": "OpenAI faced a predictable hack while the AI stock market experienced a sell-off. This incident has sparked widespread discussions about the security of AI technologies.",
+        "de": "OpenAI war einem vorhersehbaren Hack ausgesetzt, während der KI-Aktienmarkt einen Verkaufsdruck erlebte. Dieser Vorfall hat weitreichende Diskussionen über die Sicherheit von KI-Technologien ausgelöst."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-27",
-      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+      "date": "2026-07-28",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "微软推出AI安全工具，称其性能超越竞争平台。",
-        "en": "Microsoft unveils AI security tools it says outperform competing platforms.",
-        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, die seiner Meinung nach die Konkurrenz übertreffen."
+        "zh": "三星芯片工人跳槽至竞争对手SK海力士",
+        "en": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+        "de": "Samsung-Chiparbeiter wechseln zu Konkurrent SK Hynix"
       },
       "summary": {
-        "zh": "微软推出了一系列新的AI安全工具，声称这些工具在性能和成本方面都优于竞争对手，旨在增强企业的网络安全防护。",
-        "en": "Microsoft has launched a new suite of AI security tools, claiming they outperform competitors in both performance and cost, aimed at enhancing corporate cybersecurity.",
-        "de": "Microsoft hat eine neue Reihe von KI-Sicherheitswerkzeugen vorgestellt, die seiner Meinung nach die Konkurrenz in Bezug auf Leistung und Kosten übertreffen und darauf abzielen, die Cybersicherheit von Unternehmen zu verbessern."
+        "zh": "三星的半导体部门面临工人流失，许多员工选择跳槽至竞争对手SK海力士。这一现象可能影响三星的生产能力和市场竞争力。",
+        "en": "Samsung's semiconductor division is facing worker attrition as many employees choose to jump ship to rival SK Hynix. This trend could impact Samsung's production capacity and market competitiveness.",
+        "de": "Die Halbleiterabteilung von Samsung sieht sich einem Mitarbeiterverlust gegenüber, da viele Angestellte zu dem Konkurrenten SK Hynix wechseln. Dieser Trend könnte die Produktionskapazität und Wettbewerbsfähigkeit von Samsung beeinträchtigen."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-07-27",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
+      "source": "MIT Technology Review",
+      "date": "2026-07-28",
+      "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "关闭AI驱动药物发现的数据循环。",
-        "en": "Closing the data loop in AI-driven drug discovery.",
-        "de": "Den Datenkreis in der KI-gesteuerten Arzneimittelforschung schließen."
+        "zh": "微软推出AI安全工具，声称超越竞争平台",
+        "en": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, die laut eigenen Angaben bessere Leistungen als konkurrierende Plattformen bieten"
       },
       "summary": {
-        "zh": "AI驱动的药物发现面临高成本和高风险的挑战，行业正在努力通过数据循环的闭合来提高效率和成功率。",
-        "en": "AI-driven drug discovery faces challenges of high costs and risks, with the industry striving to improve efficiency and success rates by closing the data loop.",
-        "de": "Die KI-gesteuerte Arzneimittelforschung steht vor Herausforderungen in Bezug auf hohe Kosten und Risiken, während die Branche bestrebt ist, die Effizienz und Erfolgsquoten durch das Schließen des Datenkreises zu verbessern."
+        "zh": "微软推出了一系列新的AI安全工具，声称这些工具在性能上优于竞争对手的产品。这一举措可能会改变市场竞争格局。",
+        "en": "Microsoft has launched a new suite of AI security tools, claiming they outperform competitors' products. This move could reshape the competitive landscape in the market.",
+        "de": "Microsoft hat eine neue Reihe von KI-Sicherheitswerkzeugen vorgestellt, die angeblich besser abschneiden als die Produkte der Konkurrenz. Dieser Schritt könnte die Wettbewerbslandschaft auf dem Markt neu gestalten."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-07-27",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "巴勒斯坦周刊：塔尔杀戮后约旦河西岸陷入火海。",
-        "en": "Palestine weekly: West Bank in flames after Tal killings.",
-        "de": "Palästina wöchentlich: Westjordanland in Flammen nach den Tal-Morden."
+        "zh": "美国国会仪式上向林赛·格雷厄姆致敬",
+        "en": "Tributes paid to Lindsey Graham at US Capitol ceremony",
+        "de": "Ehrungen für Lindsey Graham bei Zeremonie im US-Kapitol"
       },
       "summary": {
-        "zh": "在纳布卢斯附近发生致命的定居者袭击后，约旦河西岸爆发了大规模的突袭、纵火和大规模逮捕，局势愈发紧张。",
-        "en": "Following a deadly settler attack near Nablus, the West Bank has erupted into widespread raids, arson, and mass arrests, escalating tensions in the region.",
-        "de": "Nach einem tödlichen Siedlerangriff in der Nähe von Nablus ist das Westjordanland in weitreichende Razzien, Brandstiftungen und Massenverhaftungen ausgebrochen, was die Spannungen in der Region verschärft."
+        "zh": "在美国国会的仪式上，数百名官员聚集在一起，向已故的共和党参议员林赛·格雷厄姆致以敬意。这一活动彰显了他在政治生涯中的影响力。",
+        "en": "Hundreds of officials gathered at the US Capitol ceremony to pay tribute to the late Republican Senator Lindsey Graham. This event highlights his influence during his political career.",
+        "de": "Hunderte von Beamten versammelten sich bei der Zeremonie im US-Kapitol, um dem verstorbenen republikanischen Senator Lindsey Graham zu gedenken. Diese Veranstaltung hebt seinen Einfluss während seiner politischen Karriere hervor."
       },
       "source": "Al Jazeera",
       "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/tributes-paid-to-lindsey-graham-at-us-capitol-ceremony?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普在密歇根演讲中称抗议者为“共产主义者”。",
-        "en": "Trump calls protester ‘communist’ after Michigan speech interruption.",
-        "de": "Trump nennt Protestierenden nach Unterbrechung seiner Rede in Michigan 'Kommunisten'."
+        "zh": "乌克兰的泽连斯基在白宫与特朗普会晤中称赞“良好会议”",
+        "en": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
+        "de": "Ukraines Zelenskyy lobt 'gutes Treffen' mit Trump im Weißen Haus"
       },
       "summary": {
-        "zh": "特朗普在密歇根的一次活动中，因抗议者打断他的讲话而愤怒地称其为“共产主义者”，引发了媒体的广泛关注。",
-        "en": "Trump, during an event in Michigan, angrily labeled a protester as a 'communist' after the individual interrupted his speech, drawing significant media attention.",
-        "de": "Trump bezeichnete während einer Veranstaltung in Michigan einen Protestierenden wütend als 'Kommunisten', nachdem dieser seine Rede unterbrochen hatte, was erhebliche Medienaufmerksamkeit auf sich zog."
+        "zh": "乌克兰总统泽连斯基在白宫与特朗普的会晤后称赞此次会议为“良好会议”，讨论了在乌克兰联合生产爱国者导弹以加强防御能力。",
+        "en": "Ukrainian President Zelenskyy praised the meeting with Trump at the White House as a 'good meeting,' discussing joint production of Patriot missiles in Ukraine to enhance defense capabilities.",
+        "de": "Der ukrainische Präsident Zelenskyy lobte das Treffen mit Trump im Weißen Haus als 'gutes Treffen' und erörterte die gemeinsame Produktion von Patriot-Raketen in der Ukraine zur Stärkung der Verteidigungsfähigkeiten."
       },
       "source": "Al Jazeera",
       "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰的泽连斯基准备与特朗普会面，伊朗与乌克兰战争交汇。",
-        "en": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge.",
-        "de": "Ukraines Zelenskyy bereit, Trump zu treffen, während sich die Kriege in Iran und der Ukraine überschneiden."
+        "zh": "伊朗拒绝特朗普冻结资金计划，警告霍尔木兹海航行禁令",
+        "en": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
+        "de": "Iran weist Trumps Plan für eingefrorene Gelder zurück und warnt Schiffe vor einem Transitverbot im Hormus"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基计划与特朗普会面，此时美国参议院将投票决定对俄罗斯的制裁，局势愈发复杂。",
-        "en": "Ukrainian President Zelenskyy is set to meet Trump as the U.S. Senate prepares to vote on sanctions against Russia, complicating the geopolitical landscape.",
-        "de": "Der ukrainische Präsident Zelenskyy wird Trump treffen, während der US-Senat sich darauf vorbereitet, über Sanktionen gegen Russland abzustimmen, was die geopolitische Landschaft kompliziert."
+        "zh": "伊朗拒绝了特朗普关于用冻结资金补偿在海湾受损船只的提议，并警告将禁止霍尔木兹海的航行。这一局势加剧了地区紧张局势。",
+        "en": "Iran rejected Trump's proposal to compensate damaged ships in the Gulf with frozen funds and warned of a transit ban in the Hormuz Strait. This situation escalates regional tensions.",
+        "de": "Iran wies Trumps Vorschlag zurück, beschädigte Schiffe im Golf mit eingefrorenen Geldern zu entschädigen, und warnte vor einem Transitverbot in der Straße von Hormus. Diese Situation eskaliert die regionalen Spannungen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "新加坡意外收紧货币政策，因油价上涨重燃通胀风险。",
-        "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk.",
-        "de": "Singapur zieht überraschend die Geldpolitik an, da steigende Ölpreise das Inflationsrisiko neu entfachen."
+        "zh": "新加坡意外收紧货币政策，因油价上涨重燃通胀风险",
+        "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
+        "de": "Singapur zieht überraschend die Geldpolitik an, da steigende Ölpreise das Inflationsrisiko neu entfachen"
       },
       "summary": {
-        "zh": "新加坡在意外收紧货币政策的举措中，旨在应对因油价上涨而重燃的通胀风险，这一决定可能对市场产生深远影响。",
-        "en": "In a surprising move, Singapore has tightened its monetary policy to address the rekindled inflation risk due to rising oil prices, a decision that may have far-reaching implications for the market.",
-        "de": "In einem überraschenden Schritt hat Singapur seine Geldpolitik verschärft, um das neu entfachte Inflationsrisiko aufgrund steigender Ölpreise anzugehen, eine Entscheidung, die weitreichende Auswirkungen auf den Markt haben könnte."
+        "zh": "新加坡意外收紧货币政策，以应对因油价上涨而重燃的通胀风险。这一举措可能影响到经济增长和投资环境。",
+        "en": "Singapore unexpectedly tightened its monetary policy to address the rekindled inflation risk due to rising oil prices. This move may impact economic growth and the investment environment.",
+        "de": "Singapur hat überraschend die Geldpolitik angezogen, um das neu entfachte Inflationsrisiko aufgrund steigender Ölpreise anzugehen. Dieser Schritt könnte das Wirtschaftswachstum und das Investitionsumfeld beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-27",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普的新全球关税因强迫劳动的理由遭到贸易伙伴的反对。",
-        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification.",
-        "de": "Trumps neue globale Zölle ernten von Handelspartnern Kritik wegen der Rechtfertigung durch Zwangsarbeit."
+        "zh": "特朗普的新全球关税因强迫劳动理由受到贸易伙伴的反对",
+        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
+        "de": "Trumps neue globale Zölle stoßen auf Ablehnung von Handelspartnern wegen der Rechtfertigung durch Zwangsarbeit"
       },
       "summary": {
-        "zh": "特朗普的新全球关税因其以强迫劳动为理由而遭到贸易伙伴的广泛反对，尽管大多数国家表示将继续谈判。",
-        "en": "Trump's new global tariffs have faced widespread rebuke from trade partners over the justification of forced labor, although most countries indicated they would continue negotiations.",
-        "de": "Trumps neue globalen Zölle haben von Handelspartnern breite Kritik wegen der Rechtfertigung durch Zwangsarbeit erfahren, obwohl die meisten Länder angaben, dass sie die Verhandlungen fortsetzen würden."
+        "zh": "特朗普的新全球关税因其强迫劳动的理由遭到贸易伙伴的反对，尽管大多数国家表示将继续谈判。这一政策可能对国际贸易关系造成影响。",
+        "en": "Trump's new global tariffs have faced rebukes from trade partners over the justification of forced labor, although most countries indicated plans to continue negotiations. This policy may impact international trade relations.",
+        "de": "Trumps neue globalen Zölle wurden von Handelspartnern wegen der Rechtfertigung durch Zwangsarbeit kritisiert, obwohl die meisten Länder Pläne zur Fortsetzung der Verhandlungen signalisierten. Diese Politik könnte die internationalen Handelsbeziehungen beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-24",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "Nvidia与OpenAI的潜在新交易可能重振可怕的科技泡沫习惯，分析师警告。",
-        "en": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns.",
-        "de": "Nvidias potenzieller neuer Deal mit OpenAI könnte eine gruselige Technologieblase wiederbeleben, warnt ein Analyst."
+        "zh": "Alphabet和特斯拉因AI支出飙升受到打击。微软、Meta和亚马逊会是下一个吗？",
+        "en": "Alphabet and Tesla took a hit from soaring AI spending. Will Microsoft, Meta and Amazon be next?",
+        "de": "Alphabet und Tesla wurden von den steigenden KI-Ausgaben getroffen. Werden Microsoft, Meta und Amazon die nächsten sein?"
       },
       "summary": {
-        "zh": "分析师警告称，Nvidia与OpenAI之间的潜在新交易可能会重振科技泡沫的习惯，投资者对此表示担忧。",
-        "en": "Analysts warn that a potential new deal between Nvidia and OpenAI could revive habits reminiscent of a tech bubble, raising concerns among investors.",
-        "de": "Analysten warnen, dass ein potenzieller neuer Deal zwischen Nvidia und OpenAI Gewohnheiten wiederbeleben könnte, die an eine Technologieblase erinnern, was bei den Investoren Besorgnis auslöst."
+        "zh": "Alphabet和特斯拉因AI支出激增而受到影响，分析师担心微软、Meta和亚马逊可能会成为下一个受害者。这一趋势可能影响科技股的表现。",
+        "en": "Alphabet and Tesla have been impacted by soaring AI spending, with analysts concerned that Microsoft, Meta, and Amazon may be the next victims. This trend could affect the performance of tech stocks.",
+        "de": "Alphabet und Tesla wurden von den steigenden KI-Ausgaben betroffen, und Analysten befürchten, dass Microsoft, Meta und Amazon die nächsten Opfer sein könnten. Dieser Trend könnte die Leistung von Technologiewerten beeinflussen."
       },
       "source": "MarketWatch – Top Stories",
       "date": "2026-07-28",
-      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/alphabet-and-tesla-took-a-hit-from-soaring-ai-spending-will-microsoft-meta-and-amazon-be-next-80ecb30b?mod=mw_rss_topstories"
     }
   ]
 }
