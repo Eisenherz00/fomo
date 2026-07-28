@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-07-27T17:59:43.932229+00:00",
+  "generatedAt": "2026-07-28T07:16:52.148763+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "激光如何帮助为核反应堆提供燃料",
-        "en": "How lasers could help provide fuel for nuclear reactors",
-        "de": "Wie Laser helfen könnten, Brennstoff für Kernreaktoren bereitzustellen"
+        "zh": "OpenAI称Hugging Face攻击前所未有。但我们以前见过这种情况。",
+        "en": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+        "de": "OpenAI nannte den Hugging Face-Angriff beispiellos. Aber wir waren schon einmal hier."
       },
       "summary": {
-        "zh": "在肯塔基州的帕杜卡小镇外，成千上万的储存气缸中锁住了丰富的铀，这些气缸装满了来自核废料的物质。激光技术可能为核反应堆提供新的燃料来源。",
-        "en": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a nuclear facility. Laser technology could provide a new source of fuel for nuclear reactors.",
-        "de": "Außerhalb der kleinen Stadt Paducah, Kentucky, ist eine Fülle von Uran in Tausenden von Lagertanks eingeschlossen, die mit Abfallmaterial aus einer Kernanlage gefüllt sind. Lasertechnologie könnte eine neue Brennstoffquelle für Kernreaktoren bieten."
+        "zh": "OpenAI对Hugging Face的攻击表示震惊，称其为前所未有的事件。然而，历史上类似的攻击案例并不少见，反映出AI领域的持续挑战。",
+        "en": "OpenAI expressed shock at the Hugging Face attack, calling it unprecedented. However, similar incidents in history highlight ongoing challenges in the AI field.",
+        "de": "OpenAI äußerte sich schockiert über den Hugging Face-Angriff und bezeichnete ihn als beispiellos. Ähnliche Vorfälle in der Geschichte verdeutlichen jedoch die anhaltenden Herausforderungen im Bereich KI."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-27",
-      "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/"
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：核燃料激光和器官保存进展",
-        "en": "The Download: lasers for nuclear fuel, and organ preservation advances",
-        "de": "Der Download: Laser für Kernbrennstoff und Fortschritte bei der Organerhaltung"
+        "zh": "微软推出AI安全工具，称其性能超越竞争平台。",
+        "en": "Microsoft unveils AI security tools it says outperform competing platforms.",
+        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, die seiner Meinung nach die Konkurrenz übertreffen."
       },
       "summary": {
-        "zh": "今天的下载版涵盖了激光在核燃料和器官保存方面的最新进展。这些技术的进步可能会对能源和医疗领域产生深远影响。",
-        "en": "Today's edition of The Download covers the latest advancements in lasers for nuclear fuel and organ preservation. These technological advancements may have significant implications for both the energy and healthcare sectors.",
-        "de": "Die heutige Ausgabe des Downloads behandelt die neuesten Fortschritte bei Lasern für Kernbrennstoff und der Organerhaltung. Diese technologischen Fortschritte könnten erhebliche Auswirkungen auf die Energie- und Gesundheitssektoren haben."
+        "zh": "微软推出了一系列新的AI安全工具，声称这些工具在性能和成本方面都优于竞争对手，旨在增强企业的网络安全防护。",
+        "en": "Microsoft has launched a new suite of AI security tools, claiming they outperform competitors in both performance and cost, aimed at enhancing corporate cybersecurity.",
+        "de": "Microsoft hat eine neue Reihe von KI-Sicherheitswerkzeugen vorgestellt, die seiner Meinung nach die Konkurrenz in Bezug auf Leistung und Kosten übertreffen und darauf abzielen, die Cybersicherheit von Unternehmen zu verbessern."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-07-27",
-      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "关闭AI驱动药物发现中的数据循环",
-        "en": "Closing the data loop in AI-driven drug discovery",
-        "de": "Den Datenkreis in der KI-gesteuerten Arzneimittelentdeckung schließen"
+        "zh": "关闭AI驱动药物发现的数据循环。",
+        "en": "Closing the data loop in AI-driven drug discovery.",
+        "de": "Den Datenkreis in der KI-gesteuerten Arzneimittelforschung schließen."
       },
       "summary": {
-        "zh": "药物发现是一项高成本、高风险的事业，面临着越来越大的市场压力。通过关闭数据循环，AI可以在药物开发中发挥更大的作用。",
-        "en": "Drug discovery is a high-cost, high-risk endeavor facing increasing market pressure. By closing the data loop, AI can play a larger role in drug development.",
-        "de": "Die Arzneimittelentdeckung ist ein kostspieliges und risikobehaftetes Unterfangen, das zunehmendem Marktdruck ausgesetzt ist. Durch das Schließen des Datenkreises kann KI eine größere Rolle bei der Arzneimittelentwicklung spielen."
+        "zh": "AI驱动的药物发现面临高成本和高风险的挑战，行业正在努力通过数据循环的闭合来提高效率和成功率。",
+        "en": "AI-driven drug discovery faces challenges of high costs and risks, with the industry striving to improve efficiency and success rates by closing the data loop.",
+        "de": "Die KI-gesteuerte Arzneimittelforschung steht vor Herausforderungen in Bezug auf hohe Kosten und Risiken, während die Branche bestrebt ist, die Effizienz und Erfolgsquoten durch das Schließen des Datenkreises zu verbessern."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-27",
@@ -54,63 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "联合国教科文组织的遗产名单能否阻止以色列对西岸塞巴斯提亚的计划？",
-        "en": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
-        "de": "Wird die UNESCO-Erbe-Liste die israelischen Pläne für Sebastia im Westjordanland stoppen?"
+        "zh": "巴勒斯坦周刊：塔尔杀戮后约旦河西岸陷入火海。",
+        "en": "Palestine weekly: West Bank in flames after Tal killings.",
+        "de": "Palästina wöchentlich: Westjordanland in Flammen nach den Tal-Morden."
       },
       "summary": {
-        "zh": "塞巴斯提亚是一个有3000年历史的遗址，面临着以色列加紧土地征用和定居点扩张的威胁。联合国教科文组织的遗产名单可能会影响这些计划。",
-        "en": "Sebastia, a 3,000-year-old site, faces threats as Israel intensifies plans for land seizures and settlement expansions. UNESCO's heritage listing may impact these plans.",
-        "de": "Sebastia, eine 3.000 Jahre alte Stätte, sieht sich Bedrohungen gegenüber, da Israel die Pläne zur Landenteignung und Siedlungserweiterung intensiviert. Die UNESCO-Erbe-Liste könnte diese Pläne beeinflussen."
+        "zh": "在纳布卢斯附近发生致命的定居者袭击后，约旦河西岸爆发了大规模的突袭、纵火和大规模逮捕，局势愈发紧张。",
+        "en": "Following a deadly settler attack near Nablus, the West Bank has erupted into widespread raids, arson, and mass arrests, escalating tensions in the region.",
+        "de": "Nach einem tödlichen Siedlerangriff in der Nähe von Nablus ist das Westjordanland in weitreichende Razzien, Brandstiftungen und Massenverhaftungen ausgebrochen, was die Spannungen in der Region verschärft."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss"
+      "date": "2026-07-28",
+      "url": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "委内瑞拉决定退出国际刑事法院的原因是什么？",
-        "en": "What drove Venezuela’s decision to leave the ICC?",
-        "de": "Was hat Venezuela zu seiner Entscheidung bewogen, den IStGH zu verlassen?"
+        "zh": "特朗普在密歇根演讲中称抗议者为“共产主义者”。",
+        "en": "Trump calls protester ‘communist’ after Michigan speech interruption.",
+        "de": "Trump nennt Protestierenden nach Unterbrechung seiner Rede in Michigan 'Kommunisten'."
       },
       "summary": {
-        "zh": "国际刑事法院表示，尽管委内瑞拉退出，该国涉嫌危害人类罪的调查将继续进行。此举引发了对国际法和人权的广泛讨论。",
-        "en": "The ICC states that its investigation into alleged crimes against humanity will continue despite Venezuela's withdrawal. This move has sparked widespread discussions on international law and human rights.",
-        "de": "Der IStGH erklärt, dass seine Ermittlungen zu mutmaßlichen Verbrechen gegen die Menschlichkeit trotz des Rückzugs Venezuelas fortgesetzt werden. Dieser Schritt hat weitreichende Diskussionen über internationales Recht und Menschenrechte ausgelöst."
+        "zh": "特朗普在密歇根的一次活动中，因抗议者打断他的讲话而愤怒地称其为“共产主义者”，引发了媒体的广泛关注。",
+        "en": "Trump, during an event in Michigan, angrily labeled a protester as a 'communist' after the individual interrupted his speech, drawing significant media attention.",
+        "de": "Trump bezeichnete während einer Veranstaltung in Michigan einen Protestierenden wütend als 'Kommunisten', nachdem dieser seine Rede unterbrochen hatte, was erhebliche Medienaufmerksamkeit auf sich zog."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/news/2026/7/27/what-drove-venezuelas-decision-to-leave-the-icc?traffic_source=rss"
+      "date": "2026-07-28",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "印度因警官向学生抗议者开火而暂停该警官职务",
-        "en": "Indien suspendiert Polizeibeamten, der mit AK-47 auf Studentenprotestierende schoss"
+        "zh": "乌克兰的泽连斯基准备与特朗普会面，伊朗与乌克兰战争交汇。",
+        "en": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge.",
+        "de": "Ukraines Zelenskyy bereit, Trump zu treffen, während sich die Kriege in Iran und der Ukraine überschneiden."
       },
       "summary": {
-        "zh": "一名印度警官因在学生抗议泄露考试试卷时向抗议者开火而被暂停职务。此事件引发了对警察使用武力的广泛关注。",
-        "en": "An Indian police officer has been suspended after firing an AK-47 rifle at students protesting over leaked exam papers. This incident has raised widespread concerns about police use of force.",
-        "de": "Ein indischer Polizeibeamter wurde suspendiert, nachdem er mit einem AK-47-Gewehr auf Studenten geschossen hatte, die gegen die Leaks von Prüfungsunterlagen protestierten. Dieser Vorfall hat weitreichende Bedenken hinsichtlich des Polizeieinsatzes von Gewalt ausgelöst."
+        "zh": "乌克兰总统泽连斯基计划与特朗普会面，此时美国参议院将投票决定对俄罗斯的制裁，局势愈发复杂。",
+        "en": "Ukrainian President Zelenskyy is set to meet Trump as the U.S. Senate prepares to vote on sanctions against Russia, complicating the geopolitical landscape.",
+        "de": "Der ukrainische Präsident Zelenskyy wird Trump treffen, während der US-Senat sich darauf vorbereitet, über Sanktionen gegen Russland abzustimmen, was die geopolitische Landschaft kompliziert."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-27",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/india-suspends-police-officer-for-firing-ak-47-at-student-protesters?traffic_source=rss"
+      "date": "2026-07-28",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "新加坡意外收紧货币政策，因油价上涨重燃通胀风险",
-        "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
-        "de": "Singapur zieht überraschend die Geldpolitik an, da steigende Ölpreise das Inflationsrisiko neu entfachen"
+        "zh": "新加坡意外收紧货币政策，因油价上涨重燃通胀风险。",
+        "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk.",
+        "de": "Singapur zieht überraschend die Geldpolitik an, da steigende Ölpreise das Inflationsrisiko neu entfachen."
       },
       "summary": {
-        "zh": "新加坡金融管理局在意外的举措中收紧了货币政策，以应对因油价上涨而重新出现的通胀风险。这一决定可能会影响经济增长前景。",
-        "en": "The Monetary Authority of Singapore has tightened monetary policy in a surprise move to address the rekindled inflation risk due to rising oil prices. This decision may impact the economic growth outlook.",
-        "de": "Die Monetary Authority of Singapore hat die Geldpolitik überraschend angezogen, um das neu entfachte Inflationsrisiko aufgrund steigender Ölpreise anzugehen. Diese Entscheidung könnte die wirtschaftlichen Wachstumsaussichten beeinflussen."
+        "zh": "新加坡在意外收紧货币政策的举措中，旨在应对因油价上涨而重燃的通胀风险，这一决定可能对市场产生深远影响。",
+        "en": "In a surprising move, Singapore has tightened its monetary policy to address the rekindled inflation risk due to rising oil prices, a decision that may have far-reaching implications for the market.",
+        "de": "In einem überraschenden Schritt hat Singapur seine Geldpolitik verschärft, um das neu entfachte Inflationsrisiko aufgrund steigender Ölpreise anzugehen, eine Entscheidung, die weitreichende Auswirkungen auf den Markt haben könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-27",
@@ -119,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普的新全球关税因强迫劳动理由受到贸易伙伴的反对",
-        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-        "de": "Trumps neuer globaler Zoll stößt bei Handelspartnern auf Ablehnung wegen der Begründung von Zwangsarbeit"
+        "zh": "特朗普的新全球关税因强迫劳动的理由遭到贸易伙伴的反对。",
+        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification.",
+        "de": "Trumps neue globale Zölle ernten von Handelspartnern Kritik wegen der Rechtfertigung durch Zwangsarbeit."
       },
       "summary": {
-        "zh": "美国贸易伙伴对特朗普的新全球关税表示反对，认为以强迫劳动为理由的关税不合理。大多数国家表示将继续谈判。",
-        "en": "U.S. trading partners have rejected the rationale behind Trump's new global tariffs based on forced labor, with most signaling plans to continue negotiations.",
-        "de": "Die Handelspartner der USA haben die Begründung für Trumps neue globalen Zölle auf der Grundlage von Zwangsarbeit zurückgewiesen, wobei die meisten signalisieren, dass sie die Verhandlungen fortsetzen wollen."
+        "zh": "特朗普的新全球关税因其以强迫劳动为理由而遭到贸易伙伴的广泛反对，尽管大多数国家表示将继续谈判。",
+        "en": "Trump's new global tariffs have faced widespread rebuke from trade partners over the justification of forced labor, although most countries indicated they would continue negotiations.",
+        "de": "Trumps neue globalen Zölle haben von Handelspartnern breite Kritik wegen der Rechtfertigung durch Zwangsarbeit erfahren, obwohl die meisten Länder angaben, dass sie die Verhandlungen fortsetzen würden."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-24",
@@ -135,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "凯文·沃什关注三个关键短语。美联储观察者如何解读它们",
-        "en": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
-        "de": "Kevin Warsh hat sich auf drei Schlüsselphrasen konzentriert. Wie Fed-Beobachter sie interpretieren"
+        "zh": "Nvidia与OpenAI的潜在新交易可能重振可怕的科技泡沫习惯，分析师警告。",
+        "en": "Nvidia’s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns.",
+        "de": "Nvidias potenzieller neuer Deal mit OpenAI könnte eine gruselige Technologieblase wiederbeleben, warnt ein Analyst."
       },
       "summary": {
-        "zh": "凯文·沃什在五次公开演讲中多次提到“家庭争斗”、“回归第一原则”和“通胀是选择”等短语。这些短语可能影响美联储的政策走向。",
-        "en": "Kevin Warsh has repeatedly mentioned phrases like 'family fight', 'returning to first principles', and 'inflation is a choice' in five public appearances. These phrases may influence the direction of Fed policy.",
-        "de": "Kevin Warsh hat in fünf öffentlichen Auftritten wiederholt Phrasen wie 'Familienkampf', 'Rückkehr zu den ersten Prinzipien' und 'Inflation ist eine Wahl' erwähnt. Diese Phrasen könnten die Richtung der Fed-Politik beeinflussen."
+        "zh": "分析师警告称，Nvidia与OpenAI之间的潜在新交易可能会重振科技泡沫的习惯，投资者对此表示担忧。",
+        "en": "Analysts warn that a potential new deal between Nvidia and OpenAI could revive habits reminiscent of a tech bubble, raising concerns among investors.",
+        "de": "Analysten warnen, dass ein potenzieller neuer Deal zwischen Nvidia und OpenAI Gewohnheiten wiederbeleben könnte, die an eine Technologieblase erinnern, was bei den Investoren Besorgnis auslöst."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-22",
-      "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-28",
+      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories"
     }
   ]
 }
