@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-28T17:49:05.798873+00:00",
+  "generatedAt": "2026-07-29T07:21:37.756440+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：OpenAI的可预测黑客攻击，以及AI股票抛售",
+        "zh": "下载：OpenAI的可预测黑客行为，以及AI股票抛售",
         "en": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
         "de": "Der Download: OpenAIs vorhersehbarer Hack und ein Verkauf von KI-Aktien"
       },
       "summary": {
-        "zh": "OpenAI遭遇了一次可预测的黑客攻击，同时AI股票市场经历了一次抛售。这一事件引发了对AI技术安全性的广泛讨论。",
-        "en": "OpenAI faced a predictable hack while the AI stock market experienced a sell-off. This incident has sparked widespread discussions about the security of AI technologies.",
-        "de": "OpenAI war einem vorhersehbaren Hack ausgesetzt, während der KI-Aktienmarkt einen Verkaufsdruck erlebte. Dieser Vorfall hat weitreichende Diskussionen über die Sicherheit von KI-Technologien ausgelöst."
+        "zh": "OpenAI近期的黑客事件引发了对AI股票的抛售，市场对技术安全的担忧加剧。",
+        "en": "OpenAI's recent hacking incident has triggered a sell-off in AI stocks, intensifying market concerns over technology security.",
+        "de": "Der jüngste Hackerangriff auf OpenAI hat einen Verkauf von KI-Aktien ausgelöst und die Marktbedenken hinsichtlich der Technologiesicherheit verstärkt."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-28",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "三星芯片工人跳槽至竞争对手SK海力士",
+        "zh": "三星芯片工人跳槽到竞争对手SK海力士",
         "en": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-        "de": "Samsung-Chiparbeiter wechseln zu Konkurrent SK Hynix"
+        "de": "Samsung-Chip-Arbeiter wechseln zu Konkurrent SK Hynix"
       },
       "summary": {
-        "zh": "三星的半导体部门面临工人流失，许多员工选择跳槽至竞争对手SK海力士。这一现象可能影响三星的生产能力和市场竞争力。",
-        "en": "Samsung's semiconductor division is facing worker attrition as many employees choose to jump ship to rival SK Hynix. This trend could impact Samsung's production capacity and market competitiveness.",
-        "de": "Die Halbleiterabteilung von Samsung sieht sich einem Mitarbeiterverlust gegenüber, da viele Angestellte zu dem Konkurrenten SK Hynix wechseln. Dieser Trend könnte die Produktionskapazität und Wettbewerbsfähigkeit von Samsung beeinträchtigen."
+        "zh": "三星的芯片部门面临人力资源流失，许多工程师选择转投SK海力士，反映出行业竞争的加剧。",
+        "en": "Samsung's semiconductor division is facing a talent exodus as many engineers choose to move to SK Hynix, reflecting increasing competition in the industry.",
+        "de": "Die Halbleiterabteilung von Samsung sieht sich einem Talentabfluss gegenüber, da viele Ingenieure sich für einen Wechsel zu SK Hynix entscheiden, was den zunehmenden Wettbewerb in der Branche widerspiegelt."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-28",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "微软推出AI安全工具，声称超越竞争平台",
+        "zh": "微软推出AI安全工具，称其表现优于竞争平台",
         "en": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, die laut eigenen Angaben bessere Leistungen als konkurrierende Plattformen bieten"
+        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, die laut eigenen Angaben besser abschneiden als konkurrierende Plattformen"
       },
       "summary": {
-        "zh": "微软推出了一系列新的AI安全工具，声称这些工具在性能上优于竞争对手的产品。这一举措可能会改变市场竞争格局。",
-        "en": "Microsoft has launched a new suite of AI security tools, claiming they outperform competitors' products. This move could reshape the competitive landscape in the market.",
-        "de": "Microsoft hat eine neue Reihe von KI-Sicherheitswerkzeugen vorgestellt, die angeblich besser abschneiden als die Produkte der Konkurrenz. Dieser Schritt könnte die Wettbewerbslandschaft auf dem Markt neu gestalten."
+        "zh": "微软推出的新AI安全工具声称在性能上超越了竞争对手，可能会改变市场格局。",
+        "en": "Microsoft's newly launched AI security tools claim to outperform competitors, potentially reshaping the market landscape.",
+        "de": "Die neu eingeführten KI-Sicherheitswerkzeuge von Microsoft behaupten, die Konkurrenz zu übertreffen, was das Marktumfeld potenziell verändern könnte."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-27",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国国会仪式上向林赛·格雷厄姆致敬",
-        "en": "Tributes paid to Lindsey Graham at US Capitol ceremony",
-        "de": "Ehrungen für Lindsey Graham bei Zeremonie im US-Kapitol"
+        "zh": "为什么内塔尼亚胡不想与特朗普有泽连斯基时刻",
+        "en": "Why Netanyahu didn’t want a Zelenskyy moment with Trump",
+        "de": "Warum Netanyahu keinen Zelensky-Moment mit Trump wollte"
       },
       "summary": {
-        "zh": "在美国国会的仪式上，数百名官员聚集在一起，向已故的共和党参议员林赛·格雷厄姆致以敬意。这一活动彰显了他在政治生涯中的影响力。",
-        "en": "Hundreds of officials gathered at the US Capitol ceremony to pay tribute to the late Republican Senator Lindsey Graham. This event highlights his influence during his political career.",
-        "de": "Hunderte von Beamten versammelten sich bei der Zeremonie im US-Kapitol, um dem verstorbenen republikanischen Senator Lindsey Graham zu gedenken. Diese Veranstaltung hebt seinen Einfluss während seiner politischen Karriere hervor."
+        "zh": "内塔尼亚胡与特朗普的会晤中，避免了与乌克兰总统泽连斯基类似的局面，反映出以色列在当前局势中的谨慎态度。",
+        "en": "Netanyahu's meeting with Trump avoided a situation similar to that of Ukrainian President Zelenskyy, reflecting Israel's cautious stance in the current context.",
+        "de": "Netanyahus Treffen mit Trump vermied eine Situation, die der des ukrainischen Präsidenten Selenskyj ähnelt, was die vorsichtige Haltung Israels im aktuellen Kontext widerspiegelt."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/tributes-paid-to-lindsey-graham-at-us-capitol-ceremony?traffic_source=rss"
+      "date": "2026-07-29",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乌克兰的泽连斯基在白宫与特朗普会晤中称赞“良好会议”",
-        "en": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
-        "de": "Ukraines Zelenskyy lobt 'gutes Treffen' mit Trump im Weißen Haus"
+        "zh": "伊朗在特朗普与内塔尼亚胡会晤时袭击美国基地",
+        "en": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+        "de": "Iran greift US-Stützpunkte im Nahen Osten an, während Trump Netanyahu trifft"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基在白宫与特朗普的会晤后称赞此次会议为“良好会议”，讨论了在乌克兰联合生产爱国者导弹以加强防御能力。",
-        "en": "Ukrainian President Zelenskyy praised the meeting with Trump at the White House as a 'good meeting,' discussing joint production of Patriot missiles in Ukraine to enhance defense capabilities.",
-        "de": "Der ukrainische Präsident Zelenskyy lobte das Treffen mit Trump im Weißen Haus als 'gutes Treffen' und erörterte die gemeinsame Produktion von Patriot-Raketen in der Ukraine zur Stärkung der Verteidigungsfähigkeiten."
+        "zh": "在特朗普与内塔尼亚胡会晤期间，伊朗对美国在中东的基地发起攻击，局势紧张加剧。",
+        "en": "During Trump's meeting with Netanyahu, Iran launched attacks on US bases in the Middle East, escalating tensions in the region.",
+        "de": "Während Trumps Treffen mit Netanyahu startete Iran Angriffe auf US-Stützpunkte im Nahen Osten, was die Spannungen in der Region verschärfte."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss"
+      "date": "2026-07-29",
+      "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗拒绝特朗普冻结资金计划，警告霍尔木兹海航行禁令",
-        "en": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
-        "de": "Iran weist Trumps Plan für eingefrorene Gelder zurück und warnt Schiffe vor einem Transitverbot im Hormus"
+        "zh": "中国通过新的海洋巡逻对台湾施加压力",
+        "en": "China puts the ‘squeeze’ on Taiwan with new maritime patrols",
+        "de": "China setzt Taiwan mit neuen maritimen Patrouillen unter Druck"
       },
       "summary": {
-        "zh": "伊朗拒绝了特朗普关于用冻结资金补偿在海湾受损船只的提议，并警告将禁止霍尔木兹海的航行。这一局势加剧了地区紧张局势。",
-        "en": "Iran rejected Trump's proposal to compensate damaged ships in the Gulf with frozen funds and warned of a transit ban in the Hormuz Strait. This situation escalates regional tensions.",
-        "de": "Iran wies Trumps Vorschlag zurück, beschädigte Schiffe im Golf mit eingefrorenen Geldern zu entschädigen, und warnte vor einem Transitverbot in der Straße von Hormus. Diese Situation eskaliert die regionalen Spannungen."
+        "zh": "中国的新海洋巡逻行动可能迅速升级为对台湾的封锁，分析人士对此表示担忧。",
+        "en": "China's new maritime patrol operations could quickly escalate into a blockade of Taiwan, raising concerns among analysts.",
+        "de": "Chinas neue maritimen Patrouillen könnten schnell in eine Blockade Taiwans eskalieren, was bei Analysten Besorgnis auslöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss"
+      "date": "2026-07-29",
+      "url": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "新加坡意外收紧货币政策，因油价上涨重燃通胀风险",
-        "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
-        "de": "Singapur zieht überraschend die Geldpolitik an, da steigende Ölpreise das Inflationsrisiko neu entfachen"
+        "zh": "沙特阿拉伯有新的、更昂贵的石油出口变通办法",
+        "en": "Saudi Arabia has a new, and pricier, workaround to export its oil",
+        "de": "Saudi-Arabien hat eine neue, teurere Umgehungslösung für den Export seines Öls"
       },
       "summary": {
-        "zh": "新加坡意外收紧货币政策，以应对因油价上涨而重燃的通胀风险。这一举措可能影响到经济增长和投资环境。",
-        "en": "Singapore unexpectedly tightened its monetary policy to address the rekindled inflation risk due to rising oil prices. This move may impact economic growth and the investment environment.",
-        "de": "Singapur hat überraschend die Geldpolitik angezogen, um das neu entfachte Inflationsrisiko aufgrund steigender Ölpreise anzugehen. Dieser Schritt könnte das Wirtschaftswachstum und das Investitionsumfeld beeinflussen."
+        "zh": "沙特阿拉伯在地中海港口的装载量增加，采取更昂贵的方式向买家提供石油。",
+        "en": "Saudi Arabia is increasing loadings at a Mediterranean port, adopting a pricier method to offer oil to buyers.",
+        "de": "Saudi-Arabien erhöht die Verladungen an einem Mittelmeerhafen und nimmt eine teurere Methode an, um Käufern Öl anzubieten."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-27",
-      "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-29",
+      "url": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普的新全球关税因强迫劳动理由受到贸易伙伴的反对",
-        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-        "de": "Trumps neue globale Zölle stoßen auf Ablehnung von Handelspartnern wegen der Rechtfertigung durch Zwangsarbeit"
+        "zh": "希捷的收益对疲软的AI交易来说是个好消息",
+        "en": "Seagate’s earnings are welcome news for the battered AI trade",
+        "de": "Die Gewinne von Seagate sind eine willkommene Nachricht für den angeschlagenen KI-Handel"
       },
       "summary": {
-        "zh": "特朗普的新全球关税因其强迫劳动的理由遭到贸易伙伴的反对，尽管大多数国家表示将继续谈判。这一政策可能对国际贸易关系造成影响。",
-        "en": "Trump's new global tariffs have faced rebukes from trade partners over the justification of forced labor, although most countries indicated plans to continue negotiations. This policy may impact international trade relations.",
-        "de": "Trumps neue globalen Zölle wurden von Handelspartnern wegen der Rechtfertigung durch Zwangsarbeit kritisiert, obwohl die meisten Länder Pläne zur Fortsetzung der Verhandlungen signalisierten. Diese Politik könnte die internationalen Handelsbeziehungen beeinflussen."
+        "zh": "希捷的季度业绩超出华尔街预期，股价在盘后交易中上涨，为疲软的AI市场带来希望。",
+        "en": "Seagate's quarterly results surpassed Wall Street expectations, leading to a post-market rally in its stock, bringing hope to the struggling AI market.",
+        "de": "Die Quartalszahlen von Seagate übertrafen die Erwartungen der Wall Street, was zu einem Anstieg des Aktienkurses nach dem Handel führte und dem angeschlagenen KI-Markt Hoffnung gibt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-24",
-      "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-29",
+      "url": "https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "Alphabet和特斯拉因AI支出飙升受到打击。微软、Meta和亚马逊会是下一个吗？",
-        "en": "Alphabet and Tesla took a hit from soaring AI spending. Will Microsoft, Meta and Amazon be next?",
-        "de": "Alphabet und Tesla wurden von den steigenden KI-Ausgaben getroffen. Werden Microsoft, Meta und Amazon die nächsten sein?"
+        "zh": "美光的股票因中国担忧而下跌，可能创下11年来最差月度跌幅",
+        "en": "Micron’s stock sinks toward worst monthly drop in 11 years as China fears escalate",
+        "de": "Die Aktie von Micron sinkt auf den schlechtesten monatlichen Rückgang seit 11 Jahren, während die Ängste vor China zunehmen"
       },
       "summary": {
-        "zh": "Alphabet和特斯拉因AI支出激增而受到影响，分析师担心微软、Meta和亚马逊可能会成为下一个受害者。这一趋势可能影响科技股的表现。",
-        "en": "Alphabet and Tesla have been impacted by soaring AI spending, with analysts concerned that Microsoft, Meta, and Amazon may be the next victims. This trend could affect the performance of tech stocks.",
-        "de": "Alphabet und Tesla wurden von den steigenden KI-Ausgaben betroffen, und Analysten befürchten, dass Microsoft, Meta und Amazon die nächsten Opfer sein könnten. Dieser Trend könnte die Leistung von Technologiewerten beeinflussen."
+        "zh": "投资者对中国国内芯片和制造工具的担忧加剧，导致美光的股票接近创下11年来的最大月度跌幅。",
+        "en": "Investor concerns over China's domestic chip and manufacturing tools have intensified, pushing Micron's stock toward its worst monthly drop in 11 years.",
+        "de": "Die Bedenken der Investoren hinsichtlich der inländischen Chips und Fertigungswerkzeuge in China haben zugenommen, wodurch die Aktie von Micron auf den schlechtesten monatlichen Rückgang seit 11 Jahren zusteuert."
       },
       "source": "MarketWatch – Top Stories",
       "date": "2026-07-28",
-      "url": "https://www.marketwatch.com/story/alphabet-and-tesla-took-a-hit-from-soaring-ai-spending-will-microsoft-meta-and-amazon-be-next-80ecb30b?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-3c956a67?mod=mw_rss_topstories"
     }
   ]
 }
