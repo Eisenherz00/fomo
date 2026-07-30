@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-30T07:15:19.354631+00:00",
+  "generatedAt": "2026-07-30T17:54:25.538602+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "一个被忽视的地热电厂如何获得第二次机会",
-        "en": "How an overlooked geothermal plant got a second chance",
-        "de": "Wie ein übersehenes Geothermiekraftwerk eine zweite Chance erhielt"
+        "zh": "蒙大拿州计划成为实验医学中心的计划刚刚推进",
+        "en": "Montana’s plan to become an experimental medical hub just pushed forward",
+        "de": "Montanas Plan, ein experimentelles medizinisches Zentrum zu werden, wurde gerade vorangetrieben"
       },
       "summary": {
-        "zh": "2024年6月，一家名为Zanskar的小公司收购了新墨西哥州的一座快速失败的地热发电厂。该厂的地下水资源被重新利用，展现出新的潜力。",
-        "en": "In June 2024, a small company called Zanskar purchased a failing geothermal power plant in New Mexico. The plant's underground water resources are being repurposed, showcasing new potential.",
-        "de": "Im Juni 2024 erwarb ein kleines Unternehmen namens Zanskar ein scheiterndes Geothermiekraftwerk in New Mexico. Die unterirdischen Wasserressourcen des Kraftwerks werden umgenutzt und zeigen neues Potenzial."
+        "zh": "蒙大拿州的生物技术公司现在可以更清晰地将实验药物销售给消费者，这标志着该州成为实验医学中心的计划向前推进。",
+        "en": "Montana's biotech companies now have a clearer path to sell experimental drugs to consumers, marking a significant step forward in the state's plan to become an experimental medical hub.",
+        "de": "Montanas Biotechnologieunternehmen haben nun einen klareren Weg, um experimentelle Medikamente an Verbraucher zu verkaufen, was einen bedeutenden Schritt in dem Plan des Staates darstellt, ein experimentelles medizinisches Zentrum zu werden."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-29",
-      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/"
+      "date": "2026-07-30",
+      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：芯片人才之战，以及人工智能炒作的减弱",
-        "en": "The Download: a chip talent battle, and deflating AI hype",
-        "de": "Der Download: ein Kampf um Chip-Talente und die Entkräftung des KI-Hypes"
+        "zh": "一个基本缺陷使大型语言模型显著易受攻击",
+        "en": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "de": "Ein grundlegender Fehler macht LLMs auffällig anfällig für Angriffe"
       },
       "summary": {
-        "zh": "今天的下载专注于芯片人才的竞争和人工智能炒作的减弱，揭示了技术领域的最新动态。",
-        "en": "Today's Download focuses on the competition for chip talent and the deflating AI hype, revealing the latest developments in the tech sector.",
-        "de": "Der heutige Download konzentriert sich auf den Wettbewerb um Chip-Talente und die Entkräftung des KI-Hypes und enthüllt die neuesten Entwicklungen im Technologiesektor."
+        "zh": "研究人员认为，由于大型语言模型的工作原理存在基本缺陷，使其无法完全抵御黑客攻击。",
+        "en": "Researchers argue that a fundamental flaw in how large language models work makes them impossible to fully secure against hacks.",
+        "de": "Forscher argumentieren, dass ein grundlegender Fehler in der Funktionsweise großer Sprachmodelle es unmöglich macht, sie vollständig gegen Hacks abzusichern."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-29",
-      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/"
+      "date": "2026-07-30",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "人工智能炒作指数：不性感的人工智能",
-        "en": "The AI Hype Index: Unsexy AI",
-        "de": "Der KI-Hype-Index: Unsexy KI"
+        "zh": "微软推出的AI安全工具声称超越竞争平台",
+        "en": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "de": "Microsoft stellt AI-Sicherheitswerkzeuge vor, die laut eigenen Angaben besser sind als konkurrierende Plattformen"
       },
       "summary": {
-        "zh": "一封由知名经济学家签署的公开信警告称，人工智能可能会抢走你的工作，且可能很快在某些方面超越人类。",
-        "en": "An open letter signed by leading economists warns that AI might steal your job and may soon surpass humans in certain aspects.",
-        "de": "Ein offener Brief, unterzeichnet von führenden Ökonomen, warnt, dass KI möglicherweise Ihren Job stehlen könnte und bald in bestimmten Aspekten den Menschen übertreffen könnte."
+        "zh": "微软宣称其新推出的AI安全工具不仅成本低于竞争对手，而且在性能上也优于它们。",
+        "en": "Microsoft claims that its newly unveiled AI security tools not only cost less than competing ones but also outperform them in performance.",
+        "de": "Microsoft behauptet, dass seine neu vorgestellten AI-Sicherheitswerkzeuge nicht nur kostengünstiger sind als die der Konkurrenz, sondern diese auch in der Leistung übertreffen."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-07-29",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
+      "source": "Ars Technica – AI",
+      "date": "2026-07-27",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国对伊朗发动‘强有力’打击，回应约旦攻击",
-        "en": "US launches ‘powerful’ strikes on Iran after Jordan attack",
-        "de": "Die USA starten 'starke' Angriffe auf den Iran nach dem Angriff auf Jordanien"
+        "zh": "在美国压力下，古巴的医疗系统崩溃",
+        "en": "‘To play God’: Cuba’s healthcare system collapses under US pressure",
+        "de": "‚Gott spielen‘: Kubas Gesundheitssystem bricht unter dem Druck der USA zusammen"
       },
       "summary": {
-        "zh": "美国在约旦攻击后对伊朗多个城市进行了轰炸，中央司令部称这是一次‘强有力的打击’。",
-        "en": "The US has bombed multiple cities across southern Iran following an attack in Jordan, which Central Command described as a 'heavy wave of strikes'.",
-        "de": "Die USA haben mehrere Städte im Süden des Iran nach einem Angriff in Jordanien bombardiert, was das Zentralkommando als 'schwere Welle von Angriffen' bezeichnete."
+        "zh": "由于特朗普政府加大对古巴的制裁，古巴的医疗部门面临燃料和供应短缺，导致系统崩溃。",
+        "en": "As the Trump administration tightens sanctions on Cuba, the healthcare sector struggles with fuel and supply shortages, leading to its collapse.",
+        "de": "Während die Trump-Administration die Sanktionen gegen Kuba verschärft, kämpft der Gesundheitssektor mit Treibstoff- und Versorgungsengpässen, was zu seinem Zusammenbruch führt."
       },
       "source": "Al Jazeera",
       "date": "2026-07-30",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "摩拉莱斯在玻利维亚新逮捕令后表现出坚定态度",
-        "en": "Evo Morales defiant after new Bolivia arrest warrant",
-        "de": "Evo Morales trotzig nach neuem Haftbefehl in Bolivien"
+        "zh": "北约战机在俄罗斯导弹在波兰爆炸时紧急起飞",
+        "en": "NATO jets scramble as Russian missile detonates in Poland",
+        "de": "NATO-Jets starten, als russische Rakete in Polen detoniert"
       },
       "summary": {
-        "zh": "玻利维亚前总统摩拉莱斯因涉嫌对国家进行武装叛乱而受到调查，尽管面临新的逮捕令，他依然表现出坚定态度。",
-        "en": "Bolivia's former president Evo Morales is under investigation for 'armed uprising' against the state, and despite a new arrest warrant, he remains defiant.",
-        "de": "Boliviens ehemaliger Präsident Evo Morales wird wegen 'bewaffneter Rebellion' gegen den Staat untersucht, und trotz eines neuen Haftbefehls bleibt er trotzig."
+        "zh": "随着北约空域侵犯事件的增加，俄罗斯对乌克兰的战争可能升级的担忧加剧。",
+        "en": "Concerns are growing that Russia's war on Ukraine could escalate as incidents of NATO airspace violations increase.",
+        "de": "Die Bedenken wachsen, dass Russlands Krieg gegen die Ukraine eskalieren könnte, da die Vorfälle von NATO-Luftraumverletzungen zunehmen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-30",
-      "url": "https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普考虑在OpenAI黑客事件后实施人工智能管控",
-        "en": "Trump considering AI controls after OpenAI hacking incidents",
-        "de": "Trump erwägt KI-Kontrollen nach den Hacking-Vorfällen bei OpenAI"
+        "zh": "乌克兰导弹袭击造成至少五名同一家族成员遇难",
+        "en": "At least five members of same family killed in Russian missile attack, Zelensky says",
+        "de": "Mindestens fünf Mitglieder derselben Familie wurden bei russischem Raketenangriff getötet, sagt Zelensky"
       },
       "summary": {
-        "zh": "特朗普政府在OpenAI黑客事件后考虑对人工智能实施管控，这标志着其对该技术的态度发生变化。",
-        "en": "Trump's administration is considering implementing controls on AI following hacking incidents involving OpenAI, marking a shift in its approach to the technology.",
-        "de": "Die Trump-Administration erwägt, nach den Hacking-Vorfällen bei OpenAI Kontrollen für KI einzuführen, was einen Wandel in ihrem Ansatz zur Technologie markiert."
+        "zh": "泽连斯基表示，在靠近克里维里赫的一个村庄，六人遇难，其中包括一名六岁女孩和两名男孩。",
+        "en": "Zelensky stated that six people were killed in a village near Kryvyi Rih, including a six-year-old girl and two boys.",
+        "de": "Zelensky erklärte, dass in einem Dorf nahe Kryvyi Rih sechs Menschen getötet wurden, darunter ein sechsjähriges Mädchen und zwei Jungen."
       },
       "source": "BBC News – World",
       "date": "2026-07-30",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "分裂的美联储对投资者意味着什么",
-        "en": "What a divided Fed means for investors",
-        "de": "Was eine gespaltene Fed für Investoren bedeutet"
+        "zh": "美国经济在第二季度增长率降至1.5%",
+        "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5% Wachstumsrate; Kerninflation im Juni bei 3,3%"
       },
       "summary": {
-        "zh": "华尔街从本周的美联储决定中得出明确结论：加息可能在即。",
-        "en": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
-        "de": "Wall Street hat eine klare Erkenntnis aus der Entscheidung der Federal Reserve in dieser Woche gewonnen: Eine Erhöhung steht wahrscheinlich bevor."
+        "zh": "美国经济在第二季度的增长率降至1.5%，低于预期，主要由于联邦政府支出和库存的下降。",
+        "en": "The U.S. economy's growth rate slowed to 1.5% in the second quarter, below expectations, primarily due to a decline in federal government spending and inventories.",
+        "de": "Die Wachstumsrate der US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5%, was unter den Erwartungen liegt, hauptsächlich aufgrund eines Rückgangs der Bundesausgaben und der Bestände."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-29",
-      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html"
+      "date": "2026-07-30",
+      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "新加坡在油价上涨时意外收紧货币政策",
+        "zh": "新加坡意外收紧货币政策以应对通胀风险",
         "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
-        "de": "Singapur zieht überraschend die Geldpolitik an, während steigende Ölpreise das Inflationsrisiko neu entfachen"
+        "de": "Singapur zieht überraschend die Geldpolitik an, da steigende Ölpreise das Inflationsrisiko neu entfachen"
       },
       "summary": {
-        "zh": "新加坡在油价上涨的背景下意外收紧货币政策，以应对中期价格稳定的挑战。",
-        "en": "Singapore unexpectedly tightened its monetary policy in response to rising oil prices, addressing challenges to medium-term price stability.",
-        "de": "Singapur hat überraschend seine Geldpolitik verschärft, um auf steigende Ölpreise zu reagieren und Herausforderungen an die mittelfristige Preisstabilität anzugehen."
+        "zh": "新加坡在意外的货币政策收紧中，试图应对因油价上涨而重新燃起的通胀风险。",
+        "en": "Singapore is tightening its monetary policy in a surprise move to address the rekindled inflation risk due to rising oil prices.",
+        "de": "Singapur zieht überraschend seine Geldpolitik an, um das neu entfachte Inflationsrisiko aufgrund steigender Ölpreise anzugehen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-07-27",
-      "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html"
+      "date": "2026-07-29",
+      "url": "https://www.cnbc.com/2026/07/29/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "福特的大型卡车投资正在获得回报",
-        "en": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
-        "de": "Fords große Lkw-Wette zahlt sich aus – und die Wall Street nimmt Notiz"
+        "zh": "特朗普的新全球关税因强迫劳动理由遭到贸易伙伴的反对",
+        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
+        "de": "Trumps neue globale Zölle stoßen auf Ablehnung von Handelspartnern wegen der Rechtfertigung von Zwangsarbeit"
       },
       "summary": {
-        "zh": "福特在大型卡车市场的投资正在获得回报，华尔街对此表示关注，可能预示着该公司的转机。",
-        "en": "Ford's investment in the large truck market is paying off, and Wall Street is taking notice, potentially signaling a turnaround for the company.",
-        "de": "Fords Investition in den großen Lkw-Markt zahlt sich aus, und die Wall Street nimmt Notiz, was möglicherweise auf eine Wende für das Unternehmen hindeutet."
+        "zh": "美国贸易伙伴对特朗普的新全球关税表示反对，认为强迫劳动的理由不成立，但大多数表示将继续谈判。",
+        "en": "U.S. trading partners have rejected the rationale of forced labor behind Trump's new global tariffs, while most indicated plans to continue negotiations.",
+        "de": "US-Handelspartner haben die Begründung der Zwangsarbeit hinter Trumps neuen globalen Zöllen zurückgewiesen, während die meisten Pläne zur Fortsetzung der Verhandlungen signalisierten."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-30",
-      "url": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-24",
+      "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
     }
   ]
 }
