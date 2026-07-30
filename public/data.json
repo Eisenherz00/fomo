@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-29T17:43:48.719523+00:00",
+  "generatedAt": "2026-07-30T07:15:19.354631+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：芯片人才之战，和降低AI炒作",
-        "en": "The Download: a chip talent battle, and deflating AI hype",
-        "de": "Der Download: ein Chip-Talente-Kampf und die Entwertung des KI-Hypes"
+        "zh": "一个被忽视的地热电厂如何获得第二次机会",
+        "en": "How an overlooked geothermal plant got a second chance",
+        "de": "Wie ein übersehenes Geothermiekraftwerk eine zweite Chance erhielt"
       },
       "summary": {
-        "zh": "今天的《下载》报道了芯片行业的人才争夺战以及对人工智能炒作的降温。许多公司正在努力吸引顶尖人才，以应对不断变化的技术需求。",
-        "en": "Today's Download covers the talent battle in the chip industry and the deflation of AI hype. Many companies are striving to attract top talent to meet the evolving technological demands.",
-        "de": "Der heutige Download behandelt den Talentkampf in der Chipindustrie und die Entwertung des KI-Hypes. Viele Unternehmen bemühen sich, Top-Talente zu gewinnen, um den sich wandelnden technologischen Anforderungen gerecht zu werden."
+        "zh": "2024年6月，一家名为Zanskar的小公司收购了新墨西哥州的一座快速失败的地热发电厂。该厂的地下水资源被重新利用，展现出新的潜力。",
+        "en": "In June 2024, a small company called Zanskar purchased a failing geothermal power plant in New Mexico. The plant's underground water resources are being repurposed, showcasing new potential.",
+        "de": "Im Juni 2024 erwarb ein kleines Unternehmen namens Zanskar ein scheiterndes Geothermiekraftwerk in New Mexico. Die unterirdischen Wasserressourcen des Kraftwerks werden umgenutzt und zeigen neues Potenzial."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-07-29",
+      "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "下载：芯片人才之战，以及人工智能炒作的减弱",
+        "en": "The Download: a chip talent battle, and deflating AI hype",
+        "de": "Der Download: ein Kampf um Chip-Talente und die Entkräftung des KI-Hypes"
+      },
+      "summary": {
+        "zh": "今天的下载专注于芯片人才的竞争和人工智能炒作的减弱，揭示了技术领域的最新动态。",
+        "en": "Today's Download focuses on the competition for chip talent and the deflating AI hype, revealing the latest developments in the tech sector.",
+        "de": "Der heutige Download konzentriert sich auf den Wettbewerb um Chip-Talente und die Entkräftung des KI-Hypes und enthüllt die neuesten Entwicklungen im Technologiesektor."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-29",
       "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "AI炒作指数：不性感的AI",
+        "zh": "人工智能炒作指数：不性感的人工智能",
         "en": "The AI Hype Index: Unsexy AI",
         "de": "Der KI-Hype-Index: Unsexy KI"
       },
       "summary": {
-        "zh": "一封由经济学家签署的公开信警告称，人工智能可能会取代人类工作。随着技术的进步，AI的潜力正在被重新评估。",
-        "en": "An open letter signed by economists warns that AI might replace human jobs. As technology advances, the potential of AI is being reassessed.",
-        "de": "Ein offener Brief, der von Ökonomen unterzeichnet wurde, warnt, dass KI menschliche Arbeitsplätze ersetzen könnte. Mit dem Fortschritt der Technologie wird das Potenzial von KI neu bewertet."
+        "zh": "一封由知名经济学家签署的公开信警告称，人工智能可能会抢走你的工作，且可能很快在某些方面超越人类。",
+        "en": "An open letter signed by leading economists warns that AI might steal your job and may soon surpass humans in certain aspects.",
+        "de": "Ein offener Brief, unterzeichnet von führenden Ökonomen, warnt, dass KI möglicherweise Ihren Job stehlen könnte und bald in bestimmten Aspekten den Menschen übertreffen könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-29",
       "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "我们现在更好地理解OpenAI如何入侵Hugging Face",
-        "en": "We now have a better understanding how OpenAI hacked into Hugging Face",
-        "de": "Wir haben jetzt ein besseres Verständnis dafür, wie OpenAI in Hugging Face eingehackt hat"
-      },
-      "summary": {
-        "zh": "OpenAI利用JFrog Artifactory的0-day漏洞进行入侵，经过10天后发布了补丁。该事件引发了对网络安全的广泛关注。",
-        "en": "OpenAI exploited a 0-day vulnerability in JFrog Artifactory to carry out the hack, with a patch released 10 days later. This incident has raised widespread concerns about cybersecurity.",
-        "de": "OpenAI nutzte eine 0-Day-Sicherheitsanfälligkeit in JFrog Artifactory aus, um den Hack durchzuführen, wobei 10 Tage später ein Patch veröffentlicht wurde. Dieser Vorfall hat weitreichende Bedenken hinsichtlich der Cybersicherheit ausgelöst."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-07-28",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "由于伊朗战争，燃料价格飙升，导致也门工人失业",
-        "en": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
-        "de": "Die Kraftstoffpreise steigen aufgrund des Iran-Kriegs, was jemenitische Arbeiter ohne Arbeit lässt"
+        "zh": "美国对伊朗发动‘强有力’打击，回应约旦攻击",
+        "en": "US launches ‘powerful’ strikes on Iran after Jordan attack",
+        "de": "Die USA starten 'starke' Angriffe auf den Iran nach dem Angriff auf Jordanien"
       },
       "summary": {
-        "zh": "随着燃料价格的上涨，耶门的建筑项目暂停，导致工人失业。该情况是由于伊朗战争引发的经济连锁反应。",
-        "en": "As fuel prices rise, construction projects in Yemen are paused, leaving workers unemployed. This situation is a result of the economic ripple effect triggered by the Iran war.",
-        "de": "Mit steigenden Kraftstoffpreisen werden Bauprojekte im Jemen gestoppt, was die Arbeiter arbeitslos macht. Diese Situation ist das Ergebnis der wirtschaftlichen Kettenreaktion, die durch den Iran-Krieg ausgelöst wurde."
+        "zh": "美国在约旦攻击后对伊朗多个城市进行了轰炸，中央司令部称这是一次‘强有力的打击’。",
+        "en": "The US has bombed multiple cities across southern Iran following an attack in Jordan, which Central Command described as a 'heavy wave of strikes'.",
+        "de": "Die USA haben mehrere Städte im Süden des Iran nach einem Angriff in Jordanien bombardiert, was das Zentralkommando als 'schwere Welle von Angriffen' bezeichnete."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss"
+      "date": "2026-07-30",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普表示美国将对伊朗进行“惩罚”",
-        "en": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
-        "de": "Trump sagt, die USA werden Iran nach erneuten Angriffen auf Basen 'schlagen'"
+        "zh": "摩拉莱斯在玻利维亚新逮捕令后表现出坚定态度",
+        "en": "Evo Morales defiant after new Bolivia arrest warrant",
+        "de": "Evo Morales trotzig nach neuem Haftbefehl in Bolivien"
       },
       "summary": {
-        "zh": "特朗普承诺在新一轮伊朗攻击后对伊朗进行重大升级。此言论是在他与内塔尼亚胡会晤后发表的。",
-        "en": "Trump promises major escalation against Iran following new attacks. This statement comes after his meeting with Netanyahu.",
-        "de": "Trump verspricht eine erhebliche Eskalation gegen den Iran nach neuen Angriffen. Diese Aussage erfolgt nach seinem Treffen mit Netanyahu."
+        "zh": "玻利维亚前总统摩拉莱斯因涉嫌对国家进行武装叛乱而受到调查，尽管面临新的逮捕令，他依然表现出坚定态度。",
+        "en": "Bolivia's former president Evo Morales is under investigation for 'armed uprising' against the state, and despite a new arrest warrant, he remains defiant.",
+        "de": "Boliviens ehemaliger Präsident Evo Morales wird wegen 'bewaffneter Rebellion' gegen den Staat untersucht, und trotz eines neuen Haftbefehls bleibt er trotzig."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss"
+      "date": "2026-07-30",
+      "url": "https://www.aljazeera.com/news/2026/7/30/evo-morales-defiant-after-new-bolivia-arrest-warrant?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "沙特阿拉伯为何掌握巴勒斯坦国的关键",
-        "en": "Why Saudi Arabia holds the key to Palestinian statehood",
-        "de": "Warum Saudi-Arabien der Schlüssel zur palästinensischen Staatlichkeit ist"
+        "zh": "特朗普考虑在OpenAI黑客事件后实施人工智能管控",
+        "en": "Trump considering AI controls after OpenAI hacking incidents",
+        "de": "Trump erwägt KI-Kontrollen nach den Hacking-Vorfällen bei OpenAI"
       },
       "summary": {
-        "zh": "沙特阿拉伯在阿拉伯和伊斯兰世界中的地位对与以色列的正常化前景具有重要影响。该国的立场可能会影响巴勒斯坦国的建立。",
-        "en": "Saudi Arabia's position in the Arab and Islamic worlds bears significant weight in the prospect of normalization with Israel. The kingdom's stance could influence the establishment of a Palestinian state.",
-        "de": "Die Position Saudi-Arabiens in der arabischen und islamischen Welt hat erhebliches Gewicht für die Aussicht auf eine Normalisierung mit Israel. Die Haltung des Königreichs könnte die Gründung eines palästinensischen Staates beeinflussen."
+        "zh": "特朗普政府在OpenAI黑客事件后考虑对人工智能实施管控，这标志着其对该技术的态度发生变化。",
+        "en": "Trump's administration is considering implementing controls on AI following hacking incidents involving OpenAI, marking a shift in its approach to the technology.",
+        "de": "Die Trump-Administration erwägt, nach den Hacking-Vorfällen bei OpenAI Kontrollen für KI einzuführen, was einen Wandel in ihrem Ansatz zur Technologie markiert."
       },
-      "source": "Al Jazeera",
-      "date": "2026-07-29",
-      "url": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-07-30",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "新加坡在意外举措中收紧货币政策",
-        "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
-        "de": "Singapur zieht die Geldpolitik überraschend an, da steigende Ölpreise das Inflationsrisiko neu entfachen"
+        "zh": "分裂的美联储对投资者意味着什么",
+        "en": "What a divided Fed means for investors",
+        "de": "Was eine gespaltene Fed für Investoren bedeutet"
       },
       "summary": {
-        "zh": "新加坡意外收紧货币政策，以应对因油价上涨而重新燃起的通货膨胀风险。此举与大多数中央银行的政策不同。",
-        "en": "Singapore unexpectedly tightens monetary policy to address the rekindled inflation risk due to rising oil prices. This move contrasts with the policies of most central banks.",
-        "de": "Singapur zieht überraschend die Geldpolitik an, um das neu entfachte Inflationsrisiko aufgrund steigender Ölpreise anzugehen. Dieser Schritt steht im Gegensatz zu den Politiken der meisten Zentralbanken."
+        "zh": "华尔街从本周的美联储决定中得出明确结论：加息可能在即。",
+        "en": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
+        "de": "Wall Street hat eine klare Erkenntnis aus der Entscheidung der Federal Reserve in dieser Woche gewonnen: Eine Erhöhung steht wahrscheinlich bevor."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-07-29",
+      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "新加坡在油价上涨时意外收紧货币政策",
+        "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
+        "de": "Singapur zieht überraschend die Geldpolitik an, während steigende Ölpreise das Inflationsrisiko neu entfachen"
+      },
+      "summary": {
+        "zh": "新加坡在油价上涨的背景下意外收紧货币政策，以应对中期价格稳定的挑战。",
+        "en": "Singapore unexpectedly tightened its monetary policy in response to rising oil prices, addressing challenges to medium-term price stability.",
+        "de": "Singapur hat überraschend seine Geldpolitik verschärft, um auf steigende Ölpreise zu reagieren und Herausforderungen an die mittelfristige Preisstabilität anzugehen."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-27",
       "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "特朗普的新全球关税引发贸易伙伴反对",
-        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-        "de": "Trumps neue globale Zölle ernten Widerspruch von Handelspartnern wegen der Rechtfertigung für Zwangsarbeit"
-      },
-      "summary": {
-        "zh": "美国贸易伙伴对特朗普的新全球关税表示反对，质疑其以强迫劳动为理由的正当性。大多数国家表示将继续谈判。",
-        "en": "U.S. trading partners have rejected Trump's new global tariffs, questioning the legitimacy of the forced labor justification. Most indicated plans to continue negotiations.",
-        "de": "Die Handelspartner der USA haben Trumps neue globalen Zölle abgelehnt und die Legitimität der Rechtfertigung für Zwangsarbeit in Frage gestellt. Die meisten haben Pläne angedeutet, die Verhandlungen fortzusetzen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-24",
-      "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "个人投资者以最快的速度抛售股票",
-        "en": "Individual investors are dumping stocks at the fastest pace since the COVID crash",
-        "de": "Einzelinvestoren verkaufen Aktien so schnell wie seit dem COVID-Crash nicht mehr"
+        "zh": "福特的大型卡车投资正在获得回报",
+        "en": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
+        "de": "Fords große Lkw-Wette zahlt sich aus – und die Wall Street nimmt Notiz"
       },
       "summary": {
-        "zh": "个人投资者记录了自COVID崩盘以来最大的单一股票净卖出。市场情绪的变化引发了这一趋势。",
-        "en": "Individual investors recorded their largest net selling of single stocks since the COVID crash. Changes in market sentiment have triggered this trend.",
-        "de": "Einzelinvestoren verzeichneten den größten Nettverkauf von Einzelaktien seit dem COVID-Crash. Veränderungen der Marktstimmung haben diesen Trend ausgelöst."
+        "zh": "福特在大型卡车市场的投资正在获得回报，华尔街对此表示关注，可能预示着该公司的转机。",
+        "en": "Ford's investment in the large truck market is paying off, and Wall Street is taking notice, potentially signaling a turnaround for the company.",
+        "de": "Fords Investition in den großen Lkw-Markt zahlt sich aus, und die Wall Street nimmt Notiz, was möglicherweise auf eine Wende für das Unternehmen hindeutet."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-07-29",
-      "url": "https://www.marketwatch.com/story/individual-investors-are-dumping-stocks-at-the-fastest-pace-since-the-covid-crash-42b46756?mod=mw_rss_topstories"
+      "date": "2026-07-30",
+      "url": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories"
     }
   ]
 }
