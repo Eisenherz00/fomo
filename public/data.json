@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T17:54:25.538602+00:00",
+  "generatedAt": "2026-07-31T07:23:26.231429+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Montanas Plan, ein experimentelles medizinisches Zentrum zu werden, wurde gerade vorangetrieben"
       },
       "summary": {
-        "zh": "蒙大拿州的生物技术公司现在可以更清晰地将实验药物销售给消费者，这标志着该州成为实验医学中心的计划向前推进。",
-        "en": "Montana's biotech companies now have a clearer path to sell experimental drugs to consumers, marking a significant step forward in the state's plan to become an experimental medical hub.",
-        "de": "Montanas Biotechnologieunternehmen haben nun einen klareren Weg, um experimentelle Medikamente an Verbraucher zu verkaufen, was einen bedeutenden Schritt in dem Plan des Staates darstellt, ein experimentelles medizinisches Zentrum zu werden."
+        "zh": "蒙大拿州的生物科技公司现在可以更清晰地向消费者销售实验药物，这一政策的推进标志着该州在医学创新方面的重大进展。",
+        "en": "Montana's biotech companies now have a clearer path to sell experimental drugs to consumers, marking a significant advancement in the state's medical innovation.",
+        "de": "Montanas Biotechnologieunternehmen haben nun einen klareren Weg, experimentelle Medikamente an Verbraucher zu verkaufen, was einen bedeutenden Fortschritt in der medizinischen Innovation des Bundesstaates darstellt."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-30",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "一个基本缺陷使大型语言模型显著易受攻击",
+        "zh": "基本缺陷使大型语言模型显著易受攻击",
         "en": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "de": "Ein grundlegender Fehler macht LLMs auffällig anfällig für Angriffe"
       },
       "summary": {
-        "zh": "研究人员认为，由于大型语言模型的工作原理存在基本缺陷，使其无法完全抵御黑客攻击。",
-        "en": "Researchers argue that a fundamental flaw in how large language models work makes them impossible to fully secure against hacks.",
-        "de": "Forscher argumentieren, dass ein grundlegender Fehler in der Funktionsweise großer Sprachmodelle es unmöglich macht, sie vollständig gegen Hacks abzusichern."
+        "zh": "研究人员指出，大型语言模型由于其工作原理的基本缺陷，无法完全防止黑客攻击，这一发现引发了对其安全性的广泛关注。",
+        "en": "Researchers argue that large language models cannot be fully secured against hacks due to a fundamental flaw in their operation, raising significant concerns about their security.",
+        "de": "Forscher argumentieren, dass große Sprachmodelle aufgrund eines grundlegenden Fehlers in ihrer Funktionsweise nicht vollständig gegen Hacks gesichert werden können, was erhebliche Bedenken hinsichtlich ihrer Sicherheit aufwirft."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-30",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "微软推出的AI安全工具声称超越竞争平台",
         "en": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "de": "Microsoft stellt AI-Sicherheitswerkzeuge vor, die laut eigenen Angaben besser sind als konkurrierende Plattformen"
+        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, die seiner Meinung nach konkurrierende Plattformen übertreffen"
       },
       "summary": {
-        "zh": "微软宣称其新推出的AI安全工具不仅成本低于竞争对手，而且在性能上也优于它们。",
-        "en": "Microsoft claims that its newly unveiled AI security tools not only cost less than competing ones but also outperform them in performance.",
-        "de": "Microsoft behauptet, dass seine neu vorgestellten AI-Sicherheitswerkzeuge nicht nur kostengünstiger sind als die der Konkurrenz, sondern diese auch in der Leistung übertreffen."
+        "zh": "微软宣布推出新一代AI安全工具，声称这些工具在成本和性能上均优于竞争对手，标志着其在安全技术领域的进一步扩展。",
+        "en": "Microsoft has announced the launch of a new generation of AI security tools, claiming they outperform competitors in both cost and performance, marking a further expansion in its security technology sector.",
+        "de": "Microsoft hat die Einführung einer neuen Generation von KI-Sicherheitswerkzeugen angekündigt, die seiner Meinung nach in Bezug auf Kosten und Leistung besser sind als die der Wettbewerber, was eine weitere Expansion im Bereich der Sicherheitstechnologie darstellt."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-27",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "在美国压力下，古巴的医疗系统崩溃",
-        "en": "‘To play God’: Cuba’s healthcare system collapses under US pressure",
-        "de": "‚Gott spielen‘: Kubas Gesundheitssystem bricht unter dem Druck der USA zusammen"
+        "zh": "美国政府在全球会议上错误标记非洲国家",
+        "en": "US government mislabels countries on map of Africa at global conference",
+        "de": "US-Regierung kennzeichnet Länder auf einer Karte Afrikas bei globaler Konferenz falsch"
       },
       "summary": {
-        "zh": "由于特朗普政府加大对古巴的制裁，古巴的医疗部门面临燃料和供应短缺，导致系统崩溃。",
-        "en": "As the Trump administration tightens sanctions on Cuba, the healthcare sector struggles with fuel and supply shortages, leading to its collapse.",
-        "de": "Während die Trump-Administration die Sanktionen gegen Kuba verschärft, kämpft der Gesundheitssektor mit Treibstoff- und Versorgungsengpässen, was zu seinem Zusammenbruch führt."
+        "zh": "美国国务院承认在全球会议上发布的非洲地图上存在严重错误，此事件引发了广泛的关注和批评。",
+        "en": "The US State Department acknowledged a significant error on a map of Africa presented at a global conference, which has sparked widespread attention and criticism.",
+        "de": "Das US-Außenministerium räumte einen erheblichen Fehler auf einer bei einer globalen Konferenz präsentierten Karte Afrikas ein, was weitreichende Aufmerksamkeit und Kritik ausgelöst hat."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-30",
-      "url": "https://www.aljazeera.com/news/longform/2026/7/30/to-play-god-cubas-healthcare-system-collapses-under-us-pressure?traffic_source=rss"
+      "date": "2026-07-31",
+      "url": "https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "北约战机在俄罗斯导弹在波兰爆炸时紧急起飞",
-        "en": "NATO jets scramble as Russian missile detonates in Poland",
-        "de": "NATO-Jets starten, als russische Rakete in Polen detoniert"
+        "zh": "如何内塔尼亚胡失去了美国",
+        "en": "How Netanyahu lost America",
+        "de": "Wie Netanyahu Amerika verloren hat"
       },
       "summary": {
-        "zh": "随着北约空域侵犯事件的增加，俄罗斯对乌克兰的战争可能升级的担忧加剧。",
-        "en": "Concerns are growing that Russia's war on Ukraine could escalate as incidents of NATO airspace violations increase.",
-        "de": "Die Bedenken wachsen, dass Russlands Krieg gegen die Ukraine eskalieren könnte, da die Vorfälle von NATO-Luftraumverletzungen zunehmen."
+        "zh": "内塔尼亚胡通过将以色列与共和党右翼联系在一起，破坏了维持其最重要联盟的两党共识。",
+        "en": "Netanyahu shattered the bipartisan consensus that sustained Israel's most important alliance by tying the country to the Republican right.",
+        "de": "Netanyahu hat den bipartisanschen Konsens, der Israels wichtigste Allianz aufrechterhielt, zerstört, indem er das Land an die republikanische Rechte band."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-30",
-      "url": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss"
+      "date": "2026-07-31",
+      "url": "https://www.aljazeera.com/opinions/2026/7/31/how-netanyahu-lost-america?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰导弹袭击造成至少五名同一家族成员遇难",
-        "en": "At least five members of same family killed in Russian missile attack, Zelensky says",
-        "de": "Mindestens fünf Mitglieder derselben Familie wurden bei russischem Raketenangriff getötet, sagt Zelensky"
+        "zh": "伊朗战争直播：伊朗声称对科威特进行“报复性攻击”",
+        "en": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
+        "de": "Iran-Krieg live: IRGC beansprucht ‚Vergeltungsangriff‘ auf Kuwait"
       },
       "summary": {
-        "zh": "泽连斯基表示，在靠近克里维里赫的一个村庄，六人遇难，其中包括一名六岁女孩和两名男孩。",
-        "en": "Zelensky stated that six people were killed in a village near Kryvyi Rih, including a six-year-old girl and two boys.",
-        "de": "Zelensky erklärte, dass in einem Dorf nahe Kryvyi Rih sechs Menschen getötet wurden, darunter ein sechsjähriges Mädchen und zwei Jungen."
+        "zh": "伊朗革命卫队声称对科威特进行了报复性攻击，此次事件加剧了该地区的紧张局势。",
+        "en": "The Iranian Revolutionary Guard Corps claims to have conducted a retaliatory attack on Kuwait, escalating tensions in the region.",
+        "de": "Das iranische Revolutionsgarde-Korps behauptet, einen Vergeltungsangriff auf Kuwait durchgeführt zu haben, was die Spannungen in der Region verschärft."
       },
-      "source": "BBC News – World",
-      "date": "2026-07-30",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-07-31",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国经济在第二季度增长率降至1.5%",
-        "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5% Wachstumsrate; Kerninflation im Juni bei 3,3%"
+        "zh": "中国的工厂活动在七月意外收缩，需求下降和台风影响",
+        "en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
+        "de": "Chinas Fabrikaktivität zieht sich im Juli unerwartet zurück, bedingt durch Nachfragerückgang und Taifune"
       },
       "summary": {
-        "zh": "美国经济在第二季度的增长率降至1.5%，低于预期，主要由于联邦政府支出和库存的下降。",
-        "en": "The U.S. economy's growth rate slowed to 1.5% in the second quarter, below expectations, primarily due to a decline in federal government spending and inventories.",
-        "de": "Die Wachstumsrate der US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5%, was unter den Erwartungen liegt, hauptsächlich aufgrund eines Rückgangs der Bundesausgaben und der Bestände."
+        "zh": "由于出口需求的下降和台风的影响，中国的工厂活动在七月意外收缩，这一情况可能对经济复苏产生负面影响。",
+        "en": "China's factory activity unexpectedly contracted in July due to a slump in export demand and the impact of typhoons, which could negatively affect economic recovery.",
+        "de": "Chinas Fabrikaktivität zog sich im Juli unerwartet zurück, bedingt durch einen Rückgang der Exportnachfrage und die Auswirkungen von Taifunen, was sich negativ auf die wirtschaftliche Erholung auswirken könnte."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-07-31",
+      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "美国经济在第二季度增长率降至1.5%；六月份核心通胀为3.3%",
+        "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf ein Wachstum von 1,5 %; Kerninflation im Juni bei 3,3 %"
+      },
+      "summary": {
+        "zh": "美国经济在第二季度的增长率降至1.5%，主要由于联邦政府支出和库存的下降，这一数据低于市场预期。",
+        "en": "The U.S. economy's growth rate slowed to 1.5% in Q2, primarily due to a decline in federal government spending and inventories, a figure that fell below market expectations.",
+        "de": "Die Wachstumsrate der US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 %, hauptsächlich aufgrund eines Rückgangs der Ausgaben der Bundesregierung und der Bestände, was unter den Markterwartungen lag."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-30",
       "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "新加坡意外收紧货币政策以应对通胀风险",
-        "en": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
-        "de": "Singapur zieht überraschend die Geldpolitik an, da steigende Ölpreise das Inflationsrisiko neu entfachen"
-      },
-      "summary": {
-        "zh": "新加坡在意外的货币政策收紧中，试图应对因油价上涨而重新燃起的通胀风险。",
-        "en": "Singapore is tightening its monetary policy in a surprise move to address the rekindled inflation risk due to rising oil prices.",
-        "de": "Singapur zieht überraschend seine Geldpolitik an, um das neu entfachte Inflationsrisiko aufgrund steigender Ölpreise anzugehen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-29",
-      "url": "https://www.cnbc.com/2026/07/29/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普的新全球关税因强迫劳动理由遭到贸易伙伴的反对",
-        "en": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-        "de": "Trumps neue globale Zölle stoßen auf Ablehnung von Handelspartnern wegen der Rechtfertigung von Zwangsarbeit"
+        "zh": "企业内部人士对股市发出警告信号",
+        "en": "Corporate insiders are sending warning signals about the stock market",
+        "de": "Unternehmensinsider senden Warnsignale über den Aktienmarkt"
       },
       "summary": {
-        "zh": "美国贸易伙伴对特朗普的新全球关税表示反对，认为强迫劳动的理由不成立，但大多数表示将继续谈判。",
-        "en": "U.S. trading partners have rejected the rationale of forced labor behind Trump's new global tariffs, while most indicated plans to continue negotiations.",
-        "de": "US-Handelspartner haben die Begründung der Zwangsarbeit hinter Trumps neuen globalen Zöllen zurückgewiesen, während die meisten Pläne zur Fortsetzung der Verhandlungen signalisierten."
+        "zh": "企业内部人士的悲观情绪达到了20年来的最高点，这可能预示着未来股市的不确定性。",
+        "en": "Corporate insiders' bearish sentiment has reached its highest level in over 20 years, which may signal future uncertainty in the stock market.",
+        "de": "Die pessimistische Stimmung unter Unternehmensinsidern hat den höchsten Stand seit über 20 Jahren erreicht, was auf zukünftige Unsicherheiten auf dem Aktienmarkt hindeuten könnte."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-24",
-      "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-07-31",
+      "url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories"
     }
   ]
 }
