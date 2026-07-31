@@ -1,133 +1,133 @@
 {
-  "generatedAt": "2026-07-31T07:23:26.231429+00:00",
+  "generatedAt": "2026-07-31T17:58:48.017405+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "蒙大拿州计划成为实验医学中心的计划刚刚推进",
-        "en": "Montana’s plan to become an experimental medical hub just pushed forward",
-        "de": "Montanas Plan, ein experimentelles medizinisches Zentrum zu werden, wurde gerade vorangetrieben"
-      },
-      "summary": {
-        "zh": "蒙大拿州的生物科技公司现在可以更清晰地向消费者销售实验药物，这一政策的推进标志着该州在医学创新方面的重大进展。",
-        "en": "Montana's biotech companies now have a clearer path to sell experimental drugs to consumers, marking a significant advancement in the state's medical innovation.",
-        "de": "Montanas Biotechnologieunternehmen haben nun einen klareren Weg, experimentelle Medikamente an Verbraucher zu verkaufen, was einen bedeutenden Fortschritt in der medizinischen Innovation des Bundesstaates darstellt."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-07-30",
-      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/"
-    },
-    {
-      "id": "ai-2",
-      "title": {
-        "zh": "基本缺陷使大型语言模型显著易受攻击",
+        "zh": "无法完全保护的LLM：一种根本缺陷使其显著易受攻击",
         "en": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "de": "Ein grundlegender Fehler macht LLMs auffällig anfällig für Angriffe"
       },
       "summary": {
-        "zh": "研究人员指出，大型语言模型由于其工作原理的基本缺陷，无法完全防止黑客攻击，这一发现引发了对其安全性的广泛关注。",
-        "en": "Researchers argue that large language models cannot be fully secured against hacks due to a fundamental flaw in their operation, raising significant concerns about their security.",
-        "de": "Forscher argumentieren, dass große Sprachmodelle aufgrund eines grundlegenden Fehlers in ihrer Funktionsweise nicht vollständig gegen Hacks gesichert werden können, was erhebliche Bedenken hinsichtlich ihrer Sicherheit aufwirft."
+        "zh": "研究团队指出，由于大型语言模型的工作方式存在根本缺陷，无法完全确保其安全性，导致其易受攻击。",
+        "en": "A research team argues that it is impossible to make large language models fully secure against hacks due to a fundamental flaw in how they operate.",
+        "de": "Ein Forschungsteam argumentiert, dass es unmöglich ist, große Sprachmodelle aufgrund eines grundlegenden Fehlers in ihrer Funktionsweise vollständig vor Hacks zu schützen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-30",
       "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
     },
     {
-      "id": "ai-3",
+      "id": "ai-2",
       "title": {
-        "zh": "微软推出的AI安全工具声称超越竞争平台",
+        "zh": "微软推出AI安全工具，声称超越竞争平台",
         "en": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, die seiner Meinung nach konkurrierende Plattformen übertreffen"
+        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, die laut eigenen Angaben besser sind als die Konkurrenz"
       },
       "summary": {
-        "zh": "微软宣布推出新一代AI安全工具，声称这些工具在成本和性能上均优于竞争对手，标志着其在安全技术领域的进一步扩展。",
-        "en": "Microsoft has announced the launch of a new generation of AI security tools, claiming they outperform competitors in both cost and performance, marking a further expansion in its security technology sector.",
-        "de": "Microsoft hat die Einführung einer neuen Generation von KI-Sicherheitswerkzeugen angekündigt, die seiner Meinung nach in Bezug auf Kosten und Leistung besser sind als die der Wettbewerber, was eine weitere Expansion im Bereich der Sicherheitstechnologie darstellt."
+        "zh": "微软宣布推出新的AI安全工具，声称这些工具不仅成本低于竞争对手，而且性能也更优。",
+        "en": "Microsoft has announced the launch of new AI security tools, claiming they not only cost less than competitors but also outperform them.",
+        "de": "Microsoft hat die Einführung neuer KI-Sicherheitswerkzeuge angekündigt und behauptet, dass sie nicht nur günstiger sind als die Konkurrenz, sondern auch besser abschneiden."
       },
       "source": "Ars Technica – AI",
       "date": "2026-07-27",
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "中国工厂活动因需求下降和台风意外收缩",
+        "en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
+        "de": "Chinas Fabrikaktivität zieht im Juli unerwartet aufgrund eines Nachfragerückgangs und Taifune zurück"
+      },
+      "summary": {
+        "zh": "由于出口需求的下降和台风的影响，中国的工厂活动在七月意外收缩，打破了之前的复苏趋势。",
+        "en": "China's factory activity unexpectedly contracted in July due to a slump in export demand and the impact of typhoons, breaking the previous recovery trend.",
+        "de": "Die Fabrikaktivität in China zog im Juli unerwartet zurück, bedingt durch einen Rückgang der Exportnachfrage und die Auswirkungen von Taifunen, was den vorherigen Erholungstrend unterbrach."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-07-31",
+      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国政府在全球会议上错误标记非洲国家",
-        "en": "US government mislabels countries on map of Africa at global conference",
-        "de": "US-Regierung kennzeichnet Länder auf einer Karte Afrikas bei globaler Konferenz falsch"
+        "zh": "西方盟友警告朝鲜IT工人资助核武库",
+        "en": "Western allies warn North Korean IT workers funding nuclear arsenal",
+        "de": "Westliche Verbündete warnen vor nordkoreanischen IT-Arbeitern, die das Atomwaffenarsenal finanzieren"
       },
       "summary": {
-        "zh": "美国国务院承认在全球会议上发布的非洲地图上存在严重错误，此事件引发了广泛的关注和批评。",
-        "en": "The US State Department acknowledged a significant error on a map of Africa presented at a global conference, which has sparked widespread attention and criticism.",
-        "de": "Das US-Außenministerium räumte einen erheblichen Fehler auf einer bei einer globalen Konferenz präsentierten Karte Afrikas ein, was weitreichende Aufmerksamkeit und Kritik ausgelöst hat."
+        "zh": "西方国家指责平壤利用由AI辅助的工人赚取的硬通货来支持其武器计划，呼吁采取行动。",
+        "en": "Western nations accuse Pyongyang of using hard currency earned by AI-assisted workers to support its weapons program, calling for action.",
+        "de": "Westliche Länder beschuldigen Pjöngjang, harte Währung, die von KI-unterstützten Arbeitern verdient wurde, zur Unterstützung seines Waffenprogramms zu verwenden, und fordern Maßnahmen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/news/2026/7/31/us-government-mislabels-countries-on-map-of-africa-at-global-conference?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "如何内塔尼亚胡失去了美国",
-        "en": "How Netanyahu lost America",
-        "de": "Wie Netanyahu Amerika verloren hat"
+        "zh": "刚果民主共和国埃博拉疫情成为世界第二大疫情",
+        "en": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
+        "de": "Ebola-Epidemie in der DR Kongo wird zum zweitgrößten Ausbruch der Welt"
       },
       "summary": {
-        "zh": "内塔尼亚胡通过将以色列与共和党右翼联系在一起，破坏了维持其最重要联盟的两党共识。",
-        "en": "Netanyahu shattered the bipartisan consensus that sustained Israel's most important alliance by tying the country to the Republican right.",
-        "de": "Netanyahu hat den bipartisanschen Konsens, der Israels wichtigste Allianz aufrechterhielt, zerstört, indem er das Land an die republikanische Rechte band."
+        "zh": "刚果民主共和国的埃博拉疫情被宣布为全球第二大疫情，官员警告称其传播速度之快前所未有。",
+        "en": "The Ebola epidemic in the Democratic Republic of Congo has been declared the second largest outbreak in the world, with officials warning of its unprecedented spread.",
+        "de": "Die Ebola-Epidemie in der Demokratischen Republik Kongo wurde zum zweitgrößten Ausbruch der Welt erklärt, wobei Beamte vor einer beispiellosen Ausbreitung warnen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/opinions/2026/7/31/how-netanyahu-lost-america?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗战争直播：伊朗声称对科威特进行“报复性攻击”",
-        "en": "Iran war live: IRGC claims ‘retaliatory attack’ on Kuwait",
-        "de": "Iran-Krieg live: IRGC beansprucht ‚Vergeltungsangriff‘ auf Kuwait"
+        "zh": "西班牙总理：塞乌塔移民激增是对领土完整的“侵犯”",
+        "en": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
+        "de": "Spanischer PM: Migrantenanstieg in Ceuta ist eine 'Verletzung der territorialen Integrität'"
       },
       "summary": {
-        "zh": "伊朗革命卫队声称对科威特进行了报复性攻击，此次事件加剧了该地区的紧张局势。",
-        "en": "The Iranian Revolutionary Guard Corps claims to have conducted a retaliatory attack on Kuwait, escalating tensions in the region.",
-        "de": "Das iranische Revolutionsgarde-Korps behauptet, einen Vergeltungsangriff auf Kuwait durchgeführt zu haben, was die Spannungen in der Region verschärft."
+        "zh": "西班牙总理表示，来自摩洛哥的大量移民涌入塞乌塔是对国家领土完整的侵犯，政府正在采取措施应对这一情况。",
+        "en": "The Spanish Prime Minister stated that the massive influx of migrants from Morocco into Ceuta is a violation of national territorial integrity, and the government is taking measures to address the situation.",
+        "de": "Der spanische Premierminister erklärte, dass der massive Zustrom von Migranten aus Marokko nach Ceuta eine Verletzung der nationalen territorialen Integrität darstellt, und die Regierung ergreift Maßnahmen, um die Situation zu bewältigen."
       },
       "source": "Al Jazeera",
       "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "中国的工厂活动在七月意外收缩，需求下降和台风影响",
-        "en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-        "de": "Chinas Fabrikaktivität zieht sich im Juli unerwartet zurück, bedingt durch Nachfragerückgang und Taifune"
+        "zh": "随着华尔街对美联储的压力加大，这些指标显示通胀处于多年来的最低水平",
+        "en": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
+        "de": "Während Warshs Fed unter Druck steht, gegen die Inflation zu handeln, zeigen diese Indikatoren, dass sie auf dem niedrigsten Stand seit Jahren ist"
       },
       "summary": {
-        "zh": "由于出口需求的下降和台风的影响，中国的工厂活动在七月意外收缩，这一情况可能对经济复苏产生负面影响。",
-        "en": "China's factory activity unexpectedly contracted in July due to a slump in export demand and the impact of typhoons, which could negatively affect economic recovery.",
-        "de": "Chinas Fabrikaktivität zog sich im Juli unerwartet zurück, bedingt durch einen Rückgang der Exportnachfrage und die Auswirkungen von Taifunen, was sich negativ auf die wirtschaftliche Erholung auswirken könnte."
+        "zh": "随着美联储面临加大对通胀采取行动的压力，新的指标显示通胀水平已降至多年来的最低点。",
+        "en": "As the Fed faces increasing pressure to act on inflation, new indicators show that inflation levels have dropped to their lowest in years.",
+        "de": "Während die Fed unter zunehmendem Druck steht, gegen die Inflation zu handeln, zeigen neue Indikatoren, dass die Inflationsniveaus auf den niedrigsten Stand seit Jahren gefallen sind."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-31",
-      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
+      "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国经济在第二季度增长率降至1.5%；六月份核心通胀为3.3%",
+        "zh": "美国经济在第二季度增长率放缓至1.5%；6月核心通胀为3.3%",
         "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf ein Wachstum von 1,5 %; Kerninflation im Juni bei 3,3 %"
+        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 % Wachstumsrate; Kerninflation im Juni bei 3,3 %"
       },
       "summary": {
-        "zh": "美国经济在第二季度的增长率降至1.5%，主要由于联邦政府支出和库存的下降，这一数据低于市场预期。",
-        "en": "The U.S. economy's growth rate slowed to 1.5% in Q2, primarily due to a decline in federal government spending and inventories, a figure that fell below market expectations.",
-        "de": "Die Wachstumsrate der US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 %, hauptsächlich aufgrund eines Rückgangs der Ausgaben der Bundesregierung und der Bestände, was unter den Markterwartungen lag."
+        "zh": "美国经济在第二季度的增长率降至1.5%，而6月的核心通胀率为3.3%，低于预期，主要由于联邦政府支出和库存的减少。",
+        "en": "The U.S. economy's growth rate slowed to 1.5% in the second quarter, with June's core inflation at 3.3%, below expectations, primarily due to a decline in federal government spending and inventories.",
+        "de": "Die Wachstumsrate der US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 %, während die Kerninflation im Juni bei 3,3 % lag, was unter den Erwartungen lag, hauptsächlich aufgrund eines Rückgangs der Bundesausgaben und der Bestände."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-30",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "企业内部人士对股市发出警告信号",
-        "en": "Corporate insiders are sending warning signals about the stock market",
-        "de": "Unternehmensinsider senden Warnsignale über den Aktienmarkt"
+        "zh": "S&P 500在七月首次出现下滑，自2014年以来首次",
+        "en": "S&P 500 heads for the first July decline since 2014",
+        "de": "S&P 500 steuert auf den ersten Rückgang im Juli seit 2014 zu"
       },
       "summary": {
-        "zh": "企业内部人士的悲观情绪达到了20年来的最高点，这可能预示着未来股市的不确定性。",
-        "en": "Corporate insiders' bearish sentiment has reached its highest level in over 20 years, which may signal future uncertainty in the stock market.",
-        "de": "Die pessimistische Stimmung unter Unternehmensinsidern hat den höchsten Stand seit über 20 Jahren erreicht, was auf zukünftige Unsicherheiten auf dem Aktienmarkt hindeuten könnte."
+        "zh": "在经历了一个波动的月底后，股市的下滑以芯片股票的24年来最差表现为特征，S&P 500在七月首次出现下滑。",
+        "en": "After a volatile end to the month, the stock market's decline was highlighted by the worst month for chip stocks in 24 years, marking the first July decline for the S&P 500 since 2014.",
+        "de": "Nach einem turbulenten Monatsende wurde der Rückgang des Aktienmarktes durch den schlechtesten Monat für Chip-Aktien seit 24 Jahren gekennzeichnet, was den ersten Rückgang des S&P 500 im Juli seit 2014 markiert."
       },
       "source": "MarketWatch – Top Stories",
       "date": "2026-07-31",
-      "url": "https://www.marketwatch.com/story/the-warning-signal-insiders-are-sending-f0538ddf?mod=mw_rss_topstories"
+      "url": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories"
     }
   ]
 }
