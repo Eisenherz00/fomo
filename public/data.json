@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-07-31T17:58:48.017405+00:00",
+  "generatedAt": "2026-08-01T07:03:52.740013+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "无法完全保护的LLM：一种根本缺陷使其显著易受攻击",
-        "en": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-        "de": "Ein grundlegender Fehler macht LLMs auffällig anfällig für Angriffe"
+        "zh": "蒙大拿州的新实验药物规则：今天的下载",
+        "en": "The Download: Montana’s new experimental drug rules",
+        "de": "Der Download: Montanas neue experimentelle Arzneimittelregeln"
       },
       "summary": {
-        "zh": "研究团队指出，由于大型语言模型的工作方式存在根本缺陷，无法完全确保其安全性，导致其易受攻击。",
-        "en": "A research team argues that it is impossible to make large language models fully secure against hacks due to a fundamental flaw in how they operate.",
-        "de": "Ein Forschungsteam argumentiert, dass es unmöglich ist, große Sprachmodelle aufgrund eines grundlegenden Fehlers in ihrer Funktionsweise vollständig vor Hacks zu schützen."
+        "zh": "蒙大拿州的新实验药物规则为生物技术公司提供了向消费者销售实验药物的明确途径。这一变化可能会影响药物开发的速度和可及性。",
+        "en": "Montana's new experimental drug rules provide biotech companies with a clear path to sell experimental drugs to consumers. This change could impact the speed and accessibility of drug development.",
+        "de": "Montanas neue experimentelle Arzneimittelregeln bieten Biotechnologieunternehmen einen klaren Weg, experimentelle Arzneimittel an Verbraucher zu verkaufen. Diese Änderung könnte die Geschwindigkeit und Zugänglichkeit der Arzneimittelentwicklung beeinflussen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-07-30",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+      "date": "2026-07-31",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "微软推出AI安全工具，声称超越竞争平台",
-        "en": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, die laut eigenen Angaben besser sind als die Konkurrenz"
+        "zh": "蒙大拿州的新“尝试权”法案对一些人来说来得太及时了",
+        "en": "Montana’s new “right to try” law can’t come soon enough for some",
+        "de": "Montanas neues „Recht auf Versuch“-Gesetz kann für einige nicht früh genug kommen"
       },
       "summary": {
-        "zh": "微软宣布推出新的AI安全工具，声称这些工具不仅成本低于竞争对手，而且性能也更优。",
-        "en": "Microsoft has announced the launch of new AI security tools, claiming they not only cost less than competitors but also outperform them.",
-        "de": "Microsoft hat die Einführung neuer KI-Sicherheitswerkzeuge angekündigt und behauptet, dass sie nicht nur günstiger sind als die Konkurrenz, sondern auch besser abschneiden."
+        "zh": "蒙大拿州的新“尝试权”法案为急需实验药物的患者提供了希望，尤其是那些面临严重健康问题的家庭。",
+        "en": "Montana's new 'right to try' law offers hope to patients in urgent need of experimental drugs, especially families facing serious health issues.",
+        "de": "Montanas neues „Recht auf Versuch“-Gesetz bietet Hoffnung für Patienten, die dringend experimentelle Arzneimittel benötigen, insbesondere für Familien mit ernsthaften Gesundheitsproblemen."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-07-27",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
+      "source": "MIT Technology Review",
+      "date": "2026-07-31",
+      "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "中国工厂活动因需求下降和台风意外收缩",
-        "en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-        "de": "Chinas Fabrikaktivität zieht im Juli unerwartet aufgrund eines Nachfragerückgangs und Taifune zurück"
+        "zh": "蒙大拿州计划成为实验医学中心的计划刚刚推进",
+        "en": "Montana’s plan to become an experimental medical hub just pushed forward",
+        "de": "Montanas Plan, ein experimentelles medizinisches Zentrum zu werden, wurde gerade vorangetrieben"
       },
       "summary": {
-        "zh": "由于出口需求的下降和台风的影响，中国的工厂活动在七月意外收缩，打破了之前的复苏趋势。",
-        "en": "China's factory activity unexpectedly contracted in July due to a slump in export demand and the impact of typhoons, breaking the previous recovery trend.",
-        "de": "Die Fabrikaktivität in China zog im Juli unerwartet zurück, bedingt durch einen Rückgang der Exportnachfrage und die Auswirkungen von Taifunen, was den vorherigen Erholungstrend unterbrach."
+        "zh": "蒙大拿州的计划为生物技术公司提供了一个新的实验药物销售渠道，标志着该州在医疗创新方面的进展。",
+        "en": "Montana's plan provides biotech companies with a new channel for selling experimental drugs, marking progress in the state's medical innovation.",
+        "de": "Montanas Plan bietet Biotechnologieunternehmen einen neuen Kanal zum Verkauf experimenteller Arzneimittel und markiert Fortschritte in der medizinischen Innovation des Bundesstaates."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-31",
-      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
+      "source": "MIT Technology Review",
+      "date": "2026-07-30",
+      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "西方盟友警告朝鲜IT工人资助核武库",
-        "en": "Western allies warn North Korean IT workers funding nuclear arsenal",
-        "de": "Westliche Verbündete warnen vor nordkoreanischen IT-Arbeitern, die das Atomwaffenarsenal finanzieren"
+        "zh": "在支持巴基斯坦控制的克什米尔的集会上，抗议者被拘留",
+        "en": "Protesters detained at rally in support of Pakistan-administered Kashmir",
+        "de": "Demonstranten bei einer Kundgebung zur Unterstützung von Pakistan verwalteten Kaschmir festgenommen"
       },
       "summary": {
-        "zh": "西方国家指责平壤利用由AI辅助的工人赚取的硬通货来支持其武器计划，呼吁采取行动。",
-        "en": "Western nations accuse Pyongyang of using hard currency earned by AI-assisted workers to support its weapons program, calling for action.",
-        "de": "Westliche Länder beschuldigen Pjöngjang, harte Währung, die von KI-unterstützten Arbeitern verdient wurde, zur Unterstützung seines Waffenprogramms zu verwenden, und fordern Maßnahmen."
+        "zh": "在巴基斯坦拉合尔，警方在一场支持巴基斯坦控制的克什米尔的集会上拘留了几名抗议者。",
+        "en": "In Lahore, Pakistan, police detained several protesters at a rally in support of Pakistan-administered Kashmir.",
+        "de": "In Lahore, Pakistan, wurden mehrere Demonstranten bei einer Kundgebung zur Unterstützung von Pakistan verwaltetem Kaschmir festgenommen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss"
+      "date": "2026-08-01",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "刚果民主共和国埃博拉疫情成为世界第二大疫情",
-        "en": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
-        "de": "Ebola-Epidemie in der DR Kongo wird zum zweitgrößten Ausbruch der Welt"
+        "zh": "美国撤销对奥运选手的指控，因反射池的损坏",
+        "en": "US drops charges against Olympian for damage to Reflecting Pool",
+        "de": "USA fallen lassen Anklagen gegen Olympioniken wegen Schäden am Reflecting Pool"
       },
       "summary": {
-        "zh": "刚果民主共和国的埃博拉疫情被宣布为全球第二大疫情，官员警告称其传播速度之快前所未有。",
-        "en": "The Ebola epidemic in the Democratic Republic of Congo has been declared the second largest outbreak in the world, with officials warning of its unprecedented spread.",
-        "de": "Die Ebola-Epidemie in der Demokratischen Republik Kongo wurde zum zweitgrößten Ausbruch der Welt erklärt, wobei Beamte vor einer beispiellosen Ausbreitung warnen."
+        "zh": "美国司法部决定撤销对奥运选手大卫·赫恩的指控，因其涉嫌损坏反射池。",
+        "en": "The US Department of Justice has moved to dismiss its case against Olympian David Hearn for alleged damage to the Reflecting Pool.",
+        "de": "Das US-Justizministerium hat beschlossen, den Fall gegen den Olympioniken David Hearn wegen angeblicher Schäden am Reflecting Pool fallen zu lassen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss"
+      "date": "2026-08-01",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/us-drops-charges-against-olympian-for-damage-to-reflecting-pool?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "西班牙总理：塞乌塔移民激增是对领土完整的“侵犯”",
-        "en": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
-        "de": "Spanischer PM: Migrantenanstieg in Ceuta ist eine 'Verletzung der territorialen Integrität'"
+        "zh": "秘鲁前总统胡马拉在定罪被推翻后获释",
+        "en": "Peru’s ex-president Humala released after conviction overturned",
+        "de": "Perus Ex-Präsident Humala nach Aufhebung der Verurteilung freigelassen"
       },
       "summary": {
-        "zh": "西班牙总理表示，来自摩洛哥的大量移民涌入塞乌塔是对国家领土完整的侵犯，政府正在采取措施应对这一情况。",
-        "en": "The Spanish Prime Minister stated that the massive influx of migrants from Morocco into Ceuta is a violation of national territorial integrity, and the government is taking measures to address the situation.",
-        "de": "Der spanische Premierminister erklärte, dass der massive Zustrom von Migranten aus Marokko nach Ceuta eine Verletzung der nationalen territorialen Integrität darstellt, und die Regierung ergreift Maßnahmen, um die Situation zu bewältigen."
+        "zh": "秘鲁前总统胡马拉因洗钱罪被判刑15年，现因定罪被推翻而获释。",
+        "en": "Peru's ex-president Humala was sentenced to 15 years for money laundering but has been released after his conviction was overturned.",
+        "de": "Perus Ex-Präsident Humala wurde wegen Geldwäsche zu 15 Jahren verurteilt, wurde jedoch nach Aufhebung seiner Verurteilung freigelassen."
       },
       "source": "Al Jazeera",
-      "date": "2026-07-31",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss"
+      "date": "2026-08-01",
+      "url": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "随着华尔街对美联储的压力加大，这些指标显示通胀处于多年来的最低水平",
+        "zh": "在沃尔什的美联储面临通胀行动压力，这些指标显示其处于多年来的最低水平",
         "en": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
-        "de": "Während Warshs Fed unter Druck steht, gegen die Inflation zu handeln, zeigen diese Indikatoren, dass sie auf dem niedrigsten Stand seit Jahren ist"
+        "de": "Während Warshs Fed unter Druck steht, bei der Inflation zu handeln, zeigen diese Indikatoren, dass sie auf dem niedrigsten Stand seit Jahren sind"
       },
       "summary": {
-        "zh": "随着美联储面临加大对通胀采取行动的压力，新的指标显示通胀水平已降至多年来的最低点。",
-        "en": "As the Fed faces increasing pressure to act on inflation, new indicators show that inflation levels have dropped to their lowest in years.",
-        "de": "Während die Fed unter zunehmendem Druck steht, gegen die Inflation zu handeln, zeigen neue Indikatoren, dass die Inflationsniveaus auf den niedrigsten Stand seit Jahren gefallen sind."
+        "zh": "美联储面临通胀压力，最新指标显示通胀水平处于多年来的最低点，这可能影响未来的货币政策。",
+        "en": "The Fed is under pressure to act on inflation, with recent indicators showing inflation at its lowest level in years, which may influence future monetary policy.",
+        "de": "Die Fed steht unter Druck, bei der Inflation zu handeln, da aktuelle Indikatoren zeigen, dass die Inflation auf dem niedrigsten Stand seit Jahren ist, was die zukünftige Geldpolitik beeinflussen könnte."
       },
-      "source": "CNBC – Markets",
+      "source": "CNBC",
       "date": "2026-07-31",
       "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国经济在第二季度增长率放缓至1.5%；6月核心通胀为3.3%",
-        "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 % Wachstumsrate; Kerninflation im Juni bei 3,3 %"
+        "zh": "中国的工厂活动因需求下降和台风意外收缩",
+        "en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
+        "de": "Chinas Fabrikaktivität zieht sich im Juli unerwartet aufgrund eines Nachfragerückgangs und Taifunen zurück"
       },
       "summary": {
-        "zh": "美国经济在第二季度的增长率降至1.5%，而6月的核心通胀率为3.3%，低于预期，主要由于联邦政府支出和库存的减少。",
-        "en": "The U.S. economy's growth rate slowed to 1.5% in the second quarter, with June's core inflation at 3.3%, below expectations, primarily due to a decline in federal government spending and inventories.",
-        "de": "Die Wachstumsrate der US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 %, während die Kerninflation im Juni bei 3,3 % lag, was unter den Erwartungen lag, hauptsächlich aufgrund eines Rückgangs der Bundesausgaben und der Bestände."
+        "zh": "由于需求下降和台风影响，中国的工厂活动在七月意外收缩，这可能对经济复苏造成压力。",
+        "en": "China's factory activity unexpectedly contracted in July due to a slump in demand and the impact of typhoons, which may put pressure on economic recovery.",
+        "de": "Chinas Fabrikaktivität zog sich im Juli unerwartet aufgrund eines Nachfragerückgangs und der Auswirkungen von Taifunen zurück, was den wirtschaftlichen Aufschwung unter Druck setzen könnte."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-30",
-      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
+      "source": "CNBC",
+      "date": "2026-07-31",
+      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "S&P 500在七月首次出现下滑，自2014年以来首次",
-        "en": "S&P 500 heads for the first July decline since 2014",
-        "de": "S&P 500 steuert auf den ersten Rückgang im Juli seit 2014 zu"
+        "zh": "美国经济在第二季度增长率放缓至1.5%；六月份核心通胀为3.3%",
+        "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5% Wachstumsrate; Juni-Kerninflation bei 3,3%"
       },
       "summary": {
-        "zh": "在经历了一个波动的月底后，股市的下滑以芯片股票的24年来最差表现为特征，S&P 500在七月首次出现下滑。",
-        "en": "After a volatile end to the month, the stock market's decline was highlighted by the worst month for chip stocks in 24 years, marking the first July decline for the S&P 500 since 2014.",
-        "de": "Nach einem turbulenten Monatsende wurde der Rückgang des Aktienmarktes durch den schlechtesten Monat für Chip-Aktien seit 24 Jahren gekennzeichnet, was den ersten Rückgang des S&P 500 im Juli seit 2014 markiert."
+        "zh": "美国经济在第二季度的增长率降至1.5%，主要由于联邦政府支出和库存的下降，这可能影响未来的经济政策。",
+        "en": "The U.S. economy slowed to a 1.5% growth rate in Q2, primarily due to a decline in federal government spending and inventories, which may influence future economic policy.",
+        "de": "Die US-Wirtschaft verlangsamte sich im zweiten Quartal auf eine Wachstumsrate von 1,5%, hauptsächlich aufgrund eines Rückgangs der Bundesausgaben und der Bestände, was die zukünftige Wirtschaftspolitik beeinflussen könnte."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-07-31",
-      "url": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories"
+      "source": "CNBC",
+      "date": "2026-07-30",
+      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
     }
   ]
 }
