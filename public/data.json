@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T07:07:34.407298+00:00",
+  "generatedAt": "2026-08-02T17:29:44.850738+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Montanas neue experimentelle Arzneimittelvorschriften"
       },
       "summary": {
-        "zh": "蒙大拿州推出新的实验药物规则，允许生物技术公司更容易地将实验药物销售给消费者。这一政策旨在加速药物的可及性，尤其是在紧急情况下。",
-        "en": "Montana has introduced new experimental drug rules that allow biotech companies to more easily sell experimental drugs to consumers. This policy aims to accelerate drug accessibility, especially in urgent situations.",
-        "de": "Montana hat neue Regeln für experimentelle Arzneimittel eingeführt, die es Biotechnologieunternehmen erleichtern, experimentelle Arzneimittel an Verbraucher zu verkaufen. Diese Politik zielt darauf ab, die Zugänglichkeit von Arzneimitteln, insbesondere in dringenden Situationen, zu beschleunigen."
+        "zh": "蒙大拿州的新实验药物规则为生物技术公司提供了向消费者销售实验药物的明确途径，这标志着该州成为一个实验医学中心的计划向前推进。",
+        "en": "Montana's new experimental drug rules provide biotech companies with a clear path to sell experimental drugs to consumers, marking a significant step forward in the state's plan to become a hub for experimental medicine.",
+        "de": "Montanas neue experimentelle Arzneimittelvorschriften bieten Biotech-Unternehmen einen klaren Weg, experimentelle Arzneimittel an Verbraucher zu verkaufen, was einen bedeutenden Schritt in dem Plan des Bundesstaates darstellt, ein Zentrum für experimentelle Medizin zu werden."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-31",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "蒙大拿州的新“尝试权”法案对一些人来说来得太及时了",
+        "zh": "蒙大拿州的新“尝试权”法案对某些人来说来得太及时了",
         "en": "Montana’s new “right to try” law can’t come soon enough for some",
-        "de": "Montanas neues „Recht zu versuchen“ Gesetz kommt für einige zu spät"
+        "de": "Montanas neues „Recht zu versuchen“-Gesetz kann für einige nicht früh genug kommen"
       },
       "summary": {
-        "zh": "蒙大拿州的新“尝试权”法案为那些急需实验性治疗的人提供了希望。许多家庭正在等待能够尝试这些药物的机会，以应对严重的健康问题。",
-        "en": "Montana's new 'right to try' law offers hope to those in urgent need of experimental treatments. Many families are waiting for the opportunity to try these drugs to address serious health issues.",
-        "de": "Montanas neues „Recht zu versuchen“ Gesetz bietet Hoffnung für diejenigen, die dringend experimentelle Behandlungen benötigen. Viele Familien warten auf die Möglichkeit, diese Medikamente auszuprobieren, um ernsthafte Gesundheitsprobleme anzugehen."
+        "zh": "蒙大拿州的新“尝试权”法案为那些面临严重健康问题的人提供了希望，尤其是对于急需实验性治疗的家庭。",
+        "en": "Montana's new 'right to try' law offers hope for those facing severe health issues, particularly for families in urgent need of experimental treatments.",
+        "de": "Montanas neues „Recht zu versuchen“-Gesetz bietet Hoffnung für Menschen mit schweren Gesundheitsproblemen, insbesondere für Familien, die dringend experimentelle Behandlungen benötigen."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-31",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "蒙大拿州成为实验医学中心的计划刚刚推进",
-        "en": "Montana’s plan to become an experimental medical hub just pushed forward",
-        "de": "Montanas Plan, ein experimentelles medizinisches Zentrum zu werden, wurde gerade vorangetrieben"
+        "zh": "一个根本缺陷使大型语言模型极易受到攻击",
+        "en": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "de": "Ein grundlegender Fehler macht LLMs auffällig anfällig für Angriffe"
       },
       "summary": {
-        "zh": "蒙大拿州的计划正在推进，以成为一个实验医学中心，允许生物技术公司更快地将实验药物推向市场。这一变化可能会改变该州的医疗保健格局。",
-        "en": "Montana's plan to become an experimental medical hub is advancing, allowing biotech companies to bring experimental drugs to market more quickly. This change could transform the healthcare landscape in the state.",
-        "de": "Montanas Plan, ein experimentelles medizinisches Zentrum zu werden, schreitet voran und ermöglicht es Biotechnologieunternehmen, experimentelle Arzneimittel schneller auf den Markt zu bringen. Diese Veränderung könnte die Gesundheitslandschaft des Bundesstaates verändern."
+        "zh": "研究人员指出，大型语言模型由于其工作原理中的根本缺陷，无法实现完全安全，导致其容易受到攻击。",
+        "en": "Researchers argue that large language models cannot be made fully secure due to a fundamental flaw in how they operate, making them susceptible to attacks.",
+        "de": "Forscher argumentieren, dass große Sprachmodelle aufgrund eines grundlegenden Fehlers in ihrer Funktionsweise nicht vollständig sicher gemacht werden können, was sie anfällig für Angriffe macht."
       },
       "source": "MIT Technology Review",
       "date": "2026-07-30",
-      "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/"
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "爱达荷州购物中心大规模枪击事件造成至少三人死亡",
-        "en": "At least three dead in Idaho shopping mall mass shooting",
-        "de": "Mindestens drei Tote bei Massenschießerei in Einkaufszentrum in Idaho"
+        "zh": "摩洛哥边境涌入导致塞乌塔移民死亡人数上升至72",
+        "en": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
+        "de": "Die Zahl der Migrantentoten in Ceuta steigt auf 72 nach Grenzansturm aus Marokko"
       },
       "summary": {
-        "zh": "在爱达荷州的一家购物中心发生大规模枪击事件，造成至少三人死亡，数人受伤。警方正在调查事件的具体情况。",
-        "en": "A mass shooting at a shopping mall in Idaho resulted in at least three deaths and several injuries. Police are investigating the specifics of the incident.",
-        "de": "Eine Massenschießerei in einem Einkaufszentrum in Idaho führte zu mindestens drei Toten und mehreren Verletzten. Die Polizei untersucht die Einzelheiten des Vorfalls."
+        "zh": "随着摩洛哥的边境涌入，塞乌塔的移民死亡人数上升至72，五具尸体在海岸被发现，反映出这一地区的移民危机加剧。",
+        "en": "The number of migrant deaths in Ceuta has risen to 72 following a surge at the border from Morocco, with five bodies found along the coastline, highlighting the worsening migrant crisis in the region.",
+        "de": "Die Zahl der Migrantentoten in Ceuta ist auf 72 gestiegen, nachdem es an der Grenze zu Marokko zu einem Ansturm gekommen ist, wobei fünf Leichen an der Küste gefunden wurden, was die sich verschärfende Migrationskrise in der Region verdeutlicht."
       },
       "source": "Al Jazeera",
       "date": "2026-08-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "莫斯科餐厅袭击造成三人死亡，包括女性自杀炸弹袭击者",
-        "en": "Three dead including female bomber in Moscow restaurant attack",
-        "de": "Drei Tote, darunter weibliche Selbstmordattentäterin, bei Restaurantanschlag in Moskau"
+        "zh": "自杀式炸弹袭击者在巴基斯坦斯瓦特杀死14人",
+        "en": "Suicide bomber kills 14 outside police station in Pakistan’s Swat",
+        "de": "Selbstmordattentäter tötet 14 Menschen vor Polizeistation in Pakistans Swat"
       },
       "summary": {
-        "zh": "在莫斯科的一家餐厅外发生爆炸，造成至少三人死亡，超过20人受伤。事件引发了对安全措施的广泛关注。",
-        "en": "An explosion outside a restaurant in Moscow has left at least three dead and over 20 injured. The incident has raised widespread concerns about security measures.",
-        "de": "Eine Explosion vor einem Restaurant in Moskau hat mindestens drei Tote und über 20 Verletzte gefordert. Der Vorfall hat weitreichende Bedenken hinsichtlich der Sicherheitsmaßnahmen ausgelöst."
+        "zh": "在巴基斯坦斯瓦特，一名自杀式炸弹袭击者在一场集会附近引爆炸弹，造成14人死亡，事件引发对该地区暴力加剧的担忧。",
+        "en": "A suicide bomber detonated explosives near a rally in Swat, Pakistan, killing 14 people, raising concerns over the escalating violence in the region.",
+        "de": "Ein Selbstmordattentäter zündete in Swat, Pakistan, in der Nähe einer Versammlung Sprengstoffe und tötete 14 Menschen, was Besorgnis über die eskalierende Gewalt in der Region aufwirft."
       },
       "source": "Al Jazeera",
       "date": "2026-08-02",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普取消对伊朗的打击，称“达成协议的边界”已达成",
-        "en": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
-        "de": "Trump cancelt Angriff auf den Iran und sagt, „Vereinbarungsgrenzen“ seien erreicht"
+        "zh": "特朗普取消对伊朗的打击，条件是迅速达成协议",
+        "en": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+        "de": "Trump sagt Angriffe auf den Iran ab, sofern ein Deal 'schnell' zustande kommt"
       },
       "summary": {
-        "zh": "特朗普宣布取消对伊朗的军事打击，声称在谈判中取得了进展。这一决定可能会影响美国与伊朗的关系。",
-        "en": "Trump announced the cancellation of a military strike on Iran, claiming progress in negotiations. This decision could impact U.S.-Iran relations.",
-        "de": "Trump kündigte die Stornierung eines Militärschlags gegen den Iran an und behauptete, Fortschritte in den Verhandlungen erzielt zu haben. Diese Entscheidung könnte die Beziehungen zwischen den USA und dem Iran beeinflussen."
+        "zh": "特朗普表示，伊朗和其他中东国家要求美国暂停攻击，称已经达成协议的“边界”。",
+        "en": "Trump stated that Iran and other Middle Eastern countries requested the U.S. to halt attacks, claiming that the 'perimeters' of a deal had been agreed upon.",
+        "de": "Trump erklärte, dass der Iran und andere Länder im Nahen Osten die USA aufgefordert hätten, Angriffe auszusetzen, und behauptete, dass die 'Rahmenbedingungen' eines Deals vereinbart worden seien."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-08-02",
-      "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "随着沃尔什的美联储面临通胀压力，这些指标显示其处于多年来的最低水平",
-        "en": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
-        "de": "Während Warshs Fed unter Druck steht, gegen die Inflation zu handeln, zeigen diese Indikatoren, dass sie auf dem niedrigsten Stand seit Jahren ist"
-      },
-      "summary": {
-        "zh": "美联储在应对通胀压力时，最新指标显示通胀处于多年来的最低水平。这一数据可能影响未来的货币政策决策。",
-        "en": "As the Fed faces pressure to address inflation, the latest indicators show that inflation is at its lowest level in years. This data may influence future monetary policy decisions.",
-        "de": "Während die Fed unter Druck steht, die Inflation zu bekämpfen, zeigen die neuesten Indikatoren, dass die Inflation auf dem niedrigsten Stand seit Jahren ist. Diese Daten könnten zukünftige geldpolitische Entscheidungen beeinflussen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-31",
-      "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "中国的工厂活动在七月意外收缩，因需求下滑和台风影响",
+        "zh": "中国的工厂活动在7月意外收缩，因需求下滑和台风影响",
         "en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-        "de": "Chinas Fabrikaktivität schrumpft im Juli unerwartet aufgrund von Nachfragerückgang und Taifunen"
+        "de": "Chinas Fabrikaktivität zieht im Juli unerwartet zurück aufgrund von Nachfragerückgang und Taifunen"
       },
       "summary": {
-        "zh": "中国的工厂活动在七月意外收缩，主要由于需求下滑和台风的影响。这一趋势可能对全球经济产生影响。",
-        "en": "China's factory activity unexpectedly contracted in July, primarily due to a slump in demand and the impact of typhoons. This trend could have implications for the global economy.",
-        "de": "Chinas Fabrikaktivität schrumpfte im Juli unerwartet, hauptsächlich aufgrund eines Nachfragerückgangs und der Auswirkungen von Taifunen. Dieser Trend könnte Auswirkungen auf die globale Wirtschaft haben."
+        "zh": "中国的工厂活动在7月意外收缩，反映出出口激增的回落，显示出经济面临挑战。",
+        "en": "China's factory activity unexpectedly contracted in July, reflecting a decline from the export surge and indicating challenges for the economy.",
+        "de": "Chinas Fabrikaktivität hat sich im Juli unerwartet verringert, was auf einen Rückgang des Exportbooms hinweist und Herausforderungen für die Wirtschaft anzeigt."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-31",
       "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "美国经济在第二季度增长率放缓至1.5%；六月份核心通胀为3.3%",
+        "zh": "美国经济在第二季度增长率放缓至1.5%；6月核心通胀为3.3%",
         "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 % Wachstumsrate; Juni-Kerninflation bei 3,3 %"
+        "de": "Die US-Wirtschaft verlangsamte sich im zweiten Quartal auf ein Wachstum von 1,5%; die Kerninflation im Juni liegt bei 3,3%"
       },
       "summary": {
-        "zh": "美国经济在第二季度的增长率放缓至1.5%，而六月份的核心通胀率为3.3%。这一数据可能会影响美联储的货币政策。",
-        "en": "The U.S. economy slowed to a 1.5% growth rate in Q2, with June core inflation at 3.3%. This data may influence the Federal Reserve's monetary policy.",
-        "de": "Die US-Wirtschaft verlangsamte sich im zweiten Quartal auf eine Wachstumsrate von 1,5 %, während die Kerninflation im Juni bei 3,3 % lag. Diese Daten könnten die Geldpolitik der Federal Reserve beeinflussen."
+        "zh": "美国经济在第二季度的增长率降至1.5%，主要是由于联邦政府支出和库存的下降，这一数据低于预期。",
+        "en": "The U.S. economy's growth rate slowed to 1.5% in the second quarter, primarily due to a decline in federal government spending and inventories, falling short of expectations.",
+        "de": "Die Wachstumsrate der US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5%, was hauptsächlich auf einen Rückgang der Ausgaben der Bundesregierung und der Bestände zurückzuführen ist und die Erwartungen nicht erfüllt."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-30",
       "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "S&P 500利润增长因亚马逊的影响而变得更加剧烈",
+        "en": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
+        "de": "Das Gewinnwachstum des S&P 500 wird noch wilder, da Amazon seine Spuren hinterlässt"
+      },
+      "summary": {
+        "zh": "亚马逊的强劲业绩推动了S&P 500的利润增长，显示出大型科技公司在市场中的持续影响力。",
+        "en": "Amazon's strong performance has driven profit growth for the S&P 500, showcasing the continued influence of large tech companies in the market.",
+        "de": "Die starke Leistung von Amazon hat das Gewinnwachstum des S&P 500 vorangetrieben und zeigt den anhaltenden Einfluss großer Technologieunternehmen auf den Markt."
+      },
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-02",
+      "url": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories"
     }
   ]
 }
