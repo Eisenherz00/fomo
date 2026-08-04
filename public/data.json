@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-08-03T18:13:37.640187+00:00",
+  "generatedAt": "2026-08-04T07:15:29.817269+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：奖励黑客解释和怀疑的伊朗网络攻击",
-        "en": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-        "de": "Der Download: Belohnungshacking erklärt und verdächtige iranische Cyberangriffe"
+        "zh": "特朗普的人工智能保护主义已影响机器人技术",
+        "en": "Trump’s AI protectionism has come for robotics",
+        "de": "Trumps KI-Protektionismus hat die Robotik erreicht"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于奖励黑客行为的解释以及对伊朗网络攻击的怀疑。文章讨论了技术领域的最新动态。",
-        "en": "Today's edition of The Download provides an explanation of reward hacking and suspicions surrounding Iranian cyberattacks. The article discusses the latest developments in the tech field.",
-        "de": "Die heutige Ausgabe des Downloads bietet eine Erklärung des Belohnungshackings und Verdachts hinsichtlich iranischer Cyberangriffe. Der Artikel behandelt die neuesten Entwicklungen im Technologiebereich."
+        "zh": "特朗普政府的人工智能保护主义政策正在影响机器人技术的发展，可能会对行业产生深远影响。",
+        "en": "Trump's AI protectionism policies are impacting the development of robotics, potentially having far-reaching effects on the industry.",
+        "de": "Trumps KI-Protektionismus-Politik hat Auswirkungen auf die Entwicklung der Robotik und könnte weitreichende Folgen für die Branche haben."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-08-03",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "下载：奖励黑客攻击的解释和怀疑的伊朗网络攻击",
+        "en": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+        "de": "Der Download: Belohnungs-Hacking erklärt und verdächtige iranische Cyberangriffe"
+      },
+      "summary": {
+        "zh": "本期下载介绍了奖励黑客攻击的机制以及对伊朗网络攻击的怀疑，揭示了技术领域的最新动态。",
+        "en": "This edition of The Download explains the mechanics of reward hacking and the suspicions surrounding Iranian cyberattacks, revealing the latest developments in the tech sector.",
+        "de": "Diese Ausgabe des Downloads erklärt die Mechanismen des Belohnungs-Hackings und die Verdachtsmomente rund um iranische Cyberangriffe und zeigt die neuesten Entwicklungen im Technologiesektor auf."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-03",
       "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "这就是为什么AI代理会撒谎和作弊以达到目标",
+        "zh": "为什么人工智能代理会撒谎和作弊以达到目标",
         "en": "Here’s why AI agents lie and cheat to reach their goals",
         "de": "Hier ist der Grund, warum KI-Agenten lügen und betrügen, um ihre Ziele zu erreichen"
       },
       "summary": {
-        "zh": "本文探讨了AI代理在追求目标时为何会选择撒谎和作弊的原因。它揭示了技术背后的复杂性。",
-        "en": "This article explores the reasons why AI agents choose to lie and cheat in pursuit of their goals. It reveals the complexities behind the technology.",
-        "de": "Dieser Artikel untersucht die Gründe, warum KI-Agenten in der Verfolgung ihrer Ziele lügen und betrügen. Er zeigt die Komplexität hinter der Technologie auf."
+        "zh": "研究表明，人工智能代理可能会通过撒谎和作弊来实现其目标，这引发了对其伦理和安全性的担忧。",
+        "en": "Research indicates that AI agents may lie and cheat to achieve their goals, raising concerns about their ethics and safety.",
+        "de": "Forschungen zeigen, dass KI-Agenten lügen und betrügen können, um ihre Ziele zu erreichen, was Bedenken hinsichtlich ihrer Ethik und Sicherheit aufwirft."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-03",
       "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "LLM的基本缺陷使其极易受到攻击",
-        "en": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-        "de": "Ein grundlegender Fehler macht LLMs auffällig anfällig für Angriffe"
-      },
-      "summary": {
-        "zh": "研究人员指出，由于LLM的工作方式存在基本缺陷，完全保护其免受攻击是不可能的。文章讨论了这一发现的影响。",
-        "en": "Researchers argue that it is impossible to fully secure LLMs against attacks due to a fundamental flaw in how they operate. The article discusses the implications of this finding.",
-        "de": "Forscher argumentieren, dass es unmöglich ist, LLMs aufgrund eines grundlegenden Fehlers in ihrer Funktionsweise vollständig gegen Angriffe abzusichern. Der Artikel erörtert die Auswirkungen dieser Erkenntnis."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-07-30",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "共和党表示，他们将在美国司法部命令后支持布兰奇",
-        "en": "Republicans say they will back Blanche after US Justice Department order",
-        "de": "Republikaner sagen, dass sie Blanche nach Anordnung des US-Justizministeriums unterstützen werden"
+        "zh": "巴勒斯坦每周：以色列在哈马斯解除武装协议后在加沙杀死数十人",
+        "en": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+        "de": "Palästina wöchentlich: Israel tötet Dutzende in Gaza nach Hamas-Entwaffnungsabkommen"
       },
       "summary": {
-        "zh": "两位共和党参议员表示，在取消争议的18亿美元基金的命令后，他们将结束反对。此举可能会影响未来的立法。",
-        "en": "Two Republican senators have stated that they will end their opposition after an order cancelling a controversial $1.8 billion fund. This move could impact future legislation.",
-        "de": "Zwei republikanische Senatoren haben erklärt, dass sie ihre Opposition nach einer Anordnung zur Streichung eines umstrittenen Fonds in Höhe von 1,8 Milliarden US-Dollar beenden werden. Dieser Schritt könnte zukünftige Gesetzgebungen beeinflussen."
+        "zh": "在美国调解的协议之后，以色列对加沙的空袭加剧，造成数十人死亡，局势愈发紧张。",
+        "en": "Following a US-brokered agreement, Israeli airstrikes on Gaza intensified, resulting in dozens of deaths and escalating tensions.",
+        "de": "Nach einem von den USA vermittelten Abkommen haben sich die israelischen Luftangriffe auf Gaza intensiviert, was zu Dutzenden von Toten und steigenden Spannungen führte."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-03",
-      "url": "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss"
+      "date": "2026-08-04",
+      "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普抨击“虚伪”的伊朗，德黑兰否认与美国谈判",
-        "en": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
-        "de": "Trump kritisiert 'doppeldeutiges' Iran, nachdem Teheran bestreitet, dass es Gespräche mit den USA führt"
+        "zh": "哥伦比亚的佩特罗在移交权力前重申选举舞弊指控",
+        "en": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+        "de": "Kolumbiens Petro wiederholt Wahlbetrugsanschuldigungen Tage vor der Machtübergabe"
       },
       "summary": {
-        "zh": "特朗普在德黑兰否认与美国进行谈判后，要求“全面投降”。此言论加剧了霍尔木兹海峡的紧张局势。",
-        "en": "Trump demanded 'Total Surrender' after Tehran denied it was in talks with the US. This statement escalates tensions in the crucial Strait of Hormuz.",
-        "de": "Trump forderte 'vollständige Kapitulation', nachdem Teheran bestritten hatte, Gespräche mit den USA zu führen. Diese Aussage eskaliert die Spannungen in der entscheidenden Straße von Hormus."
+        "zh": "佩特罗在即将移交权力之际重申对选举舞弊的指控，称程序员篡改了投票结果。",
+        "en": "Petro reiterated claims of election fraud just days before handing over power, alleging that programmers altered vote counts.",
+        "de": "Petro wiederholte kurz vor der Machtübergabe seine Anschuldigungen wegen Wahlbetrugs und behauptete, Programmierer hätten die Stimmen gezählt."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-03",
-      "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss"
+      "date": "2026-08-04",
+      "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "新发现的以色列非法前哨基地出现在被占领的西岸",
-        "en": "New illegal Israeli outpost spotted in occupied West Bank",
-        "de": "Neue illegale israelische Siedlung im besetzten Westjordanland entdeckt"
+        "zh": "美国各州起诉阻止特朗普关税影响数十个国家",
+        "en": "US states sue to block Trump tariffs impacting dozens of countries",
+        "de": "US-Bundesstaaten verklagen, um Trumps Zölle zu blockieren, die Dutzende von Ländern betreffen"
       },
       "summary": {
-        "zh": "巴勒斯坦人称，定居者在阿拉布纳、德尔·加扎拉和法库阿附近建立了新的非法前哨基地。此举可能加剧地区紧张局势。",
-        "en": "Palestinians report that settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala, and Faqqua. This move could escalate tensions in the region.",
-        "de": "Palästinenser berichten, dass Siedler in der Nähe von Arabuna, Deir Ghazala und Faqqua eine neue illegale Siedlung errichten. Dieser Schritt könnte die Spannungen in der Region verschärfen."
+        "zh": "多个美国州对特朗普的关税政策提起诉讼，声称这些关税影响了数十个国家的贸易关系。",
+        "en": "Several US states have filed lawsuits against Trump's tariff policies, claiming these tariffs affect trade relations with dozens of countries.",
+        "de": "Mehrere US-Bundesstaaten haben Klage gegen Trumps Zollpolitik erhoben und behaupten, dass diese Zölle die Handelsbeziehungen mit Dutzenden von Ländern beeinträchtigen."
       },
-      "source": "Al Jazeera",
-      "date": "2026-08-03",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-08-04",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "制造业调查显示通胀担忧“比疫情时期更糟”，加大了美联储的压力",
+        "zh": "制造业调查显示通胀担忧“比疫情时期更严重”，增加了美联储的压力",
         "en": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-        "de": "Umfrage zur Fertigung zeigt, dass Inflationssorgen 'schlimmer als in der Pandemiezeit' sind und den Druck auf die Fed erhöhen"
+        "de": "Umfrage zur Fertigung zeigt, dass Inflationssorgen 'schlimmer als in der Pandemiezeit' sind, was den Druck auf die Fed erhöht"
       },
       "summary": {
-        "zh": "制造业调查显示，通胀担忧程度超过疫情时期，这增加了美联储的压力。经济环境的高度波动使采购经理面临挑战。",
-        "en": "The manufacturing survey indicates that inflation worries are worse than during the pandemic era, increasing pressure on the Fed. The highly volatile economic environment poses challenges for purchasing managers.",
-        "de": "Die Umfrage zur Fertigung zeigt, dass die Inflationssorgen schlimmer sind als in der Pandemiezeit, was den Druck auf die Fed erhöht. Das hochvolatile wirtschaftliche Umfeld stellt eine Herausforderung für die Einkaufsleiter dar."
+        "zh": "最新的制造业调查显示，通胀担忧比疫情期间更为严重，这加大了美联储的政策压力。",
+        "en": "The latest manufacturing survey indicates that inflation worries are more severe than during the pandemic era, increasing pressure on the Fed.",
+        "de": "Die neueste Umfrage zur Fertigung zeigt, dass die Inflationssorgen schwerwiegender sind als in der Pandemiezeit, was den Druck auf die Fed erhöht."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-03",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国7月工厂活动意外收缩，需求下滑和台风影响",
+        "zh": "中国7月工厂活动意外收缩，因需求下降和台风影响",
         "en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-        "de": "Chinas Fabrikaktivität schrumpft im Juli unerwartet aufgrund von Nachfragerückgang und Taifunen"
+        "de": "Chinas Fabrikaktivität schrumpft im Juli unerwartet aufgrund eines Nachfragerückgangs und Taifunen"
       },
       "summary": {
-        "zh": "中国的工厂活动在7月意外收缩，原因是出口激增的势头减弱。经济复苏面临挑战。",
-        "en": "China's factory activity unexpectedly contracted in July due to a slump in demand and the impact of typhoons. The economic recovery faces challenges.",
-        "de": "Chinas Fabrikaktivität schrumpfte im Juli unerwartet aufgrund eines Nachfragerückgangs und der Auswirkungen von Taifunen. Die wirtschaftliche Erholung steht vor Herausforderungen."
+        "zh": "由于需求下降和台风影响，中国的工厂活动在7月意外收缩，显示出经济复苏的脆弱性。",
+        "en": "Due to a slump in demand and the impact of typhoons, China's factory activity unexpectedly contracted in July, highlighting the fragility of the economic recovery.",
+        "de": "Aufgrund eines Nachfragerückgangs und der Auswirkungen von Taifunen schrumpfte Chinas Fabrikaktivität im Juli unerwartet und verdeutlicht die Fragilität der wirtschaftlichen Erholung."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-31",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美国经济在第二季度增长率放缓至1.5%；6月核心通胀为3.3%",
-        "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 % Wachstumsrate; Kerninflation im Juni bei 3,3 %"
+        "zh": "微软的股票经历26年来未见的上涨，消除了年初以来的损失",
+        "en": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
+        "de": "Die Aktie von Microsoft erlebt einen Anstieg, wie seit 26 Jahren nicht mehr — und tilgt ihre Verluste seit Jahresbeginn"
       },
       "summary": {
-        "zh": "美国经济在第二季度的增长率降至1.5%，而6月核心通胀率为3.3%。这一数据低于预期，反映出政府支出和库存的下降。",
-        "en": "The U.S. economy slowed to a 1.5% growth rate in Q2, with June core inflation at 3.3%. This data fell short of expectations, reflecting a decline in federal government spending and inventories.",
-        "de": "Die US-Wirtschaft verlangsamte sich im zweiten Quartal auf eine Wachstumsrate von 1,5 %, während die Kerninflation im Juni bei 3,3 % lag. Diese Daten lagen unter den Erwartungen und spiegeln einen Rückgang der Bundesausgaben und Bestände wider."
+        "zh": "微软的股票在市场上经历了26年来的最大涨幅，成功消除了年初以来的损失，显示出强劲的市场表现。",
+        "en": "Microsoft's stock has experienced its largest increase in 26 years, successfully erasing year-to-date losses and demonstrating strong market performance.",
+        "de": "Die Microsoft-Aktie verzeichnete den größten Anstieg seit 26 Jahren, wodurch die Verluste seit Jahresbeginn erfolgreich getilgt wurden und eine starke Marktleistung gezeigt wird."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-30",
-      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-03",
+      "url": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories"
     }
   ]
 }
