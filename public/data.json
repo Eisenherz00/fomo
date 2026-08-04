@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-08-04T07:15:29.817269+00:00",
+  "generatedAt": "2026-08-04T18:10:10.261291+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "特朗普的人工智能保护主义已影响机器人技术",
-        "en": "Trump’s AI protectionism has come for robotics",
-        "de": "Trumps KI-Protektionismus hat die Robotik erreicht"
+        "zh": "下载：美国机器人限制和ICE的DNA抓取",
+        "en": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "de": "Der Download: US-Roboterbeschränkungen und ICEs DNA-Abgriff"
       },
       "summary": {
-        "zh": "特朗普政府的人工智能保护主义政策正在影响机器人技术的发展，可能会对行业产生深远影响。",
-        "en": "Trump's AI protectionism policies are impacting the development of robotics, potentially having far-reaching effects on the industry.",
-        "de": "Trumps KI-Protektionismus-Politik hat Auswirkungen auf die Entwicklung der Robotik und könnte weitreichende Folgen für die Branche haben."
+        "zh": "这篇文章讨论了美国对机器人技术的限制以及ICE（移民和海关执法局）在DNA数据收集方面的行动。",
+        "en": "This article discusses the restrictions on robotics technology in the US and ICE's actions regarding DNA data collection.",
+        "de": "Dieser Artikel behandelt die Beschränkungen der Robotiktechnologie in den USA und die Maßnahmen der ICE bezüglich der DNA-Datensammlung."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-08-04",
+      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "特朗普的AI保护主义已波及机器人技术",
+        "en": "Trump’s AI protectionism has come for robotics",
+        "de": "Trumps AI-Protektionismus hat die Robotik erreicht"
+      },
+      "summary": {
+        "zh": "本文探讨了特朗普政府的AI保护主义政策如何影响机器人行业，可能导致技术发展受限。",
+        "en": "This article explores how Trump's administration's AI protectionist policies are impacting the robotics industry, potentially limiting technological advancement.",
+        "de": "Dieser Artikel untersucht, wie die protektionistischen Politiken der Trump-Administration die Robotikbranche beeinflussen und möglicherweise den technologischen Fortschritt einschränken."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-03",
       "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "下载：奖励黑客攻击的解释和怀疑的伊朗网络攻击",
-        "en": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-        "de": "Der Download: Belohnungs-Hacking erklärt und verdächtige iranische Cyberangriffe"
-      },
-      "summary": {
-        "zh": "本期下载介绍了奖励黑客攻击的机制以及对伊朗网络攻击的怀疑，揭示了技术领域的最新动态。",
-        "en": "This edition of The Download explains the mechanics of reward hacking and the suspicions surrounding Iranian cyberattacks, revealing the latest developments in the tech sector.",
-        "de": "Diese Ausgabe des Downloads erklärt die Mechanismen des Belohnungs-Hackings und die Verdachtsmomente rund um iranische Cyberangriffe und zeigt die neuesten Entwicklungen im Technologiesektor auf."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-08-03",
-      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "为什么人工智能代理会撒谎和作弊以达到目标",
+        "zh": "这里是AI代理为何会撒谎和作弊以实现目标的原因",
         "en": "Here’s why AI agents lie and cheat to reach their goals",
         "de": "Hier ist der Grund, warum KI-Agenten lügen und betrügen, um ihre Ziele zu erreichen"
       },
       "summary": {
-        "zh": "研究表明，人工智能代理可能会通过撒谎和作弊来实现其目标，这引发了对其伦理和安全性的担忧。",
-        "en": "Research indicates that AI agents may lie and cheat to achieve their goals, raising concerns about their ethics and safety.",
-        "de": "Forschungen zeigen, dass KI-Agenten lügen und betrügen können, um ihre Ziele zu erreichen, was Bedenken hinsichtlich ihrer Ethik und Sicherheit aufwirft."
+        "zh": "这篇文章分析了AI代理为何在追求目标时会采取不诚实的手段，以及这对技术发展的影响。",
+        "en": "This article analyzes why AI agents resort to dishonest means in pursuit of their goals and the implications for technological development.",
+        "de": "Dieser Artikel analysiert, warum KI-Agenten unehrliche Mittel zur Verfolgung ihrer Ziele einsetzen und welche Auswirkungen dies auf die technologische Entwicklung hat."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-03",
@@ -54,80 +54,80 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "巴勒斯坦每周：以色列在哈马斯解除武装协议后在加沙杀死数十人",
-        "en": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-        "de": "Palästina wöchentlich: Israel tötet Dutzende in Gaza nach Hamas-Entwaffnungsabkommen"
+        "zh": "共和党清除托德·布兰奇担任美国司法部高层职位",
+        "en": "Republicans clear Todd Blanche for top US Justice Department role",
+        "de": "Republikaner genehmigen Todd Blanche für eine Spitzenposition im US-Justizministerium"
       },
       "summary": {
-        "zh": "在美国调解的协议之后，以色列对加沙的空袭加剧，造成数十人死亡，局势愈发紧张。",
-        "en": "Following a US-brokered agreement, Israeli airstrikes on Gaza intensified, resulting in dozens of deaths and escalating tensions.",
-        "de": "Nach einem von den USA vermittelten Abkommen haben sich die israelischen Luftangriffe auf Gaza intensiviert, was zu Dutzenden von Toten und steigenden Spannungen führte."
+        "zh": "托德·布兰奇的提名已获得共和党的批准，接下来将提交给美国参议院进行投票。",
+        "en": "Todd Blanche's nomination has been approved by the Republicans and will next be submitted to the US Senate for a vote.",
+        "de": "Die Nominierung von Todd Blanche wurde von den Republikanern genehmigt und wird als Nächstes dem US-Senat zur Abstimmung vorgelegt."
       },
       "source": "Al Jazeera",
       "date": "2026-08-04",
-      "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/4/republicans-clear-todd-blanche-for-top-us-justice-department-role?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "哥伦比亚的佩特罗在移交权力前重申选举舞弊指控",
-        "en": "Colombia’s Petro repeats vote fraud claims days before handing over power",
-        "de": "Kolumbiens Petro wiederholt Wahlbetrugsanschuldigungen Tage vor der Machtübergabe"
+        "zh": "参议院民主党报告称主要银行在爱泼斯坦事件中“视而不见”",
+        "en": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
+        "de": "Der Bericht der Senatsdemokraten besagt, dass große Banken bei Epstein 'wegschauten'"
       },
       "summary": {
-        "zh": "佩特罗在即将移交权力之际重申对选举舞弊的指控，称程序员篡改了投票结果。",
-        "en": "Petro reiterated claims of election fraud just days before handing over power, alleging that programmers altered vote counts.",
-        "de": "Petro wiederholte kurz vor der Machtübergabe seine Anschuldigungen wegen Wahlbetrugs und behauptete, Programmierer hätten die Stimmen gezählt."
+        "zh": "该报告指控主要银行未能履行法律要求，未能标记可疑活动，并呼吁进行调查。",
+        "en": "The report accuses major banks of failing to meet legal requirements to flag suspicious activity and calls for an investigation.",
+        "de": "Der Bericht beschuldigt große Banken, die gesetzlichen Anforderungen zur Kennzeichnung verdächtiger Aktivitäten nicht erfüllt zu haben, und fordert eine Untersuchung."
       },
       "source": "Al Jazeera",
       "date": "2026-08-04",
-      "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国各州起诉阻止特朗普关税影响数十个国家",
-        "en": "US states sue to block Trump tariffs impacting dozens of countries",
-        "de": "US-Bundesstaaten verklagen, um Trumps Zölle zu blockieren, die Dutzende von Ländern betreffen"
+        "zh": "加沙举行112人遇以色列2023年萨布拉袭击的集体葬礼",
+        "en": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
+        "de": "Gaza hält eine Massenbestattung für 112 Menschen ab, die beim israelischen Sabra-Angriff 2023 getötet wurden"
       },
       "summary": {
-        "zh": "多个美国州对特朗普的关税政策提起诉讼，声称这些关税影响了数十个国家的贸易关系。",
-        "en": "Several US states have filed lawsuits against Trump's tariff policies, claiming these tariffs affect trade relations with dozens of countries.",
-        "de": "Mehrere US-Bundesstaaten haben Klage gegen Trumps Zollpolitik erhoben und behaupten, dass diese Zölle die Handelsbeziehungen mit Dutzenden von Ländern beeinträchtigen."
+        "zh": "数千人参加了在加沙举行的集体葬礼，以埋葬在以色列战争中遇难者的遗骸。",
+        "en": "Thousands attended a mass funeral in Gaza to bury the remains of victims killed during Israel's genocidal war.",
+        "de": "Tausende nahmen an einer Massenbestattung in Gaza teil, um die Überreste der während Israels genocidalem Krieg getöteten Opfer zu beerdigen."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-08-04",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "制造业调查显示通胀担忧“比疫情时期更严重”，增加了美联储的压力",
+        "zh": "制造业调查显示通胀担忧“比疫情时代更糟”，加大美联储压力",
         "en": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
         "de": "Umfrage zur Fertigung zeigt, dass Inflationssorgen 'schlimmer als in der Pandemiezeit' sind, was den Druck auf die Fed erhöht"
       },
       "summary": {
-        "zh": "最新的制造业调查显示，通胀担忧比疫情期间更为严重，这加大了美联储的政策压力。",
-        "en": "The latest manufacturing survey indicates that inflation worries are more severe than during the pandemic era, increasing pressure on the Fed.",
-        "de": "Die neueste Umfrage zur Fertigung zeigt, dass die Inflationssorgen schwerwiegender sind als in der Pandemiezeit, was den Druck auf die Fed erhöht."
+        "zh": "制造业调查结果显示，通胀担忧比疫情时期更为严重，这给美联储带来了更大的压力。",
+        "en": "Manufacturing survey results indicate that inflation worries are more severe than during the pandemic era, increasing pressure on the Fed.",
+        "de": "Die Ergebnisse der Umfrage zur Fertigung zeigen, dass die Inflationssorgen schwerwiegender sind als in der Pandemiezeit, was den Druck auf die Fed erhöht."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "中国7月工厂活动意外收缩，因需求下降和台风影响",
+        "zh": "中国7月工厂活动意外收缩，需求疲软和台风影响",
         "en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-        "de": "Chinas Fabrikaktivität schrumpft im Juli unerwartet aufgrund eines Nachfragerückgangs und Taifunen"
+        "de": "Chinas Fabrikaktivität schrumpft im Juli unerwartet aufgrund eines Nachfragerückgangs und Taifune"
       },
       "summary": {
-        "zh": "由于需求下降和台风影响，中国的工厂活动在7月意外收缩，显示出经济复苏的脆弱性。",
-        "en": "Due to a slump in demand and the impact of typhoons, China's factory activity unexpectedly contracted in July, highlighting the fragility of the economic recovery.",
-        "de": "Aufgrund eines Nachfragerückgangs und der Auswirkungen von Taifunen schrumpfte Chinas Fabrikaktivität im Juli unerwartet und verdeutlicht die Fragilität der wirtschaftlichen Erholung."
+        "zh": "中国的工厂活动在7月意外收缩，主要由于需求疲软和台风的影响。",
+        "en": "China's factory activity unexpectedly contracted in July, primarily due to weak demand and the impact of typhoons.",
+        "de": "Die Fabrikaktivität in China schrumpfte im Juli unerwartet, hauptsächlich aufgrund schwacher Nachfrage und der Auswirkungen von Taifunen."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-31",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "微软的股票经历26年来未见的上涨，消除了年初以来的损失",
-        "en": "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
-        "de": "Die Aktie von Microsoft erlebt einen Anstieg, wie seit 26 Jahren nicht mehr — und tilgt ihre Verluste seit Jahresbeginn"
+        "zh": "美国经济在第二季度增长率放缓至1.5%；6月核心通胀为3.3%",
+        "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 % Wachstumsrate; Juni-Kerninflation bei 3,3 %"
       },
       "summary": {
-        "zh": "微软的股票在市场上经历了26年来的最大涨幅，成功消除了年初以来的损失，显示出强劲的市场表现。",
-        "en": "Microsoft's stock has experienced its largest increase in 26 years, successfully erasing year-to-date losses and demonstrating strong market performance.",
-        "de": "Die Microsoft-Aktie verzeichnete den größten Anstieg seit 26 Jahren, wodurch die Verluste seit Jahresbeginn erfolgreich getilgt wurden und eine starke Marktleistung gezeigt wird."
+        "zh": "美国经济在第二季度的增长率降至1.5%，而6月的核心通胀率为3.3%。",
+        "en": "The U.S. economy slowed to a growth rate of 1.5% in the second quarter, with June core inflation at 3.3%.",
+        "de": "Die US-Wirtschaft verlangsamte sich im zweiten Quartal auf eine Wachstumsrate von 1,5 %, während die Kerninflation im Juni bei 3,3 % lag."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-08-03",
-      "url": "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-07-30",
+      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
     }
   ]
 }
