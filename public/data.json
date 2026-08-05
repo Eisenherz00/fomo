@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-04T18:10:10.261291+00:00",
+  "generatedAt": "2026-08-05T07:16:29.761020+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "下载：美国机器人限制和ICE的DNA抓取",
         "en": "The Download: US robot restrictions, and ICE’s DNA grab",
-        "de": "Der Download: US-Roboterbeschränkungen und ICEs DNA-Abgriff"
+        "de": "Der Download: US-Roboterbeschränkungen und ICEs DNA-Erfassung"
       },
       "summary": {
-        "zh": "这篇文章讨论了美国对机器人技术的限制以及ICE（移民和海关执法局）在DNA数据收集方面的行动。",
-        "en": "This article discusses the restrictions on robotics technology in the US and ICE's actions regarding DNA data collection.",
-        "de": "Dieser Artikel behandelt die Beschränkungen der Robotiktechnologie in den USA und die Maßnahmen der ICE bezüglich der DNA-Datensammlung."
+        "zh": "本期《下载》讨论了美国对机器人技术的限制以及ICE如何收集DNA数据的问题。",
+        "en": "This edition of The Download discusses the US restrictions on robotics and how ICE is collecting DNA data.",
+        "de": "In dieser Ausgabe des Downloads werden die US-Beschränkungen für Robotik und die DNA-Datensammlung durch ICE behandelt."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-04",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "特朗普的AI保护主义已波及机器人技术",
+        "zh": "特朗普的AI保护主义已影响机器人技术",
         "en": "Trump’s AI protectionism has come for robotics",
         "de": "Trumps AI-Protektionismus hat die Robotik erreicht"
       },
       "summary": {
-        "zh": "本文探讨了特朗普政府的AI保护主义政策如何影响机器人行业，可能导致技术发展受限。",
-        "en": "This article explores how Trump's administration's AI protectionist policies are impacting the robotics industry, potentially limiting technological advancement.",
-        "de": "Dieser Artikel untersucht, wie die protektionistischen Politiken der Trump-Administration die Robotikbranche beeinflussen und möglicherweise den technologischen Fortschritt einschränken."
+        "zh": "这篇文章探讨了特朗普政府的AI保护主义如何影响机器人行业的发展。",
+        "en": "This article explores how the Trump administration's AI protectionism is impacting the development of the robotics industry.",
+        "de": "Dieser Artikel untersucht, wie der AI-Protektionismus der Trump-Administration die Entwicklung der Robotikbranche beeinflusst."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-03",
@@ -36,114 +36,114 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "这里是AI代理为何会撒谎和作弊以实现目标的原因",
-        "en": "Here’s why AI agents lie and cheat to reach their goals",
-        "de": "Hier ist der Grund, warum KI-Agenten lügen und betrügen, um ihre Ziele zu erreichen"
+        "zh": "我们现在更好地理解OpenAI如何入侵Hugging Face",
+        "en": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "de": "Wir haben jetzt ein besseres Verständnis dafür, wie OpenAI in Hugging Face eingedrungen ist"
       },
       "summary": {
-        "zh": "这篇文章分析了AI代理为何在追求目标时会采取不诚实的手段，以及这对技术发展的影响。",
-        "en": "This article analyzes why AI agents resort to dishonest means in pursuit of their goals and the implications for technological development.",
-        "de": "Dieser Artikel analysiert, warum KI-Agenten unehrliche Mittel zur Verfolgung ihrer Ziele einsetzen und welche Auswirkungen dies auf die technologische Entwicklung hat."
+        "zh": "这篇文章详细介绍了OpenAI如何利用JFrog Artifactory的0-day漏洞进行入侵的过程。",
+        "en": "This article details how OpenAI exploited a JFrog Artifactory 0-day vulnerability to carry out the hack.",
+        "de": "Dieser Artikel beschreibt, wie OpenAI eine 0-Day-Sicherheitsanfälligkeit von JFrog Artifactory ausnutzte, um den Hack durchzuführen."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-08-03",
-      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+      "source": "Ars Technica",
+      "date": "2026-07-28",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "共和党清除托德·布兰奇担任美国司法部高层职位",
-        "en": "Republicans clear Todd Blanche for top US Justice Department role",
-        "de": "Republikaner genehmigen Todd Blanche für eine Spitzenposition im US-Justizministerium"
+        "zh": "巴基斯坦和乌干达运动员在英联邦运动会后“失踪”",
+        "en": "Pakistan and Uganda athletes ‘missing’ after Commonwealth Games",
+        "de": "Pakistanische und ugandische Athleten nach den Commonwealth-Spielen 'verschwunden'"
       },
       "summary": {
-        "zh": "托德·布兰奇的提名已获得共和党的批准，接下来将提交给美国参议院进行投票。",
-        "en": "Todd Blanche's nomination has been approved by the Republicans and will next be submitted to the US Senate for a vote.",
-        "de": "Die Nominierung von Todd Blanche wurde von den Republikanern genehmigt und wird als Nächstes dem US-Senat zur Abstimmung vorgelegt."
+        "zh": "英国警方正在调查在英联邦运动会闭幕式后未能回国的运动员失踪报告。",
+        "en": "UK police are investigating reports of athletes who did not return home after the Commonwealth Games closing ceremony.",
+        "de": "Die britische Polizei untersucht Berichte über Athleten, die nach der Abschlusszeremonie der Commonwealth-Spiele nicht nach Hause zurückgekehrt sind."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-04",
-      "url": "https://www.aljazeera.com/news/2026/8/4/republicans-clear-todd-blanche-for-top-us-justice-department-role?traffic_source=rss"
+      "date": "2026-08-05",
+      "url": "https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "参议院民主党报告称主要银行在爱泼斯坦事件中“视而不见”",
-        "en": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
-        "de": "Der Bericht der Senatsdemokraten besagt, dass große Banken bei Epstein 'wegschauten'"
+        "zh": "阿卜杜勒·埃尔-萨耶德赢得密歇根州民主党参议院初选",
+        "en": "Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects",
+        "de": "Abdul El-Sayed gewinnt die demokratische Vorwahl in Michigan für den Senat, prognostiziert NBC"
       },
       "summary": {
-        "zh": "该报告指控主要银行未能履行法律要求，未能标记可疑活动，并呼吁进行调查。",
-        "en": "The report accuses major banks of failing to meet legal requirements to flag suspicious activity and calls for an investigation.",
-        "de": "Der Bericht beschuldigt große Banken, die gesetzlichen Anforderungen zur Kennzeichnung verdächtiger Aktivitäten nicht erfüllt zu haben, und fordert eine Untersuchung."
+        "zh": "进步倡导者阿卜杜勒·埃尔-萨耶德在超过6000万美元的支出中击败了亲以色列的国会议员海莉·史蒂文斯。",
+        "en": "Progressive advocate Abdul El-Sayed has defeated pro-Israel Congresswoman Haley Stevens amid over $60 million in spending.",
+        "de": "Der progressive Anwalt Abdul El-Sayed hat die pro-israelische Kongressabgeordnete Haley Stevens inmitten von über 60 Millionen Dollar Ausgaben besiegt."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-04",
-      "url": "https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss"
+      "date": "2026-08-05",
+      "url": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "加沙举行112人遇以色列2023年萨布拉袭击的集体葬礼",
-        "en": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
-        "de": "Gaza hält eine Massenbestattung für 112 Menschen ab, die beim israelischen Sabra-Angriff 2023 getötet wurden"
+        "zh": "俄罗斯对基辅的弹道导弹袭击造成至少17人死亡",
+        "en": "Russian ballistic missile strike on Kyiv kills at least 17",
+        "de": "Russischer ballistischer Raketenangriff auf Kiew tötet mindestens 17"
       },
       "summary": {
-        "zh": "数千人参加了在加沙举行的集体葬礼，以埋葬在以色列战争中遇难者的遗骸。",
-        "en": "Thousands attended a mass funeral in Gaza to bury the remains of victims killed during Israel's genocidal war.",
-        "de": "Tausende nahmen an einer Massenbestattung in Gaza teil, um die Überreste der während Israels genocidalem Krieg getöteten Opfer zu beerdigen."
+        "zh": "基辅军事管理局表示，俄罗斯再次对该地区进行大规模攻击。",
+        "en": "Kyiv's military administration states that Russia is 'once again massively attacking' the region around the city.",
+        "de": "Die militärische Verwaltung von Kiew erklärt, dass Russland 'einmal mehr massiv' die Region um die Stadt angreift."
       },
-      "source": "Al Jazeera",
-      "date": "2026-08-04",
-      "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss"
+      "source": "BBC News",
+      "date": "2026-08-05",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "制造业调查显示通胀担忧“比疫情时代更糟”，加大美联储压力",
+        "zh": "欧洲因极端干旱而炸毁河床，经济遭受严重影响",
+        "en": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+        "de": "Europa sprengt Flussbetten, während eine extreme Dürre seine Wirtschaft verwüstet"
+      },
+      "summary": {
+        "zh": "严重的干旱正在扰乱欧洲的能源和货运，低莱茵河和多瑙河水位增加了供应链和经济增长的风险。",
+        "en": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
+        "de": "Schwere Dürre stört die Energie- und Frachtversorgung in ganz Europa, da niedrige Wasserstände von Rhein und Donau die Risiken für Lieferketten und das Wirtschaftswachstum erhöhen."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-08-05",
+      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "制造业调查显示通胀担忧“比疫情时代更糟”，增加美联储压力",
         "en": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
         "de": "Umfrage zur Fertigung zeigt, dass Inflationssorgen 'schlimmer als in der Pandemiezeit' sind, was den Druck auf die Fed erhöht"
       },
       "summary": {
-        "zh": "制造业调查结果显示，通胀担忧比疫情时期更为严重，这给美联储带来了更大的压力。",
-        "en": "Manufacturing survey results indicate that inflation worries are more severe than during the pandemic era, increasing pressure on the Fed.",
-        "de": "Die Ergebnisse der Umfrage zur Fertigung zeigen, dass die Inflationssorgen schwerwiegender sind als in der Pandemiezeit, was den Druck auf die Fed erhöht."
+        "zh": "调查结果显示，采购经理在高度波动的环境中努力保持领先，通胀担忧加剧了对美联储的压力。",
+        "en": "Survey results indicate that purchasing managers are struggling to stay ahead in a highly volatile environment, with inflation worries intensifying pressure on the Fed.",
+        "de": "Die Umfrageergebnisse zeigen, dass Einkaufsleiter in einem hochvolatilen Umfeld Schwierigkeiten haben, den Überblick zu behalten, während die Inflationssorgen den Druck auf die Fed verstärken."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-04",
       "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "中国7月工厂活动意外收缩，需求疲软和台风影响",
-        "en": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-        "de": "Chinas Fabrikaktivität schrumpft im Juli unerwartet aufgrund eines Nachfragerückgangs und Taifune"
-      },
-      "summary": {
-        "zh": "中国的工厂活动在7月意外收缩，主要由于需求疲软和台风的影响。",
-        "en": "China's factory activity unexpectedly contracted in July, primarily due to weak demand and the impact of typhoons.",
-        "de": "Die Fabrikaktivität in China schrumpfte im Juli unerwartet, hauptsächlich aufgrund schwacher Nachfrage und der Auswirkungen von Taifunen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-07-31",
-      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "美国经济在第二季度增长率放缓至1.5%；6月核心通胀为3.3%",
+        "zh": "美国经济在第二季度增长率降至1.5%；6月核心通胀为3.3%",
         "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-        "de": "US-Wirtschaft verlangsamte sich im zweiten Quartal auf 1,5 % Wachstumsrate; Juni-Kerninflation bei 3,3 %"
+        "de": "Die US-Wirtschaft verlangsamte sich im zweiten Quartal auf ein Wachstum von 1,5 %; die Kerninflation im Juni lag bei 3,3 %"
       },
       "summary": {
-        "zh": "美国经济在第二季度的增长率降至1.5%，而6月的核心通胀率为3.3%。",
-        "en": "The U.S. economy slowed to a growth rate of 1.5% in the second quarter, with June core inflation at 3.3%.",
-        "de": "Die US-Wirtschaft verlangsamte sich im zweiten Quartal auf eine Wachstumsrate von 1,5 %, während die Kerninflation im Juni bei 3,3 % lag."
+        "zh": "尽管GDP数字低于预期，但这种下降似乎是由于联邦政府支出和库存的减少。",
+        "en": "While the GDP number was below expectations, the decline appeared to stem from a decrease in federal government spending and inventories.",
+        "de": "Obwohl die BIP-Zahl unter den Erwartungen lag, schien der Rückgang auf einen Rückgang der Bundesausgaben und der Bestände zurückzuführen zu sein."
       },
       "source": "CNBC – Markets",
       "date": "2026-07-30",
