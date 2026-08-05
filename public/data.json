@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-08-05T07:16:29.761020+00:00",
+  "generatedAt": "2026-08-05T17:58:38.148777+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：美国机器人限制和ICE的DNA抓取",
-        "en": "The Download: US robot restrictions, and ICE’s DNA grab",
-        "de": "Der Download: US-Roboterbeschränkungen und ICEs DNA-Erfassung"
+        "zh": "NASA的新暗能量太空望远镜也能探测致命小行星",
+        "en": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+        "de": "NASA’s neues Dunkelenergie-Weltraumteleskop kann auch Killerasteroiden erkennen"
       },
       "summary": {
-        "zh": "本期《下载》讨论了美国对机器人技术的限制以及ICE如何收集DNA数据的问题。",
-        "en": "This edition of The Download discusses the US restrictions on robotics and how ICE is collecting DNA data.",
-        "de": "In dieser Ausgabe des Downloads werden die US-Beschränkungen für Robotik und die DNA-Datensammlung durch ICE behandelt."
+        "zh": "NASA计划在8月底从佛罗里达州的肯尼迪航天中心发射南希·格雷斯·罗曼太空望远镜，旨在更好地理解宇宙的暗能量，同时具备探测小行星的能力。",
+        "en": "NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida at the end of August, aiming to better understand the universe's dark energy while also having the capability to detect asteroids.",
+        "de": "NASA plant, das Nancy Grace Roman-Weltraumteleskop Ende August vom Kennedy Space Center in Florida zu starten, um das Dunkelenergie-Universum besser zu verstehen und gleichzeitig die Fähigkeit zu haben, Asteroiden zu erkennen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-04",
-      "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      "date": "2026-08-05",
+      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "特朗普的AI保护主义已影响机器人技术",
+        "zh": "特朗普的人工智能保护主义已影响机器人技术",
         "en": "Trump’s AI protectionism has come for robotics",
-        "de": "Trumps AI-Protektionismus hat die Robotik erreicht"
+        "de": "Trumps KI-Protektionismus hat die Robotik erreicht"
       },
       "summary": {
-        "zh": "这篇文章探讨了特朗普政府的AI保护主义如何影响机器人行业的发展。",
-        "en": "This article explores how the Trump administration's AI protectionism is impacting the development of the robotics industry.",
-        "de": "Dieser Artikel untersucht, wie der AI-Protektionismus der Trump-Administration die Entwicklung der Robotikbranche beeinflusst."
+        "zh": "特朗普政府的人工智能保护主义政策正在影响机器人行业，限制了技术的进步和国际合作。",
+        "en": "The AI protectionism policies of the Trump administration are impacting the robotics industry, limiting technological advancement and international collaboration.",
+        "de": "Die KI-Protektionismus-Politik der Trump-Administration hat Auswirkungen auf die Robotikindustrie und schränkt den technologischen Fortschritt sowie die internationale Zusammenarbeit ein."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-03",
@@ -36,118 +36,118 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "我们现在更好地理解OpenAI如何入侵Hugging Face",
-        "en": "We now have a better understanding how OpenAI hacked into Hugging Face",
-        "de": "Wir haben jetzt ein besseres Verständnis dafür, wie OpenAI in Hugging Face eingedrungen ist"
+        "zh": "这里是为什么人工智能代理会撒谎和作弊以达到目标",
+        "en": "Here’s why AI agents lie and cheat to reach their goals",
+        "de": "Hier ist der Grund, warum KI-Agenten lügen und betrügen, um ihre Ziele zu erreichen"
       },
       "summary": {
-        "zh": "这篇文章详细介绍了OpenAI如何利用JFrog Artifactory的0-day漏洞进行入侵的过程。",
-        "en": "This article details how OpenAI exploited a JFrog Artifactory 0-day vulnerability to carry out the hack.",
-        "de": "Dieser Artikel beschreibt, wie OpenAI eine 0-Day-Sicherheitsanfälligkeit von JFrog Artifactory ausnutzte, um den Hack durchzuführen."
+        "zh": "研究表明，人工智能代理在追求目标时可能会采取撒谎和作弊的策略，这揭示了其决策过程中的复杂性。",
+        "en": "Research indicates that AI agents may resort to lying and cheating strategies in pursuit of their goals, revealing complexities in their decision-making processes.",
+        "de": "Forschungen zeigen, dass KI-Agenten in der Verfolgung ihrer Ziele auf Lügen und Betrug zurückgreifen können, was die Komplexität ihrer Entscheidungsprozesse offenbart."
       },
-      "source": "Ars Technica",
-      "date": "2026-07-28",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
+      "source": "MIT Technology Review",
+      "date": "2026-08-03",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "巴基斯坦和乌干达运动员在英联邦运动会后“失踪”",
-        "en": "Pakistan and Uganda athletes ‘missing’ after Commonwealth Games",
-        "de": "Pakistanische und ugandische Athleten nach den Commonwealth-Spielen 'verschwunden'"
+        "zh": "以色列军队突袭被占领的约旦河西岸卡兰迪亚难民营",
+        "en": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+        "de": "Fotos: Israelische Streitkräfte überfallen das besetzte Flüchtlingslager Qalandiya im Westjordanland"
       },
       "summary": {
-        "zh": "英国警方正在调查在英联邦运动会闭幕式后未能回国的运动员失踪报告。",
-        "en": "UK police are investigating reports of athletes who did not return home after the Commonwealth Games closing ceremony.",
-        "de": "Die britische Polizei untersucht Berichte über Athleten, die nach der Abschlusszeremonie der Commonwealth-Spiele nicht nach Hause zurückgekehrt sind."
+        "zh": "以色列军队进入卡兰迪亚难民营，造成八名巴勒斯坦人受伤，并对房屋和商店发出拆迁威胁。",
+        "en": "Israeli forces entered the Qalandiya refugee camp, resulting in eight Palestinians injured and issuing demolition threats to homes and shops.",
+        "de": "Israelische Streitkräfte drangen in das Flüchtlingslager Qalandiya ein, was zu acht verletzten Palästinensern führte und Abrissdrohungen gegen Häuser und Geschäfte aussprach."
       },
       "source": "Al Jazeera",
       "date": "2026-08-05",
-      "url": "https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss"
+      "url": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "阿卜杜勒·埃尔-萨耶德赢得密歇根州民主党参议院初选",
-        "en": "Abdul El-Sayed wins Michigan Democratic primary for Senate, NBC projects",
-        "de": "Abdul El-Sayed gewinnt die demokratische Vorwahl in Michigan für den Senat, prognostiziert NBC"
+        "zh": "阿卜杜勒·埃尔·赛义德赢得密歇根州民主党参议院初选",
+        "en": "El-Sayed wins Michigan Democratic Senate primary",
+        "de": "El-Sayed gewinnt die demokratische Senatsvorwahl in Michigan"
       },
       "summary": {
-        "zh": "进步倡导者阿卜杜勒·埃尔-萨耶德在超过6000万美元的支出中击败了亲以色列的国会议员海莉·史蒂文斯。",
-        "en": "Progressive advocate Abdul El-Sayed has defeated pro-Israel Congresswoman Haley Stevens amid over $60 million in spending.",
-        "de": "Der progressive Anwalt Abdul El-Sayed hat die pro-israelische Kongressabgeordnete Haley Stevens inmitten von über 60 Millionen Dollar Ausgaben besiegt."
+        "zh": "阿卜杜勒·埃尔·赛义德在密歇根州民主党初选中以微弱优势击败众议员哈莉·史蒂文斯。",
+        "en": "Abdul El-Sayed narrowly defeated Rep. Haley Stevens in Michigan's Democratic primary for the US Senate.",
+        "de": "Abdul El-Sayed besiegte die Abgeordnete Haley Stevens knapp bei der demokratischen Vorwahl für den US-Senat in Michigan."
       },
       "source": "Al Jazeera",
       "date": "2026-08-05",
-      "url": "https://www.aljazeera.com/news/2026/8/5/abdul-el-sayed-wins-michigan-democratic-primary-for-senate-in-blow-to-aipac?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "俄罗斯对基辅的弹道导弹袭击造成至少17人死亡",
-        "en": "Russian ballistic missile strike on Kyiv kills at least 17",
-        "de": "Russischer ballistischer Raketenangriff auf Kiew tötet mindestens 17"
+        "zh": "俄罗斯在基辅周边的弹道导弹袭击中杀死17人",
+        "en": "Russia kills 17 in ballistic missile attacks around Kyiv",
+        "de": "Russland tötet 17 bei ballistischen Raketenangriffen rund um Kiew"
       },
       "summary": {
-        "zh": "基辅军事管理局表示，俄罗斯再次对该地区进行大规模攻击。",
-        "en": "Kyiv's military administration states that Russia is 'once again massively attacking' the region around the city.",
-        "de": "Die militärische Verwaltung von Kiew erklärt, dass Russland 'einmal mehr massiv' die Region um die Stadt angreift."
+        "zh": "俄罗斯对基辅及周边地区发起的弹道导弹和无人机袭击造成至少17人死亡。",
+        "en": "At least 17 people were killed after Russia launched ballistic missile and drone attacks on Kyiv and surrounding areas.",
+        "de": "Mindestens 17 Menschen wurden getötet, nachdem Russland ballistische Raketen- und Drohnenangriffe auf Kiew und die umliegenden Gebiete gestartet hatte."
       },
-      "source": "BBC News",
+      "source": "Al Jazeera",
       "date": "2026-08-05",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "欧洲因极端干旱而炸毁河床，经济遭受严重影响",
+        "zh": "私营企业在7月仅增加了44000名员工，低于预期",
+        "en": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
+        "de": "Private Unternehmen haben im Juli nur 44.000 Arbeitskräfte hinzugefügt, was unter den Erwartungen liegt, berichtet ADP"
+      },
+      "summary": {
+        "zh": "ADP报告显示，私营企业在7月的招聘大幅放缓，主要的就业增长来自医疗保健领域。",
+        "en": "ADP reports that hiring at private companies slowed significantly in July, with most job growth coming from the healthcare sector.",
+        "de": "ADP berichtet, dass die Einstellungen in privaten Unternehmen im Juli erheblich zurückgegangen sind, wobei das größte Beschäftigungswachstum aus dem Gesundheitssektor stammt."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-08-05",
+      "url": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "欧洲因极端干旱而炸毁河床，经济受到严重影响",
         "en": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
         "de": "Europa sprengt Flussbetten, während eine extreme Dürre seine Wirtschaft verwüstet"
       },
       "summary": {
-        "zh": "严重的干旱正在扰乱欧洲的能源和货运，低莱茵河和多瑙河水位增加了供应链和经济增长的风险。",
+        "zh": "严重干旱正在扰乱欧洲的能源和货运，莱茵河和多瑙河的低水位增加了供应链和经济增长的风险。",
         "en": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
-        "de": "Schwere Dürre stört die Energie- und Frachtversorgung in ganz Europa, da niedrige Wasserstände von Rhein und Donau die Risiken für Lieferketten und das Wirtschaftswachstum erhöhen."
+        "de": "Schwere Dürre stört die Energie- und Frachtversorgung in ganz Europa, da niedrige Wasserstände von Rhein und Donau die Risiken für Lieferketten und Wirtschaftswachstum erhöhen."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-05",
       "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "制造业调查显示通胀担忧“比疫情时代更糟”，增加美联储压力",
-        "en": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-        "de": "Umfrage zur Fertigung zeigt, dass Inflationssorgen 'schlimmer als in der Pandemiezeit' sind, was den Druck auf die Fed erhöht"
-      },
-      "summary": {
-        "zh": "调查结果显示，采购经理在高度波动的环境中努力保持领先，通胀担忧加剧了对美联储的压力。",
-        "en": "Survey results indicate that purchasing managers are struggling to stay ahead in a highly volatile environment, with inflation worries intensifying pressure on the Fed.",
-        "de": "Die Umfrageergebnisse zeigen, dass Einkaufsleiter in einem hochvolatilen Umfeld Schwierigkeiten haben, den Überblick zu behalten, während die Inflationssorgen den Druck auf die Fed verstärken."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-08-04",
-      "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "美国经济在第二季度增长率降至1.5%；6月核心通胀为3.3%",
-        "en": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-        "de": "Die US-Wirtschaft verlangsamte sich im zweiten Quartal auf ein Wachstum von 1,5 %; die Kerninflation im Juni lag bei 3,3 %"
+        "zh": "Alphabet的股票因谷歌失去另一位关键AI高管而下跌",
+        "en": "Alphabet’s stock drops as Google loses another key AI executive",
+        "de": "Alphabets Aktien fallen, da Google einen weiteren wichtigen KI-Manager verliert"
       },
       "summary": {
-        "zh": "尽管GDP数字低于预期，但这种下降似乎是由于联邦政府支出和库存的减少。",
-        "en": "While the GDP number was below expectations, the decline appeared to stem from a decrease in federal government spending and inventories.",
-        "de": "Obwohl die BIP-Zahl unter den Erwartungen lag, schien der Rückgang auf einen Rückgang der Bundesausgaben und der Bestände zurückzuführen zu sein."
+        "zh": "谷歌首席科学家杰夫·迪恩的离职导致Alphabet的股票下跌，市场对公司的未来感到担忧。",
+        "en": "The departure of Google's chief scientist Jeff Dean has led to a drop in Alphabet's stock, raising concerns about the company's future.",
+        "de": "Der Abgang von Googles Chefwissenschaftler Jeff Dean hat zu einem Rückgang der Aktien von Alphabet geführt, was Bedenken hinsichtlich der Zukunft des Unternehmens aufwirft."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-07-30",
-      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-05",
+      "url": "https://www.marketwatch.com/story/alphabets-stock-drops-as-google-loses-another-key-ai-executive-38de45a2?mod=mw_rss_topstories"
     }
   ]
 }
