@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-06T07:17:43.842286+00:00",
+  "generatedAt": "2026-08-07T05:56:25.880761+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "NASA的新暗能量太空望远镜也能探测致命小行星",
-        "en": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-        "de": "NASA's neues Dunkelenergie-Weltraumteleskop kann auch Killer-Asteroiden erkennen"
+        "zh": "下载：谷歌的人工智能动荡和Meta的流氓模型",
+        "en": "The Download: Google’s AI shake-up and Meta’s rogue model",
+        "de": "Der Download: Googles KI-Umbau und Metas rogue Modell"
       },
       "summary": {
-        "zh": "NASA计划在八月底从佛罗里达州的肯尼迪航天中心发射南希·格雷斯·罗曼太空望远镜，旨在更好地理解宇宙的暗能量，并能够探测潜在的致命小行星。",
-        "en": "NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida at the end of August, aimed at better understanding the universe's dark energy and detecting potential killer asteroids.",
-        "de": "NASA plant, das Nancy Grace Roman-Weltraumteleskop Ende August vom Kennedy Space Center in Florida zu starten, um das dunkle Energie des Universums besser zu verstehen und potenzielle Killer-Asteroiden zu erkennen."
+        "zh": "谷歌在人工智能领域进行重大调整，而Meta则推出了一个不受控制的模型，这些变化可能会对技术行业产生深远影响。",
+        "en": "Google is undergoing significant changes in the AI sector, while Meta has launched an uncontrolled model, which may have far-reaching effects on the tech industry.",
+        "de": "Google durchläuft bedeutende Veränderungen im KI-Sektor, während Meta ein unkontrolliertes Modell eingeführt hat, das weitreichende Auswirkungen auf die Technologiebranche haben könnte."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-08-06",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "NASA的新暗能量太空望远镜也能探测致命小行星",
+        "en": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+        "de": "NASAs neues Dunkelenergie-Weltraumteleskop kann auch Killerasteroiden erkennen"
+      },
+      "summary": {
+        "zh": "NASA计划在8月底发射新的太空望远镜，旨在更好地理解宇宙的暗能量，同时也能探测潜在的致命小行星。",
+        "en": "NASA plans to launch a new space telescope at the end of August aimed at better understanding the universe's dark energy while also being able to detect potentially deadly asteroids.",
+        "de": "NASA plant, Ende August ein neues Weltraumteleskop zu starten, das darauf abzielt, das dunkle Energie des Universums besser zu verstehen und gleichzeitig potenziell tödliche Asteroiden zu erkennen."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-05",
       "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "成千上万的服务器可能因利用有缺陷的主板控制器而被后门攻击",
+        "zh": "成千上万的服务器可以通过利用有缺陷的主板控制器进行后门攻击",
         "en": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
         "de": "Tausende von Servern können durch Ausnutzung fehlerhafter Motherboard-Controller kompromittiert werden"
       },
       "summary": {
-        "zh": "来自全球最大制造商的基础板管理控制器存在安全漏洞，可能导致成千上万的服务器被后门攻击，给企业安全带来严重威胁。",
-        "en": "Baseboard management controllers from the world's biggest manufacturers have security vulnerabilities that could lead to thousands of servers being backdoored, posing a significant threat to enterprise security.",
-        "de": "Basisboard-Management-Controller von den größten Herstellern der Welt weisen Sicherheitsanfälligkeiten auf, die dazu führen könnten, dass Tausende von Servern kompromittiert werden, was eine erhebliche Bedrohung für die Unternehmenssicherheit darstellt."
+        "zh": "全球最大的制造商的基础板管理控制器存在安全漏洞，可能导致成千上万的服务器被黑客攻击。",
+        "en": "Baseboard management controllers from the world's largest manufacturers have security flaws that could lead to thousands of servers being compromised by hackers.",
+        "de": "Basisboard-Management-Controller von den größten Herstellern der Welt weisen Sicherheitsanfälligkeiten auf, die dazu führen könnten, dass Tausende von Servern von Hackern kompromittiert werden."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-05",
       "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "微软推出的AI安全工具声称超越竞争平台",
-        "en": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "de": "Microsoft stellt KI-Sicherheitswerkzeuge vor, von denen es sagt, dass sie konkurrierende Plattformen übertreffen"
-      },
-      "summary": {
-        "zh": "微软宣布推出新的AI安全工具，声称这些工具的成本低于竞争对手，并且在性能上也优于它们，旨在增强企业的网络安全防护。",
-        "en": "Microsoft has announced the launch of new AI security tools, claiming that they cost less than competing ones and outperform them, aimed at enhancing enterprise cybersecurity.",
-        "de": "Microsoft hat die Einführung neuer KI-Sicherheitswerkzeuge angekündigt, von denen es behauptet, dass sie weniger kosten als konkurrierende Produkte und diese übertreffen, um die Cybersicherheit von Unternehmen zu verbessern."
-      },
-      "source": "Ars Technica – AI",
-      "date": "2026-07-27",
-      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国军人家庭在移民保护结束后面临驱逐",
-        "en": "US military families face deportation after immigration protection ends",
-        "de": "US-Militärfamilien stehen nach dem Ende des Einwanderungsschutzes vor der Abschiebung"
+        "zh": "墨西哥在美国暂停进口后部署军队以确保鳄梨地区的安全",
+        "en": "Mexico deploys troops to secure avocado region after US halts imports",
+        "de": "Mexiko setzt Truppen ein, um die Avocado-Region nach dem US-Importstopp zu sichern"
       },
       "summary": {
-        "zh": "随着移民保护的结束，美国军人的配偶和父母 reportedly 已被拘留或驱逐，面临不确定的未来。",
-        "en": "With the end of immigration protection, spouses and parents of US service members have reportedly been detained or deported, facing an uncertain future.",
-        "de": "Mit dem Ende des Einwanderungsschutzes wurden die Ehepartner und Eltern von US-Soldaten Berichten zufolge festgenommen oder abgeschoben und sehen sich einer ungewissen Zukunft gegenüber."
+        "zh": "墨西哥在美国暂停对其鳄梨的进口检查后，向主要鳄梨生产州部署了超过1500名军队，以确保该地区的安全。",
+        "en": "Mexico has deployed over 1,500 troops to its main avocado-producing state to ensure security after the US suspended inspections of avocado imports.",
+        "de": "Mexiko hat über 1.500 Soldaten in seinen Haupt-Avocado-Produzentenstaat entsandt, um die Sicherheit zu gewährleisten, nachdem die USA die Inspektionen von Avocado-Importen ausgesetzt haben."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss"
+      "date": "2026-08-07",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普在密歇根胜利后攻击El-Sayed为“仇恨犹太人者”",
-        "en": "Trump attacks El-Sayed as ‘hater of Jews’ after Michigan win",
-        "de": "Trump greift El-Sayed nach dem Sieg in Michigan als 'Hasser der Juden' an"
+        "zh": "土耳其的埃尔多安访问沙特阿拉伯：可以期待什么",
+        "en": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+        "de": "Erdogan besucht Saudi-Arabien: Was zu erwarten ist"
       },
       "summary": {
-        "zh": "美国总统特朗普在密歇根州的胜利后，攻击民主党参议院候选人阿卜杜勒·埃尔-赛义德，称其为“仇恨犹太人者”。",
-        "en": "US President Donald Trump attacked Michigan’s Democratic Senate candidate Abdul El-Sayed after his victory, calling him a ‘hater of Jews.’",
-        "de": "US-Präsident Donald Trump griff nach seinem Sieg den demokratischen Senatskandidaten Abdul El-Sayed in Michigan an und nannte ihn einen 'Hasser der Juden'."
+        "zh": "土耳其总统埃尔多安将与沙特王储穆罕默德·本·萨勒曼和巴基斯坦总理谢赫巴兹·谢里夫会面，讨论双边关系。",
+        "en": "Turkish President Erdogan is set to meet with Saudi Crown Prince Mohammed bin Salman and Pakistani Prime Minister Shehbaz Sharif to discuss bilateral relations.",
+        "de": "Der türkische Präsident Erdogan wird sich mit dem saudischen Kronprinzen Mohammed bin Salman und dem pakistanischen Premierminister Shehbaz Sharif treffen, um bilaterale Beziehungen zu erörtern."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-06",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/6/trump-attacks-el-sayed-as-hater-of-jews-after-michigan-win?traffic_source=rss"
+      "date": "2026-08-07",
+      "url": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普政府向被最高法院推翻的关税退款1000亿美元",
-        "en": "Trump administration refunds $100bn in tariffs struck down by Supreme Court",
-        "de": "Trump-Administration erstattet 100 Milliarden Dollar an Zöllen, die vom Obersten Gerichtshof aufgehoben wurden"
+        "zh": "反穆斯林的美国国会议员安迪·奥格尔斯在共和党初选中落败",
+        "en": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
+        "de": "Der anti-muslimische US-Kongressabgeordnete Andy Ogles verliert die republikanische Vorwahl"
       },
       "summary": {
-        "zh": "特朗普政府在美国最高法院推翻其许多广泛关税后，决定退款1000亿美元，标志着政策的重大转变。",
-        "en": "The Trump administration has decided to refund $100 billion in tariffs after the US Supreme Court struck down many of its sweeping levies, marking a significant policy shift.",
-        "de": "Die Trump-Administration hat beschlossen, 100 Milliarden Dollar an Zöllen zu erstatten, nachdem der Oberste Gerichtshof der USA viele ihrer umfassenden Abgaben aufgehoben hat, was einen bedeutenden Politikwechsel darstellt."
+        "zh": "安迪·奥格尔斯在共和党初选中落败，尽管特朗普的支持未能挽救他的竞选，奥格尔斯曾表示“穆斯林不属于美国社会”。",
+        "en": "Andy Ogles lost in the Republican primary despite Trump's endorsement failing to save his campaign; Ogles had previously stated that 'Muslims don't belong in American society.'",
+        "de": "Andy Ogles verlor in der republikanischen Vorwahl, obwohl Trumps Unterstützung seine Kampagne nicht retten konnte; Ogles hatte zuvor erklärt, dass 'Muslime nicht zur amerikanischen Gesellschaft gehören.'"
       },
       "source": "Al Jazeera",
-      "date": "2026-08-06",
-      "url": "https://www.aljazeera.com/economy/2026/8/6/trump-administration-refunds-100bn-in-tariffs-struck-down-by-supreme-court?traffic_source=rss"
+      "date": "2026-08-07",
+      "url": "https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "私营企业在七月仅新增44000名工人，低于预期，ADP报告称",
-        "en": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
-        "de": "Private Unternehmen haben im Juli nur 44.000 Arbeiter hinzugefügt, was unter den Erwartungen liegt, berichtet ADP"
+        "zh": "7月就业数据将于周五发布。以下是预期：",
+        "en": "The July jobs numbers are due out Friday. Here's what to expect:",
+        "de": "Die Arbeitsmarktzahlen für Juli werden am Freitag veröffentlicht. Das ist zu erwarten:"
       },
       "summary": {
-        "zh": "ADP报告显示，私营企业在七月的招聘显著放缓，新增的工作岗位大部分来自医疗保健领域，反映出经济增长的疲软。",
-        "en": "ADP reports that hiring at private companies slowed significantly in July, with most job growth coming from the healthcare sector, reflecting a slowdown in economic growth.",
-        "de": "ADP berichtet, dass die Einstellungen in privaten Unternehmen im Juli erheblich zurückgegangen sind, wobei das größte Wachstum im Gesundheitssektor zu verzeichnen war, was auf eine Verlangsamung des Wirtschaftswachstums hinweist."
+        "zh": "预计非农就业人数将增加83,000人，失业率保持在4.2%不变，反映出经济增长的缓慢。",
+        "en": "Nonfarm payrolls are expected to post a gain of 83,000 with an unchanged unemployment rate at 4.2%, reflecting slow economic growth.",
+        "de": "Die Nonfarm-Lohnsummen werden voraussichtlich um 83.000 zunehmen, während die Arbeitslosenquote bei 4,2 % unverändert bleibt, was auf ein langsames Wirtschaftswachstum hinweist."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-08-06",
+      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "私营企业在7月仅增加了44,000名员工，低于预期，ADP报告称：",
+        "en": "Private companies added just 44,000 workers in July, below expectations, ADP reports:",
+        "de": "Private Unternehmen haben im Juli nur 44.000 Arbeitskräfte hinzugefügt, was unter den Erwartungen liegt, berichtet ADP:"
+      },
+      "summary": {
+        "zh": "ADP报告显示，7月私营企业的招聘显著放缓，大部分新增就业来自医疗保健领域。",
+        "en": "The ADP report shows that hiring at private companies slowed significantly in July, with most job growth coming from the healthcare sector.",
+        "de": "Der ADP-Bericht zeigt, dass die Einstellungen in privaten Unternehmen im Juli erheblich zurückgegangen sind, wobei das größte Beschäftigungswachstum im Gesundheitssektor zu verzeichnen ist."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-05",
       "url": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
-        "zh": "欧洲因极端干旱而炸毁河床，经济遭受重创",
+        "zh": "随着极端干旱对经济造成严重影响，欧洲正在炸毁河床",
         "en": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
         "de": "Europa sprengt Flussbetten, während eine extreme Dürre seine Wirtschaft verwüstet"
       },
       "summary": {
-        "zh": "由于严重干旱，欧洲的能源和货运受到干扰，莱茵河和多瑙河的低水位增加了供应链和经济增长的风险。",
+        "zh": "由于严重干旱，欧洲的能源和货运受到干扰，低莱茵河和多瑙河水位提高了供应链和经济增长的风险。",
         "en": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
-        "de": "Schwere Dürre stört die Energie- und Frachtversorgung in ganz Europa, da niedrige Wasserstände in Rhein und Donau die Risiken für Lieferketten und das Wirtschaftswachstum erhöhen."
+        "de": "Schwere Dürre stört die Energie- und Frachtversorgung in ganz Europa, da niedrige Wasserstände im Rhein und in der Donau die Risiken für Lieferketten und das Wirtschaftswachstum erhöhen."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-05",
       "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "制造业调查显示通胀担忧“比疫情时代更糟”，加大了对美联储的压力",
-        "en": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
-        "de": "Umfrage zur Fertigung zeigt Inflationssorgen, die 'schlimmer als in der Pandemiezeit' sind, was den Druck auf die Fed erhöht"
-      },
-      "summary": {
-        "zh": "制造业调查显示，采购经理们在高度波动的环境中挣扎，通胀担忧加剧，给美联储施加了更大的压力。",
-        "en": "The manufacturing survey indicates that purchasing managers are struggling in a highly volatile environment, with inflation worries intensifying, adding more pressure on the Federal Reserve.",
-        "de": "Die Umfrage zur Fertigung zeigt, dass die Einkaufsmanager in einem hochgradig volatilen Umfeld kämpfen, während die Inflationssorgen zunehmen und den Druck auf die Federal Reserve erhöhen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-08-04",
-      "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html"
     }
   ]
 }
