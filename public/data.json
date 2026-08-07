@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-07T05:56:25.880761+00:00",
+  "generatedAt": "2026-08-07T17:13:00.061370+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：谷歌的人工智能动荡和Meta的流氓模型",
-        "en": "The Download: Google’s AI shake-up and Meta’s rogue model",
-        "de": "Der Download: Googles KI-Umbau und Metas rogue Modell"
+        "zh": "下载：审查阴谋论和第一个由AI创建的病毒",
+        "en": "The Download: a censorship conspiracy theory and the first virus created by AI",
+        "de": "Der Download: Eine Zensurverschwörungstheorie und das erste von KI geschaffene Virus"
       },
       "summary": {
-        "zh": "谷歌在人工智能领域进行重大调整，而Meta则推出了一个不受控制的模型，这些变化可能会对技术行业产生深远影响。",
-        "en": "Google is undergoing significant changes in the AI sector, while Meta has launched an uncontrolled model, which may have far-reaching effects on the tech industry.",
-        "de": "Google durchläuft bedeutende Veränderungen im KI-Sektor, während Meta ein unkontrolliertes Modell eingeführt hat, das weitreichende Auswirkungen auf die Technologiebranche haben könnte."
+        "zh": "今天的下载提供了关于技术世界的最新动态，包括一个关于审查的阴谋论和第一个由AI创建的病毒的讨论。",
+        "en": "Today's Download provides the latest updates from the tech world, including a discussion on a conspiracy theory about censorship and the first virus created by AI.",
+        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich einer Diskussion über eine Verschwörungstheorie zur Zensur und das erste von KI geschaffene Virus."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-06",
-      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
+      "date": "2026-08-07",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "NASA的新暗能量太空望远镜也能探测致命小行星",
-        "en": "NASA’s new dark-energy space telescope can also detect killer asteroids",
-        "de": "NASAs neues Dunkelenergie-Weltraumteleskop kann auch Killerasteroiden erkennen"
+        "zh": "如何一个庞大的审查网络的想法从网络边缘转变为特朗普政策",
+        "en": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+        "de": "Wie Ideen eines riesigen Zensurnetzwerks vom Online-Rand in die Trump-Politik übergingen"
       },
       "summary": {
-        "zh": "NASA计划在8月底发射新的太空望远镜，旨在更好地理解宇宙的暗能量，同时也能探测潜在的致命小行星。",
-        "en": "NASA plans to launch a new space telescope at the end of August aimed at better understanding the universe's dark energy while also being able to detect potentially deadly asteroids.",
-        "de": "NASA plant, Ende August ein neues Weltraumteleskop zu starten, das darauf abzielt, das dunkle Energie des Universums besser zu verstehen und gleichzeitig potenziell tödliche Asteroiden zu erkennen."
+        "zh": "这篇文章探讨了一个庞大的审查网络的概念如何从网络边缘转变为特朗普政府的政策。",
+        "en": "This article explores how the concept of a vast censorship network transitioned from the online fringe to become a part of Trump administration policy.",
+        "de": "Dieser Artikel untersucht, wie das Konzept eines riesigen Zensurnetzwerks vom Online-Rand in die Politik der Trump-Administration überging."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-05",
-      "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
+      "date": "2026-08-07",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "成千上万的服务器可以通过利用有缺陷的主板控制器进行后门攻击",
-        "en": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-        "de": "Tausende von Servern können durch Ausnutzung fehlerhafter Motherboard-Controller kompromittiert werden"
+        "zh": "下载：谷歌的AI动荡和Meta的流氓模型",
+        "en": "The Download: Google’s AI shake-up and Meta’s rogue model",
+        "de": "Der Download: Googles KI-Wirbel und Metas abtrünniges Modell"
       },
       "summary": {
-        "zh": "全球最大的制造商的基础板管理控制器存在安全漏洞，可能导致成千上万的服务器被黑客攻击。",
-        "en": "Baseboard management controllers from the world's largest manufacturers have security flaws that could lead to thousands of servers being compromised by hackers.",
-        "de": "Basisboard-Management-Controller von den größten Herstellern der Welt weisen Sicherheitsanfälligkeiten auf, die dazu führen könnten, dass Tausende von Servern von Hackern kompromittiert werden."
+        "zh": "今天的下载讨论了谷歌在AI领域的重大变动以及Meta公司的一些不寻常的模型。",
+        "en": "Today's Download discusses significant changes in AI at Google and some unusual models from Meta.",
+        "de": "Der heutige Download diskutiert bedeutende Veränderungen im Bereich KI bei Google und einige ungewöhnliche Modelle von Meta."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-08-05",
-      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
+      "source": "MIT Technology Review",
+      "date": "2026-08-06",
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "墨西哥在美国暂停进口后部署军队以确保鳄梨地区的安全",
-        "en": "Mexico deploys troops to secure avocado region after US halts imports",
-        "de": "Mexiko setzt Truppen ein, um die Avocado-Region nach dem US-Importstopp zu sichern"
+        "zh": "洪马内特正在完善柬埔寨的威权主义模式",
+        "en": "Hun Manet is refining Cambodia’s authoritarian model",
+        "de": "Hun Manet verfeinert das autoritäre Modell Kambodschas"
       },
       "summary": {
-        "zh": "墨西哥在美国暂停对其鳄梨的进口检查后，向主要鳄梨生产州部署了超过1500名军队，以确保该地区的安全。",
-        "en": "Mexico has deployed over 1,500 troops to its main avocado-producing state to ensure security after the US suspended inspections of avocado imports.",
-        "de": "Mexiko hat über 1.500 Soldaten in seinen Haupt-Avocado-Produzentenstaat entsandt, um die Sicherheit zu gewährleisten, nachdem die USA die Inspektionen von Avocado-Importen ausgesetzt haben."
+        "zh": "洪马内特总理使压制变得不那么明显和更为复杂，增强了他继承的威权制度。",
+        "en": "Prime Minister Hun Manet has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.",
+        "de": "Ministerpräsident Hun Manet hat die Repression weniger sichtbar und komplexer gemacht und das autoritäre System, das er geerbt hat, gestärkt."
       },
       "source": "Al Jazeera",
       "date": "2026-08-07",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss"
+      "url": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "土耳其的埃尔多安访问沙特阿拉伯：可以期待什么",
-        "en": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
-        "de": "Erdogan besucht Saudi-Arabien: Was zu erwarten ist"
+        "zh": "沙特阿拉伯、土耳其和巴基斯坦签署国防协议",
+        "en": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+        "de": "Krieg gegen den Iran: Saudi-Arabien, die Türkei und Pakistan unterzeichnen Verteidigungspakt"
       },
       "summary": {
-        "zh": "土耳其总统埃尔多安将与沙特王储穆罕默德·本·萨勒曼和巴基斯坦总理谢赫巴兹·谢里夫会面，讨论双边关系。",
-        "en": "Turkish President Erdogan is set to meet with Saudi Crown Prince Mohammed bin Salman and Pakistani Prime Minister Shehbaz Sharif to discuss bilateral relations.",
-        "de": "Der türkische Präsident Erdogan wird sich mit dem saudischen Kronprinzen Mohammed bin Salman und dem pakistanischen Premierminister Shehbaz Sharif treffen, um bilaterale Beziehungen zu erörtern."
+        "zh": "沙特阿拉伯、土耳其和巴基斯坦在麦加签署了一项三方国防协议，旨在威慑侵略。",
+        "en": "Saudi Arabia, Turkiye, and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.",
+        "de": "Saudi-Arabien, die Türkei und Pakistan haben in Mekka einen trilateralen Verteidigungspakt unterzeichnet, der darauf abzielt, Aggressionen abzuschrecken."
       },
       "source": "Al Jazeera",
       "date": "2026-08-07",
-      "url": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "反穆斯林的美国国会议员安迪·奥格尔斯在共和党初选中落败",
-        "en": "Anti-Muslim US Congressman Andy Ogles loses Republican primary",
-        "de": "Der anti-muslimische US-Kongressabgeordnete Andy Ogles verliert die republikanische Vorwahl"
+        "zh": "美国劳动力市场在七月失去工作，劳动力参与率下降",
+        "en": "US labour market sheds jobs in July as labour force participation slumps",
+        "de": "US-Arbeitsmarkt verliert im Juli Arbeitsplätze, da die Erwerbsbeteiligung sinkt"
       },
       "summary": {
-        "zh": "安迪·奥格尔斯在共和党初选中落败，尽管特朗普的支持未能挽救他的竞选，奥格尔斯曾表示“穆斯林不属于美国社会”。",
-        "en": "Andy Ogles lost in the Republican primary despite Trump's endorsement failing to save his campaign; Ogles had previously stated that 'Muslims don't belong in American society.'",
-        "de": "Andy Ogles verlor in der republikanischen Vorwahl, obwohl Trumps Unterstützung seine Kampagne nicht retten konnte; Ogles hatte zuvor erklärt, dass 'Muslime nicht zur amerikanischen Gesellschaft gehören.'"
+        "zh": "美国劳动力市场在七月失去23,000个工作岗位，教育、政府和零售部门出现显著下降。",
+        "en": "The US labour market lost 23,000 jobs in July, with significant declines in the education, government, and retail sectors.",
+        "de": "Der US-Arbeitsmarkt verlor im Juli 23.000 Arbeitsplätze, wobei es in den Bereichen Bildung, Regierung und Einzelhandel zu erheblichen Rückgängen kam."
       },
       "source": "Al Jazeera",
       "date": "2026-08-07",
-      "url": "https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "7月就业数据将于周五发布。以下是预期：",
-        "en": "The July jobs numbers are due out Friday. Here's what to expect:",
-        "de": "Die Arbeitsmarktzahlen für Juli werden am Freitag veröffentlicht. Das ist zu erwarten:"
+        "zh": "美国经济在七月意外失去23,000个工作岗位",
+        "en": "U.S. economy unexpectedly lost 23,000 jobs in July",
+        "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze"
       },
       "summary": {
-        "zh": "预计非农就业人数将增加83,000人，失业率保持在4.2%不变，反映出经济增长的缓慢。",
-        "en": "Nonfarm payrolls are expected to post a gain of 83,000 with an unchanged unemployment rate at 4.2%, reflecting slow economic growth.",
-        "de": "Die Nonfarm-Lohnsummen werden voraussichtlich um 83.000 zunehmen, während die Arbeitslosenquote bei 4,2 % unverändert bleibt, was auf ein langsames Wirtschaftswachstum hinweist."
+        "zh": "美国的非农就业人数在七月意外下降，但失业率也下降，给投资者带来了混合信号。",
+        "en": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
+        "de": "Die Nonfarm-Lohnabrechnungen in den USA sanken im Juli unerwartet, ebenso wie die Arbeitslosenquote, was den Investoren gemischte Signale sendet."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-06",
-      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html"
+      "date": "2026-08-07",
+      "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "私营企业在7月仅增加了44,000名员工，低于预期，ADP报告称：",
-        "en": "Private companies added just 44,000 workers in July, below expectations, ADP reports:",
-        "de": "Private Unternehmen haben im Juli nur 44.000 Arbeitskräfte hinzugefügt, was unter den Erwartungen liegt, berichtet ADP:"
+        "zh": "七月就业报告的三大关键要点",
+        "en": "Here are three key takeaways from the disappointing July jobs report",
+        "de": "Hier sind drei wichtige Erkenntnisse aus dem enttäuschenden Juli-Arbeitsbericht"
       },
       "summary": {
-        "zh": "ADP报告显示，7月私营企业的招聘显著放缓，大部分新增就业来自医疗保健领域。",
-        "en": "The ADP report shows that hiring at private companies slowed significantly in July, with most job growth coming from the healthcare sector.",
-        "de": "Der ADP-Bericht zeigt, dass die Einstellungen in privaten Unternehmen im Juli erheblich zurückgegangen sind, wobei das größte Beschäftigungswachstum im Gesundheitssektor zu verzeichnen ist."
+        "zh": "尽管七月的非农就业人数意外下降，但失业率也有所下降，给投资者带来了复杂的信号。",
+        "en": "Despite the unexpected decline in nonfarm payrolls in July, the unemployment rate also fell, presenting investors with complex signals.",
+        "de": "Trotz des unerwarteten Rückgangs der Nonfarm-Löhne im Juli fiel auch die Arbeitslosenquote, was den Investoren komplexe Signale bietet."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-05",
-      "url": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html"
+      "date": "2026-08-07",
+      "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "随着极端干旱对经济造成严重影响，欧洲正在炸毁河床",
-        "en": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-        "de": "Europa sprengt Flussbetten, während eine extreme Dürre seine Wirtschaft verwüstet"
+        "zh": "SpaceX的股票在首次锁定期到期后迎来最佳表现之一",
+        "en": "SpaceX’s stock is having one of its best days ever — with the first lockup expiration now behind it",
+        "de": "Die Aktie von SpaceX hat einen der besten Tage aller Zeiten – mit der ersten Lockup-Ablaufzeit hinter sich"
       },
       "summary": {
-        "zh": "由于严重干旱，欧洲的能源和货运受到干扰，低莱茵河和多瑙河水位提高了供应链和经济增长的风险。",
-        "en": "Severe drought is disrupting energy and freight across Europe as low Rhine and Danube levels raise risks for supply chains and economic growth.",
-        "de": "Schwere Dürre stört die Energie- und Frachtversorgung in ganz Europa, da niedrige Wasserstände im Rhein und in der Donau die Risiken für Lieferketten und das Wirtschaftswachstum erhöhen."
+        "zh": "SpaceX的股票在首次锁定期到期后表现良好，市场对其未来的预期保持乐观。",
+        "en": "SpaceX's stock has performed well following the expiration of its first lockup period, with market expectations remaining optimistic about its future.",
+        "de": "Die Aktie von SpaceX hat nach dem Ablauf der ersten Lockup-Periode gut abgeschnitten, wobei die Markterwartungen optimistisch bleiben."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-08-05",
-      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-07",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories"
     }
   ]
 }
