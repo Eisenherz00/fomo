@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T05:21:01.974973+00:00",
+  "generatedAt": "2026-08-08T16:57:57.509919+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Eine Zensurverschwörungstheorie und das erste von KI geschaffene Virus"
       },
       "summary": {
-        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括审查阴谋论和第一个由人工智能创建的病毒。",
-        "en": "Today's edition of The Download provides insights into the technology world, including a censorship conspiracy theory and the first virus created by AI.",
-        "de": "Die heutige Ausgabe des Downloads bietet Einblicke in die Technologiewelt, einschließlich einer Zensurverschwörungstheorie und dem ersten von KI geschaffenen Virus."
+        "zh": "本期下载介绍了一个关于审查的阴谋论以及第一个由人工智能创建的病毒。这些话题在技术界引发了广泛的讨论和关注。",
+        "en": "This edition of The Download discusses a conspiracy theory about censorship and the first virus created by artificial intelligence. These topics have sparked widespread discussion and concern in the tech community.",
+        "de": "In dieser Ausgabe des Downloads wird eine Verschwörungstheorie über Zensur und das erste von künstlicher Intelligenz geschaffene Virus behandelt. Diese Themen haben in der Technologiegemeinschaft weitreichende Diskussionen und Bedenken ausgelöst."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-07",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "如何一个庞大的审查网络的想法从网络边缘转移到特朗普政策",
+        "zh": "如何大规模审查网络的想法从网络边缘转向特朗普政策",
         "en": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-        "de": "Wie Ideen eines riesigen Zensurnetzwerks von der Online-Peripherie in die Trump-Politik gelangten"
+        "de": "Wie Ideen eines riesigen Zensurnetzwerks von der Online-Peripherie zur Trump-Politik übergingen"
       },
       "summary": {
-        "zh": "这篇文章探讨了一个庞大的审查网络的想法如何从网络边缘逐渐渗透到特朗普的政策中。",
-        "en": "This article explores how the idea of a vast censorship network has gradually infiltrated Trump’s policies from the online fringe.",
-        "de": "Dieser Artikel untersucht, wie die Idee eines riesigen Zensurnetzwerks von der Online-Peripherie in die Politik von Trump eingedrungen ist."
+        "zh": "这篇文章探讨了一个庞大的审查网络的想法是如何从网络边缘转向特朗普的政策。这一转变引发了对信息自由和审查的广泛讨论。",
+        "en": "This article explores how the idea of a vast censorship network moved from the online fringe to Trump’s policy. This shift has sparked widespread discussion about information freedom and censorship.",
+        "de": "Dieser Artikel untersucht, wie die Idee eines riesigen Zensurnetzwerks von der Online-Peripherie zur Politik von Trump überging. Dieser Wandel hat weitreichende Diskussionen über Informationsfreiheit und Zensur ausgelöst."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-07",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：谷歌的AI震荡和Meta的叛逆模型",
+        "zh": "下载：谷歌的AI动荡和Meta的流氓模型",
         "en": "The Download: Google’s AI shake-up and Meta’s rogue model",
-        "de": "Der Download: Googles KI-Umbruch und Metas rebellisches Modell"
+        "de": "Der Download: Googles KI-Umbruch und Metas schurkisches Modell"
       },
       "summary": {
-        "zh": "今天的《下载》讨论了谷歌的AI震荡以及Meta的叛逆模型，揭示了技术行业的最新动态。",
-        "en": "Today's edition of The Download discusses Google's AI shake-up and Meta's rogue model, revealing the latest trends in the tech industry.",
-        "de": "Die heutige Ausgabe des Downloads diskutiert den KI-Umbruch bei Google und Metas rebellisches Modell und enthüllt die neuesten Trends in der Technologiebranche."
+        "zh": "本期下载讨论了谷歌的AI动荡以及Meta的流氓模型。这些变化可能会对科技行业产生深远影响。",
+        "en": "This edition of The Download discusses Google’s AI shake-up and Meta’s rogue model. These changes could have far-reaching implications for the tech industry.",
+        "de": "In dieser Ausgabe des Downloads wird über Googles KI-Umbruch und Metas schurkisches Modell berichtet. Diese Veränderungen könnten weitreichende Auswirkungen auf die Technologiebranche haben."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-06",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "国际足联主席因凡蒂诺在哥伦比亚受到支持，出席总统就职典礼",
-        "en": "FIFA’s Infantino backed in Colombia where he attends president inauguration",
-        "de": "FIFAs Infantino in Kolumbien unterstützt, wo er an der Präsidentenvereidigung teilnimmt"
+        "zh": "反对派议员向科索沃总理扔鸡蛋",
+        "en": "Opposition MP hurls eggs at Kosovo Prime Minister",
+        "de": "Oppositionsabgeordneter wirft Eier auf den Premierminister von Kosovo"
       },
       "summary": {
-        "zh": "国际足联主席因凡蒂诺在哥伦比亚总统就职典礼上获得南美足球界的支持。",
-        "en": "FIFA President Gianni Infantino received support from South American football during the inauguration of the Colombian president.",
-        "de": "FIFA-Präsident Gianni Infantino erhielt während der Amtseinführung des kolumbianischen Präsidenten Unterstützung aus dem südamerikanischen Fußball."
+        "zh": "在一次议会会议上，一名反对派议员向科索沃代理总理阿尔宾·库尔蒂扔鸡蛋。这一事件引发了对政治气候的关注。",
+        "en": "During a parliamentary session, an opposition lawmaker threw eggs at acting Prime Minister Albin Kurti. This incident has raised concerns about the political climate.",
+        "de": "Während einer Sitzung des Parlaments warf ein Oppositionsabgeordneter Eier auf den amtierenden Premierminister Albin Kurti. Dieser Vorfall hat Bedenken hinsichtlich des politischen Klimas aufgeworfen."
       },
       "source": "Al Jazeera",
       "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-infantino-backed-in-colombia-where-he-attends-inauguration?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "挪威足球协会呼吁国际足联主席辞职",
-        "en": "Norway Football Federation calls for FIFA president to resign",
-        "de": "Norwegischer Fußballverband fordert FIFA-Präsidenten zum Rücktritt auf"
+        "zh": "阿联酋称伊朗在霍尔木兹海峡袭击ADNOC油轮，无人员伤亡",
+        "en": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+        "de": "VAE sagt, dass Iran ADNOC-Tanker im Hormus-Straße angegriffen hat, keine Opfer"
       },
       "summary": {
-        "zh": "挪威足球协会呼吁国际足联主席因凡蒂诺辞职，反映了对其领导的广泛不满。",
-        "en": "The Norway Football Federation has called for FIFA President Gianni Infantino to resign, reflecting widespread dissatisfaction with his leadership.",
-        "de": "Der norwegische Fußballverband hat FIFA-Präsident Gianni Infantino zum Rücktritt aufgefordert, was auf weit verbreitete Unzufriedenheit mit seiner Führung hinweist."
+        "zh": "阿联酋政府谴责伊朗对阿布扎比国家石油公司（ADNOC）油轮的导弹袭击，所幸没有造成伤亡。这一事件加剧了海湾地区的紧张局势。",
+        "en": "The UAE government condemned Iran's missile strike on an ADNOC tanker, fortunately resulting in no casualties. This incident escalates tensions in the Gulf region.",
+        "de": "Die VAE-Regierung verurteilte den Raketenangriff Irans auf einen ADNOC-Tanker, der glücklicherweise keine Opfer forderte. Dieser Vorfall eskaliert die Spannungen in der Golfregion."
       },
       "source": "Al Jazeera",
       "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "亚美尼亚将教会领袖置于审判之下，因其涉嫌为俄罗斯间谍",
-        "en": "Armenia puts Church leader on trial for allegedly being a Russian spy",
-        "de": "Armenien bringt Kirchenführer vor Gericht, weil er angeblich ein russischer Spion ist"
+        "zh": "伊拉克库尔德地区希望远离地区冲突：巴尔扎尼总理",
+        "en": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
+        "de": "Iraks kurdische Region will sich aus regionalen Konflikten heraushalten: PM Barzani"
       },
       "summary": {
-        "zh": "亚美尼亚的教会领袖因涉嫌为俄罗斯间谍而面临审判，可能面临监禁。",
-        "en": "The head of Armenia's Apostolic Church is on trial for allegedly spying for Russia, facing potential jail time.",
-        "de": "Der Leiter der apostolischen Kirche Armeniens steht wegen des Verdachts, für Russland zu spionieren, vor Gericht und könnte eine Gefängnisstrafe erhalten."
+        "zh": "伊拉克库尔德地区总理马斯鲁尔·巴尔扎尼表示，该地区希望保持中立，避免卷入伊朗战争的压力。此言论引发了对该地区安全局势的关注。",
+        "en": "Iraq’s Kurdish region Prime Minister Masrour Barzani stated that the region wishes to remain neutral and avoid pressure to enter the Iran war. This statement has raised concerns about the security situation in the area.",
+        "de": "Der Premierminister der kurdischen Region im Irak, Masrour Barzani, erklärte, dass die Region neutral bleiben und dem Druck entgehen möchte, in den Iran-Krieg einzutreten. Diese Aussage hat Bedenken hinsichtlich der Sicherheitslage in der Region aufgeworfen."
       },
       "source": "Al Jazeera",
       "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国经济在七月意外失去23000个工作岗位",
+        "zh": "美国经济在7月意外失去23000个工作岗位",
         "en": "U.S. economy unexpectedly lost 23,000 jobs in July",
         "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze"
       },
       "summary": {
-        "zh": "美国经济在七月意外失去23000个工作岗位，尽管失业率也下降，给投资者带来了混合信号。",
-        "en": "The U.S. economy unexpectedly lost 23,000 jobs in July, although the unemployment rate also declined, leaving investors with mixed signals.",
-        "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze, obwohl die Arbeitslosenquote ebenfalls sank, was die Anleger mit gemischten Signalen zurücklässt."
+        "zh": "美国7月的非农就业人数意外下降23000个，尽管失业率也有所下降。这一数据给投资者带来了混合信号。",
+        "en": "The U.S. nonfarm payrolls unexpectedly declined by 23,000 in July, although the unemployment rate also decreased. This data presents mixed signals for investors.",
+        "de": "Die US-Nichtlandwirtschaftsgehälter sanken im Juli unerwartet um 23.000, obwohl die Arbeitslosenquote ebenfalls sank. Diese Daten liefern gemischte Signale für Investoren."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-07",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "七月就业报告的三大关键要点",
+        "zh": "7月就业报告的三大关键要点",
         "en": "Here are three key takeaways from the disappointing July jobs report",
-        "de": "Hier sind drei wichtige Erkenntnisse aus dem enttäuschenden Arbeitsbericht für Juli"
+        "de": "Hier sind drei wichtige Erkenntnisse aus dem enttäuschenden Juli-Arbeitsbericht"
       },
       "summary": {
-        "zh": "七月的就业报告显示非农就业人数意外下降，尽管失业率也有所下降，给市场带来了不确定性。",
-        "en": "The July jobs report showed an unexpected decline in nonfarm payrolls, although the unemployment rate also fell, creating uncertainty in the market.",
-        "de": "Der Arbeitsbericht für Juli zeigte einen unerwarteten Rückgang der Nichtlandwirtschaftlichen Löhne, obwohl die Arbeitslosenquote ebenfalls sank, was Unsicherheit auf dem Markt schafft."
+        "zh": "7月的就业报告显示非农就业人数意外下降，失业率却有所下降，给投资者带来了混合信号。这一情况可能会影响市场走势。",
+        "en": "The July jobs report indicated an unexpected decline in nonfarm payrolls, while the unemployment rate decreased, providing mixed signals for investors. This situation may impact market trends.",
+        "de": "Der Arbeitsbericht für Juli zeigte einen unerwarteten Rückgang der Nichtlandwirtschaftsgehälter, während die Arbeitslosenquote sank, was gemischte Signale für Investoren liefert. Diese Situation könnte die Marktentwicklung beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-07",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "私营企业在七月仅增加44000名员工，低于预期",
-        "en": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
-        "de": "Private Unternehmen haben im Juli nur 44.000 Mitarbeiter hinzugefügt, unter den Erwartungen, berichtet ADP"
+        "zh": "私营企业在7月仅增加44000名员工，低于预期",
+        "en": "Private companies added just 44,000 workers in July, below expectations",
+        "de": "Private Unternehmen haben im Juli nur 44.000 Mitarbeiter hinzugefügt, unter den Erwartungen"
       },
       "summary": {
-        "zh": "ADP报告显示，私营企业在七月的招聘大幅放缓，新增员工数量远低于预期。",
-        "en": "ADP reports that hiring at private companies slowed significantly in July, with the number of new employees falling far below expectations.",
-        "de": "ADP berichtet, dass die Einstellungen in privaten Unternehmen im Juli erheblich zurückgegangen sind, wobei die Zahl der neuen Mitarbeiter weit unter den Erwartungen liegt."
+        "zh": "根据ADP的报告，私营企业在7月的招聘大幅放缓，新增员工人数仅为44000人，远低于预期。这一情况可能影响经济复苏。",
+        "en": "According to the ADP report, hiring at private companies slowed significantly in July, with only 44,000 new employees added, far below expectations. This situation may impact economic recovery.",
+        "de": "Laut dem ADP-Bericht hat sich die Einstellung in privaten Unternehmen im Juli erheblich verlangsamt, mit nur 44.000 neu hinzugefügten Mitarbeitern, was weit unter den Erwartungen liegt. Diese Situation könnte die wirtschaftliche Erholung beeinflussen."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-05",
