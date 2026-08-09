@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-08T16:57:57.509919+00:00",
+  "generatedAt": "2026-08-09T05:29:06.305440+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：审查阴谋论和第一个由AI创建的病毒",
+        "zh": "下载：审查阴谋论和首个由AI创建的病毒",
         "en": "The Download: a censorship conspiracy theory and the first virus created by AI",
-        "de": "Der Download: Eine Zensurverschwörungstheorie und das erste von KI geschaffene Virus"
+        "de": "Der Download: Eine Zensurverschwörungstheorie und der erste von KI geschaffene Virus"
       },
       "summary": {
-        "zh": "本期下载介绍了一个关于审查的阴谋论以及第一个由人工智能创建的病毒。这些话题在技术界引发了广泛的讨论和关注。",
-        "en": "This edition of The Download discusses a conspiracy theory about censorship and the first virus created by artificial intelligence. These topics have sparked widespread discussion and concern in the tech community.",
-        "de": "In dieser Ausgabe des Downloads wird eine Verschwörungstheorie über Zensur und das erste von künstlicher Intelligenz geschaffene Virus behandelt. Diese Themen haben in der Technologiegemeinschaft weitreichende Diskussionen und Bedenken ausgelöst."
+        "zh": "今天的下载报道了一个审查阴谋论以及首个由人工智能创建的病毒。这些话题在技术界引发了广泛的讨论和关注。",
+        "en": "Today's Download discusses a censorship conspiracy theory and the first virus created by AI. These topics have sparked widespread discussion and concern in the tech community.",
+        "de": "Der heutige Download behandelt eine Zensurverschwörungstheorie und den ersten von KI geschaffenen Virus. Diese Themen haben in der Technologiegemeinschaft weitreichende Diskussionen und Bedenken ausgelöst."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-07",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "如何大规模审查网络的想法从网络边缘转向特朗普政策",
+        "zh": "如何一个庞大的审查网络的想法从网络边缘转移到特朗普政策",
         "en": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-        "de": "Wie Ideen eines riesigen Zensurnetzwerks von der Online-Peripherie zur Trump-Politik übergingen"
+        "de": "Wie Ideen eines riesigen Zensurnetzwerks vom Online-Rand in die Trump-Politik gelangten"
       },
       "summary": {
-        "zh": "这篇文章探讨了一个庞大的审查网络的想法是如何从网络边缘转向特朗普的政策。这一转变引发了对信息自由和审查的广泛讨论。",
-        "en": "This article explores how the idea of a vast censorship network moved from the online fringe to Trump’s policy. This shift has sparked widespread discussion about information freedom and censorship.",
-        "de": "Dieser Artikel untersucht, wie die Idee eines riesigen Zensurnetzwerks von der Online-Peripherie zur Politik von Trump überging. Dieser Wandel hat weitreichende Diskussionen über Informationsfreiheit und Zensur ausgelöst."
+        "zh": "这篇文章探讨了一个庞大的审查网络的想法如何从网络边缘逐渐进入特朗普的政策制定中。文章分析了这一转变的背景和影响。",
+        "en": "This article explores how the idea of a vast censorship network gradually entered Trump's policy-making from the online fringe. It analyzes the context and implications of this shift.",
+        "de": "Dieser Artikel untersucht, wie die Idee eines riesigen Zensurnetzwerks schrittweise in die Politik von Trump vom Online-Rand eindrang. Er analysiert den Kontext und die Auswirkungen dieses Wandels."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-07",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "下载：谷歌的AI动荡和Meta的流氓模型",
+        "zh": "下载：谷歌的AI动荡和Meta的叛逆模型",
         "en": "The Download: Google’s AI shake-up and Meta’s rogue model",
-        "de": "Der Download: Googles KI-Umbruch und Metas schurkisches Modell"
+        "de": "Der Download: Googles KI-Wirbel und Metas rebellisches Modell"
       },
       "summary": {
-        "zh": "本期下载讨论了谷歌的AI动荡以及Meta的流氓模型。这些变化可能会对科技行业产生深远影响。",
-        "en": "This edition of The Download discusses Google’s AI shake-up and Meta’s rogue model. These changes could have far-reaching implications for the tech industry.",
-        "de": "In dieser Ausgabe des Downloads wird über Googles KI-Umbruch und Metas schurkisches Modell berichtet. Diese Veränderungen könnten weitreichende Auswirkungen auf die Technologiebranche haben."
+        "zh": "今天的下载报道了谷歌在人工智能领域的重大变动以及Meta的叛逆模型。这些变化可能会对技术行业产生深远影响。",
+        "en": "Today's Download covers significant changes at Google in the field of AI and Meta's rogue model. These changes could have far-reaching impacts on the tech industry.",
+        "de": "Der heutige Download behandelt bedeutende Veränderungen bei Google im Bereich KI und Metas rebellisches Modell. Diese Veränderungen könnten weitreichende Auswirkungen auf die Technologiebranche haben."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-06",
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "反对派议员向科索沃总理扔鸡蛋",
-        "en": "Opposition MP hurls eggs at Kosovo Prime Minister",
-        "de": "Oppositionsabgeordneter wirft Eier auf den Premierminister von Kosovo"
+        "zh": "梅西在父亲去世后返回阿根廷",
+        "en": "Lionel Messi returns to Argentina after father Jorge’s death",
+        "de": "Lionel Messi kehrt nach dem Tod seines Vaters Jorge nach Argentinien zurück"
       },
       "summary": {
-        "zh": "在一次议会会议上，一名反对派议员向科索沃代理总理阿尔宾·库尔蒂扔鸡蛋。这一事件引发了对政治气候的关注。",
-        "en": "During a parliamentary session, an opposition lawmaker threw eggs at acting Prime Minister Albin Kurti. This incident has raised concerns about the political climate.",
-        "de": "Während einer Sitzung des Parlaments warf ein Oppositionsabgeordneter Eier auf den amtierenden Premierminister Albin Kurti. Dieser Vorfall hat Bedenken hinsichtlich des politischen Klimas aufgeworfen."
+        "zh": "足球明星梅西在父亲去世后与家人一起返回阿根廷。这一事件引发了广泛的关注和哀悼。",
+        "en": "Football star Messi returned to Argentina with his family after the death of his father. This event has garnered widespread attention and mourning.",
+        "de": "Fußballstar Messi kehrte nach dem Tod seines Vaters mit seiner Familie nach Argentinien zurück. Dieses Ereignis hat breite Aufmerksamkeit und Trauer ausgelöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss"
+      "date": "2026-08-09",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "阿联酋称伊朗在霍尔木兹海峡袭击ADNOC油轮，无人员伤亡",
-        "en": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-        "de": "VAE sagt, dass Iran ADNOC-Tanker im Hormus-Straße angegriffen hat, keine Opfer"
+        "zh": "乔·拜登的癌症扩散，儿子亨特表示“非常痛苦”",
+        "en": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+        "de": "„Sehr schmerzhaft“: Joe Bidens Krebs hat sich ausgebreitet, sagt Sohn Hunter"
       },
       "summary": {
-        "zh": "阿联酋政府谴责伊朗对阿布扎比国家石油公司（ADNOC）油轮的导弹袭击，所幸没有造成伤亡。这一事件加剧了海湾地区的紧张局势。",
-        "en": "The UAE government condemned Iran's missile strike on an ADNOC tanker, fortunately resulting in no casualties. This incident escalates tensions in the Gulf region.",
-        "de": "Die VAE-Regierung verurteilte den Raketenangriff Irans auf einen ADNOC-Tanker, der glücklicherweise keine Opfer forderte. Dieser Vorfall eskaliert die Spannungen in der Golfregion."
+        "zh": "乔·拜登的儿子亨特透露，拜登的前列腺癌已经扩散到骨骼等其他部位。这一消息引发了公众的担忧。",
+        "en": "Joe Biden's son Hunter revealed that his father's prostate cancer has spread to his bones and other areas. This news has raised public concern.",
+        "de": "Joe Bidens Sohn Hunter gab bekannt, dass der Krebs seines Vaters auf seine Knochen und andere Bereiche übergegriffen hat. Diese Nachricht hat öffentliche Besorgnis ausgelöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss"
+      "date": "2026-08-09",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊拉克库尔德地区希望远离地区冲突：巴尔扎尼总理",
-        "en": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-        "de": "Iraks kurdische Region will sich aus regionalen Konflikten heraushalten: PM Barzani"
+        "zh": "哥伦比亚高速公路发生汽车炸弹袭击，新总统宣誓就职一天后",
+        "en": "Car bomb hits Colombia highway day after new president sworn in",
+        "de": "Autobombe trifft Kolumbien Autobahn einen Tag nach der Amtseinführung des neuen Präsidenten"
       },
       "summary": {
-        "zh": "伊拉克库尔德地区总理马斯鲁尔·巴尔扎尼表示，该地区希望保持中立，避免卷入伊朗战争的压力。此言论引发了对该地区安全局势的关注。",
-        "en": "Iraq’s Kurdish region Prime Minister Masrour Barzani stated that the region wishes to remain neutral and avoid pressure to enter the Iran war. This statement has raised concerns about the security situation in the area.",
-        "de": "Der Premierminister der kurdischen Region im Irak, Masrour Barzani, erklärte, dass die Region neutral bleiben und dem Druck entgehen möchte, in den Iran-Krieg einzutreten. Diese Aussage hat Bedenken hinsichtlich der Sicherheitslage in der Region aufgeworfen."
+        "zh": "在新总统阿贝拉多·德·拉·埃斯普里埃拉宣誓就职一天后，哥伦比亚一条高速公路发生汽车炸弹袭击，造成严重破坏。",
+        "en": "A car bomb exploded on a highway in Colombia a day after President Abelardo de la Espriella was sworn in, causing significant damage.",
+        "de": "Eine Autobombe explodierte auf einer Autobahn in Kolumbien einen Tag nach der Amtseinführung von Präsident Abelardo de la Espriella und verursachte erhebliche Schäden."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-08",
-      "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani?traffic_source=rss"
+      "date": "2026-08-09",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国经济在7月意外失去23000个工作岗位",
+        "zh": "美国经济在七月意外失去23000个工作岗位",
         "en": "U.S. economy unexpectedly lost 23,000 jobs in July",
         "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze"
       },
       "summary": {
-        "zh": "美国7月的非农就业人数意外下降23000个，尽管失业率也有所下降。这一数据给投资者带来了混合信号。",
-        "en": "The U.S. nonfarm payrolls unexpectedly declined by 23,000 in July, although the unemployment rate also decreased. This data presents mixed signals for investors.",
-        "de": "Die US-Nichtlandwirtschaftsgehälter sanken im Juli unerwartet um 23.000, obwohl die Arbeitslosenquote ebenfalls sank. Diese Daten liefern gemischte Signale für Investoren."
+        "zh": "美国经济在七月意外失去了23000个工作岗位，尽管失业率保持稳定。这一消息给投资者带来了混合信号。",
+        "en": "The U.S. economy unexpectedly lost 23,000 jobs in July, even as the unemployment rate remained steady. This news has left investors with mixed signals.",
+        "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze, obwohl die Arbeitslosenquote stabil blieb. Diese Nachricht hat die Anleger mit gemischten Signalen zurückgelassen."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-07",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "7月就业报告的三大关键要点",
+        "zh": "七月就业报告的三个关键要点",
         "en": "Here are three key takeaways from the disappointing July jobs report",
-        "de": "Hier sind drei wichtige Erkenntnisse aus dem enttäuschenden Juli-Arbeitsbericht"
+        "de": "Hier sind drei wichtige Erkenntnisse aus dem enttäuschenden Arbeitsmarktbericht für Juli"
       },
       "summary": {
-        "zh": "7月的就业报告显示非农就业人数意外下降，失业率却有所下降，给投资者带来了混合信号。这一情况可能会影响市场走势。",
-        "en": "The July jobs report indicated an unexpected decline in nonfarm payrolls, while the unemployment rate decreased, providing mixed signals for investors. This situation may impact market trends.",
-        "de": "Der Arbeitsbericht für Juli zeigte einen unerwarteten Rückgang der Nichtlandwirtschaftsgehälter, während die Arbeitslosenquote sank, was gemischte Signale für Investoren liefert. Diese Situation könnte die Marktentwicklung beeinflussen."
+        "zh": "七月的就业报告显示，美国非农就业人数意外下降，失业率也有所下降，给投资者带来了混合信号。",
+        "en": "The July jobs report indicated an unexpected decline in nonfarm payrolls in the U.S., while the unemployment rate also decreased, leaving investors with mixed signals.",
+        "de": "Der Arbeitsmarktbericht für Juli zeigte einen unerwarteten Rückgang der Nonfarm-Löhne in den USA, während die Arbeitslosenquote ebenfalls sank, was die Anleger mit gemischten Signalen zurückließ."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-07",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "私营企业在7月仅增加44000名员工，低于预期",
-        "en": "Private companies added just 44,000 workers in July, below expectations",
-        "de": "Private Unternehmen haben im Juli nur 44.000 Mitarbeiter hinzugefügt, unter den Erwartungen"
+        "zh": "私营企业在七月仅增加44000个工人，低于预期",
+        "en": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
+        "de": "Private Unternehmen haben im Juli nur 44.000 Arbeiter hinzugefügt, unter den Erwartungen, berichtet ADP"
       },
       "summary": {
-        "zh": "根据ADP的报告，私营企业在7月的招聘大幅放缓，新增员工人数仅为44000人，远低于预期。这一情况可能影响经济复苏。",
-        "en": "According to the ADP report, hiring at private companies slowed significantly in July, with only 44,000 new employees added, far below expectations. This situation may impact economic recovery.",
-        "de": "Laut dem ADP-Bericht hat sich die Einstellung in privaten Unternehmen im Juli erheblich verlangsamt, mit nur 44.000 neu hinzugefügten Mitarbeitern, was weit unter den Erwartungen liegt. Diese Situation könnte die wirtschaftliche Erholung beeinflussen."
+        "zh": "ADP报告显示，私营企业在七月的招聘大幅放缓，仅增加了44000个工人，低于预期。这一趋势引发了对经济增长的担忧。",
+        "en": "ADP reports that private companies significantly slowed hiring in July, adding only 44,000 workers, which is below expectations. This trend raises concerns about economic growth.",
+        "de": "ADP berichtet, dass private Unternehmen im Juli die Einstellungen erheblich verlangsamt haben und nur 44.000 Arbeiter hinzugefügt haben, was unter den Erwartungen liegt. Dieser Trend weckt Bedenken hinsichtlich des Wirtschaftswachstums."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-05",
