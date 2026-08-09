@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-09T05:29:06.305440+00:00",
+  "generatedAt": "2026-08-09T17:00:51.133158+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
         "zh": "下载：审查阴谋论和首个由AI创建的病毒",
         "en": "The Download: a censorship conspiracy theory and the first virus created by AI",
-        "de": "Der Download: Eine Zensurverschwörungstheorie und der erste von KI geschaffene Virus"
+        "de": "Der Download: Eine Zensurverschwörungstheorie und das erste von KI geschaffene Virus"
       },
       "summary": {
-        "zh": "今天的下载报道了一个审查阴谋论以及首个由人工智能创建的病毒。这些话题在技术界引发了广泛的讨论和关注。",
-        "en": "Today's Download discusses a censorship conspiracy theory and the first virus created by AI. These topics have sparked widespread discussion and concern in the tech community.",
-        "de": "Der heutige Download behandelt eine Zensurverschwörungstheorie und den ersten von KI geschaffenen Virus. Diese Themen haben in der Technologiegemeinschaft weitreichende Diskussionen und Bedenken ausgelöst."
+        "zh": "本文讨论了一个关于审查的阴谋论以及首个由人工智能创建的病毒的相关情况。",
+        "en": "This article discusses a conspiracy theory about censorship and the first virus created by artificial intelligence.",
+        "de": "Dieser Artikel behandelt eine Verschwörungstheorie über Zensur und das erste von künstlicher Intelligenz geschaffene Virus."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-07",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "如何一个庞大的审查网络的想法从网络边缘转移到特朗普政策",
+        "zh": "如何一个庞大的审查网络的想法从网络边缘转向特朗普政策",
         "en": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-        "de": "Wie Ideen eines riesigen Zensurnetzwerks vom Online-Rand in die Trump-Politik gelangten"
+        "de": "Wie Ideen eines riesigen Zensurnetzwerks vom Online-Rand in die Trump-Politik übergingen"
       },
       "summary": {
-        "zh": "这篇文章探讨了一个庞大的审查网络的想法如何从网络边缘逐渐进入特朗普的政策制定中。文章分析了这一转变的背景和影响。",
-        "en": "This article explores how the idea of a vast censorship network gradually entered Trump's policy-making from the online fringe. It analyzes the context and implications of this shift.",
-        "de": "Dieser Artikel untersucht, wie die Idee eines riesigen Zensurnetzwerks schrittweise in die Politik von Trump vom Online-Rand eindrang. Er analysiert den Kontext und die Auswirkungen dieses Wandels."
+        "zh": "这篇文章探讨了审查网络的想法如何从网络边缘转变为特朗普政府的政策。",
+        "en": "This article explores how the idea of a censorship network transitioned from the online fringe to become part of Trump administration policy.",
+        "de": "Dieser Artikel untersucht, wie die Idee eines Zensurnetzwerks vom Online-Rand in die Politik der Trump-Administration überging."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-07",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "下载：谷歌的AI动荡和Meta的叛逆模型",
         "en": "The Download: Google’s AI shake-up and Meta’s rogue model",
-        "de": "Der Download: Googles KI-Wirbel und Metas rebellisches Modell"
+        "de": "Der Download: Googles KI-Wirbel und Metas abtrünniges Modell"
       },
       "summary": {
-        "zh": "今天的下载报道了谷歌在人工智能领域的重大变动以及Meta的叛逆模型。这些变化可能会对技术行业产生深远影响。",
-        "en": "Today's Download covers significant changes at Google in the field of AI and Meta's rogue model. These changes could have far-reaching impacts on the tech industry.",
-        "de": "Der heutige Download behandelt bedeutende Veränderungen bei Google im Bereich KI und Metas rebellisches Modell. Diese Veränderungen könnten weitreichende Auswirkungen auf die Technologiebranche haben."
+        "zh": "本文介绍了谷歌在人工智能领域的重大变动以及Meta公司的一些新模型。",
+        "en": "This article highlights significant changes in Google's artificial intelligence landscape and some new models from Meta.",
+        "de": "Dieser Artikel hebt bedeutende Veränderungen im Bereich der künstlichen Intelligenz bei Google hervor und einige neue Modelle von Meta."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-06",
@@ -54,50 +54,50 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "梅西在父亲去世后返回阿根廷",
-        "en": "Lionel Messi returns to Argentina after father Jorge’s death",
-        "de": "Lionel Messi kehrt nach dem Tod seines Vaters Jorge nach Argentinien zurück"
+        "zh": "以色列的占领如何助长抵抗",
+        "en": "How Israel’s occupation fuels resistance",
+        "de": "Wie Israels Besatzung den Widerstand anheizt"
       },
       "summary": {
-        "zh": "足球明星梅西在父亲去世后与家人一起返回阿根廷。这一事件引发了广泛的关注和哀悼。",
-        "en": "Football star Messi returned to Argentina with his family after the death of his father. This event has garnered widespread attention and mourning.",
-        "de": "Fußballstar Messi kehrte nach dem Tod seines Vaters mit seiner Familie nach Argentinien zurück. Dieses Ereignis hat breite Aufmerksamkeit und Trauer ausgelöst."
+        "zh": "这篇文章探讨了以色列的占领如何导致抵抗运动的加剧。",
+        "en": "This article examines how Israel's occupation has intensified resistance movements.",
+        "de": "Dieser Artikel untersucht, wie Israels Besatzung Widerstandsbewegungen verstärkt hat."
       },
       "source": "Al Jazeera",
       "date": "2026-08-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "乔·拜登的癌症扩散，儿子亨特表示“非常痛苦”",
-        "en": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
-        "de": "„Sehr schmerzhaft“: Joe Bidens Krebs hat sich ausgebreitet, sagt Sohn Hunter"
+        "zh": "内塔尼亚胡拒绝美国支持的加沙计划，毫不意外",
+        "en": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+        "de": "‘Keine Überraschung’: Netanyahu lehnt den von den USA unterstützten Gaza-Plan ab"
       },
       "summary": {
-        "zh": "乔·拜登的儿子亨特透露，拜登的前列腺癌已经扩散到骨骼等其他部位。这一消息引发了公众的担忧。",
-        "en": "Joe Biden's son Hunter revealed that his father's prostate cancer has spread to his bones and other areas. This news has raised public concern.",
-        "de": "Joe Bidens Sohn Hunter gab bekannt, dass der Krebs seines Vaters auf seine Knochen und andere Bereiche übergegriffen hat. Diese Nachricht hat öffentliche Besorgnis ausgelöst."
+        "zh": "内塔尼亚胡对美国支持的加沙计划的拒绝并不令人感到意外，反映了以色列政府的立场。",
+        "en": "Netanyahu's rejection of the US-backed Gaza plan is unsurprising and reflects the stance of the Israeli government.",
+        "de": "Netanyahus Ablehnung des von den USA unterstützten Gaza-Plans ist nicht überraschend und spiegelt die Haltung der israelischen Regierung wider."
       },
       "source": "Al Jazeera",
       "date": "2026-08-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "哥伦比亚高速公路发生汽车炸弹袭击，新总统宣誓就职一天后",
-        "en": "Car bomb hits Colombia highway day after new president sworn in",
-        "de": "Autobombe trifft Kolumbien Autobahn einen Tag nach der Amtseinführung des neuen Präsidenten"
+        "zh": "五角大楼敦促加快美国武器生产以应对库存担忧",
+        "en": "Pentagon urges faster US weapons production amid stockpile concerns",
+        "de": "Pentagon drängt auf schnellere US-Waffenproduktion angesichts von Bestandsbedenken"
       },
       "summary": {
-        "zh": "在新总统阿贝拉多·德·拉·埃斯普里埃拉宣誓就职一天后，哥伦比亚一条高速公路发生汽车炸弹袭击，造成严重破坏。",
-        "en": "A car bomb exploded on a highway in Colombia a day after President Abelardo de la Espriella was sworn in, causing significant damage.",
-        "de": "Eine Autobombe explodierte auf einer Autobahn in Kolumbien einen Tag nach der Amtseinführung von Präsident Abelardo de la Espriella und verursachte erhebliche Schäden."
+        "zh": "五角大楼呼吁加快武器生产，以应对中东紧张局势下的库存短缺问题。",
+        "en": "The Pentagon is urging faster weapons production to address stockpile shortages amid rising tensions in the Middle East.",
+        "de": "Das Pentagon drängt auf eine schnellere Waffenproduktion, um Bestandsengpässe angesichts steigender Spannungen im Nahen Osten zu beheben."
       },
       "source": "Al Jazeera",
       "date": "2026-08-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns"
     }
   ],
   "stockNews": [
@@ -109,9 +109,9 @@
         "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze"
       },
       "summary": {
-        "zh": "美国经济在七月意外失去了23000个工作岗位，尽管失业率保持稳定。这一消息给投资者带来了混合信号。",
-        "en": "The U.S. economy unexpectedly lost 23,000 jobs in July, even as the unemployment rate remained steady. This news has left investors with mixed signals.",
-        "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze, obwohl die Arbeitslosenquote stabil blieb. Diese Nachricht hat die Anleger mit gemischten Signalen zurückgelassen."
+        "zh": "尽管失业率下降，美国在七月的非农就业人数意外减少，给投资者带来混合信号。",
+        "en": "Despite a decline in the unemployment rate, nonfarm payrolls unexpectedly decreased in July, leaving investors with mixed signals.",
+        "de": "Trotz eines Rückgangs der Arbeitslosenquote sanken die Nichtlandwirtschaftlichen Löhne im Juli unerwartet, was die Investoren mit gemischten Signalen zurückließ."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-07",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "七月就业报告的三个关键要点",
+        "zh": "七月就业报告的三大关键要点",
         "en": "Here are three key takeaways from the disappointing July jobs report",
-        "de": "Hier sind drei wichtige Erkenntnisse aus dem enttäuschenden Arbeitsmarktbericht für Juli"
+        "de": "Hier sind drei wichtige Erkenntnisse aus dem enttäuschenden Juli-Arbeitsbericht"
       },
       "summary": {
-        "zh": "七月的就业报告显示，美国非农就业人数意外下降，失业率也有所下降，给投资者带来了混合信号。",
-        "en": "The July jobs report indicated an unexpected decline in nonfarm payrolls in the U.S., while the unemployment rate also decreased, leaving investors with mixed signals.",
-        "de": "Der Arbeitsmarktbericht für Juli zeigte einen unerwarteten Rückgang der Nonfarm-Löhne in den USA, während die Arbeitslosenquote ebenfalls sank, was die Anleger mit gemischten Signalen zurückließ."
+        "zh": "七月的就业报告显示非农就业人数意外下降，尽管失业率也有所下降，投资者面临复杂的信号。",
+        "en": "The July jobs report indicates an unexpected decline in nonfarm payrolls, even as the unemployment rate also fell, presenting investors with complex signals.",
+        "de": "Der Juli-Arbeitsbericht zeigt einen unerwarteten Rückgang der Nichtlandwirtschaftlichen Löhne, obwohl die Arbeitslosenquote ebenfalls gesunken ist, was den Investoren komplexe Signale bietet."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-07",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "私营企业在七月仅增加44000个工人，低于预期",
-        "en": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
-        "de": "Private Unternehmen haben im Juli nur 44.000 Arbeiter hinzugefügt, unter den Erwartungen, berichtet ADP"
+        "zh": "七月就业数字将于周五公布。以下是预期：",
+        "en": "The July jobs numbers are due out Friday. Here's what to expect",
+        "de": "Die Juli-Arbeitszahlen werden am Freitag veröffentlicht. Hier ist, was zu erwarten ist"
       },
       "summary": {
-        "zh": "ADP报告显示，私营企业在七月的招聘大幅放缓，仅增加了44000个工人，低于预期。这一趋势引发了对经济增长的担忧。",
-        "en": "ADP reports that private companies significantly slowed hiring in July, adding only 44,000 workers, which is below expectations. This trend raises concerns about economic growth.",
-        "de": "ADP berichtet, dass private Unternehmen im Juli die Einstellungen erheblich verlangsamt haben und nur 44.000 Arbeiter hinzugefügt haben, was unter den Erwartungen liegt. Dieser Trend weckt Bedenken hinsichtlich des Wirtschaftswachstums."
+        "zh": "预计七月非农就业人数将增加83000，失业率保持在4.2%。",
+        "en": "Nonfarm payrolls are expected to post a gain of 83,000 with an unchanged unemployment rate at 4.2%.",
+        "de": "Die Nichtlandwirtschaftlichen Löhne werden voraussichtlich um 83.000 steigen, während die Arbeitslosenquote bei 4,2% unverändert bleibt."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-05",
-      "url": "https://www.cnbc.com/2026/08/05/private-companies-added-just-44000-workers-in-july-below-expectations-adp-reports.html"
+      "date": "2026-08-07",
+      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html"
     }
   ]
 }
