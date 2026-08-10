@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-09T17:00:51.133158+00:00",
+  "generatedAt": "2026-08-10T05:56:01.136073+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：审查阴谋论和首个由AI创建的病毒",
+        "zh": "下载：审查阴谋论和第一个由AI创建的病毒",
         "en": "The Download: a censorship conspiracy theory and the first virus created by AI",
-        "de": "Der Download: Eine Zensurverschwörungstheorie und das erste von KI geschaffene Virus"
+        "de": "Der Download: Eine Zensurverschwörungstheorie und das erste von KI erzeugte Virus"
       },
       "summary": {
-        "zh": "本文讨论了一个关于审查的阴谋论以及首个由人工智能创建的病毒的相关情况。",
-        "en": "This article discusses a conspiracy theory about censorship and the first virus created by artificial intelligence.",
-        "de": "Dieser Artikel behandelt eine Verschwörungstheorie über Zensur und das erste von künstlicher Intelligenz geschaffene Virus."
+        "zh": "今天的下载版介绍了一个审查阴谋论以及第一个由人工智能创建的病毒。这些故事反映了技术领域的最新动态。",
+        "en": "Today's edition of The Download discusses a censorship conspiracy theory and the first virus created by AI. These stories reflect the latest developments in the technology sector.",
+        "de": "Die heutige Ausgabe des Downloads behandelt eine Zensurverschwörungstheorie und das erste von KI erzeugte Virus. Diese Geschichten spiegeln die neuesten Entwicklungen im Technologiesektor wider."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-07",
@@ -20,98 +20,98 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "如何一个庞大的审查网络的想法从网络边缘转向特朗普政策",
-        "en": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-        "de": "Wie Ideen eines riesigen Zensurnetzwerks vom Online-Rand in die Trump-Politik übergingen"
-      },
-      "summary": {
-        "zh": "这篇文章探讨了审查网络的想法如何从网络边缘转变为特朗普政府的政策。",
-        "en": "This article explores how the idea of a censorship network transitioned from the online fringe to become part of Trump administration policy.",
-        "de": "Dieser Artikel untersucht, wie die Idee eines Zensurnetzwerks vom Online-Rand in die Politik der Trump-Administration überging."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-08-07",
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "下载：谷歌的AI动荡和Meta的叛逆模型",
+        "zh": "下载：谷歌的AI动荡和Meta的流氓模型",
         "en": "The Download: Google’s AI shake-up and Meta’s rogue model",
-        "de": "Der Download: Googles KI-Wirbel und Metas abtrünniges Modell"
+        "de": "Der Download: Googles KI-Umbruch und Metas ungehorsames Modell"
       },
       "summary": {
-        "zh": "本文介绍了谷歌在人工智能领域的重大变动以及Meta公司的一些新模型。",
-        "en": "This article highlights significant changes in Google's artificial intelligence landscape and some new models from Meta.",
-        "de": "Dieser Artikel hebt bedeutende Veränderungen im Bereich der künstlichen Intelligenz bei Google hervor und einige neue Modelle von Meta."
+        "zh": "本期下载版探讨了谷歌的AI变革以及Meta的流氓模型。这些变化可能会对技术行业产生深远影响。",
+        "en": "This edition of The Download explores Google's AI shake-up and Meta's rogue model. These changes could have far-reaching implications for the tech industry.",
+        "de": "Diese Ausgabe des Downloads untersucht Googles KI-Umbruch und Metas ungehorsames Modell. Diese Veränderungen könnten weitreichende Auswirkungen auf die Technologiebranche haben."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-06",
       "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "特朗普的AI保护主义已影响机器人技术",
+        "en": "Trump’s AI protectionism has come for robotics",
+        "de": "Trumps KI-Protektionismus hat die Robotik erreicht"
+      },
+      "summary": {
+        "zh": "这篇文章讨论了特朗普的AI保护主义如何影响机器人技术的发展。这一政策可能会改变行业的未来。",
+        "en": "This article discusses how Trump's AI protectionism is impacting the development of robotics. This policy could reshape the future of the industry.",
+        "de": "Dieser Artikel behandelt, wie Trumps KI-Protektionismus die Entwicklung der Robotik beeinflusst. Diese Politik könnte die Zukunft der Branche umgestalten."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-08-03",
+      "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列的占领如何助长抵抗",
-        "en": "How Israel’s occupation fuels resistance",
-        "de": "Wie Israels Besatzung den Widerstand anheizt"
+        "zh": "特朗普在中期选举前任命威尔·沙夫为白宫顾问",
+        "en": "Trump names Will Scharf as White House counsel ahead of midterms",
+        "de": "Trump ernennt Will Scharf zum Berater des Weißen Hauses vor den Zwischenwahlen"
       },
       "summary": {
-        "zh": "这篇文章探讨了以色列的占领如何导致抵抗运动的加剧。",
-        "en": "This article examines how Israel's occupation has intensified resistance movements.",
-        "de": "Dieser Artikel untersucht, wie Israels Besatzung Widerstandsbewegungen verstärkt hat."
+        "zh": "特朗普在中期选举前任命威尔·沙夫为白宫顾问，任命将于9月1日生效。这一任命可能会影响选举策略。",
+        "en": "Trump has appointed Will Scharf as White House counsel ahead of the midterms, effective September 1. This appointment may influence election strategies.",
+        "de": "Trump hat Will Scharf vor den Zwischenwahlen zum Berater des Weißen Hauses ernannt, wirksam ab dem 1. September. Diese Ernennung könnte die Wahlstrategien beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-09",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss"
+      "date": "2026-08-10",
+      "url": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "内塔尼亚胡拒绝美国支持的加沙计划，毫不意外",
-        "en": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
-        "de": "‘Keine Überraschung’: Netanyahu lehnt den von den USA unterstützten Gaza-Plan ab"
+        "zh": "特朗普对伊朗施加经济压力以应对新军事打击",
+        "en": "Trump signals shift to economic pressure on Iran over new military strikes",
+        "de": "Trump signalisiert einen Wechsel zu wirtschaftlichem Druck auf den Iran wegen neuer militärischer Angriffe"
       },
       "summary": {
-        "zh": "内塔尼亚胡对美国支持的加沙计划的拒绝并不令人感到意外，反映了以色列政府的立场。",
-        "en": "Netanyahu's rejection of the US-backed Gaza plan is unsurprising and reflects the stance of the Israeli government.",
-        "de": "Netanyahus Ablehnung des von den USA unterstützten Gaza-Plans ist nicht überraschend und spiegelt die Haltung der israelischen Regierung wider."
+        "zh": "特朗普表示，美国将依靠制裁和海上封锁对伊朗施加经济压力，以应对新的军事打击。这一策略可能会影响地区局势。",
+        "en": "Trump indicated that the U.S. will rely on sanctions and naval blockade to exert economic pressure on Iran in response to new military strikes. This strategy may impact regional dynamics.",
+        "de": "Trump deutete an, dass die USA auf Sanktionen und eine Marineblockade setzen werden, um wirtschaftlichen Druck auf den Iran auszuüben, als Reaktion auf neue militärische Angriffe. Diese Strategie könnte die regionalen Dynamiken beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-09",
-      "url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss"
+      "date": "2026-08-10",
+      "url": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "五角大楼敦促加快美国武器生产以应对库存担忧",
-        "en": "Pentagon urges faster US weapons production amid stockpile concerns",
-        "de": "Pentagon drängt auf schnellere US-Waffenproduktion angesichts von Bestandsbedenken"
+        "zh": "以色列拒绝特朗普的加沙15点计划，内塔尼亚胡表示",
+        "en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "de": "Israel lehnt Trumps 15-Punkte-Plan für Gaza ab, sagt Netanyahu"
       },
       "summary": {
-        "zh": "五角大楼呼吁加快武器生产，以应对中东紧张局势下的库存短缺问题。",
-        "en": "The Pentagon is urging faster weapons production to address stockpile shortages amid rising tensions in the Middle East.",
-        "de": "Das Pentagon drängt auf eine schnellere Waffenproduktion, um Bestandsengpässe angesichts steigender Spannungen im Nahen Osten zu beheben."
+        "zh": "以色列总理内塔尼亚胡表示，以色列军方不会撤出加沙，直到哈马斯“真正”解除武装。此声明可能加剧地区紧张局势。",
+        "en": "Israeli Prime Minister Netanyahu stated that the military will not withdraw from Gaza until Hamas is 'genuinely' disarmed. This statement may escalate regional tensions.",
+        "de": "Der israelische Premierminister Netanyahu erklärte, dass das Militär nicht aus dem Gazastreifen abziehen wird, bis Hamas 'wirklich' entwaffnet ist. Diese Aussage könnte die regionalen Spannungen verschärfen."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-08-09",
-      "url": "https://www.aljazeera.com/news/2026/8/9/pentagon-urges-faster-us-weapons-production-amid-stockpile-concerns"
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国经济在七月意外失去23000个工作岗位",
+        "zh": "美国经济在7月意外失去23000个工作岗位",
         "en": "U.S. economy unexpectedly lost 23,000 jobs in July",
         "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze"
       },
       "summary": {
-        "zh": "尽管失业率下降，美国在七月的非农就业人数意外减少，给投资者带来混合信号。",
-        "en": "Despite a decline in the unemployment rate, nonfarm payrolls unexpectedly decreased in July, leaving investors with mixed signals.",
-        "de": "Trotz eines Rückgangs der Arbeitslosenquote sanken die Nichtlandwirtschaftlichen Löhne im Juli unerwartet, was die Investoren mit gemischten Signalen zurückließ."
+        "zh": "美国经济在7月意外失去23000个工作岗位，尽管失业率也有所下降。这一数据给投资者带来了混合信号。",
+        "en": "The U.S. economy unexpectedly lost 23,000 jobs in July, although the unemployment rate also declined. This data presents mixed signals for investors.",
+        "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze, obwohl die Arbeitslosenquote ebenfalls sank. Diese Daten liefern gemischte Signale für Investoren."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-07",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "七月就业报告的三大关键要点",
-        "en": "Here are three key takeaways from the disappointing July jobs report",
-        "de": "Hier sind drei wichtige Erkenntnisse aus dem enttäuschenden Juli-Arbeitsbericht"
+        "zh": "欧洲因极端干旱而炸毁河床，经济遭受重创",
+        "en": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+        "de": "Europa sprengt Flussbetten, während eine extreme Dürre seine Wirtschaft verwüstet"
       },
       "summary": {
-        "zh": "七月的就业报告显示非农就业人数意外下降，尽管失业率也有所下降，投资者面临复杂的信号。",
-        "en": "The July jobs report indicates an unexpected decline in nonfarm payrolls, even as the unemployment rate also fell, presenting investors with complex signals.",
-        "de": "Der Juli-Arbeitsbericht zeigt einen unerwarteten Rückgang der Nichtlandwirtschaftlichen Löhne, obwohl die Arbeitslosenquote ebenfalls gesunken ist, was den Investoren komplexe Signale bietet."
+        "zh": "极端干旱正在扰乱欧洲的能源和货运，导致莱茵河和多瑙河水位降低，增加了供应链和经济增长的风险。",
+        "en": "Extreme drought is disrupting energy and freight across Europe, as low Rhine and Danube levels raise risks for supply chains and economic growth.",
+        "de": "Extreme Dürre stört die Energie- und Frachtwirtschaft in ganz Europa, da niedrige Wasserstände von Rhein und Donau die Risiken für Lieferketten und das Wirtschaftswachstum erhöhen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-07",
-      "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html"
+      "date": "2026-08-05",
+      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "七月就业数字将于周五公布。以下是预期：",
-        "en": "The July jobs numbers are due out Friday. Here's what to expect",
-        "de": "Die Juli-Arbeitszahlen werden am Freitag veröffentlicht. Hier ist, was zu erwarten ist"
+        "zh": "S&P 500销售增长达到近5年高点，背后的原因是什么",
+        "en": "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
+        "de": "Das Umsatzwachstum des S&P 500 erreicht fast ein 5-Jahres-Hoch. Hier sind die Gründe für den Anstieg."
       },
       "summary": {
-        "zh": "预计七月非农就业人数将增加83000，失业率保持在4.2%。",
-        "en": "Nonfarm payrolls are expected to post a gain of 83,000 with an unchanged unemployment rate at 4.2%.",
-        "de": "Die Nichtlandwirtschaftlichen Löhne werden voraussichtlich um 83.000 steigen, während die Arbeitslosenquote bei 4,2% unverändert bleibt."
+        "zh": "S&P 500的销售增长达到了近五年来的最高点，能源公司在第二季度实现了42.5%的收入增长，推动了该指数的表现。",
+        "en": "The S&P 500's sales growth has reached its highest point in nearly five years, driven by a 42.5% revenue gain from energy companies in the second quarter.",
+        "de": "Das Umsatzwachstum des S&P 500 hat den höchsten Stand seit fast fünf Jahren erreicht, angetrieben von einem Umsatzanstieg von 42,5 % bei Energieunternehmen im zweiten Quartal."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-08-07",
-      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-09",
+      "url": "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories"
     }
   ]
 }
