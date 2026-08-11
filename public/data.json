@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-08-11T05:36:31.386719+00:00",
+  "generatedAt": "2026-08-11T17:23:39.549898+00:00",
   "aiNews": [
     {
       "id": "ai-1",
+      "title": {
+        "zh": "下载：大型语言模型的下一个重大突破以及人工智能学术研究的转变",
+        "en": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+        "de": "Der Download: das nächste große Ding bei LLMs und wie sich die akademische Forschung im Bereich KI verändert"
+      },
+      "summary": {
+        "zh": "本期《下载》探讨了大型语言模型（LLMs）的未来发展以及人工智能学术研究的变化趋势。",
+        "en": "This edition of The Download explores the future developments of large language models (LLMs) and the changing trends in AI academic research.",
+        "de": "Diese Ausgabe des Downloads untersucht die zukünftigen Entwicklungen von großen Sprachmodellen (LLMs) und die sich verändernden Trends in der akademischen KI-Forschung."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-08-11",
+      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/"
+    },
+    {
+      "id": "ai-2",
       "title": {
         "zh": "人工智能教授正在协商学术研究的新现实",
         "en": "AI professors are negotiating the new realities of academic research",
         "de": "KI-Professoren verhandeln über die neuen Realitäten der akademischen Forschung"
       },
       "summary": {
-        "zh": "人工智能教授们正在应对学术研究的新挑战，探讨如何在快速发展的技术环境中保持研究的有效性和伦理性。",
-        "en": "AI professors are confronting new challenges in academic research, discussing how to maintain the effectiveness and ethics of research in a rapidly evolving technological landscape.",
-        "de": "KI-Professoren stehen vor neuen Herausforderungen in der akademischen Forschung und diskutieren, wie sie die Wirksamkeit und Ethik der Forschung in einer sich schnell entwickelnden technologischen Landschaft aufrechterhalten können."
+        "zh": "这篇文章探讨了人工智能教授如何应对学术研究中出现的新挑战和机遇。",
+        "en": "This article discusses how AI professors are addressing new challenges and opportunities arising in academic research.",
+        "de": "Dieser Artikel behandelt, wie KI-Professoren mit neuen Herausforderungen und Chancen in der akademischen Forschung umgehen."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-10",
       "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "科学需要推理的人工智能，而不仅仅是数据",
+        "zh": "人工智能科学需要推理，而不仅仅是数据",
         "en": "AI for science needs reasoning, not just data",
         "de": "KI für die Wissenschaft benötigt Argumentation, nicht nur Daten"
       },
       "summary": {
-        "zh": "科学研究的未来需要人工智能具备推理能力，而不仅仅依赖于数据处理，这将推动科学的进一步发展。",
-        "en": "The future of scientific research requires AI to possess reasoning capabilities, not just rely on data processing, which will drive further advancements in science.",
-        "de": "Die Zukunft der wissenschaftlichen Forschung erfordert, dass KI über Argumentationsfähigkeiten verfügt und sich nicht nur auf die Datenverarbeitung verlässt, was weitere Fortschritte in der Wissenschaft vorantreiben wird."
+        "zh": "文章强调了在科学研究中，人工智能不仅需要大量数据，还需要推理能力以推动科学进步。",
+        "en": "The article emphasizes that in scientific research, AI needs not only vast amounts of data but also reasoning capabilities to drive scientific advancement.",
+        "de": "Der Artikel betont, dass KI in der wissenschaftlichen Forschung nicht nur große Datenmengen, sondern auch Argumentationsfähigkeiten benötigt, um den wissenschaftlichen Fortschritt voranzutreiben."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-10",
       "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "这些初创公司正在追逐大型语言模型的下一个重大突破",
-        "en": "These startups are chasing the next big thing in LLMs",
-        "de": "Diese Startups jagen das nächste große Ding in LLMs"
-      },
-      "summary": {
-        "zh": "多家初创公司正在探索大型语言模型的潜力，寻求在人工智能领域实现突破性进展。",
-        "en": "Several startups are exploring the potential of large language models, seeking to achieve breakthrough advancements in the field of artificial intelligence.",
-        "de": "Mehrere Startups erkunden das Potenzial großer Sprachmodelle und streben danach, bahnbrechende Fortschritte im Bereich der künstlichen Intelligenz zu erzielen."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-08-10",
-      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "索马里裁判在世界杯排除后抵达欧洲超级杯",
-        "en": "Somali referee arrives for UEFA Super Cup after World Cup exclusion",
-        "de": "Somalischer Schiedsrichter kommt nach WM-Ausschluss zum UEFA Super Cup"
+        "zh": "俄罗斯释放被拘留的前美国海军陆战队员罗伯特·吉尔曼",
+        "en": "Russia frees ex-US Marine Robert Gilman from detention",
+        "de": "Russland entlässt den ehemaligen US-Marine Robert Gilman aus der Haft"
       },
       "summary": {
-        "zh": "索马里裁判奥马尔·阿尔坦将成为历史上第一位非欧洲裁判，执法欧洲超级杯，标志着重要的里程碑。",
-        "en": "Somali referee Omar Artan will make history as the first non-European referee to officiate the UEFA Super Cup, marking a significant milestone.",
-        "de": "Der somalische Schiedsrichter Omar Artan wird Geschichte schreiben, indem er als erster nicht-europäischer Schiedsrichter den UEFA Super Cup leitet, was einen bedeutenden Meilenstein darstellt."
+        "zh": "美国政府最近将吉尔曼认定为错误拘留，俄罗斯决定释放他。",
+        "en": "The US government recently designated Gilman as wrongfully detained, leading to his release by Russia.",
+        "de": "Die US-Regierung hat Gilman kürzlich als rechtswidrig inhaftiert eingestuft, was zu seiner Freilassung durch Russland führte."
       },
       "source": "Al Jazeera",
       "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "哥伦比亚地震摧毁家庭，家人无能为力",
-        "en": "Family watches helplessly as Colombia quake destroys home",
-        "de": "Familie sieht hilflos zu, wie Erdbeben in Kolumbien ihr Zuhause zerstört"
+        "zh": "特朗普因限制出生公民权的推动面临诉讼",
+        "en": "Trump faces lawsuit over push to limit birthright citizenship",
+        "de": "Trump sieht sich einer Klage wegen des Versuchs gegenüber, das Geburtsrecht auf Staatsbürgerschaft einzuschränken"
       },
       "summary": {
-        "zh": "在哥伦比亚发生的7.4级地震中，一家人无助地记录下他们的家被摧毁的瞬间，突显了自然灾害的破坏力。",
-        "en": "A family documents the moment a magnitude 7.4 earthquake hits Colombia, destroying their home, highlighting the devastating impact of natural disasters.",
-        "de": "Eine Familie dokumentiert den Moment, als ein Erdbeben der Stärke 7,4 Kolumbien trifft und ihr Zuhause zerstört, was die verheerenden Auswirkungen von Naturkatastrophen verdeutlicht."
+        "zh": "尽管之前的最高法院裁决，特朗普仍寻求新的方法来限制这一长期实践。",
+        "en": "Despite previous Supreme Court rulings, Trump is seeking new approaches to limit this longstanding practice.",
+        "de": "Trotz früherer Urteile des Obersten Gerichtshofs sucht Trump nach neuen Ansätzen, um diese langjährige Praxis einzuschränken."
       },
       "source": "Al Jazeera",
       "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/11/trump-faces-lawsuit-over-push-to-limit-birthright-citizenship?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普的媒体公司报告亏损2.38亿美元",
-        "en": "Trump’s media company reports $238m loss",
-        "de": "Trumps Medienunternehmen meldet einen Verlust von 238 Millionen Dollar"
+        "zh": "黎巴嫩议会投票结束死刑，成为中东首个这样做的国家",
+        "en": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
+        "de": "Das libanesische Parlament stimmt für die Abschaffung der Todesstrafe, das erste im Nahen Osten, das dies tut"
       },
       "summary": {
-        "zh": "特朗普媒体与科技集团在第二季度的收入不到200万美元，显示出其财务状况的严峻性。",
-        "en": "Trump Media & Technology Group earned less than $2 million in Q2, reflecting the severity of its financial situation.",
-        "de": "Die Trump Media & Technology Group erzielte im zweiten Quartal weniger als 2 Millionen Dollar, was die Schwere ihrer finanziellen Situation widerspiegelt."
+        "zh": "黎巴嫩议会通过新法案，死刑将被终身监禁和加重苦役所取代。",
+        "en": "The Lebanese parliament passed a new law replacing the death penalty with life imprisonment and hard labor.",
+        "de": "Das libanesische Parlament hat ein neues Gesetz verabschiedet, das die Todesstrafe durch lebenslange Haft und Zwangsarbeit ersetzt."
       },
       "source": "Al Jazeera",
       "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/news/2026/8/11/trumps-media-company-reports-238m-loss?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国经济在7月意外失去23000个工作岗位",
+        "zh": "美国经济在七月意外失去23000个工作岗位",
         "en": "U.S. economy unexpectedly lost 23,000 jobs in July",
         "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze"
       },
       "summary": {
-        "zh": "尽管失业率下降，美国的非农就业人数在7月意外下降，给投资者带来了混合信号。",
-        "en": "Despite a decline in the unemployment rate, nonfarm payrolls in the U.S. unexpectedly declined in July, leaving investors with mixed signals.",
-        "de": "Trotz eines Rückgangs der Arbeitslosenquote sank die Zahl der Nichtlandwirtschaftlichen Beschäftigten in den USA im Juli unerwartet, was die Anleger mit gemischten Signalen zurücklässt."
+        "zh": "尽管失业率有所下降，但美国非农就业人数在七月意外下降，给投资者带来了混合信号。",
+        "en": "Despite a decline in the unemployment rate, nonfarm payrolls in the U.S. unexpectedly fell in July, leaving investors with mixed signals.",
+        "de": "Trotz eines Rückgangs der Arbeitslosenquote fielen die Nonfarm-Löhne in den USA im Juli unerwartet, was die Investoren mit gemischten Signalen zurückließ."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-07",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "英伟达与华尔街公司合作，帮助融资5000亿美元的人工智能基础设施",
-        "en": "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
-        "de": "Nvidia arbeitet mit Wall-Street-Firmen zusammen, um 500 Milliarden Dollar für KI-Infrastruktur zu finanzieren"
+        "zh": "欧洲因极端干旱而炸毁河床，经济受到严重影响",
+        "en": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+        "de": "Europa sprengt Flussbetten, während eine extreme Dürre seine Wirtschaft durcheinander bringt"
       },
       "summary": {
-        "zh": "英伟达宣布与七家华尔街金融机构合作，旨在筹集超过5000亿美元的第三方资本，以支持人工智能基础设施的发展。",
-        "en": "Nvidia announced a partnership with seven Wall Street financial institutions aimed at raising over $500 billion of third-party capital to support the development of AI infrastructure.",
-        "de": "Nvidia kündigte eine Partnerschaft mit sieben Wall-Street-Finanzinstituten an, die darauf abzielt, über 500 Milliarden Dollar an Fremdkapital zur Unterstützung der Entwicklung von KI-Infrastruktur zu beschaffen."
+        "zh": "严重的干旱正在扰乱欧洲的能源和货运，低水位增加了供应链和经济增长的风险。",
+        "en": "Severe drought is disrupting energy and freight across Europe as low water levels raise risks for supply chains and economic growth.",
+        "de": "Schwere Dürre stört die Energie- und Frachtdienste in ganz Europa, da niedrige Wasserstände die Risiken für Lieferketten und das Wirtschaftswachstum erhöhen."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-08-11",
-      "url": "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-08-05",
+      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "苹果的股票可能表现不佳，尤其是在没有“全玻璃”iPhone的情况下，分析师警告",
-        "en": "Apple’s stock could underperform, especially without an ‘all-glass’ iPhone, this analyst warns",
-        "de": "Analyst warnt: Apples Aktie könnte unterperformen, insbesondere ohne ein 'vollverglastes' iPhone"
+        "zh": "美国股市即将迎来历史上强劲的增长期",
+        "en": "A historically strong stretch for the U.S. stock market is about to begin",
+        "de": "Eine historisch starke Phase für den US-Aktienmarkt steht bevor"
       },
       "summary": {
-        "zh": "分析师表示，苹果在推出更昂贵设备以提高盈利能力方面可能面临挑战，特别是在没有“全玻璃”iPhone的情况下。",
-        "en": "Analysts warn that Apple may face challenges in rolling out more expensive devices to boost profitability, especially without an 'all-glass' iPhone.",
-        "de": "Analysten warnen, dass Apple Schwierigkeiten haben könnte, teurere Geräte zur Steigerung der Rentabilität einzuführen, insbesondere ohne ein 'vollverglastes' iPhone."
+        "zh": "一些投资者担心，随着这一由人工智能驱动的牛市接近第四个生日，市场可能会变得过热。",
+        "en": "Some investors are worried that as this AI-powered bull market approaches its fourth birthday, the market may be getting a bit overheated.",
+        "de": "Einige Investoren befürchten, dass der AI-gesteuerte Bullenmarkt, der sich seinem vierten Geburtstag nähert, möglicherweise etwas überhitzt wird."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-08-10",
-      "url": "https://www.marketwatch.com/story/apples-stock-could-underperform-especially-without-an-all-glass-iphone-this-analyst-warns-fc9a750c?mod=mw_rss_topstories"
+      "date": "2026-08-11",
+      "url": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories"
     }
   ]
 }
