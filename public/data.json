@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-11T17:23:39.549898+00:00",
+  "generatedAt": "2026-08-12T05:58:22.356188+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：大型语言模型的下一个重大突破以及人工智能学术研究的转变",
-        "en": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-        "de": "Der Download: das nächste große Ding bei LLMs und wie sich die akademische Forschung im Bereich KI verändert"
+        "zh": "“审查工业综合体”如何改变互联网和美国政策",
+        "en": "How the “censorship-industrial complex” is changing the Internet and US policy",
+        "de": "Wie der „Zensur-industrielle Komplex“ das Internet und die US-Politik verändert"
       },
       "summary": {
-        "zh": "本期《下载》探讨了大型语言模型（LLMs）的未来发展以及人工智能学术研究的变化趋势。",
-        "en": "This edition of The Download explores the future developments of large language models (LLMs) and the changing trends in AI academic research.",
-        "de": "Diese Ausgabe des Downloads untersucht die zukünftigen Entwicklungen von großen Sprachmodellen (LLMs) und die sich verändernden Trends in der akademischen KI-Forschung."
+        "zh": "这篇文章探讨了“审查工业综合体”如何影响美国的政策和互联网环境，特别是涉及到信息控制和言论自由的问题。",
+        "en": "This article explores how the 'censorship-industrial complex' is influencing U.S. policy and the internet landscape, particularly regarding information control and freedom of speech.",
+        "de": "Dieser Artikel untersucht, wie der 'Zensur-industrielle Komplex' die US-Politik und die Internetlandschaft beeinflusst, insbesondere in Bezug auf Informationskontrolle und Meinungsfreiheit."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-08-11",
+      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "下载：大型语言模型的下一个重大进展以及人工智能学术研究的变化",
+        "en": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+        "de": "Der Download: das nächste große Ding in LLMs und wie sich die akademische Forschung im Bereich KI verändert"
+      },
+      "summary": {
+        "zh": "本期下载专注于大型语言模型的最新进展，以及人工智能学术研究的转变，强调了技术领域的最新动态。",
+        "en": "This edition of The Download focuses on the latest advancements in large language models and the shifts in AI academic research, highlighting recent developments in the tech field.",
+        "de": "Diese Ausgabe von The Download konzentriert sich auf die neuesten Fortschritte bei großen Sprachmodellen und die Veränderungen in der akademischen Forschung im Bereich KI und hebt aktuelle Entwicklungen im Technologiebereich hervor."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-11",
       "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/"
     },
     {
-      "id": "ai-2",
+      "id": "ai-3",
       "title": {
-        "zh": "人工智能教授正在协商学术研究的新现实",
+        "zh": "AI教授正在协商学术研究的新现实",
         "en": "AI professors are negotiating the new realities of academic research",
         "de": "KI-Professoren verhandeln über die neuen Realitäten der akademischen Forschung"
       },
       "summary": {
-        "zh": "这篇文章探讨了人工智能教授如何应对学术研究中出现的新挑战和机遇。",
-        "en": "This article discusses how AI professors are addressing new challenges and opportunities arising in academic research.",
-        "de": "Dieser Artikel behandelt, wie KI-Professoren mit neuen Herausforderungen und Chancen in der akademischen Forschung umgehen."
+        "zh": "这篇文章讨论了人工智能教授如何应对学术研究中的新挑战和现实，特别是在资金和研究方向方面。",
+        "en": "This article discusses how AI professors are navigating new challenges and realities in academic research, particularly regarding funding and research directions.",
+        "de": "Dieser Artikel behandelt, wie KI-Professoren mit neuen Herausforderungen und Realitäten in der akademischen Forschung umgehen, insbesondere in Bezug auf Finanzierung und Forschungsrichtungen."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-10",
       "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "人工智能科学需要推理，而不仅仅是数据",
-        "en": "AI for science needs reasoning, not just data",
-        "de": "KI für die Wissenschaft benötigt Argumentation, nicht nur Daten"
-      },
-      "summary": {
-        "zh": "文章强调了在科学研究中，人工智能不仅需要大量数据，还需要推理能力以推动科学进步。",
-        "en": "The article emphasizes that in scientific research, AI needs not only vast amounts of data but also reasoning capabilities to drive scientific advancement.",
-        "de": "Der Artikel betont, dass KI in der wissenschaftlichen Forschung nicht nur große Datenmengen, sondern auch Argumentationsfähigkeiten benötigt, um den wissenschaftlichen Fortschritt voranzutreiben."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-08-10",
-      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯释放被拘留的前美国海军陆战队员罗伯特·吉尔曼",
-        "en": "Russia frees ex-US Marine Robert Gilman from detention",
-        "de": "Russland entlässt den ehemaligen US-Marine Robert Gilman aus der Haft"
+        "zh": "泽连斯基表示乌克兰已向美国提出结束与俄罗斯战争的提案",
+        "en": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
+        "de": "Zelenskyy sagt, dass die Ukraine den USA Vorschläge zur Beendigung des Krieges mit Russland unterbreitet hat"
       },
       "summary": {
-        "zh": "美国政府最近将吉尔曼认定为错误拘留，俄罗斯决定释放他。",
-        "en": "The US government recently designated Gilman as wrongfully detained, leading to his release by Russia.",
-        "de": "Die US-Regierung hat Gilman kürzlich als rechtswidrig inhaftiert eingestuft, was zu seiner Freilassung durch Russland führte."
+        "zh": "乌克兰总统泽连斯基表示，乌克兰已向美国提交了结束与俄罗斯战争的提案，并警告俄罗斯可能利用即将到来的选举作为动员的借口。",
+        "en": "Ukrainian President Zelenskyy stated that Ukraine has submitted proposals to the U.S. to end the war with Russia, warning that Russia may use its upcoming election as a pretext for mobilization.",
+        "de": "Der ukrainische Präsident Zelenskyy erklärte, dass die Ukraine den USA Vorschläge zur Beendigung des Krieges mit Russland unterbreitet hat und warnte, dass Russland seine bevorstehenden Wahlen als Vorwand für eine Mobilisierung nutzen könnte."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/news/2026/8/11/russia-frees-ex-us-marine-robert-gilman-from-detention?traffic_source=rss"
+      "date": "2026-08-12",
+      "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普因限制出生公民权的推动面临诉讼",
-        "en": "Trump faces lawsuit over push to limit birthright citizenship",
-        "de": "Trump sieht sich einer Klage wegen des Versuchs gegenüber, das Geburtsrecht auf Staatsbürgerschaft einzuschränken"
+        "zh": "特朗普表示他在北约峰会后因可能的威胁而换飞机",
+        "en": "Trump says he switched planes after Nato summit because of possible threat",
+        "de": "Trump sagt, dass er nach dem NATO-Gipfel wegen einer möglichen Bedrohung das Flugzeug gewechselt hat"
       },
       "summary": {
-        "zh": "尽管之前的最高法院裁决，特朗普仍寻求新的方法来限制这一长期实践。",
-        "en": "Despite previous Supreme Court rulings, Trump is seeking new approaches to limit this longstanding practice.",
-        "de": "Trotz früherer Urteile des Obersten Gerichtshofs sucht Trump nach neuen Ansätzen, um diese langjährige Praxis einzuschränken."
+        "zh": "特朗普表示，在北约峰会后，他因可能的威胁而更换了飞机，并称他所乘坐的飞机比替代的空军一号更危险。",
+        "en": "Trump stated that he switched planes after the NATO summit due to a possible threat, claiming that the jet he boarded was at greater risk than the decoy Air Force One.",
+        "de": "Trump erklärte, dass er nach dem NATO-Gipfel wegen einer möglichen Bedrohung das Flugzeug gewechselt hat und behauptete, dass das Flugzeug, in das er einstieg, einem größeren Risiko ausgesetzt war als das Täuschungsflugzeug Air Force One."
       },
-      "source": "Al Jazeera",
-      "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/news/2026/8/11/trump-faces-lawsuit-over-push-to-limit-birthright-citizenship?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-08-12",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "黎巴嫩议会投票结束死刑，成为中东首个这样做的国家",
-        "en": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
-        "de": "Das libanesische Parlament stimmt für die Abschaffung der Todesstrafe, das erste im Nahen Osten, das dies tut"
+        "zh": "以色列袭击、拆迁持续，联合国警告西岸处于崩溃边缘",
+        "en": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
+        "de": "Israelische Überfälle und Abrisse gehen weiter, während die UN warnt, dass das Westjordanland am Rande des Zusammenbruchs steht"
       },
       "summary": {
-        "zh": "黎巴嫩议会通过新法案，死刑将被终身监禁和加重苦役所取代。",
-        "en": "The Lebanese parliament passed a new law replacing the death penalty with life imprisonment and hard labor.",
-        "de": "Das libanesische Parlament hat ein neues Gesetz verabschiedet, das die Todesstrafe durch lebenslange Haft und Zwangsarbeit ersetzt."
+        "zh": "以色列军队在西岸进行的袭击和拆迁行动持续进行，联合国警告该地区面临崩溃的风险。",
+        "en": "Israeli military raids and demolitions continue in the West Bank, with the UN warning that the region is on the brink of collapse.",
+        "de": "Israelische Militärüberfälle und Abrisse setzen sich im Westjordanland fort, während die UN warnt, dass die Region am Rande des Zusammenbruchs steht."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-11",
-      "url": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss"
+      "date": "2026-08-12",
+      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国经济在七月意外失去23000个工作岗位",
+        "zh": "周三的通胀报告对美联储来说应该是一个大事件。我们可以期待什么",
+        "en": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
+        "de": "Ein Inflationsbericht am Mittwoch sollte für die Fed ein großes Ereignis sein. Das ist zu erwarten"
+      },
+      "summary": {
+        "zh": "预计周三发布的消费者价格指数将显示七月份仅有适度的增长，这对美联储的决策至关重要。",
+        "en": "The consumer price index expected to be released on Wednesday is anticipated to show only a modest increase for July, which is crucial for the Fed's decision-making.",
+        "de": "Der am Mittwoch erwartete Verbraucherpreisindex wird voraussichtlich nur einen moderaten Anstieg für Juli zeigen, was für die Entscheidungen der Fed von entscheidender Bedeutung ist."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-08-11",
+      "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
+        "zh": "美国经济在七月份意外失去23000个工作岗位",
         "en": "U.S. economy unexpectedly lost 23,000 jobs in July",
         "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze"
       },
       "summary": {
-        "zh": "尽管失业率有所下降，但美国非农就业人数在七月意外下降，给投资者带来了混合信号。",
-        "en": "Despite a decline in the unemployment rate, nonfarm payrolls in the U.S. unexpectedly fell in July, leaving investors with mixed signals.",
-        "de": "Trotz eines Rückgangs der Arbeitslosenquote fielen die Nonfarm-Löhne in den USA im Juli unerwartet, was die Investoren mit gemischten Signalen zurückließ."
+        "zh": "尽管失业率保持不变，美国的非农就业人数在七月份意外下降，给投资者带来了混合信号。",
+        "en": "Despite the unemployment rate remaining steady, nonfarm payrolls in the U.S. unexpectedly declined in July, leaving investors with mixed signals.",
+        "de": "Trotz stabiler Arbeitslosenquote sank die Zahl der Nichtlandwirtschaftlichen Beschäftigten in den USA im Juli unerwartet, was die Investoren mit gemischten Signalen zurückließ."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-07",
       "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html"
     },
     {
-      "id": "stk-2",
-      "title": {
-        "zh": "欧洲因极端干旱而炸毁河床，经济受到严重影响",
-        "en": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
-        "de": "Europa sprengt Flussbetten, während eine extreme Dürre seine Wirtschaft durcheinander bringt"
-      },
-      "summary": {
-        "zh": "严重的干旱正在扰乱欧洲的能源和货运，低水位增加了供应链和经济增长的风险。",
-        "en": "Severe drought is disrupting energy and freight across Europe as low water levels raise risks for supply chains and economic growth.",
-        "de": "Schwere Dürre stört die Energie- und Frachtdienste in ganz Europa, da niedrige Wasserstände die Risiken für Lieferketten und das Wirtschaftswachstum erhöhen."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-08-05",
-      "url": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html"
-    },
-    {
       "id": "stk-3",
       "title": {
-        "zh": "美国股市即将迎来历史上强劲的增长期",
-        "en": "A historically strong stretch for the U.S. stock market is about to begin",
-        "de": "Eine historisch starke Phase für den US-Aktienmarkt steht bevor"
+        "zh": "CoreWeave的股票因收益显示出重大AI势头而飙升",
+        "en": "CoreWeave’s stock soars as earnings show major AI momentum",
+        "de": "Die Aktie von CoreWeave steigt stark, da die Gewinne einen erheblichen AI-Momentum zeigen"
       },
       "summary": {
-        "zh": "一些投资者担心，随着这一由人工智能驱动的牛市接近第四个生日，市场可能会变得过热。",
-        "en": "Some investors are worried that as this AI-powered bull market approaches its fourth birthday, the market may be getting a bit overheated.",
-        "de": "Einige Investoren befürchten, dass der AI-gesteuerte Bullenmarkt, der sich seinem vierten Geburtstag nähert, möglicherweise etwas überhitzt wird."
+        "zh": "CoreWeave的股票因其超出预期的收入和收益而大幅上涨，CEO称这是一个重要的转折点。",
+        "en": "CoreWeave's stock surged significantly due to its earnings surpassing expectations, with the CEO calling it an important inflection point.",
+        "de": "Die Aktie von CoreWeave stieg erheblich, da die Gewinne die Erwartungen übertrafen, wobei der CEO es als einen wichtigen Wendepunkt bezeichnete."
       },
       "source": "MarketWatch – Top Stories",
-      "date": "2026-08-11",
-      "url": "https://www.marketwatch.com/story/a-historically-strong-stretch-for-the-u-s-stock-market-is-about-to-begin-07281312?mod=mw_rss_topstories"
+      "date": "2026-08-12",
+      "url": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories"
     }
   ]
 }
