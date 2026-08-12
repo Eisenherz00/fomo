@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-08-12T05:58:22.356188+00:00",
+  "generatedAt": "2026-08-12T17:23:55.277834+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "“审查工业综合体”如何改变互联网和美国政策",
-        "en": "How the “censorship-industrial complex” is changing the Internet and US policy",
-        "de": "Wie der „Zensur-industrielle Komplex“ das Internet und die US-Politik verändert"
+        "zh": "用可信数据扩展AI代理：商业和技术领导者无需说服，代理AI的时代已经到来。",
+        "en": "Scaling AI agents with trustworthy data: Business and technology leaders need no convincing that the time of agentic AI is here.",
+        "de": "Skalierung von KI-Agenten mit vertrauenswürdigen Daten: Geschäfts- und Technologieführer müssen nicht überzeugt werden, dass die Zeit der agentischen KI gekommen ist."
       },
       "summary": {
-        "zh": "这篇文章探讨了“审查工业综合体”如何影响美国的政策和互联网环境，特别是涉及到信息控制和言论自由的问题。",
-        "en": "This article explores how the 'censorship-industrial complex' is influencing U.S. policy and the internet landscape, particularly regarding information control and freedom of speech.",
-        "de": "Dieser Artikel untersucht, wie der 'Zensur-industrielle Komplex' die US-Politik und die Internetlandschaft beeinflusst, insbesondere in Bezug auf Informationskontrolle und Meinungsfreiheit."
+        "zh": "越来越多的组织正在迅速采用AI代理，商业和技术领导者对此深信不疑。随着AI代理的兴起，企业需要确保数据的可信性以支持其应用。",
+        "en": "Organizations are rapidly adopting AI agents, and business and technology leaders are convinced of their necessity. As AI agents rise, businesses need to ensure the trustworthiness of data to support their applications.",
+        "de": "Organisationen übernehmen schnell KI-Agenten, und Geschäfts- sowie Technologieführer sind von deren Notwendigkeit überzeugt. Mit dem Aufstieg der KI-Agenten müssen Unternehmen die Vertrauenswürdigkeit von Daten sicherstellen, um deren Anwendungen zu unterstützen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-11",
-      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/"
+      "date": "2026-08-12",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "下载：大型语言模型的下一个重大进展以及人工智能学术研究的变化",
-        "en": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-        "de": "Der Download: das nächste große Ding in LLMs und wie sich die akademische Forschung im Bereich KI verändert"
+        "zh": "下载：我们35位年轻创新者和“审查工业综合体”",
+        "en": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+        "de": "Der Download: unsere 35 jungen Innovatoren und der „Zensur-Industrie-Komplex“"
       },
       "summary": {
-        "zh": "本期下载专注于大型语言模型的最新进展，以及人工智能学术研究的转变，强调了技术领域的最新动态。",
-        "en": "This edition of The Download focuses on the latest advancements in large language models and the shifts in AI academic research, highlighting recent developments in the tech field.",
-        "de": "Diese Ausgabe von The Download konzentriert sich auf die neuesten Fortschritte bei großen Sprachmodellen und die Veränderungen in der akademischen Forschung im Bereich KI und hebt aktuelle Entwicklungen im Technologiebereich hervor."
+        "zh": "本期《下载》介绍了35位年轻的创新者，并探讨了“审查工业综合体”的影响。此现象在当今技术世界中引发了广泛关注。",
+        "en": "This edition of The Download features 35 young innovators and discusses the impact of the 'censorship-industrial complex.' This phenomenon has garnered significant attention in today's technological landscape.",
+        "de": "Diese Ausgabe des Downloads stellt 35 junge Innovatoren vor und diskutiert die Auswirkungen des 'Zensur-Industrie-Komplexes'. Dieses Phänomen hat in der heutigen Technologielandschaft erhebliche Aufmerksamkeit erregt."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-11",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/"
+      "date": "2026-08-12",
+      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/"
     },
     {
       "id": "ai-3",
       "title": {
         "zh": "AI教授正在协商学术研究的新现实",
         "en": "AI professors are negotiating the new realities of academic research",
-        "de": "KI-Professoren verhandeln über die neuen Realitäten der akademischen Forschung"
+        "de": "KI-Professoren verhandeln die neuen Realitäten der akademischen Forschung"
       },
       "summary": {
-        "zh": "这篇文章讨论了人工智能教授如何应对学术研究中的新挑战和现实，特别是在资金和研究方向方面。",
-        "en": "This article discusses how AI professors are navigating new challenges and realities in academic research, particularly regarding funding and research directions.",
-        "de": "Dieser Artikel behandelt, wie KI-Professoren mit neuen Herausforderungen und Realitäten in der akademischen Forschung umgehen, insbesondere in Bezug auf Finanzierung und Forschungsrichtungen."
+        "zh": "AI教授们正在应对学术研究的新现实，尤其是在技术快速发展的背景下。此变化对研究方法和学术环境产生了深远影响。",
+        "en": "AI professors are navigating the new realities of academic research, particularly in the context of rapid technological advancements. This shift has profound implications for research methodologies and the academic environment.",
+        "de": "KI-Professoren navigieren durch die neuen Realitäten der akademischen Forschung, insbesondere im Kontext schneller technologischer Fortschritte. Dieser Wandel hat tiefgreifende Auswirkungen auf Forschungsmethoden und das akademische Umfeld."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-10",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "泽连斯基表示乌克兰已向美国提出结束与俄罗斯战争的提案",
-        "en": "Zelenskyy says Ukraine has sent proposals to US to end war with Russia",
-        "de": "Zelenskyy sagt, dass die Ukraine den USA Vorschläge zur Beendigung des Krieges mit Russland unterbreitet hat"
+        "zh": "特朗普谈及亲以色列团体在国会中的影响力减弱",
+        "en": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
+        "de": "Trump äußert sich zur abnehmenden Einflussnahme pro-israelischer Gruppen im Kongress"
       },
       "summary": {
-        "zh": "乌克兰总统泽连斯基表示，乌克兰已向美国提交了结束与俄罗斯战争的提案，并警告俄罗斯可能利用即将到来的选举作为动员的借口。",
-        "en": "Ukrainian President Zelenskyy stated that Ukraine has submitted proposals to the U.S. to end the war with Russia, warning that Russia may use its upcoming election as a pretext for mobilization.",
-        "de": "Der ukrainische Präsident Zelenskyy erklärte, dass die Ukraine den USA Vorschläge zur Beendigung des Krieges mit Russland unterbreitet hat und warnte, dass Russland seine bevorstehenden Wahlen als Vorwand für eine Mobilisierung nutzen könnte."
+        "zh": "特朗普表示，亲以色列游说团体在国会中的影响力已不如数十年前，反映了美国政治的变化。这一言论引发了广泛讨论。",
+        "en": "Trump claims that pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. His remarks have sparked widespread discussion.",
+        "de": "Trump behauptet, dass pro-israelische Lobbyarbeit nicht mehr die Macht hat, die sie vor Jahrzehnten hatte, was Veränderungen in der US-Politik widerspiegelt. Seine Äußerungen haben eine breite Diskussion ausgelöst."
       },
       "source": "Al Jazeera",
       "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/news/2026/8/12/zelenskyy-says-ukraine-has-sent-proposals-to-us-to-end-war-with-russia?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普表示他在北约峰会后因可能的威胁而换飞机",
-        "en": "Trump says he switched planes after Nato summit because of possible threat",
-        "de": "Trump sagt, dass er nach dem NATO-Gipfel wegen einer möglichen Bedrohung das Flugzeug gewechselt hat"
+        "zh": "哥伦比亚在致命地震后宣布三天哀悼",
+        "en": "Colombia declares three days of mourning after deadly earthquake",
+        "de": "Kolumbien erklärt drei Tage Trauer nach tödlichem Erdbeben"
       },
       "summary": {
-        "zh": "特朗普表示，在北约峰会后，他因可能的威胁而更换了飞机，并称他所乘坐的飞机比替代的空军一号更危险。",
-        "en": "Trump stated that he switched planes after the NATO summit due to a possible threat, claiming that the jet he boarded was at greater risk than the decoy Air Force One.",
-        "de": "Trump erklärte, dass er nach dem NATO-Gipfel wegen einer möglichen Bedrohung das Flugzeug gewechselt hat und behauptete, dass das Flugzeug, in das er einstieg, einem größeren Risiko ausgesetzt war als das Täuschungsflugzeug Air Force One."
+        "zh": "哥伦比亚因7.4级地震造成数百人遇难，政府宣布三天的哀悼期，以悼念遇难者并支持救援工作。",
+        "en": "Colombia has declared three days of mourning following a magnitude 7.4 earthquake that resulted in hundreds of deaths, with the government supporting rescue efforts.",
+        "de": "Kolumbien hat nach einem Erdbeben der Stärke 7,4, das Hunderte von Todesopfern forderte, drei Tage Trauer erklärt, während die Regierung die Rettungsmaßnahmen unterstützt."
       },
-      "source": "BBC News – World",
+      "source": "Al Jazeera",
       "date": "2026-08-12",
-      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "以色列袭击、拆迁持续，联合国警告西岸处于崩溃边缘",
-        "en": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
-        "de": "Israelische Überfälle und Abrisse gehen weiter, während die UN warnt, dass das Westjordanland am Rande des Zusammenbruchs steht"
+        "zh": "伊朗誓言在满足要求之前与美国作斗争",
+        "en": "Iran remains defiant as it vows to fight US until demands met",
+        "de": "Iran bleibt trotzig und schwört, die USA zu bekämpfen, bis die Forderungen erfüllt sind"
       },
       "summary": {
-        "zh": "以色列军队在西岸进行的袭击和拆迁行动持续进行，联合国警告该地区面临崩溃的风险。",
-        "en": "Israeli military raids and demolitions continue in the West Bank, with the UN warning that the region is on the brink of collapse.",
-        "de": "Israelische Militärüberfälle und Abrisse setzen sich im Westjordanland fort, während die UN warnt, dass die Region am Rande des Zusammenbruchs steht."
+        "zh": "伊朗革命卫队顾问表示，伊朗已更换了比使用的导弹和无人机更多的武器，显示出其对美国的抵抗决心。",
+        "en": "IRGC advisers state that Iran has replaced more missiles and drones than it has used, demonstrating its resolve to resist the US until its demands are met.",
+        "de": "Berater der IRGC geben an, dass Iran mehr Raketen und Drohnen ersetzt hat, als es verwendet hat, was seinen Willen zeigt, den USA zu widerstehen, bis seine Forderungen erfüllt sind."
       },
       "source": "Al Jazeera",
       "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "周三的通胀报告对美联储来说应该是一个大事件。我们可以期待什么",
-        "en": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
-        "de": "Ein Inflationsbericht am Mittwoch sollte für die Fed ein großes Ereignis sein. Das ist zu erwarten"
+        "zh": "消费者价格在7月上涨0.1%，如预期，年率为3.4%",
+        "en": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+        "de": "Die Verbraucherpreise stiegen im Juli um 0,1 %, wie erwartet, was die Jahresrate auf 3,4 % setzt"
       },
       "summary": {
-        "zh": "预计周三发布的消费者价格指数将显示七月份仅有适度的增长，这对美联储的决策至关重要。",
-        "en": "The consumer price index expected to be released on Wednesday is anticipated to show only a modest increase for July, which is crucial for the Fed's decision-making.",
-        "de": "Der am Mittwoch erwartete Verbraucherpreisindex wird voraussichtlich nur einen moderaten Anstieg für Juli zeigen, was für die Entscheidungen der Fed von entscheidender Bedeutung ist."
+        "zh": "根据最新报告，7月份消费者价格按预期上涨0.1%，年通胀率为3.4%。这一数据对市场和美联储的政策具有重要影响。",
+        "en": "According to the latest report, consumer prices rose by 0.1% in July as expected, with an annual inflation rate of 3.4%. This data has significant implications for the market and the Federal Reserve's policies.",
+        "de": "Laut dem neuesten Bericht stiegen die Verbraucherpreise im Juli wie erwartet um 0,1 %, mit einer jährlichen Inflationsrate von 3,4 %. Diese Daten haben erhebliche Auswirkungen auf den Markt und die Politik der Federal Reserve."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-11",
-      "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html"
+      "date": "2026-08-12",
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国经济在七月份意外失去23000个工作岗位",
-        "en": "U.S. economy unexpectedly lost 23,000 jobs in July",
-        "de": "Die US-Wirtschaft verlor im Juli unerwartet 23.000 Arbeitsplätze"
+        "zh": "AI的高昂建设复杂化了美联储的通胀斗争",
+        "en": "AI’s costly build-out complicates the Fed’s inflation fight",
+        "de": "Der kostspielige Ausbau von KI kompliziert den Inflationskampf der Fed"
       },
       "summary": {
-        "zh": "尽管失业率保持不变，美国的非农就业人数在七月份意外下降，给投资者带来了混合信号。",
-        "en": "Despite the unemployment rate remaining steady, nonfarm payrolls in the U.S. unexpectedly declined in July, leaving investors with mixed signals.",
-        "de": "Trotz stabiler Arbeitslosenquote sank die Zahl der Nichtlandwirtschaftlichen Beschäftigten in den USA im Juli unerwartet, was die Investoren mit gemischten Signalen zurückließ."
+        "zh": "尽管科技领导者表示AI将降低成本，但企业的缓慢采用和数据中心的建设却给美联储的通胀斗争带来了压力。",
+        "en": "While tech leaders claim that AI will drive down costs, slow corporate adoption and the build-out of data centers are creating inflationary pressures that complicate the Federal Reserve's fight against inflation.",
+        "de": "Während Technologieführer behaupten, dass KI die Kosten senken wird, schaffen die langsame Unternehmensakzeptanz und der Ausbau von Rechenzentren inflationsbedingte Druck, die den Kampf der Federal Reserve gegen die Inflation komplizieren."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-07",
-      "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html"
+      "date": "2026-08-12",
+      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "CoreWeave的股票因收益显示出重大AI势头而飙升",
-        "en": "CoreWeave’s stock soars as earnings show major AI momentum",
-        "de": "Die Aktie von CoreWeave steigt stark, da die Gewinne einen erheblichen AI-Momentum zeigen"
+        "zh": "关于美联储的通胀报告应该是个大事。以下是预期：",
+        "en": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect:",
+        "de": "Ein Inflationsbericht am Mittwoch sollte für die Fed von großer Bedeutung sein. Hier ist, was zu erwarten ist:"
       },
       "summary": {
-        "zh": "CoreWeave的股票因其超出预期的收入和收益而大幅上涨，CEO称这是一个重要的转折点。",
-        "en": "CoreWeave's stock surged significantly due to its earnings surpassing expectations, with the CEO calling it an important inflection point.",
-        "de": "Die Aktie von CoreWeave stieg erheblich, da die Gewinne die Erwartungen übertrafen, wobei der CEO es als einen wichtigen Wendepunkt bezeichnete."
+        "zh": "即将发布的通胀报告预计将显示7月的温和增长，这对美联储的决策至关重要。市场将密切关注这一数据。",
+        "en": "The upcoming inflation report is expected to show modest growth for July, which is crucial for the Federal Reserve's decision-making. The market will closely monitor this data.",
+        "de": "Der bevorstehende Inflationsbericht wird voraussichtlich ein moderates Wachstum für Juli zeigen, was für die Entscheidungsfindung der Federal Reserve von entscheidender Bedeutung ist. Der Markt wird diese Daten genau beobachten."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-08-12",
-      "url": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-08-11",
+      "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html"
     }
   ]
 }
