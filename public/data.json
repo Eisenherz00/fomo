@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-13T05:59:10.118725+00:00",
+  "generatedAt": "2026-08-13T17:24:42.018419+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "科学家刚刚创造了雄性小鼠的雌性克隆",
-        "en": "Scientists just created female clones of male mice",
-        "de": "Wissenschaftler haben gerade weibliche Klone männlicher Mäuse geschaffen"
+        "zh": "Flock因日益增长的监控反弹而收紧规则",
+        "en": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "de": "Flock verschärft seine Regeln als Reaktion auf eine wachsende Überwachungsreaktion"
       },
       "summary": {
-        "zh": "日本的科学家首次成功将雄性小鼠胚胎转变为雌性，使用了基于CRISPR的方法去除t基因。这一突破为生物学和遗传学研究开辟了新的可能性。",
-        "en": "Scientists in Japan have successfully transformed male mouse embryos into females for the first time, using a CRISPR-based approach to remove the t gene. This breakthrough opens new possibilities for biological and genetic research.",
-        "de": "Wissenschaftler in Japan haben erstmals männliche Mausembryonen in Weibchen umgewandelt, indem sie einen auf CRISPR basierenden Ansatz zur Entfernung des t-Gens verwendeten. Dieser Durchbruch eröffnet neue Möglichkeiten für die biologische und genetische Forschung."
+        "zh": "Flock宣布将改变警察对其全国车牌识别网络的访问权限，以应对公众对监控的反对情绪。",
+        "en": "Flock announced it will change police access to its nationwide network of license plate readers in response to growing public backlash against surveillance.",
+        "de": "Flock gab bekannt, dass es den Zugang der Polizei zu seinem landesweiten Netzwerk von Kennzeichenlesern ändern wird, um auf die wachsende öffentliche Ablehnung der Überwachung zu reagieren."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-12",
-      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/"
+      "date": "2026-08-13",
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "使用可信数据扩展AI代理",
-        "en": "Scaling AI agents with trustworthy data",
-        "de": "Skalierung von KI-Agenten mit vertrauenswürdigen Daten"
+        "zh": "孩子们对人工智能的看法",
+        "en": "How kids feel about AI, in their own words",
+        "de": "Wie Kinder über KI denken, in ihren eigenen Worten"
       },
       "summary": {
-        "zh": "商业和技术领导者意识到代理AI的时代已经到来。组织正在迅速采用这些代理，尽管许多高管仍然面临数据可信性的问题。",
-        "en": "Business and technology leaders recognize that the era of agentic AI is upon us. Organizations are rapidly adopting these agents, although many executives still face challenges regarding data trustworthiness.",
-        "de": "Führungskräfte aus Wirtschaft und Technologie erkennen, dass die Ära der agentischen KI begonnen hat. Organisationen übernehmen diese Agenten schnell, obwohl viele Führungskräfte weiterhin mit Herausforderungen in Bezug auf die Datenvertrauenswürdigkeit konfrontiert sind."
+        "zh": "这篇文章探讨了孩子们对人工智能的看法，展示了他们的真实感受和使用体验。",
+        "en": "This article explores children's views on artificial intelligence, showcasing their genuine feelings and experiences with it.",
+        "de": "Dieser Artikel untersucht die Ansichten von Kindern zur künstlichen Intelligenz und zeigt ihre echten Gefühle und Erfahrungen damit."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-12",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
+      "date": "2026-08-13",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "在大规模供应链攻击中泄露的数TB凭证",
-        "en": "Terabytes of credentials leaked in massive supply-chain attack",
-        "de": "Terabytes von Anmeldedaten bei massivem Lieferkettenangriff geleakt"
+        "zh": "科学家首次创造出雄性小鼠的雌性克隆",
+        "en": "Scientists just created female clones of male mice",
+        "de": "Wissenschaftler haben gerade weibliche Klone von männlichen Mäusen erschaffen"
       },
       "summary": {
-        "zh": "在一起大规模供应链攻击中，从2500名用户的受损AI软件包中提取并泄露了数TB的凭证。这一事件突显了网络安全的脆弱性。",
-        "en": "In a massive supply-chain attack, terabytes of credentials were scraped and leaked from 2,500 users of a compromised AI package. This incident highlights vulnerabilities in cybersecurity.",
-        "de": "Bei einem massiven Lieferkettenangriff wurden Terabytes von Anmeldedaten von 2.500 Benutzern eines kompromittierten KI-Pakets abgegriffen und geleakt. Dieser Vorfall hebt die Schwachstellen in der Cybersicherheit hervor."
+        "zh": "科学家们首次成功地将雄性小鼠胚胎转变为雌性，标志着生物技术领域的一项重大突破。",
+        "en": "Scientists have successfully transformed male mouse embryos into females for the first time, marking a significant breakthrough in biotechnology.",
+        "de": "Wissenschaftler haben erstmals männliche Mausembryonen erfolgreich in Weibchen umgewandelt, was einen bedeutenden Durchbruch in der Biotechnologie darstellt."
       },
-      "source": "Ars Technica – AI",
+      "source": "MIT Technology Review",
       "date": "2026-08-12",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "俄罗斯袭击引发乌克兰港口火灾；泽连斯基寻求拦截器",
-        "en": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
-        "de": "Russischer Angriff löst Feuer im ukrainischen Hafen aus; Zelenskyj sucht Abfangjäger"
+        "zh": "刚果民主共和国埃博拉疫情蔓延至第六个省",
+        "en": "DR Congo Ebola outbreak spreads to a sixth province",
+        "de": "Ebola-Ausbruch im Kongo breitet sich auf die sechste Provinz aus"
       },
       "summary": {
-        "zh": "乌克兰报告称，自美国与伊朗开战以来，爱国者拦截器严重短缺。泽连斯基总统正在寻求更多的防空支持以应对俄罗斯的攻击。",
-        "en": "Ukraine reports an acute shortage of Patriot interceptors since the U.S. went to war with Iran. President Zelenskyy is seeking additional air defense support to counter Russian attacks.",
-        "de": "Die Ukraine berichtet von einem akuten Mangel an Patriot-Abfangjägern, seit die USA in den Krieg mit dem Iran gezogen sind. Präsident Zelenskyj sucht zusätzliche Luftverteidigungsunterstützung, um russischen Angriffen entgegenzuwirken."
+        "zh": "根据政府数据，刚果民主共和国的埃博拉疫情已导致2128人死亡，确诊病例约为4566例。",
+        "en": "According to government figures, the Ebola outbreak in the Democratic Republic of Congo has resulted in 2,128 deaths out of approximately 4,566 recorded cases.",
+        "de": "Laut Regierungsangaben hat der Ebola-Ausbruch in der Demokratischen Republik Kongo 2.128 Todesfälle bei etwa 4.566 registrierten Fällen verursacht."
       },
       "source": "Al Jazeera",
       "date": "2026-08-13",
-      "url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "为什么关税不是促进美国生产的正确工具",
-        "en": "Why tariffs are not the right tool to bolster US production",
-        "de": "Warum Zölle nicht das richtige Mittel sind, um die US-Produktion zu stärken"
+        "zh": "中国与印尼的联合海军演习激怒台湾",
+        "en": "China and Indonesia’s joint naval drills anger Taiwan",
+        "de": "Chinas und Indonesiens gemeinsame Marineübungen verärgern Taiwan"
       },
       "summary": {
-        "zh": "专家质疑唐纳德·特朗普的第二任期是否以关税为特征，认为这种做法是否真正有效。关税的影响和有效性仍然存在争议。",
-        "en": "Experts question whether Donald Trump's second term, characterized by tariffs, is truly effective. The impact and efficacy of tariffs remain a subject of debate.",
-        "de": "Experten stellen in Frage, ob Donald Trumps zweite Amtszeit, die von Zöllen geprägt ist, tatsächlich effektiv ist. Die Auswirkungen und die Wirksamkeit von Zöllen bleiben ein umstrittenes Thema."
+        "zh": "中国国家媒体发布了与印尼在台湾东部海域进行联合海军演习的录像，引发了台湾的愤怒。",
+        "en": "Chinese state media released footage of a joint naval drill with Indonesia in waters east of Taiwan, provoking anger from Taiwan.",
+        "de": "Chinesische Staatsmedien veröffentlichten Aufnahmen von einer gemeinsamen Marineübung mit Indonesien in Gewässern östlich von Taiwan, was Wut in Taiwan auslöste."
       },
       "source": "Al Jazeera",
       "date": "2026-08-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/china-and-indonesias-joint-naval-drills-anger-taiwan?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "白宫新闻秘书莱维特将辞职",
-        "en": "Leavitt to leave as White House press secretary",
-        "de": "Leavitt wird als Pressesprecherin des Weißen Hauses zurücktreten"
+        "zh": "美国海军水手试图跳船的报告引发抗议",
+        "en": "Reports of US sailors in Middle East trying to jump ship spark outcry",
+        "de": "Berichte über US-Marine im Nahen Osten, die versuchen, das Schiff zu verlassen, lösen Empörung aus"
       },
       "summary": {
-        "zh": "白宫新闻秘书卡罗琳·莱维特宣布将辞去职务。她的离职可能会影响白宫的沟通策略。",
-        "en": "White House press secretary Karoline Leavitt has announced her resignation. Her departure may impact the White House's communication strategy.",
-        "de": "Die Pressesprecherin des Weißen Hauses, Karoline Leavitt, hat ihren Rücktritt angekündigt. Ihr Weggang könnte die Kommunikationsstrategie des Weißen Hauses beeinflussen."
+        "zh": "美国参议员呼吁进行调查，因为USS林肯号在对伊朗的战争中创下了无港停靠的最长记录。",
+        "en": "US senators are calling for an inquiry as the USS Lincoln has recorded the longest period without a port stop amid the war on Iran.",
+        "de": "US-Senatoren fordern eine Untersuchung, da die USS Lincoln die längste Zeit ohne Hafenstopp im Rahmen des Krieges gegen den Iran verzeichnet hat."
       },
       "source": "Al Jazeera",
       "date": "2026-08-13",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/13/reports-of-us-sailors-in-middle-east-trying-to-jump-ship-spark-outcry?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国预算赤字在七月激增至自2021年3月以来的最高水平",
-        "en": "U.S. budget deficit surged in July to highest level since March 2021",
-        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
+        "zh": "7月批发价格持平，低于预期的0.2%增幅",
+        "en": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+        "de": "Die Großhandelspreise blieben im Juli stabil, unter den Erwartungen eines Anstiegs um 0,2 %"
       },
       "summary": {
-        "zh": "美国预算赤字在七月激增，达到自2021年3月以来的最高水平，财政年度的总赤字接近1.8万亿美元。这一情况引发了对财政健康的担忧。",
-        "en": "The U.S. budget deficit surged in July, reaching the highest level since March 2021, with the total deficit for the fiscal year nearing $1.8 trillion. This situation raises concerns about fiscal health.",
-        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021, wobei das Gesamtergebnis für das Haushaltsjahr fast 1,8 Billionen Dollar erreichte. Diese Situation wirft Bedenken hinsichtlich der fiskalischen Gesundheit auf."
+        "zh": "生产者价格指数在7月持平，低于道琼斯共识预期的0.2%的增幅。",
+        "en": "The producer price index was flat in July, below the expected 0.2% increase according to Dow Jones consensus.",
+        "de": "Der Erzeugerpreisindex blieb im Juli stabil, unter dem erwarteten Anstieg von 0,2 % gemäß dem Konsens von Dow Jones."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
+      "date": "2026-08-13",
+      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "由于环孢子菌引发的恐慌，生菜价格创下历史新低",
-        "en": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
-        "de": "'Niemand will es': Kopfsalatpreise erleben rekordverdächtigen Rückgang, da Cyclospora Verbraucher verunsichert"
+        "zh": "伊朗战争风险使G7最快增长经济体停滞",
+        "en": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+        "de": "Der Iran-Krieg gefährdet das Wachstum der am schnellsten wachsenden Wirtschaft der G7"
       },
       "summary": {
-        "zh": "由于环孢子菌疫情的影响，生菜价格出现了历史性的暴跌，消费者对这种蔬菜的需求急剧下降。市场反应显示出对食品安全的担忧。",
-        "en": "Due to the cyclospora outbreak, lettuce prices have seen a historic plunge, with consumer demand for the vegetable sharply declining. Market reactions reflect concerns over food safety.",
-        "de": "Aufgrund des Cyclospora-Ausbruchs sind die Preise für Kopfsalat historisch gefallen, da die Verbrauchernachfrage nach dem Gemüse stark zurückgegangen ist. Die Marktreaktionen spiegeln Bedenken hinsichtlich der Lebensmittelsicherheit wider."
+        "zh": "尽管英国经济显示出复苏迹象，但伊朗战争及高能源价格使情况复杂化。",
+        "en": "While the UK economy shows signs of recovery, the situation is complicated by the fallout from the Iran war and high energy prices.",
+        "de": "Obwohl die britische Wirtschaft Anzeichen einer Erholung zeigt, wird die Situation durch die Folgen des Iran-Kriegs und hohe Energiepreise kompliziert."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html"
+      "date": "2026-08-13",
+      "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "AI的高成本建设使美联储的通胀斗争复杂化",
-        "en": "AI’s costly build-out complicates the Fed’s inflation fight",
-        "de": "Die kostspielige Entwicklung von KI erschwert den Inflationskampf der Fed"
+        "zh": "美国预算赤字在7月激增至自2021年3月以来的最高水平",
+        "en": "U.S. budget deficit surged in July to highest level since March 2021",
+        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "科技领导者表示，AI将降低成本，但企业的缓慢采用和数据中心的建设却给美联储的通胀斗争带来了压力。",
-        "en": "Tech leaders claim that AI will drive down costs, but slow corporate adoption and data center build-out are creating inflationary pressures that complicate the Fed's fight against inflation.",
-        "de": "Technologieführer behaupten, dass KI die Kosten senken wird, aber die langsame Unternehmensakzeptanz und der Ausbau von Rechenzentren schaffen inflationsbedingte Druck, die den Kampf der Fed gegen die Inflation komplizieren."
+        "zh": "除了单月大幅增加外，财政年度的整体赤字在10个月内达到了近1.8万亿美元，超过了去年同期。",
+        "en": "Beyond the significant single-month increase, the cumulative deficit over the fiscal year reached nearly $1.8 trillion in 10 months, surpassing the same period last year.",
+        "de": "Neben dem erheblichen Anstieg im Einzelmonat erreichte das kumulierte Defizit im Haushaltsjahr in 10 Monaten fast 1,8 Billionen US-Dollar und überstieg den gleichen Zeitraum des Vorjahres."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
+      "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
     }
   ]
 }
