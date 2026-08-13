@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-12T17:23:55.277834+00:00",
+  "generatedAt": "2026-08-13T05:59:10.118725+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "用可信数据扩展AI代理：商业和技术领导者无需说服，代理AI的时代已经到来。",
-        "en": "Scaling AI agents with trustworthy data: Business and technology leaders need no convincing that the time of agentic AI is here.",
-        "de": "Skalierung von KI-Agenten mit vertrauenswürdigen Daten: Geschäfts- und Technologieführer müssen nicht überzeugt werden, dass die Zeit der agentischen KI gekommen ist."
+        "zh": "科学家刚刚创造了雄性小鼠的雌性克隆",
+        "en": "Scientists just created female clones of male mice",
+        "de": "Wissenschaftler haben gerade weibliche Klone männlicher Mäuse geschaffen"
       },
       "summary": {
-        "zh": "越来越多的组织正在迅速采用AI代理，商业和技术领导者对此深信不疑。随着AI代理的兴起，企业需要确保数据的可信性以支持其应用。",
-        "en": "Organizations are rapidly adopting AI agents, and business and technology leaders are convinced of their necessity. As AI agents rise, businesses need to ensure the trustworthiness of data to support their applications.",
-        "de": "Organisationen übernehmen schnell KI-Agenten, und Geschäfts- sowie Technologieführer sind von deren Notwendigkeit überzeugt. Mit dem Aufstieg der KI-Agenten müssen Unternehmen die Vertrauenswürdigkeit von Daten sicherstellen, um deren Anwendungen zu unterstützen."
+        "zh": "日本的科学家首次成功将雄性小鼠胚胎转变为雌性，使用了基于CRISPR的方法去除t基因。这一突破为生物学和遗传学研究开辟了新的可能性。",
+        "en": "Scientists in Japan have successfully transformed male mouse embryos into females for the first time, using a CRISPR-based approach to remove the t gene. This breakthrough opens new possibilities for biological and genetic research.",
+        "de": "Wissenschaftler in Japan haben erstmals männliche Mausembryonen in Weibchen umgewandelt, indem sie einen auf CRISPR basierenden Ansatz zur Entfernung des t-Gens verwendeten. Dieser Durchbruch eröffnet neue Möglichkeiten für die biologische und genetische Forschung."
+      },
+      "source": "MIT Technology Review",
+      "date": "2026-08-12",
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/"
+    },
+    {
+      "id": "ai-2",
+      "title": {
+        "zh": "使用可信数据扩展AI代理",
+        "en": "Scaling AI agents with trustworthy data",
+        "de": "Skalierung von KI-Agenten mit vertrauenswürdigen Daten"
+      },
+      "summary": {
+        "zh": "商业和技术领导者意识到代理AI的时代已经到来。组织正在迅速采用这些代理，尽管许多高管仍然面临数据可信性的问题。",
+        "en": "Business and technology leaders recognize that the era of agentic AI is upon us. Organizations are rapidly adopting these agents, although many executives still face challenges regarding data trustworthiness.",
+        "de": "Führungskräfte aus Wirtschaft und Technologie erkennen, dass die Ära der agentischen KI begonnen hat. Organisationen übernehmen diese Agenten schnell, obwohl viele Führungskräfte weiterhin mit Herausforderungen in Bezug auf die Datenvertrauenswürdigkeit konfrontiert sind."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-12",
       "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
     },
     {
-      "id": "ai-2",
-      "title": {
-        "zh": "下载：我们35位年轻创新者和“审查工业综合体”",
-        "en": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-        "de": "Der Download: unsere 35 jungen Innovatoren und der „Zensur-Industrie-Komplex“"
-      },
-      "summary": {
-        "zh": "本期《下载》介绍了35位年轻的创新者，并探讨了“审查工业综合体”的影响。此现象在当今技术世界中引发了广泛关注。",
-        "en": "This edition of The Download features 35 young innovators and discusses the impact of the 'censorship-industrial complex.' This phenomenon has garnered significant attention in today's technological landscape.",
-        "de": "Diese Ausgabe des Downloads stellt 35 junge Innovatoren vor und diskutiert die Auswirkungen des 'Zensur-Industrie-Komplexes'. Dieses Phänomen hat in der heutigen Technologielandschaft erhebliche Aufmerksamkeit erregt."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-08-12",
-      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/"
-    },
-    {
       "id": "ai-3",
       "title": {
-        "zh": "AI教授正在协商学术研究的新现实",
-        "en": "AI professors are negotiating the new realities of academic research",
-        "de": "KI-Professoren verhandeln die neuen Realitäten der akademischen Forschung"
+        "zh": "在大规模供应链攻击中泄露的数TB凭证",
+        "en": "Terabytes of credentials leaked in massive supply-chain attack",
+        "de": "Terabytes von Anmeldedaten bei massivem Lieferkettenangriff geleakt"
       },
       "summary": {
-        "zh": "AI教授们正在应对学术研究的新现实，尤其是在技术快速发展的背景下。此变化对研究方法和学术环境产生了深远影响。",
-        "en": "AI professors are navigating the new realities of academic research, particularly in the context of rapid technological advancements. This shift has profound implications for research methodologies and the academic environment.",
-        "de": "KI-Professoren navigieren durch die neuen Realitäten der akademischen Forschung, insbesondere im Kontext schneller technologischer Fortschritte. Dieser Wandel hat tiefgreifende Auswirkungen auf Forschungsmethoden und das akademische Umfeld."
+        "zh": "在一起大规模供应链攻击中，从2500名用户的受损AI软件包中提取并泄露了数TB的凭证。这一事件突显了网络安全的脆弱性。",
+        "en": "In a massive supply-chain attack, terabytes of credentials were scraped and leaked from 2,500 users of a compromised AI package. This incident highlights vulnerabilities in cybersecurity.",
+        "de": "Bei einem massiven Lieferkettenangriff wurden Terabytes von Anmeldedaten von 2.500 Benutzern eines kompromittierten KI-Pakets abgegriffen und geleakt. Dieser Vorfall hebt die Schwachstellen in der Cybersicherheit hervor."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-08-10",
-      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
+      "source": "Ars Technica – AI",
+      "date": "2026-08-12",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普谈及亲以色列团体在国会中的影响力减弱",
-        "en": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
-        "de": "Trump äußert sich zur abnehmenden Einflussnahme pro-israelischer Gruppen im Kongress"
+        "zh": "俄罗斯袭击引发乌克兰港口火灾；泽连斯基寻求拦截器",
+        "en": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
+        "de": "Russischer Angriff löst Feuer im ukrainischen Hafen aus; Zelenskyj sucht Abfangjäger"
       },
       "summary": {
-        "zh": "特朗普表示，亲以色列游说团体在国会中的影响力已不如数十年前，反映了美国政治的变化。这一言论引发了广泛讨论。",
-        "en": "Trump claims that pro-Israel lobbying no longer wields the power it had decades ago, reflecting changes in US politics. His remarks have sparked widespread discussion.",
-        "de": "Trump behauptet, dass pro-israelische Lobbyarbeit nicht mehr die Macht hat, die sie vor Jahrzehnten hatte, was Veränderungen in der US-Politik widerspiegelt. Seine Äußerungen haben eine breite Diskussion ausgelöst."
+        "zh": "乌克兰报告称，自美国与伊朗开战以来，爱国者拦截器严重短缺。泽连斯基总统正在寻求更多的防空支持以应对俄罗斯的攻击。",
+        "en": "Ukraine reports an acute shortage of Patriot interceptors since the U.S. went to war with Iran. President Zelenskyy is seeking additional air defense support to counter Russian attacks.",
+        "de": "Die Ukraine berichtet von einem akuten Mangel an Patriot-Abfangjägern, seit die USA in den Krieg mit dem Iran gezogen sind. Präsident Zelenskyj sucht zusätzliche Luftverteidigungsunterstützung, um russischen Angriffen entgegenzuwirken."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/news/2026/8/12/trump-remarks-on-diminishing-impact-of-pro-israel-groups-in-congress?traffic_source=rss"
+      "date": "2026-08-13",
+      "url": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "哥伦比亚在致命地震后宣布三天哀悼",
-        "en": "Colombia declares three days of mourning after deadly earthquake",
-        "de": "Kolumbien erklärt drei Tage Trauer nach tödlichem Erdbeben"
+        "zh": "为什么关税不是促进美国生产的正确工具",
+        "en": "Why tariffs are not the right tool to bolster US production",
+        "de": "Warum Zölle nicht das richtige Mittel sind, um die US-Produktion zu stärken"
       },
       "summary": {
-        "zh": "哥伦比亚因7.4级地震造成数百人遇难，政府宣布三天的哀悼期，以悼念遇难者并支持救援工作。",
-        "en": "Colombia has declared three days of mourning following a magnitude 7.4 earthquake that resulted in hundreds of deaths, with the government supporting rescue efforts.",
-        "de": "Kolumbien hat nach einem Erdbeben der Stärke 7,4, das Hunderte von Todesopfern forderte, drei Tage Trauer erklärt, während die Regierung die Rettungsmaßnahmen unterstützt."
+        "zh": "专家质疑唐纳德·特朗普的第二任期是否以关税为特征，认为这种做法是否真正有效。关税的影响和有效性仍然存在争议。",
+        "en": "Experts question whether Donald Trump's second term, characterized by tariffs, is truly effective. The impact and efficacy of tariffs remain a subject of debate.",
+        "de": "Experten stellen in Frage, ob Donald Trumps zweite Amtszeit, die von Zöllen geprägt ist, tatsächlich effektiv ist. Die Auswirkungen und die Wirksamkeit von Zöllen bleiben ein umstrittenes Thema."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/news/2026/8/12/colombia-declares-three-days-of-mourning-after-deadly-earthquake?traffic_source=rss"
+      "date": "2026-08-13",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/aje-onl-nf_tariffs-not-the-right-tool-to-bolster-us-production-130826?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗誓言在满足要求之前与美国作斗争",
-        "en": "Iran remains defiant as it vows to fight US until demands met",
-        "de": "Iran bleibt trotzig und schwört, die USA zu bekämpfen, bis die Forderungen erfüllt sind"
+        "zh": "白宫新闻秘书莱维特将辞职",
+        "en": "Leavitt to leave as White House press secretary",
+        "de": "Leavitt wird als Pressesprecherin des Weißen Hauses zurücktreten"
       },
       "summary": {
-        "zh": "伊朗革命卫队顾问表示，伊朗已更换了比使用的导弹和无人机更多的武器，显示出其对美国的抵抗决心。",
-        "en": "IRGC advisers state that Iran has replaced more missiles and drones than it has used, demonstrating its resolve to resist the US until its demands are met.",
-        "de": "Berater der IRGC geben an, dass Iran mehr Raketen und Drohnen ersetzt hat, als es verwendet hat, was seinen Willen zeigt, den USA zu widerstehen, bis seine Forderungen erfüllt sind."
+        "zh": "白宫新闻秘书卡罗琳·莱维特宣布将辞去职务。她的离职可能会影响白宫的沟通策略。",
+        "en": "White House press secretary Karoline Leavitt has announced her resignation. Her departure may impact the White House's communication strategy.",
+        "de": "Die Pressesprecherin des Weißen Hauses, Karoline Leavitt, hat ihren Rücktritt angekündigt. Ihr Weggang könnte die Kommunikationsstrategie des Weißen Hauses beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-12",
-      "url": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss"
+      "date": "2026-08-13",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/leavitt-to-leave-as-white-house-press-secretary?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "消费者价格在7月上涨0.1%，如预期，年率为3.4%",
-        "en": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-        "de": "Die Verbraucherpreise stiegen im Juli um 0,1 %, wie erwartet, was die Jahresrate auf 3,4 % setzt"
+        "zh": "美国预算赤字在七月激增至自2021年3月以来的最高水平",
+        "en": "U.S. budget deficit surged in July to highest level since March 2021",
+        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "根据最新报告，7月份消费者价格按预期上涨0.1%，年通胀率为3.4%。这一数据对市场和美联储的政策具有重要影响。",
-        "en": "According to the latest report, consumer prices rose by 0.1% in July as expected, with an annual inflation rate of 3.4%. This data has significant implications for the market and the Federal Reserve's policies.",
-        "de": "Laut dem neuesten Bericht stiegen die Verbraucherpreise im Juli wie erwartet um 0,1 %, mit einer jährlichen Inflationsrate von 3,4 %. Diese Daten haben erhebliche Auswirkungen auf den Markt und die Politik der Federal Reserve."
+        "zh": "美国预算赤字在七月激增，达到自2021年3月以来的最高水平，财政年度的总赤字接近1.8万亿美元。这一情况引发了对财政健康的担忧。",
+        "en": "The U.S. budget deficit surged in July, reaching the highest level since March 2021, with the total deficit for the fiscal year nearing $1.8 trillion. This situation raises concerns about fiscal health.",
+        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021, wobei das Gesamtergebnis für das Haushaltsjahr fast 1,8 Billionen Dollar erreichte. Diese Situation wirft Bedenken hinsichtlich der fiskalischen Gesundheit auf."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
+      "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "AI的高昂建设复杂化了美联储的通胀斗争",
-        "en": "AI’s costly build-out complicates the Fed’s inflation fight",
-        "de": "Der kostspielige Ausbau von KI kompliziert den Inflationskampf der Fed"
+        "zh": "由于环孢子菌引发的恐慌，生菜价格创下历史新低",
+        "en": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
+        "de": "'Niemand will es': Kopfsalatpreise erleben rekordverdächtigen Rückgang, da Cyclospora Verbraucher verunsichert"
       },
       "summary": {
-        "zh": "尽管科技领导者表示AI将降低成本，但企业的缓慢采用和数据中心的建设却给美联储的通胀斗争带来了压力。",
-        "en": "While tech leaders claim that AI will drive down costs, slow corporate adoption and the build-out of data centers are creating inflationary pressures that complicate the Federal Reserve's fight against inflation.",
-        "de": "Während Technologieführer behaupten, dass KI die Kosten senken wird, schaffen die langsame Unternehmensakzeptanz und der Ausbau von Rechenzentren inflationsbedingte Druck, die den Kampf der Federal Reserve gegen die Inflation komplizieren."
+        "zh": "由于环孢子菌疫情的影响，生菜价格出现了历史性的暴跌，消费者对这种蔬菜的需求急剧下降。市场反应显示出对食品安全的担忧。",
+        "en": "Due to the cyclospora outbreak, lettuce prices have seen a historic plunge, with consumer demand for the vegetable sharply declining. Market reactions reflect concerns over food safety.",
+        "de": "Aufgrund des Cyclospora-Ausbruchs sind die Preise für Kopfsalat historisch gefallen, da die Verbrauchernachfrage nach dem Gemüse stark zurückgegangen ist. Die Marktreaktionen spiegeln Bedenken hinsichtlich der Lebensmittelsicherheit wider."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
+      "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "关于美联储的通胀报告应该是个大事。以下是预期：",
-        "en": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect:",
-        "de": "Ein Inflationsbericht am Mittwoch sollte für die Fed von großer Bedeutung sein. Hier ist, was zu erwarten ist:"
+        "zh": "AI的高成本建设使美联储的通胀斗争复杂化",
+        "en": "AI’s costly build-out complicates the Fed’s inflation fight",
+        "de": "Die kostspielige Entwicklung von KI erschwert den Inflationskampf der Fed"
       },
       "summary": {
-        "zh": "即将发布的通胀报告预计将显示7月的温和增长，这对美联储的决策至关重要。市场将密切关注这一数据。",
-        "en": "The upcoming inflation report is expected to show modest growth for July, which is crucial for the Federal Reserve's decision-making. The market will closely monitor this data.",
-        "de": "Der bevorstehende Inflationsbericht wird voraussichtlich ein moderates Wachstum für Juli zeigen, was für die Entscheidungsfindung der Federal Reserve von entscheidender Bedeutung ist. Der Markt wird diese Daten genau beobachten."
+        "zh": "科技领导者表示，AI将降低成本，但企业的缓慢采用和数据中心的建设却给美联储的通胀斗争带来了压力。",
+        "en": "Tech leaders claim that AI will drive down costs, but slow corporate adoption and data center build-out are creating inflationary pressures that complicate the Fed's fight against inflation.",
+        "de": "Technologieführer behaupten, dass KI die Kosten senken wird, aber die langsame Unternehmensakzeptanz und der Ausbau von Rechenzentren schaffen inflationsbedingte Druck, die den Kampf der Fed gegen die Inflation komplizieren."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-11",
-      "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html"
+      "date": "2026-08-12",
+      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
     }
   ]
 }
