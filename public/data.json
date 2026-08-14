@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-08-14T05:57:42.120718+00:00",
+  "generatedAt": "2026-08-14T17:20:48.142012+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "圆桌会议：塑造美国政策的“审查工业综合体”内部",
-        "en": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-        "de": "Runden Tische: Im Inneren des „Zensur-Industriekomplexes“, der die US-Politik prägt"
+        "zh": "下载：Flock的新规则、克隆的未来和儿童细胞",
+        "en": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+        "de": "Der Download: Flocks neue Regeln, die Zukunft des Klonens und Kinderzellen"
       },
       "summary": {
-        "zh": "“审查工业综合体”是一个概念，指的是政府、科技和研究团体之间的合作网络，正在影响美国的政策制定。",
-        "en": "The “censorship-industrial complex” is an idea that describes a network of collaboration between government, tech, and research groups that is shaping U.S. policy.",
-        "de": "Der „Zensur-Industriekomplex“ ist eine Idee, die ein Netzwerk von Zusammenarbeit zwischen Regierung, Technologie und Forschungsgruppen beschreibt, das die US-Politik prägt."
+        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括Flock的新规则、克隆技术的未来以及儿童细胞的研究。",
+        "en": "Today's edition of The Download provides the latest updates from the tech world, including Flock's new rules, the future of cloning, and research on children's cells.",
+        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich der neuen Regeln von Flock, der Zukunft des Klonens und der Forschung zu Kinderzellen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-13",
-      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/"
+      "date": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "构建后量子密码学的实用路径",
-        "en": "Building a practical path to post-quantum cryptography",
-        "de": "Einen praktischen Weg zur Post-Quanten-Kryptographie bauen"
+        "zh": "克隆可能用于拯救物种——或制造人类“器官袋”",
+        "en": "Cloning could be used to save species—or make human “organ sacks”",
+        "de": "Klonen könnte verwendet werden, um Arten zu retten – oder menschliche „Organbeutel“ herzustellen"
       },
       "summary": {
-        "zh": "量子计算在技术圈中经历了突破与过度炒作的交替，其强大的新能力带来了对后量子密码学的实际需求。",
-        "en": "Quantum computing has alternated between being a breakthrough darling and an overhyped promise in technology circles, creating a practical need for post-quantum cryptography.",
-        "de": "Quantencomputing hat in der Technologiewelt zwischen Durchbruch und Überbewertung gewechselt, was einen praktischen Bedarf an Post-Quanten-Kryptographie geschaffen hat."
+        "zh": "科学家们开发了一种基于CRISPR的方法，可以将雄性小鼠胚胎转变为雌性，这一发现可能在物种保护和人类器官生产中发挥重要作用。",
+        "en": "Scientists have developed a CRISPR-based method to turn male mouse embryos female, a discovery that could play a significant role in species conservation and human organ production.",
+        "de": "Wissenschaftler haben eine auf CRISPR basierende Methode entwickelt, um männliche Mausembryonen in weibliche zu verwandeln, eine Entdeckung, die eine bedeutende Rolle beim Artenschutz und der Produktion menschlicher Organe spielen könnte."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-13",
-      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/"
+      "date": "2026-08-14",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "Flock因日益严重的监控反弹而收紧规则",
-        "en": "Flock is tightening its rules in response to a growing surveillance backlash",
-        "de": "Flock verschärft seine Regeln als Reaktion auf eine wachsende Überwachungsreaktion"
+        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手抗衡",
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "de": "OpenAI und Anthropic im Preiskrieg, während chinesische KI-Rivalen Boden gewinnen"
       },
       "summary": {
-        "zh": "警务科技巨头Flock宣布将改变警察对其全国车牌识别网络的访问权限，以应对公众对监控的反弹。",
-        "en": "Police-tech giant Flock has announced it will change officers’ access to its nationwide network of license plate readers in response to a growing backlash against surveillance.",
-        "de": "Der Polizeitechnologieriese Flock hat angekündigt, den Zugang der Beamten zu seinem landesweiten Netzwerk von Kennzeichenlesern zu ändern, um auf eine wachsende Gegenreaktion gegen Überwachung zu reagieren."
+        "zh": "美国公司在面临中国AI竞争对手的挑战后，推出了更便宜的模型，导致OpenAI和Anthropic之间的价格战加剧。",
+        "en": "U.S. companies have released cheaper models in response to challenges from Chinese AI rivals, intensifying the price war between OpenAI and Anthropic.",
+        "de": "US-Unternehmen haben günstigere Modelle als Reaktion auf die Herausforderungen durch chinesische KI-Rivalen veröffentlicht, was den Preiskrieg zwischen OpenAI und Anthropic verschärft."
       },
-      "source": "MIT Technology Review",
-      "date": "2026-08-13",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
+      "source": "Ars Technica",
+      "date": "2026-08-14",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "朝鲜对即将举行的美韩军事演习感到愤怒",
-        "en": "North Korea fumes over upcoming US-South Korea military drills",
-        "de": "Nordkorea ist wütend über bevorstehende US-südkoreanische Militärübungen"
+        "zh": "分析：以色列政府无法否认西岸定居者暴力",
+        "en": "Analysis: Israel’s government can’t disown West Bank settler violence",
+        "de": "Analyse: Die israelische Regierung kann sich der Gewalt der Siedler im Westjordanland nicht entziehen"
       },
       "summary": {
-        "zh": "朝鲜指责美国将世界推向核战争的边缘，因即将举行的美韩联合军事演习而感到愤怒。",
-        "en": "North Korea has accused the U.S. of pushing the world 'to the brink of nuclear war' in response to the upcoming U.S.-South Korea military drills.",
-        "de": "Nordkorea hat die USA beschuldigt, die Welt 'an den Rand eines nuklearen Krieges' zu drängen, als Reaktion auf die bevorstehenden US-südkoreanischen Militärübungen."
+        "zh": "人权组织警告称，定居者和国家主导的暴力旨在驱逐巴勒斯坦人并吞并被占领的西岸土地。",
+        "en": "Rights groups warn that settler and state-led violence aims to displace Palestinians and annex land in the occupied West Bank.",
+        "de": "Menschenrechtsgruppen warnen, dass die Gewalt von Siedlern und des Staates darauf abzielt, Palästinenser zu vertreiben und Land im besetzten Westjordanland zu annektieren."
       },
       "source": "Al Jazeera",
       "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/news/2026/8/14/north-korea-fumes-over-upcoming-us-south-korea-military-drills?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "日本创纪录降雨造成四人死亡，数千人被困",
-        "en": "Record rainfall leaves four dead, thousands stranded in Japan",
-        "de": "Regenfälle in Rekordhöhe fordern vier Todesopfer und lassen Tausende in Japan gestrandet"
+        "zh": "菲律宾毒品战争受害者通过真相委员会寻求正义",
+        "en": "Philippines drug war victims seek justice through truth commission",
+        "de": "Opfer des Drogenkriegs auf den Philippinen suchen Gerechtigkeit durch eine Wahrheitskommission"
       },
       "summary": {
-        "zh": "日本千叶县的创纪录降雨导致四人遇难，超过22,000户家庭在繁忙的盂兰盆节周期间断电。",
-        "en": "Record rainfall in Chiba, Japan, has claimed four lives and left over 22,000 households without power during the busy Bon Buddhist holiday week.",
-        "de": "Regenfälle in Rekordhöhe in Chiba, Japan, haben vier Menschenleben gefordert und mehr als 22.000 Haushalte während der geschäftigen Bon-Buddhistischen Feiertagswoche ohne Strom gelassen."
+        "zh": "毒品战争受害者的家庭在真相委员会面前作证，寻求在多年沉默后获得答案和解脱。",
+        "en": "Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.",
+        "de": "Familien von Opfern des Drogenkriegs legen vor der Wahrheitskommission Zeugnis ab und suchen nach Antworten und einem Abschluss nach Jahren des Schweigens."
       },
       "source": "Al Jazeera",
       "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss"
+      "url": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "巴西开始探索对新美国关税的报复选项",
-        "en": "Brazil begins exploring retaliatory options to new US tariffs",
-        "de": "Brasilien beginnt, Vergeltungsmaßnahmen gegen neue US-Zölle zu prüfen"
+        "zh": "法国最高法院维持协助死亡法，拒绝青少年社交媒体禁令",
+        "en": "Top French court upholds assisted dying law, rejects teen social media ban",
+        "de": "Der oberste französische Gerichtshof bestätigt das Gesetz zur assistierten Sterbehilfe und lehnt das Verbot von sozialen Medien für Jugendliche ab"
       },
       "summary": {
-        "zh": "巴西尚未决定是否采取报复措施，但承诺捍卫其立场，面对新的美国关税。",
-        "en": "Brazil has not yet decided whether to proceed with retaliatory measures but is committed to defending its position against new U.S. tariffs.",
-        "de": "Brasilien hat noch nicht entschieden, ob es mit Vergeltungsmaßnahmen fortfahren wird, ist jedoch entschlossen, seine Position gegen die neuen US-Zölle zu verteidigen."
+        "zh": "这些决定标志着总统马克龙所倡导的两项政策的胜利与挫折。",
+        "en": "The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.",
+        "de": "Die Entscheidungen markieren sowohl einen Sieg als auch einen Rückschlag für Präsident Emmanuel Macron, der beide Politiken gefördert hatte."
       },
       "source": "Al Jazeera",
       "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss"
     }
   ],
   "stockNews": [
@@ -106,14 +106,14 @@
       "title": {
         "zh": "7月批发价格持平，低于预期的0.2%增长",
         "en": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-        "de": "Die Großhandelspreise blieben im Juli unverändert, unter den Erwartungen eines Anstiegs von 0,2%"
+        "de": "Die Großhandelspreise blieben im Juli unverändert, unter den Erwartungen eines Anstiegs um 0,2%"
       },
       "summary": {
-        "zh": "7月的生产者价格指数未能达到预期的0.2%的增长，显示出批发价格持平。",
-        "en": "The producer price index for July was flat, failing to meet expectations for a 0.2% increase, indicating stability in wholesale prices.",
-        "de": "Der Produzentenpreisindex für Juli blieb unverändert und erfüllte nicht die Erwartungen eines Anstiegs um 0,2 %, was auf eine Stabilität der Großhandelspreise hinweist."
+        "zh": "生产者价格指数在7月保持平稳，未能达到道琼斯共识预期的0.2%的增长。",
+        "en": "The producer price index remained flat in July, failing to meet the Dow Jones consensus expectation of a 0.2% increase.",
+        "de": "Der Produzentenpreisindex blieb im Juli unverändert und erfüllte nicht die Konsenserwartung von Dow Jones für einen Anstieg von 0,2 %."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-08-13",
       "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
     },
@@ -125,29 +125,29 @@
         "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "7月的预算赤字激增，达到近1.8万亿美元，超过了财政年度前10个月的总和。",
-        "en": "The budget deficit surged in July to nearly $1.8 trillion, surpassing the total for the first ten months of the fiscal year.",
-        "de": "Das Budgetdefizit stieg im Juli auf fast 1,8 Billionen US-Dollar und überstieg die Gesamtsumme der ersten zehn Monate des Haushaltsjahres."
+        "zh": "除了单月的大幅增长外，财政年度的累计赤字在10个月内达到了近1.8万亿美元，超过了同期的水平。",
+        "en": "Beyond the significant single-month jump, the cumulative deficit over the 10 months of the fiscal year rose to nearly $1.8 trillion, surpassing the same period last year.",
+        "de": "Über den signifikanten Anstieg in einem einzelnen Monat hinaus stieg das kumulierte Defizit über die 10 Monate des Haushaltsjahres auf fast 1,8 Billionen US-Dollar und übertraf den gleichen Zeitraum des Vorjahres."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-08-12",
       "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "AI的高成本建设使美联储的通胀斗争复杂化",
-        "en": "AI’s costly build-out complicates the Fed’s inflation fight",
-        "de": "Die kostspielige Entwicklung von KI erschwert den Inflationskampf der Fed"
+        "zh": "消费者价格在7月上涨0.1%，符合预期，年率为3.4%",
+        "en": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+        "de": "Die Verbraucherpreise stiegen im Juli um 0,1 %, wie erwartet, was die jährliche Rate auf 3,4 % setzt"
       },
       "summary": {
-        "zh": "尽管科技领导者认为AI将降低成本，但企业的缓慢采用和数据中心的建设增加了通胀压力，使美联储的斗争更加复杂。",
-        "en": "While tech leaders argue that AI will drive down costs, slow corporate adoption and the data center build-out create inflationary pressures that complicate the Fed's fight against inflation.",
-        "de": "Während Technologieführer argumentieren, dass KI die Kosten senken wird, schaffen langsame Unternehmensübernahmen und der Ausbau von Rechenzentren inflationsbedingte Druck, der den Kampf der Fed gegen die Inflation kompliziert."
+        "zh": "消费者价格指数在7月按预期上涨0.1%，年率为3.4%。",
+        "en": "The consumer price index rose 0.1% in July as expected, with an annual rate of 3.4%.",
+        "de": "Der Verbraucherpreisindex stieg im Juli wie erwartet um 0,1 % und lag bei einer jährlichen Rate von 3,4 %."
       },
-      "source": "CNBC",
-      "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
+      "source": "CNBC – Markets",
+      "date": "2026-08-14",
+      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
     }
   ]
 }
