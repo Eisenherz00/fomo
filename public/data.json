@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T17:20:48.142012+00:00",
+  "generatedAt": "2026-08-15T04:57:42.265227+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Flocks neue Regeln, die Zukunft des Klonens und Kinderzellen"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括Flock的新规则、克隆技术的未来以及儿童细胞的研究。",
-        "en": "Today's edition of The Download provides the latest updates from the tech world, including Flock's new rules, the future of cloning, and research on children's cells.",
-        "de": "Die heutige Ausgabe des Downloads bietet die neuesten Updates aus der Technikwelt, einschließlich der neuen Regeln von Flock, der Zukunft des Klonens und der Forschung zu Kinderzellen."
+        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括Flock的新规则、克隆技术的未来以及儿童细胞的研究进展。",
+        "en": "Today's edition of The Download covers the latest happenings in the tech world, including Flock's new rules, the future of cloning, and advancements in children's cell research.",
+        "de": "Die heutige Ausgabe des Downloads behandelt die neuesten Entwicklungen in der Technikwelt, einschließlich der neuen Regeln von Flock, der Zukunft des Klonens und Fortschritte in der Forschung zu Kinderzellen."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-14",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "克隆可能用于拯救物种——或制造人类“器官袋”",
+        "zh": "克隆可以用来拯救物种——或制造人类“器官袋”",
         "en": "Cloning could be used to save species—or make human “organ sacks”",
         "de": "Klonen könnte verwendet werden, um Arten zu retten – oder menschliche „Organbeutel“ herzustellen"
       },
       "summary": {
-        "zh": "科学家们开发了一种基于CRISPR的方法，可以将雄性小鼠胚胎转变为雌性，这一发现可能在物种保护和人类器官生产中发挥重要作用。",
-        "en": "Scientists have developed a CRISPR-based method to turn male mouse embryos female, a discovery that could play a significant role in species conservation and human organ production.",
-        "de": "Wissenschaftler haben eine auf CRISPR basierende Methode entwickelt, um männliche Mausembryonen in weibliche zu verwandeln, eine Entdeckung, die eine bedeutende Rolle beim Artenschutz und der Produktion menschlicher Organe spielen könnte."
+        "zh": "科学家们开发了一种基于CRISPR的方法，可以将雄性小鼠胚胎转变为雌性，这一研究可能对物种拯救和器官再生有重大影响。",
+        "en": "Scientists have developed a CRISPR-based method to turn male mouse embryos female, which could have significant implications for species conservation and organ regeneration.",
+        "de": "Wissenschaftler haben eine auf CRISPR basierende Methode entwickelt, um männliche Mausembryonen in weibliche zu verwandeln, was erhebliche Auswirkungen auf den Artenschutz und die Organregeneration haben könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-14",
@@ -38,14 +38,14 @@
       "title": {
         "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手抗衡",
         "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskrieg, während chinesische KI-Rivalen Boden gewinnen"
+        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten Boden gewinnen"
       },
       "summary": {
-        "zh": "美国公司在面临中国AI竞争对手的挑战后，推出了更便宜的模型，导致OpenAI和Anthropic之间的价格战加剧。",
-        "en": "U.S. companies have released cheaper models in response to challenges from Chinese AI rivals, intensifying the price war between OpenAI and Anthropic.",
-        "de": "US-Unternehmen haben günstigere Modelle als Reaktion auf die Herausforderungen durch chinesische KI-Rivalen veröffentlicht, was den Preiskrieg zwischen OpenAI und Anthropic verschärft."
+        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic正在推出更便宜的模型，以维持其市场地位。",
+        "en": "As Chinese AI rivals gain ground, US companies OpenAI and Anthropic are releasing cheaper models to maintain their market position.",
+        "de": "Während chinesische KI-Konkurrenten an Boden gewinnen, bringen die US-Unternehmen OpenAI und Anthropic günstigere Modelle auf den Markt, um ihre Marktposition zu halten."
       },
-      "source": "Ars Technica",
+      "source": "Ars Technica – AI",
       "date": "2026-08-14",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
     }
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "分析：以色列政府无法否认西岸定居者暴力",
-        "en": "Analysis: Israel’s government can’t disown West Bank settler violence",
-        "de": "Analyse: Die israelische Regierung kann sich der Gewalt der Siedler im Westjordanland nicht entziehen"
+        "zh": "伊朗表示尚未决定是否恢复与美国的谈判",
+        "en": "Iran says no decision yet on a return to talks with the US",
+        "de": "Iran sagt, dass noch keine Entscheidung über eine Rückkehr zu Gesprächen mit den USA getroffen wurde"
       },
       "summary": {
-        "zh": "人权组织警告称，定居者和国家主导的暴力旨在驱逐巴勒斯坦人并吞并被占领的西岸土地。",
-        "en": "Rights groups warn that settler and state-led violence aims to displace Palestinians and annex land in the occupied West Bank.",
-        "de": "Menschenrechtsgruppen warnen, dass die Gewalt von Siedlern und des Staates darauf abzielt, Palästinenser zu vertreiben und Land im besetzten Westjordanland zu annektieren."
+        "zh": "伊朗外长阿巴斯·阿拉赫基表示，伊朗正在与阿曼合作，但霍尔木兹海峡的航运取决于美国满足条件。",
+        "en": "Iran's Foreign Minister Abbas Araghchi stated that Iran is working with Oman, but shipping through the Strait of Hormuz depends on the US meeting certain conditions.",
+        "de": "Der iranische Außenminister Abbas Araghchi erklärte, dass Iran mit Oman zusammenarbeitet, aber der Versand durch die Straße von Hormuz von der Erfüllung bestimmter Bedingungen durch die USA abhängt."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+      "date": "2026-08-15",
+      "url": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "菲律宾毒品战争受害者通过真相委员会寻求正义",
-        "en": "Philippines drug war victims seek justice through truth commission",
-        "de": "Opfer des Drogenkriegs auf den Philippinen suchen Gerechtigkeit durch eine Wahrheitskommission"
+        "zh": "特朗普表示他将宣布霍尔木兹海峡为美国领土",
+        "en": "US President Trump says he will declare Strait of Hormuz US territory",
+        "de": "US-Präsident Trump sagt, er werde die Straße von Hormuz zum US-Territorium erklären"
       },
       "summary": {
-        "zh": "毒品战争受害者的家庭在真相委员会面前作证，寻求在多年沉默后获得答案和解脱。",
-        "en": "Families of drug war victims testify before the Truth Commission, seeking answers and closure after years of silence.",
-        "de": "Familien von Opfern des Drogenkriegs legen vor der Wahrheitskommission Zeugnis ab und suchen nach Antworten und einem Abschluss nach Jahren des Schweigens."
+        "zh": "特朗普总统表示，他将“很快”宣布霍尔木兹海峡为美国领土，此举可能引发国际争议。",
+        "en": "President Trump stated that he will soon declare the Strait of Hormuz as US territory, a move that could spark international controversy.",
+        "de": "Präsident Trump erklärte, dass er bald die Straße von Hormuz zum US-Territorium erklären werde, ein Schritt, der internationale Kontroversen auslösen könnte."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss"
+      "date": "2026-08-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "法国最高法院维持协助死亡法，拒绝青少年社交媒体禁令",
-        "en": "Top French court upholds assisted dying law, rejects teen social media ban",
-        "de": "Der oberste französische Gerichtshof bestätigt das Gesetz zur assistierten Sterbehilfe und lehnt das Verbot von sozialen Medien für Jugendliche ab"
+        "zh": "美国总统特朗普表示他将宣布霍尔木兹海峡为美国领土",
+        "en": "US President Trump says he will declare Strait of Hormuz US territory",
+        "de": "US-Präsident Trump sagt, er werde die Straße von Hormuz zum US-Territorium erklären"
       },
       "summary": {
-        "zh": "这些决定标志着总统马克龙所倡导的两项政策的胜利与挫折。",
-        "en": "The decisions mark both a victory and a setback for President Emmanuel Macron, who had championed both policies.",
-        "de": "Die Entscheidungen markieren sowohl einen Sieg als auch einen Rückschlag für Präsident Emmanuel Macron, der beide Politiken gefördert hatte."
+        "zh": "特朗普总统表示，他将“很快”宣布霍尔木兹海峡为美国领土，此举可能引发国际争议。",
+        "en": "President Trump stated that he will soon declare the Strait of Hormuz as US territory, a move that could spark international controversy.",
+        "de": "Präsident Trump erklärte, dass er bald die Straße von Hormuz zum US-Territorium erklären werde, ein Schritt, der internationale Kontroversen auslösen könnte."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-14",
-      "url": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss"
+      "date": "2026-08-15",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "7月批发价格持平，低于预期的0.2%增长",
-        "en": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-        "de": "Die Großhandelspreise blieben im Juli unverändert, unter den Erwartungen eines Anstiegs um 0,2%"
-      },
-      "summary": {
-        "zh": "生产者价格指数在7月保持平稳，未能达到道琼斯共识预期的0.2%的增长。",
-        "en": "The producer price index remained flat in July, failing to meet the Dow Jones consensus expectation of a 0.2% increase.",
-        "de": "Der Produzentenpreisindex blieb im Juli unverändert und erfüllte nicht die Konsenserwartung von Dow Jones für einen Anstieg von 0,2 %."
-      },
-      "source": "CNBC – Markets",
-      "date": "2026-08-13",
-      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
-    },
-    {
-      "id": "stk-2",
-      "title": {
-        "zh": "美国预算赤字在7月激增至2021年3月以来的最高水平",
+        "zh": "美国预算赤字在7月份激增至自2021年3月以来的最高水平",
         "en": "U.S. budget deficit surged in July to highest level since March 2021",
         "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "除了单月的大幅增长外，财政年度的累计赤字在10个月内达到了近1.8万亿美元，超过了同期的水平。",
-        "en": "Beyond the significant single-month jump, the cumulative deficit over the 10 months of the fiscal year rose to nearly $1.8 trillion, surpassing the same period last year.",
-        "de": "Über den signifikanten Anstieg in einem einzelnen Monat hinaus stieg das kumulierte Defizit über die 10 Monate des Haushaltsjahres auf fast 1,8 Billionen US-Dollar und übertraf den gleichen Zeitraum des Vorjahres."
+        "zh": "7月份，美国预算赤字激增至近1.8万亿美元，创下自2021年3月以来的最高水平，反映出财政状况的恶化。",
+        "en": "In July, the U.S. budget deficit surged to nearly $1.8 trillion, the highest level since March 2021, reflecting a deterioration in fiscal conditions.",
+        "de": "Im Juli stieg das US-Budgetdefizit auf fast 1,8 Billionen US-Dollar, den höchsten Stand seit März 2021, was auf eine Verschlechterung der fiskalischen Bedingungen hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-12",
       "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
     },
     {
-      "id": "stk-3",
+      "id": "stk-2",
       "title": {
-        "zh": "消费者价格在7月上涨0.1%，符合预期，年率为3.4%",
+        "zh": "消费者价格在7月份上涨0.1%，符合预期，年率为3.4%",
         "en": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
         "de": "Die Verbraucherpreise stiegen im Juli um 0,1 %, wie erwartet, was die jährliche Rate auf 3,4 % setzt"
       },
       "summary": {
-        "zh": "消费者价格指数在7月按预期上涨0.1%，年率为3.4%。",
-        "en": "The consumer price index rose 0.1% in July as expected, with an annual rate of 3.4%.",
-        "de": "Der Verbraucherpreisindex stieg im Juli wie erwartet um 0,1 % und lag bei einer jährlichen Rate von 3,4 %."
+        "zh": "消费者价格指数在7月份上涨0.1%，年率为3.4%，符合经济学家的预期，显示出通货膨胀的稳定。",
+        "en": "The consumer price index rose 0.1% in July, with an annual rate of 3.4%, meeting economists' expectations and indicating stable inflation.",
+        "de": "Der Verbraucherpreisindex stieg im Juli um 0,1 % und liegt bei einer jährlichen Rate von 3,4 %, was den Erwartungen der Ökonomen entspricht und auf eine stabile Inflation hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-14",
       "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
+    },
+    {
+      "id": "stk-3",
+      "title": {
+        "zh": "Berkshire Hathaway在美国房地产市场加大投资",
+        "en": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+        "de": "Berkshire Hathaway setzt verstärkt auf den US-Immobilienmarkt mit einer neuen Wette auf diese Aktie"
+      },
+      "summary": {
+        "zh": "Berkshire Hathaway加大对美国房地产市场的投资，同时增加了对Alphabet和达美航空的股份。",
+        "en": "Berkshire Hathaway has increased its investment in the U.S. housing market while also boosting its stakes in Alphabet and Delta Air Lines.",
+        "de": "Berkshire Hathaway hat seine Investitionen in den US-Immobilienmarkt erhöht und gleichzeitig seine Beteiligungen an Alphabet und Delta Air Lines ausgeweitet."
+      },
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-14",
+      "url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories"
     }
   ]
 }
