@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-15T04:57:42.265227+00:00",
+  "generatedAt": "2026-08-15T16:46:24.001933+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：Flock的新规则、克隆的未来和儿童细胞",
+        "zh": "下载：Flock的新规则，克隆的未来，以及儿童细胞",
         "en": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
         "de": "Der Download: Flocks neue Regeln, die Zukunft des Klonens und Kinderzellen"
       },
       "summary": {
-        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括Flock的新规则、克隆技术的未来以及儿童细胞的研究进展。",
-        "en": "Today's edition of The Download covers the latest happenings in the tech world, including Flock's new rules, the future of cloning, and advancements in children's cell research.",
-        "de": "Die heutige Ausgabe des Downloads behandelt die neuesten Entwicklungen in der Technikwelt, einschließlich der neuen Regeln von Flock, der Zukunft des Klonens und Fortschritte in der Forschung zu Kinderzellen."
+        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括Flock的新规则、克隆技术的未来以及儿童细胞的研究进展。",
+        "en": "Today's edition of The Download provides the latest updates from the world of technology, including Flock's new rules, the future of cloning, and advancements in children's cell research.",
+        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technologiewelt, einschließlich der neuen Regeln von Flock, der Zukunft des Klonens und Fortschritten in der Forschung zu Kinderzellen."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-14",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "克隆可以用来拯救物种——或制造人类“器官袋”",
+        "zh": "克隆可能用于拯救物种——或制造人类“器官袋”",
         "en": "Cloning could be used to save species—or make human “organ sacks”",
         "de": "Klonen könnte verwendet werden, um Arten zu retten – oder menschliche „Organbeutel“ herzustellen"
       },
       "summary": {
-        "zh": "科学家们开发了一种基于CRISPR的方法，可以将雄性小鼠胚胎转变为雌性，这一研究可能对物种拯救和器官再生有重大影响。",
-        "en": "Scientists have developed a CRISPR-based method to turn male mouse embryos female, which could have significant implications for species conservation and organ regeneration.",
-        "de": "Wissenschaftler haben eine auf CRISPR basierende Methode entwickelt, um männliche Mausembryonen in weibliche zu verwandeln, was erhebliche Auswirkungen auf den Artenschutz und die Organregeneration haben könnte."
+        "zh": "科学家们开发了一种基于CRISPR的方法，可以将雄性小鼠胚胎转变为雌性，这一技术可能在拯救物种和人类器官生产中发挥作用。",
+        "en": "Scientists have developed a CRISPR-based method to turn male mouse embryos into females, a technology that could play a role in saving species and producing human organs.",
+        "de": "Wissenschaftler haben eine auf CRISPR basierende Methode entwickelt, um männliche Mausembryonen in weibliche zu verwandeln, eine Technologie, die eine Rolle beim Schutz von Arten und der Produktion menschlicher Organe spielen könnte."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-14",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手抗衡",
+        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手展开竞争",
         "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten Boden gewinnen"
+        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Rivalen Boden gewinnen"
       },
       "summary": {
-        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic正在推出更便宜的模型，以维持其市场地位。",
-        "en": "As Chinese AI rivals gain ground, US companies OpenAI and Anthropic are releasing cheaper models to maintain their market position.",
-        "de": "Während chinesische KI-Konkurrenten an Boden gewinnen, bringen die US-Unternehmen OpenAI und Anthropic günstigere Modelle auf den Markt, um ihre Marktposition zu halten."
+        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic正在推出更便宜的模型，展开价格战以保持市场竞争力。",
+        "en": "As Chinese AI rivals gain ground, US companies OpenAI and Anthropic are releasing cheaper models, engaging in a price war to maintain market competitiveness.",
+        "de": "Während chinesische KI-Rivalen an Boden gewinnen, bringen die US-Unternehmen OpenAI und Anthropic günstigere Modelle auf den Markt und führen einen Preiskampf, um wettbewerbsfähig zu bleiben."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-14",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "伊朗表示尚未决定是否恢复与美国的谈判",
-        "en": "Iran says no decision yet on a return to talks with the US",
-        "de": "Iran sagt, dass noch keine Entscheidung über eine Rückkehr zu Gesprächen mit den USA getroffen wurde"
+        "zh": "克罗地亚海岸发生野火，造成一人死亡，数十人受伤",
+        "en": "One killed, dozens injured after wildfire hits Croatian coast",
+        "de": "Ein Toter, Dutzende Verletzte nach Waldbrand an der kroatischen Küste"
       },
       "summary": {
-        "zh": "伊朗外长阿巴斯·阿拉赫基表示，伊朗正在与阿曼合作，但霍尔木兹海峡的航运取决于美国满足条件。",
-        "en": "Iran's Foreign Minister Abbas Araghchi stated that Iran is working with Oman, but shipping through the Strait of Hormuz depends on the US meeting certain conditions.",
-        "de": "Der iranische Außenminister Abbas Araghchi erklärte, dass Iran mit Oman zusammenarbeitet, aber der Versand durch die Straße von Hormuz von der Erfüllung bestimmter Bedingungen durch die USA abhängt."
+        "zh": "克罗地亚一场猛烈的野火袭击了沿海城镇，导致至少一人死亡，约42人受伤，紧急救援工作正在进行中。",
+        "en": "A violent wildfire struck a coastal town in Croatia, resulting in at least one death and around 42 injuries, with emergency rescue operations underway.",
+        "de": "Ein heftiger Waldbrand traf eine Küstenstadt in Kroatien und führte zu mindestens einem Todesfall und rund 42 Verletzten, während Notrettungsmaßnahmen im Gange sind."
       },
       "source": "Al Jazeera",
       "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普表示他将宣布霍尔木兹海峡为美国领土",
-        "en": "US President Trump says he will declare Strait of Hormuz US territory",
-        "de": "US-Präsident Trump sagt, er werde die Straße von Hormuz zum US-Territorium erklären"
+        "zh": "苏丹的阿尔-布尔汉承诺对对话提供豁免，排除赫梅迪回归",
+        "en": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+        "de": "Sudans al-Burhan verspricht Immunität für den Dialog, schließt die Rückkehr von Hemedti aus"
       },
       "summary": {
-        "zh": "特朗普总统表示，他将“很快”宣布霍尔木兹海峡为美国领土，此举可能引发国际争议。",
-        "en": "President Trump stated that he will soon declare the Strait of Hormuz as US territory, a move that could spark international controversy.",
-        "de": "Präsident Trump erklärte, dass er bald die Straße von Hormuz zum US-Territorium erklären werde, ein Schritt, der internationale Kontroversen auslösen könnte."
+        "zh": "苏丹军方领导人阿尔-布尔汉承诺为参与国家对话的人员提供临时豁免和法律保护，排除了赫梅迪的回归。",
+        "en": "Sudan's military leader al-Burhan has pledged temporary immunity and legal protections for participants in a national dialogue, ruling out the return of Hemedti.",
+        "de": "Der Militärführer Sudans, al-Burhan, hat vorübergehende Immunität und rechtliche Schutzmaßnahmen für Teilnehmer an einem nationalen Dialog versprochen und die Rückkehr von Hemedti ausgeschlossen."
       },
       "source": "Al Jazeera",
       "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "美国总统特朗普表示他将宣布霍尔木兹海峡为美国领土",
-        "en": "US President Trump says he will declare Strait of Hormuz US territory",
-        "de": "US-Präsident Trump sagt, er werde die Straße von Hormuz zum US-Territorium erklären"
+        "zh": "乌克兰袭击俄罗斯的Starlink式网络，莫斯科追踪军火包",
+        "en": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+        "de": "Die Ukraine greift russisches Starlink-ähnliches Netzwerk an, Moskau verfolgt Waffenpaket"
       },
       "summary": {
-        "zh": "特朗普总统表示，他将“很快”宣布霍尔木兹海峡为美国领土，此举可能引发国际争议。",
-        "en": "President Trump stated that he will soon declare the Strait of Hormuz as US territory, a move that could spark international controversy.",
-        "de": "Präsident Trump erklärte, dass er bald die Straße von Hormuz zum US-Territorium erklären werde, ein Schritt, der internationale Kontroversen auslösen könnte."
+        "zh": "乌克兰使用国产Flamingo导弹袭击了俄罗斯西南部的目标，莫斯科正在追踪相关的军火包。",
+        "en": "Ukraine used domestically produced Flamingo missiles to strike targets in Russia's southwestern region, while Moscow is tracking the associated arms package.",
+        "de": "Die Ukraine setzte inländisch produzierte Flamingo-Raketen ein, um Ziele in der südwestlichen Region Russlands anzugreifen, während Moskau das zugehörige Waffenpaket verfolgt."
       },
       "source": "Al Jazeera",
       "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
+        "zh": "7月份批发价格持平，低于预期的0.2%增长",
+        "en": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+        "de": "Die Großhandelspreise blieben im Juli stabil, unter den Erwartungen eines Anstiegs um 0,2 %"
+      },
+      "summary": {
+        "zh": "根据道琼斯的共识，7月份的生产者价格指数预计将增长0.2%，但实际结果显示价格持平，反映出经济放缓的迹象。",
+        "en": "The producer price index for July was expected to increase by 0.2% according to Dow Jones consensus, but the actual result showed prices remained flat, indicating signs of economic slowdown.",
+        "de": "Der Produzentenpreisindex für Juli sollte laut Dow-Jones-Konsens um 0,2 % steigen, aber das tatsächliche Ergebnis zeigte, dass die Preise stabil blieben, was auf Anzeichen einer wirtschaftlichen Verlangsamung hindeutet."
+      },
+      "source": "CNBC – Markets",
+      "date": "2026-08-13",
+      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
+    },
+    {
+      "id": "stk-2",
+      "title": {
         "zh": "美国预算赤字在7月份激增至自2021年3月以来的最高水平",
         "en": "U.S. budget deficit surged in July to highest level since March 2021",
         "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "7月份，美国预算赤字激增至近1.8万亿美元，创下自2021年3月以来的最高水平，反映出财政状况的恶化。",
-        "en": "In July, the U.S. budget deficit surged to nearly $1.8 trillion, the highest level since March 2021, reflecting a deterioration in fiscal conditions.",
-        "de": "Im Juli stieg das US-Budgetdefizit auf fast 1,8 Billionen US-Dollar, den höchsten Stand seit März 2021, was auf eine Verschlechterung der fiskalischen Bedingungen hinweist."
+        "zh": "美国在2021年3月以来的预算赤字在7月份激增至近1.8万亿美元，显示出财政状况的恶化。",
+        "en": "The U.S. budget deficit surged to nearly $1.8 trillion in July, the highest level since March 2021, indicating a deterioration in fiscal conditions.",
+        "de": "Das US-Budgetdefizit stieg im Juli auf fast 1,8 Billionen US-Dollar, den höchsten Stand seit März 2021, was auf eine Verschlechterung der fiskalischen Bedingungen hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-12",
       "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
     },
     {
-      "id": "stk-2",
+      "id": "stk-3",
       "title": {
         "zh": "消费者价格在7月份上涨0.1%，符合预期，年率为3.4%",
         "en": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
         "de": "Die Verbraucherpreise stiegen im Juli um 0,1 %, wie erwartet, was die jährliche Rate auf 3,4 % setzt"
       },
       "summary": {
-        "zh": "消费者价格指数在7月份上涨0.1%，年率为3.4%，符合经济学家的预期，显示出通货膨胀的稳定。",
-        "en": "The consumer price index rose 0.1% in July, with an annual rate of 3.4%, meeting economists' expectations and indicating stable inflation.",
-        "de": "Der Verbraucherpreisindex stieg im Juli um 0,1 % und liegt bei einer jährlichen Rate von 3,4 %, was den Erwartungen der Ökonomen entspricht und auf eine stabile Inflation hinweist."
+        "zh": "消费者价格指数在7月份上涨了0.1%，符合预期，年率为3.4%，显示出通货膨胀的稳定趋势。",
+        "en": "The consumer price index rose by 0.1% in July as expected, with an annual rate of 3.4%, indicating a stable trend in inflation.",
+        "de": "Der Verbraucherpreisindex stieg im Juli wie erwartet um 0,1 %, mit einer jährlichen Rate von 3,4 %, was auf einen stabilen Trend bei der Inflation hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-14",
       "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
-    },
-    {
-      "id": "stk-3",
-      "title": {
-        "zh": "Berkshire Hathaway在美国房地产市场加大投资",
-        "en": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
-        "de": "Berkshire Hathaway setzt verstärkt auf den US-Immobilienmarkt mit einer neuen Wette auf diese Aktie"
-      },
-      "summary": {
-        "zh": "Berkshire Hathaway加大对美国房地产市场的投资，同时增加了对Alphabet和达美航空的股份。",
-        "en": "Berkshire Hathaway has increased its investment in the U.S. housing market while also boosting its stakes in Alphabet and Delta Air Lines.",
-        "de": "Berkshire Hathaway hat seine Investitionen in den US-Immobilienmarkt erhöht und gleichzeitig seine Beteiligungen an Alphabet und Delta Air Lines ausgeweitet."
-      },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-08-14",
-      "url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories"
     }
   ]
 }
