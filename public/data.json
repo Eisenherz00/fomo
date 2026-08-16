@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T05:01:34.058116+00:00",
+  "generatedAt": "2026-08-16T16:46:17.426400+00:00",
   "aiNews": [
     {
       "id": "ai-1",
@@ -9,9 +9,9 @@
         "de": "Der Download: Flocks neue Regeln, die Zukunft des Klonens und Kinderzellen"
       },
       "summary": {
-        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括Flock的新规则、克隆技术的未来以及儿童细胞的研究进展。",
-        "en": "Today's edition of The Download provides updates on the tech world, including Flock's new rules, the future of cloning, and research advancements in children's cells.",
-        "de": "Die heutige Ausgabe des Downloads bietet Neuigkeiten aus der Technikwelt, einschließlich der neuen Regeln von Flock, der Zukunft des Klonens und Fortschritte in der Forschung zu Kinderzellen."
+        "zh": "今天的《下载》报道了Flock公司在监控反弹中收紧规则的决定，以及克隆技术在物种保护和人类器官制造方面的潜在应用。",
+        "en": "Today's Download covers Flock's decision to tighten rules in response to surveillance backlash, and the potential applications of cloning technology in species conservation and human organ manufacturing.",
+        "de": "Der heutige Download behandelt Flocks Entscheidung, die Regeln als Reaktion auf die Überwachungsreaktion zu verschärfen, sowie die potenziellen Anwendungen der Klontechnologie im Artenschutz und in der Herstellung menschlicher Organe."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-14",
@@ -20,32 +20,32 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "克隆可能用于拯救物种——或制造人类“器官袋”",
-        "en": "Cloning could be used to save species—or make human “organ sacks”",
-        "de": "Klonen könnte verwendet werden, um Arten zu retten – oder menschliche „Organbeutel“ herzustellen"
+        "zh": "这位科学家正在帮助建立儿童的缺失地图",
+        "en": "This scientist is helping build a missing map of childhood",
+        "de": "Dieser Wissenschaftler hilft, eine fehlende Karte der Kindheit zu erstellen"
       },
       "summary": {
-        "zh": "科学家们开发了一种基于CRISPR的方法，可以将雄性小鼠胚胎转变为雌性，这一技术可能在拯救物种和人类器官生产方面具有潜力。",
-        "en": "Scientists have developed a CRISPR-based method to turn male mouse embryos female, a technology that could have potential in saving species and producing human organs.",
-        "de": "Wissenschaftler haben eine CRISPR-basierte Methode entwickelt, um männliche Mausembryonen in weibliche zu verwandeln, eine Technologie, die das Potenzial hat, Arten zu retten und menschliche Organe zu produzieren."
+        "zh": "Deanne Taylor正在进行一项研究，旨在揭示儿童基因表达的复杂性，以帮助建立儿童发展的完整图谱。",
+        "en": "Deanne Taylor is conducting research aimed at revealing the complexities of gene expression in children to help build a comprehensive map of childhood development.",
+        "de": "Deanne Taylor führt eine Forschung durch, die darauf abzielt, die Komplexität der Genexpression bei Kindern zu enthüllen, um eine umfassende Karte der kindlichen Entwicklung zu erstellen."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-14",
-      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
     },
     {
       "id": "ai-3",
       "title": {
         "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手较量",
         "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskrieg, während chinesische KI-Rivalen an Boden gewinnen"
+        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten Boden gewinnen"
       },
       "summary": {
-        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic开始推出更便宜的模型，进入价格战以维持市场份额。",
-        "en": "As Chinese AI rivals gain ground, U.S. companies OpenAI and Anthropic are launching cheaper models, entering a price war to maintain market share.",
-        "de": "Während chinesische KI-Rivalen an Boden gewinnen, bringen die US-Unternehmen OpenAI und Anthropic günstigere Modelle auf den Markt und treten in einen Preiskrieg ein, um ihren Marktanteil zu halten."
+        "zh": "在中国AI竞争对手的挑战下，OpenAI和Anthropic正在推出更便宜的模型，导致价格战的加剧。",
+        "en": "In response to challenges from Chinese AI rivals, OpenAI and Anthropic are releasing cheaper models, intensifying the price war.",
+        "de": "Als Reaktion auf Herausforderungen durch chinesische KI-Konkurrenten bringen OpenAI und Anthropic günstigere Modelle heraus, was den Preiskampf verschärft."
       },
-      "source": "Ars Technica",
+      "source": "Ars Technica – AI",
       "date": "2026-08-14",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
     }
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "澳大利亚因邦迪袭击而启动的枪支回购计划将于11月开始，首相表示",
-        "en": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-        "de": "Australien startet im November ein durch den Bondi-Angriff angestoßene Rückkaufprogramm für Waffen, sagt der Premierminister"
+        "zh": "摩洛哥移民在塞乌塔进行静坐抗议，数千人仍被困",
+        "en": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
+        "de": "Marokkanische Migranten führen Sit-in durch, während Tausende in Ceuta gestrandet bleiben"
       },
       "summary": {
-        "zh": "澳大利亚政府将在去年悉尼邦迪海滩袭击后推出枪支回购计划，以减少枪支拥有量，计划于11月开始实施。",
-        "en": "The Australian government will launch a gun buyback program following last year's attack at Bondi Beach in Sydney, aimed at reducing gun ownership, set to begin in November.",
-        "de": "Die australische Regierung wird ein Rückkaufprogramm für Waffen einführen, das nach dem Angriff am Bondi Beach in Sydney im letzten Jahr ins Leben gerufen wurde, um den Waffenbesitz zu reduzieren, und das im November beginnen soll."
+        "zh": "摩洛哥移民在塞乌塔进行静坐抗议，要求庇护，因两周前发生的大规模移民潮而被困。",
+        "en": "Moroccan migrants are staging a sit-in in Ceuta, demanding asylum as they remain stranded following a massive surge in migration two weeks ago.",
+        "de": "Marokkanische Migranten führen in Ceuta ein Sit-in durch und fordern Asyl, während sie nach einem massiven Anstieg der Migration vor zwei Wochen gestrandet sind."
       },
       "source": "Al Jazeera",
       "date": "2026-08-16",
-      "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "也门政府军在新的胡塞进攻后反击",
-        "en": "Yemeni government forces hit back after new Houthi offensive",
-        "de": "Jemenitische Regierungstruppen schlagen nach neuem Houthi-Offensive zurück"
+        "zh": "乌克兰对俄罗斯发动最大无人机攻击，莫斯科称击落822架无人机",
+        "en": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+        "de": "Größte ukrainische Drohnenangriffe auf Russland, Moskau sagt, 822 Drohnen wurden abgeschossen"
       },
       "summary": {
-        "zh": "也门政府军在沙特阿拉伯的支持下，对胡塞武装的新一轮进攻进行了反击，局势持续紧张。",
-        "en": "Yemeni government forces, backed by Saudi Arabia, have retaliated against a new offensive by Houthi forces, as tensions continue to escalate.",
-        "de": "Die jemenitischen Regierungstruppen, unterstützt von Saudi-Arabien, haben auf eine neue Offensive der Houthi-Truppen reagiert, während die Spannungen weiter zunehmen."
+        "zh": "乌克兰对俄罗斯发动了数百架无人机的攻击，造成至少六人死亡，并袭击了Wildberries物流中心。",
+        "en": "Ukraine launched hundreds of drone attacks across Russia, resulting in at least six deaths and striking a Wildberries logistics hub.",
+        "de": "Die Ukraine führte Hunderte von Drohnenangriffen auf Russland durch, was zu mindestens sechs Todesfällen führte und ein Logistikzentrum von Wildberries traf."
       },
       "source": "Al Jazeera",
       "date": "2026-08-16",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "观察人士称赞赞比亚选举因恐吓和暴力而受损",
-        "en": "Observers say Zambia’s election marred by reports of intimidation, violence",
-        "de": "Beobachter berichten, dass die Wahlen in Sambia durch Berichte über Einschüchterung und Gewalt beeinträchtigt wurden"
+        "zh": "以色列部长呼吁在加沙进行夜间杀戮",
+        "en": "Ben-Gvir calls for nightly killings of Palestinians in Gaza",
+        "de": "Ben-Gvir ruft zu nächtlichen Tötungen von Palästinensern im Gazastreifen auf"
       },
       "summary": {
-        "zh": "在赞比亚的总统选举中，选票计数因安全威胁而短暂暂停，观察人士指出选举过程受到恐吓和暴力的影响。",
-        "en": "In Zambia's presidential elections, vote counting was briefly suspended amid security threats, with observers noting that the electoral process was marred by intimidation and violence.",
-        "de": "Bei den Präsidentschaftswahlen in Sambia wurde die Stimmenauszählung aufgrund von Sicherheitsbedrohungen kurzzeitig unterbrochen, wobei Beobachter feststellten, dass der Wahlprozess durch Einschüchterung und Gewalt beeinträchtigt wurde."
+        "zh": "以色列极右翼国家安全部长伊塔马尔·本-吉维尔呼吁在加沙进行夜间杀戮，激起了国际社会的广泛关注。",
+        "en": "Israel's far-right national security minister Itamar Ben-Gvir has called for nightly killings in Gaza, drawing widespread international concern.",
+        "de": "Der israelische rechtsextreme Minister für nationale Sicherheit, Itamar Ben-Gvir, hat zu nächtlichen Tötungen im Gazastreifen aufgerufen, was weitreichende internationale Besorgnis auslöste."
       },
       "source": "Al Jazeera",
       "date": "2026-08-16",
-      "url": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/ben-gvir-calls-for-nightly-killings-of-palestinians-in-gaza?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "7月批发价格持平，低于预期的0.2%增幅",
+        "zh": "7月份批发价格持平，低于预期的0.2%增长",
         "en": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-        "de": "Die Großhandelspreise blieben im Juli stabil und lagen unter den Erwartungen eines Anstiegs von 0,2 %"
+        "de": "Die Großhandelspreise blieben im Juli stabil, unter den Erwartungen eines Anstiegs von 0,2%"
       },
       "summary": {
-        "zh": "7月份的生产者价格指数未能达到预期的0.2%增幅，显示出批发价格持平的迹象，可能影响经济复苏的前景。",
-        "en": "The producer price index for July fell short of the expected 0.2% increase, indicating flat wholesale prices that may impact the outlook for economic recovery.",
-        "de": "Der Produzentenpreisindex für Juli blieb hinter der erwarteten Steigerung von 0,2 % zurück, was auf stabile Großhandelspreise hinweist, die die Aussichten für die wirtschaftliche Erholung beeinträchtigen könnten."
+        "zh": "7月份的生产者价格指数持平，未能达到道琼斯共识预期的0.2%的增长。",
+        "en": "The producer price index for July was flat, failing to meet the Dow Jones consensus expectation of a 0.2% increase.",
+        "de": "Der Produzentenpreisindex für Juli blieb stabil und erfüllte nicht die Dow-Jones-Konsensprognose eines Anstiegs von 0,2%."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-13",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国预算赤字在7月激增至自2021年3月以来的最高水平",
+        "zh": "美国预算赤字在7月激增至2021年3月以来的最高水平",
         "en": "U.S. budget deficit surged in July to highest level since March 2021",
         "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "美国在2021年3月以来的预算赤字达到了近1.8万亿美元，显示出财政状况的恶化，可能对市场产生影响。",
-        "en": "The U.S. budget deficit reached nearly $1.8 trillion, the highest level since March 2021, indicating a deterioration in fiscal conditions that may impact the markets.",
-        "de": "Das US-Budgetdefizit erreichte fast 1,8 Billionen US-Dollar, den höchsten Stand seit März 2021, was auf eine Verschlechterung der fiskalischen Bedingungen hinweist, die die Märkte beeinflussen könnte."
+        "zh": "7月份，美国的预算赤字激增，达到近1.8万亿美元，超过了财政年度的同一时期。",
+        "en": "In July, the U.S. budget deficit surged to nearly $1.8 trillion, surpassing the same period of the fiscal year.",
+        "de": "Im Juli stieg das US-Budgetdefizit auf fast 1,8 Billionen US-Dollar und überstieg den gleichen Zeitraum des Haushaltsjahres."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-12",
@@ -136,18 +136,18 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "消费者价格在7月上涨0.1%，符合预期，年率为3.4%",
-        "en": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-        "de": "Die Verbraucherpreise stiegen im Juli um 0,1 %, wie erwartet, was die jährliche Rate auf 3,4 % setzt"
+        "zh": "'没有人想要它'：生菜价格因环孢子虫影响消费者而创下纪录暴跌",
+        "en": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
+        "de": "'Niemand will es': Salatpreise erleben rekordverdächtigen Rückgang, da Cyclospora die Verbraucher verunsichert"
       },
       "summary": {
-        "zh": "7月份消费者价格指数上涨0.1%，年率为3.4%，符合市场预期，显示出通胀压力的稳定。",
-        "en": "The consumer price index rose 0.1% in July, as expected, with an annual rate of 3.4%, indicating stable inflationary pressures.",
-        "de": "Der Verbraucherpreisindex stieg im Juli um 0,1 %, wie erwartet, mit einer jährlichen Rate von 3,4 %, was auf stabile inflationäre Druckverhältnisse hinweist."
+        "zh": "由于环孢子虫疫情的影响，生菜价格创下历史新低，消费者对这种蔬菜的需求大幅下降。",
+        "en": "Due to the cyclospora outbreak, lettuce prices have plummeted to record lows as consumer demand for the vegetable has sharply declined.",
+        "de": "Wegen des Cyclospora-Ausbruchs sind die Salatpreise auf Rekordtief gefallen, da die Nachfrage der Verbraucher nach dem Gemüse stark gesunken ist."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-14",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
+      "date": "2026-08-12",
+      "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html"
     }
   ]
 }
