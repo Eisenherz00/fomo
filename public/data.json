@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-15T16:46:24.001933+00:00",
+  "generatedAt": "2026-08-16T05:01:34.058116+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：Flock的新规则，克隆的未来，以及儿童细胞",
+        "zh": "下载：Flock的新规则、克隆的未来和儿童细胞",
         "en": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
         "de": "Der Download: Flocks neue Regeln, die Zukunft des Klonens und Kinderzellen"
       },
       "summary": {
-        "zh": "今天的《下载》提供了关于技术世界的最新动态，包括Flock的新规则、克隆技术的未来以及儿童细胞的研究进展。",
-        "en": "Today's edition of The Download provides the latest updates from the world of technology, including Flock's new rules, the future of cloning, and advancements in children's cell research.",
-        "de": "Die heutige Ausgabe von The Download bietet die neuesten Updates aus der Technologiewelt, einschließlich der neuen Regeln von Flock, der Zukunft des Klonens und Fortschritten in der Forschung zu Kinderzellen."
+        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括Flock的新规则、克隆技术的未来以及儿童细胞的研究进展。",
+        "en": "Today's edition of The Download provides updates on the tech world, including Flock's new rules, the future of cloning, and research advancements in children's cells.",
+        "de": "Die heutige Ausgabe des Downloads bietet Neuigkeiten aus der Technikwelt, einschließlich der neuen Regeln von Flock, der Zukunft des Klonens und Fortschritte in der Forschung zu Kinderzellen."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-14",
@@ -25,9 +25,9 @@
         "de": "Klonen könnte verwendet werden, um Arten zu retten – oder menschliche „Organbeutel“ herzustellen"
       },
       "summary": {
-        "zh": "科学家们开发了一种基于CRISPR的方法，可以将雄性小鼠胚胎转变为雌性，这一技术可能在拯救物种和人类器官生产中发挥作用。",
-        "en": "Scientists have developed a CRISPR-based method to turn male mouse embryos into females, a technology that could play a role in saving species and producing human organs.",
-        "de": "Wissenschaftler haben eine auf CRISPR basierende Methode entwickelt, um männliche Mausembryonen in weibliche zu verwandeln, eine Technologie, die eine Rolle beim Schutz von Arten und der Produktion menschlicher Organe spielen könnte."
+        "zh": "科学家们开发了一种基于CRISPR的方法，可以将雄性小鼠胚胎转变为雌性，这一技术可能在拯救物种和人类器官生产方面具有潜力。",
+        "en": "Scientists have developed a CRISPR-based method to turn male mouse embryos female, a technology that could have potential in saving species and producing human organs.",
+        "de": "Wissenschaftler haben eine CRISPR-basierte Methode entwickelt, um männliche Mausembryonen in weibliche zu verwandeln, eine Technologie, die das Potenzial hat, Arten zu retten und menschliche Organe zu produzieren."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-14",
@@ -36,16 +36,16 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手展开竞争",
+        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手较量",
         "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Rivalen Boden gewinnen"
+        "de": "OpenAI und Anthropic im Preiskrieg, während chinesische KI-Rivalen an Boden gewinnen"
       },
       "summary": {
-        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic正在推出更便宜的模型，展开价格战以保持市场竞争力。",
-        "en": "As Chinese AI rivals gain ground, US companies OpenAI and Anthropic are releasing cheaper models, engaging in a price war to maintain market competitiveness.",
-        "de": "Während chinesische KI-Rivalen an Boden gewinnen, bringen die US-Unternehmen OpenAI und Anthropic günstigere Modelle auf den Markt und führen einen Preiskampf, um wettbewerbsfähig zu bleiben."
+        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic开始推出更便宜的模型，进入价格战以维持市场份额。",
+        "en": "As Chinese AI rivals gain ground, U.S. companies OpenAI and Anthropic are launching cheaper models, entering a price war to maintain market share.",
+        "de": "Während chinesische KI-Rivalen an Boden gewinnen, bringen die US-Unternehmen OpenAI und Anthropic günstigere Modelle auf den Markt und treten in einen Preiskrieg ein, um ihren Marktanteil zu halten."
       },
-      "source": "Ars Technica – AI",
+      "source": "Ars Technica",
       "date": "2026-08-14",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
     }
@@ -54,64 +54,64 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "克罗地亚海岸发生野火，造成一人死亡，数十人受伤",
-        "en": "One killed, dozens injured after wildfire hits Croatian coast",
-        "de": "Ein Toter, Dutzende Verletzte nach Waldbrand an der kroatischen Küste"
+        "zh": "澳大利亚因邦迪袭击而启动的枪支回购计划将于11月开始，首相表示",
+        "en": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+        "de": "Australien startet im November ein durch den Bondi-Angriff angestoßene Rückkaufprogramm für Waffen, sagt der Premierminister"
       },
       "summary": {
-        "zh": "克罗地亚一场猛烈的野火袭击了沿海城镇，导致至少一人死亡，约42人受伤，紧急救援工作正在进行中。",
-        "en": "A violent wildfire struck a coastal town in Croatia, resulting in at least one death and around 42 injuries, with emergency rescue operations underway.",
-        "de": "Ein heftiger Waldbrand traf eine Küstenstadt in Kroatien und führte zu mindestens einem Todesfall und rund 42 Verletzten, während Notrettungsmaßnahmen im Gange sind."
+        "zh": "澳大利亚政府将在去年悉尼邦迪海滩袭击后推出枪支回购计划，以减少枪支拥有量，计划于11月开始实施。",
+        "en": "The Australian government will launch a gun buyback program following last year's attack at Bondi Beach in Sydney, aimed at reducing gun ownership, set to begin in November.",
+        "de": "Die australische Regierung wird ein Rückkaufprogramm für Waffen einführen, das nach dem Angriff am Bondi Beach in Sydney im letzten Jahr ins Leben gerufen wurde, um den Waffenbesitz zu reduzieren, und das im November beginnen soll."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss"
+      "date": "2026-08-16",
+      "url": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "苏丹的阿尔-布尔汉承诺对对话提供豁免，排除赫梅迪回归",
-        "en": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
-        "de": "Sudans al-Burhan verspricht Immunität für den Dialog, schließt die Rückkehr von Hemedti aus"
+        "zh": "也门政府军在新的胡塞进攻后反击",
+        "en": "Yemeni government forces hit back after new Houthi offensive",
+        "de": "Jemenitische Regierungstruppen schlagen nach neuem Houthi-Offensive zurück"
       },
       "summary": {
-        "zh": "苏丹军方领导人阿尔-布尔汉承诺为参与国家对话的人员提供临时豁免和法律保护，排除了赫梅迪的回归。",
-        "en": "Sudan's military leader al-Burhan has pledged temporary immunity and legal protections for participants in a national dialogue, ruling out the return of Hemedti.",
-        "de": "Der Militärführer Sudans, al-Burhan, hat vorübergehende Immunität und rechtliche Schutzmaßnahmen für Teilnehmer an einem nationalen Dialog versprochen und die Rückkehr von Hemedti ausgeschlossen."
+        "zh": "也门政府军在沙特阿拉伯的支持下，对胡塞武装的新一轮进攻进行了反击，局势持续紧张。",
+        "en": "Yemeni government forces, backed by Saudi Arabia, have retaliated against a new offensive by Houthi forces, as tensions continue to escalate.",
+        "de": "Die jemenitischen Regierungstruppen, unterstützt von Saudi-Arabien, haben auf eine neue Offensive der Houthi-Truppen reagiert, während die Spannungen weiter zunehmen."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss"
+      "date": "2026-08-16",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "乌克兰袭击俄罗斯的Starlink式网络，莫斯科追踪军火包",
-        "en": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
-        "de": "Die Ukraine greift russisches Starlink-ähnliches Netzwerk an, Moskau verfolgt Waffenpaket"
+        "zh": "观察人士称赞赞比亚选举因恐吓和暴力而受损",
+        "en": "Observers say Zambia’s election marred by reports of intimidation, violence",
+        "de": "Beobachter berichten, dass die Wahlen in Sambia durch Berichte über Einschüchterung und Gewalt beeinträchtigt wurden"
       },
       "summary": {
-        "zh": "乌克兰使用国产Flamingo导弹袭击了俄罗斯西南部的目标，莫斯科正在追踪相关的军火包。",
-        "en": "Ukraine used domestically produced Flamingo missiles to strike targets in Russia's southwestern region, while Moscow is tracking the associated arms package.",
-        "de": "Die Ukraine setzte inländisch produzierte Flamingo-Raketen ein, um Ziele in der südwestlichen Region Russlands anzugreifen, während Moskau das zugehörige Waffenpaket verfolgt."
+        "zh": "在赞比亚的总统选举中，选票计数因安全威胁而短暂暂停，观察人士指出选举过程受到恐吓和暴力的影响。",
+        "en": "In Zambia's presidential elections, vote counting was briefly suspended amid security threats, with observers noting that the electoral process was marred by intimidation and violence.",
+        "de": "Bei den Präsidentschaftswahlen in Sambia wurde die Stimmenauszählung aufgrund von Sicherheitsbedrohungen kurzzeitig unterbrochen, wobei Beobachter feststellten, dass der Wahlprozess durch Einschüchterung und Gewalt beeinträchtigt wurde."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-15",
-      "url": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss"
+      "date": "2026-08-16",
+      "url": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "7月份批发价格持平，低于预期的0.2%增长",
+        "zh": "7月批发价格持平，低于预期的0.2%增幅",
         "en": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-        "de": "Die Großhandelspreise blieben im Juli stabil, unter den Erwartungen eines Anstiegs um 0,2 %"
+        "de": "Die Großhandelspreise blieben im Juli stabil und lagen unter den Erwartungen eines Anstiegs von 0,2 %"
       },
       "summary": {
-        "zh": "根据道琼斯的共识，7月份的生产者价格指数预计将增长0.2%，但实际结果显示价格持平，反映出经济放缓的迹象。",
-        "en": "The producer price index for July was expected to increase by 0.2% according to Dow Jones consensus, but the actual result showed prices remained flat, indicating signs of economic slowdown.",
-        "de": "Der Produzentenpreisindex für Juli sollte laut Dow-Jones-Konsens um 0,2 % steigen, aber das tatsächliche Ergebnis zeigte, dass die Preise stabil blieben, was auf Anzeichen einer wirtschaftlichen Verlangsamung hindeutet."
+        "zh": "7月份的生产者价格指数未能达到预期的0.2%增幅，显示出批发价格持平的迹象，可能影响经济复苏的前景。",
+        "en": "The producer price index for July fell short of the expected 0.2% increase, indicating flat wholesale prices that may impact the outlook for economic recovery.",
+        "de": "Der Produzentenpreisindex für Juli blieb hinter der erwarteten Steigerung von 0,2 % zurück, was auf stabile Großhandelspreise hinweist, die die Aussichten für die wirtschaftliche Erholung beeinträchtigen könnten."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-13",
@@ -120,14 +120,14 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国预算赤字在7月份激增至自2021年3月以来的最高水平",
+        "zh": "美国预算赤字在7月激增至自2021年3月以来的最高水平",
         "en": "U.S. budget deficit surged in July to highest level since March 2021",
         "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "美国在2021年3月以来的预算赤字在7月份激增至近1.8万亿美元，显示出财政状况的恶化。",
-        "en": "The U.S. budget deficit surged to nearly $1.8 trillion in July, the highest level since March 2021, indicating a deterioration in fiscal conditions.",
-        "de": "Das US-Budgetdefizit stieg im Juli auf fast 1,8 Billionen US-Dollar, den höchsten Stand seit März 2021, was auf eine Verschlechterung der fiskalischen Bedingungen hinweist."
+        "zh": "美国在2021年3月以来的预算赤字达到了近1.8万亿美元，显示出财政状况的恶化，可能对市场产生影响。",
+        "en": "The U.S. budget deficit reached nearly $1.8 trillion, the highest level since March 2021, indicating a deterioration in fiscal conditions that may impact the markets.",
+        "de": "Das US-Budgetdefizit erreichte fast 1,8 Billionen US-Dollar, den höchsten Stand seit März 2021, was auf eine Verschlechterung der fiskalischen Bedingungen hinweist, die die Märkte beeinflussen könnte."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-12",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "消费者价格在7月份上涨0.1%，符合预期，年率为3.4%",
+        "zh": "消费者价格在7月上涨0.1%，符合预期，年率为3.4%",
         "en": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
         "de": "Die Verbraucherpreise stiegen im Juli um 0,1 %, wie erwartet, was die jährliche Rate auf 3,4 % setzt"
       },
       "summary": {
-        "zh": "消费者价格指数在7月份上涨了0.1%，符合预期，年率为3.4%，显示出通货膨胀的稳定趋势。",
-        "en": "The consumer price index rose by 0.1% in July as expected, with an annual rate of 3.4%, indicating a stable trend in inflation.",
-        "de": "Der Verbraucherpreisindex stieg im Juli wie erwartet um 0,1 %, mit einer jährlichen Rate von 3,4 %, was auf einen stabilen Trend bei der Inflation hinweist."
+        "zh": "7月份消费者价格指数上涨0.1%，年率为3.4%，符合市场预期，显示出通胀压力的稳定。",
+        "en": "The consumer price index rose 0.1% in July, as expected, with an annual rate of 3.4%, indicating stable inflationary pressures.",
+        "de": "Der Verbraucherpreisindex stieg im Juli um 0,1 %, wie erwartet, mit einer jährlichen Rate von 3,4 %, was auf stabile inflationäre Druckverhältnisse hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-14",
