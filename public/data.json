@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-08-17T05:10:23.872193+00:00",
+  "generatedAt": "2026-08-17T16:50:51.680218+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：Flock的新规则，克隆的未来，以及儿童细胞",
-        "en": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-        "de": "Der Download: Flocks neue Regeln, die Zukunft des Klonens und Kinderzellen"
+        "zh": "下载：死去的机器人朋友和“审查工业复合体”",
+        "en": "The Download: dead robot friends and the “censorship-industrial complex”",
+        "de": "Der Download: tote Roboterfreunde und der „Zensur-industrielle Komplex“"
       },
       "summary": {
-        "zh": "今天的《下载》提供了有关技术世界的最新动态，包括Flock公司针对监控反弹的新规则、克隆技术的未来以及儿童细胞研究的进展。",
-        "en": "Today's edition of The Download provides updates from the world of technology, including Flock's new rules in response to surveillance backlash, the future of cloning technology, and advancements in children's cell research.",
-        "de": "Die heutige Ausgabe des Downloads bietet Neuigkeiten aus der Technikwelt, einschließlich der neuen Regeln von Flock als Reaktion auf den Widerstand gegen Überwachung, die Zukunft der Klontechnologie und Fortschritte in der Forschung zu Kinderzellen."
+        "zh": "今天的下载提供了关于技术世界的最新动态，包括死去的机器人朋友和审查工业复合体的讨论。",
+        "en": "Today's Download provides the latest updates from the world of technology, including discussions on dead robot friends and the censorship-industrial complex.",
+        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich Diskussionen über tote Roboterfreunde und den Zensur-industriellen Komplex."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-14",
-      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+      "date": "2026-08-17",
+      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "克隆可能被用来拯救物种——或制造人类“器官袋”",
-        "en": "Cloning could be used to save species—or make human “organ sacks”",
-        "de": "Klonen könnte verwendet werden, um Arten zu retten – oder menschliche „Organbeutel“ herzustellen"
+        "zh": "当孩子的机器人好朋友去世时会发生什么？",
+        "en": "What happens when a kid’s robot best friend dies?",
+        "de": "Was passiert, wenn der beste Roboterfreund eines Kindes stirbt?"
       },
       "summary": {
-        "zh": "科学家们开发了一种基于CRISPR的方法，可以将雄性小鼠胚胎转变为雌性，这一发现可能在拯救濒危物种和人类器官生产方面具有重大意义。",
-        "en": "Scientists have developed a CRISPR-based method to turn male mouse embryos female, a discovery that could have significant implications for saving endangered species and producing human organs.",
-        "de": "Wissenschaftler haben eine auf CRISPR basierende Methode entwickelt, um männliche Mausembryonen in weibliche umzuwandeln, eine Entdeckung, die bedeutende Auswirkungen auf die Rettung bedrohter Arten und die Produktion menschlicher Organe haben könnte."
+        "zh": "文章探讨了孩子们与机器人朋友之间的情感联系，以及当这些机器人去世时对孩子的影响。",
+        "en": "The article explores the emotional connection between children and their robot friends, and the impact on children when these robots die.",
+        "de": "Der Artikel untersucht die emotionale Verbindung zwischen Kindern und ihren Roboterfreunden und die Auswirkungen auf Kinder, wenn diese Roboter sterben."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-14",
-      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
+      "date": "2026-08-17",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
     },
     {
       "id": "ai-3",
@@ -41,9 +41,9 @@
         "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten Boden gewinnen"
       },
       "summary": {
-        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic开始降价以维持市场份额，这可能会影响整个行业的未来。",
-        "en": "As Chinese AI rivals gain ground, US companies OpenAI and Anthropic are engaging in price cuts to maintain market share, which could impact the future of the entire industry.",
-        "de": "Während chinesische KI-Konkurrenten Boden gewinnen, senken die US-Unternehmen OpenAI und Anthropic die Preise, um ihren Marktanteil zu halten, was die Zukunft der gesamten Branche beeinflussen könnte."
+        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic开始降低价格以保持市场竞争力。",
+        "en": "As Chinese AI rivals gain ground, U.S. companies OpenAI and Anthropic are starting to lower prices to maintain market competitiveness.",
+        "de": "Während chinesische KI-Konkurrenten an Boden gewinnen, beginnen die US-Unternehmen OpenAI und Anthropic, die Preise zu senken, um wettbewerbsfähig zu bleiben."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-14",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "意大利假期期间，窃贼在博物馆抢劫中盗走文艺复兴艺术品",
-        "en": "Thieves steal Renaissance artworks in museum heist during Italian holiday",
-        "de": "Diebe stehlen Renaissance-Kunstwerke bei Museumsraub während italienischem Feiertag"
+        "zh": "特朗普削减与韩国的军事演习，民主党人表示反对",
+        "en": "Democrats rebuke Trump over scaling back military drills with South Korea",
+        "de": "Demokraten kritisieren Trump wegen der Reduzierung der Militärübungen mit Südkorea"
       },
       "summary": {
-        "zh": "在意大利的费拉戈斯托假期期间，窃贼闯入穆梅博物馆，盗走了安东内洛的杰作，事件引发了对博物馆安全的广泛关注。",
-        "en": "During Italy's Ferragosto holiday, thieves broke into the MuMe museum and stole masterpieces by Antonello, raising widespread concerns about museum security.",
-        "de": "Während des italienischen Feiertags Ferragosto brachen Diebe in das MuMe-Museum ein und stahlen Meisterwerke von Antonello, was weitreichende Bedenken hinsichtlich der Sicherheit von Museen aufwarf."
+        "zh": "民主党人对特朗普减少与韩国的军事演习表示反对，认为这将使北韩在乌克兰的支持能力增强。",
+        "en": "Democrats are rebuking Trump for scaling back military drills with South Korea, arguing that this allows North Korea to provide more support to Russia in Ukraine.",
+        "de": "Demokraten kritisieren Trump wegen der Reduzierung der Militärübungen mit Südkorea und argumentieren, dass dies Nordkorea mehr Unterstützung für Russland in der Ukraine ermöglicht."
       },
       "source": "Al Jazeera",
       "date": "2026-08-17",
-      "url": "https://www.aljazeera.com/news/2026/8/17/thieves-steal-renaissance-artworks-in-museum-heist-during-italian-holiday?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "刚果民主共和国的埃博拉疫情成为该国历史上最致命的疫情",
-        "en": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
-        "de": "Ebola-Ausbruch in der DR Kongo wird zum tödlichsten in der Geschichte des Landes"
+        "zh": "特朗普表示美国与伊朗革命卫队接触，并呼吁伊朗投降",
+        "en": "Trump says US in contact with IRGC and calls on Iran to surrender",
+        "de": "Trump sagt, die USA stehen in Kontakt mit der IRGC und fordern Iran zur Kapitulation auf"
       },
       "summary": {
-        "zh": "联合国官员表示，刚果民主共和国的埃博拉疫情已成为该国历史上最致命的疫情，呼吁采取紧急措施以应对这一危机。",
-        "en": "UN officials state that the Ebola outbreak in the Democratic Republic of Congo has become the deadliest in the country's history, urging for urgent measures to address the crisis.",
-        "de": "UN-Beamte erklären, dass der Ebola-Ausbruch in der Demokratischen Republik Kongo zum tödlichsten in der Geschichte des Landes geworden ist und fordern dringende Maßnahmen zur Bewältigung der Krise."
+        "zh": "特朗普声称美国与伊朗革命卫队保持联系，并呼吁伊朗投降，否认在11月美国中期选举前急于结束冲突。",
+        "en": "Trump claims the U.S. is in contact with the IRGC and calls for Iran to surrender, denying any rush to end the conflict ahead of the November midterms.",
+        "de": "Trump behauptet, die USA stünden in Kontakt mit der IRGC und fordern Iran zur Kapitulation auf, und bestreitet, dass es einen Drang gebe, den Konflikt vor den Midterms im November zu beenden."
       },
       "source": "Al Jazeera",
       "date": "2026-08-17",
-      "url": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普表示美国将“显著减少”与韩国的军事演习",
-        "en": "Trump says US to ‘substantially reduce’ military drills with South Korea",
-        "de": "Trump sagt, die USA werden militärische Übungen mit Südkorea „deutlich reduzieren“"
+        "zh": "伊朗表示准备进行美国地面行动",
+        "en": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+        "de": "Iran signalisiert Bereitschaft zu ‚US-Bodenoperationen‘, da das MoU ausläuft"
       },
       "summary": {
-        "zh": "特朗普总统表示，美国将显著减少与韩国的军事演习，称此举是基于他与朝鲜领导人金正恩的良好关系。",
-        "en": "President Trump stated that the US will substantially reduce military drills with South Korea, citing his good relationship with North Korean leader Kim Jong Un as a reason.",
-        "de": "Präsident Trump erklärte, dass die USA militärische Übungen mit Südkorea erheblich reduzieren werden, und nannte seine gute Beziehung zu Nordkoreas Führer Kim Jong Un als Grund."
+        "zh": "随着谅解备忘录的到期，伊朗表现出更具攻击性的姿态，回应特朗普关于美国将很快将霍尔木兹海峡视为其领土的言论。",
+        "en": "With the expiration of the memorandum of understanding, Iran has adopted a more aggressive posture in response to Trump's comments that the U.S. would soon make the Strait of Hormuz its territory.",
+        "de": "Mit dem Ablauf des Memorandum of Understanding hat Iran eine aggressivere Haltung eingenommen, als Reaktion auf Trumps Kommentare, dass die USA bald die Straße von Hormuz zu ihrem Territorium machen würden."
       },
       "source": "Al Jazeera",
       "date": "2026-08-17",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国预算赤字在7月激增至自2021年3月以来的最高水平",
-        "en": "U.S. budget deficit surged in July to highest level since March 2021",
-        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
+        "zh": "苹果的股票如果与英伟达达成AI交易可能上涨30%",
+        "en": "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",
+        "de": "Apples Aktien könnten um 30 % steigen, wenn es einen Nvidia-Deal für KI abschließt, sagt dieser Analyst"
       },
       "summary": {
-        "zh": "美国财政部报告称，7月预算赤字激增至近1.8万亿美元，创下自2021年3月以来的最高水平，这引发了对未来财政政策的担忧。",
-        "en": "The U.S. Treasury reported that the budget deficit surged to nearly $1.8 trillion in July, the highest level since March 2021, raising concerns about future fiscal policy.",
-        "de": "Das US-Finanzministerium berichtete, dass das Budgetdefizit im Juli auf fast 1,8 Billionen US-Dollar anstieg, den höchsten Stand seit März 2021, was Bedenken hinsichtlich der zukünftigen Finanzpolitik aufwirft."
+        "zh": "分析师表示，如果苹果与英伟达达成AI交易，苹果的股票可能会有30%的上涨空间。",
+        "en": "Analysts suggest that Apple's stock could see a 30% increase if the company strikes a deal with Nvidia for AI.",
+        "de": "Analysten schlagen vor, dass Apples Aktien um 30 % steigen könnten, wenn das Unternehmen einen Deal mit Nvidia für KI abschließt."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-17",
+      "url": "https://www.marketwatch.com/story/apples-stock-could-rise-30-if-it-strikes-an-nvidia-deal-for-ai-this-analyst-says-f5f5c861?mod=mw_rss_topstories"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "消费者价格在7月上涨0.1%，符合预期，年率为3.4%",
-        "en": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-        "de": "Die Verbraucherpreise stiegen im Juli um 0,1 %, wie erwartet, was die jährliche Rate auf 3,4 % bringt"
+        "zh": "芯片股票在投资者对AI支出更有信心时上涨",
+        "en": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
+        "de": "Micron, Sandisk und andere Chip-Aktien steigen, da Investoren mehr Vertrauen in AI-Ausgaben gewinnen"
       },
       "summary": {
-        "zh": "消费者价格指数在7月上涨0.1%，符合预期，年通胀率保持在3.4%，这为美联储的货币政策提供了重要参考。",
-        "en": "The consumer price index rose 0.1% in July as expected, keeping the annual inflation rate at 3.4%, providing important reference for the Federal Reserve's monetary policy.",
-        "de": "Der Verbraucherpreisindex stieg im Juli um 0,1 %, wie erwartet, und hielt die jährliche Inflationsrate bei 3,4 %, was wichtige Hinweise für die Geldpolitik der Federal Reserve liefert."
+        "zh": "随着投资者对AI支出信心的增强，Micron、Sandisk等芯片股票出现上涨。",
+        "en": "As investor confidence in AI spending increases, chip stocks like Micron and Sandisk are seeing gains.",
+        "de": "Da das Vertrauen der Investoren in die AI-Ausgaben zunimmt, verzeichnen Chip-Aktien wie Micron und Sandisk Gewinne."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-08-14",
-      "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-17",
+      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "AI的高昂建设复杂化了美联储的通胀斗争",
-        "en": "AI’s costly build-out complicates the Fed’s inflation fight",
-        "de": "Der kostspielige Ausbau von KI erschwert den Kampf der Fed gegen die Inflation"
+        "zh": "拥有房屋被高估了。租房现在通常是更好的财务选择。",
+        "en": "Owning a home is overrated. Renting is now often a much better money move.",
+        "de": "Eigenheim ist überbewertet. Mieten ist jetzt oft eine viel bessere finanzielle Entscheidung."
       },
       "summary": {
-        "zh": "科技领导者表示，人工智能将降低成本，但企业采用缓慢和数据中心的建设增加了通胀压力，使美联储的通胀斗争更加复杂。",
-        "en": "Tech leaders claim that AI will drive down costs, but slow corporate adoption and the build-out of data centers are adding inflationary pressures, complicating the Fed's fight against inflation.",
-        "de": "Technologieführer behaupten, dass KI die Kosten senken wird, aber die langsame Unternehmensakzeptanz und der Ausbau von Rechenzentren erhöhen den Inflationsdruck und erschweren den Kampf der Fed gegen die Inflation."
+        "zh": "文章探讨了拥有房屋与租房的财务比较，指出在当前经济环境下，租房可能是更明智的选择。",
+        "en": "The article discusses the financial comparison between owning a home and renting, suggesting that renting may be the wiser choice in the current economic climate.",
+        "de": "Der Artikel diskutiert den finanziellen Vergleich zwischen dem Besitz eines Hauses und dem Mieten und legt nahe, dass das Mieten in der aktuellen wirtschaftlichen Lage die klügere Wahl sein könnte."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-17",
+      "url": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories"
     }
   ]
 }
