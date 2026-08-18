@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-17T16:50:51.680218+00:00",
+  "generatedAt": "2026-08-18T05:03:38.938334+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：死去的机器人朋友和“审查工业复合体”",
-        "en": "The Download: dead robot friends and the “censorship-industrial complex”",
-        "de": "Der Download: tote Roboterfreunde und der „Zensur-industrielle Komplex“"
+        "zh": "Nvidia披露对SpaceX的210亿美元股份",
+        "en": "Nvidia discloses $21B stake in SpaceX",
+        "de": "Nvidia gibt 21 Milliarden Dollar Beteiligung an SpaceX bekannt"
       },
       "summary": {
-        "zh": "今天的下载提供了关于技术世界的最新动态，包括死去的机器人朋友和审查工业复合体的讨论。",
-        "en": "Today's Download provides the latest updates from the world of technology, including discussions on dead robot friends and the censorship-industrial complex.",
-        "de": "Der heutige Download bietet die neuesten Updates aus der Technikwelt, einschließlich Diskussionen über tote Roboterfreunde und den Zensur-industriellen Komplex."
+        "zh": "Nvidia在埃隆·马斯克宣布独家协议以装备其数据中心后，披露了对SpaceX的210亿美元股份。",
+        "en": "Nvidia disclosed a $21 billion stake in SpaceX following Elon Musk's announcement of an exclusive arrangement to outfit its data centers.",
+        "de": "Nvidia hat eine Beteiligung von 21 Milliarden Dollar an SpaceX bekannt gegeben, nachdem Elon Musk eine exklusive Vereinbarung zur Ausstattung seiner Rechenzentren angekündigt hat."
       },
-      "source": "MIT Technology Review",
+      "source": "Ars Technica – AI",
       "date": "2026-08-17",
-      "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "当孩子的机器人好朋友去世时会发生什么？",
-        "en": "What happens when a kid’s robot best friend dies?",
-        "de": "Was passiert, wenn der beste Roboterfreund eines Kindes stirbt?"
-      },
-      "summary": {
-        "zh": "文章探讨了孩子们与机器人朋友之间的情感联系，以及当这些机器人去世时对孩子的影响。",
-        "en": "The article explores the emotional connection between children and their robot friends, and the impact on children when these robots die.",
-        "de": "Der Artikel untersucht die emotionale Verbindung zwischen Kindern und ihren Roboterfreunden und die Auswirkungen auf Kinder, wenn diese Roboter sterben."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-08-17",
-      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
-    },
-    {
-      "id": "ai-3",
-      "title": {
-        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手抗衡",
+        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手竞争",
         "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten Boden gewinnen"
+        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten an Boden gewinnen"
       },
       "summary": {
-        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic开始降低价格以保持市场竞争力。",
-        "en": "As Chinese AI rivals gain ground, U.S. companies OpenAI and Anthropic are starting to lower prices to maintain market competitiveness.",
-        "de": "Während chinesische KI-Konkurrenten an Boden gewinnen, beginnen die US-Unternehmen OpenAI und Anthropic, die Preise zu senken, um wettbewerbsfähig zu bleiben."
+        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic推出了更便宜的模型，进入了价格战。",
+        "en": "As Chinese AI rivals gain ground, U.S. companies OpenAI and Anthropic have released cheaper models, entering into a price war.",
+        "de": "Während chinesische KI-Konkurrenten an Boden gewinnen, haben die US-Unternehmen OpenAI und Anthropic günstigere Modelle veröffentlicht und sind in einen Preiskampf eingetreten."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-14",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "Mac电脑的漏洞正在被积极利用",
+        "en": "Vulnerability giving attackers full control of Macs is under active exploitation",
+        "de": "Schwachstelle, die Angreifern die volle Kontrolle über Macs gibt, wird aktiv ausgenutzt"
+      },
+      "summary": {
+        "zh": "一个屏幕共享漏洞允许远程黑客在没有密码的情况下登录Mac电脑，目前正在被积极利用。",
+        "en": "A screen-sharing vulnerability allows remote hackers to log into Macs without a password and is currently under active exploitation.",
+        "de": "Ein Bildschirmfreigabefehl ermöglicht es entfernten Hackern, sich ohne Passwort bei Macs anzumelden und wird derzeit aktiv ausgenutzt."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-08-14",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普削减与韩国的军事演习，民主党人表示反对",
-        "en": "Democrats rebuke Trump over scaling back military drills with South Korea",
-        "de": "Demokraten kritisieren Trump wegen der Reduzierung der Militärübungen mit Südkorea"
+        "zh": "希奇莱马赢得铜矿丰富的赞比亚第二任总统",
+        "en": "Hichilema wins second term as president of copper-rich Zambia",
+        "de": "Hichilema gewinnt zweite Amtszeit als Präsident des kupferreichen Sambia"
       },
       "summary": {
-        "zh": "民主党人对特朗普减少与韩国的军事演习表示反对，认为这将使北韩在乌克兰的支持能力增强。",
-        "en": "Democrats are rebuking Trump for scaling back military drills with South Korea, arguing that this allows North Korea to provide more support to Russia in Ukraine.",
-        "de": "Demokraten kritisieren Trump wegen der Reduzierung der Militärübungen mit Südkorea und argumentieren, dass dies Nordkorea mehr Unterstützung für Russland in der Ukraine ermöglicht."
+        "zh": "希奇莱马在赞比亚选举中以60%的选票获胜，尽管选举官员遭到攻击，投票计数一度中断。",
+        "en": "Hichilema won Zambia's election with 60% of the vote, despite attacks on election officials that briefly halted the vote count.",
+        "de": "Hichilema gewann die Wahlen in Sambia mit 60 % der Stimmen, trotz Angriffe auf Wahlbeamte, die die Stimmenauszählung kurzzeitig unterbrachen."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-17",
-      "url": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss"
+      "date": "2026-08-18",
+      "url": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普表示美国与伊朗革命卫队接触，并呼吁伊朗投降",
-        "en": "Trump says US in contact with IRGC and calls on Iran to surrender",
-        "de": "Trump sagt, die USA stehen in Kontakt mit der IRGC und fordern Iran zur Kapitulation auf"
+        "zh": "特朗普表示与北韩金正恩的对话使南方更安全",
+        "en": "Trump says talking to North Korea’s Kim makes the south safer",
+        "de": "Trump sagt, dass das Gespräch mit Nordkoreas Kim den Süden sicherer macht"
       },
       "summary": {
-        "zh": "特朗普声称美国与伊朗革命卫队保持联系，并呼吁伊朗投降，否认在11月美国中期选举前急于结束冲突。",
-        "en": "Trump claims the U.S. is in contact with the IRGC and calls for Iran to surrender, denying any rush to end the conflict ahead of the November midterms.",
-        "de": "Trump behauptet, die USA stünden in Kontakt mit der IRGC und fordern Iran zur Kapitulation auf, und bestreitet, dass es einen Drang gebe, den Konflikt vor den Midterms im November zu beenden."
+        "zh": "美国总统特朗普透露，北韩领导人金正恩对他的对话反应“非常积极”。",
+        "en": "U.S. President Donald Trump revealed that North Korea's leader Kim Jong Un has responded 'very positively' to his discussions.",
+        "de": "US-Präsident Donald Trump gab bekannt, dass Nordkoreas Führer Kim Jong Un 'sehr positiv' auf seine Gespräche reagiert hat."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-17",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires?traffic_source=rss"
+      "date": "2026-08-18",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "伊朗表示准备进行美国地面行动",
-        "en": "Iran signals readiness for ‘US ground operations’ as MoU expires",
-        "de": "Iran signalisiert Bereitschaft zu ‚US-Bodenoperationen‘, da das MoU ausläuft"
+        "zh": "俄罗斯警告英国不要向乌克兰提供无人机",
+        "en": "Russia warns UK over supplying drones to Ukraine",
+        "de": "Russland warnt das Vereinigte Königreich vor der Lieferung von Drohnen an die Ukraine"
       },
       "summary": {
-        "zh": "随着谅解备忘录的到期，伊朗表现出更具攻击性的姿态，回应特朗普关于美国将很快将霍尔木兹海峡视为其领土的言论。",
-        "en": "With the expiration of the memorandum of understanding, Iran has adopted a more aggressive posture in response to Trump's comments that the U.S. would soon make the Strait of Hormuz its territory.",
-        "de": "Mit dem Ablauf des Memorandum of Understanding hat Iran eine aggressivere Haltung eingenommen, als Reaktion auf Trumps Kommentare, dass die USA bald die Straße von Hormuz zu ihrem Territorium machen würden."
+        "zh": "俄罗斯国防部发言人回应称，英国与乌克兰“肩并肩”站在一起。",
+        "en": "A spokesperson for Russia's Ministry of Defense responded by stating that Britain stands 'shoulder to shoulder' with Ukraine.",
+        "de": "Ein Sprecher des russischen Verteidigungsministeriums antwortete, dass Großbritannien 'Schulter an Schulter' mit der Ukraine steht."
       },
-      "source": "Al Jazeera",
-      "date": "2026-08-17",
-      "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss"
+      "source": "BBC News – World",
+      "date": "2026-08-18",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "苹果的股票如果与英伟达达成AI交易可能上涨30%",
-        "en": "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",
-        "de": "Apples Aktien könnten um 30 % steigen, wenn es einen Nvidia-Deal für KI abschließt, sagt dieser Analyst"
+        "zh": "7月批发价格持平，低于预期的0.2%增长",
+        "en": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+        "de": "Die Großhandelspreise blieben im Juli stabil, unter den Erwartungen eines Anstiegs von 0,2 %"
       },
       "summary": {
-        "zh": "分析师表示，如果苹果与英伟达达成AI交易，苹果的股票可能会有30%的上涨空间。",
-        "en": "Analysts suggest that Apple's stock could see a 30% increase if the company strikes a deal with Nvidia for AI.",
-        "de": "Analysten schlagen vor, dass Apples Aktien um 30 % steigen könnten, wenn das Unternehmen einen Deal mit Nvidia für KI abschließt."
+        "zh": "生产者价格指数在7月保持平稳，低于道琼斯共识预期的0.2%的增长。",
+        "en": "The producer price index remained flat in July, below the expected 0.2% increase according to Dow Jones consensus.",
+        "de": "Der Produzentenpreisindex blieb im Juli stabil und lag unter dem erwarteten Anstieg von 0,2 % gemäß dem Konsens von Dow Jones."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-08-17",
-      "url": "https://www.marketwatch.com/story/apples-stock-could-rise-30-if-it-strikes-an-nvidia-deal-for-ai-this-analyst-says-f5f5c861?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-08-13",
+      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "芯片股票在投资者对AI支出更有信心时上涨",
-        "en": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
-        "de": "Micron, Sandisk und andere Chip-Aktien steigen, da Investoren mehr Vertrauen in AI-Ausgaben gewinnen"
+        "zh": "美国预算赤字在7月激增至自2021年3月以来的最高水平",
+        "en": "U.S. budget deficit surged in July to highest level since March 2021",
+        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "随着投资者对AI支出信心的增强，Micron、Sandisk等芯片股票出现上涨。",
-        "en": "As investor confidence in AI spending increases, chip stocks like Micron and Sandisk are seeing gains.",
-        "de": "Da das Vertrauen der Investoren in die AI-Ausgaben zunimmt, verzeichnen Chip-Aktien wie Micron und Sandisk Gewinne."
+        "zh": "除了单月大幅增加外，财政年度的总赤字在10个月内上升至近1.8万亿美元，超过了同期水平。",
+        "en": "Beyond the significant single-month jump, the total deficit over the 10 months of the fiscal year rose to nearly $1.8 trillion, surpassing the same period last year.",
+        "de": "Neben dem erheblichen Anstieg im Einzelmonat stieg das Gesamtdefizit über die 10 Monate des Haushaltsjahres auf nahezu 1,8 Billionen Dollar und überstieg den gleichen Zeitraum des Vorjahres."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-08-17",
-      "url": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-08-12",
+      "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "拥有房屋被高估了。租房现在通常是更好的财务选择。",
-        "en": "Owning a home is overrated. Renting is now often a much better money move.",
-        "de": "Eigenheim ist überbewertet. Mieten ist jetzt oft eine viel bessere finanzielle Entscheidung."
+        "zh": "美联储的通货膨胀斗争因AI的高成本而复杂化",
+        "en": "AI’s costly build-out complicates the Fed’s inflation fight",
+        "de": "Der kostspielige Ausbau von KI erschwert den Inflationskampf der Fed"
       },
       "summary": {
-        "zh": "文章探讨了拥有房屋与租房的财务比较，指出在当前经济环境下，租房可能是更明智的选择。",
-        "en": "The article discusses the financial comparison between owning a home and renting, suggesting that renting may be the wiser choice in the current economic climate.",
-        "de": "Der Artikel diskutiert den finanziellen Vergleich zwischen dem Besitz eines Hauses und dem Mieten und legt nahe, dass das Mieten in der aktuellen wirtschaftlichen Lage die klügere Wahl sein könnte."
+        "zh": "科技领袖表示，人工智能将降低成本，但企业的缓慢采用和数据中心的建设给美联储带来了通胀压力。",
+        "en": "Tech leaders say AI will drive down costs, but slow corporate adoption and data center build-out create inflation pressures that complicate the Fed's efforts.",
+        "de": "Technologieführer sagen, dass KI die Kosten senken wird, aber die langsame Unternehmensakzeptanz und der Ausbau von Rechenzentren schaffen Inflationsdruck, der die Bemühungen der Fed kompliziert."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-08-17",
-      "url": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-08-12",
+      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
     }
   ]
 }
