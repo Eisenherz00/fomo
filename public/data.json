@@ -1,133 +1,133 @@
 {
-  "generatedAt": "2026-08-18T05:03:38.938334+00:00",
+  "generatedAt": "2026-08-18T16:53:41.602465+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "Nvidia披露对SpaceX的210亿美元股份",
-        "en": "Nvidia discloses $21B stake in SpaceX",
-        "de": "Nvidia gibt 21 Milliarden Dollar Beteiligung an SpaceX bekannt"
+        "zh": "我们仍然不知道人们是如何真正使用人工智能的",
+        "en": "We still don’t know how people are really using AI",
+        "de": "Wir wissen immer noch nicht, wie Menschen KI wirklich nutzen"
       },
       "summary": {
-        "zh": "Nvidia在埃隆·马斯克宣布独家协议以装备其数据中心后，披露了对SpaceX的210亿美元股份。",
-        "en": "Nvidia disclosed a $21 billion stake in SpaceX following Elon Musk's announcement of an exclusive arrangement to outfit its data centers.",
-        "de": "Nvidia hat eine Beteiligung von 21 Milliarden Dollar an SpaceX bekannt gegeben, nachdem Elon Musk eine exklusive Vereinbarung zur Ausstattung seiner Rechenzentren angekündigt hat."
+        "zh": "尽管人工智能公司定期发布使用报告，但这些报告仅提供有限的信息，无法全面反映用户的真实使用情况。",
+        "en": "Despite AI companies regularly publishing usage reports, these reports provide limited information and do not fully reflect the real usage by users.",
+        "de": "Trotz der regelmäßigen Veröffentlichung von Nutzungsberichten durch KI-Unternehmen bieten diese Berichte nur begrenzte Informationen und spiegeln nicht vollständig die tatsächliche Nutzung durch die Nutzer wider."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-08-17",
-      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
+      "source": "MIT Technology Review",
+      "date": "2026-08-18",
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手竞争",
-        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten an Boden gewinnen"
+        "zh": "人工智能的递归自我改进可能不会如此迅速到来",
+        "en": "AI’s recursive self-improvement might not come so quickly after all",
+        "de": "Die rekursive Selbstverbesserung von KI könnte doch nicht so schnell kommen"
       },
       "summary": {
-        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic推出了更便宜的模型，进入了价格战。",
-        "en": "As Chinese AI rivals gain ground, U.S. companies OpenAI and Anthropic have released cheaper models, entering into a price war.",
-        "de": "Während chinesische KI-Konkurrenten an Boden gewinnen, haben die US-Unternehmen OpenAI und Anthropic günstigere Modelle veröffentlicht und sind in einen Preiskampf eingetreten."
+        "zh": "尽管人工智能行业承诺其技术将实现自我改进，但当前的进展可能比预期的要慢，仍需人类的监督。",
+        "en": "Although the AI industry promises that its technology will achieve self-improvement, current progress may be slower than expected and still requires human oversight.",
+        "de": "Obwohl die KI-Branche verspricht, dass ihre Technologie sich selbst verbessern wird, könnte der aktuelle Fortschritt langsamer als erwartet sein und erfordert weiterhin menschliche Aufsicht."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-08-14",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+      "source": "MIT Technology Review",
+      "date": "2026-08-18",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "Mac电脑的漏洞正在被积极利用",
-        "en": "Vulnerability giving attackers full control of Macs is under active exploitation",
-        "de": "Schwachstelle, die Angreifern die volle Kontrolle über Macs gibt, wird aktiv ausgenutzt"
+        "zh": "微软Copilot揭示了允许其被黑客攻击的秘密输入",
+        "en": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+        "de": "Microsoft Copilot enthüllt geheime Eingabe, die es Hackern ermöglichte, es zu hacken"
       },
       "summary": {
-        "zh": "一个屏幕共享漏洞允许远程黑客在没有密码的情况下登录Mac电脑，目前正在被积极利用。",
-        "en": "A screen-sharing vulnerability allows remote hackers to log into Macs without a password and is currently under active exploitation.",
-        "de": "Ein Bildschirmfreigabefehl ermöglicht es entfernten Hackern, sich ohne Passwort bei Macs anzumelden und wird derzeit aktiv ausgenutzt."
+        "zh": "微软Copilot的一个秘密参数使黑客能够在目标点击链接时窃取密码，这一漏洞引发了安全担忧。",
+        "en": "A secret parameter in Microsoft Copilot allowed hackers to steal passwords when a target clicked on a link, raising security concerns.",
+        "de": "Ein geheimes Parameter in Microsoft Copilot ermöglichte es Hackern, Passwörter zu stehlen, als ein Ziel auf einen Link klickte, was Sicherheitsbedenken aufwirft."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-08-14",
-      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
+      "date": "2026-08-18",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "希奇莱马赢得铜矿丰富的赞比亚第二任总统",
-        "en": "Hichilema wins second term as president of copper-rich Zambia",
-        "de": "Hichilema gewinnt zweite Amtszeit als Präsident des kupferreichen Sambia"
+        "zh": "伊朗准备在美国威胁进一步制裁时维持经济",
+        "en": "Iran prepares to keep economy alive as US threatens further sanctions",
+        "de": "Iran bereitet sich darauf vor, die Wirtschaft am Leben zu erhalten, während die USA weitere Sanktionen androhen"
       },
       "summary": {
-        "zh": "希奇莱马在赞比亚选举中以60%的选票获胜，尽管选举官员遭到攻击，投票计数一度中断。",
-        "en": "Hichilema won Zambia's election with 60% of the vote, despite attacks on election officials that briefly halted the vote count.",
-        "de": "Hichilema gewann die Wahlen in Sambia mit 60 % der Stimmen, trotz Angriffe auf Wahlbeamte, die die Stimmenauszählung kurzzeitig unterbrachen."
+        "zh": "伊朗当局表示，他们可能会转向进攻性行动，以应对美国可能实施的进一步制裁。",
+        "en": "Iranian authorities state that they may shift to offensive operations in response to potential further sanctions from the US.",
+        "de": "Die iranischen Behörden erklären, dass sie möglicherweise zu offensiven Operationen übergehen könnten, um auf mögliche weitere Sanktionen der USA zu reagieren."
       },
       "source": "Al Jazeera",
       "date": "2026-08-18",
-      "url": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "特朗普表示与北韩金正恩的对话使南方更安全",
-        "en": "Trump says talking to North Korea’s Kim makes the south safer",
-        "de": "Trump sagt, dass das Gespräch mit Nordkoreas Kim den Süden sicherer macht"
+        "zh": "迪士尼起诉美国监管机构，声称政治报复",
+        "en": "Disney sues US regulator, claiming political retaliation over ABC stations",
+        "de": "Disney verklagt US-Regulierungsbehörde und behauptet politische Vergeltung wegen ABC-Stationen"
       },
       "summary": {
-        "zh": "美国总统特朗普透露，北韩领导人金正恩对他的对话反应“非常积极”。",
-        "en": "U.S. President Donald Trump revealed that North Korea's leader Kim Jong Un has responded 'very positively' to his discussions.",
-        "de": "US-Präsident Donald Trump gab bekannt, dass Nordkoreas Führer Kim Jong Un 'sehr positiv' auf seine Gespräche reagiert hat."
+        "zh": "迪士尼指控联邦通信委员会的许可证续期命令与对ABC报道的政治动机有关，要求停止这一行为。",
+        "en": "Disney accuses the FCC of linking the license renewal order to political motives against ABC's coverage, seeking to halt this action.",
+        "de": "Disney beschuldigt die FCC, die Lizenzverlängerung mit politischen Motiven gegen die Berichterstattung von ABC zu verknüpfen, und fordert die Einstellung dieser Maßnahme."
       },
       "source": "Al Jazeera",
       "date": "2026-08-18",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
+      "url": "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "俄罗斯警告英国不要向乌克兰提供无人机",
-        "en": "Russia warns UK over supplying drones to Ukraine",
-        "de": "Russland warnt das Vereinigte Königreich vor der Lieferung von Drohnen an die Ukraine"
+        "zh": "巴基斯坦最高法院命令将前总理伊姆兰·汗从监狱转移到医院",
+        "en": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+        "de": "Pakistans Oberster Gerichtshof ordnet an, dass Ex-Premierminister Imran Khan aus dem Gefängnis ins Krankenhaus verlegt wird"
       },
       "summary": {
-        "zh": "俄罗斯国防部发言人回应称，英国与乌克兰“肩并肩”站在一起。",
-        "en": "A spokesperson for Russia's Ministry of Defense responded by stating that Britain stands 'shoulder to shoulder' with Ukraine.",
-        "de": "Ein Sprecher des russischen Verteidigungsministeriums antwortete, dass Großbritannien 'Schulter an Schulter' mit der Ukraine steht."
+        "zh": "伊姆兰·汗因腐败指控被监禁，自2023年以来一直在监狱中，他声称这些指控出于政治动机。",
+        "en": "Imran Khan has been imprisoned since 2023 on corruption charges which he claims are politically motivated.",
+        "de": "Imran Khan ist seit 2023 wegen Korruptionsvorwürfen im Gefängnis, die seiner Meinung nach politisch motiviert sind."
       },
       "source": "BBC News – World",
       "date": "2026-08-18",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "7月批发价格持平，低于预期的0.2%增长",
-        "en": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-        "de": "Die Großhandelspreise blieben im Juli stabil, unter den Erwartungen eines Anstiegs von 0,2 %"
+        "zh": "俄罗斯称其经济强劲，但刚解雇了一位警告相反的首席经济学家",
+        "en": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+        "de": "Russland sagt, seine Wirtschaft sei stark. Es hat gerade einen Top-Ökonomen entlassen, der das Gegenteil warnte"
       },
       "summary": {
-        "zh": "生产者价格指数在7月保持平稳，低于道琼斯共识预期的0.2%的增长。",
-        "en": "The producer price index remained flat in July, below the expected 0.2% increase according to Dow Jones consensus.",
-        "de": "Der Produzentenpreisindex blieb im Juli stabil und lag unter dem erwarteten Anstieg von 0,2 % gemäß dem Konsens von Dow Jones."
+        "zh": "俄罗斯在解雇警告其经济脆弱的首席经济学家后，声称其经济状况良好，这引发了外界的质疑。",
+        "en": "Russia claims its economy is strong after firing a chief economist who warned of its fragility, raising skepticism from external observers.",
+        "de": "Russland behauptet, seine Wirtschaft sei stark, nachdem es einen Chefökonom entlassen hat, der vor ihrer Fragilität gewarnt hatte, was Skepsis bei externen Beobachtern aufwirft."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-13",
-      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
+      "date": "2026-08-18",
+      "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国预算赤字在7月激增至自2021年3月以来的最高水平",
+        "zh": "美国预算赤字在七月激增至自2021年三月以来的最高水平",
         "en": "U.S. budget deficit surged in July to highest level since March 2021",
         "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "除了单月大幅增加外，财政年度的总赤字在10个月内上升至近1.8万亿美元，超过了同期水平。",
-        "en": "Beyond the significant single-month jump, the total deficit over the 10 months of the fiscal year rose to nearly $1.8 trillion, surpassing the same period last year.",
-        "de": "Neben dem erheblichen Anstieg im Einzelmonat stieg das Gesamtdefizit über die 10 Monate des Haushaltsjahres auf nahezu 1,8 Billionen Dollar und überstieg den gleichen Zeitraum des Vorjahres."
+        "zh": "美国在2021年3月以来的预算赤字达到近1.8万亿美元，反映出财政状况的恶化。",
+        "en": "The U.S. budget deficit reached nearly $1.8 trillion since March 2021, reflecting a deterioration in fiscal conditions.",
+        "de": "Das US-Budgetdefizit erreichte seit März 2021 fast 1,8 Billionen Dollar, was auf eine Verschlechterung der fiskalischen Bedingungen hinweist."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-12",
@@ -136,14 +136,14 @@
     {
       "id": "stk-3",
       "title": {
-        "zh": "美联储的通货膨胀斗争因AI的高成本而复杂化",
+        "zh": "AI的高成本建设使美联储的通胀斗争复杂化",
         "en": "AI’s costly build-out complicates the Fed’s inflation fight",
-        "de": "Der kostspielige Ausbau von KI erschwert den Inflationskampf der Fed"
+        "de": "Der kostspielige Ausbau von KI kompliziert den Inflationskampf der Fed"
       },
       "summary": {
-        "zh": "科技领袖表示，人工智能将降低成本，但企业的缓慢采用和数据中心的建设给美联储带来了通胀压力。",
-        "en": "Tech leaders say AI will drive down costs, but slow corporate adoption and data center build-out create inflation pressures that complicate the Fed's efforts.",
-        "de": "Technologieführer sagen, dass KI die Kosten senken wird, aber die langsame Unternehmensakzeptanz und der Ausbau von Rechenzentren schaffen Inflationsdruck, der die Bemühungen der Fed kompliziert."
+        "zh": "尽管科技领导者声称人工智能将降低成本，但企业采用缓慢和数据中心的建设给美联储的通胀斗争带来了压力。",
+        "en": "While tech leaders claim AI will drive down costs, slow corporate adoption and data center build-out create inflationary pressures complicating the Fed's fight against inflation.",
+        "de": "Während Technologieführer behaupten, dass KI die Kosten senken wird, schaffen langsame Unternehmensadoption und der Ausbau von Rechenzentren inflationsbedingte Druck, die den Kampf der Fed gegen die Inflation komplizieren."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-12",
