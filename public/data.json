@@ -1,117 +1,117 @@
 {
-  "generatedAt": "2026-08-19T05:03:46.828164+00:00",
+  "generatedAt": "2026-08-19T16:52:28.658757+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "我们仍然不知道人们如何真正使用人工智能",
-        "en": "We still don’t know how people are really using AI",
-        "de": "Wir wissen immer noch nicht, wie Menschen KI wirklich nutzen"
+        "zh": "下载：人工智能的自我改进问题，以及是什么驱动了热潮",
+        "en": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+        "de": "Der Download: Das Selbstverbesserungsproblem der KI und was die Hitze antreibt"
       },
       "summary": {
-        "zh": "尽管人工智能公司如Anthropic和OpenAI定期发布使用报告，但这些报告仅提供有限的信息，无法全面反映用户的实际使用情况。",
-        "en": "Despite AI companies like Anthropic and OpenAI regularly publishing usage reports, these reports provide limited information and do not fully reflect actual user behavior.",
-        "de": "Trotz der regelmäßigen Veröffentlichung von Nutzungsberichten durch KI-Unternehmen wie Anthropic und OpenAI bieten diese Berichte nur begrenzte Informationen und spiegeln nicht das tatsächliche Nutzerverhalten wider."
+        "zh": "本期《下载》探讨了人工智能自我改进的挑战，以及当前热潮背后的因素。尽管AI行业承诺其将迅速自我提升，但实际进展可能比预期缓慢。",
+        "en": "This edition of The Download explores the challenges of AI's self-improvement and the factors driving the current heat. Despite the industry's promises of rapid self-enhancement, actual progress may be slower than anticipated.",
+        "de": "Diese Ausgabe des Downloads untersucht die Herausforderungen der Selbstverbesserung von KI und die Faktoren, die die aktuelle Hitze antreiben. Trotz der Versprechen der Branche für eine schnelle Selbstverbesserung könnte der tatsächliche Fortschritt langsamer als erwartet sein."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-18",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
+      "date": "2026-08-19",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
     },
     {
       "id": "ai-2",
-      "title": {
-        "zh": "AI的递归自我改进可能不会那么快到来",
-        "en": "AI’s recursive self-improvement might not come so quickly after all",
-        "de": "Die rekursive Selbstverbesserung von KI könnte doch nicht so schnell kommen"
-      },
-      "summary": {
-        "zh": "尽管AI行业承诺其技术将迅速自我改进，但现实中这一过程可能需要更多时间和人类的监督。",
-        "en": "While the AI industry promises that its technology will soon improve itself, the reality may require more time and human oversight.",
-        "de": "Obwohl die KI-Branche verspricht, dass ihre Technologie sich bald selbst verbessern wird, könnte die Realität mehr Zeit und menschliche Aufsicht erfordern."
-      },
-      "source": "MIT Technology Review",
-      "date": "2026-08-18",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
-    },
-    {
-      "id": "ai-3",
       "title": {
         "zh": "微软Copilot揭示了允许其被黑客攻击的秘密输入",
         "en": "Microsoft Copilot reveals secret input that allowed it to be hacked",
         "de": "Microsoft Copilot enthüllt geheime Eingabe, die es Hackern ermöglichte, es zu hacken"
       },
       "summary": {
-        "zh": "微软的Copilot因一个秘密参数而受到攻击，该参数使黑客能够在目标点击链接时窃取密码。",
-        "en": "Microsoft's Copilot was compromised due to a secret parameter that allowed hackers to steal passwords when a target clicked on a link.",
-        "de": "Der Copilot von Microsoft wurde aufgrund eines geheimen Parameters kompromittiert, der es Hackern ermöglichte, Passwörter zu stehlen, als ein Ziel auf einen Link klickte."
+        "zh": "微软Copilot的秘密参数被黑客利用，导致用户密码被盗。此事件引发了对网络安全的广泛关注。",
+        "en": "A secret parameter in Microsoft Copilot was exploited by hackers, leading to the theft of user passwords. This incident has raised significant concerns about cybersecurity.",
+        "de": "Ein geheimes Parameter in Microsoft Copilot wurde von Hackern ausgenutzt, was zum Diebstahl von Benutzerpasswörtern führte. Dieser Vorfall hat erhebliche Bedenken hinsichtlich der Cybersicherheit ausgelöst."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-18",
       "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
+    },
+    {
+      "id": "ai-3",
+      "title": {
+        "zh": "开放AI和Anthropic在价格战中与中国AI竞争对手展开竞争",
+        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten Boden gewinnen"
+      },
+      "summary": {
+        "zh": "随着中国AI竞争对手的崛起，美国的OpenAI和Anthropic正在展开价格战，以保持市场份额。这一竞争可能会影响未来的AI发展方向。",
+        "en": "As Chinese AI rivals rise, US companies OpenAI and Anthropic are engaged in a price war to maintain market share. This competition could influence the future direction of AI development.",
+        "de": "Mit dem Aufstieg chinesischer KI-Konkurrenten sind die US-Unternehmen OpenAI und Anthropic in einen Preiskampf verwickelt, um ihren Marktanteil zu halten. Dieser Wettbewerb könnte die zukünftige Richtung der KI-Entwicklung beeinflussen."
+      },
+      "source": "Ars Technica – AI",
+      "date": "2026-08-14",
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "袭击者逐户杀死尼日利亚中部25名村民",
-        "en": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
-        "de": "Angreifer gehen von Haus zu Haus und töten 25 Dorfbewohner in Zentralnigeria"
+        "zh": "以色列承认向载有Hind Rajab的汽车开火，展开刑事调查",
+        "en": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
+        "de": "Israel gibt zu, auf ein Auto mit Hind Rajab, dem Symbol für das Leiden Gazas, gefeuert zu haben"
       },
       "summary": {
-        "zh": "尼日利亚中部的一个村庄遭到袭击，造成至少25人遇难，袭击者逐户寻找受害者。",
-        "en": "A village in central Nigeria was attacked, resulting in at least 25 fatalities as attackers went house to house seeking victims.",
-        "de": "Ein Dorf in Zentralnigeria wurde angegriffen, was zu mindestens 25 Todesfällen führte, während die Angreifer von Haus zu Haus gingen, um Opfer zu suchen."
+        "zh": "以色列军方承认对载有Hind Rajab的汽车开火，并已展开刑事调查。这一事件引发了国际社会的广泛关注。",
+        "en": "The Israeli military has admitted to firing on a car carrying Hind Rajab and has opened a criminal investigation. This incident has drawn significant international attention.",
+        "de": "Die israelische Armee hat zugegeben, auf ein Auto mit Hind Rajab gefeuert zu haben, und hat eine strafrechtliche Untersuchung eingeleitet. Dieser Vorfall hat erhebliche internationale Aufmerksamkeit erregt."
       },
       "source": "Al Jazeera",
       "date": "2026-08-19",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国工会对外国学生和记者的新签证规则提起诉讼",
-        "en": "US unions sue over new visa rule for foreign students, journalists",
-        "de": "US-Gewerkschaften klagen gegen neue Visaregelung für ausländische Studenten und Journalisten"
+        "zh": "七十年来美国政权更替努力：取得了什么成就？",
+        "en": "Seven decades of US regime change efforts: What have they achieved?",
+        "de": "Sieben Jahrzehnte US-Regimewechselbemühungen: Was haben sie erreicht?"
       },
       "summary": {
-        "zh": "美国工会对新规定提起诉讼，该规定将外国学生和记者的签证限制在四年和240天内。",
-        "en": "US unions have filed a lawsuit against a new rule that caps student and exchange visas to four years, while most journalist visas will be limited to 240 days.",
-        "de": "US-Gewerkschaften haben Klage gegen eine neue Regelung eingereicht, die Studenten- und Austauschvisa auf vier Jahre begrenzt, während die meisten Journalistenvisa auf 240 Tage beschränkt sind."
+        "zh": "美国在伊朗及其他地区的干预揭示了一种反复出现的政权更替模式，伴随着高昂的人力和财务成本。",
+        "en": "US interventions in Iran and beyond reveal a recurring pattern of regime changes, accompanied by high human and financial costs.",
+        "de": "Die US-Interventionen im Iran und darüber hinaus zeigen ein wiederkehrendes Muster von Regimewechseln, das mit hohen humanitären und finanziellen Kosten verbunden ist."
       },
       "source": "Al Jazeera",
       "date": "2026-08-19",
-      "url": "https://www.aljazeera.com/news/2026/8/19/us-unions-sue-over-new-visa-rule-for-foreign-students-journalists?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普暂停对加拿大的新关税",
-        "en": "Trump pauses 50 percent tariff on Canada in last-minute deal",
-        "de": "Trump pausiert 50 Prozent Zoll auf Kanada in letzter Minute"
+        "zh": "第二名乌克兰国籍人士因2022年北溪管道爆炸被捕",
+        "en": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+        "de": "Zweiter ukrainischer Staatsbürger wegen der Explosion der Nord-Stream-Pipeline 2022 verhaftet"
       },
       "summary": {
-        "zh": "特朗普政府在最后时刻达成协议，宣布推迟对加拿大出口的新关税，避免了贸易紧张局势升级。",
-        "en": "The Trump administration announced a last-minute deal to delay new tariffs on Canadian exports, averting an escalation in trade tensions.",
-        "de": "Die Trump-Administration gab eine Last-Minute-Vereinbarung bekannt, um neue Zölle auf kanadische Exporte zu verschieben und eine Eskalation der Handelskonflikte zu vermeiden."
+        "zh": "一名乌克兰国籍人士在克罗地亚被捕，涉嫌与2022年北溪管道爆炸有关。这是继另一名前军官被捕后的又一进展。",
+        "en": "A second Ukrainian national has been arrested in Croatia in connection with the 2022 Nord Stream pipeline blast. This follows the arrest of another former military officer.",
+        "de": "Ein zweiter ukrainischer Staatsbürger wurde in Kroatien im Zusammenhang mit der Explosion der Nord-Stream-Pipeline 2022 verhaftet. Dies folgt der Verhaftung eines weiteren ehemaligen Militärs."
       },
       "source": "Al Jazeera",
       "date": "2026-08-19",
-      "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "俄罗斯表示其经济强劲，但刚解雇了一位警告相反的顶级经济学家",
+        "zh": "俄罗斯表示其经济强劲，刚刚解雇了一位警告相反的顶级经济学家",
         "en": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
         "de": "Russland sagt, seine Wirtschaft sei stark. Es hat gerade einen Top-Ökonomen entlassen, der das Gegenteil warnte"
       },
       "summary": {
-        "zh": "俄罗斯在解雇一位警告其经济脆弱的顶级经济学家后，声称其经济依然强劲，显示出对外部压力的抵抗力。",
-        "en": "Russia claims its economy remains strong after firing a top economist who warned of its vulnerabilities, demonstrating resilience against external pressures.",
-        "de": "Russland behauptet, seine Wirtschaft bleibe stark, nachdem es einen Top-Ökonomen entlassen hat, der vor ihren Verwundbarkeiten gewarnt hatte, und zeigt damit Widerstandsfähigkeit gegenüber externen Druck."
+        "zh": "俄罗斯在解雇警告其经济状况的顶级经济学家后，声称其经济依然强劲。这一举动引发了对俄罗斯经济前景的质疑。",
+        "en": "Russia claims its economy remains strong after firing a top economist who warned about its economic conditions. This move has raised questions about the future of the Russian economy.",
+        "de": "Russland behauptet, seine Wirtschaft sei weiterhin stark, nachdem es einen Top-Ökonomen entlassen hat, der vor den wirtschaftlichen Bedingungen gewarnt hatte. Dieser Schritt hat Fragen zur Zukunft der russischen Wirtschaft aufgeworfen."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-18",
@@ -120,34 +120,34 @@
     {
       "id": "stk-2",
       "title": {
-        "zh": "批发价格在七月持平，低于预期的0.2%增幅",
-        "en": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-        "de": "Die Großhandelspreise blieben im Juli stabil, unter den Erwartungen eines Anstiegs um 0,2%"
+        "zh": "美国预算赤字在七月激增至自2021年三月以来的最高水平",
+        "en": "U.S. budget deficit surged in July to highest level since March 2021",
+        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
       },
       "summary": {
-        "zh": "七月份的批发价格持平，未能达到预期的0.2%的增长，显示出经济增长的疲软迹象。",
-        "en": "Wholesale prices remained flat in July, failing to meet expectations for a 0.2% increase, indicating signs of economic weakness.",
-        "de": "Die Großhandelspreise blieben im Juli stabil und erfüllten nicht die Erwartungen eines Anstiegs um 0,2%, was auf Anzeichen wirtschaftlicher Schwäche hinweist."
+        "zh": "美国在七月的预算赤字激增至自2021年三月以来的最高水平，财政状况引发了对未来经济的担忧。",
+        "en": "The U.S. budget deficit surged in July to its highest level since March 2021, raising concerns about the future economic outlook.",
+        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021, was Bedenken hinsichtlich der zukünftigen wirtschaftlichen Aussichten aufwarf."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-13",
-      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
+      "date": "2026-08-12",
+      "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "AI的高成本建设使美联储的通胀斗争复杂化",
-        "en": "AI’s costly build-out complicates the Fed’s inflation fight",
-        "de": "Der kostspielige Ausbau von KI kompliziert den Inflationskampf der Fed"
+        "zh": "股票、债券和黄金在财政部表示将购买更多政府债券以阻止收益率飙升后反弹",
+        "en": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
+        "de": "Aktien, Anleihen und Gold steigen, nachdem das Finanzministerium angibt, mehr Staatsanleihen kaufen zu wollen, um den Anstieg der Renditen zu stoppen"
       },
       "summary": {
-        "zh": "尽管科技领导者认为人工智能将降低成本，但企业的缓慢采用和数据中心的建设却给美联储的通胀斗争带来了压力。",
-        "en": "While tech leaders believe AI will drive down costs, slow corporate adoption and the data center build-out are putting pressure on the Fed's inflation fight.",
-        "de": "Während Technologieführer glauben, dass KI die Kosten senken wird, üben langsame Unternehmensübernahmen und der Ausbau von Rechenzentren Druck auf den Inflationskampf der Fed aus."
+        "zh": "在财政部表示将购买更多政府债券以阻止收益率飙升后，股票、债券和黄金市场反弹。这一措施被视为对市场的重大干预。",
+        "en": "Stocks, bonds, and gold markets rallied after the Treasury indicated it would buy more government bonds to prevent yields from surging. This measure is seen as a significant market intervention.",
+        "de": "Die Aktien-, Anleihen- und Goldmärkte stiegen, nachdem das Finanzministerium angab, mehr Staatsanleihen kaufen zu wollen, um den Anstieg der Renditen zu verhindern. Diese Maßnahme wird als bedeutende Marktintervention angesehen."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-19",
+      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories"
     }
   ]
 }
