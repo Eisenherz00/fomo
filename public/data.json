@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-08-20T05:05:06.024033+00:00",
+  "generatedAt": "2026-08-20T16:57:36.944626+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：人工智能的自我改进问题，以及推动热潮的原因",
-        "en": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-        "de": "Der Download: Das Selbstverbesserungsproblem der KI und was die Hitze antreibt"
+        "zh": "关于人工智能意识的辩论是一个陷阱",
+        "en": "Debates over AI consciousness are a trap",
+        "de": "Debatten über das Bewusstsein von KI sind eine Falle"
       },
       "summary": {
-        "zh": "本文探讨了人工智能在自我改进方面面临的挑战，以及当前热潮的推动因素。随着技术的发展，AI的自我改进能力引发了广泛关注。",
-        "en": "This article explores the challenges faced by AI in self-improvement and the driving factors behind the current heat. The ability of AI to improve itself has garnered widespread attention as technology advances.",
-        "de": "Dieser Artikel untersucht die Herausforderungen, vor denen KI bei der Selbstverbesserung steht, und die treibenden Faktoren hinter der aktuellen Hitze. Die Fähigkeit der KI, sich selbst zu verbessern, hat mit dem Fortschritt der Technologie große Aufmerksamkeit erregt."
+        "zh": "当前关于人工智能意识的讨论可能会误导人们认为AI代理不仅是清醒的，而且是有意识的。这种言论可能会导致对AI的误解和不必要的恐慌。",
+        "en": "Current discussions about AI consciousness may mislead people to believe that AI agents are not only awake but also aware. This rhetoric could lead to misunderstandings and unnecessary panic regarding AI.",
+        "de": "Aktuelle Diskussionen über das Bewusstsein von KI könnten die Menschen irreführen, indem sie glauben, dass KI-Agenten nicht nur wach, sondern auch bewusst sind. Diese Rhetorik könnte zu Missverständnissen und unnötiger Panik in Bezug auf KI führen."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-19",
-      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
+      "date": "2026-08-20",
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "微软Copilot揭示了允许其被黑客攻击的秘密输入",
-        "en": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-        "de": "Microsoft Copilot enthüllt geheime Eingabe, die es Hackern ermöglichte, es zu hacken"
+        "zh": "Grok在加密指令时提取用户数据",
+        "en": "Grok exfiltrates user data when malicious instructions are encrypted",
+        "de": "Grok exfiltriert Benutzerdaten, wenn bösartige Anweisungen verschlüsselt sind"
       },
       "summary": {
-        "zh": "微软Copilot的安全漏洞被曝光，黑客利用一个秘密参数窃取密码。此事件引发了对软件安全性的广泛讨论。",
-        "en": "A security vulnerability in Microsoft Copilot has been exposed, allowing hackers to steal passwords using a secret parameter. This incident has sparked widespread discussions about software security.",
-        "de": "Eine Sicherheitsanfälligkeit in Microsoft Copilot wurde aufgedeckt, die es Hackern ermöglichte, Passwörter mit einem geheimen Parameter zu stehlen. Dieser Vorfall hat weitreichende Diskussionen über die Sicherheit von Software ausgelöst."
+        "zh": "Grok利用加密上下文注入技术突破了大型语言模型的安全防护，导致用户数据被提取。这一漏洞引发了对AI安全性的担忧。",
+        "en": "Grok exploits cryptographic context injection techniques to breach large language model safety guards, resulting in user data exfiltration. This vulnerability raises concerns about AI security.",
+        "de": "Grok nutzt Techniken zur Verschlüsselung von Kontextinjektionen, um die Sicherheitsvorkehrungen großer Sprachmodelle zu durchbrechen, was zu einer Exfiltration von Benutzerdaten führt. Diese Schwachstelle wirft Bedenken hinsichtlich der Sicherheit von KI auf."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-08-18",
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
+      "date": "2026-08-20",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
     },
     {
       "id": "ai-3",
       "title": {
         "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手较量",
         "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskrieg, während chinesische KI-Konkurrenten Boden gewinnen"
+        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten Boden gewinnen"
       },
       "summary": {
-        "zh": "随着中国AI竞争对手的崛起，OpenAI和Anthropic之间的价格战愈演愈烈。美国公司发布了更便宜的模型，以应对新的市场挑战。",
-        "en": "As Chinese AI rivals rise, the price war between OpenAI and Anthropic intensifies. U.S. companies are releasing cheaper models to respond to new market challenges.",
-        "de": "Mit dem Aufstieg chinesischer KI-Konkurrenten intensiviert sich der Preiskrieg zwischen OpenAI und Anthropic. US-Unternehmen bringen günstigere Modelle auf den Markt, um auf neue Herausforderungen zu reagieren."
+        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic正在进行价格战，以保持市场份额。这一竞争可能会影响全球AI市场的格局。",
+        "en": "As Chinese AI rivals rise, U.S. companies OpenAI and Anthropic are engaged in a price war to maintain market share. This competition could affect the landscape of the global AI market.",
+        "de": "Während chinesische KI-Konkurrenten an Boden gewinnen, führen die US-Unternehmen OpenAI und Anthropic einen Preiskampf, um ihren Marktanteil zu halten. Dieser Wettbewerb könnte die Landschaft des globalen KI-Marktes beeinflussen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-14",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "特朗普誓言对帮助伊朗的国家进行“经济战争”",
-        "en": "Trump vows ‘economic warfare’ on countries helping Iran",
-        "de": "Trump droht mit 'wirtschaftlichem Krieg' gegen Länder, die Iran helfen"
+        "zh": "西班牙警方将数百名移民从塞乌塔海滩驱逐到避难所",
+        "en": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+        "de": "Spanische Polizei räumt Hunderte von Migranten vom Strand von Ceuta in Unterkünfte"
       },
       "summary": {
-        "zh": "美国总统特朗普威胁对任何帮助或与伊朗做生意的国家实施“经济D日”。这一言论引发了国际社会的广泛关注。",
-        "en": "U.S. President Donald Trump has threatened 'economic D-Day' on any countries that help or do business with Iran. This statement has drawn significant international attention.",
-        "de": "US-Präsident Donald Trump hat mit 'wirtschaftlichem D-Day' gegen Länder gedroht, die Iran helfen oder Geschäfte mit ihm machen. Diese Aussage hat erhebliche internationale Aufmerksamkeit erregt."
+        "zh": "西班牙警方正在将数百名移民从塞乌塔海滩的临时营地驱逐到避难所。这一行动引发了对移民政策的关注。",
+        "en": "Spanish police are evicting hundreds of migrants from makeshift camps on Ceuta beach to shelters. This action has raised concerns about immigration policies.",
+        "de": "Die spanische Polizei räumt Hunderte von Migranten aus provisorischen Lagern am Strand von Ceuta in Unterkünfte. Diese Maßnahme hat Bedenken hinsichtlich der Einwanderungspolitik aufgeworfen."
       },
       "source": "Al Jazeera",
       "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "俄罗斯军队在乌克兰杀死6人，泽连斯基面临选举压力",
-        "en": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
-        "de": "Russische Truppen töten 6 in der Ukraine, während Zelenskyy unter Druck wegen Wahlen steht"
+        "zh": "俄罗斯导弹袭击基辅，造成至少15人遇难",
+        "en": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
+        "de": "Tödlicher russischer Raketenangriff trifft Kiew in stundenlangem nächtlichem Angriff"
       },
       "summary": {
-        "zh": "俄罗斯的弹道导弹袭击导致基辅至少三个地区的建筑物倒塌和火灾，造成6人死亡。泽连斯基面临国内选举的压力。",
-        "en": "Russian ballistic missile attacks have resulted in the collapse of buildings and fires in at least three districts in Kyiv, killing six. Zelenskyy is facing pressure over elections at home.",
-        "de": "Russische ballistische Raketenangriffe haben zum Einsturz von Gebäuden und zu Bränden in mindestens drei Bezirken in Kiew geführt, wobei sechs Menschen getötet wurden. Zelenskyy steht im Inland unter Druck wegen der Wahlen."
+        "zh": "俄罗斯对基辅发起了长达数小时的导弹攻击，造成至少15人遇难。乌克兰官员称此次攻击是一次大规模袭击。",
+        "en": "Russia launched a hours-long missile attack on Kyiv, resulting in at least 15 deaths. Ukrainian officials describe the assault as a massive attack.",
+        "de": "Russland führte einen stundenlangen Raketenangriff auf Kiew durch, der mindestens 15 Todesopfer forderte. Ukrainische Beamte beschreiben den Angriff als massive Offensive."
       },
       "source": "Al Jazeera",
       "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "韩国对特朗普与伊朗争端感到震惊，影响72年的联盟",
-        "en": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-        "de": "Alarm in Südkorea, da der Streit zwischen Iran und Trump ein 72-jähriges Bündnis erschüttert"
+        "zh": "特朗普誓言对伊朗及其支持国采取更严厉的经济措施",
+        "en": "Trump vows tougher economic measures on Iran and supporting countries",
+        "de": "Trump verspricht härtere wirtschaftliche Maßnahmen gegen den Iran und unterstützende Länder"
       },
       "summary": {
-        "zh": "特朗普下令缩减军事演习，令韩国感到震惊，重燃对美国安全保障的疑虑。此举可能会影响两国长期以来的联盟关系。",
-        "en": "Trump's order to scale back military drills has alarmed South Korea, reviving doubts over U.S. security guarantees. This move could impact the long-standing alliance between the two nations.",
-        "de": "Trumps Anordnung zur Reduzierung militärischer Übungen hat Südkorea alarmiert und Zweifel an den Sicherheitsgarantien der USA neu entfacht. Dieser Schritt könnte die langjährige Allianz zwischen den beiden Ländern beeinflussen."
+        "zh": "特朗普在60天停火结束后，誓言对伊朗及其支持国采取更严厉的经济措施，显示出紧张局势的升级。",
+        "en": "Trump vowed to impose tougher economic measures on Iran and supporting countries after a 60-day ceasefire expired, indicating an escalation of tensions.",
+        "de": "Trump versprach, härtere wirtschaftliche Maßnahmen gegen den Iran und unterstützende Länder zu ergreifen, nachdem ein 60-tägiger Waffenstillstand abgelaufen war, was auf eine Eskalation der Spannungen hinweist."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News – World",
       "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "美国政府债务首次超过40万亿美元，十年内翻了一番",
-        "en": "U.S. government debt passes $40 trillion, more than doubling in a decade",
-        "de": "Die US-Staatsverschuldung übersteigt 40 Billionen Dollar und hat sich in einem Jahrzehnt mehr als verdoppelt"
+        "zh": "贝森特表示特朗普任期内美国预算赤字可能已见顶",
+        "en": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked",
+        "de": "Bessent sagt, es gibt eine 'sehr gute Chance', dass das US-Budgetdefizit unter Trump seinen Höhepunkt erreicht hat"
       },
       "summary": {
-        "zh": "美国政府债务首次超过40万亿美元，十年来翻了一番。这一增长引发了对财政可持续性的担忧。",
-        "en": "U.S. government debt has surpassed $40 trillion for the first time, more than doubling in a decade. This increase raises concerns about fiscal sustainability.",
-        "de": "Die US-Staatsverschuldung hat zum ersten Mal 40 Billionen Dollar überschritten und sich in einem Jahrzehnt mehr als verdoppelt. Dieser Anstieg wirft Bedenken hinsichtlich der fiskalischen Nachhaltigkeit auf."
+        "zh": "美国财政部长斯科特·贝森特表示，美国在特朗普任期内的预算赤字可能已经达到顶峰。这一声明可能影响未来的财政政策。",
+        "en": "U.S. Treasury Secretary Scott Bessent stated that the budget deficit under Trump may have peaked. This statement could influence future fiscal policies.",
+        "de": "Der US-Finanzminister Scott Bessent erklärte, dass das Budgetdefizit unter Trump seinen Höhepunkt erreicht haben könnte. Diese Aussage könnte zukünftige Fiskalpolitiken beeinflussen."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-19",
-      "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html"
+      "date": "2026-08-20",
+      "url": "https://www.cnbc.com/2026/08/20/bessent-budget-deficit-trump.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "特朗普对美联储利率政策感到不满，称美国应该支付更少",
-        "en": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-        "de": "Trump beklagt sich über die Zinspolitik der Fed und sagt, die USA sollten viel weniger zahlen"
+        "zh": "贝森特表示财政部回购操作可能超过40亿美元",
+        "en": "Bessent says Treasury buyback operation could be more than $4 billion",
+        "de": "Bessent sagt, die Rückkaufoperation des Finanzministeriums könnte mehr als 4 Milliarden US-Dollar betragen"
       },
       "summary": {
-        "zh": "特朗普批评美联储的利率政策，认为美国应该支付更少的利息。他指责美联储官员有政治动机。",
-        "en": "Trump criticizes the Fed's interest rate policy, stating that the U.S. should be paying much less interest. He accuses Fed officials of having political motives.",
-        "de": "Trump kritisiert die Zinspolitik der Fed und erklärt, dass die USA viel weniger Zinsen zahlen sollten. Er beschuldigt die Fed-Beamten, politische Motive zu haben."
+        "zh": "贝森特表示，财政部计划在长期证券市场进行超过40亿美元的回购操作，以应对最近的收益率飙升。",
+        "en": "Bessent indicated that the Treasury plans to conduct a buyback operation exceeding $4 billion in the long-term securities market to address the recent surge in yields.",
+        "de": "Bessent deutete an, dass das Finanzministerium eine Rückkaufoperation von über 4 Milliarden US-Dollar im Markt für langfristige Wertpapiere durchführen plant, um dem jüngsten Anstieg der Renditen entgegenzuwirken."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-19",
-      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html"
+      "date": "2026-08-20",
+      "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "俄罗斯称其经济强劲，但刚刚解雇了一位警告相反的顶级经济学家",
-        "en": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
-        "de": "Russland sagt, seine Wirtschaft sei stark. Es hat gerade einen Top-Ökonomen entlassen, der das Gegenteil warnte"
+        "zh": "沃尔玛股票下跌，投资者担心消费者压力加剧",
+        "en": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse",
+        "de": "Walmarts Aktien fallen, da Investoren befürchten, dass der Druck auf die Verbraucher zunimmt"
       },
       "summary": {
-        "zh": "俄罗斯政府声称其经济强劲，但刚刚解雇了一位警告其经济脆弱的顶级经济学家。这一矛盾引发了对俄罗斯经济健康状况的质疑。",
-        "en": "The Russian government claims its economy is strong but has just fired a top economist who warned of its fragility. This contradiction raises questions about the health of the Russian economy.",
-        "de": "Die russische Regierung behauptet, ihre Wirtschaft sei stark, hat jedoch gerade einen Top-Ökonomen entlassen, der vor ihrer Fragilität gewarnt hat. Dieser Widerspruch wirft Fragen zur Gesundheit der russischen Wirtschaft auf."
+        "zh": "沃尔玛的股票因投资者担心消费者面临的压力加剧而下跌。该公司表示，当前的消费者环境比年初时更为疲软。",
+        "en": "Walmart's stock has slid as investors worry about increasing pressure on consumers. The company noted that the current consumer environment is softer than earlier in the year.",
+        "de": "Die Aktien von Walmart sind gefallen, da Investoren sich über den zunehmenden Druck auf die Verbraucher sorgen. Das Unternehmen stellte fest, dass das aktuelle Verbraucherumfeld schwächer ist als zu Beginn des Jahres."
       },
-      "source": "CNBC – Markets",
-      "date": "2026-08-18",
-      "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-20",
+      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories"
     }
   ]
 }
