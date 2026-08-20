@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-19T16:52:28.658757+00:00",
+  "generatedAt": "2026-08-20T05:05:06.024033+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "下载：人工智能的自我改进问题，以及是什么驱动了热潮",
+        "zh": "下载：人工智能的自我改进问题，以及推动热潮的原因",
         "en": "The Download: AI’s self-improvement problem, and what’s driving the heat",
         "de": "Der Download: Das Selbstverbesserungsproblem der KI und was die Hitze antreibt"
       },
       "summary": {
-        "zh": "本期《下载》探讨了人工智能自我改进的挑战，以及当前热潮背后的因素。尽管AI行业承诺其将迅速自我提升，但实际进展可能比预期缓慢。",
-        "en": "This edition of The Download explores the challenges of AI's self-improvement and the factors driving the current heat. Despite the industry's promises of rapid self-enhancement, actual progress may be slower than anticipated.",
-        "de": "Diese Ausgabe des Downloads untersucht die Herausforderungen der Selbstverbesserung von KI und die Faktoren, die die aktuelle Hitze antreiben. Trotz der Versprechen der Branche für eine schnelle Selbstverbesserung könnte der tatsächliche Fortschritt langsamer als erwartet sein."
+        "zh": "本文探讨了人工智能在自我改进方面面临的挑战，以及当前热潮的推动因素。随着技术的发展，AI的自我改进能力引发了广泛关注。",
+        "en": "This article explores the challenges faced by AI in self-improvement and the driving factors behind the current heat. The ability of AI to improve itself has garnered widespread attention as technology advances.",
+        "de": "Dieser Artikel untersucht die Herausforderungen, vor denen KI bei der Selbstverbesserung steht, und die treibenden Faktoren hinter der aktuellen Hitze. Die Fähigkeit der KI, sich selbst zu verbessern, hat mit dem Fortschritt der Technologie große Aufmerksamkeit erregt."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-19",
@@ -25,9 +25,9 @@
         "de": "Microsoft Copilot enthüllt geheime Eingabe, die es Hackern ermöglichte, es zu hacken"
       },
       "summary": {
-        "zh": "微软Copilot的秘密参数被黑客利用，导致用户密码被盗。此事件引发了对网络安全的广泛关注。",
-        "en": "A secret parameter in Microsoft Copilot was exploited by hackers, leading to the theft of user passwords. This incident has raised significant concerns about cybersecurity.",
-        "de": "Ein geheimes Parameter in Microsoft Copilot wurde von Hackern ausgenutzt, was zum Diebstahl von Benutzerpasswörtern führte. Dieser Vorfall hat erhebliche Bedenken hinsichtlich der Cybersicherheit ausgelöst."
+        "zh": "微软Copilot的安全漏洞被曝光，黑客利用一个秘密参数窃取密码。此事件引发了对软件安全性的广泛讨论。",
+        "en": "A security vulnerability in Microsoft Copilot has been exposed, allowing hackers to steal passwords using a secret parameter. This incident has sparked widespread discussions about software security.",
+        "de": "Eine Sicherheitsanfälligkeit in Microsoft Copilot wurde aufgedeckt, die es Hackern ermöglichte, Passwörter mit einem geheimen Parameter zu stehlen. Dieser Vorfall hat weitreichende Diskussionen über die Sicherheit von Software ausgelöst."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-18",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "开放AI和Anthropic在价格战中与中国AI竞争对手展开竞争",
+        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手较量",
         "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten Boden gewinnen"
+        "de": "OpenAI und Anthropic im Preiskrieg, während chinesische KI-Konkurrenten Boden gewinnen"
       },
       "summary": {
-        "zh": "随着中国AI竞争对手的崛起，美国的OpenAI和Anthropic正在展开价格战，以保持市场份额。这一竞争可能会影响未来的AI发展方向。",
-        "en": "As Chinese AI rivals rise, US companies OpenAI and Anthropic are engaged in a price war to maintain market share. This competition could influence the future direction of AI development.",
-        "de": "Mit dem Aufstieg chinesischer KI-Konkurrenten sind die US-Unternehmen OpenAI und Anthropic in einen Preiskampf verwickelt, um ihren Marktanteil zu halten. Dieser Wettbewerb könnte die zukünftige Richtung der KI-Entwicklung beeinflussen."
+        "zh": "随着中国AI竞争对手的崛起，OpenAI和Anthropic之间的价格战愈演愈烈。美国公司发布了更便宜的模型，以应对新的市场挑战。",
+        "en": "As Chinese AI rivals rise, the price war between OpenAI and Anthropic intensifies. U.S. companies are releasing cheaper models to respond to new market challenges.",
+        "de": "Mit dem Aufstieg chinesischer KI-Konkurrenten intensiviert sich der Preiskrieg zwischen OpenAI und Anthropic. US-Unternehmen bringen günstigere Modelle auf den Markt, um auf neue Herausforderungen zu reagieren."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-14",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "以色列承认向载有Hind Rajab的汽车开火，展开刑事调查",
-        "en": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
-        "de": "Israel gibt zu, auf ein Auto mit Hind Rajab, dem Symbol für das Leiden Gazas, gefeuert zu haben"
+        "zh": "特朗普誓言对帮助伊朗的国家进行“经济战争”",
+        "en": "Trump vows ‘economic warfare’ on countries helping Iran",
+        "de": "Trump droht mit 'wirtschaftlichem Krieg' gegen Länder, die Iran helfen"
       },
       "summary": {
-        "zh": "以色列军方承认对载有Hind Rajab的汽车开火，并已展开刑事调查。这一事件引发了国际社会的广泛关注。",
-        "en": "The Israeli military has admitted to firing on a car carrying Hind Rajab and has opened a criminal investigation. This incident has drawn significant international attention.",
-        "de": "Die israelische Armee hat zugegeben, auf ein Auto mit Hind Rajab gefeuert zu haben, und hat eine strafrechtliche Untersuchung eingeleitet. Dieser Vorfall hat erhebliche internationale Aufmerksamkeit erregt."
+        "zh": "美国总统特朗普威胁对任何帮助或与伊朗做生意的国家实施“经济D日”。这一言论引发了国际社会的广泛关注。",
+        "en": "U.S. President Donald Trump has threatened 'economic D-Day' on any countries that help or do business with Iran. This statement has drawn significant international attention.",
+        "de": "US-Präsident Donald Trump hat mit 'wirtschaftlichem D-Day' gegen Länder gedroht, die Iran helfen oder Geschäfte mit ihm machen. Diese Aussage hat erhebliche internationale Aufmerksamkeit erregt."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-19",
-      "url": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
+      "date": "2026-08-20",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "七十年来美国政权更替努力：取得了什么成就？",
-        "en": "Seven decades of US regime change efforts: What have they achieved?",
-        "de": "Sieben Jahrzehnte US-Regimewechselbemühungen: Was haben sie erreicht?"
+        "zh": "俄罗斯军队在乌克兰杀死6人，泽连斯基面临选举压力",
+        "en": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
+        "de": "Russische Truppen töten 6 in der Ukraine, während Zelenskyy unter Druck wegen Wahlen steht"
       },
       "summary": {
-        "zh": "美国在伊朗及其他地区的干预揭示了一种反复出现的政权更替模式，伴随着高昂的人力和财务成本。",
-        "en": "US interventions in Iran and beyond reveal a recurring pattern of regime changes, accompanied by high human and financial costs.",
-        "de": "Die US-Interventionen im Iran und darüber hinaus zeigen ein wiederkehrendes Muster von Regimewechseln, das mit hohen humanitären und finanziellen Kosten verbunden ist."
+        "zh": "俄罗斯的弹道导弹袭击导致基辅至少三个地区的建筑物倒塌和火灾，造成6人死亡。泽连斯基面临国内选举的压力。",
+        "en": "Russian ballistic missile attacks have resulted in the collapse of buildings and fires in at least three districts in Kyiv, killing six. Zelenskyy is facing pressure over elections at home.",
+        "de": "Russische ballistische Raketenangriffe haben zum Einsturz von Gebäuden und zu Bränden in mindestens drei Bezirken in Kiew geführt, wobei sechs Menschen getötet wurden. Zelenskyy steht im Inland unter Druck wegen der Wahlen."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-19",
-      "url": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved?traffic_source=rss"
+      "date": "2026-08-20",
+      "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "第二名乌克兰国籍人士因2022年北溪管道爆炸被捕",
-        "en": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-        "de": "Zweiter ukrainischer Staatsbürger wegen der Explosion der Nord-Stream-Pipeline 2022 verhaftet"
+        "zh": "韩国对特朗普与伊朗争端感到震惊，影响72年的联盟",
+        "en": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+        "de": "Alarm in Südkorea, da der Streit zwischen Iran und Trump ein 72-jähriges Bündnis erschüttert"
       },
       "summary": {
-        "zh": "一名乌克兰国籍人士在克罗地亚被捕，涉嫌与2022年北溪管道爆炸有关。这是继另一名前军官被捕后的又一进展。",
-        "en": "A second Ukrainian national has been arrested in Croatia in connection with the 2022 Nord Stream pipeline blast. This follows the arrest of another former military officer.",
-        "de": "Ein zweiter ukrainischer Staatsbürger wurde in Kroatien im Zusammenhang mit der Explosion der Nord-Stream-Pipeline 2022 verhaftet. Dies folgt der Verhaftung eines weiteren ehemaligen Militärs."
+        "zh": "特朗普下令缩减军事演习，令韩国感到震惊，重燃对美国安全保障的疑虑。此举可能会影响两国长期以来的联盟关系。",
+        "en": "Trump's order to scale back military drills has alarmed South Korea, reviving doubts over U.S. security guarantees. This move could impact the long-standing alliance between the two nations.",
+        "de": "Trumps Anordnung zur Reduzierung militärischer Übungen hat Südkorea alarmiert und Zweifel an den Sicherheitsgarantien der USA neu entfacht. Dieser Schritt könnte die langjährige Allianz zwischen den beiden Ländern beeinflussen."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-19",
-      "url": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss"
+      "date": "2026-08-20",
+      "url": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "俄罗斯表示其经济强劲，刚刚解雇了一位警告相反的顶级经济学家",
-        "en": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
-        "de": "Russland sagt, seine Wirtschaft sei stark. Es hat gerade einen Top-Ökonomen entlassen, der das Gegenteil warnte"
+        "zh": "美国政府债务首次超过40万亿美元，十年内翻了一番",
+        "en": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+        "de": "Die US-Staatsverschuldung übersteigt 40 Billionen Dollar und hat sich in einem Jahrzehnt mehr als verdoppelt"
       },
       "summary": {
-        "zh": "俄罗斯在解雇警告其经济状况的顶级经济学家后，声称其经济依然强劲。这一举动引发了对俄罗斯经济前景的质疑。",
-        "en": "Russia claims its economy remains strong after firing a top economist who warned about its economic conditions. This move has raised questions about the future of the Russian economy.",
-        "de": "Russland behauptet, seine Wirtschaft sei weiterhin stark, nachdem es einen Top-Ökonomen entlassen hat, der vor den wirtschaftlichen Bedingungen gewarnt hatte. Dieser Schritt hat Fragen zur Zukunft der russischen Wirtschaft aufgeworfen."
+        "zh": "美国政府债务首次超过40万亿美元，十年来翻了一番。这一增长引发了对财政可持续性的担忧。",
+        "en": "U.S. government debt has surpassed $40 trillion for the first time, more than doubling in a decade. This increase raises concerns about fiscal sustainability.",
+        "de": "Die US-Staatsverschuldung hat zum ersten Mal 40 Billionen Dollar überschritten und sich in einem Jahrzehnt mehr als verdoppelt. Dieser Anstieg wirft Bedenken hinsichtlich der fiskalischen Nachhaltigkeit auf."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-18",
-      "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html"
+      "date": "2026-08-19",
+      "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国预算赤字在七月激增至自2021年三月以来的最高水平",
-        "en": "U.S. budget deficit surged in July to highest level since March 2021",
-        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021"
+        "zh": "特朗普对美联储利率政策感到不满，称美国应该支付更少",
+        "en": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+        "de": "Trump beklagt sich über die Zinspolitik der Fed und sagt, die USA sollten viel weniger zahlen"
       },
       "summary": {
-        "zh": "美国在七月的预算赤字激增至自2021年三月以来的最高水平，财政状况引发了对未来经济的担忧。",
-        "en": "The U.S. budget deficit surged in July to its highest level since March 2021, raising concerns about the future economic outlook.",
-        "de": "Das US-Budgetdefizit stieg im Juli auf den höchsten Stand seit März 2021, was Bedenken hinsichtlich der zukünftigen wirtschaftlichen Aussichten aufwarf."
+        "zh": "特朗普批评美联储的利率政策，认为美国应该支付更少的利息。他指责美联储官员有政治动机。",
+        "en": "Trump criticizes the Fed's interest rate policy, stating that the U.S. should be paying much less interest. He accuses Fed officials of having political motives.",
+        "de": "Trump kritisiert die Zinspolitik der Fed und erklärt, dass die USA viel weniger Zinsen zahlen sollten. Er beschuldigt die Fed-Beamten, politische Motive zu haben."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-12",
-      "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
+      "date": "2026-08-19",
+      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "股票、债券和黄金在财政部表示将购买更多政府债券以阻止收益率飙升后反弹",
-        "en": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
-        "de": "Aktien, Anleihen und Gold steigen, nachdem das Finanzministerium angibt, mehr Staatsanleihen kaufen zu wollen, um den Anstieg der Renditen zu stoppen"
+        "zh": "俄罗斯称其经济强劲，但刚刚解雇了一位警告相反的顶级经济学家",
+        "en": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+        "de": "Russland sagt, seine Wirtschaft sei stark. Es hat gerade einen Top-Ökonomen entlassen, der das Gegenteil warnte"
       },
       "summary": {
-        "zh": "在财政部表示将购买更多政府债券以阻止收益率飙升后，股票、债券和黄金市场反弹。这一措施被视为对市场的重大干预。",
-        "en": "Stocks, bonds, and gold markets rallied after the Treasury indicated it would buy more government bonds to prevent yields from surging. This measure is seen as a significant market intervention.",
-        "de": "Die Aktien-, Anleihen- und Goldmärkte stiegen, nachdem das Finanzministerium angab, mehr Staatsanleihen kaufen zu wollen, um den Anstieg der Renditen zu verhindern. Diese Maßnahme wird als bedeutende Marktintervention angesehen."
+        "zh": "俄罗斯政府声称其经济强劲，但刚刚解雇了一位警告其经济脆弱的顶级经济学家。这一矛盾引发了对俄罗斯经济健康状况的质疑。",
+        "en": "The Russian government claims its economy is strong but has just fired a top economist who warned of its fragility. This contradiction raises questions about the health of the Russian economy.",
+        "de": "Die russische Regierung behauptet, ihre Wirtschaft sei stark, hat jedoch gerade einen Top-Ökonomen entlassen, der vor ihrer Fragilität gewarnt hat. Dieser Widerspruch wirft Fragen zur Gesundheit der russischen Wirtschaft auf."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-08-19",
-      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-08-18",
+      "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html"
     }
   ]
 }
