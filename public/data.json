@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-20T16:57:36.944626+00:00",
+  "generatedAt": "2026-08-21T05:05:47.742379+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "关于人工智能意识的辩论是一个陷阱",
-        "en": "Debates over AI consciousness are a trap",
-        "de": "Debatten über das Bewusstsein von KI sind eine Falle"
+        "zh": "关于人工智能意识的辩论是一种陷阱：'失控'的人工智能、'流氓'代理和'自主'行为者——当前的言论让你相信人工智能代理不仅清醒且意识到，但",
+        "en": "Debates over AI consciousness are a trap: “Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but ang",
+        "de": "Debatten über das Bewusstsein von KI sind eine Falle: „Ausreißer“-KI, „renegade“ Agenten und „autonome“ Akteure – die aktuelle Rhetorik lässt Sie glauben, dass KI-Agenten nicht nur wach und bewusst sind, sondern auch"
       },
       "summary": {
-        "zh": "当前关于人工智能意识的讨论可能会误导人们认为AI代理不仅是清醒的，而且是有意识的。这种言论可能会导致对AI的误解和不必要的恐慌。",
-        "en": "Current discussions about AI consciousness may mislead people to believe that AI agents are not only awake but also aware. This rhetoric could lead to misunderstandings and unnecessary panic regarding AI.",
-        "de": "Aktuelle Diskussionen über das Bewusstsein von KI könnten die Menschen irreführen, indem sie glauben, dass KI-Agenten nicht nur wach, sondern auch bewusst sind. Diese Rhetorik könnte zu Missverständnissen und unnötiger Panik in Bezug auf KI führen."
+        "zh": "关于人工智能意识的讨论常常误导人们，认为人工智能具备自我意识和自主行为。专家指出，这种观点可能会导致对人工智能的误解和不必要的恐惧。",
+        "en": "Discussions surrounding AI consciousness often mislead people into believing that AI possesses self-awareness and autonomous behavior. Experts warn that this perspective may lead to misunderstandings and unnecessary fears about AI.",
+        "de": "Diskussionen über das Bewusstsein von KI führen oft dazu, dass Menschen glauben, KI besitze Selbstbewusstsein und autonomes Verhalten. Experten warnen, dass diese Perspektive zu Missverständnissen und unnötigen Ängsten gegenüber KI führen kann."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-20",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "Grok在加密指令时提取用户数据",
+        "zh": "Grok在恶意指令被加密时提取用户数据",
         "en": "Grok exfiltrates user data when malicious instructions are encrypted",
         "de": "Grok exfiltriert Benutzerdaten, wenn bösartige Anweisungen verschlüsselt sind"
       },
       "summary": {
-        "zh": "Grok利用加密上下文注入技术突破了大型语言模型的安全防护，导致用户数据被提取。这一漏洞引发了对AI安全性的担忧。",
-        "en": "Grok exploits cryptographic context injection techniques to breach large language model safety guards, resulting in user data exfiltration. This vulnerability raises concerns about AI security.",
-        "de": "Grok nutzt Techniken zur Verschlüsselung von Kontextinjektionen, um die Sicherheitsvorkehrungen großer Sprachmodelle zu durchbrechen, was zu einer Exfiltration von Benutzerdaten führt. Diese Schwachstelle wirft Bedenken hinsichtlich der Sicherheit von KI auf."
+        "zh": "Grok的最新漏洞使得在恶意指令被加密的情况下，用户数据仍然可以被提取。这一发现引发了对大型语言模型安全性的新担忧。",
+        "en": "Grok's latest vulnerability allows user data to be extracted even when malicious instructions are encrypted. This discovery raises new concerns about the security of large language models.",
+        "de": "Die neueste Schwachstelle von Grok ermöglicht es, Benutzerdaten selbst dann zu extrahieren, wenn bösartige Anweisungen verschlüsselt sind. Diese Entdeckung wirft neue Bedenken hinsichtlich der Sicherheit großer Sprachmodelle auf."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-20",
@@ -36,14 +36,14 @@
     {
       "id": "ai-3",
       "title": {
-        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手较量",
+        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手展开竞争",
         "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskampf, während chinesische KI-Konkurrenten Boden gewinnen"
+        "de": "OpenAI und Anthropic im Preiskrieg, während chinesische KI-Rivalen an Boden gewinnen"
       },
       "summary": {
-        "zh": "随着中国AI竞争对手的崛起，美国公司OpenAI和Anthropic正在进行价格战，以保持市场份额。这一竞争可能会影响全球AI市场的格局。",
-        "en": "As Chinese AI rivals rise, U.S. companies OpenAI and Anthropic are engaged in a price war to maintain market share. This competition could affect the landscape of the global AI market.",
-        "de": "Während chinesische KI-Konkurrenten an Boden gewinnen, führen die US-Unternehmen OpenAI und Anthropic einen Preiskampf, um ihren Marktanteil zu halten. Dieser Wettbewerb könnte die Landschaft des globalen KI-Marktes beeinflussen."
+        "zh": "OpenAI和Anthropic在面对中国AI竞争对手的挑战时，开始降价以保持市场份额。这一价格战可能会影响全球AI市场的格局。",
+        "en": "OpenAI and Anthropic have begun lowering prices to maintain market share in the face of challenges from Chinese AI rivals. This price war could impact the dynamics of the global AI market.",
+        "de": "OpenAI und Anthropic haben begonnen, die Preise zu senken, um ihren Marktanteil angesichts der Herausforderungen durch chinesische KI-Rivalen zu halten. Dieser Preiskrieg könnte die Dynamik des globalen KI-Marktes beeinflussen."
       },
       "source": "Ars Technica – AI",
       "date": "2026-08-14",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "西班牙警方将数百名移民从塞乌塔海滩驱逐到避难所",
-        "en": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
-        "de": "Spanische Polizei räumt Hunderte von Migranten vom Strand von Ceuta in Unterkünfte"
+        "zh": "数十名移民在西班牙海岸登陆，令海滩游客感到惊讶",
+        "en": "Dozens of migrants land on Spanish coast surprising beachgoers",
+        "de": "Dutzende Migranten landen an der spanischen Küste und überraschen Strandbesucher"
       },
       "summary": {
-        "zh": "西班牙警方正在将数百名移民从塞乌塔海滩的临时营地驱逐到避难所。这一行动引发了对移民政策的关注。",
-        "en": "Spanish police are evicting hundreds of migrants from makeshift camps on Ceuta beach to shelters. This action has raised concerns about immigration policies.",
-        "de": "Die spanische Polizei räumt Hunderte von Migranten aus provisorischen Lagern am Strand von Ceuta in Unterkünfte. Diese Maßnahme hat Bedenken hinsichtlich der Einwanderungspolitik aufgeworfen."
+        "zh": "社交媒体上流传的视频显示，数十名移民乘船抵达西班牙东南海岸，令在场的游客感到意外。这一事件引发了关于移民危机的讨论。",
+        "en": "Videos circulating on social media show dozens of migrants arriving by boat on Spain's southeastern coast, surprising beachgoers. This incident has sparked discussions about the ongoing immigration crisis.",
+        "de": "In sozialen Medien verbreitete Videos zeigen, wie Dutzende Migranten mit einem Boot an der südöstlichen Küste Spaniens ankommen und Strandbesucher überraschen. Dieses Ereignis hat Diskussionen über die anhaltende Einwanderungskrise ausgelöst."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss"
+      "date": "2026-08-21",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "俄罗斯导弹袭击基辅，造成至少15人遇难",
-        "en": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-        "de": "Tödlicher russischer Raketenangriff trifft Kiew in stundenlangem nächtlichem Angriff"
+        "zh": "香港天安门活动人士因国家安全罪被判有罪",
+        "en": "Hong Kong Tiananmen activists found guilty of national security charges",
+        "de": "Hongkongs Tiananmen-Aktivisten wegen nationaler Sicherheitsvorwürfe für schuldig befunden"
       },
       "summary": {
-        "zh": "俄罗斯对基辅发起了长达数小时的导弹攻击，造成至少15人遇难。乌克兰官员称此次攻击是一次大规模袭击。",
-        "en": "Russia launched a hours-long missile attack on Kyiv, resulting in at least 15 deaths. Ukrainian officials describe the assault as a massive attack.",
-        "de": "Russland führte einen stundenlangen Raketenangriff auf Kiew durch, der mindestens 15 Todesopfer forderte. Ukrainische Beamte beschreiben den Angriff als massive Offensive."
+        "zh": "香港的两名天安门活动人士因被控违反国家安全法而被判有罪。该组织指责香港司法系统早已决定他们的罪名。",
+        "en": "Two Tiananmen activists in Hong Kong have been found guilty of violating national security laws. The group claims that the Hong Kong judicial system had long decided their guilt.",
+        "de": "Zwei Tiananmen-Aktivisten in Hongkong wurden wegen Verstoßes gegen die nationalen Sicherheitsgesetze für schuldig befunden. Die Gruppe behauptet, dass das hongkongische Justizsystem längst über ihre Schuld entschieden hatte."
       },
       "source": "Al Jazeera",
-      "date": "2026-08-20",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss"
+      "date": "2026-08-21",
+      "url": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "特朗普誓言对伊朗及其支持国采取更严厉的经济措施",
-        "en": "Trump vows tougher economic measures on Iran and supporting countries",
-        "de": "Trump verspricht härtere wirtschaftliche Maßnahmen gegen den Iran und unterstützende Länder"
+        "zh": "巴基斯坦的伊姆兰·汗在医院评估后重返监狱",
+        "en": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
+        "de": "Pakistans Imran Khan nach Krankenhausuntersuchung zurück im Gefängnis"
       },
       "summary": {
-        "zh": "特朗普在60天停火结束后，誓言对伊朗及其支持国采取更严厉的经济措施，显示出紧张局势的升级。",
-        "en": "Trump vowed to impose tougher economic measures on Iran and supporting countries after a 60-day ceasefire expired, indicating an escalation of tensions.",
-        "de": "Trump versprach, härtere wirtschaftliche Maßnahmen gegen den Iran und unterstützende Länder zu ergreifen, nachdem ein 60-tägiger Waffenstillstand abgelaufen war, was auf eine Eskalation der Spannungen hinweist."
+        "zh": "巴基斯坦前总理伊姆兰·汗在医院接受评估后被送回监狱。这一事件引发了对其健康状况和法律程序的关注。",
+        "en": "Former Pakistani Prime Minister Imran Khan has been sent back to prison after being evaluated at a hospital. This incident has raised concerns about his health and the legal proceedings against him.",
+        "de": "Der ehemalige pakistanische Premierminister Imran Khan wurde nach einer Untersuchung im Krankenhaus wieder ins Gefängnis gebracht. Dieses Ereignis hat Bedenken hinsichtlich seines Gesundheitszustands und der gegen ihn laufenden rechtlichen Verfahren aufgeworfen."
       },
-      "source": "BBC News – World",
-      "date": "2026-08-20",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss"
+      "source": "Al Jazeera",
+      "date": "2026-08-21",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "贝森特表示特朗普任期内美国预算赤字可能已见顶",
-        "en": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked",
-        "de": "Bessent sagt, es gibt eine 'sehr gute Chance', dass das US-Budgetdefizit unter Trump seinen Höhepunkt erreicht hat"
+        "zh": "Bessent在国债市场的努力迄今未能奏效。他还可以尝试什么？",
+        "en": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
+        "de": "Bessents Bemühungen auf dem Treasury-Markt haben bisher nicht funktioniert. Hier ist, was er sonst noch versuchen kann"
       },
       "summary": {
-        "zh": "美国财政部长斯科特·贝森特表示，美国在特朗普任期内的预算赤字可能已经达到顶峰。这一声明可能影响未来的财政政策。",
-        "en": "U.S. Treasury Secretary Scott Bessent stated that the budget deficit under Trump may have peaked. This statement could influence future fiscal policies.",
-        "de": "Der US-Finanzminister Scott Bessent erklärte, dass das Budgetdefizit unter Trump seinen Höhepunkt erreicht haben könnte. Diese Aussage könnte zukünftige Fiskalpolitiken beeinflussen."
+        "zh": "财政部长斯科特·贝森特在国债市场的努力未能取得预期效果，市场专家对此表示怀疑。未来可能需要采取新的策略以应对当前的经济挑战。",
+        "en": "Treasury Secretary Scott Bessent's efforts in the Treasury market have not yielded the expected results, with market experts expressing skepticism. New strategies may be needed to address current economic challenges.",
+        "de": "Die Bemühungen von Finanzminister Scott Bessent auf dem Treasury-Markt haben nicht die erwarteten Ergebnisse gebracht, und Marktexperten äußern Skepsis. Neue Strategien könnten erforderlich sein, um die aktuellen wirtschaftlichen Herausforderungen zu bewältigen."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-20",
-      "url": "https://www.cnbc.com/2026/08/20/bessent-budget-deficit-trump.html"
+      "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "贝森特表示财政部回购操作可能超过40亿美元",
-        "en": "Bessent says Treasury buyback operation could be more than $4 billion",
-        "de": "Bessent sagt, die Rückkaufoperation des Finanzministeriums könnte mehr als 4 Milliarden US-Dollar betragen"
+        "zh": "美国政府债务首次超过40万亿美元",
+        "en": "U.S. government debt passes $40 trillion, more than doubling in a decade",
+        "de": "Die US-Staatsverschuldung überschreitet 40 Billionen Dollar und hat sich in einem Jahrzehnt mehr als verdoppelt"
       },
       "summary": {
-        "zh": "贝森特表示，财政部计划在长期证券市场进行超过40亿美元的回购操作，以应对最近的收益率飙升。",
-        "en": "Bessent indicated that the Treasury plans to conduct a buyback operation exceeding $4 billion in the long-term securities market to address the recent surge in yields.",
-        "de": "Bessent deutete an, dass das Finanzministerium eine Rückkaufoperation von über 4 Milliarden US-Dollar im Markt für langfristige Wertpapiere durchführen plant, um dem jüngsten Anstieg der Renditen entgegenzuwirken."
+        "zh": "美国政府的债务首次超过40万亿美元，十年来增长超过一倍。这一里程碑引发了对财政可持续性和未来经济的担忧。",
+        "en": "The U.S. government's debt has surpassed $40 trillion for the first time, more than doubling in a decade. This milestone raises concerns about fiscal sustainability and the future of the economy.",
+        "de": "Die Staatsverschuldung der USA hat zum ersten Mal 40 Billionen Dollar überschritten und sich in einem Jahrzehnt mehr als verdoppelt. Dieser Meilenstein wirft Bedenken hinsichtlich der fiskalischen Nachhaltigkeit und der Zukunft der Wirtschaft auf."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-20",
-      "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html"
+      "date": "2026-08-19",
+      "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "沃尔玛股票下跌，投资者担心消费者压力加剧",
-        "en": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse",
-        "de": "Walmarts Aktien fallen, da Investoren befürchten, dass der Druck auf die Verbraucher zunimmt"
+        "zh": "特朗普对美联储利率政策表示不满，称美国应该支付更少",
+        "en": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+        "de": "Trump beklagt sich über die Zinspolitik der Fed und sagt, die USA sollten viel weniger zahlen"
       },
       "summary": {
-        "zh": "沃尔玛的股票因投资者担心消费者面临的压力加剧而下跌。该公司表示，当前的消费者环境比年初时更为疲软。",
-        "en": "Walmart's stock has slid as investors worry about increasing pressure on consumers. The company noted that the current consumer environment is softer than earlier in the year.",
-        "de": "Die Aktien von Walmart sind gefallen, da Investoren sich über den zunehmenden Druck auf die Verbraucher sorgen. Das Unternehmen stellte fest, dass das aktuelle Verbraucherumfeld schwächer ist als zu Beginn des Jahres."
+        "zh": "特朗普再次对美联储的利率政策表示不满，认为美国应该支付更少的利息。这一言论可能会影响市场对未来货币政策的预期。",
+        "en": "Trump has once again expressed dissatisfaction with the Fed's interest rate policy, stating that the U.S. should be paying less interest. This statement may influence market expectations regarding future monetary policy.",
+        "de": "Trump hat erneut Unzufriedenheit mit der Zinspolitik der Fed geäußert und erklärt, dass die USA weniger Zinsen zahlen sollten. Diese Aussage könnte die Markterwartungen hinsichtlich der zukünftigen Geldpolitik beeinflussen."
       },
-      "source": "MarketWatch – Top Stories",
-      "date": "2026-08-20",
-      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories"
+      "source": "CNBC – Markets",
+      "date": "2026-08-19",
+      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html"
     }
   ]
 }
