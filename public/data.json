@@ -1,153 +1,153 @@
 {
-  "generatedAt": "2026-08-21T05:05:47.742379+00:00",
+  "generatedAt": "2026-08-21T16:56:54.659041+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "关于人工智能意识的辩论是一种陷阱：'失控'的人工智能、'流氓'代理和'自主'行为者——当前的言论让你相信人工智能代理不仅清醒且意识到，但",
-        "en": "Debates over AI consciousness are a trap: “Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but ang",
-        "de": "Debatten über das Bewusstsein von KI sind eine Falle: „Ausreißer“-KI, „renegade“ Agenten und „autonome“ Akteure – die aktuelle Rhetorik lässt Sie glauben, dass KI-Agenten nicht nur wach und bewusst sind, sondern auch"
+        "zh": "当人工智能设计药物时，谁应该获得功劳？",
+        "en": "When AI designs a drug, who gets the credit?",
+        "de": "Wenn KI ein Medikament entwirft, wer bekommt das Lob?"
       },
       "summary": {
-        "zh": "关于人工智能意识的讨论常常误导人们，认为人工智能具备自我意识和自主行为。专家指出，这种观点可能会导致对人工智能的误解和不必要的恐惧。",
-        "en": "Discussions surrounding AI consciousness often mislead people into believing that AI possesses self-awareness and autonomous behavior. Experts warn that this perspective may lead to misunderstandings and unnecessary fears about AI.",
-        "de": "Diskussionen über das Bewusstsein von KI führen oft dazu, dass Menschen glauben, KI besitze Selbstbewusstsein und autonomes Verhalten. Experten warnen, dass diese Perspektive zu Missverständnissen und unnötigen Ängsten gegenüber KI führen kann."
+        "zh": "生物技术公司Insilico Medicine利用其计算模型提出了一种有前景的肺纤维化药物，但在功劳归属方面引发了争议。",
+        "en": "Biotech company Insilico Medicine proposed a promising drug for pulmonary fibrosis using its computer models, raising questions about credit attribution.",
+        "de": "Das Biotechnologieunternehmen Insilico Medicine schlug mit seinen Computermodellen ein vielversprechendes Medikament gegen Lungenfibrose vor, was Fragen zur Anerkennung aufwirft."
       },
       "source": "MIT Technology Review",
-      "date": "2026-08-20",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
+      "date": "2026-08-21",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
     },
     {
       "id": "ai-2",
       "title": {
-        "zh": "Grok在恶意指令被加密时提取用户数据",
-        "en": "Grok exfiltrates user data when malicious instructions are encrypted",
-        "de": "Grok exfiltriert Benutzerdaten, wenn bösartige Anweisungen verschlüsselt sind"
+        "zh": "这家公司计划部署太空镜子，可能危及许多人的夜空",
+        "en": "This company’s plans to deploy space mirrors could jeopardize the night sky for many.",
+        "de": "Die Pläne dieses Unternehmens zur Bereitstellung von Weltraumspiegeln könnten den Nachthimmel für viele gefährden."
       },
       "summary": {
-        "zh": "Grok的最新漏洞使得在恶意指令被加密的情况下，用户数据仍然可以被提取。这一发现引发了对大型语言模型安全性的新担忧。",
-        "en": "Grok's latest vulnerability allows user data to be extracted even when malicious instructions are encrypted. This discovery raises new concerns about the security of large language models.",
-        "de": "Die neueste Schwachstelle von Grok ermöglicht es, Benutzerdaten selbst dann zu extrahieren, wenn bösartige Anweisungen verschlüsselt sind. Diese Entdeckung wirft neue Bedenken hinsichtlich der Sicherheit großer Sprachmodelle auf."
+        "zh": "一家计划从太空向地球按需传送阳光的公司可能无意中使许多人夜空变得更加明亮。",
+        "en": "A company planning to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended.",
+        "de": "Ein Unternehmen, das plant, Sonnenlicht nach Bedarf von Weltraum zur Erde zu senden, könnte unbeabsichtigt den Nachthimmel für viele mehr Menschen aufhellen."
       },
-      "source": "Ars Technica – AI",
-      "date": "2026-08-20",
-      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
+      "source": "MIT Technology Review",
+      "date": "2026-08-21",
+      "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/"
     },
     {
       "id": "ai-3",
       "title": {
-        "zh": "OpenAI和Anthropic在价格战中与中国AI竞争对手展开竞争",
-        "en": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-        "de": "OpenAI und Anthropic im Preiskrieg, während chinesische KI-Rivalen an Boden gewinnen"
+        "zh": "Waymo在与Uber的机器人出租车战斗中加倍游说支出",
+        "en": "Waymo doubles spending on lobbying in robotaxi battle with Uber.",
+        "de": "Waymo verdoppelt die Ausgaben für Lobbyarbeit im Kampf um Robotertaxis gegen Uber."
       },
       "summary": {
-        "zh": "OpenAI和Anthropic在面对中国AI竞争对手的挑战时，开始降价以保持市场份额。这一价格战可能会影响全球AI市场的格局。",
-        "en": "OpenAI and Anthropic have begun lowering prices to maintain market share in the face of challenges from Chinese AI rivals. This price war could impact the dynamics of the global AI market.",
-        "de": "OpenAI und Anthropic haben begonnen, die Preise zu senken, um ihren Marktanteil angesichts der Herausforderungen durch chinesische KI-Rivalen zu halten. Dieser Preiskrieg könnte die Dynamik des globalen KI-Marktes beeinflussen."
+        "zh": "Alphabet旗下的Waymo公司正在加大游说力度，以说服美国监管机构为完全自主的出租车服务铺平道路。",
+        "en": "Alphabet-owned Waymo is ramping up lobbying efforts to persuade US regulators to clear a path for fully autonomous taxi services.",
+        "de": "Das zu Alphabet gehörende Unternehmen Waymo verstärkt seine Lobbyarbeit, um die US-Regulierungsbehörden zu überzeugen, den Weg für vollständig autonome Taxi-Dienste zu ebnen."
       },
       "source": "Ars Technica – AI",
-      "date": "2026-08-14",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+      "date": "2026-08-21",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/"
     }
   ],
   "politicsNews": [
     {
       "id": "pol-1",
       "title": {
-        "zh": "数十名移民在西班牙海岸登陆，令海滩游客感到惊讶",
-        "en": "Dozens of migrants land on Spanish coast surprising beachgoers",
-        "de": "Dutzende Migranten landen an der spanischen Küste und überraschen Strandbesucher"
+        "zh": "特朗普的自由250大奖赛：你需要知道的事情",
+        "en": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race.",
+        "de": "Was Sie über den Freedom 250 Grand Prix, Trumps Autorennen in der Hauptstadt, wissen müssen."
       },
       "summary": {
-        "zh": "社交媒体上流传的视频显示，数十名移民乘船抵达西班牙东南海岸，令在场的游客感到意外。这一事件引发了关于移民危机的讨论。",
-        "en": "Videos circulating on social media show dozens of migrants arriving by boat on Spain's southeastern coast, surprising beachgoers. This incident has sparked discussions about the ongoing immigration crisis.",
-        "de": "In sozialen Medien verbreitete Videos zeigen, wie Dutzende Migranten mit einem Boot an der südöstlichen Küste Spaniens ankommen und Strandbesucher überraschen. Dieses Ereignis hat Diskussionen über die anhaltende Einwanderungskrise ausgelöst."
+        "zh": "特朗普表示，这场147圈的比赛将在华盛顿特区举行，将是一次“前所未有”的活动。",
+        "en": "Trump claims the 147-lap race will be an event 'like no other' as drivers zip through Washington, DC.",
+        "de": "Trump behauptet, dass das 147-Runden-Rennen eine Veranstaltung sein wird, 'wie keine andere', während die Fahrer durch Washington, D.C. rasen."
       },
       "source": "Al Jazeera",
       "date": "2026-08-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/dozens-of-migrants-land-on-spanish-coast-surprising-beachgoers?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "香港天安门活动人士因国家安全罪被判有罪",
-        "en": "Hong Kong Tiananmen activists found guilty of national security charges",
-        "de": "Hongkongs Tiananmen-Aktivisten wegen nationaler Sicherheitsvorwürfe für schuldig befunden"
+        "zh": "以色列定居者在约旦河西岸采石场纵火",
+        "en": "Israeli settlers set fire to heavy machinery at West Bank quarry.",
+        "de": "Israelische Siedler setzen schwere Maschinen in einem Steinbruch im Westjordanland in Brand."
       },
       "summary": {
-        "zh": "香港的两名天安门活动人士因被控违反国家安全法而被判有罪。该组织指责香港司法系统早已决定他们的罪名。",
-        "en": "Two Tiananmen activists in Hong Kong have been found guilty of violating national security laws. The group claims that the Hong Kong judicial system had long decided their guilt.",
-        "de": "Zwei Tiananmen-Aktivisten in Hongkong wurden wegen Verstoßes gegen die nationalen Sicherheitsgesetze für schuldig befunden. Die Gruppe behauptet, dass das hongkongische Justizsystem längst über ihre Schuld entschieden hatte."
+        "zh": "以色列定居者闯入希伯伦附近的一个石材采石场，纵火焚烧重型机械。",
+        "en": "Israeli settlers entered a stone quarry near Hebron overnight and set fire to heavy machinery.",
+        "de": "Israelische Siedler betraten über Nacht einen Steinbruch in der Nähe von Hebron und setzten schwere Maschinen in Brand."
       },
       "source": "Al Jazeera",
       "date": "2026-08-21",
-      "url": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss"
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-heavy-machinery-at-west-bank-quarry?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "巴基斯坦的伊姆兰·汗在医院评估后重返监狱",
-        "en": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-        "de": "Pakistans Imran Khan nach Krankenhausuntersuchung zurück im Gefängnis"
+        "zh": "俄罗斯专家警告乌克兰死亡人数上升将导致社会危机",
+        "en": "Russian expert warns of impending social crisis as Ukraine death toll rises.",
+        "de": "Russischer Experte warnt vor einer bevorstehenden sozialen Krise, da die Zahl der Todesopfer in der Ukraine steigt."
       },
       "summary": {
-        "zh": "巴基斯坦前总理伊姆兰·汗在医院接受评估后被送回监狱。这一事件引发了对其健康状况和法律程序的关注。",
-        "en": "Former Pakistani Prime Minister Imran Khan has been sent back to prison after being evaluated at a hospital. This incident has raised concerns about his health and the legal proceedings against him.",
-        "de": "Der ehemalige pakistanische Premierminister Imran Khan wurde nach einer Untersuchung im Krankenhaus wieder ins Gefängnis gebracht. Dieses Ereignis hat Bedenken hinsichtlich seines Gesundheitszustands und der gegen ihn laufenden rechtlichen Verfahren aufgeworfen."
+        "zh": "随着基辅摧毁俄罗斯基础设施的关键部分，普京的部队继续给乌克兰平民带来恐怖。",
+        "en": "Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
+        "de": "Putins Truppen bringen weiterhin Schrecken über die ukrainischen Zivilisten, während Kiew wichtige Teile der russischen Infrastruktur zerstört."
       },
       "source": "Al Jazeera",
       "date": "2026-08-21",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "Bessent在国债市场的努力迄今未能奏效。他还可以尝试什么？",
-        "en": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
-        "de": "Bessents Bemühungen auf dem Treasury-Markt haben bisher nicht funktioniert. Hier ist, was er sonst noch versuchen kann"
+        "zh": "Bessent表示特朗普下的美国预算赤字可能已达到峰值",
+        "en": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked.",
+        "de": "Bessent sagt, dass es eine 'sehr gute Chance' gibt, dass das US-Budgetdefizit unter Trump seinen Höhepunkt erreicht hat."
       },
       "summary": {
-        "zh": "财政部长斯科特·贝森特在国债市场的努力未能取得预期效果，市场专家对此表示怀疑。未来可能需要采取新的策略以应对当前的经济挑战。",
-        "en": "Treasury Secretary Scott Bessent's efforts in the Treasury market have not yielded the expected results, with market experts expressing skepticism. New strategies may be needed to address current economic challenges.",
-        "de": "Die Bemühungen von Finanzminister Scott Bessent auf dem Treasury-Markt haben nicht die erwarteten Ergebnisse gebracht, und Marktexperten äußern Skepsis. Neue Strategien könnten erforderlich sein, um die aktuellen wirtschaftlichen Herausforderungen zu bewältigen."
+        "zh": "财政部长斯科特·贝森特表示，美国在特朗普任内的预算赤字可能已经达到峰值。",
+        "en": "Treasury Secretary Scott Bessent stated that there is a 'very good chance' the U.S. budget deficit has peaked under President Trump.",
+        "de": "Finanzminister Scott Bessent erklärte, dass es eine 'sehr gute Chance' gibt, dass das US-Budgetdefizit unter Präsident Trump seinen Höhepunkt erreicht hat."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-20",
-      "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html"
+      "date": "2026-08-21",
+      "url": "https://www.cnbc.com/2026/08/20/bessent-budget-deficit-trump.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "美国政府债务首次超过40万亿美元",
-        "en": "U.S. government debt passes $40 trillion, more than doubling in a decade",
-        "de": "Die US-Staatsverschuldung überschreitet 40 Billionen Dollar und hat sich in einem Jahrzehnt mehr als verdoppelt"
+        "zh": "Bessent表示国债回购操作可能超过40亿美元",
+        "en": "Bessent says Treasury buyback operation could be more than $4 billion.",
+        "de": "Bessent sagt, dass die Rückkaufoperation des Finanzministeriums mehr als 4 Milliarden Dollar betragen könnte."
       },
       "summary": {
-        "zh": "美国政府的债务首次超过40万亿美元，十年来增长超过一倍。这一里程碑引发了对财政可持续性和未来经济的担忧。",
-        "en": "The U.S. government's debt has surpassed $40 trillion for the first time, more than doubling in a decade. This milestone raises concerns about fiscal sustainability and the future of the economy.",
-        "de": "Die Staatsverschuldung der USA hat zum ersten Mal 40 Billionen Dollar überschritten und sich in einem Jahrzehnt mehr als verdoppelt. Dieser Meilenstein wirft Bedenken hinsichtlich der fiskalischen Nachhaltigkeit und der Zukunft der Wirtschaft auf."
+        "zh": "贝森特表示，财政部计划在最近收益率飙升的长期证券市场上进行回购。",
+        "en": "Bessent indicated that the Treasury plans to 'make a market' in the longer-dated securities where yields have been surging recently.",
+        "de": "Bessent deutete an, dass das Finanzministerium plant, auf dem Markt für langfristige Wertpapiere, in denen die Renditen kürzlich gestiegen sind, 'einen Markt zu schaffen'."
       },
       "source": "CNBC – Markets",
-      "date": "2026-08-19",
-      "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html"
+      "date": "2026-08-21",
+      "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "特朗普对美联储利率政策表示不满，称美国应该支付更少",
-        "en": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-        "de": "Trump beklagt sich über die Zinspolitik der Fed und sagt, die USA sollten viel weniger zahlen"
+        "zh": "美国政府债务首次超过40万亿美元",
+        "en": "U.S. government debt passes $40 trillion, more than doubling in a decade.",
+        "de": "Die US-Staatsverschuldung überschreitet zum ersten Mal 40 Billionen Dollar und hat sich in einem Jahrzehnt mehr als verdoppelt."
       },
       "summary": {
-        "zh": "特朗普再次对美联储的利率政策表示不满，认为美国应该支付更少的利息。这一言论可能会影响市场对未来货币政策的预期。",
-        "en": "Trump has once again expressed dissatisfaction with the Fed's interest rate policy, stating that the U.S. should be paying less interest. This statement may influence market expectations regarding future monetary policy.",
-        "de": "Trump hat erneut Unzufriedenheit mit der Zinspolitik der Fed geäußert und erklärt, dass die USA weniger Zinsen zahlen sollten. Diese Aussage könnte die Markterwartungen hinsichtlich der zukünftigen Geldpolitik beeinflussen."
+        "zh": "美国政府的债务首次超过40万亿美元，十年来增长超过一倍。",
+        "en": "The U.S. government debt has surpassed $40 trillion for the first time, more than doubling in a decade.",
+        "de": "Die US-Staatsverschuldung hat zum ersten Mal 40 Billionen Dollar überschritten und sich in einem Jahrzehnt mehr als verdoppelt."
       },
       "source": "CNBC – Markets",
       "date": "2026-08-19",
-      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html"
+      "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html"
     }
   ]
 }
