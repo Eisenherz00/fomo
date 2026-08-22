@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-22T05:00:44.672092+00:00",
+  "generatedAt": "2026-08-22T16:45:33.650426+00:00",
   "aiNews": [
     {
       "id": "ai-1",
       "title": {
-        "zh": "当人工智能设计药物时，谁获得了荣誉？",
+        "zh": "当人工智能设计药物时，谁应该获得功劳？",
         "en": "When AI designs a drug, who gets the credit?",
         "de": "Wenn KI ein Medikament entwirft, wer erhält das Lob?"
       },
       "summary": {
-        "zh": "生物技术公司Insilico Medicine利用其计算机模型提出了一种有前景的肺纤维化药物，并对此表示热烈欢迎。该公司在AI药物开发中获得的信用问题引发了广泛讨论。",
-        "en": "Biotech company Insilico Medicine proposed a promising drug for pulmonary fibrosis using its computer models, which has sparked a broader discussion about credit in AI drug development.",
-        "de": "Das Biotechnologieunternehmen Insilico Medicine schlug mit seinen Computer-Modellen ein vielversprechendes Medikament gegen Lungenfibrose vor, was eine breitere Diskussion über die Anerkennung in der KI-Arzneimittelentwicklung ausgelöst hat."
+        "zh": "生物技术公司Insilico Medicine利用其计算机模型提出了一种有前景的肺纤维化药物，然而在AI设计药物的情况下，功劳归属问题引发了广泛讨论。",
+        "en": "Biotech company Insilico Medicine proposed a promising drug for pulmonary fibrosis using its computer models, raising widespread discussion about credit attribution in AI-designed drugs.",
+        "de": "Das Biotech-Unternehmen Insilico Medicine schlug ein vielversprechendes Medikament gegen Lungenfibrose vor, das mit seinen Computermodellen entwickelt wurde, was eine breite Diskussion über die Anerkennung bei KI-gestalteten Medikamenten auslöste."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-21",
@@ -20,14 +20,14 @@
     {
       "id": "ai-2",
       "title": {
-        "zh": "这家公司的太空镜计划可能危及许多人的夜空",
+        "zh": "这家公司的太空镜计划可能会危及许多人的夜空",
         "en": "This company’s plans to deploy space mirrors could jeopardize the night sky for many.",
         "de": "Die Pläne dieses Unternehmens zur Bereitstellung von Weltraumspiegeln könnten den Nachthimmel für viele gefährden."
       },
       "summary": {
-        "zh": "一家计划从太空向地球按需传送阳光的公司，可能会无意中使夜空变得更加明亮，影响更多人的生活。",
-        "en": "A company planning to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended.",
-        "de": "Ein Unternehmen, das plant, Sonnenlicht auf Abruf aus dem Weltraum zur Erde zu senden, könnte unbeabsichtigt den Nachthimmel für viele mehr Menschen aufhellen als beabsichtigt."
+        "zh": "一家计划从太空向地球按需传送阳光的公司，可能会无意中使许多人比预期的更亮的夜空。",
+        "en": "A company planning to beam sunlight from space to Earth on demand may unintentionally brighten the night sky for many more people than intended.",
+        "de": "Ein Unternehmen, das plant, Sonnenlicht auf Abruf aus dem Weltraum zur Erde zu senden, könnte unbeabsichtigt den Nachthimmel für viele mehr Menschen als beabsichtigt aufhellen."
       },
       "source": "MIT Technology Review",
       "date": "2026-08-21",
@@ -38,12 +38,12 @@
       "title": {
         "zh": "Waymo在与Uber的机器人出租车战斗中加倍游说支出",
         "en": "Waymo doubles spending on lobbying in robotaxi battle with Uber.",
-        "de": "Waymo verdoppelt die Ausgaben für Lobbyarbeit im Kampf um Robotaxis gegen Uber."
+        "de": "Waymo verdoppelt die Ausgaben für Lobbyarbeit im Kampf um Robotertaxis gegen Uber."
       },
       "summary": {
-        "zh": "Alphabet旗下的Waymo公司正在加大游说力度，以说服美国监管机构为完全自动驾驶出租车服务铺平道路。",
-        "en": "Alphabet-owned Waymo is ramping up its lobbying efforts to persuade U.S. regulators to clear a path for fully autonomous taxi services.",
-        "de": "Das zu Alphabet gehörende Unternehmen Waymo verstärkt seine Lobbyarbeit, um die US-Regulierungsbehörden davon zu überzeugen, den Weg für vollständig autonome Taxidienste freizumachen."
+        "zh": "Alphabet旗下的Waymo公司正在加大游说力度，以说服美国监管机构为完全自动化的出租车服务铺平道路。",
+        "en": "Alphabet-owned Waymo is ramping up lobbying efforts to persuade U.S. regulators to clear a path for fully autonomous taxi services.",
+        "de": "Das zu Alphabet gehörende Unternehmen Waymo verstärkt seine Lobbyarbeit, um die US-Regulierungsbehörden davon zu überzeugen, den Weg für vollständig autonome Taxi-Dienste freizumachen."
       },
       "source": "Ars Technica",
       "date": "2026-08-21",
@@ -54,100 +54,100 @@
     {
       "id": "pol-1",
       "title": {
-        "zh": "美国对200亿美元的加拿大商品征收50%的关税，谈判失败后",
-        "en": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail.",
-        "de": "Die USA erheben 50 % Zölle auf Waren im Wert von 20 Milliarden US-Dollar aus Kanada, nachdem die Gespräche gescheitert sind."
+        "zh": "超过100名前外交官敦促法国和英国对以色列实施制裁",
+        "en": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine.",
+        "de": "Über 100 ehemalige Diplomaten fordern Frankreich und das Vereinigte Königreich auf, Israel wegen Palästina zu sanktionieren."
       },
       "summary": {
-        "zh": "由于未能达成贸易协议，加拿大总理表示，加拿大将“逐美元”匹配关税。此举可能加剧两国之间的贸易紧张关系。",
-        "en": "After failing to secure a trade agreement, Canadian Prime Minister stated that Canada will match tariffs 'dollar for dollar'. This move could escalate trade tensions between the two countries.",
-        "de": "Nachdem es nicht gelungen war, ein Handelsabkommen zu sichern, erklärte der kanadische Premierminister, dass Kanada die Zölle „Dollar für Dollar“ anpassen wird. Dieser Schritt könnte die Handels Spannungen zwischen den beiden Ländern verschärfen."
+        "zh": "一封公开信要求禁止武器转让，并冻结欧盟与以色列及英以之间的贸易协议。",
+        "en": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
+        "de": "Ein offener Brief fordert ein Verbot von Waffenlieferungen und eine Aussetzung der Handelsabkommen zwischen der EU und Israel sowie zwischen dem Vereinigten Königreich und Israel."
       },
       "source": "Al Jazeera",
       "date": "2026-08-22",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss"
     },
     {
       "id": "pol-2",
       "title": {
-        "zh": "美国法官推翻特朗普影响75个国家的移民签证禁令",
-        "en": "US judge strikes down Trump immigrant visa ban affecting 75 countries.",
-        "de": "US-Richter hebt Trumps Einwanderungsvisumverbot auf, das 75 Länder betrifft."
+        "zh": "以色列无人机袭击叙利亚“平民车辆”，造成多人受伤",
+        "en": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria.",
+        "de": "Israeliischer Drohnenangriff auf ein 'ziviles Fahrzeug' verletzt mehrere in Syrien."
       },
       "summary": {
-        "zh": "曼哈顿的一名联邦法官裁定，国务院暂停移民签证的决定是无效的。这一裁决可能影响数以万计的移民。",
-        "en": "A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas. This ruling could affect tens of thousands of immigrants.",
-        "de": "Ein Bundesrichter in Manhattan entschied gegen die Aussetzung von Einwanderungsvisa durch das Außenministerium. Dieses Urteil könnte Zehntausende von Einwanderern betreffen."
+        "zh": "叙利亚谴责此次袭击为对其主权的“公然侵犯”，并称其为“明显违反国际法”。",
+        "en": "Syria condemns the attack as a 'flagrant violation of sovereignty' and a 'blatant breach of international law'.",
+        "de": "Syrien verurteilt den Angriff als 'offensichtliche Verletzung der Souveränität' und als 'eindeutigen Verstoß gegen das Völkerrecht'."
       },
       "source": "Al Jazeera",
       "date": "2026-08-22",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss"
+      "url": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss"
     },
     {
       "id": "pol-3",
       "title": {
-        "zh": "巴勒斯坦青少年在西岸袭击中被枪杀，联合国回应",
-        "en": "Palestinian teen shot and killed in West Bank attack, UN responds.",
-        "de": "Palästinensischer Teenager bei Angriff im Westjordanland erschossen, UN reagiert."
+        "zh": "卡尼称特朗普的新关税是“误算”",
+        "en": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse.",
+        "de": "Carney nennt Trumps neue Zölle eine 'Fehlkalkulation', nachdem die Handelsgespräche gescheitert sind."
       },
       "summary": {
-        "zh": "在被占领的西岸，一名17岁的巴勒斯坦人在定居者袭击中被杀，另有一人重伤。联合国对此事件表示关注。",
-        "en": "A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank. The UN has expressed concern over the incident.",
-        "de": "Ein 17-jähriger Palästinenser wurde bei einem Siedlerangriff im besetzten Westjordanland getötet, ein weiterer Mensch wurde schwer verletzt. Die UN hat ihre Besorgnis über den Vorfall geäußert."
+        "zh": "加拿大总理马克·卡尼在周六的讲话中表示，加拿大为了保护其主权而离开谈判桌。",
+        "en": "Canadian Prime Minister Mark Carney stated in a speech on Saturday that Canada walked away from the negotiation table to protect its sovereignty.",
+        "de": "Der kanadische Premierminister Mark Carney erklärte in einer Rede am Samstag, dass Kanada den Verhandlungstisch verlassen hat, um seine Souveränität zu schützen."
       },
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "date": "2026-08-22",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss"
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "stockNews": [
     {
       "id": "stk-1",
       "title": {
-        "zh": "贝森特在国债市场的努力迄今未能奏效。他还可以尝试什么？",
-        "en": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try.",
-        "de": "Bessents Bemühungen auf dem Staatsanleihemarkt haben bisher nicht funktioniert. Hier sind weitere Möglichkeiten, die er ausprobieren kann."
+        "zh": "贝森特的债券策略旨在平息市场，反而引发通胀担忧",
+        "en": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries.",
+        "de": "Bessents Anleihe-Gambit, das darauf abzielt, die Märkte zu beruhigen, weckt stattdessen Inflationssorgen."
       },
       "summary": {
-        "zh": "市场专家对贝森特在国债市场的努力表示怀疑，认为他面临多种不利因素。未来的策略可能需要重新评估。",
-        "en": "Market experts expressed skepticism about Bessent's efforts in the Treasury market, suggesting that he faces a multitude of adverse factors. Future strategies may need reassessment.",
-        "de": "Marktexperten äußerten Skepsis gegenüber Bessents Bemühungen auf dem Staatsanleihemarkt und deuteten darauf hin, dass er mit einer Vielzahl von nachteiligen Faktoren konfrontiert ist. Zukünftige Strategien müssen möglicherweise neu bewertet werden."
+        "zh": "贝森特的策略未能如预期那样平息市场，反而导致了对通胀的担忧，所谓的 breakeven 率达到了两个月以来的最高水平。",
+        "en": "Bessent's strategy has not calmed the markets as intended, instead stirring inflation worries, with the so-called breakeven rate hitting its highest levels in over two months.",
+        "de": "Bessents Strategie hat die Märkte nicht wie beabsichtigt beruhigt, sondern stattdessen Inflationssorgen geweckt, wobei der sogenannte Breakeven-Satz die höchsten Werte seit über zwei Monaten erreicht hat."
       },
-      "source": "CNBC",
+      "source": "CNBC – Markets",
       "date": "2026-08-21",
-      "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html"
+      "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html"
     },
     {
       "id": "stk-2",
       "title": {
-        "zh": "贝森特表示特朗普时期的美国预算赤字可能已达到峰值",
-        "en": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked.",
-        "de": "Bessent sagt, dass es eine 'sehr gute Chance' gibt, dass das US-Budgetdefizit unter Trump seinen Höhepunkt erreicht hat."
+        "zh": "美国政府债务首次突破40万亿美元",
+        "en": "U.S. government debt passes $40 trillion, more than doubling in a decade.",
+        "de": "Die US-Staatsverschuldung überschreitet zum ersten Mal 40 Billionen Dollar und hat sich in einem Jahrzehnt mehr als verdoppelt."
       },
       "summary": {
-        "zh": "财政部长斯科特·贝森特表示，美国在特朗普任内的预算赤字可能已达到峰值，这一说法引发了市场的关注。",
-        "en": "Treasury Secretary Scott Bessent stated that there is a 'very good chance' the U.S. budget deficit peaked under President Trump, drawing market attention.",
-        "de": "Finanzminister Scott Bessent erklärte, dass es eine 'sehr gute Chance' gibt, dass das US-Budgetdefizit unter Präsident Trump seinen Höhepunkt erreicht hat, was die Aufmerksamkeit des Marktes auf sich zieht."
+        "zh": "美国政府债务首次超过40万亿美元，十年来增长超过一倍，显示出国家财政的持续压力。",
+        "en": "The U.S. government debt has surpassed $40 trillion for the first time, more than doubling in a decade, reflecting ongoing fiscal pressures.",
+        "de": "Die US-Staatsverschuldung hat zum ersten Mal 40 Billionen Dollar überschritten und sich in einem Jahrzehnt mehr als verdoppelt, was auf anhaltenden finanziellen Druck hinweist."
       },
-      "source": "CNBC",
-      "date": "2026-08-21",
-      "url": "https://www.cnbc.com/2026/08/20/bessent-budget-deficit-trump.html"
+      "source": "CNBC – Markets",
+      "date": "2026-08-19",
+      "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html"
     },
     {
       "id": "stk-3",
       "title": {
-        "zh": "特斯拉的股票因公司获得拉斯维加斯机器人出租车推出许可而上涨",
-        "en": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch.",
-        "de": "Die Tesla-Aktien steigen, da das Unternehmen die Genehmigung für den Start eines Robotaxis in Las Vegas erhält."
+        "zh": "财政部的公告引发黄金和比特币的反弹",
+        "en": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week.",
+        "de": "Warum eine Ankündigung des Finanzministeriums diese Woche einen Anstieg bei Gold und Bitcoin auslöste."
       },
       "summary": {
-        "zh": "特斯拉计划在德克萨斯州奥斯汀推出其Cybercab，并获得在内华达州部署数千辆车辆的许可，这推动了其股票上涨。",
-        "en": "Tesla plans to launch its Cybercab in Austin, Texas, and has received approval to deploy thousands of vehicles in Nevada, boosting its stock.",
-        "de": "Tesla plant, sein Cybercab in Austin, Texas, einzuführen, und hat die Genehmigung erhalten, Tausende von Fahrzeugen in Nevada einzusetzen, was den Aktienkurs anhebt."
+        "zh": "在财政部宣布计划加倍其债券购买后，黄金和加密货币价格上涨，而美元则走弱。",
+        "en": "Following the Treasury Department's announcement of plans to double its bond purchases, gold and cryptocurrency prices surged while the U.S. dollar weakened.",
+        "de": "Nach der Ankündigung des Finanzministeriums, seine Anleihekäufe zu verdoppeln, stiegen die Preise für Gold und Kryptowährungen, während der US-Dollar schwächer wurde."
       },
-      "source": "MarketWatch",
-      "date": "2026-08-21",
-      "url": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories"
+      "source": "MarketWatch – Top Stories",
+      "date": "2026-08-22",
+      "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories"
     }
   ]
 }
